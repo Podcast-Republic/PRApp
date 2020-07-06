@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_list">
+        <item>Albânia </item>
+        <item>Argélia </item>
+        <item>Angola </item>
+        <item>Anguilla </item>
+        <item>Argentina </item>
+        <item>Armênia </item>
+        <item>Austrália </item>
+        <item>Áustria </item>
+        <item>Azerbaijão </item>
+        <item>Bahamas </item>
+        <item>Bahrain </item>
+        <item>Bélgica </item>
+        <item>Bolívia </item>
+        <item>Brasil </item>
+        <item>Camboja </item>
+        <item>Canadá </item>
+        <item>Chile </item>
+        <item>China </item>
+        <item>Colômbia </item>
+        <item>Costa Rica </item>
+        <item>Croácia </item>
+        <item>Chipre </item>
+        <item>República Checa </item>
+        <item>Dinamarca </item>
+        <item>Equador </item>
+        <item>Egito </item>
+        <item>Finlândia </item>
+        <item>França </item>
+        <item>Alemanha </item>
+        <item>Grécia </item>
+        <item>Hong Kong </item>
+        <item>Hungria </item>
+        <item>Islândia </item>
+        <item>Índia </item>
+        <item>Indonésia </item>
+        <item>Irlanda </item>
+        <item>Israel </item>
+        <item>Itália </item>
+        <item>Jamaica </item>
+        <item>Japão </item>
+        <item>Jordânia </item>
+        <item>Cazaquistão </item>
+        <item>Quênia </item>
+        <item>Coréia </item>
+        <item>Kuweit </item>
+        <item>Quirguistão </item>
+        <item>Letônia</item>
+        <item>Lituânia</item>
+        <item>Luxemburgo </item>
+        <item>Macau </item>
+        <item>Malásia </item>
+        <item>México </item>
+        <item>Mongólia </item>
+        <item>Holanda </item>
+        <item>nova Zelândia </item>
+        <item>Noruega </item>
+        <item>Paquistão </item>
+        <item>Peru </item>
+        <item>Filipinas </item>
+        <item>Polônia </item>
+        <item>Portugal </item>
+        <item>Catar </item>
+        <item>Romênia </item>
+        <item>Rússia </item>
+        <item>Arábia Saudita </item>
+        <item>Sérvia</item>
+        <item>Cingapura </item>
+        <item>Eslováquia </item>
+        <item>Eslovenia </item>
+        <item>África do Sul </item>
+        <item>Espanha </item>
+        <item>Sri Lanka </item>
+        <item>Suécia </item>
+        <item>Suíça </item>
+        <item>Taiwan </item>
+        <item>Tadjiquistão </item>
+        <item>Tailândia </item>
+        <item>Tunísia </item>
+        <item>Turquia </item>
+        <item>Ucrânia </item>
+        <item>Emirados Árabes Unidos </item>
+        <item>Grã-Bretanha </item>
+        <item>Estados Unidos </item>
+        <item>Venezuela </item>
+        <item>Vietnã</item>
+    </string-array>
+
+    <string name="pref_auto_delete_played_summary">"Eliminar automaticamente da playlist o episódio reproduzido"</string>
+    <string name="pref_downloadLocation">"Transferir podcast para:"</string>
+    <string name="downloads">"Transferências"</string>
+    <string name="jump_to_next_episode">"Memorizar a posição actual de reprodução"</string>
+    <string name="jump_to_the_end">"Marcar como concluído"</string>
+    <string name="delete_download">"Eliminar a transferência"</string>
+    <string name="pause_download">"Pausar a transferência"</string>
+    <string name="resume_download">"Continuar a transferência"</string>
+    <string name="delete">"Eliminar"</string>
+    <string name="now_playing">"Em reprodução"</string>
+    <string name="stop">"Parar"</string>
+    <string name="pause">"Pausa"</string>
+    <string name="favorite">"Favorito"</string>
+    <string name="favorites">"Favoritos"</string>
+    <string name="whats_new">"Novidades"</string>
+    <string name="more">"Mais"</string>
+    <string name="unplayed">"Não reproduzido"</string>
+    <string name="played">"Reproduzido"</string>
+    <string name="country_text">"País/Região:"</string>
+    <string name="organize_podcasts">"Organizar assinaturas"</string>
+    <string name="add_podcasts">"Adicionar podcast"</string>
+    <string name="add_a_podcast_by_url">"Adicionar podcast via URL"</string>
+    <string name="all">"Todos"</string>
+    <string name="arts">"Artes"</string>
+    <string name="business">"Negócios"</string>
+    <string name="comedy">"Comédia"</string>
+    <string name="education">"Educação"</string>
+    <string name="games">"Jogos &amp; Passatempos"</string>
+    <string name="government">"Governo &amp; Instituições"</string>
+    <string name="health_fitness">"Saúde"</string>
+    <string name="kids">"Crianças &amp; Família"</string>
+    <string name="music">"Música"</string>
+    <string name="news">"Notícias &amp; Política"</string>
+    <string name="region">"Religião &amp; Espiritualidade"</string>
+    <string name="science">"Ciência &amp; Medicina"</string>
+    <string name="society">"Sociedade &amp; Cultura"</string>
+    <string name="sports">"Desporto &amp; Lazer"</string>
+    <string name="tech">"Tecnologia"</string>
+    <string name="tv">"TV &amp; Cinema"</string>
+    <string name="title">"Título"</string>
+    <string name="provider">"Fornecedor"</string>
+    <string name="image_url">"URL da imagem"</string>
+    <string name="items_in_red_are_required_">"Itens a vermelho são obrigatórios."</string>
+    <string name="cancel">"Cancelar"</string>
+    <string name="add">"Adicionar"</string>
+    <string name="publisher">"Editor"</string>
+    <string name="description_of_podcast">"Descrição do podcast"</string>
+    <string name="description">"Descrição"</string>
+    <string name="play">"Reproduzir"</string>
+    <string name="share">"Partilhar"</string>
+    <string name="add_to_playlist">"Adicionar à playlist"</string>
+    <string name="end_editing_mode">"Terminar modo de edição"</string>
+    <string name="download_selection_s_">"Transferir selecção(ões)"</string>
+    <string name="add_selection_s_to_playlist">"Adicionar selecção(ões) à playlist"</string>
+    <string name="set">"Definir"</string>
+    <string name="remove_selection_s_from_download_list">"Remover selecção(ões) da playlist de transferências"</string>
+    <string name="no_episode_selected">"Nenhum episódio seleccionado"</string>
+    <string name="set_played">"Marcar como reproduzido"</string>
+    <string name="set_unplayed">"Marcar como não reproduzido"</string>
+    <string name="delete_episode">"Eliminar episódio"</string>
+    <string name="One_episode_has_been_added_to_playlist">"Um episódio foi adicionado à playlist"</string>
+    <string name="episodes_have_been_added_to_playlist">"%1$d episódios foram adicionados à playlist"</string>
+    <string name="One_episode_has_been_added_to_downloads">"Um episódio foi adicionado às transferências"</string>
+    <string name="episodes_have_been_added_to_downloads">"%1$d episódios foram adicionados às transferências"</string>
+    <string name="download_episode_not_found">"Episódio transferido não encontrado"</string>
+    <string name="yes">"Sim"</string>
+    <string name="ok">"OK"</string>
+    <string name="no">"Não"</string>
+    <string name="close">"Fechar"</string>
+    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Episódio [ %1$s ] transferido não foi encontrado. O que gostaria de fazer?"</string>
+    <string name="episode_downloading">"A transferir"</string>
+    <string name="subscribe">"Subscrever"</string>
+    <string name="unsubscribe">"Cancelar a subscrição"</string>
+    <string name="settings">"Definições"</string>
+    <string name="remove_ad">"Remover os anúncios"</string>
+    <string name="playlists">"Playlists"</string>
+    <string name="there_is_no_podcast_playing">"Não há podcast em reprodução"</string>
+    <string name="press_again_to_exit">"Pressione novamente para sair."</string>
+    <string name="paused">"Pausado"</string>
+    <string name="stopped_on_error">"Parou em caso de erro"</string>
+    <string name="error_downloaded_file_not_found">"Erro: ficheiro transferido não encontrado"</string>
+    <string name="stopped">"Parado"</string>
+    <string name="completed">"Concluído"</string>
+    <string name="export_completed_s">"Exportação concluída: %1$s"</string>
+    <string name="import_completed">"Importação concluída"</string>
+    <string name="no_wifi_available">"Rede Wi-Fi não disponível!"</string>
+    <string name="tag">"Etiqueta"</string>
+    <string name="updating">"A actualizar"</string>
+    <string name="preparing">"A preparar…"</string>
+    <string name="error_no_wifi">"Erro: Sem Wi-Fi"</string>
+    <string name="auto_download">"Transferência automática"</string>
+    <string name="playing">"A reproduzir"</string>
+    <string name="subscriptions">"Assinaturas"</string>
+    <string name="help_faqs">"Ajuda / FAQs"</string>
+    <string name="next">"Próximo"</string>
+    <string name="file_date">"Data"</string>
+    <string name="publishing_date">"Data de publicação"</string>
+    <string name="sort_manually">"Manualmente"</string>
+    <string name="Update_podcasts">"A verificar actualização dos podcasts"</string>
+    <string name="sort_by">"Ordenar por…"</string>
+    <string name="last_updated_time">"Data da última actualização"</string>
+    <string name="most_recent_count">"Mais recente"</string>
+    <string name="total_unplayed_count">"Total de não reproduzidos"</string>
+    <string name="refresh">"Actualizar"</string>
+    <string name="stream">"Stream"</string>
+    <string name="remove">"Remover"</string>
+    <string name="redownload">"Transferir novamente"</string>
+    <string name="download_all">"Transferir tudo"</string>
+    <string name="download_all_d_episodes">"Transferir todos os %1$d episódios?"</string>
+    <string name="display">"Mostrar"</string>
+    <string name="when_i_press_next_button">"Ao pressionar saltar"</string>
+    <string name="background_play">"Reprodução em segundo plano"</string>
+    <string name="user_interface">"Interface do utilizador"</string>
+    <string name="show_description">"Mostrar a descrição"</string>
+    <string name="update_on_start">"Actualizar no início"</string>
+    <string name="media_player">"Leitor"</string>
+    <string name="download_location">"Local das transferências"</string>
+    <string name="change_log">"Registo de alterações"</string>
+    <string name="view_what_s_new_in_this_version">"Novidades desta versão"</string>
+    <string name="version">"Versão"</string>
+    <string name="about">"Sobre"</string>
+    <string name="action_">"Acção: "</string>
+    <string name="action">"Acção"</string>
+    <string name="download_only_when_connected_to_wifi">"Transferir apenas quando ligado via Wi-Fi"</string>
+    <string name="add_to_new_tag">"Adicionar a uma etiqueta nova"</string>
+    <string name="enter_new_tag_name">"Introduzir o nome da nova etiqueta"</string>
+    <string name="car_mode">"Modo de Automóvel"</string>
+    <string name="update_artwork">"Actualizar imagem"</string>
+    <string name="enter_new_artwork_url">"Introduzir um URL para a nova imagem"</string>
+    <string name="sleep_timer">"Temporizador do modo de suspensão"</string>
+    <string name="last_updated_s">"Última actualização: %1$s"</string>
+    <string name="fast_forward">"Avançar"</string>
+    <string name="fast_rewind">"Recuar"</string>
+    <string name="play_pause">"Reproduzir/Pausa"</string>
+    <string name="none">"Nenhum"</string>
+    <string name="sort_asc">"Ordem crescente"</string>
+    <string name="sort_desc">"Ordem decrescente"</string>
+    <string name="undo_delete">"Anular eliminar"</string>
+    <string name="language">"Língua"</string>
+    <string name="equalizer">"Equalizador"</string>
+    <string name="sort">"Ordenar"</string>
+    <string name="continue_">"Continuar"</string>
+    <string name="delete_from_playlists">"Eliminar da playlist"</string>
+    <string name="keep_in_playlists">"Manter na playlist"</string>
+    <string name="remember_the_choice">"Memorizar a escolha"</string>
+    <string name="when_deleting_a_download">"Quando eliminar a transferência"</string>
+    <string name="all_episodes">"Todos os episódios"</string>
+    <string name="latest_d_episodes">Últimos %d episódios</string>
+    <string name="system_default">"Padrão do sistema"</string>
+    <string name="every_one_hour">"A cada hora"</string>
+    <string name="every_three_hours">"A cada três horas"</string>
+    <string name="every_six_hours">A cada seis horas</string>
+    <string name="every_half_day">"A cada meio dia"</string>
+    <string name="every_day">"Diariamente"</string>
+    <string name="every_three_days">A cada 3 dias</string>
+    <string name="manually">"Manualmente"</string>
+    <string name="do_not_check">"Não verificar"</string>
+    <string name="newest_first">"Mais novos primeiro"</string>
+    <string name="oldest_first">"Mais antigos primeiro"</string>
+    <string name="on">"Ligado"</string>
+    <string name="off">"Desligado"</string>
+    <string name="stop_sleep_timer">Desligado</string>
+
+    <string-array name="ui_theme_text">
+        <item>Tudo branco</item>
+        <item>Branco</item>
+        <item>"Vermelho"</item>
+        <item>"Rosa"</item>
+        <item>"Roxo"</item>
+        <item>"Roxo Escuro"</item>
+        <item>"Índigo"</item>
+        <item>"Azul"</item>
+        <item>"Azul claro"</item>
+        <item>"Azul-marinho"</item>
+        <item>"Azul-marinho escuro"</item>
+        <item>"Verde"</item>
+        <item>"Verde claro"</item>
+        <item>"Âmbar"</item>
+        <item>"Laranja"</item>
+        <item>"Laranja escuro"</item>
+        <item>"Azul acinzentado"</item>
+        <item>"Escuro"</item>
+        <item>Preto AMOLED</item>
+    </string-array>
+
+    <string name="theme">"Tema"</string>
+    <string name="skip_beginning">"Saltar início"</string>
+    <string name="time_display_second_short_format">"seg"</string>
+    <string name="search_episode_title">"Pesquisar título de episódio"</string>
+    <string name="search_episodes">"Pesquisar episódio"</string>
+    <string name="widgets">Widgets</string>
+    <string name="background_transparency">"Transparência do fundo"</string>
+    <string name="low">"Baixo"</string>
+    <string name="high">"Alto"</string>
+    <string name="gesture_sensitivity">"Sensibilidade dos gestos"</string>
+    <string name="view_library_as">"Navegar como…"</string>
+    <string name="list_view">"Exibição em playlist"</string>
+    <string name="grid_view">"Exibição em grelha"</string>
+    <string name="playlist_mode">"Modo de playlist"</string>
+    <string name="single_play_mode">"Modo de reprodução única"</string>
+    <string name="has_been_added_to_subscription">" foi adicionado à assinatura"</string>
+    <string name="audio_not_started_yet">"O áudio ainda não iniciou!"</string>
+    <string name="manage_playlist">"Gerir playlists"</string>
+    <string name="download">"Transferir"</string>
+    <string name="fast_forward_time">"Tempo de avanço"</string>
+    <string name="fast_rewind_time">"Tempo de recuo"</string>
+    <string name="play_stop">"Reproduzir/Parar"</string>
+    <string name="buttons">"Botões"</string>
+    <string name="when_lost_audio_focus">"Quando o áudio é temporariamente interrompido"</string>
+    <string name="lower_audio_volume">"Baixar o volume"</string>
+    <string name="pause_the_playback">"Pausar a reprodução"</string>
+    <string name="rewind_5_seconds">"Recuar 5 segundos"</string>
+    <string name="repeat">"Repetir"</string>
+    <string name="keep_downloads">"Manter a transferência"</string>
+    <string name="when_deleting_from_playlist">"Ao eliminar da playlist"</string>
+    <string name="search">"Pesquisar"</string>
+    <string name="edit">"Editar"</string>
+    <string name="time_display_minute_short_format">"min"</string>
+    <string name="keep_screen_on">"Manter o ecrã ligado"</string>
+    <string name="backup_restore">"Cópia de Segurança &amp; Restauro"</string>
+    <string name="backup">"Cópia de segurança"</string>
+    <string name="restore_settings_database">"Pressione para restaurar as definições e base de dados"</string>
+    <string name="restore">"Restauro"</string>
+    <string name="erase_data_and_restore_from_backup_">"Eliminar dados e restaurar a partir da cópia de segurança?"</string>
+    <string name="restore_successful">"Restauro bem sucedido"</string>
+    <string name="restore_failed">"O restauro falhou"</string>
+    <string name="backup_successful_s">"Cópia de segurança bem sucedida: %1$s"</string>
+    <string name="backup_failed_">"A cópia de segurança falhou!"</string>
+    <string name="when_headset_bluetooth_disconnected">"Quando o auricular/Bluetooth é desconectado"</string>
+    <string name="volume">"Volume"</string>
+    <string name="add_a_virtual_podcast">"Adicionar podcast virtual"</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Criar um repositório de podcast virtual, seleccionando uma pasta no dispositivo. Cada ficheiro de áudio e vídeo na pasta seleccionada será importado como um episódio. Pode adicionar ou remover manualmente ficheiros de áudio e vídeo nessa pasta, posteriormente."</string>
+    <string name="location">"Localização"</string>
+    <string name="select_a_directory">"Seleccione uma pasta no seu dispositivo"</string>
+    <string name="data_wifi_usage">"Utilização de Dados Móveis &amp; Wi-Fi"</string>
+    <string name="download_via_wifi_only">"Transferir apenas via Wi-Fi"</string>
+    <string name="feed_updates_via_wifi_only">"Actualizar podcast apenas via Wi-Fi"</string>
+    <string name="update_podcasts_only_when_connected_to_wifi">"Verificar actualização de podcast apenas quando ligado via Wi-Fi"</string>
+    <string name="mark_all_as_played">"Marcar todos como reproduzidos"</string>
+    <string name="playback_mode">"Modo de reprodução"</string>
+    <string name="display_on_lock_screen">"Mostrar no ecrã de bloqueio"</string>
+    <string name="display_artwork_on_lock_screen_when_playing">"Mostrar imagem no ecrã de bloqueio durante a reprodução"</string>
+    <string name="there_are_no_episodes_">"Não existem episódios!"</string>
+    <string name="podcast_feed_url">"URL do Podcast"</string>
+    <string name="no_podcast_found_">"Nenhum podcast encontrado!"</string>
+    <string name="find_podcast">"Procurar Podcast"</string>
+    <string name="authentication">"Autenticar"</string>
+    <string name="password">"Senha"</string>
+    <string name="username">"Nome de utilizador"</string>
+    <string name="new_episodes_available">"Novo episódio disponível"</string>
+    <string name="notifications">"Notificação"</string>
+    <string name="podcast">"Podcast"</string>
+    <string name="send_email_">"Enviar e-mail…"</string>
+    <string name="bass_boost">"Aumento de Graves"</string>
+    <string name="media_type">"Tipo"</string>
+    <string name="auto_detect">"Detecção automática"</string>
+    <string name="audio">"Áudio"</string>
+    <string name="video">"Vídeo"</string>
+    <string name="account_and_syncing">"Sincronizar entre dispositivos"</string>
+    <string name="shuffle">"Aleatório"</string>
+	<string name="update_on_charging">"Verificar actualização durante o carregamento"</string>
+	<string name="update_podcasts_only_when_battery_is_charging">"Verificar actualização dos podcasts apenas durante o carregamento da bateria"</string>
+	<string name="filename">"Nome do ficheiro"</string>
+	<string name="auto_backup_saved_to_">"Cópia de segurança automática guardada em [%1$s]"</string>
+    <string name="download_removed">"Transferência removida"</string>
+	<string name="load_artworks_only_when_connected_to_wifi">"Mostrar imagens apenas quando ligado via Wi-Fi"</string>
+	<string name="load_artwork_via_wifi_only">"Mostrar imagens apenas via Wi-Fi"</string>
+	<string name="when_pressing_episode_in_list">"Ao pressionar episódio na playlist"</string>
+    <string name="start_playing">"Iniciar sempre a reprodução"</string>
+    <string name="display_episode_artwork">"Mostrar imagem do episódio"</string>
+    <string name="ringtone">"Tom de toque"</string>
+    <string name="vibrate">"Vibrar"</string>
+    <string name="light">"LED"</string>
+    <string name="history">"Histórico"</string>
+    <string name="remove_all">"Eliminar tudo"</string>
+    <string name="auto_delete_played_episode_from_playlists">"Eliminar automaticamente da playlist o item reproduzido"</string>
+    <string name="new_episode_notification">"Notificação de novo episódio"</string>
+    <string name="download_on_charging">"Transferir durante o carregamento"</string>
+    <string name="start_downloading_only_when_battery_is_charging">"Iniciar transferência apenas durante o carregamento da bateria"</string>
+    <string name="add_a_youtube_podcast">"Adicionar podcast do YouTube"</string>
+    <string name="channels">"Canais"</string>
+    <string name="channel_id">"ID do canal"</string>
+    <string name="playlist_id">"ID da playlist"</string>
+    <string name="when_deleting_an_episode">"Ao eliminar episódio"</string>
+    <string name="also_remove_from_downloads_amp_playlists">"Remover também de transferências &amp; playlist"</string>
+    <string name="remove_episode_only">"Remover apenas o episódio"</string>
+    <string name="mark_episode_as_played">"Marcar episódio como reproduzido"</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">"Marcar episódio como reproduzido se mais de %1$d%% tiver sido reproduzido"</string>
+    <string name="download_episode">"Transferir episódio"</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">"Iniciar transferência quando o episódio é adicionado à playlist"</string>
+    <string name="podcast_keep_download_limit_reached_">"Atingido limite de transferências a manter no dispositivo!"</string>
+    <string name="auto_download_filter">"Filtro de transferência automática"</string>
+    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Filtra títulos de episódios para transferência automática. Requer a activação prévia da opção de transferência automática."</string>
+    <string name="keep_favorite_episodes">"Manter episódio marcado com estrela"</string>
+    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"Impedir que as transferências de episódios marcado com estrela sejam eliminadas automaticamente."</string>
+    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"Sub-pasta encontrada. Criar um podcast virtual novo para cada sub-pasta?"</string>
+    <string name="import_sub_directory">"Importar sub-pasta"</string>
+    <string name="failed_downloads">"Falhou"</string>
+    <string name="dim_screen_but_keep_screen_responsive">"Escurecer o ecrã, mantendo-o activo"</string>
+    <string name="chapters">"Capítulos"</string>
+    <string name="no_chapter_marks_found">"Não foram encontrados marcadores de capítulos!"</string>
+    <string name="keep_latest_n_downloads">"Último(s) %1$d episódio(s)"</string>
+    <string name="keep_all_downloads">"Manter todos"</string>
+    <string name="playback_controls">"Controlos de reprodução"</string>
+    <string name="playback_controls_maximum_three_in_notification_">"Controlos de reprodução (máximo de três) na notificação: "</string>
+    <string name="hide_played_podcasts">"Ocultar podcasts reproduzidos"</string>
+    <string name="pause_downloads">"Pausar transferências"</string>
+    <string name="has_keywords_in_title">"Tem palavras-chave no título"</string>
+    <string name="previous">"Anterior"</string>
+    <string name="bluetooth_headset_key_mapping">"Mapeamento de teclas Bluetooth/auricular"</string>
+    <string name="button">"Botão"</string>
+    <string name="and">"E"</string>
+    <string name="screen_size">"Tamanho do ecrã"</string>
+    <string name="original_size">"Tamanho original"</string>
+    <string name="auto_fit">"Ajustar automaticamente"</string>
+    <string name="stretch">"Esticar"</string>
+    <string name="fit_width">"Ajustar à largura"</string>
+    <string name="fit_height">"Ajustar à altura"</string>
+    <string name="search_podcasts">"Pesquisar podcast"</string>
+    <string name="reset_episodes">"Repor episódios"</string>
+    <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">"Aviso: repor episódios irá eliminar as transferências deste podcast!"</string>
+    <string name="copy_url">"Copiar URL"</string>
+    <string name="view_episode">"Ver episódio"</string>
+    <string name="episode_url_has_been_copied_to_clipboard">"O URL do episódio foi copiado para a área de transferência"</string>
+    <string name="dim_screen">"Escurecer ecrã"</string>
+    <string name="keep_screen_always_on">"Manter o ecrã sempre ligado"</string>
+    <string name="completed_downloads">"Concluído"</string>
+    <string name="top_charts">"Top podcasts"</string>
+    <string name="browse_top_charts">"Navegar em top podcasts"</string>
+    <string name="in_minutes">"Em %1$d minutos"</string>
+    <string name="when_current_episode_ends">"Quando episódio actual terminar"</string>
+    <string name="add_chapter">"Adicionar marcador de capítulo"</string>
+    <string name="time">"Tempo"</string>
+    <string name="filter_name">"Nome do filtro"</string>
+    <string name="podcasts">"Podcasts"</string>
+    <string name="playing_state">"Estado da reprodução"</string>
+    <string name="only_include_favorited_episodes">"Incluir apenas episódios favoritos"</string>
+    <string name="download_status">"Estado da transferência"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Passar para o episódio seguinte quando ocorre um erro de reprodução"</string>
+    <string name="continue_on_error">"Continuar em caso de erro"</string>
+    <string name="downloading">"A transferir"</string>
+    <string name="failed">"Falhou"</string>
+    <string name="select_all">"Seleccionar tudo"</string>
+    <string name="export_download">"Exportar episódio"</string>
+    <string name="export_downloads">"Exportar episódio"</string>
+    <string name="edit_episode_filter">"Editar filtro"</string>
+    <string name="done">"Concluído"</string>
+    <string name="move_selections_to_top">"Mover a(s) selecção(ões) para o topo"</string>
+    <string name="move_selections_to_bottom">"Mover a(s) selecção(ões) para o fundo"</string>
+    <string name="downloaded">"Transferido"</string>
+    <string name="dont_download_episode">"Não transferir o episódio"</string>
+    <string name="match_all_keywords">"Encontrar todas as palavras-chave"</string>
+    <string name="match_any_of_the_keywords">"Encontrar qualquer uma das palavras-chave"</string>
+    <string name="download_episode_if_matching_all_keywords_">"Transferir episódio se todas as palavras-chave forem encontradas: "</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_">"Transferir episódio se qualquer uma das palavras-chave for encontrada: "</string>
+    <string name="dont_download_episode_if_matching_all_keywords_">"Não transferir episódio se todas as palavras-chave forem encontradas: "</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_">"Não transferir episódio se qualquer das palavras-chave for encontrada: "</string>
+    <string name="keywords">"Palavras-chave"</string>
+    <string name="enter_keywords">"Introduzir palavras-chave"</string>
+    <string name="restoring_">"A restaurar…"</string>
+    <string name="creating_backup_">"A criar cópia de segurança…"</string>
+    <string name="resume_downloads">"Continuar transferências"</string>
+    <string name="delete_episode_and_download_">"Eliminar episódio e transferência?"</string>
+    <string name="clear_playlist">"Limpar playlist"</string>
+    <string name="clear_current_playlist_">"Limpar playlist actual?"</string>
+    <string name="enter_playlist_name">"Introduzir o nome da playlist"</string>
+    <string name="podcast_exported_to_">"Podcast exportado para: [ %1$s ]"</string>
+    <string name="search_not_found">"Pesquisa não encontrada"</string>
+    <string name="_is_not_found_add_this_podcast_">"[ %1$s ] não foi encontrado. Adicionar este podcast?"</string>
+    <string name="episode_publishing_date">"Data da publicação do episódio"</string>
+    <string name="episode_guid">"GUID do episódio"</string>
+    <string name="episode_unique_criteria">"Critérios únicos do episódio"</string>
+    <string name="episode_url">"URL do episódio"</string>
+    <string name="episode_title">"Título do episódio"</string>
+    <string name="export_history">"Histórico de exportação"</string>
+    <string name="notes">"Notas"</string>
+    <string name="playback_history">"Histórico de reprodução"</string>
+    <string name="edit_notes">"Editar notas"</string>
+    <string name="generated_by_s_app">"Gerado pela aplicação %1$s"</string>
+    <string name="auto_backup">"Cópia de segurança automática"</string>
+    <string name="double_tap_to_play_or_pause">"Pressionar duas vezes para reproduzir ou pausar"</string>
+    <string name="swipe_up_to_play_next_in_playlist">"Deslizar para cima para reproduzir o próximo na playlist"</string>
+    <string name="swipe_to_left_to_fast_rewind">"Deslizar para a esquerda para recuar"</string>
+    <string name="swipe_to_right_to_fast_forward">"Deslizar para a direita para avançar"</string>
+    <string name="swipe_down_to_stop">"Deslizar para baixo para parar"</string>
+    <string name="remove_subscription_to_">"Remover subscrição para: [ %1$s ]"</string>
+    <string name="data_roaming">"Roaming de dados"</string>
+    <string name="allow_to_download_with_data_services_when_roaming">"Permitir a transferência através do serviços de dados em roaming"</string>
+    <string name="up_next">"Próximo"</string>
+    <string name="episode_info">"Informação do episódio"</string>
+    <string name="no_more_episodes_to_play_from_playlist_s_">"Sem mais episódios para reproduzir da playlist [ %1$s ]"</string>
+    <string name="apply_this_change_to_all_podcasts_">"Aplicar esta alteração a todos os podcasts?"</string>
+    <string name="grid_size">"Tamanho da grelha"</string>
+    <string name="play_pause_double_click">"Duplo toque para Reproduzir/Pausar"</string>
+    <string name="total_episodes">"Total de episódios"</string>
+    <string name="duration">"Ordenar por duração"</string>
+    <string name="browse_downloads">"Navegar nas transferências"</string>
+    <string name="browse_by_playlist">"Navegar na playlist"</string>
+    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Repor episódios irá descartar episódios em cache e reconstruir a playlist de episódios a partir do feed de podcasts."</string>
+    <string name="right_hand_operation">"Manuseamento com a mão direita"</string>
+    <string name="open_menu_drawer_on_the_right_side">"Abrir o menu a partir do lado direito do ecrã"</string>
+    <string name="go_to_podcast">"Ver podcast actual"</string>
+    <string name="there_are_no_podcasts_">"Não existem podcasts!"</string>
+    <string name="no_podcasts_selected">"Nenhum podcast seleccionado"</string>
+    <string name="enjoy_podcast_republic">"Gosta do Podcast Republic?"</string>
+    <string name="please_tell_us_how_we_re_doing">"Por favor, diga-nos se estamos a fazer tudo bem."</string>
+    <string name="rate_us_in_the_play_store">"Avalie-nos na Play Store"</string>
+    <string name="no_thanks">"Não, obrigado."</string>
+    <string name="select_an_image_on_device">"Seleccionar imagem no dispositivo"</string>
+    <string name="youtube_type">"Tipo"</string>
+    <string name="scanning_">"A procurar…"</string>
+    <string name="playback_speed">"Velocidade de reprodução"</string>
+    <string name="keep_playing">"Continuar a reproduzir normalmente"</string>
+    <string name="play_from_position">"Reproduzir a partir da posição"</string>
+    <string name="report_a_bug">"Reportar um erro"</string>
+    <string name="import_export_opml">"Importar/Exportar OPML"</string>
+    <string name="import_from_opml_file">"Importar OPML"</string>
+    <string name="export_to_opml_file">"Exportar OPML"</string>
+    <string name="episodes">"Episódios"</string>
+    <string name="episode_s_is_still_downloading_can_not_play_it">"O episódio [ %1$s ] ainda está a ser transferido. Não é possível reproduzí-lo."</string>
+    <string name="error_episode_still_downloading">"Erro: episódio ainda em transferência."</string>
+    <string name="disabled">"Desactivado"</string>
+    <string name="click_to_open_full_screen_player_view">"Puxe-me para cima para abrir o leitor de ecrã inteiro!"</string>
+    <string name="keep_latest_x_downloads_for_each_podcast">"Mantenha as últimas %1$d transferências para cada podcast"</string>
+    <string name="radio_stations">"Estações de rádio"</string>
+    <string name="radios">Radios</string>
+    <string name="stations">"Estações"</string>
+    <string name="connection_failed">"Falha na ligação"</string>
+    <string name="search_stations">"Procurar estações"</string>
+    <string name="add_a_station_by_url">"Adicionar estação via URL"</string>
+    <string name="radio_stream_url_is_required_">"É necessário o URL do stream de rádio!"</string>
+    <string name="radio_title_is_required_">"É necessário o título da estação!"</string>
+    <string name="_is_not_found_add_this_station_">"[ %1$s ] não foi encontrada. Adicionar esta estação via URL?"</string>
+    <string name="debug_log">"Registo de depuração"</string>
+    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">"Se nenhuma imagem for especificada, qualquer ficheiro de imagem encontrado na pasta do podcast virtual será utilizado como imagem padrão."</string>
+    <string name="select">"Seleccionar"</string>
+    <string name="no_schedule_available">"Nenhum agendamento disponível"</string>
+    <string name="browse_by_subscriptions">"Navegar por assinaturas"</string>
+    <string name="browse_by_radio_stations">"Navegar por estações de rádio"</string>
+    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">Wi-Fi não está disponível. A cancelar verificação da actualização dos podcasts.</string>
+    <string name="pull_to_refresh">Puxar para actualizar</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">Puxar a playlist para baixo para iniciar a verificação da actualização dos podcasts</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">Puxar a playlist de transferências para baixo para iniciar a verificação da actualização dos podcasts</string>
+    <string name="auto_rotate_screen">Rodar o ecrã automaticamente</string>
+    <string name="screen_orientation">Orientação do ecrã</string>
+    <string name="portrait">Retrato</string>
+    <string name="landscape">Paisagem</string>
+    <string name="drag_the_handler_to_sort_manually">"Arraste, pressionando à direita, para ordenar manualmente"</string>
+    <string name="streaming">"Streaming"</string>
+    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Introduza o nome de utilizador e a palavra-passe abaixo se o seu podcast precisar de autenticação. Deixe os campos vazios se não for necessária autenticação."</string>
+    <string name="can_not_play_ps">"Impossível reproduzir: %1$s"</string>
+    <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+    <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
+    <string name="percent_played">%1$d%% reproduzido</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Puxar a lista de assinaturas para baixo para iniciar a verificação da actualização dos podcasts</string>
+    <string name="actions">Acção</string>
+    <string name="when_an_episode_is_100_played">"Quando um episódio é reproduzido a 100%"</string>
+    <string name="delete_the_download">Eliminar a transferência</string>
+    <string name="keep_the_download">Manter a transferência</string>
+    <string name="shake_your_device">"Agite o seu dispositivo"</string>
+    <string name="shake_device_to_control_playback">"Agite o dispositivo para controlar a reprodução"</string>
+    <string name="sensitivity">"Sensibilidade"</string>
+    <string name="gestures">"Gestos"</string>
+    <string name="user_agreement">Acordo do Usuário</string>
+    <string name="multi_thread_download">"Múltiplas transferências em simultâneo"</string>
+    <string name="recents">Recente</string>
+    <string name="group_by_podcasts">"Agrupar por podcasts"</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Adicione às seguintes listas de reprodução ao adicionar um podcast a uma lista de reprodução"</string>
+    <string name="compact_view">"Vista compacta"</string>
+    <string name="open_source_licenses">Licenças de software de código aberto</string>
+    <string name="can_not_play_the_downloaded_file">"Não é possível reproduzir o ficheiro transferido"</string>
+    <string name="can_not_play_the_local_file">"Não é possível reproduzir o ficheiro local"</string>
+    <string name="audio_loudness_boost">"Aumento de volume"</string>
+    <string name="apply_to_all_podcasts">"Aplicar a todos os podcasts"</string>
+    <string name="audio_effects_and_equalizer">"Efeitos de áudio e equalizador"</string>
+    <string name="episode_info_short">Informação do episódio (curta)</string>
+    <string name="episode_info_full">Informação do episódio (completa)</string>
+    <string name="twitter">"Twitter"</string>
+    <string name="storage_usage">"Utilização do armazenamento"</string>
+    <string name="sync_now">"Sincronizar agora"</string>
+    <string name="stream_url">"URL do Stream"</string>
+    <string name="fm_am_frequency">"Frequência FM/AM"</string>
+    <string name="genre">"Género"</string>
+    <string name="city_state">"Cidade, Estado"</string>
+    <string name="sign_in">"Iniciar sessão"</string>
+    <string name="sign_out">"Terminar sessão"</string>
+    <string name="syncing_started">"Sincronização iniciada"</string>
+    <string name="account_logged_in_s"><![CDATA[Conta com sessão iniciada: <i>%1$s</i>]]></string>
+    <string name="sync_subscriptions_and_episode_playback_progress">"Sincronizar assinaturas e progresso da reprodução do episódio"</string>
+    <string name="schedule_auto_backup_every_d_days">"Agende a cópia de segurança automática a cada %1$d dias"</string>
+    <string name="keep_most_recent_d_auto_backups">"Mantenha as %1$d cópias de segurança automáticas mais recentes."</string>
+    <string name="save_auto_backup_to_s">"Guardar a cópia de segurança automática em: %1$s"</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">"Activar a cópia de segurança automática das definições e base de dados da aplicação."</string>
+    <string name="schedule_backup">"Agendar cópia de segurança"</string>
+    <string name="backups_to_keep">"Cópias de segurança a manter"</string>
+    <string name="import_subscriptions_from_an_opml_file">"Importar assinaturas de um ficheiro OPML"</string>
+    <string name="export_subscriptions_to_an_opml_file">"Exportar assinaturas para um ficheiro OPML"</string>
+    <string name="create_a_backup_of_app_settings_and_database">"Criar uma cópia de segurança das definições e base de dados da aplicação"</string>
+    <string name="restore_app_settings_and_database_from_selected_backup">"Restaurar as definições e base de dados da aplicação a partir da cópia de segurança seleccionada"</string>
+    <string name="save_to">"Guardar em"</string>
+    <string name="buy_me_a_coffee">"Pague-me um café"</string>
+    <string name="clear_the_play_history_">"Limpar o histórico de reprodução?"</string>
+    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Quando uma transferência é removida por se atingir a quota de armazenamento de transferências ou o limite de transferências"</string>
+	<string name="keep_all">Manter todos</string>
+    <string name="playlist">"Lista de reprodução"</string>
+    <string name="category">"Categoria"</string>
+    <string name="update_podcasts_when_app_is_starting">"Actualizar podcasts ao iniciar a aplicação"</string>
+    <string name="unknown_station">"Estação desconhecida"</string>
+    <string name="can_not_cast_youtube_videos_to_chromecast_">"Não é possível enviar vídeos do YouTube para o Chromecast!"</string>
+    <string name="add_a_playlist">"Adicionar uma lista de reprodução"</string>
+    <string name="add_to_tag">"Adicionar à etiqueta"</string>
+    <string name="add_to_default_playlists">"Adicionar às listas de reprodução padrão"</string>
+    <string name="add_to_selected_playlists">"Adicionar às listas de reprodução seleccionadas"</string>
+    <string name="delete_selected_episodes_">"Eliminar episódios seleccionados?"</string>
+    <string name="you_have_no_completed_downloads">"Não tem transferências concluídas."</string>
+    <string name="you_have_no_pending_downloads">"Não tem transferências pendentes."</string>
+    <string name="all_good_">"Tudo em ordem ☺"</string>
+    <string name="there_are_no_episodes_in_this_playlist">"Não há episódios nesta lista de reprodução."</string>
+    <string name="no_play_history_found">"Nenhum histórico de reprodução encontrado."</string>
+    <string name="set_playlists">"Definir listas de reprodução"</string>
+    <string name="mark_all_as_read">"Marcar tudo como lido"</string>
+    <string name="not_in_use">"Não está em uso"</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Puxe para baixo a lista dos episódios para iniciar a verificação da actualização dos podcasts"</string>
+    <string name="mark_all_previous_episodes_as_played">"Marque todos os episódios anteriores como reproduzidos"</string>
+    <string name="remove_favorite">"Remover favorito"</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Marcar todos os episódios publicados anteriormente a este episódio [ %1$s ] como reproduzidos?"</string>
+    <string name="exporting">"A exportar"</string>
+    <string name="add_s_minutes">"Adicionar %1$d minutos"</string>
+    <string name="pick_a_time">"Escolha um tempo"</string>
+    <string name="updating_podcasts">"A actualizar podcasts"</string>
+    <string name="skip_ending">"Saltar o final"</string>
+    <string name="skip_the_beginning_d_seconds">"Saltar o início em %d segundos"</string>
+    <string name="skip_the_ending_d_seconds">"Saltar o final em %d segundos"</string>
+    <string name="no_user_notes_found">"Não foram encontradas notas do utilizador."</string>
+    <string name="no_episode_description_found">"Nenhuma descrição do episódio encontrada."</string>
+    <string name="set_episode_s_as_played_">"Definir episódio [ %s ] como reproduzido?"</string>
+    <string name="or">"Ou"</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">"A lista \"Próximo\" foi actualizada para reproduzir a partir de: %s"</string>
+    <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Faça uma sincronização completa. Levará muito mais tempo para terminar."</string>
+    <string name="buy_me_a_coffee_message">"Se aprecia a aplicação Podcast Republic e gostaria de apoiar o seu desenvolvimento, pode pagar-me um cafezinho. Obrigado!"</string>
+    <string name="maybe_later">"Talvez mais tarde"</string>
+    <string name="sign_up">"Registar"</string>
+    <string name="download_state_idle">"A aguardar o início da transferência"</string>
+    <string name="download_state_fetching_url">"À procura de recursos para efectuar a transferência"</string>
+    <string name="download_state_connecting">"A ligar…"</string>
+    <string name="download_state_downloading">"A transferir"</string>
+    <string name="download_state_completed">"Concluído"</string>
+    <string name="download_state_paused_network_unavailable">"Em pausa, a aguardar ligação"</string>
+    <string name="download_state_failed_incorrect_file_received">"Falhou: arquivo incorreto recebido"</string>
+    <string name="download_state_paused_by_request">"Transferência em pausa"</string>
+    <string name="download_state_paused_wifi_unavailable">"Em pausa: Wi-Fi não disponível"</string>
+    <string name="download_state_paused_wifi_disabled">"Em pausa: Wi-Fi desactivado"</string>
+    <string name="download_state_paused_roaming">"Em pausa: está em roaming"</string>
+    <string name="download_state_paused_waiting_to_retry">"Em pausa: à espera para voltar a tentar"</string>
+    <string name="download_state_paused_sdcard_unavailable">"Em pausa: armazenamento externo não disponível"</string>
+    <string name="download_state_paused_need_battery_charging">"Em pausa: à espera do carregamento da bateria"</string>
+    <string name="download_state_failed_fetching_url">"Falhou: URL não encontrado"</string>
+    <string name="download_state_failed_sdcard_full">"Falhou: espaço insuficiente"</string>
+    <string name="download_state_failed_cancelled">"Cancelado"</string>
+    <string name="download_state_failed">"Falhou"</string>
+    <string name="download_state_failed_storage_is_not_accessible">"Falhou: armazenamento não disponível"</string>
+    <string name="error_storage_is_not_accessible">"Armazenamento não disponível"</string>
+    <string name="moving_downloads">Moving downloads</string>
+    <string name="moving_download_from_1s_to_2s">"A mover transferência de [ %1$s ] para [ %2$s ]."</string>
+    <string name="invalid_opml_file_selected_">"O ficheiro OPML seleccionado é inválido!"</string>
+    <string name="podcast_title_can_not_be_empty_">"O título do Podcast não pode estar vazio!"</string>
+    <string name="podcast_url_can_not_be_empty_">"O URL do Podcast não pode estar vazio!"</string>
+    <string name="show_podcast_title">"Mostrar o título do podcast"</string>
+    <string name="hide_podcast_title">"Ocultar o título do podcast"</string>
+    <string name="no_download_directory_prompt_message">"Ainda não definiu o directório de transferências de podcasts. Definir agora?"</string>
+    <string name="at_least_one_playlist_is_required_">"Pelo menos uma lista de reprodução é necessária!"</string>
+    <string name="manage_tags">"Gerir etiquetas"</string>
+    <string name="episode_filters">"Filtros de episódios"</string>
+    <string name="manage_episode_filters">"Gerir filtros de episódios"</string>
+    <string name="episode_filter">"Filtro de episódios"</string>
+    <string name="browse_by_episode_filters">"Navegar por filtro personalizado"</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">"Falhou o início de sessão na conta de sincronização, tente iniciar sessão novamente."</string>
+    <string name="filter">"Filtro"</string>
+    <string name="view_all_episodes">"Ver todos os episódios"</string>
+    <string name="view_finished_episodes">"Ver episódios terminados"</string>
+    <string name="view_unfinished_episodes">"Ver episódios inacabados"</string>
+    <string name="playback_progress">"Progresso da reprodução"</string>
+    <string name="display_playback_progress_in_notification_s">"Mostrar o progresso da reprodução na notificação: %s"</string>
+    <string name="you_have_subscribed_to_s">"Assinou: %s"</string>
+    <string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">"Ups, nenhum podcast encontrado! Pode pressionar o botão (+) na barra de título para adicionar podcasts."</string>
+    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">"Adicionar um canal ou lista de reprodução do YouTube como um podcast."</string>
+    <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Definir um podcast virtual para reproduzir música ou audiolivros no seu dispositivo."</string>
+    <string name="click_to_adjust_playback_speed">"Clique para ajustar a velocidade de reprodução"</string>
+    <string name="click_to_set_up_sleep_timer">"Clique para definir o temporizador de inactividade"</string>
+    <string name="click_to_view_more_options_">"Clique para ver mais opções…"</string>
+    <string name="click_to_select_playback_mode">"Clique para seleccionar o modo de reprodução"</string>
+    <string name="percetage_value">%d%%</string>
+    <string name="select_episodes">Seleccionar episódios</string>
+    <string name="select_episodes_from_last_d_days">Seleccionar episódios dos últimos %d dias</string>
+    <string name="select_episodes_from_all_dates">Seleccionar episódios de todas as datas</string>
+    <string name="selected_tags_s">Seleccionar etiquetas: %s</string>
+    <string name="selected_podcasts_s">Seleccionar podcasts: %s</string>
+    <string name="unplayed_less_than_d_played">Não reproduzido (&lt; %d%% reproduzido)</string>
+    <string name="played_greater_than_d_played">Reproduzido (&gt;= %d%% reproduzido)</string>
+    <string name="unfinished_less_than_100_played">Não terminado (&lt; 100% reproduzido)</string>
+    <string name="finished_100_played">Terminado (100% reproduzido)</string>
+    <string name="restore_defaults">Restaurar definições padrão</string>
+    <string name="at_least_one_episode_filter_is_required_">É necessário pelo menos um filtro de episódio!</string>
+    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">Os seguintes directórios não estão acessíveis. É favor redefinir nas Definições.\n%s</string>
+    <string name="_download_location">- Local das transferências</string>
+    <string name="_auto_backup_location">- Local da cópia de segurança automática</string>
+    <string name="clean_up">Limpeza</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_"> Os seguintes ficheiros foram encontrados no directório das transferências, mas não se encontram associados a qualquer transferência. Pode removê-los, pressionando o botão de limpeza.</string>
+    <string name="tags">Etiquetas</string>
+    <string name="casting">A transmitir</string>
+    <string name="chapter_d">Capítulo #%d</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Por favor, não encerre a aplicação durante o restauro dos dados. A aplicação irá reiniciar após todos os dados terem sido restaurados.</string>
+    <string name="playback_paused_on_muted_volume_">Reprodução em pausa com o volume silenciado!</string>
+    <string name="number_of_episodes_to_auto_download">"Número de episódios para download automático"</string>
+    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Baixar automaticamente até %1$d episódios mais recentes quando novos episódios são procurados"</string>
+    <string name="notify_when_new_episodes_are_available">"Notificar quando novos episódios estiverem disponíveis"</string>
+    <string name="save_episode_list_to_html">"Salvar lista de episódios em HTML"</string>
+    <string name="com_parse_ui_progress_dialog_text">Carregando…</string>
+    <string name="com_parse_ui_forgot_password_button_label"><u>Esqueci a senha</u></string>
+    <string name="com_parse_ui_email_input_hint">E-mail</string>
+    <string name="com_parse_ui_confirm_password_input_hint">Confirmar senha</string>
+    <string name="com_parse_ui_create_account_button_label">Criar conta</string>
+    <string name="com_parse_ui_no_password_toast">Informe sua senha</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">Usuário e senha não conferem</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">Não foi possível entrar, tente novamente mais tarde</string>
+    <string name="com_parse_ui_password_too_short_toast">Senha deve conter pelo menos %1$d caracteres</string>
+    <string name="com_parse_ui_username_taken_toast">Usuário já cadastrado, escolha outro</string>
+    <string name="com_parse_ui_reenter_password_toast">Informe a senha novamente</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">Senha não confere, tente novamente</string>
+    <string name="com_parse_ui_no_email_toast">Informe seu e-mail</string>
+    <string name="com_parse_ui_invalid_email_toast">E-mail inválido, corrija e tente novamente</string>
+    <string name="com_parse_ui_email_taken_toast">E-mail já foi cadastrado, por favor redefina a sua senha</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">Não foi possível cadastrar, tente novamente mais tarde</string>
+    <string name="com_parse_ui_login_help_instructions">Informe seu e-mail para recuperar sua senha</string>
+    <string name="com_parse_ui_login_help_email_input_hint">E-mail</string>
+    <string name="com_parse_ui_login_help_submit_button_label">Enviar</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">Voltar para o Login</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">Erro ao solicitar recadastramento da senha, tente novamente</string>
+    <string name="com_parse_ui_login_help_email_sent">Verifique seu e-mail para obter informações sobre como acessar sua conta</string>
+    <string name="connecting_">"Conectando…"</string>
+    <string name="syncing_episode_changes_s">"Sincronizando alterações em episódios: %s"</string>
+    <string name="syncing_added_radio_subscriptions_d">"Sincronizando inscrições de rádio adicionadas: %d"</string>
+    <string name="syncing_removed_radio_subscriptions_d">"Sincronizando assinaturas de rádio removidas: %d"</string>
+    <string name="syncing_added_podcast_subscriptions_d">"Sincronizando inscrições de podcasts adicionados: %d"</string>
+    <string name="syncing_removed_podcast_subscriptions_d">"Sincronizando podcasts com assinaturas removidas: %d"</string>
+    <string name="syncing_episode_changes_">"Sincronizando alterações em episódios…"</string>
+    <string name="syncing_radio_subscription_changes_">"Sincronizando alterações em assinaturas de rádios…"</string>
+    <string name="syncing_podcast_subscription_changes_">"Sincronizando alterações em assinaturas de podcasts,.."</string>
+    <string name="syncing">"Sincronizando"</string>
+    <string name="current_playlist">"Lista de reprodução atual"</string>
+    <string name="continue_to_next_playlist">"Continuar com a próxima playlist"</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Continuar reproduzindo a próxima lista de reprodução após finalizar o último episódio da lista atual"</string>
+    <string name="disable_manual_sorting">"Desabilitar a ordenação manual"</string>
+    <string name="enable_manual_sorting">"Habilitar ordenação manual"</string>
+    <string name="open">"Aberto"</string>
+    <string name="newest_unplayed">"Mais novo não reproduzido"</string>
+    <string name="apply_to_current_podcast">"Aplicar ao podcast atual"</string>
+    <string name="redownload_all_selected_episodes_">"Baixar novamente todos os episódios selecionados?"</string>
+    <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">"Pasta para download não acessível. Confum local agora?"</string>
+    <string name="insufficient_space_please_free_some_storage_space_">"Cota de armazenamento atingida ou espaço insuficiente. Libere espaço de armazenamento."</string>
+    <string name="show_last_updated_time">"Exibir o horário da última atualização"</string>
+    <string name="hide_last_updated_time">"Ocultar o horário da última atualização"</string>
+    <string name="delete_account">"Eliminar Conta"</string>
+    <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"Não será possível fazer login novamente com esta conta. Deseja continuar?"</string>
+    <string name="please_select_a_directory_to_save_the_auto_backups">"Por favor, selecione um diretório para salvar os backups automáticos."</string>
+    <string name="download_completed">"Download concluído"</string>
+    <string name="notify_when_an_episode_has_been_downloaded">"Notificar quando concluir o download de um episódio"</string>
+    <string name="night_mode">"Modo noturno"</string>
+    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Alternar automaticamente entre o tema claro (dia) e o tema escuro (noite) com base na hora do dia"</string>
+    <string name="repeat_episode">"Repetir o episódio"</string>
+    <string name="repeat_playlist">"Repetir lista de reprodução"</string>
+    <string name="alarms">"Alarmes"</string>
+    <string name="sunday">Domingo</string>
+    <string name="monday">Segunda-feira</string>
+    <string name="tuesday">Terça</string>
+    <string name="wednesday">Quarta-feira</string>
+    <string name="thursday">Quinta-feira</string>
+    <string name="friday">Sexta-feira</string>
+    <string name="saturday">Sábado</string>
+    <string name="no_alarms_found_">"Nenhum alarme encontrado."</string>
+    <string name="allow_to_download_at_any_time">"Permitir o download em qualquer horário"</string>
+    <string name="allow_to_download_between_selected_time">"Permitir o download entre o horário selecionado"</string>
+    <string name="start_time">"Horário inicial"</string>
+    <string name="end_time">"Horário final"</string>
+    <string name="allowed_download_time">"Tempo permitido para download"</string>
+    <string name="paused_waiting_for_allowed_download_time">"Pausado: aguardando o tempo permitido para download"</string>
+    <string name="last_played_time">"Executado pela última vez"</string>
+    <string name="display_unplayed_episodes_on_top">"Mostrar episódios não reproduzidos no topo"</string>
+    <string name="text_size">"Tamanho do texto"</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">"Este é o tamanho do texto ampliado para %d %%."</string>
+    <string name="_d_seconds">"%d segundos"</string>
+    <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">"Continuar a excluir os arquivos de podcast virtuais selecionados do seu armazenamento?"</string>
+    <string name="show_played_date">"Mostrar última data de reprodução"</string>
+    <string name="edit_radio_station">"Editar estação de rádio"</string>
+    <string name="subscribed">"Subscrito"</string>
+    <string name="edit_chapter">"Editar capítulo"</string>
+    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">"Não é possível editar este capítulo. Somente capítulos adicionados pelo usuário são editáveis."</string>
+    <string name="import_downloads">"Importar downloads"</string>
+    <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">"Importar downloads do diretório selecionado. Esta operação só irá importar arquivos de podcasts que foram baixados por este aplicativo antes."</string>
+    <string name="available_free_space_s">"Espaço livre disponível: %s."</string>
+    <string name="playback">"Reprodução"</string>
+    <string name="background_services">"Serviços em segundo plano"</string>
+    <string name="general_notifications">"Notificações gerais"</string>
+    <string name="return_to_car_mode_">"Voltar para o modo carro"</string>
+    <string name="android_wear">"Modo Android"</string>
+    <string name="notification_background_theme_s">"Tema de fundo da notificação: %s"</string>
+    <string name="turn_on_alarms">"Ligar alarmes"</string>
+    <string name="turn_off_alarms">"Desligar alarmes"</string>
+    <string name="play_as_audio_only">"Tocar apenas como áudio"</string>
+    <string name="remove_downloads_from_unsubscribed_podcast_s_">"Remover downloads de podcasts não inscritos: [ %1$s ]?"</string>
+    <string name="report_bug_privacy_message"><![CDATA[Ao clicar em <em>Informar um bug</em>, você concorda com os nossos <a href=\"https://podcastrepublic.net/privacy-terms/\">Termos</a> e que leu nossa <a href=\"https://podcastrepublic.net/privacy-terms/\">Política de Privacidade</a>.]]></string>
+    <string name="sign_up_privacy_and_terms_message"><![CDATA[CDATA [Ao clicar em <em>Criar conta</em>, você concorda com nossos <a href=\"https://podcastrepublic.net/privacy-terms/\">Termos</a> e que leu nossa <a href=\"https://podcastrepublic.net/privacy-terms/\">Política de Privacidade</a>.]]></string>
+    <string name="sign_in_privacy_and_terms_message"><![CDATA[CDATA [Ao clicar <em>Cadastrar</em>, você concorda com nossos <a href=\"https://podcastrepublic.net/privacy-terms/\">Termos</a> e que leu nossa <a href=\"https://podcastrepublic.net/privacy-terms/\">Política de Privacidade</a>.]]></string>
+    <string name="automatically_turn_on_sleep_timer_when_playback_starts">"Ligar o temporizador quando a reprodução começar"</string>
+    <string name="syncing_data_only_when_connected_to_wifi_network">"Sincronizando dados somente quando conectado via WiFi"</string>
+    <string name="syncing_via_wifi_only">"Sincronizando apenas via WiFi"</string>
+    <string name="total_downloaded_file_size_s">Tamanho total do ficheiro descarregado: %s</string>
+    <string name="featured">Destaque</string>
+    <string name="polular">Popular</string>
+    <string name="select_episodes_from_today">Seleccionar episódios de hoje</string>
+    <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Detectámos que houve um crash na aplicação. Gostaria de enviar o relatório do crash para que possamos resolver o problema?"</string>
+    <string name="generating_bug_report_">A gerar relatório do bug</string>
+    <string name="apply_to_all_radio_stations">Aplicar a todas as estações de rádio</string>
+    <string name="apply_to_current_radio_station">Aplicar à estação de rádio actual</string>
+    <string name="skip_silence">Saltar o silêncio</string>
+    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Descarregar automaticamente até %d episódios novos do podcast que está a tocar</string>
+    <string name="smart_download">Descarregamento inteligente</string>
+    <string name="download_anyway">Descarregar na mesma</string>
+    <string name="download_anyway_message">Ignorar as configurações de WiFi e bateria, descarregar agora o episódio com a ligação actual! Isto pode utilizar os seus dados móveis e bateria. Continuar?</string>
+    <string name="play_all_from_old_to_new">Tocar todos do mais antigo para o mais recente</string>
+    <string name="delete_all_immediately">Apagar tudo imediatamente</string>
+    <string name="deleted_downloads_will_be_removed_after_24_hours_">Downloads apagados serão removidos após 24 horas.</string>
+    <string name="delete_immediately">Apagar imediatamente</string>
+    <string name="delayed_deletion">Eliminação atrasada</string>
+    <string name="keep_the_downloaded_podcast_file_for_24_hours_after_being_deleted_">Guardar o ficheiro de podcast descarregado durante 24 horas após ser eliminado.</string>
+    <string name="download_progress">Progresso do descarregamento</string>
+    <string name="be_the_first_to_write_a_review_">Seja o primeiro a escrever uma crítica!</string>
+    <string name="write_a_review">Escrever uma crítica</string>
+    <string name="my_review">A minha crítica</string>
+    <string name="your_name">O seu nome</string>
+    <string name="your_review">A sua crítica</string>
+    <string name="a_podcast_republic_user">Um utilizador do Podcast Republic</string>
+    <string name="report_spam_review">Reportar spam numa crítica</string>
+    <string name="report_inappropriate_review">Reportar crítica inapropriada</string>
+    <string name="reviews">Críticas</string>
+    <string name="submit">Submeter</string>
+    <string name="deleted">Apagado</string>
+    <string name="file_size">Tamanho do ficheiro</string>
+    <string name="play_next">Tocar o próximo</string>
+    <string name="are_you_sure_to_clear_the_play_queue_">Tem a certeza que deseja limpar a fila para tocar?</string>
+    <string name="clear">Limpar</string>
+    <string name="remaining_time">Tempo restante</string>
+    <string name="elapsed_time">Tempo decorrido</string>
+    <string name="paused_network_is_metered">Pausado: rede é medida</string>
+    <string name="download_date">Data do descarregamento</string>
+    <string name="create_an_episode_filter">Criar filtro de episódios</string>
+    <string name="play_time">Tempo a tocar</string>
+    <string name="recently_played">Recentemente tocado</string>
+    <string name="play_all_newer_episodes">Tocar todos os episódios mais recentes</string>
+    <string name="see_what_s_new_in_this_version_s">Ver o que há novo nesta versão: %s</string>
+    <string name="enabled_buttons_">Botões activados:</string>
+    <string name="bottom_navigation_bar">Barra de navegação ao fundo</string>
+    <string name="play_bar">Barra de tocar</string>
+    <string name="show_play_bar_when_app_starts">Mostrar a barra de tocar quando a aplicação inicia</string>
+    <string name="can_not_edit_default_episode_filter_">Não é possivel editar o filtro de episódios predefinido!</string>
+    <string name="playlist_name">Nome da playlist</string>
+    <string name="priority">Prioridade</string>
+    <string name="higher_priority_playlist_will_be_played_first_">Playlist com maior prioridade vai ser tocada primeiro.</string>
+    <string name="view_podcast">Ver</string>
+    <string name="priority_d">Prioridade: %d</string>
+    <string name="stream_all">Fazer stream de todos</string>
+    <string name="view_all_your_playlists">Ver todas as suas playlists</string>
+    <string name="click_on_the_tab_again_to_view_all_your_playlists">Clique na tab de novo para ver todas as suas playlists</string>
+    <string name="edit_playlist">Editar playlist</string>
+    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">Clique na tab de novo para ver todos os seus tags de podcasts</string>
+    <string name="changing_the_play_mode_to_repeat_a_playlist_">A alterar o modo de tocar para repetir a playlist:</string>
+    <string name="_removing_from_playlist_on_played_will_be_disabled">- Remoção da playlist quando tocado vai ser desactivado</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Remoção do ficheiro de podcast descarregado quando tocado vai ser desactivado</string>
+    <string name="view_all_your_episode_filters">Ver todos os filtros de episódios</string>
+    <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Clique no tab de novo para ver todos os filtros de episódios</string>
+    <string name="stop_playing_when_time_is_up">Parar de tocar quando o tempo terminar</string>
+    <string name="sleep_timer_fired_stop_playing_">Temporizador de adormecer disparado, parar de tocar!</string>
+    <string name="yes_sure">Sim, de certeza</string>
+    <string name="play_all_from_new_to_old">Tocar todos do mais recente para o mais antigo</string>
+    <string name="smart_update">Actualização inteligente</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"Verificar se há novos episódios depois de concluir o episódio mais recente do podcast"</string>
+    <string name="click_on_the_tab_again_to_view_download_actions">"Pressione a guia novamente para visualizar as ações de download"</string>
+    <string name="remember_volume_level">"Lembrar do nível de volume"</string>
+    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Lembrar do último nível de volume para a próxima reprodução"</string>
+    <string name="metered_network">"Redes limitadas"</string>
+    <string name="allow_to_download_over_metered_network">"Permitir o download por redes limitadas (Rede de dados)"</string>
+    <string name="respond_to_media_button">"Botão responder à mídia"</string>
+    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">"Permitir iniciar a reprodução pelo comando play do Bluetooth com o aplicativo fechado."</string>
+    <string name="remind_me_1_minute_less">"Lembrar (1 minuto antes)"</string>
+    <string name="unread_count">"Quantidade de não lidos"</string>
+    <string name="newest_unread">"Mais recentes não lidos"</string>
+    <string name="no_articles_selected_">"Nenhum artigo selecionado!"</string>
+    <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: marcar todos os artigos como lidos?"</string>
+    <string name="mark_all_articles_as_read_">"Marcar todos os artigos como lidos?"</string>
+    <string name="mark_all_articles_published_earlier_than_this_article_s_as_read_">"Marcar todos os artigos publicados anteriormente a este artigo [ %1$s ] como lidos?"</string>
+    <string name="there_are_no_articles_">"Não há artigos."</string>
+    <string name="unreads_d">"Não lidos: %d"</string>
+    <string name="total_articles_d">"Total de artigos: %d"</string>
+    <string name="rss_feed_url">"URL do feed RSS"</string>
+    <string name="check_rss_feed_update">"Verifique atualizações do feed RSS"</string>
+    <string name="_is_not_found_add_this_rss_feed_">"[ %1$s ] não foi encontrado. Adicionar este feed RSS por URL?"</string>
+    <string name="add_a_rss_feed_by_url">"Adicionar feed RSS por URL"</string>
+    <string name="mark_as_read">"Marcar como lido"</string>
+    <string name="new_articles_available">"Novos artigos RSS disponíveis"</string>
+    <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">"O acesso Wi-Fi não está disponível. Cancelando a verificação de atualizações do feed RSS."</string>
+    <string name="add_rss_feeds">"Adicionar feeds RSS"</string>
+    <string name="search_rss_feeds">"Pesquisar feeds RSS"</string>
+    <string name="reset_feed">"Resetar feed"</string>
+    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">"Resetar o feed descartará os dados armazenados em cache e os reconstruirá a partir do feed RSS!"</string>
+    <string name="mark_all_previous_articles_as_read">"Marque todos os artigos anteriores como lidos"</string>
+    <string name="unread">"Não lido"</string>
+    <string name="rss_feeds">"Feeds RSS"</string>
+    <string name="review_submitted_">"Crítica enviada."</string>
+    <string name="add_radio_stations">"Adicionar estações de rádio"</string>
+    <string name="radio_station">"Estação de rádio"</string>
+    <string name="view_your_podcast_subscriptions">"Visualizar suas assinaturas de podcast"</string>
+    <string name="view_your_radio_subscriptions">"Visualizar suas assinaturas de rádio"</string>
+    <string name="view_your_rss_feed_subscriptions">"Visualizar suas assinaturas de feeds RSS"</string>
+    <string name="there_are_no_unplayed_episodes_">"Não há episódios não reproduzidos!"</string>
+    <string name="there_are_no_played_episodes_">"Não há episódios reproduzidos!"</string>
+    <string name="there_are_no_favorite_episodes_">"Não há episódios favoritos!"</string>
+    <string name="there_are_no_downloaded_episodes_">"Não há episódios baixados!"</string>
+    <string name="start_playing_and_go_to_now_playing">"Começar a tocar e ir para a tela \"Reproduzindo\""</string>
+    <string name="show_unplayed_recent_counters">"Mostrar contadores"</string>
+    <string name="hide_unplayed_recent_counters">"Ocultar contadores"</string>
+    <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Nenhuma estação de rádio encontrada. Pressione o botão (+) para adicionar uma estação de rádio."</string>
+    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"Nenhum feed RSS encontrado. Pressione o botão (+) para adicionar um feed."</string>
+    <string name="tag_radios">"Tags de rádio"</string>
+    <string name="episode">"Episódio"</string>
+    <string name="edit_mode">"Editar"</string>
+    <string name="no_radio_stations_selected_">"Nenhuma estação de rádio selecionada!"</string>
+    <string name="no_rss_feeds_selected_">"Nenhum feed RSS selecionado!"</string>
+    <string name="hide_empty_feeds">"Ocultar feeds vazios"</string>
+    <string name="tag_feeds">"Tags de feeds"</string>
+    <string name="open_in_browser">"Abrir no navegador"</string>
+    <string name="mark_as_unread">"Marcar como não lido"</string>
+    <string name="article_url">"URL do artigo"</string>
+    <string name="summary">"Resumo"</string>
+    <string name="download_state_paused_battery_low">"Pausado: bateria fraca"</string>
+    <string name="select_episodes_with_duration_greater_than_d_minutes">"Selecionar episódios com duração maior que %d minutos"</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes">"Selecionar episódios com duração inferior a %d minutos"</string>
+    <string name="short_time_unit_format_minute">"Min."</string>
+    <string name="hold_down_to_start_dragging">"Mantenha pressionado e arraste"</string>
+    <string name="swipe_right_action">"Ação ao deslizar para a direita"</string>
+    <string name="stream_podcasts_via_wifi_only">"Streaming de podcasts somente via Wi-Fi"</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">"Permite a transmissão de podcasts (não baixados) somente quando o Wi-Fi estiver conectado"</string>
+    <string name="stream_radios_via_wifi_only">"Transmitir rádios apenas via Wi-Fi"</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">"Permite trasmitir rádios somente quando o Wi-Fi estiver conectado"</string>
+    <string name="history_and_stats">"Histórico e Estatísticas"</string>
+    <string name="delete_downloads">"Excluir downloads"</string>
+    <string name="keep_download">"Manter o download"</string>
+    <string name="delete_episodes">"Excluir episódios"</string>
+    <string name="priority_mode">"Modo de prioridade"</string>
+    <string name="stats">"Estatísticas"</string>
+    <string name="time_saved_b_s_b"><![CDATA[Tempo economizado: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[Você ouviu: <b>%s</b>]]></string>
+    <string name="since_s">"Desde: %s"</string>
+    <string name="reset_stats">"Resetar estatísticas"</string>
+    <string name="display_latest_d_episodes">"Exibir %d episódios mais recentes"</string>
+    <string name="find_rss_feed">"Encontrar feeds RSS"</string>
+    <string name="there_are_no_rss_feeds">"Não há feeds RSS!"</string>
+    <string name="got_it">"Entendi"</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">"Você reordenou a lista \"Próximos\". Como resultado, esta lista não será sincronizada com a lista de episódios tocando atualmente ou playlist."</string>
+    <string name="don_t_show_it_again">"Não mostrar novamente"</string>
+    <string name="always_on">"Sempre ligado"</string>
+    <string name="always_on_amoled_black">"Sempre ligado (preto AMOLED)"</string>
+    <string name="auto_switch">"Mudança automática"</string>
+    <string name="auto_switch_amoled_black">"Mudança automática (preto AMOLED)"</string>
+    <string name="smart_rewind_on_resuming">"Retroceder inteligente ao voltar a escutar"</string>
+    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">"Volta automaticamente %1$d a %2$d segundos ao retomar a reprodução"</string>
+    <string name="minimum_rewind_time_d_seconds">"Voltar no mínimo: %d segundos."</string>
+    <string name="maximum_rewind_time_d_seconds">"Voltar no máximo: %d segundos."</string>
+    <string name="show_radio_station_title">"Mostrar título da estação"</string>
+    <string name="hide_radio_station_title">"Ocultar título da estação"</string>
+    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">"Se não for selecionado nenhum dia para repetir, o alarme será acionado apenas uma vez."</string>
+    <string name="not_in_downloads_list">"Não está na lista de downloads"</string>
+    <string name="reversed_landscape">"Paisagem invertida"</string>
+    <string name="reset_sleep_timer">"Resetar temporizador"</string>
+    <string name="toggle_playback_speed_on_off">"Ativar/desativar a velocidade de reprodução"</string>
+    <string name="http">"HTTP"</string>
+    <string name="app_name">"Podcast Republic"</string>
+    <string name="subscribe_on_podcast_republic">"Cadastre-se no Podcast Republic"</string>
+    <string name="there_are_no_episodes_with_notes_">"Não há episódios com anotações!"</string>
+    <string name="there_are_no_deleted_episodes_">"Não há episódios excluídos!"</string>
+    <string name="mark_as_favorite">"Marcar como favorito"</string>
+    <string name="remove_favorite_mark">"Remover dos favoritos"</string>
+    <string name="persistent_play_bar">"Barra de reprodução persistente"</string>
+    <string name="keep_play_bar_displayed_after_playback_finishes">"Mantenha a exibição da barra de reprodução após o término da reprodução"</string>
+    <string name="rotate_by_podcasts">"Alternar podcasts"</string>
+    <string name="search_in_all_podcasts">"Pesquisar em todos os podcasts"</string>
+    <string name="search_in_subscribed_podcasts">"Pesquisar nos podcasts inscritos"</string>
+    <string name="search_by_podcast_title">"Pesquisar pelo título do podcast"</string>
+    <string name="search_by_podcast_publisher">"Pesquisar pelo editor do podcast"</string>
+    <string name="all_podcasts">"Todos os podcasts"</string>
+    <string name="my_podcasts">"Meus podcasts"</string>
+    <string name="fade_audio_out_2_minutes_less">"Diminuir gradativamente o áudio (2 minutos antes)"</string>
+    <string name="keep_all_articles">"Manter todos os artigos"</string>
+    <string name="keep_articles">"Manter artigos"</string>
+    <string name="keep_articles_from_last_d_days">"Manter artigos dos últimos %d dias"</string>
+    <string name="pref_download_location_select_prompt_message">"Você será redirecionado para o gerenciador de arquivos do Android. Selecione um diretório no armazenamento interno ou cartão SD para ser usado como o local dos downloads."</string>
+    <string name="review_wifi_only_prompt_message">"Você sabia que este aplicativo usa a opção \"somente WiFi\" por padrão? Você pode desativá-la se tiver uma conexão rápida de dados, por exemplo. Deseja revisar essas configurações agora?"</string>
+    <string name="delete_virtual_podcast_file_from_storage_after_being_played">"Excluir o download do podcast após a sua reprodução"</string>
+    <string name="play_all">"Reproduzir todos"</string>
+    <string name="remove_played_episode">"Remover episódio reproduzido"</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">"Remover o episódio da lista de reprodução após a reprodução"</string>
+    <string name="apply_this_change_to_all_playlist_">"Aplicar esta alteração a todas as listas de reprodução?"</string>
+    <string name="overwrite_volume_mute_state">"Substituir estado mudo do volume"</string>
+    <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">"Permite substituir o volume em \"mudo\" pelo o último nível de volume reproduzido"</string>
+    <string name="starting_podcast_update_checking">"Iniciando a verificação de atualizações de podcasts."</string>
+    <string name="_d_minutes">"%d minutos"</string>
+    <string name="time_unit_minutes">"Minutos"</string>
+    <string name="greater_than">"Maior que"</string>
+    <string name="less_than">"Menor que"</string>
+    <string name="has_duration">"Tem duração"</string>
+    <string name="filter_episode_title">"Filtrar por título do episódio"</string>
+    <string name="filter_episode_duration">"Filtrar por duração do episódio"</string>
+    <string name="clear_the_recents_list_">"Limpar a lista \"Recente\"?"</string>
+    <string name="clear_the_list">"Limpar a lista"</string>
+    <string name="play_as_video">"Reproduzir como vídeo"</string>
+    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Download automático de até %d episódios mais antigos e não reproduzidos do podcast atualmente em reprodução</string>
+    <string name="select_all_below">Selecionar todos abaixo</string>
+    <string name="select_all_above">Selecionar todos acima</string>
+    <string name="ignore_articles_in_title">Ignorar artigos no título</string>
+    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignorar artigos (Um, Uma, ou O, A) no título do podcast ao ordenar por título.</string>
+    <string name="create_shortcut">Criar atalho</string>
+    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Permitir o uso da rede de dados e ignorar as retrições de bateria durante o download dos episódios.</string>
+    <string name="show_play_next_episode_station_button">Exibir o botão Tocar o próximo</string>
+    <string name="append_to_up_next">Adicionar ao Próximo</string>
+    <string name="only_include_episodes_with_user_notes">Somente incluir episódios com notas de usuários</string>
+    <string name="description_preview">Previsualizar descrição</string>
+    <string name="d_lines_of_text">%d linhas</string>
+    <string name="mark_current_playback_position">Marcar a posição da reprodução atual</string>
+    <string name="comma">", "</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Escolha uma imagem como o ícone do atalho</string>
+    <string name="use_default_icon">Usar icone padrão</string>
+    <string name="syncing_articles_">Sincronizando artigos…</string>
+    <string name="syncing_rss_feeds_">Sincronizando feeds RSS…</string>
+    <string name="download_priority">Prioridade do Download</string>
+    <string name="pin_to_top">Fixar no topo</string>
+    <string name="unpin_from_top">Desafixar do topo</string>
+    <string name="only_include_episodes_with_user_chapters">Incluir apenas episódios com capítulos de usuários</string>
+    <string name="add_tags_to_podcasts">Adicionar tags ao podcast</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Adcionar novos episódios às playlists automaticamente.</string>
+    <string name="podcast_artwork">Arte do podcast</string>
+    <string name="rss_feed_artwork">Arte do feed RSS</string>
+    <string name="_1s_2s_n">%1$s: %2$s\n</string>
+    <string name="_1s_2d_kbs_n">%1$s: %2$dKB/s\n</string>
+    <string name="album">Álbum</string>
+    <string name="artist">Artista</string>
+    <string name="author">Autor</string>
+    <string name="composer">Compositor</string>
+    <string name="album_artist">Artista do álbum</string>
+    <string name="year">Ano</string>
+    <string name="bitrate">Taxa de bits</string>
+    <string name="number_of_tracks">Número de faixas</string>
+    <string name="preview_notes">Previsualizar notas</string>
+    <string name="preview_user_notes_in_list">Previsualizar notas de usuários na lista</string>
+    <string name="extract_from_metadata">Extrair dos metadados</string>
+    <string name="use_filename">Usar nome do arquivo</string>
+    <string name="delete_played_episode">Excluir episódios reproduzidos</string>
+    <string name="copy_files_to_download_directory">Copiar arquivos para o diretório de download</string>
+    <string name="move_files_to_download_directory">Mover arquivos para o diretório de download</string>
+    <string name="greater_than_d_minutes">&gt; %1$d minutos</string>
+    <string name="less__than_d_minutes">&lt; %1$d minutos</string>
+    <string name="jump_to_next_chapter">Ir para o próximo capítulo</string>
+    <string name="you_haven_t_left_any_reviews_yet">Você ainda não deixou comentários.</string>
+    <string name="true_crime">Crimes reais</string>
+    <string name="leisure">Lazer</string>
+    <string name="fiction">Ficção</string>
+    <string name="genre_type_hisotry">História</string>
+    <string name="animations">Animações</string>
+    <string name="list_animation">Animação da lista</string>
+    <string name="animate_items_when_loading_into_list">Animar itens ao carregar lista</string>
+    <string name="failed_to_update_podcast_s">Falha ao atualizar podcast: %s</string>
+    <string name="reset_password">Redefinir senha</string>
+    <string name="account_already_exists_please_login_with_the_email_and_password_">Account already exists, please login with the email and password.</string>
+    <string name="sleep_timer_is_on_">Sleep timer is on!</string>
+    <string name="advanced_options">Advanced</string>
+    <string name="auto_start_sleep_timer">Auto start</string>
+    <string name="auto_pause_sleep_timer">Auto pause</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
+    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+</resources>

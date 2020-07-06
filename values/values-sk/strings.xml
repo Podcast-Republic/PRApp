@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation" >
+
+    <string-array name="country_list">
+        <item>Albánsko</item>
+        <item>Alžírsko</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Argentína</item>
+        <item>Arménsko</item>
+        <item>Austrália</item>
+        <item>Rakúsko</item>
+        <item>Azerbajdžan</item>
+        <item>Bahamské ostrovy</item>
+        <item>Bahrain</item>
+        <item>Belgicko</item>
+        <item>Bolívia</item>
+        <item>Brazília</item>
+        <item>Kambodža</item>
+        <item>Kanada</item>
+        <item>Čile</item>
+        <item>Čína</item>
+        <item>Kolumbia</item>
+        <item>Kostarika</item>
+        <item>Chorvátsko</item>
+        <item>Cyprus</item>
+        <item>Česká republika</item>
+        <item>Dánsko</item>
+        <item>Ekvádor</item>
+        <item>Egypt</item>
+        <item>Fínsko</item>
+        <item>Francúzsko</item>
+        <item>Nemecko</item>
+        <item>Grécko</item>
+        <item>Hong Kong</item>
+        <item>Maďarsko</item>
+        <item>Island</item>
+        <item>India</item>
+        <item>Indonézia</item>
+        <item>Írsko</item>
+        <item>Izrael</item>
+        <item>Taliansko</item>
+        <item>Jamaica</item>
+        <item>Japonsko</item>
+        <item>Jordán</item>
+        <item>Kazachstan</item>
+        <item>Keňa</item>
+        <item>Kórea</item>
+        <item>Kuvajt</item>
+        <item>Kirgizsko</item>
+        <item>Lotyšsko</item>
+        <item>Litva</item>
+        <item>Luxembursko</item>
+        <item>Macau</item>
+        <item>Malajzia</item>
+        <item>Mexiko</item>
+        <item>Mongolsko</item>
+        <item>Holandsko</item>
+        <item>Nový Zéland</item>
+        <item>Nórsko</item>
+        <item>Pakistan</item>
+        <item>Peru</item>
+        <item>Filipíny</item>
+        <item>Poľsko</item>
+        <item>Portugalsko</item>
+        <item>Katar</item>
+        <item>Rumunsko</item>
+        <item>Rusko</item>
+        <item>Saudská Arábia</item>
+        <item>Srbsko</item>
+        <item>Singapur</item>
+        <item>Slovensko</item>
+        <item>Slovinsko</item>
+        <item>Južná Afrika</item>
+        <item>Španielsko</item>
+        <item>Srí Lanka</item>
+        <item>Švédsko</item>
+        <item>Švajčiarsko</item>
+        <item>Taiwan</item>
+        <item>Tadžikistan</item>
+        <item>Thajsko</item>
+        <item>Tunisko</item>
+        <item>Turecko</item>
+        <item>Ukrajina</item>
+        <item>Spojené Arabské Emiráty</item>
+        <item>Veľká Británia</item>
+        <item>Spojené štáty americké</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string name="app_name">Podcast Republic</string>
+    <string name="pref_auto_delete_played_summary">Automaticky odstrániť prehrané položky zo zoznamu sťahovaných súborov</string>
+    <string name="pref_downloadLocation">Stiahnuť podcast do:</string>
+    <string name="downloads">Sťahovanie</string>
+    <string name="jump_to_next_episode">Pamätať si aktuálnu pozíciu prehrávania</string>
+    <string name="jump_to_the_end">Označiť ako dokončené</string>
+    <string name="delete_download">Odstrániť stiahnuté</string>
+    <string name="pause_download">Pozastaviť sťahovanie</string>
+    <string name="resume_download">Pokračovať v sťahovaní</string>
+    <string name="delete">Odstrániť</string>
+    <string name="now_playing">Teraz sa prehráva</string>
+    <string name="stop">Zastaviť</string>
+    <string name="pause">Pozastaviť</string>
+    <string name="favorite">Obľúbené</string>
+    <string name="favorites">Obľúbené</string>
+    <string name="whats_new">Čo je nové</string>
+    <string name="more">Viac</string>
+    <string name="unplayed">Neprehraté</string>
+    <string name="played">Prehraté</string>
+    <string name="country_text">Krajina/Región</string>
+    <string name="organize_podcasts">Organizácia podcastov</string>
+    <string name="add_podcasts">Pridať podcasty</string>
+    <string name="add_a_podcast_by_url">Pridať podcast cez URL</string>
+    <string name="all">Všetko</string>
+    <string name="arts">Umenie</string>
+    <string name="business">Obchod</string>
+    <string name="comedy">Zábava</string>
+    <string name="education">Vzdelávanie</string>
+    <string name="games">Hry a záľuby</string>
+    <string name="government">Vláda a organizácie</string>
+    <string name="health_fitness">Zdravie</string>
+    <string name="kids">Deti a rodina</string>
+    <string name="music">Hudba</string>
+    <string name="news">Správy a politika</string>
+    <string name="region">Náboženstvo a spiritualita</string>
+    <string name="science">Veda a medicína</string>
+    <string name="society">Spoločnosť a kultúra</string>
+    <string name="sports">Šport a rekreácia</string>
+    <string name="tech">Technológie</string>
+    <string name="tv">TV a film</string>
+    <string name="title">Nadpis</string>
+    <string name="provider">Poskytovateľ</string>
+    <string name="image_url">URL adresa obrázka</string>
+    <string name="items_in_red_are_required_">Položky označené červenou farbou sú povinné.</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="add">Pridať</string>
+    <string name="publisher">Vydavateľ</string>
+    <string name="description_of_podcast">Popis podcastu</string>
+    <string name="description">Popis</string>
+    <string name="play">Prehrať</string>
+    <string name="share">Zdieľať</string>
+    <string name="add_to_playlist">Pridať do playlistu</string>
+    <string name="end_editing_mode">Ukončiť režim úprav</string>
+    <string name="download_selection_s_">Stiahnuť vybrané</string>
+    <string name="add_selection_s_to_playlist">Pridať vybrané do playlistu</string>
+    <string name="set">Nastaviť</string>
+    <string name="remove_selection_s_from_download_list">Odstrániť vybrané zo zoznamu sťahovaných súborov</string>
+    <string name="no_episode_selected">Nie je vybratá žiadna epizóda</string>
+    <string name="set_played">Označiť ako prehraté</string>
+    <string name="set_unplayed">Označiť ako neprehraté</string>
+    <string name="delete_episode">Odstrániť epizódu</string>
+    <string name="One_episode_has_been_added_to_playlist">Do playlistu bola pridaná jedna epizóda</string>
+    <string name="episodes_have_been_added_to_playlist">Do playlistu boli pridané epizódy: "%1$d"</string>
+    <string name="One_episode_has_been_added_to_downloads">Na stiahnutie bola pridaná jedna epizóda</string>
+    <string name="episodes_have_been_added_to_downloads">Na stiahnutie boli pridané epizódy: "%1$d"</string>
+    <string name="download_episode_not_found">Stiahnutá epizóda sa nenašla</string>
+    <string name="yes">Áno</string>
+    <string name="ok">OK</string>
+    <string name="no">Nie</string>
+    <string name="close">Zavrieť</string>
+    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Stiahnutá epizóda [%1$s] sa nenašla.\nČo chcete urobiť?"</string>
+    <string name="episode_downloading">Sťahovanie</string>
+    <string name="subscribe">Odoberať</string>
+    <string name="unsubscribe">Zrušiť odber</string>
+    <string name="settings">Nastavenia</string>
+    <string name="remove_ad">Odstrániť reklamy</string>
+    <string name="playlists">Playlisty</string>
+    <string name="there_is_no_podcast_playing">Nič sa neprehráva</string>
+    <string name="press_again_to_exit">Ukončíte opätovným stlačením.</string>
+    <string name="paused">Pozastavené</string>
+    <string name="stopped_on_error">Zastavené! Nastala chyba.</string>
+    <string name="error_downloaded_file_not_found">Chyba: stiahnutý súbor nebol nájdený</string>
+    <string name="stopped">Zastavené</string>
+    <string name="completed">Dokončené</string>
+    <string name="export_completed_s">Export bol dokončený: %1$s</string>
+    <string name="import_completed">Import bol dokončený</string>
+    <string name="no_wifi_available">K dispozícii nie je žiadne pripojenie Wi-Fi!</string>
+    <string name="tag">Tag</string>
+    <string name="updating">Aktualizuje sa</string>
+    <string name="preparing">Pripravuje sa …</string>
+    <string name="error_no_wifi">Chyba: Žiadne Wi-Fi</string>
+    <string name="auto_download">Automatické sťahovanie</string>
+    <string name="playing">Prehrávanie</string>
+    <string name="subscriptions">Odbery</string>
+    <string name="help_faqs">Pomoc/FAQ</string>
+    <string name="next">Ďalšia</string>
+    <string name="file_date">Dátum súboru</string>
+    <string name="publishing_date">Dátum vydania</string>
+    <string name="sort_manually">Manuálne</string>
+    <string name="Update_podcasts">Aktualizácia podcastov</string>
+    <string name="sort_by">Zoradiť podľa…</string>
+    <string name="last_updated_time">Naposledy aktualizované</string>
+    <string name="most_recent_count">Počet najnovších</string>
+    <string name="total_unplayed_count">Počet neprehratých</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="stream">Stream</string>
+    <string name="remove">Odstrániť</string>
+    <string name="redownload">Stiahnuť znova</string>
+    <string name="download_all">"Stiahnuť všetko"</string>
+    <string name="download_all_d_episodes">Stiahnuť všetky epizódy: %1$d?</string>
+    <string name="display">Zobraziť</string>
+    <string name="when_i_press_next_button">Keď stlačím preskočiť</string>
+    <string name="background_play">Prehrať na pozadí</string>
+    <string name="user_interface">Užívateľské rozhranie</string>
+    <string name="show_description">Zobraziť popis</string>
+    <string name="update_on_start">Aktualizovať pri spustení</string>
+    <string name="media_player">Prehrávač médií</string>
+    <string name="download_location">Umiestnenie sťahovania</string>
+    <string name="change_log">Zoznam zmien</string>
+    <string name="view_what_s_new_in_this_version">Pozrite sa, čo je nové v tejto verzii</string>
+    <string name="version">Verzia</string>
+    <string name="about">O aplikácii</string>
+    <string name="action_">"Akcia: "</string>
+    <string name="action">"Akcia"</string>
+    <string name="download_only_when_connected_to_wifi">Sťahovať iba pri pripojení k sieti Wi-Fi</string>
+    <string name="add_to_new_tag">Pridať k novému tagu</string>
+    <string name="enter_new_tag_name">Zadajte nový názov tagu</string>
+    <string name="car_mode">Režim Auto</string>
+    <string name="update_artwork">Aktualizovať obrázok</string>
+    <string name="enter_new_artwork_url">Zadajte novú webovú adresu obrázka</string>
+    <string name="sleep_timer">Časovač vypnutia</string>
+    <string name="last_updated_s">"Aktualizované: %1$s"</string>
+    <string name="fast_forward">Pretočiť dopredu</string>
+    <string name="fast_rewind">Pretočiť dozadu</string>
+    <string name="play_pause">Prehrať/Pozastaviť</string>
+    <string name="none">Žiadne</string>
+    <string name="sort_asc">Zoradiť vzostupne</string>
+    <string name="sort_desc">Zoradiť zostupne</string>
+    <string name="undo_delete">Zrušiť odstránenie</string>
+    <string name="language">Jazyk</string>
+    <string name="equalizer">Ekvalizér</string>
+    <string name="sort">Zoradiť</string>
+    <string name="continue_">Pokračovať</string>
+    <string name="delete_from_playlists">Odstrániť z playlistov</string>
+    <string name="keep_in_playlists">Ponechať v playlistoch</string>
+    <string name="remember_the_choice">Zapamätať si voľbu</string>
+    <string name="when_deleting_a_download">Pri odstraňovaní sťahovania</string>
+    <string name="all_episodes">Všetky epizódy</string>
+    <string name="latest_d_episodes">Posledné epizódy: %d</string>
+    <string name="system_default">Predvolené systémom</string>
+    <string name="every_one_hour">Každú hodinu</string>
+    <string name="every_three_hours">Každé tri hodiny</string>
+    <string name="every_six_hours">Každých šesť hodín</string>
+    <string name="every_half_day">Každého pol dňa</string>
+    <string name="every_day">Každý deň</string>
+    <string name="every_three_days">Každé tri dni</string>
+    <string name="manually">Manuálne</string>
+    <string name="do_not_check">Neaktualizovať</string>
+    <string name="newest_first">Najskôr najnovšie</string>
+    <string name="oldest_first">Najskôr najstaršie</string>
+    <string name="on">Zap.</string>
+    <string name="off">Vyp.</string>
+    <string name="stop_sleep_timer">Zastaviť časovač</string>
+    <string-array name="ui_theme_text">
+        <item>Všetko biele</item>
+        <item>Biela</item>
+        <item>Červená</item>
+        <item>Ružová</item>
+        <item>Fialová</item>
+        <item>Tmavofialová</item>
+        <item>Indigo</item>
+        <item>Modrá</item>
+        <item>Svetlomodrá</item>
+        <item>Tyrkysová</item>
+        <item>Modrozelená</item>
+        <item>Zelená</item>
+        <item>Svetlozelená</item>
+        <item>Jantárová</item>
+        <item>Oranžová</item>
+        <item>Tmavooranžová</item>
+        <item>Modrosivá</item>
+        <item>Tmavá</item>
+        <item>Čierna AMOLED</item>
+    </string-array>
+    <string-array name="ui_theme_value" translatable="false">
+        <item>DeepWhite</item>
+        <item>White</item>
+        <item>Red</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>DeepPurple</item>
+        <item>Indigo</item>
+        <item>Light</item>     <!-- Blue-->
+        <item>LightBlue</item>
+        <item>Cyan</item>
+        <item>Teal</item>
+        <item>Green</item>
+        <item>LightGreen</item>
+        <item>Amber</item>
+        <item>Orange</item>
+        <item>DeepOrange</item>
+        <item>BlueGray</item>
+        <item>Dark</item>
+        <item>DeepDark</item>
+    </string-array>
+    <string name="theme">Motív</string>
+    <string name="skip_beginning">Preskočiť začiatok</string>
+    <string name="time_display_second_short_format">sek.</string>
+    <string name="search_episode_title">Vyhľadať názov epizódy</string>
+    <string name="search_episodes">Hľadať epizódy</string>
+    <string name="widgets">Miniaplikácia</string>
+    <string name="background_transparency">Priehľadnosť pozadia</string>
+    <string name="low">Nízka</string>
+    <string name="high">Vysoká</string>
+    <string name="gesture_sensitivity">Citlivosť na gesto</string>
+    <string name="view_library_as">Prehliadať ako …</string>
+    <string name="list_view">Zoznam</string>
+    <string name="grid_view">Mriežka</string>
+    <string name="playlist_mode">Režim playlistu</string>
+    <string name="single_play_mode">Režim jedného prehratia</string>
+    <string name="has_been_added_to_subscription">" bol pridaný na odber"</string>
+    <string name="audio_not_started_yet">Zvuk ešte nie je spustený!</string>
+    <string name="manage_playlist">Správa playlistov</string>
+    <string name="download">Stiahnuť</string>
+    <string name="fast_forward_time">Čas pretočenia dopredu</string>
+    <string name="fast_rewind_time">Čas pretočenia dozadu</string>
+    <string name="play_stop">Prehrať/Zastaviť</string>
+    <string name="buttons">Tlačidlá</string>
+    <string name="when_lost_audio_focus">Ak je zvuk dočasne prerušený</string>
+    <string name="lower_audio_volume">Znížiť hlasitosť zvuku</string>
+    <string name="pause_the_playback">Pozastaviť prehrávanie</string>
+    <string name="rewind_5_seconds">Pretočiť dozadu o 5 sekúnd</string>
+    <string name="repeat">Opakovanie</string>
+    <string name="keep_downloads">Ponechať stiahnuté</string>
+    <string name="when_deleting_from_playlist">Pri odstraňovaní z playlistu</string>
+    <string name="search">Vyhľadávanie</string>
+    <string name="edit">Upraviť</string>
+    <string name="time_display_minute_short_format">m</string>
+    <string name="keep_screen_on">Nechať obrazovku zapnutú</string>
+    <string name="backup_restore">Zálohovanie a obnovenie</string>
+    <string name="backup">Zálohovať</string>
+    <string name="restore_settings_database">Kliknutím obnovíte nastavenia a databázu</string>
+    <string name="restore">Obnoviť</string>
+    <string name="erase_data_and_restore_from_backup_">Vymazať údaje a obnoviť zo zálohy?</string>
+    <string name="restore_successful">Obnovenie bolo úspešné</string>
+    <string name="restore_failed">Obnovenie zlyhalo</string>
+    <string name="backup_successful_s">Zálohovanie bolo úspešné: %1$s</string>
+    <string name="backup_failed_">Zálohovanie zlyhalo!</string>
+    <string name="when_headset_bluetooth_disconnected">Po odpojení slúchadiel/Bluetooth</string>
+    <string name="volume">Hlasitosť</string>
+    <string name="add_a_virtual_podcast">Pridať virtuálny podcast</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Vytvorte virtuálne úložisko podcastov výberom priečinka na vašom zariadení. Každý mediálny súbor vo vybranom priečinku sa importuje ako epizóda. Mediálne súbory môžete neskôr do priečinka pridať alebo vymazať ručne.</string>
+    <string name="location">Umiestnenie</string>
+    <string name="select_a_directory">Vyberte priečinok na vašom zariadení</string>
+    <string name="data_wifi_usage">Využitie dát a Wi-Fi</string>
+    <string name="download_via_wifi_only">Sťahovať iba cez Wi-Fi</string>
+    <string name="feed_updates_via_wifi_only">Aktualizovať podcasty iba cez Wi-Fi</string>
+    <string name="update_podcasts_only_when_connected_to_wifi">Aktualizovať podcasty iba pri aktívnom pripojení Wi-Fi</string>
+    <string name="mark_all_as_played">Označiť všetko ako prehraté</string>
+    <string name="playback_mode">Režim prehrávania</string>
+    <string name="display_on_lock_screen">Zobraziť na uzamknutej obrazovke</string>
+    <string name="display_artwork_on_lock_screen_when_playing">Počas prehrávania zobraziť obrázok na uzamknutej obrazovke</string>
+    <string name="there_are_no_episodes_">Nie sú žiadne epizódy!</string>
+    <string name="podcast_feed_url">URL adresa podcastu</string>
+    <string name="no_podcast_found_">Nenašli sa žiadne podcasty!</string>
+    <string name="find_podcast">Nájsť podcast</string>
+    <string name="authentication">Autentifikácia</string>
+    <string name="http">HTTP</string>
+    <string name="password">Heslo</string>
+    <string name="username">Používateľské meno</string>
+    <string name="new_episodes_available">K dispozícii sú nové epizódy</string>
+    <string name="notifications">Upozornenia</string>
+    <string name="podcast">Podcast</string>
+    <string name="send_email_">Poslať email…</string>
+    <string name="bass_boost">Zvýraznenie basov</string>
+    <string name="media_type">Typ média</string>
+    <string name="auto_detect">Automatická detekcia</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="account_and_syncing">Účet a synchronizácia</string>
+    <string name="shuffle">Náhodne</string>
+    <string name="update_on_charging">Aktualizácia počas nabíjania</string>
+    <string name="update_podcasts_only_when_battery_is_charging">Aktualizovať podcasty iba počas nabíjania batérie</string>
+    <string name="filename">Názov súboru</string>
+    <string name="auto_backup_saved_to_">"Automatická záloha bola uložená do [%1$s]"</string>
+    <string name="download_removed">Stiahnuť odstránené</string>
+    <string name="load_artworks_only_when_connected_to_wifi">Obrázky sťahovať iba pri pripojení k sieti Wi-Fi</string>
+    <string name="load_artwork_via_wifi_only">Obrázky sťahovať iba cez Wi-Fi</string>
+    <string name="when_pressing_episode_in_list">Pri stlačení epizódy v zozname</string>
+    <string name="start_playing">Spustiť prehrávanie</string>
+    <string name="display_episode_artwork">Zobraziť obrázok epizódy</string>
+    <string name="ringtone">Zvonenie</string>
+    <string name="vibrate">Vibrovať</string>
+    <string name="light">LED svetlo</string>
+    <string name="history">História</string>
+    <string name="remove_all">Odstrániť všetky</string>
+    <string name="auto_delete_played_episode_from_playlists">Automaticky odstrániť prehraté položky z playlistov</string>
+    <string name="new_episode_notification">Upozornenie na novú epizódu</string>
+    <string name="download_on_charging">Sťahovať počas nabíjania</string>
+    <string name="start_downloading_only_when_battery_is_charging">Spustiť sťahovanie iba počas nabíjania batérie</string>
+    <string name="add_a_youtube_podcast">Pridať podcast YouTube</string>
+    <string name="channels">Kanály</string>
+    <string name="channel_id">ID kanála</string>
+    <string name="playlist_id">ID playlistu</string>
+    <string name="when_deleting_an_episode">Pri odstraňovaní epizódy</string>
+    <string name="also_remove_from_downloads_amp_playlists">Odstrániť tiež zo Stiahnuté a Playlisty</string>
+    <string name="remove_episode_only">Odstrániť iba epizódu</string>
+    <string name="mark_episode_as_played">Označiť epizódu ako prehratú</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">Označiť epizódu ako prehratú, ak sa prehralo viac ako %1$d%%</string>
+    <string name="download_episode">Stiahnuť epizódu</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">Spustiť sťahovanie po pridaní epizódy do playlistu</string>
+    <string name="podcast_keep_download_limit_reached_">Počet ponechaných stiahnutí bol dosiahnutý!</string>
+    <string name="auto_download_filter">Filter automatického sťahovania</string>
+    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">Filter epizód pre automatické stiahnutie. Musíte mať povolenú možnosť automatického sťahovania.</string>
+    <string name="keep_favorite_episodes">Ponechať obľúbené epizódy</string>
+    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">Zabrániť automatickému odstráneniu obľúbenej epizódy</string>
+    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">Bol nájdený podpriečinok. Vytvoriť nový virtuálny podcast pre každý podpriečinok?</string>
+    <string name="import_sub_directory">Importovať podpriečinok</string>
+    <string name="failed_downloads">Zlyhané</string>
+    <string name="subscribe_on_podcast_republic">Odoberať Podcast Republic</string>
+    <string name="dim_screen_but_keep_screen_responsive">Stmaviť obrazovku, ale ponechať ju v pohotovosti</string>
+    <string name="chapters">Kapitoly</string>
+    <string name="no_chapter_marks_found">Nenašli sa žiadne značky kapitol.</string>
+    <string name="keep_latest_n_downloads">Ponechať najnovšie stiahnutia: %1$d</string>
+    <string name="keep_all_downloads">Ponechať všetky stiahnuté súbory</string>
+    <string name="playback_controls">Ovládacie prvky prehrávania</string>
+    <string name="playback_controls_maximum_three_in_notification_">Ovládacie prvky prehrávania (maximálne tri) v notifikačnom paneli: </string>
+    <string name="hide_played_podcasts">Skryť prehraté podcasty</string>
+    <string name="pause_downloads">Pozastaviť sťahovanie</string>
+    <string name="has_keywords_in_title">Obsahuje kľúčové slová v názve</string>
+    <string name="previous">Predchádzajúca</string>
+    <string name="bluetooth_headset_key_mapping">Mapovanie tlačidiel Bluetooth/slúchadiel</string>
+    <string name="button">Tlačidlo</string>
+    <string name="and">A</string>
+    <string name="screen_size">Veľkosť obrazovky</string>
+    <string name="original_size">Pôvodná veľkosť</string>
+    <string name="auto_fit">Automatické prispôsobenie</string>
+    <string name="stretch">Natiahnuť</string>
+    <string name="fit_width">Prispôsobiť šírku</string>
+    <string name="fit_height">Prispôsobená výška</string>
+    <string name="search_podcasts">Vyhľadať podcasty</string>
+    <string name="reset_episodes">Resetovať epizódy</string>
+    <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">Upozornenie: Resetovaním epizód odstránite stiahnutia tohto podcastu!</string>
+    <string name="copy_url">Skopírovať URL</string>
+    <string name="view_episode">Zobraziť epizódu</string>
+    <string name="episode_url_has_been_copied_to_clipboard">Adresa epizódy bola skopírovaná do schránky</string>
+    <string name="dim_screen">Stmaviť obrazovku</string>
+    <string name="keep_screen_always_on">Nevypínať obrazovku</string>
+    <string name="completed_downloads">Dokončené</string>
+    <string name="top_charts">Rebríčky</string>
+    <string name="browse_top_charts">Prehliadať rebríčky</string>
+    <string name="in_minutes">O %1$d minút</string>
+    <string name="when_current_episode_ends">Po skončení aktuálnej epizódy</string>
+    <string name="add_chapter">Pridať kapitolu</string>
+    <string name="time">Čas</string>
+    <string name="filter_name">Názov filtra</string>
+    <string name="podcasts">Podcasty</string>
+    <string name="playing_state">Stav prehrávania</string>
+    <string name="only_include_favorited_episodes">Zahrnúť iba obľúbené epizódy</string>
+    <string name="download_status">Stav sťahovania</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ak sa vyskytne chyba prehrávania, pokračovať v prehrávaní ďalšej epizódy</string>
+    <string name="continue_on_error">Pokračovať pri chybe</string>
+    <string name="downloading">Sťahovanie</string>
+    <string name="failed">Zlyhalo</string>
+    <string name="select_all">Označiť všetko</string>
+    <string name="export_download">Exportovať stiahnutú</string>
+    <string name="export_downloads">Exportovať stiahnuté</string>
+    <string name="edit_episode_filter">Upraviť filter epizód</string>
+    <string name="done">Hotovo</string>
+    <string name="move_selections_to_top">Presunúť vybrané nahor</string>
+    <string name="move_selections_to_bottom">Presunúť vybrané nadol</string>
+    <string name="downloaded">Stiahnuté</string>
+    <string name="dont_download_episode">Nesťahovať epizódu</string>
+    <string name="match_all_keywords">Obsahuje všetky kľúčové slová</string>
+    <string name="match_any_of_the_keywords">Obsahuje aspoň jedno kľúčové slovo</string>
+    <string name="download_episode_if_matching_all_keywords_">"Stiahnuť epizódu, ak obsahuje všetky kľúčové slová: "</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_">"Stiahnuť epizódu, ak obsahuje aspoň jedno kľúčové slovo: "</string>
+    <string name="dont_download_episode_if_matching_all_keywords_">"Nesťahovať epizódu, ak obsahuje všetky kľúčové slová: "</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_">"Nesťahovať epizódu, ak obsahuje aspoň jedno kľúčové slovo: "</string>
+    <string name="keywords">Kľúčové slová</string>
+    <string name="enter_keywords">Zadajte kľúčové slová</string>
+    <string name="restoring_">Obnovuje sa …</string>
+    <string name="creating_backup_">Vytvára sa záloha …</string>
+    <string name="resume_downloads">Pokračovať v sťahovaní</string>
+    <string name="delete_episode_and_download_">Odstrániť epizódu a stiahnutý súbor?</string>
+    <string name="clear_playlist">Vymazať playlist</string>
+    <string name="clear_current_playlist_">Vymazať aktuálny playlist?</string>
+    <string name="enter_playlist_name">Zadajte názov playlistu</string>
+    <string name="podcast_exported_to_">"Podcast exportovaný do: [%1$s]"</string>
+    <string name="search_not_found">Nič sa nenašlo</string>
+    <string name="_is_not_found_add_this_podcast_">"Výraz [%1$s] nebol nájdený. Chcete pridať tento podcast podľa URL adresy? “</string>
+    <string name="episode_publishing_date">Dátum vydania</string>
+    <string name="episode_guid">GUID epizódy</string>
+    <string name="episode_unique_criteria">Jedinečné kritériá epizódy</string>
+    <string name="episode_url">URL adresa epizódy</string>
+    <string name="episode_title">Názov epizódy</string>
+    <string name="export_history">História exportu</string>
+    <string name="notes">Poznámky</string>
+    <string name="playback_history">História prehrávania</string>
+    <string name="edit_notes">Upraviť poznámky</string>
+    <string name="generated_by_s_app">Generované aplikáciou %1$s</string>
+    <string name="auto_backup">Automatická záloha</string>
+    <string name="double_tap_to_play_or_pause">Dvojitým klepnutím prehráte alebo pozastavíte prehrávanie</string>
+    <string name="swipe_up_to_play_next_in_playlist">Pre prehratie ďalšej položky v playliste potiahnite nahor</string>
+    <string name="swipe_to_left_to_fast_rewind">Pre rýchle pretočenie dozadu potiahnite doľava</string>
+    <string name="swipe_to_right_to_fast_forward">Pre rýchle pretočenie dopredu potiahnite doprava</string>
+    <string name="swipe_down_to_stop">Pre zastavenie potiahnite nadol</string>
+    <string name="remove_subscription_to_">"Odstrániť odber: [%1$s]"</string>
+    <string name="data_roaming">Dátový roaming</string>
+    <string name="allow_to_download_with_data_services_when_roaming">Pri roamingu povoliť sťahovanie pomocou dátových služieb</string>
+    <string name="up_next">Nasleduje</string>
+    <string name="episode_info">Informácie o epizóde</string>
+    <string name="no_more_episodes_to_play_from_playlist_s_">Žiadne ďalšie epizódy na prehratie z playlistu [%1$s]</string>
+    <string name="apply_this_change_to_all_podcasts_">Použiť túto zmenu na všetky podcasty?</string>
+    <string name="grid_size">Veľkosť mriežky</string>
+    <string name="play_pause_double_click">Dvojitým poklepaním Prehrať/Pozastaviť</string>
+    <string name="total_episodes">Celkový počet epizód</string>
+    <string name="duration">Trvanie</string>
+    <string name="browse_downloads">Prehliadať stiahnuté súbory</string>
+    <string name="browse_by_playlist">Prehliadať podľa playlistov</string>
+    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">Reset epizód odstráni epizódy z cache a obnoví epizódy z podcastového kanála.</string>
+    <string name="right_hand_operation">Ovládanie pravou rukou</string>
+    <string name="open_menu_drawer_on_the_right_side">Otvárať bočný panel z pravej strany</string>
+    <string name="go_to_podcast">Prejsť na podcast</string>
+    <string name="there_are_no_podcasts_">Nie sú žiadne podcasty!</string>
+    <string name="no_podcasts_selected">Nie sú vybrané žiadne podcasty!</string>
+    <string name="enjoy_podcast_republic">Ste spokojný s Podcast Republic?</string>
+    <string name="please_tell_us_how_we_re_doing">prosím, povedzte ako nám to ide.</string>
+    <string name="rate_us_in_the_play_store">Ohodnoťte nás v Obchode Play</string>
+    <string name="no_thanks">Nie, ďakujem</string>
+    <string name="select_an_image_on_device">Vyberte obrázok zo zariadenia</string>
+    <string name="youtube_type">Typ YouTube</string>
+    <string name="scanning_">Prehľadáva sa…</string>
+    <string name="playback_speed">Rýchlosť prehrávania</string>
+    <string name="keep_playing">Pokračovať v prehrávaní</string>
+    <string name="play_from_position">Prehrať od pozície</string>
+    <string name="report_a_bug">Nahlásiť chybu</string>
+    <string name="import_export_opml">Import/Export OPML</string>
+    <string name="import_from_opml_file">Importovať OPML</string>
+    <string name="export_to_opml_file">Exportovať OPML</string>
+    <string name="episodes">Epizódy</string>
+    <string name="episode_s_is_still_downloading_can_not_play_it">Epizóda [%1$s] sa stále sťahuje. Nedá sa prehrať.</string>
+    <string name="error_episode_still_downloading">Chyba: epizóda sa stále sťahuje</string>
+    <string name="disabled">Zakázané</string>
+    <string name="click_to_open_full_screen_player_view">Kliknutím otvoríte zobrazenie prehrávača na celú obrazovku</string>
+    <string name="keep_latest_x_downloads_for_each_podcast">Ponechať najnovšie stiahnutia pre každý podcast: %1$d</string>
+    <string name="radio_stations">Rádiá</string>
+    <string name="radios">Rádiá</string>
+    <string name="stations">Stanice</string>
+    <string name="connection_failed">Pripojenie zlyhalo</string>
+    <string name="search_stations">Vyhľadávanie staníc</string>
+    <string name="add_a_station_by_url">Pridať stanicu podľa URL adresy</string>
+    <string name="radio_stream_url_is_required_">Vyžaduje sa URL adresa streamu rádia!</string>
+    <string name="radio_title_is_required_">Názov stanice je povinný!</string>
+    <string name="_is_not_found_add_this_station_">"Výraz [%1$s] nebol nájdený. Pridať túto stanicu cez URL?"</string>
+    <string name="debug_log">Denník ladenia</string>
+    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">Ak nie je zadaný žiadny obrázok, ako predvolený obrázok sa použije akýkoľvek obrazový súbor nájdený vo virtuálnom podcastovom priečinku.</string>
+    <string name="select">Zvoliť</string>
+    <string name="no_schedule_available">K dispozícii nie je žiadny plán</string>
+    <string name="browse_by_subscriptions">Prehliadať odbery</string>
+    <string name="browse_by_radio_stations">Prehliadať rádiá</string>
+    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">Wi-Fi nie je k dispozícii. Ruší sa aktualizácie podcastov.</string>
+    <string name="pull_to_refresh">Potiahnutím obnoviť</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">Potiahnutím playlistu nadol spustíte aktualizáciu podcastu</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">Potiahnutím zoznamu sťahovaných súborov nadol spustíte aktualizáciu podcastu</string>
+    <string name="auto_rotate_screen">Automatické otáčanie obrazovky</string>
+    <string name="screen_orientation">Orientácia obrazovky</string>
+    <string name="portrait">Na výšku</string>
+    <string name="landscape">Na šírku</string>
+    <string name="drag_the_handler_to_sort_manually">Pre manuálne zoradenie použite úchyt</string>
+    <string name="streaming">Stream</string>
+    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">Ak podcast vyžaduje prihlásenie, zadajte nižšie používateľské meno a heslo. Ak sa nevyžaduje prihlásenie, nechajte ich prázdne.</string>
+    <string name="can_not_play_ps">"Nedá sa prehrať: %1$s"</string>
+    <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+    <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
+    <string name="percent_played">Prehraté %1$d%%</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Potiahnutím zoznamu podcastov nadol spustíte aktualizáciu podcastov</string>
+    <string name="actions">Akcie</string>
+    <string name="when_an_episode_is_100_played">Ak je epizóda prehratá na 100%</string>
+    <string name="delete_the_download">Odstrániť stiahnutý súbor</string>
+    <string name="keep_the_download">Pokračovať v sťahovaní</string>
+    <string name="shake_your_device">Potrasenie zariadenia</string>
+    <string name="shake_device_to_control_playback">Ovládať prehrávanie zatrasením</string>
+    <string name="sensitivity">Citlivosť</string>
+    <string name="gestures">Gestá</string>
+    <string name="user_agreement">Súhlas používateľa</string>
+    <string name="multi_thread_download">Viacvláknové sťahovanie</string>
+    <string name="recents">Nedávne</string>
+    <string name="group_by_podcasts">Zoskupiť podľa podcastov</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Pri pridávaní epizódy do playlistu pridať aj do nasledujúcich playlistov</string>
+    <string name="compact_view">Kompaktné zobrazenie</string>
+    <string name="open_source_licenses">Licencie open source</string>
+    <string name="can_not_play_the_downloaded_file">Stiahnutý súbor nie je možné prehrať</string>
+    <string name="can_not_play_the_local_file">Lokálny súbor sa nedá prehrať</string>
+    <string name="audio_loudness_boost">Zvýšenie hlasitosti zvuku</string>
+    <string name="apply_to_all_podcasts">Použiť na všetky podcasty</string>
+    <string name="audio_effects_and_equalizer">Zvukové efekty a ekvalizér</string>
+    <string name="episode_info_short">Informácie o epizóde (krátke)</string>
+    <string name="episode_info_full">Informácie o epizóde (celé)</string>
+    <string name="twitter">Twitter</string>
+    <string name="storage_usage">Využitie úložiska</string>
+    <string name="stream_url">URL adresa streamu</string>
+    <string name="fm_am_frequency">Frekvencia FM/AM</string>
+    <string name="genre">Žáner</string>
+    <string name="city_state">Mesto, Štát</string>
+    <string name="sync_now">Synchronizovať teraz</string>
+    <string name="sign_in">Prihlásiť sa</string>
+    <string name="sign_out">Odhlásiť sa</string>
+    <string name="syncing_started">Synchronizácia sa začala</string>
+    <string name="account_logged_in_s"><![CDATA[Prihlásený účet: <i>%1$s</i>]]></string>
+    <string name="sync_subscriptions_and_episode_playback_progress">Synchronizácia odberov a priebehu prehrávania epizód</string>
+    <string name="schedule_auto_backup_every_d_days">Naplánovať automatické zálohovanie každých %1$d dní</string>
+    <string name="keep_most_recent_d_auto_backups">Ponechať najnovšie %1$d automatické zálohy</string>
+    <string name="save_auto_backup_to_s">Uložiť automatickú zálohu do: %1$s</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">Povoliť automatické zálohovanie nastavení aplikácie a databázy</string>
+    <string name="schedule_backup">Naplánovať zálohovanie</string>
+    <string name="backups_to_keep">Ponechať zálohy</string>
+    <string name="import_subscriptions_from_an_opml_file">Importovať odbery zo súboru OPML</string>
+    <string name="export_subscriptions_to_an_opml_file">Exportovať odbery do súboru OPML</string>
+    <string name="create_a_backup_of_app_settings_and_database">Vytvoriť zálohu nastavení aplikácie a databázy</string>
+    <string name="restore_app_settings_and_database_from_selected_backup">Obnoviť nastavenia aplikácie a databázy z vybranej zálohy</string>
+    <string name="save_to">Uložiť do</string>
+    <string name="buy_me_a_coffee">Kúpiť mi kávu</string>
+    <string name="clear_the_play_history_">Vymazať históriu prehrávania?</string>
+    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">Upozorniť, keď sa stiahnutý súbor odstráni z dôvodu dosiahnutia limitu pre počet ponechaných stiahnutých súborov</string>
+    <string name="keep_all">Ponechať všetko</string>
+    <string name="playlist">Playlist</string>
+    <string name="category">Kategórie</string>
+    <string name="update_podcasts_when_app_is_starting">Aktualizovať podcasty pri spustení aplikácie</string>
+    <string name="unknown_station">Neznáma stanica</string>
+    <string name="can_not_cast_youtube_videos_to_chromecast_">Videá z YouTubu nie je možné prenášať do zariadenia Chromecast!</string>
+    <string name="add_a_playlist">Pridať do playlistu</string>
+    <string name="add_to_tag">Pridať tag</string>
+    <string name="add_to_default_playlists">Pridať do predvolených playlistov</string>
+    <string name="add_to_selected_playlists">Pridať do vybraných playlistov</string>
+    <string name="delete_selected_episodes_">Odstrániť vybrané epizódy?</string>
+    <string name="you_have_no_completed_downloads">Nemáte žiadne dokončené sťahovania.</string>
+    <string name="you_have_no_pending_downloads">Nemáte žiadne čakajúce sťahovanie.</string>
+    <string name="all_good_">Všetko v poriadku ☺</string>
+    <string name="there_are_no_episodes_in_this_playlist">V tomto playliste nie sú žiadne epizódy.</string>
+    <string name="no_play_history_found">Nebola nájdená žiadna história prehrávania.</string>
+    <string name="set_playlists">Nastaviť playlisty</string>
+    <string name="mark_all_as_read">Označiť všetko ako prečítané</string>
+    <string name="not_in_use">Nenastavené</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">Potiahnutím zoznamu epizód nadol spustíte aktualizáciu podcastov</string>
+    <string name="mark_all_previous_episodes_as_played">Označiť všetky predchádzajúce epizódy ako prehraté</string>
+    <string name="remove_favorite">Odstrániť obľúbené</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Označiť všetky epizódy uverejnené skôr ako táto epizóda [%1$s] ako prehraté?</string>
+    <string name="exporting">Exportovanie</string>
+    <string name="add_s_minutes">Pridať %1$d min.</string>
+    <string name="pick_a_time">Vyberte čas</string>
+    <string name="updating_podcasts">Aktualizácia podcastov</string>
+    <string name="skip_ending">Preskočiť koniec</string>
+    <string name="skip_the_beginning_d_seconds">Preskočiť úvodných %d sekúnd</string>
+    <string name="skip_the_ending_d_seconds">Preskočiť záverečných %d sekúnd</string>
+    <string name="no_user_notes_found">Neboli nájdené žiadne poznámky používateľa.</string>
+    <string name="no_episode_description_found">Nenašiel sa žiadny popis epizódy.</string>
+    <string name="set_episode_s_as_played_">Nastaviť epizódu [%s] ako prehratú?</string>
+    <string name="or">Alebo</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">Zoznam Nasleduje bol aktualizovaný pre prehrávanie od: %s</string>
+    <string name="do_a_full_syncing_will_take_much_longer_to_finish">Urobiť úplnú synchronizáciu. Dokončenie bude trvať oveľa dlhšie.</string>
+    <string name="buy_me_a_coffee_message">Ak radi používate aplikáciu Podcast Republic a chcete podporiť jej vývoj, môžete mi kúpiť šálku kávy. Ďakujem!</string>
+    <string name="maybe_later">Možno neskôr</string>
+    <string name="sign_up">Registrovať sa</string>
+    <string name="download_state_idle">Čaká sa na spustenie sťahovania</string>
+    <string name="download_state_fetching_url">Hľadá sa zdroj na stiahnutie</string>
+    <string name="download_state_connecting">Pripája sa</string>
+    <string name="download_state_downloading">Sťahuje sa</string>
+    <string name="download_state_completed">Hotovo</string>
+    <string name="download_state_paused_network_unavailable">Pozastavené: čaká sa na sieť</string>
+    <string name="download_state_failed_incorrect_file_received">Zlyhanie: bol prijatý nesprávny súbor.</string>
+    <string name="download_state_paused_by_request">Sťahovanie bolo pozastavené</string>
+    <string name="download_state_paused_wifi_unavailable">Pozastavené: Wi-Fi nie je k dispozícii</string>
+    <string name="download_state_paused_wifi_disabled">Pozastavené: Wi-Fi je zakázané</string>
+    <string name="download_state_paused_roaming">Pozastavené: roaming</string>
+    <string name="download_state_paused_waiting_to_retry">Pozastavené: čaká na opakovanie</string>
+    <string name="download_state_paused_sdcard_unavailable">Pozastavené: externý ukladací priestor nie je k dispozícii</string>
+    <string name="download_state_paused_need_battery_charging">Pozastavené: čaká sa na nabíjanie batérie</string>
+    <string name="download_state_failed_fetching_url">Zlyhanie: URL sa nepodarilo nájsť</string>
+    <string name="download_state_failed_sdcard_full">Zlyhanie: nedostatok miesta</string>
+    <string name="download_state_failed_cancelled">Zrušené</string>
+    <string name="download_state_failed">Zlyhalo</string>
+    <string name="download_state_failed_storage_is_not_accessible">Zlyhanie: úložisko nie je prístupné</string>
+    <string name="error_storage_is_not_accessible">Chyba: úložisko nie je prístupné</string>
+    <string name="moving_downloads">Presun stiahnutých</string>
+    <string name="moving_download_from_1s_to_2s">Sťahovanie sa presúva z [%1$s] do [%2$s].</string>
+    <string name="invalid_opml_file_selected_">Bol vybratý neplatný súbor OPML!</string>
+    <string name="podcast_title_can_not_be_empty_">Názov podcastu nemôže byť prázdny!</string>
+    <string name="podcast_url_can_not_be_empty_">URL adresa podcastu nemôže byť prázdna!</string>
+    <string name="show_podcast_title">Zobraziť názov podcastu</string>
+    <string name="hide_podcast_title">Skryť názov podcastu</string>
+    <string name="no_download_directory_prompt_message">Ešte ste nenastavili priečinok pre sťahovanie podcastov. Chcete nataviť priečinok pre sťahovanie podcastov teraz?</string>
+    <string name="at_least_one_playlist_is_required_">Vyžaduje sa aspoň jeden playlist!</string>
+    <string name="manage_tags">Spravovať tagy</string>
+    <string name="episode_filters">Filtre epizód</string>
+    <string name="manage_episode_filters">Spravovať filtre epizód</string>
+    <string name="episode_filter">Filter epizódy</string>
+    <string name="browse_by_episode_filters">Prehliadať podľa filtrov epizód</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">Prihlasovanie synchronizácie účtu zlyhalo, skúste sa prihlásiť znova.</string>
+    <string name="filter">Filter</string>
+    <string name="view_all_episodes">Zobraziť všetky epizódy</string>
+    <string name="view_finished_episodes">Zobraziť dokončené epizódy</string>
+    <string name="view_unfinished_episodes">Zobraziť nedokončené epizódy</string>
+    <string name="playback_progress">Priebeh prehrávania</string>
+    <string name="display_playback_progress_in_notification_s">Zobraziť priebeh prehrávania v upozornení: %s</string>
+    <string name="you_have_subscribed_to_s">Prihlásili ste sa na odber: %s</string>
+    <string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">Nenašli sa žiadne podcasty! Stlačením tlačidla Pridať (+) pridáte podcast.</string>
+    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">Pridať YouTube kanál alebo playlist ako podcast.</string>
+    <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Nastavte virtuálny podcast pre prehrávanie hudby alebo audiokníh na vašom zariadení.</string>
+    <string name="click_to_adjust_playback_speed">Kliknutím upravíte rýchlosť prehrávania</string>
+    <string name="click_to_set_up_sleep_timer">Kliknutím nastavíte časovač vypnutia</string>
+    <string name="click_to_view_more_options_">Kliknutím zobrazíte viac možností…</string>
+    <string name="click_to_select_playback_mode">Kliknutím vyberte režim prehrávania</string>
+    <string name="percetage_value">%d%%</string>
+    <string name="select_episodes">Vybrať epizódy</string>
+    <string name="select_episodes_from_last_d_days">Vybrať epizódy za posledných %d dní</string>
+    <string name="select_episodes_from_all_dates">Vybrať epizódy zo všetkých dní</string>
+    <string name="selected_tags_s">Vybrané tagy: %s</string>
+    <string name="selected_podcasts_s">Vybrané podcasty: %s</string>
+    <string name="unplayed_less_than_d_played">Neprehraté (prehraté &lt; %d%%)</string>
+    <string name="played_greater_than_d_played">Prehraté (prehraté &gt;= %d%%)</string>
+    <string name="unfinished_less_than_100_played">Nedokončené (prehraté &lt; 100 %)</string>
+    <string name="finished_100_played">Dokončené (prehraté 100%)</string>
+    <string name="restore_defaults">Obnoviť predvolené</string>
+    <string name="at_least_one_episode_filter_is_required_">Vyžaduje sa aspoň jeden filter epizódy!</string>
+    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">Nasledujúce priečinky nie sú prístupné. Prosím, resetujte v Nastavenia. \n%s</string>
+    <string name="_download_location">- Umiestnenie sťahovania</string>
+    <string name="_auto_backup_location">- Umiestnenie automatické zálohovania</string>
+    <string name="clean_up">Vyčistiť</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">Nasledujúce súbory sa nachádzajú v priečinku stiahnutých súborov, ale nie sú prepojené so žiadnymi súbormi na stiahnutie. Môžete ich odstrániť stlačením tlačidla \"Vyčistiť\".</string>
+    <string name="tags">Tagy</string>
+    <string name="casting">Prenášanie</string>
+    <string name="chapter_d">Kapitola #%d</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Keď obnovuje údaje, aplikáciu nezatvárajte. Po obnovení všetkých údajov sa reštartuje.</string>
+    <string name="playback_paused_on_muted_volume_">Prehrávanie bolo pozastavené pri stlmení hlasitosti!</string>
+    <string name="number_of_episodes_to_auto_download">Počet epizód pre automatické sťahovanie</string>
+    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Po načítaní nových epizód automaticky stiahnuť najnovšie epizódy: %1$d</string>
+    <string name="notify_when_new_episodes_are_available">Upozorniť, keď budú k dispozícii nové epizódy</string>
+    <string name="save_episode_list_to_html">Uložiť zoznam epizód do HTML</string>
+    <string name="com_parse_ui_progress_dialog_text">Načítava sa…</string>
+    <string name="com_parse_ui_forgot_password_button_label"><u>Zabudli ste heslo</u></string>
+    <string name="com_parse_ui_email_input_hint">E-mail</string>
+    <string name="com_parse_ui_confirm_password_input_hint">Znovu zadajte heslo</string>
+    <string name="com_parse_ui_create_account_button_label">Vytvoriť účet</string>
+    <string name="com_parse_ui_no_password_toast">Prosím, zadajte heslo</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">Používateľské meno a heslo, ktoré ste zadali, sa nezhodujú</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">Nepodarilo sa prihlásiť, skúste to znova neskôr</string>
+    <string name="com_parse_ui_password_too_short_toast">Heslo musí mať najmenej %1$d znakov</string>
+    <string name="com_parse_ui_username_taken_toast">Používateľské meno je už obsadené, vyberte iné</string>
+    <string name="com_parse_ui_reenter_password_toast">Prosím, znova zadajte svoje heslo</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">Heslá sa nezhodujú, skúste to znova</string>
+    <string name="com_parse_ui_no_email_toast">Zadajte svoj e-mail</string>
+    <string name="com_parse_ui_invalid_email_toast">E-mail je neplatný, opravte ho a skúste to znova</string>
+    <string name="com_parse_ui_email_taken_toast">E-mail je už použitý, namiesto toho obnovte svoje heslo</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">Nepodarilo sa zaregistrovať, skúste to znova neskôr</string>
+    <string name="com_parse_ui_login_help_instructions">Ak chcete obnoviť svoje heslo, zadajte svoj e-mail</string>
+    <string name="com_parse_ui_login_help_email_input_hint">E-mail</string>
+    <string name="com_parse_ui_login_help_submit_button_label">Odoslať</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">Späť na prihlásenie</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">Požiadavka na obnovenie hesla zlyhala, skúste to znova</string>
+    <string name="com_parse_ui_login_help_email_sent">Pokyny ako získať prístup k svojmu účtu nájdete v emaili</string>
+    <string name="connecting_">Pripája sa…</string>
+    <string name="syncing_episode_changes_s">Synchronizujú sa zmeny epizód: %s</string>
+    <string name="syncing_added_radio_subscriptions_d">Synchronizácia pridaných odberov rádia: %d</string>
+    <string name="syncing_removed_radio_subscriptions_d">Synchronizácia odstránených odberov rádia: %d</string>
+    <string name="syncing_added_podcast_subscriptions_d">Synchronizácia pridaných odberov podcastov: %d</string>
+    <string name="syncing_removed_podcast_subscriptions_d">Synchronizácia odstránených odberov podcastov: %d</string>
+    <string name="syncing_episode_changes_">Synchronizujú sa zmeny epizód…</string>
+    <string name="syncing_radio_subscription_changes_">Synchronizujú sa zmeny odberov rádia…</string>
+    <string name="syncing_podcast_subscription_changes_">Synchronizujú zmeny odberov podcastov…</string>
+    <string name="syncing">Synchronizácia</string>
+    <string name="current_playlist">Aktuálny playlist</string>
+    <string name="continue_to_next_playlist">Pokračovať na ďalší playlist</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Po prehratí všetkých epizód v aktuálnom playliste pokračovať v prehrávaní nasledujúceho playlistu</string>
+    <string name="disable_manual_sorting">Zakázať manuálne zoradenie</string>
+    <string name="enable_manual_sorting">Povoliť manuálne zoradenie</string>
+    <string name="open">Otvoriť</string>
+    <string name="newest_unplayed">Najnovšie neprehraté</string>
+    <string name="apply_to_current_podcast">Použiť na aktuálny podcast</string>
+    <string name="redownload_all_selected_episodes_">Znovu stiahnuť všetky vybrané epizódy?</string>
+    <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">Umiestnenie sťahovania nie je prístupné. Nastaviť umiestnenie sťahovania teraz?</string>
+    <string name="insufficient_space_please_free_some_storage_space_">Nedostatok miesta. Prosím, uvoľnite miesto.</string>
+    <string name="show_last_updated_time">Zobraziť posledný čas aktualizácie</string>
+    <string name="hide_last_updated_time">Skryť posledný čas aktualizácie</string>
+    <string name="delete_account">Odstrániť účet</string>
+    <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Nebudete sa môcť znova prihlásiť do tohto účtu! Chcete pokračovať v odstraňovaní účtu?</string>
+    <string name="please_select_a_directory_to_save_the_auto_backups">Vyberte priečinok pre uloženie automatických záloh.</string>
+    <string name="download_completed">Sťahovanie bolo dokončené</string>
+    <string name="notify_when_an_episode_has_been_downloaded">Upozorniť na stiahnutie epizódy</string>
+    <string name="night_mode">Nočný režim</string>
+    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Automaticky prepínať medzi svetlým (deň) a tmavým (noc) režimom na základe času</string>
+    <string name="repeat_episode">Opakovať epizódu</string>
+    <string name="repeat_playlist">Opakovať playlist</string>
+    <string name="alarms">Budíky</string>
+    <string name="sunday">Nedeľa</string>
+    <string name="monday">Pondelok</string>
+    <string name="tuesday">Utorok</string>
+    <string name="wednesday">Streda</string>
+    <string name="thursday">Štvrtok</string>
+    <string name="friday">Piatok</string>
+    <string name="saturday">Sobota</string>
+    <string name="no_alarms_found_">Neboli nájdené žiadne budíky.</string>
+    <string name="allow_to_download_at_any_time">Povoliť stiahnutie kedykoľvek</string>
+    <string name="allow_to_download_between_selected_time">Povoliť sťahovanie medzi vybranými časmi</string>
+    <string name="start_time">Čas spustenia</string>
+    <string name="end_time">Čas ukončenia</string>
+    <string name="allowed_download_time">Povolený čas na stiahnutie</string>
+    <string name="paused_waiting_for_allowed_download_time">Pozastavené: čaká sa na povolený čas sťahovania</string>
+    <string name="last_played_time">Čas posledného prehrávania</string>
+    <string name="display_unplayed_episodes_on_top">Neprehraté epizódy navrchu</string>
+    <string name="text_size">Veľkosť textu</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">Toto je veľkosť textu zväčšená na %d%%.</string>
+    <string name="_d_seconds">%d sekúnd</string>
+    <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">Chcete pokračovať v odstraňovaní vybratých súborov virtuálneho podcastu z úložiska?</string>
+    <string name="show_played_date">Zobraziť dátum prehrávania</string>
+    <string name="edit_radio_station">Upraviť rádio</string>
+    <string name="subscribed">Odoberané</string>
+    <string name="edit_chapter">Upraviť kapitolu</string>
+    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">Túto kapitolu nie je možné upraviť. Upravované môžu byť iba kapitoly pridané používateľom.</string>
+    <string name="import_downloads">Importovať stiahnuté súbory</string>
+    <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">Importovať stiahnuté súbory z vybraného priečinka. Táto operácia importuje iba súbory podcastov, ktoré boli predtým touto aplikáciou stiahnuté.</string>
+    <string name="available_free_space_s">Voľné miesto: %s</string>
+    <string name="playback">Prehrávanie</string>
+    <string name="background_services">Služby na pozadí</string>
+    <string name="general_notifications">Všeobecné upozornenia</string>
+    <string name="return_to_car_mode_">Návrat do režimu Auto.</string>
+    <string name="android_wear">Wear OS</string>
+    <string name="notification_background_theme_s">Motív upozornenia na pozadí: %s</string>
+    <string name="turn_on_alarms">Zapnúť budíky</string>
+    <string name="turn_off_alarms">Vypnúť budíky</string>
+    <string name="play_as_audio_only">Prehrať iba ako zvuk</string>
+    <string name="remove_downloads_from_unsubscribed_podcast_s_">Odstrániť stiahnuté z neodoberaného podcastu: [%1$s]?</string>
+    <string name="report_bug_privacy_message"><![CDATA[Kliknutím na <em>Nahlásiť chybu</em> vyjadrujete súhlas s našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Zmluvnými podmienkami</a> a že ste si prečítali naše <a href=\"https://podcastrepublic.net/privacy-terms/\">Zásady ochrany osobných údajov</a>.]]></string>
+    <string name="sign_up_privacy_and_terms_message"><![CDATA[Kliknutím na <em>Vytvoriť účet</em> vyjadrujete súhlas s našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Zmluvnými podmienkami</a> a že ste si prečítali naše <a href=\"https: //podcastrepublic.net/privacy-terms/\">Zásady ochrany osobných údajov</a>.]]></string>
+    <string name="sign_in_privacy_and_terms_message"><![CDATA[Kliknutím na <em>Prihlásiť sa</em> vyjadrujete súhlas s našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Zmluvnými podmienkami</a> a že ste si prečítali naše <a href=\"https: //podcastrepublic.net/privacy-terms/\">Zásady ochrany osobných údajov</a>.]]></string>
+    <string name="automatically_turn_on_sleep_timer_when_playback_starts">Po spustení prehrávania zapnúť časovač</string>
+    <string name="syncing_data_only_when_connected_to_wifi_network">Synchronizovať údaje iba pri pripojení k sieti Wi-Fi</string>
+    <string name="syncing_via_wifi_only">Synchronizovať iba cez Wi-Fi</string>
+    <string name="total_downloaded_file_size_s">Celkom stiahnuté: %s</string>
+    <string name="featured">Odporúčané</string>
+    <string name="polular">Populárne</string>
+    <string name="select_episodes_from_today">Vybrať epizódy od dnes</string>
+    <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Zaznamenali sme zlyhanie aplikácie. Chcete poslať správu o zlyhaní, aby sme mohli problém vyriešiť?"</string>
+    <string name="generating_bug_report_">Generuje sa hlásenie o chybe …</string>
+    <string name="apply_to_all_radio_stations">Použiť na všetky rádiá</string>
+    <string name="apply_to_current_radio_station">Použiť na aktuálne rádio</string>
+    <string name="skip_silence">Preskočiť tiché pasáže</string>
+    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Počet novších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d</string>
+    <string name="smart_download">Inteligentné sťahovanie</string>
+    <string name="download_anyway">Stiahnuť vždy</string>
+    <string name="download_anyway_message">Ignorovať nastavenia Wi-Fi a batérie, stiahnuť epizódu s aktuálnym sieťovým pripojením! Môžu byť použité mobilné dáta a batéria. Pokračovať?</string>
+    <string name="play_all_from_old_to_new">Prehrať všetko od najstaršieho po najnovšie</string>
+    <string name="delete_all_immediately">Odstrániť všetko okamžite</string>
+    <string name="deleted_downloads_will_be_removed_after_24_hours_">Odstránené stiahnuté súbory budú vymazané po 24 hodinách.</string>
+    <string name="delete_immediately">Odstrániť okamžite</string>
+    <string name="delayed_deletion">Oneskorené odstránenie</string>
+    <string name="keep_the_downloaded_podcast_file_for_24_hours_after_being_deleted_">Stiahnutý súbor podcastu ponechať 24 hodín po odstránení.</string>
+    <string name="download_progress">Priebeh sťahovania</string>
+    <string name="be_the_first_to_write_a_review_">Napíšte recenziu ako prvý!</string>
+    <string name="write_a_review">Napísať recenziu</string>
+    <string name="my_review">Moja recenzia</string>
+    <string name="your_name">Vaše meno</string>
+    <string name="your_review">Vaša recenzia</string>
+    <string name="a_podcast_republic_user">Používateľ aplikácie Podcast Republic</string>
+    <string name="report_spam_review">Nahlásiť spam</string>
+    <string name="report_inappropriate_review">Nahlásiť nevhodnú recenziu</string>
+    <string name="reviews">Recenzie</string>
+    <string name="submit">Odoslať</string>
+    <string name="deleted">Odstránené</string>
+    <string name="file_size">Veľkosť súboru</string>
+    <string name="play_next">Prehrať ďalšiu</string>
+    <string name="are_you_sure_to_clear_the_play_queue_">Naozaj chcete vyčistiť front prehrávania?</string>
+    <string name="clear">Vyčistiť</string>
+    <string name="remaining_time">Zostávajúci čas</string>
+    <string name="elapsed_time">Uplynulý čas</string>
+    <string name="paused_network_is_metered">Pozastavené: spoplatnená sieť</string>
+    <string name="download_date">Dátum sťahovania</string>
+    <string name="create_an_episode_filter">Vytvoriť filter epizódy</string>
+    <string name="play_time">Čas prehrávania</string>
+    <string name="recently_played">Naposledy prehraté</string>
+    <string name="play_all_newer_episodes">Prehrať všetky novšie epizódy</string>
+    <string name="see_what_s_new_in_this_version_s">Pozrite sa čo je nové v tejto verzii: %s</string>
+    <string name="enabled_buttons_">Povolené tlačidlá:</string>
+    <string name="bottom_navigation_bar">Spodný navigačný panel</string>
+    <string name="play_bar">Panel prehrávania</string>
+    <string name="show_play_bar_when_app_starts">Zobraziť panel prehrávania pri spustení aplikácie</string>
+    <string name="can_not_edit_default_episode_filter_">Nie je možné upraviť predvolený filter epizód!</string>
+    <string name="playlist_name">Názov playlistu</string>
+    <string name="priority">Priorita</string>
+    <string name="higher_priority_playlist_will_be_played_first_">Najskôr sa prehrá playlist s vyššou prioritou.</string>
+    <string name="view_podcast">Zobrazenie</string>
+    <string name="priority_d">Priorita: %d</string>
+    <string name="stream_all">Streamovať všetky</string>
+    <string name="view_all_your_playlists">Zobraziť všetky vaše playlisty</string>
+    <string name="click_on_the_tab_again_to_view_all_your_playlists">Pre zobrazenie všetkých vašich playlistov znova klepnite na kartu</string>
+    <string name="edit_playlist">Upraviť playlist</string>
+    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">Pre zobrazenie všetkých vašich tagov podcastov znova klepnite na kartu</string>
+    <string name="changing_the_play_mode_to_repeat_a_playlist_">Zmena režimu prehrávania na opakovanie playlistu:</string>
+    <string name="_removing_from_playlist_on_played_will_be_disabled">- Odstránenie pri prehrávaní z playlistu bude zakázané</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Odstránenie stiahnutého súboru podcastu pri prehrávaní bude zakázané</string>
+    <string name="view_all_your_episode_filters">Zobraziť všetky filtre epizód</string>
+    <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Pre zobrazenie všetkých vašich filtrov epizódy znova klepnite na kartu</string>
+    <string name="stop_playing_when_time_is_up">Keď vyprší čas, zastaviť prehrávanie</string>
+    <string name="sleep_timer_fired_stop_playing_">Spustil sa časovač vypnutia, prehrávanie je zastavené!</string>
+    <string name="yes_sure">Áno, samozrejme</string>
+    <string name="play_all_from_new_to_old">Prehrať všetko od najnovšieho po najstaršie</string>
+    <string name="smart_update">Inteligentná aktualizácia</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Po dokončení najnovšej epizódy podcastu skontrolovať nové epizódy</string>
+    <string name="click_on_the_tab_again_to_view_download_actions">Pre zobrazenie akcií sťahovania znova klepnite na kartu</string>
+    <string name="remember_volume_level">Zapamätať si úroveň hlasitosti</string>
+    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Zapamätať si poslednú hranú úroveň hlasitosti a obnoviť ju pri prehrávaní</string>
+    <string name="metered_network">Spoplatnená sieť</string>
+    <string name="allow_to_download_over_metered_network">Povoliť sťahovanie cez spoplatnenú sieť</string>
+    <string name="respond_to_media_button">Reakcia na mediálne tlačidlo</string>
+    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">Povoliť spustenie prehrávania pomocou Bluetooth play príkazu prijatého pri zatvorenej aplikácii.</string>
+    <string name="remind_me_1_minute_less">Pripomenúť (menej ako 1 minútu)</string>
+    <string name="unread_count">Počet neprečítaných</string>
+    <string name="newest_unread">Najnovšie neprečítané</string>
+    <string name="no_articles_selected_">Nie sú vybrané žiadne články!</string>
+    <string name="_s_mark_all_articles_as_read_">[%1$s]: Označiť všetky články ako prečítané?</string>
+    <string name="mark_all_articles_as_read_">Označiť všetky články ako prečítané?</string>
+    <string name="mark_all_articles_published_earlier_than_this_article_s_as_read_">Označiť všetky články uverejnené skôr ako tento článok [%1$s] ako prečítané?</string>
+    <string name="there_are_no_articles_">Nie sú žiadne články.</string>
+    <string name="unreads_d">Neprečítané: %d</string>
+    <string name="total_articles_d">Celkový počet článkov : %d</string>
+    <string name="rss_feed_url">URL adresa zdroja RSS</string>
+    <string name="check_rss_feed_update">Skontrolovať aktualizáciu zdroja RSS</string>
+    <string name="_is_not_found_add_this_rss_feed_">Výraz [%1$s] sa nenašiel. Pridať tento zdroj RSS cez URL?</string>
+    <string name="add_a_rss_feed_by_url">Pridať zdroj RSS cez URL</string>
+    <string name="mark_as_read">Označiť ako prečítané</string>
+    <string name="new_articles_available">K dispozícii sú nové články RSS</string>
+    <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">Wi-Fi nie je k dispozícii. Ruší sa aktualizácia zdroja RSS.</string>
+    <string name="add_rss_feeds">Pridať zdroje RSS</string>
+    <string name="search_rss_feeds">Vyhľadať zdroje RSS</string>
+    <string name="reset_feed">Obnoviť zdroj</string>
+    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">Reset zdroja odstráni dáta z cache a obnoví ich zo zdroja RSS!</string>
+    <string name="mark_all_previous_articles_as_read">Označiť všetky predchádzajúce články ako prečítané</string>
+    <string name="unread">Neprečítané</string>
+    <string name="rss_feeds">Zdroje RSS</string>
+    <string name="review_submitted_">Recenzia bola odoslaná.</string>
+    <string name="add_radio_stations">Pridať rádiá</string>
+    <string name="radio_station">Rádio</string>
+    <string name="view_your_podcast_subscriptions">Zobraziť vaše odbery podcastov</string>
+    <string name="view_your_radio_subscriptions">Zobraziť vaše odbery rádia</string>
+    <string name="view_your_rss_feed_subscriptions">Zobraziť vaše odbery zdrojov RSS</string>
+    <string name="there_are_no_unplayed_episodes_">Nie sú žiadne neprehraté epizódy!</string>
+    <string name="there_are_no_played_episodes_">Nie sú žiadne prehraté epizódy!</string>
+    <string name="there_are_no_favorite_episodes_">Nie sú žiadne obľúbené epizódy!</string>
+    <string name="there_are_no_downloaded_episodes_">Nie sú žiadne stiahnuté epizódy!</string>
+    <string name="start_playing_and_go_to_now_playing">Spustiť prehrávanie a prejsť na Teraz sa prehráva</string>
+    <string name="show_unplayed_recent_counters">Zobraziť počítadlá neprehraté/posledné</string>
+    <string name="hide_unplayed_recent_counters">Skryť počítadlá neprehraté/posledné</string>
+    <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nenašli sa žiadne rádiá. Stlačením tlačidla Pridať (+) pridáte rádio.</string>
+    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Nenašli sa žiadne zdroje RSS. Stlačením tlačidla Pridať (+) pridáte zdroj.</string>
+    <string name="tag_radios">Tagy rádií</string>
+    <string name="episode">Epizóda</string>
+    <string name="edit_mode">Režim úprav</string>
+    <string name="no_radio_stations_selected_">Nie sú vybrané žiadne rádiá!</string>
+    <string name="no_rss_feeds_selected_">Nie sú vybrané žiadne zdroje RSS!</string>
+    <string name="hide_empty_feeds">Skryť prázdne zdroje</string>
+    <string name="tag_feeds">Tagy zdrojov</string>
+    <string name="open_in_browser">Otvoriť v prehliadači</string>
+    <string name="mark_as_unread">Označiť ako neprečítané</string>
+    <string name="article_url">URL článku</string>
+    <string name="summary">Zhrnutie</string>
+    <string name="download_state_paused_battery_low">Pozastavené: slabá batéria</string>
+    <string name="select_episodes_with_duration_greater_than_d_minutes">Vybrať epizódy s trvaním dlhším ako %d minút</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes">Vybrať epizódy s trvaním kratším ako %d minút</string>
+    <string name="short_time_unit_format_minute">min</string>
+    <string name="hold_down_to_start_dragging">Podržte a potiahnite</string>
+    <string name="swipe_right_action">Akcia potiahnuť doprava</string>
+    <string name="stream_podcasts_via_wifi_only">Streamovať podcasty iba cez Wi-Fi</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Povoliť streamovanie podcastov iba pri pripojenom Wi-Fi</string>
+    <string name="stream_radios_via_wifi_only">Streamovať rádiá iba cez Wi-Fi</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Povoliť streamovanie rádií iba pri pripojenom Wi-Fi</string>
+    <string name="history_and_stats">História a štatistika</string>
+    <string name="delete_downloads">Odstrániť stiahnuté</string>
+    <string name="keep_download">Ponechať stiahnuté</string>
+    <string name="delete_episodes">Odstrániť epizódy</string>
+    <string name="priority_mode">Prioritný režim</string>
+    <string name="stats">Štatistika</string>
+    <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>]]></string>
+    <string name="since_s">Od: %s</string>
+    <string name="reset_stats">Vynulovať štatistiku</string>
+    <string name="display_latest_d_episodes">Zobraziť posledné %d epizódy</string>
+    <string name="find_rss_feed">Nájsť zdroj RSS</string>
+    <string name="there_are_no_rss_feeds">Nie sú k dispozícii žiadne zdroje RSS!</string>
+    <string name="got_it">Mám to</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">Zmenili ste poradie zoznamu Nasleduje. V dôsledku toho nebude zoznam Nasleduje synchronizovaný s aktuálne prehrávaným zoznamom epizód alebo playlistom.</string>
+    <string name="don_t_show_it_again">Už viac nezobrazovať</string>
+    <string name="always_on">Vždy zapnutý</string>
+    <string name="always_on_amoled_black">Vždy zapnutý (čierna AMOLED)</string>
+    <string name="auto_switch">Automatické prepínanie</string>
+    <string name="auto_switch_amoled_black">Automatické prepínanie (čierna AMOLED)</string>
+    <string name="smart_rewind_on_resuming">Inteligentné pretáčanie po obnovení</string>
+    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Pri obnovení prehrávania automaticky pretočiť dozadu %1$d až %2$d sekúnd</string>
+    <string name="minimum_rewind_time_d_seconds">Minimálny čas pretočenia dozadu: %d sekúnd.</string>
+    <string name="maximum_rewind_time_d_seconds">Maximálny čas pretočenia dozadu: %d sekúnd.</string>
+    <string name="show_radio_station_title">Zobraziť názov stanice</string>
+    <string name="hide_radio_station_title">Skryť názov stanice</string>
+    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">Ak nie sú vybrané žiadne dni opakovania, spustí sa budík iba raz.</string>
+    <string name="not_in_downloads_list">Nie je v zozname na stiahnutie</string>
+    <string name="reversed_landscape">Na šírku obrátene</string>
+    <string name="reset_sleep_timer">Vynulovať časovač spánku</string>
+    <string name="toggle_playback_speed_on_off">Zapnúť/Vypnúť rýchlosť prehrávania</string>
+    <string name="there_are_no_episodes_with_notes_">Nie sú žiadne epizódy s poznámkami!</string>
+    <string name="there_are_no_deleted_episodes_">Nie sú žiadne odstránené epizódy!</string>
+    <string name="mark_as_favorite">Označiť ako obľúbené</string>
+    <string name="remove_favorite_mark">Odstrániť znak obľúbené</string>
+    <string name="persistent_play_bar">Trvalý panel prehrávania</string>
+    <string name="keep_play_bar_displayed_after_playback_finishes">Po dokončení prehrávania sa panel prehrávania bude najďalej zobrazovať</string>
+    <string name="rotate_by_podcasts">Rotovať podcasty</string>
+    <string name="search_in_all_podcasts">Hľadať vo všetkých podcastoch</string>
+    <string name="search_in_subscribed_podcasts">Hľadať vo všetkých odoberaných podcastoch</string>
+    <string name="search_by_podcast_title">Hľadať v názve podcastu</string>
+    <string name="search_by_podcast_publisher">Hľadať v názve vydavateľa</string>
+    <string name="all_podcasts">Všetky podcasty</string>
+    <string name="my_podcasts">Moje podcasty</string>
+    <string name="fade_audio_out_2_minutes_less">Zoslabenie zvuku (menej ako 2 minúty)</string>
+    <string name="keep_all_articles">Ponechať všetky články</string>
+    <string name="keep_articles">Ponechať články</string>
+    <string name="keep_articles_from_last_d_days">Ponechať články za posledných %d dní</string>
+    <string name="pref_download_location_select_prompt_message">Budete presmerovaný do správcu súborov Android. Vyberte priečinok na internom úložisku alebo na SD karte, ktorý sa má použiť ako umiestnenie sťahovania.</string>
+    <string name="review_wifi_only_prompt_message">Viete, že táto aplikácia štandardne používa iba Wi-Fi? Wi-Fi môžete vypnúť, iba ak máte rýchle dátové pripojenie. Chcete teraz skontrolovať nastavenia Wi-Fi?</string>
+    <string name="delete_virtual_podcast_file_from_storage_after_being_played">Po prehratí odstrániť súbor virtuálneho podcastu z úložiska</string>
+    <string name="play_all">Prehrať všetko</string>
+    <string name="remove_played_episode">Odstrániť prehratú epizódu</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">Po prehratí odstrániť epizódu z playlistu</string>
+    <string name="apply_this_change_to_all_playlist_">Použiť túto zmenu na všetky playlisty?</string>
+    <string name="overwrite_volume_mute_state">Prepísať stav stlmenia hlasitosti</string>
+    <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Povoliť prepísanie stavu stlmenia hlasitosti a obnoviť poslednú úroveň hlasitosti prehrávania</string>
+    <string name="starting_podcast_update_checking">Spúšťa sa aktualizácia podcastov.</string>
+    <string name="_d_minutes">%d minút</string>
+    <string name="time_unit_minutes">minút</string>
+    <string name="greater_than">Viac ako</string>
+    <string name="less_than">Menej ako</string>
+    <string name="has_duration">Má trvanie</string>
+    <string name="filter_episode_title">Filtrovať názov epizódy</string>
+    <string name="filter_episode_duration">Filtrovať trvanie epizódy</string>
+    <string name="clear_the_recents_list_">Vymazať zoznam Nedávne?</string>
+    <string name="clear_the_list">Vymazať zoznam</string>
+    <string name="play_as_video">Prehrať ako video</string>
+    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Počet starších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d</string>
+    <string name="select_all_below">Vyberať všetky nižšie</string>
+    <string name="select_all_above">Vyberať všetky vyššie</string>
+    <string name="ignore_articles_in_title">Ignorovať členy v názve</string>
+    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Pri zoradení podľa názvu podcastu ignorovať členy (A, An alebo The)</string>
+    <string name="create_shortcut">Vytvoriť odkaz</string>
+    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Povolí používať mobilné dáta a ignorovať šetrenie batérie pri sťahovaní epizód.</string>
+    <string name="show_play_next_episode_station_button">Zobraziť tlačidlo Prehrať ďalšiu epizódu/stanicu</string>
+    <string name="append_to_up_next">Pridať k Nasleduje</string>
+    <string name="only_include_episodes_with_user_notes">Zahrnúť len epizódy s poznámkami</string>
+    <string name="description_preview">Náhľad popisu</string>
+    <string name="d_lines_of_text">%d riadky</string>
+    <string name="mark_current_playback_position">Pridať značku na aktuálnu pozíciu</string>
+    <string name="comma">", "</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Vybrať obrázok pre odkaz</string>
+    <string name="use_default_icon">Použiť predvolenú ikonu</string>
+    <string name="syncing_articles_">Synchronizujú sa články…</string>
+    <string name="syncing_rss_feeds_">Synchronizujú sa zdroje RSS…</string>
+    <string name="download_priority">Priorita sťahovania</string>
+    <string name="pin_to_top">Pripnúť navrch</string>
+    <string name="unpin_from_top">Odopnúť z vrchu</string>
+    <string name="only_include_episodes_with_user_chapters">Zahrnúť iba epizódy s užívateľskými kapitolami</string>
+    <string name="add_tags_to_podcasts">Pridať tagy k podcastu</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Automaticky pridať nové epizódy do vybraných playlistov.</string>
+    <string name="podcast_artwork">Obrázok podcastu</string>
+    <string name="rss_feed_artwork">Obrázok zdroja RSS</string>
+    <string name="add_tags_to_rss_feed">Pridať tagy k zdroju RSS</string>
+    <string name="_1s_2s_n">%1$s: %2$s\n</string>
+    <string name="_1s_2d_kbs_n">%1$s: %2$dKB/s\n</string>
+    <string name="album">Album</string>
+    <string name="artist">Interpret</string>
+    <string name="author">Autor</string>
+    <string name="composer">Skladateľ</string>
+    <string name="album_artist">Interpret albumu</string>
+    <string name="year">Rok</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="number_of_tracks">Počet skladieb</string>
+    <string name="preview_notes">Náhľad poznámky</string>
+    <string name="preview_user_notes_in_list">Náhľad užívateľských poznámok v zozname</string>
+    <string name="extract_from_metadata">Získať z metadát</string>
+    <string name="use_filename">Použiť názov súboru</string>
+    <string name="delete_played_episode">Odstrániť prehraté epizódy</string>
+    <string name="copy_files_to_download_directory">Kopírovať súbory do priečinka sťahovania</string>
+    <string name="move_files_to_download_directory">Presunúť súbory do priečinka sťahovania</string>
+    <string name="greater_than_d_minutes">&gt; %1$d minút</string>
+    <string name="less__than_d_minutes">&lt; %1$d minút</string>
+    <string name="jump_to_next_chapter">Prejsť na ďalšiu kapitolu</string>
+    <string name="you_haven_t_left_any_reviews_yet">Ešte ste nepridali žiadnu recenziu.</string>
+    <string name="true_crime">Skutočné príbehy</string>
+    <string name="leisure">Voľný čas</string>
+    <string name="fiction">Beletria</string>
+    <string name="genre_type_hisotry">História</string>
+    <string name="animations">Animácie</string>
+    <string name="list_animation">Animácia zoznamu</string>
+    <string name="animate_items_when_loading_into_list">Animovať položky počas načítavania zoznamu</string>
+    <string name="failed_to_update_podcast_s">Nepodarilo sa aktualizovať podcast: %s</string>
+    <string name="reset_password">Resetovať heslo</string>
+    <string name="account_already_exists_please_login_with_the_email_and_password_">Account already exists, please login with the email and password.</string>
+    <string name="sleep_timer_is_on_">Sleep timer is on!</string>
+    <string name="advanced_options">Advanced</string>
+    <string name="auto_start_sleep_timer">Auto start</string>
+    <string name="auto_pause_sleep_timer">Auto pause</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
+    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+</resources>

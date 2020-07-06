@@ -1,0 +1,1082 @@
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string-array name = "country_list">
+        <item>Albánia</item>
+        <item>Algéria</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Argentína</item>
+        <item>Örményország</item>
+        <item>Ausztrália</item>
+        <item>Ausztria</item>
+        <item>Azerbajdzsán</item>
+        <item>Bahamák</item>
+        <item>Bahrein</item>
+        <item>Belgium</item>
+        <item>Bolívia</item>
+        <item>Brazília</item>
+        <item>Kambodzsa</item>
+        <item>Kanada</item>
+        <item>Chile</item>
+        <item>Kína</item>
+        <item>Kolumbia</item>
+        <item>Costa Rica</item>
+        <item>Horvátország</item>
+        <item>Ciprus</item>
+        <item>Csehország</item>
+        <item>Dánia</item>
+        <item>Ecuador</item>
+        <item>Egyiptom</item>
+        <item>Finnország</item>
+        <item>Franciaország</item>
+        <item>Németország</item>
+        <item>Görögország</item>
+        <item>Hong Kong</item>
+        <item>Magyarország</item>
+        <item>Izland</item>
+        <item>India</item>
+        <item>Indonézia</item>
+        <item>Írország</item>
+        <item>Izrael</item>
+        <item>Olaszország</item>
+        <item>Jamaica</item>
+        <item>Japán</item>
+        <item>Jordánia</item>
+        <item>Kazahsztán</item>
+        <item>Kenya</item>
+        <item>Korea</item>
+        <item>Kuwait</item>
+        <item>Kirgizisztán</item>
+        <item>Lettország</item>
+        <item>Litvánia</item>
+        <item>Luxemburg</item>
+        <item>Macau</item>
+        <item>Malajzia</item>
+        <item>Mexikó</item>
+        <item>Mongólia</item>
+        <item>Hollandia</item>
+        <item>Új-Zéland</item>
+        <item>Norvégia</item>
+        <item>Pakisztán</item>
+        <item>Peru</item>
+        <item>Fülöp</item>
+        <item>Lengyelország</item>
+        <item>Portugália</item>
+        <item>Katar</item>
+        <item>Románia</item>
+        <item>Oroszország</item>
+        <item>Szaúd-Arábia</item>
+        <item>Szerb</item>
+        <item>Singapore</item>
+        <item>Szlovákia</item>
+        <item>Szlovénia</item>
+        <item>Dél-Afrika</item>
+        <item>Spanyolország</item>
+        <item>Sri Lanka</item>
+        <item>Svédország</item>
+        <item>Svájc</item>
+        <item>Tajvan</item>
+        <item>Tadzsikisztán</item>
+        <item>Thaiföld</item>
+        <item>Tunézia</item>
+        <item>Törökország</item>
+        <item>Ukrajna</item>
+        <item>Egyesült Arab Emírségek</item>
+        <item>Egyesült Királyság</item>
+        <item>Egyesült Államok</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+    </string-array>
+    
+    <string name="app_name">"Podcast Republic"</string>
+    <string name="pref_auto_delete_played_summary">"Automatikus törölje a lejátszott elemeket a letöltésekből"</string>
+    <string name="pref_downloadLocation">"Letöltés helye: "</string>
+    <string name="downloads">"Letöltések"</string>
+    <string name="jump_to_next_episode">"Emlékezzen a lejátszás aktuális pozíciójára"</string>
+    <string name="jump_to_the_end">"Meghallgatottnak jelölés"</string>
+    <string name="delete_download">"Letöltés törlése"</string>
+    <string name="pause_download">"Letöltés szüneteltetése"</string>
+    <string name="resume_download">"Letöltés folytatása"</string>
+    <string name="delete">"Törlés"</string>
+    <string name="now_playing">"Most játszott"</string>
+    <string name="stop">"Stop"</string>
+    <string name="pause">"Szünet"</string>
+    <string name="favorite">"Kedvenc"</string>
+    <string name="favorites">"Kedvencek"</string>
+    <string name="whats_new">"Újdonságok"</string>
+    <string name="more">"Tovább"</string>
+    <string name="unplayed">"Még nem játszott"</string>
+    <string name="played">"Lejátszott"</string>
+    <string name="country_text">"Ország / Régió"</string>
+    <string name="organize_podcasts">"Feliratkozások szerkesztése"</string>
+    <string name="add_podcasts">"Podcast hozzáadása"</string>
+    <string name="add_a_podcast_by_url">"Podcast hozzáadása URL segítségével"</string>
+    <string name="all">"Minden"</string>
+    <string name="arts">"Művészet"</string>
+    <string name="business">"Üzleti"</string>
+    <string name="comedy">"Komédia / Vígjáték"</string>
+    <string name="education">"Oktatás"</string>
+    <string name="games">"Játék és Hobbi"</string>
+    <string name="government">"Kormány és szervezetek"</string>
+    <string name="health_fitness">"Egészség"</string>
+    <string name="kids">"Gyerekek / Család"</string>
+    <string name="music">"Zene"</string>
+    <string name="news">"Hírek és politika"</string>
+    <string name="region">"Vallás"</string>
+    <string name="science">"Tudomány és orvoslás"</string>
+    <string name="society">"Társadalom és kultúra"</string>
+    <string name="sports">"Sport és szabadidő"</string>
+    <string name="tech">"Technológia"</string>
+    <string name="tv">"TV és film"</string>
+    <string name="title">"Cím"</string>
+    <string name="provider">"Szolgáltató"</string>
+    <string name="image_url">"Kép URL"</string>
+    <string name="items_in_red_are_required_">"A pirossal megjelöltek kötelező elemek"</string>
+    <string name="cancel">"Mégsem"</string>
+    <string name="add">"Hozzáad"</string>
+    <string name="publisher">"Kiadó"</string>
+    <string name="description_of_podcast">"Podcast leírása"</string>
+    <string name="description">"Leírás"</string>
+    <string name="play">"Lejátszás"</string>
+    <string name="share">"Megosztás"</string>
+    <string name="add_to_playlist">"Lejátszási listához adás"</string>
+    <string name="end_editing_mode">"Kilépés a szerkesztési módból"</string>
+    <string name="download_selection_s_">"Kiválasztottak letöltése"</string>
+    <string name="add_selection_s_to_playlist">"Kiválasztottak hozzáadása a lejátszási listához"</string>
+    <string name="set">"Beállítás"</string>
+    <string name="remove_selection_s_from_download_list">"Kijelöltek eltávolítása a letöltésekből"</string>
+    <string name="no_episode_selected">"Nincs epizód kijelölve"</string>
+    <string name="set_played">"Lejátszottnak jelölés"</string>
+    <string name="set_unplayed">"Le nem játszottnak jelölés"</string>
+    <string name="delete_episode">"Epizód törlése"</string>
+    <string name="One_episode_has_been_added_to_playlist">"Egy epizód hozzáadva a lejátszási listához"</string>
+    <string name="episodes_have_been_added_to_playlist">"%1$d epizódok hozzáadva a lejátszási listához"</string>
+    <string name="One_episode_has_been_added_to_downloads">"Egy epizód a Letöltésekhez hozzáadva"</string>
+    <string name="episodes_have_been_added_to_downloads">"%1$d epizódok a Letöltésekhez hozzáadva"</string>
+    <string name="download_episode_not_found">"A letöltött epizód nem található"</string>
+    <string name="yes">"Igen"</string>
+    <string name="ok">"RENDBEN"</string>
+    <string name="no">"Nem"</string>
+    <string name="close">"Bezárás"</string>
+    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Letöltött epizód [ %1$s ] nem található. Mit szeretnél tenni?"</string>
+    <string name="episode_downloading">"Letöltés folyamatban"</string>
+    <string name="subscribe">"Feliratkozás"</string>
+    <string name="unsubscribe">"Leiratkozás"</string>
+    <string name="settings">"Beállítások"</string>
+    <string name="remove_ad">"Hirdetések eltávolítása"</string>
+    <string name="playlists">"Lejátszási listák"</string>
+    <string name="there_is_no_podcast_playing">"Most nem hallgatsz podcastot"</string>
+    <string name="press_again_to_exit">"Nyomd meg újra a kilépéshez."</string>
+    <string name="paused">"Szünetel"</string>
+    <string name="stopped_on_error">"Leállt hiba miatt"</string>
+    <string name="error_downloaded_file_not_found">"Hiba: a letöltött fájl nem található"</string>
+    <string name="stopped">"Megállított"</string>
+    <string name="completed">"Befejezett"</string>
+    <string name="export_completed_s">"Export befejeződött: %1$s"</string>
+    <string name="import_completed">"Import befejeződött"</string>
+    <string name="no_wifi_available">"Wi-Fi nem áll rendelkezésre!"</string>
+    <string name="tag">"Címke"</string>
+    <string name="updating">"Frissítés…"</string>
+    <string name="preparing">"Előkészítés"</string>
+    <string name="error_no_wifi">"Hiba: Nincs Wi-Fi"</string>
+    <string name="auto_download">"Automatikus letöltés"</string>
+    <string name="playing">"Most játszott"</string>
+    <string name="subscriptions">"Feliratkozások"</string>
+    <string name="help_faqs">"Súgó / GYIK"</string>
+    <string name="next">"Következő"</string>
+    <string name="file_date">"Dátum"</string>
+    <string name="publishing_date">"Kiadás dátuma"</string>
+    <string name="sort_manually">"Manuális"</string>
+    <string name="Update_podcasts">"Podcastok frissítése"</string>
+    <string name="sort_by">"Rendezés…"</string>
+    <string name="last_updated_time">"Utolsó frissítés ideje"</string>
+    <string name="most_recent_count">"Legutóbbi db szám"</string>
+    <string name="total_unplayed_count">"Le nem játszottak db száma"</string>
+    <string name="refresh">"Frissítés"</string>
+    <string name="stream">"Stream"</string>
+    <string name="remove">"Eltávolítás"</string>
+    <string name="redownload">"Újra letöltés"</string>
+    <string name="download_all">"Az összes letöltése"</string>
+    <string name="download_all_d_episodes">"Az összes letöltése %1$d ?"</string>
+    <string name="display">"Megjelenítés"</string>
+    <string name="when_i_press_next_button">"Skip (ugrás) megnyomása esetén"</string>
+    <string name="background_play">"Háttérben lejátszás"</string>
+    <string name="user_interface">"Felhasználói felület"</string>
+    <string name="show_description">"Mutasd a leírást"</string>
+    <string name="update_on_start">"Frissítés indításnál"</string>
+    <string name="media_player">"Médialejátszó"</string>
+    <string name="download_location">"Letöltés helye"</string>
+    <string name="change_log">"Változások "</string>
+    <string name="view_what_s_new_in_this_version">"Nézd meg az újdonságokat ebben a verzióban"</string>
+    <string name="version">"Verzió"</string>
+    <string name="about">"Névjegy"</string>
+    <string name="action_">"Művelet "</string>
+    <string name="action">"Művelet"</string>
+    <string name="download_only_when_connected_to_wifi">"Letöltés csak Wi-Fi kapcsolaton"</string>
+    <string name="add_to_new_tag">"Új címkéhez hozzáadás"</string>
+    <string name="enter_new_tag_name">"Írd be az új címke nevét"</string>
+    <string name="car_mode">"Autó mód"</string>
+    <string name="update_artwork">"Borítókép frissítése"</string>
+    <string name="enter_new_artwork_url">"Adj meg egy új borítókép URL címet"</string>
+    <string name="sleep_timer">"Alvó üzemmód időzítő"</string>
+    <string name="last_updated_s">"Utolsó frissítés: %1$s"</string>
+    <string name="fast_forward">"Gyors előretekerés"</string>
+    <string name="fast_rewind">"Gyors visszatekerés"</string>
+    <string name="play_pause">"Lejátszás / Szünet"</string>
+    <string name="none">"Nincs"</string>
+    <string name="sort_asc">"Rendezés növekvő sorrendbe"</string>
+    <string name="sort_desc">"Rendezés csökkenő sorrendbe"</string>
+    <string name="undo_delete">"Törlés visszavonása"</string>
+    <string name="language">"Nyelv"</string>
+    <string name="equalizer">"Hangszínszabályzó (EQ)"</string>
+    <string name="sort">"Rendezés"</string>
+    <string name="continue_">"Tovább"</string>
+    <string name="delete_from_playlists">"Törlés a lejátszási listákból"</string>
+    <string name="keep_in_playlists">"Tartsa a lejátszási listákban"</string>
+    <string name="remember_the_choice">"Emlékezzen a választásra"</string>
+    <string name="when_deleting_a_download">"Mikor törölsz egy letöltést"</string>
+    <string name="all_episodes">"Minden epizód"</string>
+    <string name="latest_d_episodes">"Legújabb %d epizód"</string>
+    <string name="system_default">"Rendszer alapbeállítások"</string>
+    <string name="every_one_hour">"Minden órában"</string>
+    <string name="every_three_hours">"Háromóránként"</string>
+    <string name="every_six_hours">"Hat óránként"</string>
+    <string name="every_half_day">"Félnaponta"</string>
+    <string name="every_day">"Naponta"</string>
+    <string name="every_three_days">"Háromnaponta"</string>
+    <string name="manually">"Manuálisan"</string>
+    <string name="do_not_check">"Ne ellenőrizze"</string>
+    <string name="newest_first">"Legújabb az elején"</string>
+    <string name="oldest_first">"A legrégebbiek az elején"</string>
+    <string name="on">"Be"</string>
+    <string name="off">"Ki"</string>
+    <string name="stop_sleep_timer">Ki</string>
+
+    <string-array name="ui_theme_text">
+        <item>All White</item>
+        <item>Fehér</item>
+        <item>"Piros"</item>
+        <item>"Rózsaszín"</item>
+        <item>"Lila"</item>
+        <item>"Mély lila"</item>
+        <item>"Indigó"</item>
+        <item>"Kék"</item>
+        <item>"Világoskék"</item>
+        <item>"Cián"</item>
+        <item>"Zöldeskék"</item>
+        <item>"Zöld"</item>
+        <item>"Világos zöld"</item>
+        <item>"Borostyán"</item>
+        <item>"Narancs"</item>
+        <item>"Mélynarancs"</item>
+        <item>"Kékes szürke"</item>
+        <item>"Sötét"</item>
+        <item>AMOLED Black</item>
+    </string-array>
+
+    <string name="theme">"Téma"</string>
+    <string name="skip_beginning">"Ugrás az elején"</string>
+    <string name="time_display_second_short_format">"sec"</string>
+    <string name="search_episode_title">"Epizód címének keresése"</string>
+    <string name="search_episodes">"Epizódok keresése"</string>
+    <string name="widgets">"Widgets"</string>
+    <string name="background_transparency">"Háttér átláthatósága"</string>
+    <string name="low">"Alacsony"</string>
+    <string name="high">"Magas"</string>
+    <string name="gesture_sensitivity">"Gesztus érzékenység"</string>
+    <string name="view_library_as">"Böngészés …"</string>
+    <string name="list_view">"Lista nézet"</string>
+    <string name="grid_view">"Rácsnézet"</string>
+    <string name="playlist_mode">"Lejátszási lista üzemmód"</string>
+    <string name="single_play_mode">"Epizódikus lejátszási mód"</string>
+    <string name="has_been_added_to_subscription">" hozzáadtuk a feliratkozásokhoz"</string>
+    <string name="audio_not_started_yet">"A lejátszás még nem kezdődött el!"</string>
+    <string name="manage_playlist">"Lejátszási listák kezelése"</string>
+    <string name="download">"Letöltés"</string>
+    <string name="fast_forward_time">"Előre tekerés ideje"</string>
+    <string name="fast_rewind_time">"Visszatekerés ideje"</string>
+    <string name="play_stop">"Lejátszás / Megállítás"</string>
+    <string name="buttons">"Gombok"</string>
+    <string name="when_lost_audio_focus">"Ha a hang ideiglenesen megszakad"</string>
+    <string name="lower_audio_volume">"Hangerő lejjebb vétele"</string>
+    <string name="pause_the_playback">"A lejátszás szüneteltetése"</string>
+    <string name="rewind_5_seconds">"5 másodpercet tekerjen vissza"</string>
+    <string name="repeat">"Ismétlés"</string>
+    <string name="keep_downloads">"Ennyi letöltést tartson meg"</string>
+    <string name="when_deleting_from_playlist">"Ha a lejátszási listából törlöd"</string>
+    <string name="search">"Keresés"</string>
+    <string name="edit">"Kijelölés"</string>
+    <string name="time_display_minute_short_format">"perc"</string>
+    <string name="keep_screen_on">"Képernyő ébrentartása"</string>
+    <string name="backup_restore">"Biztonsági mentés és visszaállítása"</string>
+    <string name="backup">"Biztonsági mentés"</string>
+    <string name="restore_settings_database">"Kattints a beállítások és adatbázisok visszaállítására"</string>
+    <string name="restore">"Visszaállítás"</string>
+    <string name="erase_data_and_restore_from_backup_">"Adatok törlése és a biztonsági mentésből visszaállítani?"</string>
+    <string name="restore_successful">"Visszaállítás sikerült"</string>
+    <string name="restore_failed">"A visszaállítás nem sikerült"</string>
+    <string name="backup_successful_s">"Biztonsági mentés sikerült: %1$s"</string>
+    <string name="backup_failed_">"Biztonsági mentés nem sikerült!"</string>
+    <string name="when_headset_bluetooth_disconnected">"Amikor a headset / Bluetooth szétkapcsolódik"</string>
+    <string name="volume">"Hangerő"</string>
+    <string name="add_a_virtual_podcast">"Virtuális podcast hozzáadása"</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Hozz létre egy virtuális podcastot, egy mappa kiválasztásával a készüléken. Minden médiafájl a kiválasztott mappában egy epizódként fog megjelenni. Manuálisan tudsz hozzáadni vagy eltávolítani fájlokat a mappában."</string>
+    <string name="location">"Mappa helye"</string>
+    <string name="select_a_directory">"Válassz ki egy mappát a készüléken"</string>
+    <string name="data_wifi_usage">"Adatforgalom és Wi-Fi használat"</string>
+    <string name="download_via_wifi_only">"Csak Wi-Fi-n keresztül töltsön le"</string>
+    <string name="feed_updates_via_wifi_only">"Csak Wi-Fi-n keresztüli podcast frissítés"</string>
+    <string name="update_podcasts_only_when_connected_to_wifi">"Csak Wi-Fi-n keresztüli podcast frissítés"</string>
+    <string name="mark_all_as_played">"Az összes megjelölése lejátszottként"</string>
+    <string name="playback_mode">"Lejátszás üzemmód"</string>
+    <string name="display_on_lock_screen">"Megjelenítés a lezárási képernyőn"</string>
+    <string name="display_artwork_on_lock_screen_when_playing">"Borítókép megjelenítése a lezárási képernyőn lejátszáskor"</string>
+    <string name="there_are_no_episodes_">"Nincsenek epizódok!"</string>
+    <string name="podcast_feed_url">"Podcast URL"</string>
+    <string name="no_podcast_found_">"Nem található podcast!"</string>
+    <string name="find_podcast">"Podcast keresése"</string>
+    <string name="authentication">"Engedélyezés"</string>
+    <string name="http">"HTTP"</string>
+    <string name="password">"Jelszó"</string>
+    <string name="username">"Felhasználónév"</string>
+    <string name="new_episodes_available">"Elérhető új epizód"</string>
+    <string name="notifications">"Értesítések"</string>
+    <string name="podcast">"Podcast"</string>
+    <string name="send_email_">"E-mail küldése"</string>
+    <string name="bass_boost">"Basszus erősítése"</string>
+    <string name="media_type">"Média típus"</string>
+    <string name="auto_detect">"Automatikus észlelés"</string>
+    <string name="audio">"Audio"</string>
+    <string name="video">"Video"</string>
+    <string name="account_and_syncing">"Szinkronizálás az eszközök között"</string>
+    <string name="shuffle">"Shuffle"</string>
+    <string name="update_on_charging">"Akkumulátor töltése közbeni frissítés"</string>
+    <string name="update_podcasts_only_when_battery_is_charging">"Csak az akkumulátor töltése közben frissítsen"</string>
+    <string name="filename">"Fájlnév"</string>
+    <string name="auto_backup_saved_to_">"Automatikus mentés ide mentve: [ %1$s ]"</string>
+    <string name="download_removed">"Letöltés eltávolítva"</string>
+    <string name="load_artworks_only_when_connected_to_wifi">"Csak Wi-Fi-n keresztül töltse be a borítóképet"</string>
+    <string name="load_artwork_via_wifi_only">"Csak Wi-Fi-n keresztül töltse be a borítóképet"</string>
+    <string name="when_pressing_episode_in_list">"Ha az epizódra nyomsz akkor"</string>
+    <string name="start_playing">"Mindig kezdje el játszani"</string>
+    <string name="display_episode_artwork">"Borítókép megjelenítése"</string>
+    <string name="ringtone">"Csengőhang"</string>
+    <string name="vibrate">"Rezgés"</string>
+    <string name="light">"LED lámpa"</string>
+    <string name="history">"Előzmények"</string>
+    <string name="remove_all">"Összes eltávolítása"</string>
+    <string name="auto_delete_played_episode_from_playlists">"Meghallgatottak automatikus törlése a lejátszási listákból"</string>
+    <string name="new_episode_notification">"Új epizód figyelmeztetés"</string>
+    <string name="download_on_charging">"Letöltés az akkumulátor töltésekor"</string>
+    <string name="start_downloading_only_when_battery_is_charging">"Csak akkor kezdjen tölteni, ha az akkumulátor is töltődik"</string>
+    <string name="add_a_youtube_podcast">"YouTube podcast hozzáadása "</string>
+    <string name="channels">"Csatornák"</string>
+    <string name="channel_id">"Csatorna ID"</string>
+    <string name="playlist_id">"Lista azonosítója (ID)"</string>
+    <string name="when_deleting_an_episode">"Mikor törölsz egy epizódot"</string>
+    <string name="also_remove_from_downloads_amp_playlists">"Törölje a Letöltések és lejátszási listákból is"</string>
+    <string name="remove_episode_only">"Csak az epizód törlése"</string>
+    <string name="mark_episode_as_played">"Epizód megjelölése meghallgatottként"</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">"Egy epizód megjelölése lejátszottként, ha több mint %1$d %% játszott"</string>
+    <string name="download_episode">"Epizód letöltése"</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">"Indítsa el a letöltést, ha egy epizódot hozzáadtak a lejátszási listához"</string>
+    <string name="podcast_keep_download_limit_reached_">"A podcastok száma elérte a letöltési limitet!"</string>
+    <string name="auto_download_filter">"Automatikus letöltés szűrő"</string>
+    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Epizódcímek szűrése az automata letöltésekhez. Először be kell állítani az automatikus letöltést."</string>
+    <string name="keep_favorite_episodes">"Tartsd meg a kedvenc epizódokat"</string>
+    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"A kedvenc epizódokat ne törölje automatikusan"</string>
+    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"Alkönyvtár található. Hozzon létre egy új virtuális podcastot minden alkönyvtárra?"</string>
+    <string name="import_sub_directory">"Alkönyvtár importálása"</string>
+    <string name="failed_downloads">"Sikertelen"</string>
+    <string name="subscribe_on_podcast_republic">"A Podcast Republic-on való feliratkozás"</string>
+    <string name="dim_screen_but_keep_screen_responsive">"Alacsony fényerőre kapcsolás"</string>
+    <string name="chapters">"Fejezetek"</string>
+    <string name="no_chapter_marks_found">"Könyvjelzők nem találhatók."</string>
+    <string name="keep_latest_n_downloads">"Tartsa meg a legújabb %1$d letöltést"</string>
+    <string name="keep_all_downloads">"Tartsa meg az összes letöltést"</string>
+    <string name="playback_controls">"Lejátszásvezérlők"</string>
+    <string name="playback_controls_maximum_three_in_notification_">"Lejátszásvezérlők (maximum három) a figyelmeztetésekben: "</string>
+    <string name="hide_played_podcasts">"Lejátszott podcastokat elrejtése"</string>
+    <string name="pause_downloads">"Letöltések szüneteltetése"</string>
+    <string name="has_keywords_in_title">"A kulcsszavak szerepelnek a címben"</string>
+    <string name="previous">"Előző"</string>
+    <string name="bluetooth_headset_key_mapping">"Bluetooth / fejhallgató billentyűkiosztás"</string>
+    <string name="button">"Gomb"</string>
+    <string name="and">"És"</string>
+    <string name="screen_size">"Kijelző méret"</string>
+    <string name="original_size">"Eredeti méret"</string>
+    <string name="auto_fit">"Automatikus illesztés"</string>
+    <string name="stretch">"Kinyújtás"</string>
+    <string name="fit_width">"Szélesség illesztése"</string>
+    <string name="fit_height">"Magasság illesztése"</string>
+    <string name="search_podcasts">"Podcastok keresése"</string>
+    <string name="reset_episodes">"Epizódok visszaállítása"</string>
+    <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">"Figyelmeztetés: az epizód adatok visszaállítása törli a letöltött podcastot!"</string>
+    <string name="copy_url">"URL Másolása"</string>
+    <string name="view_episode">"Epizód részletek"</string>
+    <string name="episode_url_has_been_copied_to_clipboard">"Az epizód URL a vágólapra másolva"</string>
+    <string name="dim_screen">"Fényerő csökkentése"</string>
+    <string name="keep_screen_always_on">"Tartsa a képernyőt mindig bekapcsolva"</string>
+    <string name="completed_downloads">"Befejezve"</string>
+    <string name="top_charts">"Toplisták"</string>
+    <string name="browse_top_charts">"Toplisták böngészése"</string>
+    <string name="in_minutes">"%1$d perc múlva"</string>
+    <string name="when_current_episode_ends">"Amikor az aktuális epizód lejár"</string>
+    <string name="add_chapter">"Könyvjelző hozzáadása"</string>
+    <string name="time">"Idő"</string>
+    <string name="filter_name">"Szűrő neve"</string>
+    <string name="podcasts">"Podcastok"</string>
+    <string name="playing_state">"Lejátszási állapot"</string>
+    <string name="only_include_favorited_episodes">"Csak kedvenc epizódokat tartalmazzon"</string>
+    <string name="download_status">"Letöltés állapota"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Ugrás a következő epizódra, ha lejátszási hiba merül fel"</string>
+    <string name="continue_on_error">"Hiba esetén is folytatás"</string>
+    <string name="downloading">"Letöltődik"</string>
+    <string name="failed">"Sikertelen"</string>
+    <string name="select_all">"Összes kiválasztása"</string>
+    <string name="export_download">"Epizód exportálása"</string>
+    <string name="export_downloads">"Epizód exportálása"</string>
+    <string name="edit_episode_filter">"Epizód szűrő szerkesztése"</string>
+    <string name="done">"Kész"</string>
+    <string name="move_selections_to_top">"Kiválasztottak mozgatása felülre"</string>
+    <string name="move_selections_to_bottom">"Kiválasztottak mozgatásra alulra"</string>
+    <string name="downloaded">"Letöltve"</string>
+    <string name="dont_download_episode">"Ne töltsön le epizódot"</string>
+    <string name="match_all_keywords">"Az összes kulcsszó egyezzen"</string>
+    <string name="match_any_of_the_keywords">"Bármely kulcsszó egyezhet"</string>
+    <string name="download_episode_if_matching_all_keywords_">"Töltsd le az epizódot, ha az összes kulcsszó egyezik: "</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_">"Töltsd le az epizódot, ha bármelyik kulcsszó egyezik: "</string>
+    <string name="dont_download_episode_if_matching_all_keywords_">"Ne töltsd le az epizódot, ha az összes kulcsszó egyezik: "</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_">"Ne töltsd le az epizódot, ha bármely kulcsszó egyezik: "</string>
+    <string name="keywords">"Kulcsszavak"</string>
+    <string name="enter_keywords">"Adj meg kulcsszavakat"</string>
+    <string name="restoring_">"Visszaállítás …"</string>
+    <string name="creating_backup_">"Biztonsági másolat létrehozása…"</string>
+    <string name="resume_downloads">"Letöltések folytatása"</string>
+    <string name="delete_episode_and_download_">"Epizód és letöltés törlése?"</string>
+    <string name="clear_playlist">"Lejátszási lista törlése"</string>
+    <string name="clear_current_playlist_">"Aktuális lejátszási lista törlése?"</string>
+    <string name="enter_playlist_name">"Írd be a lista nevét"</string>
+    <string name="podcast_exported_to_">"A podcast exportálva ide: [ %1$s ]"</string>
+    <string name="search_not_found">"Keresés nem talált eredményt"</string>
+    <string name="_is_not_found_add_this_podcast_">"[ %1$s ] nem található. Hozzáadod ezt a podcastot URL címként?"</string>
+    <string name="episode_publishing_date">"Epizód kiadásának dátuma"</string>
+    <string name="episode_guid">"Epizód GUID"</string>
+    <string name="episode_unique_criteria">"Epizód egyedi kritériuma"</string>
+    <string name="episode_url">"Epizód URL"</string>
+    <string name="episode_title">"Epizód címe"</string>
+    <string name="export_history">"Export előzmények"</string>
+    <string name="notes">"Jegyzetek"</string>
+    <string name="playback_history">"Lejátszási előzmények"</string>
+    <string name="edit_notes">"Megjegyzések szerkesztése"</string>
+    <string name="generated_by_s_app">"A %1$s alkalmazás által generált."</string>
+    <string name="auto_backup">"Automatikus biztonsági mentés"</string>
+    <string name="double_tap_to_play_or_pause">"Koppints kétszer a lejátszáshoz vagy szünethez"</string>
+    <string name="swipe_up_to_play_next_in_playlist">"Felfelé csúsztatással: a lejátszási listában a következőre ugrás"</string>
+    <string name="swipe_to_left_to_fast_rewind">"Balra csúsztatás: visszatekerés"</string>
+    <string name="swipe_to_right_to_fast_forward">"Jobbra csúsztatás: előretekerés"</string>
+    <string name="swipe_down_to_stop">"Lefelé csúsztatás: megállít"</string>
+    <string name="remove_subscription_to_">"Leiratkozás innen: [ %1$s ]"</string>
+    <string name="data_roaming">"Adatforgalom"</string>
+    <string name="allow_to_download_with_data_services_when_roaming">"Roaming közben is engedje a letöltést"</string>
+    <string name="up_next">"Következik"</string>
+    <string name="episode_info">"Epizód információ"</string>
+    <string name="no_more_episodes_to_play_from_playlist_s_">"Nincs több epizód a lejátszási listán [ %1$s ]"</string>
+    <string name="apply_this_change_to_all_podcasts_">"Alkalmazod ezt a változtatást, az összes podcastra?"</string>
+    <string name="grid_size">"Rács mérete"</string>
+    <string name="play_pause_double_click">"Lejátszás / Szünet dupla kattintással"</string>
+    <string name="total_episodes">"Összes epizód"</string>
+    <string name="duration">"Hossz"</string>
+    <string name="browse_downloads">"Letöltések böngészése"</string>
+    <string name="browse_by_playlist">"Lejátszási listák böngészése"</string>
+    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"A visszaállított epizódok elvesztik az eddigi adatokat, és a feed alapján újratöltődnek"</string>
+    <string name="right_hand_operation">"Jobb kezes mód"</string>
+    <string name="open_menu_drawer_on_the_right_side">"A menü fiókot a jobb oldalon nyissa meg"</string>
+    <string name="go_to_podcast">"Ugrás a podcastra"</string>
+    <string name="there_are_no_podcasts_">"Nincsenek podcastok!"</string>
+    <string name="no_podcasts_selected">"Nincs kiválasztott podcast"</string>
+    <string name="enjoy_podcast_republic">"Tetszik a Podcast Republic?"</string>
+    <string name="please_tell_us_how_we_re_doing">"kérünk mondd el véleményed."</string>
+    <string name="rate_us_in_the_play_store">"Értékelj minket a Play Store-ban"</string>
+    <string name="no_thanks">"Kösz, de kihagyom."</string>
+    <string name="select_an_image_on_device">"Válassz képet a készüléken"</string>
+    <string name="youtube_type">"YouTube típus"</string>
+    <string name="scanning_">"Szkennel …"</string>
+    <string name="playback_speed">"Lejátszási sebesség"</string>
+    <string name="keep_playing">"Folyamatosan játszik, normális mód"</string>
+    <string name="play_from_position">"Pozíciótól játssza"</string>
+    <string name="report_a_bug">"Jelentsd be a hibát"</string>
+    <string name="import_export_opml">"Import / Export OPML"</string>
+    <string name="import_from_opml_file">"Import from OPML file"</string>
+    <string name="export_to_opml_file">"Export to OPML file"</string>
+    <string name="episodes">"Epizódok"</string>
+    <string name="episode_s_is_still_downloading_can_not_play_it">"[ %1$s ] epizód még töltődik. Nem lehet lejátszani."</string>
+    <string name="error_episode_still_downloading">"Hiba: epizód még letöltés alatt"</string>
+    <string name="disabled">"Letiltva"</string>
+    <string name="click_to_open_full_screen_player_view">"Húzz fel, a teljes képernyő módhoz!"</string>
+    <string name="keep_latest_x_downloads_for_each_podcast">"Tartsd meg a legfrissebb %1$d letöltést minden podcasthoz"</string>
+    <string name="radio_stations">"Rádióállomások"</string>
+    <string name="radios">Radios</string>
+    <string name="stations">"Állomások"</string>
+    <string name="connection_failed">"Kapcsolat nem sikerült"</string>
+    <string name="search_stations">"Állomások keresése"</string>
+    <string name="add_a_station_by_url">"Állomás hozzáadása URL címmel"</string>
+    <string name="radio_stream_url_is_required_">"Rádió URL cím szükséges!"</string>
+    <string name="radio_title_is_required_">"Csatorna cím szükséges!"</string>
+    <string name="_is_not_found_add_this_station_">"[ %1$s ] nem található. Hozzáadod URL címmel ezt a csatornát?"</string>
+    <string name="debug_log">"Javítási napló"</string>
+    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">"Ha nincs megadott kép, minden kép fájl, mely a virtuális podcast mappában van, lesz az alapértelmezett borítókép."</string>
+    <string name="select">"Kiválasztás"</string>
+    <string name="no_schedule_available">"Programterv nem elérhető"</string>
+    <string name="browse_by_subscriptions">"Feliratkozások böngészése"</string>
+    <string name="browse_by_radio_stations">"Rádióállomások böngészése"</string>
+    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">"Wi-Fi nem áll rendelkezésre. A podcast frissítés megszakadt."</string>
+    <string name="pull_to_refresh">"Húzd a frissítéshez"</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">"Húzd le a lejátszási listát, hogy a frissítés elkezdődjön."</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">"Húzd le a letöltési listát, hogy a frissítés elkezdődjön."</string>
+    <string name="auto_rotate_screen">"A képernyő automatikus forgatása"</string>
+    <string name="screen_orientation">"Képernyő tájolás"</string>
+    <string name="portrait">"Függőleges"</string>
+    <string name="landscape">"Fektetett"</string>
+    <string name="drag_the_handler_to_sort_manually">"Húzd a jobb oldalon lévő kezelőt a manuális rendezéshez."</string>
+    <string name="streaming">"Streaming"</string>
+    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Add meg a felhasználónevet és jelszót, ha a podcast hitelesítést igényel. Hagyd őket üresen, ha nem szükséges hitelesítés."</string>
+    <string name="can_not_play_ps">"Nem sikerült lejátszani a következőt: %s"</string>
+    <string name="percent_file_size">"%1$.1f %%%2$s%3$s"</string>
+    <string name="unknown_percent_file_size">"%1$s - %2$s"</string>
+    <string name="percent_played">"%1$d %% lejátszott"</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">"Húzd le a feliratkozási listát a podcastok frissítéséhez"</string>
+    <string name="actions">"Műveletek"</string>
+    <string name="when_an_episode_is_100_played">"Ha egy epizód 100% lejátszott"</string>
+    <string name="delete_the_download">"Törölje a letöltést"</string>
+    <string name="keep_the_download">"Tartsa a letöltést"</string>
+    <string name="shake_your_device">"Rázd a készüléket"</string>
+    <string name="shake_device_to_control_playback">"Lejátszási műveletekhez rázd a készüléket"</string>
+    <string name="sensitivity">"Érzékenység"</string>
+    <string name="gestures">"Kézmozdulatok"</string>
+    <string name="user_agreement">"Felhasználói Szerződés"</string>
+    <string name="multi_thread_download">"Többszálú letöltés"</string>
+    <string name="recents">"Legutóbbiak"</string>
+    <string name="group_by_podcasts">"Csoportosítás podcastok alapján"</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Add hozzá az alábbi lejátszási listákhoz, amikor hozzáadok egy epizódot egy lejátszási listához"</string>
+    <string name="compact_view">"Kompakt nézet"</string>
+    <string name="open_source_licenses">"Nyílt forráskódú licencek"</string>
+    <string name="can_not_play_the_downloaded_file">"Nem lehet lejátszani a letöltött fájlt"</string>
+    <string name="can_not_play_the_local_file">"Nem lehet lejátszani a helyi fájlt"</string>
+    <string name="audio_loudness_boost">"Hangerő emelés"</string>
+    <string name="apply_to_all_podcasts">"Alkalmazás az összes podcastra"</string>
+    <string name="audio_effects_and_equalizer">"Hanghatások és equalizer"</string>
+    <string name="episode_info_short">"Epizód információ (rövid)"</string>
+    <string name="episode_info_full">"Epizód információ (teljes)"</string>
+    <string name="twitter">"Twitter"</string>
+    <string name="storage_usage">"Tárhelyhasználat"</string>
+    <string name="stream_url">"Stream URL"</string>
+    <string name="fm_am_frequency">"FM / AM frekvencia"</string>
+    <string name="genre">"Műfaj"</string>
+    <string name="city_state">"Város, állam"</string>
+
+    <string name="sync_now">"Szinkronizálj most"</string>
+    <string name="sign_in">"Bejelentkezés"</string>
+    <string name="sign_out">"Kijelentkezés"</string>
+    <string name="syncing_started">"A szinkronizálás elkezdődött"</string>
+    <string name="account_logged_in_s"><![CDATA[Account bejelentkezve: <i>%1$s</i>]]></string>
+    <string name="sync_subscriptions_and_episode_playback_progress">"Szinkronizáld a feliratkozásokat és lejátszási adatokat"</string>
+    <string name="schedule_auto_backup_every_d_days">"Automatikus mentés minden %1$d nap után"</string>
+    <string name="keep_most_recent_d_auto_backups">"Tartsd meg a legutóbbi %1$d automatikus mentést"</string>
+    <string name="save_auto_backup_to_s">"Automatikus mentés helye: %1$s"</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">"Engedélyezd az automatikus mentést az alkalmazás beállításaira és az adatbázisaira"</string>
+    <string name="schedule_backup">"Ütemezett biztonsági mentés"</string>
+    <string name="backups_to_keep">"Mentéseket megtartani"</string>
+    <string name="import_subscriptions_from_an_opml_file">"Importálj feliratkozásokat egy OPML fájlból"</string>
+    <string name="export_subscriptions_to_an_opml_file">"Exportálj feliratkozásokat egy OPML fájlból"</string>
+    <string name="create_a_backup_of_app_settings_and_database">"Készíts biztonsági másolatot az alkalmazás beállításairól és az adatbázisairól"</string>
+    <string name="restore_app_settings_and_database_from_selected_backup">"Alkalmazás beállítások és adatbázisok helyreállítása, biztonsági mentésből"</string>
+    <string name="save_to">"Mentés ide"</string>
+    <string name="buy_me_a_coffee">"Hívj meg egy kávéra"</string>
+    <string name="clear_the_play_history_">"Lejátszási előzmények törlése?"</string>
+    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Ha egy letöltés törlődik a tárhelykvóta, vagy letöltési limit miatt"</string>
+    <string name="keep_all">"Megtartani mindet"</string>
+    <string name="playlist">"Lejátszási lista"</string>
+    <string name="category">"Kategória"</string>
+    <string name="update_podcasts_when_app_is_starting">"Frissítse a podcastokat, amikor az alkalmazás elindul"</string>
+    <string name="unknown_station">"Ismeretlen állomás"</string>
+    <string name="can_not_cast_youtube_videos_to_chromecast_">"YouTube videókat nem tud Chromecast-ra küldeni!"</string>
+    <string name="add_a_playlist">"Lejátszási lista hozzáadása"</string>
+    <string name="add_to_tag">"Címke hozzáadása"</string>
+    <string name="add_to_default_playlists">"Add hozzá az alapértelmezett lejátszási listákhoz"</string>
+    <string name="add_to_selected_playlists">"Add hozzá a kiválasztott lejátszási listákhoz"</string>
+    <string name="delete_selected_episodes_">"Törlöd a kiválasztott epizódokat?"</string>
+    <string name="you_have_no_completed_downloads">"Nincsenek befejezett letöltések."</string>
+    <string name="you_have_no_pending_downloads">"Nincsenek függőben lévő letöltések."</string>
+    <string name="all_good_">"Minden jó ☺"</string>
+    <string name="there_are_no_episodes_in_this_playlist">"Nincsenek epizódok ezen a lejátszási listán."</string>
+    <string name="no_play_history_found">"Nem található lejátszási előzmény"</string>
+    <string name="set_playlists">"Lejátszási listák beállítása"</string>
+    <string name="mark_all_as_read">"Összes megjelölése olvasottként"</string>
+    <string name="not_in_use">"Nem használt"</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Húzd le az epizódok listát, hogy frissítsd a podcastokat"</string>
+    <string name="mark_all_previous_episodes_as_played">"Jelöld meg az összes korábbi epizódot lejátszottként"</string>
+    <string name="remove_favorite">"Kedvenc eltávolítása"</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Jelölj meg minden epizódot lejátszottként, ami ezelőtt az epizód előtt jött ki [ %1$s ] ?"</string>
+    <string name="exporting">"Exportálás"</string>
+    <string name="add_s_minutes">"%1$d perc hozzáadása"</string>
+    <string name="pick_a_time">"Válassz egy időt"</string>
+    <string name="updating_podcasts">"Podcastok frissítése"</string>
+    <string name="skip_ending">"Ugrás a végén"</string>
+    <string name="skip_the_beginning_d_seconds">"Ugorj %d másodpercet az elején"</string>
+    <string name="skip_the_ending_d_seconds">"Ugorj %d másodpercet a végén"</string>
+    <string name="no_user_notes_found">"Felhasználói megjegyzések nincsenek."</string>
+    <string name="no_episode_description_found">"Epizód leírás nincs."</string>
+    <string name="set_episode_s_as_played_">"Beállítod a [ %s ] epizódot lejátszottként?"</string>
+    <string name="or">"Vagy"</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">"A Következik lista frissült, hogy innen játsszon le: %s"</string>
+    <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Csinálj egy teljes szinkronizálást. Sokkal tovább fog tartani."</string>
+    <string name="buy_me_a_coffee_message">"Ha szívesen használod a Podcast Republic alkalmazást, és szeretnéd támogatni a fejlesztést, akkor meghívhatsz egy csésze kávéra. Köszönöm!"</string>
+    <string name="maybe_later">"Talán később"</string>
+    <string name="sign_up">"Regisztráció"</string>
+
+    <string name="download_state_idle">"Várakozás a letöltés megkezdésére"</string>
+    <string name="download_state_fetching_url">"Források keresése a letöltéshez"</string>
+    <string name="download_state_connecting">"Kapcsolódás …"</string>
+    <string name="download_state_downloading">"Letöltődik"</string>
+    <string name="download_state_completed">"Kész"</string>
+    <string name="download_state_paused_network_unavailable">"Szünetel: várakozás a hálózatra"</string>
+    <string name="download_state_failed_incorrect_file_received">"Sikertelen: hibás fájl érkezett."</string>
+    <string name="download_state_paused_by_request">"Letöltés szünetel"</string>
+    <string name="download_state_paused_wifi_unavailable">"Szünetel: Wi-Fi nem elérhető"</string>
+    <string name="download_state_paused_wifi_disabled">"Szünetel: Wi-Fi le van tiltva"</string>
+    <string name="download_state_paused_roaming">"Szünetel: roamingon vagy"</string>
+    <string name="download_state_paused_waiting_to_retry">"Szünetel: újrapróbálkozásra vár"</string>
+    <string name="download_state_paused_sdcard_unavailable">"Szünetel: nincs külső tároló"</string>
+    <string name="download_state_paused_need_battery_charging">"Szünetel: várni kell akkumulátor töltésére"</string>
+    <string name="download_state_failed_fetching_url">"Sikertelen: URL nem található"</string>
+    <string name="download_state_failed_sdcard_full">"Sikertelen: nincs elegendő hely"</string>
+    <string name="download_state_failed_cancelled">"Törölve"</string>
+    <string name="download_state_failed">"Sikertelen"</string>
+    <string name="download_state_failed_storage_is_not_accessible">"Sikertelen: tároló nem elérhető"</string>
+    <string name="error_storage_is_not_accessible">"Tároló nem elérhető"</string>
+    <string name="moving_downloads">"Letöltések mozgatása"</string>
+    <string name="moving_download_from_1s_to_2s">"Letöltések mozgatása innen [ %1$s ] ide [ %2$s ]."</string>
+    <string name="invalid_opml_file_selected_">"Érvénytelen opml fájl kiválasztás!"</string>
+    <string name="podcast_title_can_not_be_empty_">"A podcast cím nem lehet üres!"</string>
+    <string name="podcast_url_can_not_be_empty_">"A podcast URL nem lehet üres!"</string>
+    <string name="show_podcast_title">"Mutasd a podcast címét"</string>
+    <string name="hide_podcast_title">"Rejtsd el a podcast címét"</string>
+    <string name="no_download_directory_prompt_message">"Még nem állítottál be letöltési könyvtárat. Most beállítod? "</string>
+    <string name="at_least_one_playlist_is_required_">"Legalább egy lejátszási lista szükséges!"</string>
+    <string name="manage_tags">"Címkék kezelése"</string>
+    <string name="episode_filters">"Epizód szűrők"</string>
+    <string name="manage_episode_filters">"Epizód szűrők kezelése"</string>
+    <string name="episode_filter">"Epizód szűrő"</string>
+    <string name="browse_by_episode_filters">"Epizód szűrők böngészése"</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">"A fiók szinkronizálása sikertelen volt. Próbálj meg újra bejelentkezni."</string>
+    <string name="filter">"Szűrő"</string>
+    <string name="view_all_episodes">"Az összes epizód megtekintése"</string>
+    <string name="view_finished_episodes">"Befejezett epizódok megtekintése"</string>
+    <string name="view_unfinished_episodes">"Befejezetlen epizódok megtekintése"</string>
+    <string name="playback_progress">Lejátszás előrehaladása</string>
+    <string name="display_playback_progress_in_notification_s">Mutassa az előrehaladást az értesítésben: %s</string>
+    <string name="you_have_subscribed_to_s">You have subscribed to: %s</string>
+    <string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">Oops, no podcasts found! You can press the (+) button on the title bar to add podcasts.</string>
+    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">Add a YouTube channel or playlist as a podcast.</string>
+    <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Set up a virtual podcast to play music or audiobooks on your device.</string>
+    <string name="click_to_adjust_playback_speed">Click to adjust playback speed</string>
+    <string name="click_to_set_up_sleep_timer">Click to set up sleep timer</string>
+    <string name="click_to_view_more_options_">Click to view more options…</string>
+    <string name="click_to_select_playback_mode">Click to select playback mode</string>
+    <string name="percetage_value">%d%%</string>
+    <string name="select_episodes">Select episodes</string>
+    <string name="select_episodes_from_last_d_days">Select episodes from last %d days</string>
+    <string name="select_episodes_from_all_dates">Select episodes from all dates</string>
+    <string name="selected_tags_s">Selected tags: %s</string>
+    <string name="selected_podcasts_s">Selected podcasts: %s</string>
+    <string name="unplayed_less_than_d_played">Unplayed (&lt; %d%% played)</string>
+    <string name="played_greater_than_d_played">Played (&gt;= %d%% played)</string>
+    <string name="unfinished_less_than_100_played">Unfinished (&lt; 100% played)</string>
+    <string name="finished_100_played">Finished (100% played)</string>
+    <string name="restore_defaults">Restore defaults</string>
+    <string name="at_least_one_episode_filter_is_required_">At least one episode filter is required!</string>
+
+    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">The following directories are not accessible. Please reset in the Settings.\n%s</string>
+    <string name="_download_location">- Download location</string>
+    <string name="_auto_backup_location">- Auto backup location</string>
+    <string name="clean_up">Clean up</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">The following files are found in the download directory but not linked to any downloads. You can remove them by pressing the \"Clean up\" button.</string>
+    <string name="tags">Tags</string>
+    <string name="casting">Casting</string>
+    <string name="chapter_d">Chapter #%d</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Please don\'t close the app when it is restoring the data. It will restart when all data are restored.</string>
+    <string name="playback_paused_on_muted_volume_">Playback paused on muted volume!</string>
+    <string name="number_of_episodes_to_auto_download">Number of episodes to auto download</string>
+    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Automatically download up to %1$d most recent episodes when new episodes are retrieved</string>
+    <string name="notify_when_new_episodes_are_available">Notify when new episodes are available</string>
+    <string name="save_episode_list_to_html">Save episode list to HTML</string>
+
+    <string name="com_parse_ui_progress_dialog_text">Loading…</string>
+    <string name="com_parse_ui_forgot_password_button_label"><u>Forgot password</u></string>
+    <string name="com_parse_ui_email_input_hint">Email</string>
+    <string name="com_parse_ui_confirm_password_input_hint">Re-enter password</string>
+    <string name="com_parse_ui_create_account_button_label">Create account</string>
+    <string name="com_parse_ui_no_password_toast">Please enter your password</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">The username and password you entered don\'t match</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">Could not log in, please try again later</string>
+    <string name="com_parse_ui_password_too_short_toast">Password must be at least %1$d characters long</string>
+    <string name="com_parse_ui_username_taken_toast">Username is already taken, please choose a different one</string>
+    <string name="com_parse_ui_reenter_password_toast">Please re-enter your password</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">Passwords don\'t match, please try again</string>
+    <string name="com_parse_ui_no_email_toast">Please enter your email</string>
+    <string name="com_parse_ui_invalid_email_toast">Email is invalid, please correct it and try again</string>
+    <string name="com_parse_ui_email_taken_toast">Email is already taken, please reset your password instead</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">Could not sign up, please try again later</string>
+    <string name="com_parse_ui_login_help_instructions">Enter your email to recover your password</string>
+    <string name="com_parse_ui_login_help_email_input_hint">Email</string>
+    <string name="com_parse_ui_login_help_submit_button_label">Submit</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">Back to Login</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">Failed to request password reset, please try again</string>
+    <string name="com_parse_ui_login_help_email_sent">Please check your email for instructions on how to access your account</string>
+    <string name="connecting_">Connecting…</string>
+    <string name="syncing_episode_changes_s">Syncing episode changes: %s</string>
+    <string name="syncing_added_radio_subscriptions_d">Syncing added radio subscriptions: %d</string>
+    <string name="syncing_removed_radio_subscriptions_d">Syncing removed radio subscriptions: %d</string>
+    <string name="syncing_added_podcast_subscriptions_d">Syncing added podcast subscriptions: %d</string>
+    <string name="syncing_removed_podcast_subscriptions_d">Syncing removed podcast subscriptions: %d</string>
+    <string name="syncing_episode_changes_">Syncing episode changes…</string>
+    <string name="syncing_radio_subscription_changes_">Syncing radio subscription changes…</string>
+    <string name="syncing_podcast_subscription_changes_">Syncing podcast subscription changes…</string>
+    <string name="syncing">Syncing</string>
+    <string name="current_playlist">Current playlist</string>
+    <string name="continue_to_next_playlist">Continue to next playlist</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Continue to play next playlist after all episodes have been played in current playlist</string>
+    <string name="disable_manual_sorting">Disable manual sorting</string>
+    <string name="enable_manual_sorting">Enable manual sorting</string>
+    <string name="open">Open</string>
+    <string name="newest_unplayed">Newest unplayed</string>
+    <string name="apply_to_current_podcast">Apply to current podcast</string>
+    <string name="redownload_all_selected_episodes_">Redownload all selected episodes?</string>
+    <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">Download location is not accessible. Set up the download location now?</string>
+    <string name="insufficient_space_please_free_some_storage_space_">Insufficient space. Please free some storage space.</string>
+    <string name="show_last_updated_time">Show last updated time</string>
+    <string name="hide_last_updated_time">Hide last updated time</string>
+    <string name="delete_account">Delete account</string>
+    <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">You won\'t be able to login this account again! Continue to delete account?</string>
+    <string name="please_select_a_directory_to_save_the_auto_backups">Please select a directory to save the auto backups.</string>
+    <string name="download_completed">Download completed</string>
+    <string name="notify_when_an_episode_has_been_downloaded">Notify when an episode has been downloaded</string>
+    <string name="night_mode">Night mode</string>
+    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Automatically switching between light theme (day) and dark theme (night) based on the time of day</string>
+    <string name="repeat_episode">Repeat episode</string>
+    <string name="repeat_playlist">Repeat playlist</string>
+    <string name="alarms">Alarms</string>
+    <string name="sunday">Vasárnap</string>
+    <string name="monday">Hétfő</string>
+    <string name="tuesday">Kedd</string>
+    <string name="wednesday">Szerda</string>
+    <string name="thursday">Csütörtök</string>
+    <string name="friday">Péntek</string>
+    <string name="saturday">Szombat</string>
+    <string name="no_alarms_found_">No alarms found.</string>
+    <string name="allow_to_download_at_any_time">Allow to download at any time</string>
+    <string name="allow_to_download_between_selected_time">Allow to download between selected time</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="allowed_download_time">Allowed download time</string>
+    <string name="paused_waiting_for_allowed_download_time">Paused: waiting for allowed download time</string>
+    <string name="last_played_time">Last played time</string>
+    <string name="display_unplayed_episodes_on_top">Display unplayed episodes on top</string>
+    <string name="text_size">Text size</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">This is the text size zoomed to %d%%.</string>
+    <string name="_d_seconds">%d seconds</string>
+    <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">Continue to delete the selected virtual podcast files from your storage?</string>
+    <string name="show_played_date">Show played date</string>
+    <string name="edit_radio_station">Edit radio station</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="edit_chapter">Edit chapter</string>
+    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">Can not edit this chapter. Only user added chapters are editable.</string>
+    <string name="import_downloads">Import downloads</string>
+    <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">Import downloads from selected directory. This operation will only import podcast files which are downloaded by this app before.</string>
+    <string name="available_free_space_s">Available free space: %s</string>
+    <string name="playback">Playback</string>
+    <string name="background_services">Background services</string>
+    <string name="general_notifications">General notifications</string>
+    <string name="return_to_car_mode_">Return to car mode.</string>
+    <string name="android_wear">Android wear</string>
+    <string name="notification_background_theme_s">Notification background theme: %s</string>
+    <string name="turn_on_alarms">Turn on alarms</string>
+    <string name="turn_off_alarms">Turn off alarms</string>
+    <string name="play_as_audio_only">Play as audio only</string>
+    <string name="remove_downloads_from_unsubscribed_podcast_s_">Remove downloads from unsubscribed podcast: [%1$s]?</string>
+    <string name="report_bug_privacy_message"><![CDATA[By clicking <em>Report a bug</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="sign_up_privacy_and_terms_message"><![CDATA[By clicking <em>Create account</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="sign_in_privacy_and_terms_message"><![CDATA[By clicking <em>Sign in</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="automatically_turn_on_sleep_timer_when_playback_starts">Automatically turn on sleep timer when playback starts.</string>
+    <string name="syncing_data_only_when_connected_to_wifi_network">Syncing data only when connected to WiFi network</string>
+    <string name="syncing_via_wifi_only">Syncing via WiFi only</string>
+    <string name="total_downloaded_file_size_s">Total downloaded file size: %s</string>
+    <string name="featured">Featured</string>
+    <string name="polular">Popular</string>
+    <string name="select_episodes_from_today">Select episodes from today</string>
+    <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"We\'ve detected a crash in the app before. Would you like to send the crash report so we can fix the problem?"</string>
+    <string name="generating_bug_report_">Generating bug report…</string>
+    <string name="apply_to_all_radio_stations">Apply to all radio stations</string>
+    <string name="apply_to_current_radio_station">Apply to current radio station</string>
+    <string name="skip_silence">Skip silence</string>
+    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Auto download up to %d newer and unplayed episodes from current playing podcast</string>
+    <string name="smart_download">Smart download</string>
+    <string name="download_anyway">Download anyway</string>
+    <string name="download_anyway_message">Ignore the WiFi and battery settings, just download the episode with current network connection now! This may use your mobile data and battery. Continue?</string>
+    <string name="play_all_from_old_to_new">Play all from old to new</string>
+    <string name="delete_all_immediately">Delete all immediately</string>
+    <string name="deleted_downloads_will_be_removed_after_24_hours_">Deleted downloads will be removed after 24 hours.</string>
+    <string name="delete_immediately">Delete immediately</string>
+    <string name="delayed_deletion">Delayed deletion</string>
+    <string name="keep_the_downloaded_podcast_file_for_24_hours_after_being_deleted_">Keep the downloaded podcast file for 24 hours after being deleted.</string>
+    <string name="download_progress">Download progress</string>
+    <string name="be_the_first_to_write_a_review_">Be the first to write a review!</string>
+    <string name="write_a_review">Write a review</string>
+    <string name="my_review">My review</string>
+    <string name="your_name">Your name</string>
+    <string name="your_review">Your review</string>
+    <string name="a_podcast_republic_user">A Podcast Republic user</string>
+    <string name="report_spam_review">Report spam review</string>
+    <string name="report_inappropriate_review">Report inappropriate review</string>
+    <string name="reviews">Reviews</string>
+    <string name="submit">Submit</string>
+    <string name="deleted">Deleted</string>
+    <string name="file_size">File size</string>
+    <string name="play_next">Play next</string>
+    <string name="are_you_sure_to_clear_the_play_queue_">Are you sure to clear the play queue?</string>
+    <string name="clear">Clear</string>
+    <string name="remaining_time">Remaining time</string>
+    <string name="elapsed_time">Elapsed time</string>
+    <string name="paused_network_is_metered">Paused: network is metered</string>
+    <string name="download_date">Download date</string>
+    <string name="create_an_episode_filter">Create an episode filter</string>
+    <string name="play_time">Play time</string>
+    <string name="recently_played">Recently played</string>
+    <string name="play_all_newer_episodes">Play all newer episodes</string>
+    <string name="see_what_s_new_in_this_version_s">See what\'s new in this version: %s</string>
+    <string name="enabled_buttons_">Enabled buttons:</string>
+    <string name="bottom_navigation_bar">Bottom navigation bar</string>
+    <string name="play_bar">Play bar</string>
+    <string name="show_play_bar_when_app_starts">Show play bar when app starts</string>
+    <string name="can_not_edit_default_episode_filter_">Can not edit default episode filter!</string>
+    <string name="playlist_name">Playlist name</string>
+    <string name="priority">Priority</string>
+    <string name="higher_priority_playlist_will_be_played_first_">Higher priority playlist will be played first.</string>
+    <string name="view_podcast">View</string>
+    <string name="priority_d">Priority: %d</string>
+    <string name="stream_all">Stream all</string>
+    <string name="view_all_your_playlists">View all your playlists</string>
+    <string name="click_on_the_tab_again_to_view_all_your_playlists">Click on the tab again to view all your playlists</string>
+    <string name="edit_playlist">Edit playlist</string>
+    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">Click on the tab again to view all your podcast tags</string>
+    <string name="changing_the_play_mode_to_repeat_a_playlist_">Changing the play mode to repeat a playlist:</string>
+    <string name="_removing_from_playlist_on_played_will_be_disabled">- Removing from playlist on played will be disabled</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Removing downloaded podcast file on played will be disabled</string>
+    <string name="view_all_your_episode_filters">View all your episode filters</string>
+    <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Click on the tab again to view all your episode filters</string>
+    <string name="stop_playing_when_time_is_up">Stop playing when time is up</string>
+    <string name="sleep_timer_fired_stop_playing_">Sleep timer fired, stop playing!</string>
+    <string name="yes_sure">Yes, sure</string>
+    <string name="play_all_from_new_to_old">Play all from new to old</string>
+    <string name="smart_update">Smart update</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Check for new episodes after completing the newest episode in the podcast</string>
+    <string name="click_on_the_tab_again_to_view_download_actions">Click on the tab again to view download actions</string>
+    <string name="remember_volume_level">Remember volume level</string>
+    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Remember last played volume level and restore to it on playback starts</string>
+    <string name="metered_network">Metered network</string>
+    <string name="allow_to_download_over_metered_network">Allow to download over metered network</string>
+    <string name="respond_to_media_button">Respond to media button</string>
+    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">Allow to start playing on Bluetooth play command received while app is closed.</string>
+    <string name="remind_me_1_minute_less">Remind me (1 minute less)</string>
+    <string name="unread_count">Unread count</string>
+    <string name="newest_unread">Newest unread</string>
+    <string name="no_articles_selected_">No articles selected!</string>
+    <string name="_s_mark_all_articles_as_read_">[%1$s]: Mark all articles as read?</string>
+    <string name="mark_all_articles_as_read_">Mark all articles as read?</string>
+    <string name="mark_all_articles_published_earlier_than_this_article_s_as_read_">Mark all articles published earlier than this article [%1$s] as read?</string>
+    <string name="there_are_no_articles_">There are no articles.</string>
+    <string name="unreads_d">Unreads: %d</string>
+    <string name="total_articles_d">Total articles: %d</string>
+    <string name="rss_feed_url">RSS Feed URL</string>
+    <string name="check_rss_feed_update">Check RSS feed update</string>
+    <string name="_is_not_found_add_this_rss_feed_">[%1$s] is not found. Add this RSS feed by URL?</string>
+    <string name="add_a_rss_feed_by_url">Add a RSS feed by URL</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="new_articles_available">New RSS articles available</string>
+    <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">Wi-Fi is not available. Cancelling RSS feed update checking.</string>
+    <string name="add_rss_feeds">Add RSS feeds</string>
+    <string name="search_rss_feeds">Search RSS feeds</string>
+    <string name="reset_feed">Reset feed</string>
+    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">Reset feed will discard cached data and rebuild from the RSS feed!</string>
+    <string name="mark_all_previous_articles_as_read">Mark all previous articles as read</string>
+    <string name="unread">Unread</string>
+    <string name="rss_feeds">RSS feeds</string>
+    <string name="review_submitted_">Review submitted.</string>
+    <string name="add_radio_stations">Add radio stations</string>
+    <string name="radio_station">Radio station</string>
+    <string name="view_your_podcast_subscriptions">View your podcast subscriptions</string>
+    <string name="view_your_radio_subscriptions">View your radio subscriptions</string>
+    <string name="view_your_rss_feed_subscriptions">View your RSS feed subscriptions</string>
+    <string name="there_are_no_unplayed_episodes_">There are no unplayed episodes!</string>
+    <string name="there_are_no_played_episodes_">There are no played episodes!</string>
+    <string name="there_are_no_favorite_episodes_">There are no favorite episodes!</string>
+    <string name="there_are_no_downloaded_episodes_">There are no downloaded episodes!</string>
+    <string name="start_playing_and_go_to_now_playing">Start playing and go to Now Playing</string>
+    <string name="show_unplayed_recent_counters">Show unplayed/recent counters</string>
+    <string name="hide_unplayed_recent_counters">Hide unplayed/recent counters</string>
+    <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">No radio stations found. Press the Add (+) button to add a radio station.</string>
+    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">No RSS feeds found. Press the Add (+) button to add a feed.</string>
+    <string name="tag_radios">Tag radios</string>
+    <string name="episode">Episode</string>
+    <string name="edit_mode">Edit mode</string>
+    <string name="no_radio_stations_selected_">No radio stations selected!</string>
+    <string name="no_rss_feeds_selected_">No RSS feeds selected!</string>
+    <string name="hide_empty_feeds">Hide empty feeds</string>
+    <string name="tag_feeds">Tag feeds</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="mark_as_unread">Mark as unread</string>
+    <string name="article_url">Article URL</string>
+    <string name="summary">Summary</string>
+    <string name="download_state_paused_battery_low">Paused: battery low</string>
+    <string name="select_episodes_with_duration_greater_than_d_minutes">Select episodes with duration greater than %d minutes</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes">Select episodes with duration less than %d minutes</string>
+    <string name="short_time_unit_format_minute">Min</string>
+    <string name="hold_down_to_start_dragging">Hold down to start dragging</string>
+    <string name="swipe_right_action">Swipe right action</string>
+    <string name="stream_podcasts_via_wifi_only">Stream podcasts via Wi-Fi only</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Allow to stream podcasts only when Wi-Fi is connected</string>
+    <string name="stream_radios_via_wifi_only">Stream radios via Wi-Fi only</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Allow to stream radios only when Wi-Fi is connected</string>
+    <string name="history_and_stats">History &amp; Stats</string>
+    <string name="delete_downloads">Delete downloads</string>
+    <string name="keep_download">Keep download</string>
+    <string name="delete_episodes">Delete episodes</string>
+    <string name="priority_mode">Priority mode</string>
+    <string name="stats">Stats</string>
+    <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
+    <string name="since_s">Since: %s</string>
+    <string name="reset_stats">Reset stats</string>
+    <string name="display_latest_d_episodes">Display latest %d episodes</string>
+    <string name="find_rss_feed">Find RSS feed</string>
+    <string name="there_are_no_rss_feeds">There are no RSS feeds!</string>
+    <string name="got_it">Got it</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up Next list. As a result the Up Next will not be synced with the currently playing episode list or playlist.</string>
+    <string name="don_t_show_it_again">Don\'t show it again</string>
+    <string name="always_on">Always on</string>
+    <string name="always_on_amoled_black">Always on (AMOLED black)</string>
+    <string name="auto_switch">Auto switch</string>
+    <string name="auto_switch_amoled_black">Auto switch (AMOLED black)</string>
+    <string name="smart_rewind_on_resuming">Smart rewind on resuming</string>
+    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Automatically rewind %1$d to %2$d seconds when resuming the playback</string>
+    <string name="minimum_rewind_time_d_seconds">Minimum rewind time: %d seconds.</string>
+    <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
+    <string name="show_radio_station_title">Show station title</string>
+    <string name="hide_radio_station_title">Hide station title</string>
+    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
+    <string name="not_in_downloads_list">Not in Downloads list</string>
+    <string name="reversed_landscape">Reversed landscape</string>
+    <string name="reset_sleep_timer">Reset sleep timer</string>
+    <string name="toggle_playback_speed_on_off">Toggle playback speed on/off</string>
+    <string name="there_are_no_episodes_with_notes_">There are no episodes with notes!</string>
+    <string name="there_are_no_deleted_episodes_">There are no deleted episodes!</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="remove_favorite_mark">Remove favorite mark</string>
+    <string name="persistent_play_bar">Persistent play bar</string>
+    <string name="keep_play_bar_displayed_after_playback_finishes">Keep play bar displayed after playback finishes</string>
+    <string name="rotate_by_podcasts">Rotate by podcasts</string>
+    <string name="search_in_all_podcasts">Search in all podcasts</string>
+    <string name="search_in_subscribed_podcasts">Search in subscribed podcasts</string>
+    <string name="search_by_podcast_title">Search by podcast title</string>
+    <string name="search_by_podcast_publisher">Search by podcast publisher</string>
+    <string name="all_podcasts">All podcasts</string>
+    <string name="my_podcasts">My podcasts</string>
+    <string name="fade_audio_out_2_minutes_less">Fade audio out (2 minutes less)</string>
+    <string name="keep_all_articles">Keep all articles</string>
+    <string name="keep_articles">Keep articles</string>
+    <string name="keep_articles_from_last_d_days">Keep articles from last %d days</string>
+    <string name="pref_download_location_select_prompt_message">You will be redirected to Android file manager. Please select a directory on internal storage or SD card to be used as the download location.</string>
+    <string name="review_wifi_only_prompt_message">Do you know this app uses WiFi only by default? You can turn off WiFi only if you have fast data connection. Do you want to review the WiFi only settings now?</string>
+    <string name="delete_virtual_podcast_file_from_storage_after_being_played">Delete virtual podcast file from storage after being played</string>
+    <string name="play_all">Play all</string>
+    <string name="remove_played_episode">Remove played episode</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">Remove the episode from playlist after being played</string>
+    <string name="apply_this_change_to_all_playlist_">Apply this change to all playlists?</string>
+    <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
+    <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
+    <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
+    <string name="_d_minutes">%d Minutes</string>
+    <string name="time_unit_minutes">Minutes</string>
+    <string name="greater_than">Greater than</string>
+    <string name="less_than">Less than</string>
+    <string name="has_duration">Has duration</string>
+    <string name="filter_episode_title">Filter episode title</string>
+    <string name="filter_episode_duration">Filter episode duration</string>
+    <string name="clear_the_recents_list_">Clear the Recents list?</string>
+    <string name="clear_the_list">Clear the list</string>
+    <string name="play_as_video">Play as video</string>
+    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Auto download up to %d older and unplayed episodes from current playing podcast</string>
+    <string name="select_all_below">Select all below</string>
+    <string name="select_all_above">Select all above</string>
+    <string name="ignore_articles_in_title">Ignore articles in title</string>
+    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignore articles (A, An, or The) in podcast title when sorting by title</string>
+    <string name="create_shortcut">Create shortcut</string>
+    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Allow to use mobile data and ignore battery restrictions when downloading episodes.</string>
+    <string name="show_play_next_episode_station_button">Show Play next episode/station button</string>
+    <string name="append_to_up_next">Append to Up next</string>
+    <string name="only_include_episodes_with_user_notes">Only include episodes with user notes</string>
+    <string name="description_preview">Description preview</string>
+    <string name="d_lines_of_text">%d lines</string>
+    <string name="mark_current_playback_position">Mark current playback position</string>
+    <string name="comma">", "</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Pick an image as the shortcut icon</string>
+    <string name="use_default_icon">Use default icon</string>
+    <string name="syncing_articles_">Syncing articles…</string>
+    <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
+    <string name="download_priority">Download priority</string>
+    <string name="pin_to_top">Pin to top</string>
+    <string name="unpin_from_top">Unpin from top</string>
+    <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
+    <string name="add_tags_to_podcasts">Add tags to podcast</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
+    <string name="podcast_artwork">Podcast artwork</string>
+    <string name="rss_feed_artwork">RSS feed artwork</string>
+    <string name="add_tags_to_rss_feed">Add tags to RSS feed</string>
+    <string name="_1s_2s_n">%1$s: %2$s\n</string>
+    <string name="_1s_2d_kbs_n">%1$s: %2$dKB/s\n</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="author">Author</string>
+    <string name="composer">Composer</string>
+    <string name="album_artist">Album artist</string>
+    <string name="year">Year</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="number_of_tracks">Number of tracks</string>
+    <string name="preview_notes">Preview notes</string>
+    <string name="preview_user_notes_in_list">Preview user notes in list</string>
+    <string name="extract_from_metadata">Extract from metadata</string>
+    <string name="use_filename">Use filename</string>
+    <string name="delete_played_episode">Delete played episode</string>
+    <string name="copy_files_to_download_directory">Copy files to download directory</string>
+    <string name="move_files_to_download_directory">Move files to download directory</string>
+    <string name="greater_than_d_minutes">&gt; %1$d minutes</string>
+    <string name="less__than_d_minutes">&lt; %1$d minutes</string>
+    <string name="jump_to_next_chapter">Jump to next chapter</string>
+    <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
+    <string name="true_crime">True crime</string>
+    <string name="leisure">Leisure</string>
+    <string name="fiction">Fiction</string>
+    <string name="genre_type_hisotry">History</string>
+    <string name="animations">Animations</string>
+    <string name="list_animation">List animation</string>
+    <string name="animate_items_when_loading_into_list">Animate items when loading into list</string>
+    <string name="failed_to_update_podcast_s">Failed to update podcast: %s</string>
+    <string name="reset_password">Reset password</string>
+    <string name="account_already_exists_please_login_with_the_email_and_password_">Account already exists, please login with the email and password.</string>
+    <string name="sleep_timer_is_on_">Sleep timer is on!</string>
+    <string name="advanced_options">Advanced</string>
+    <string name="auto_start_sleep_timer">Auto start</string>
+    <string name="auto_pause_sleep_timer">Auto pause</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
+    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+</resources>

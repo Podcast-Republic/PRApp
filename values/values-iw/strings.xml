@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_list">
+        <item> אלבניה </item>
+        <item> "אלג'יריה" </item>
+        <item> אנגולה </item>
+        <item> אנגווילה </item>
+        <item> ארגנטינה </item>
+        <item> ארמניה </item>
+        <item> אוסטרליה </item>
+        <item> אוסטריה </item>
+        <item> "אזרבייג'ן" </item>
+        <item> איי בהאמה </item>
+        <item> בחריין </item>
+        <item> בלגיה </item>
+        <item> בוליביה </item>
+        <item> ברזיל </item>
+        <item> קמבודיה </item>
+        <item> קנדה </item>
+        <item> "צ'ילה" </item>
+        <item> "סין" </item>
+        <item> קולומביה </item>
+        <item> קוסטה ריקה </item>
+        <item> קרואטיה </item>
+        <item> קפריסין </item>
+        <item> "צ'כיה" </item>
+        <item> דנמרק </item>
+        <item> אקוודור </item>
+        <item> מצרים </item>
+        <item> פינלנד </item>
+        <item> צרפת </item>
+        <item> גרמניה </item>
+        <item> יוון </item>
+        <item> הונג קונג </item>
+        <item> הונגריה </item>
+        <item> איסלנד </item>
+        <item> הודו </item>
+        <item> אינדונזיה </item>
+        <item> אירלנד </item>
+        <item> ישראל </item>
+        <item> איטליה </item>
+        <item> "ג'מייקה" </item>
+        <item> יפן </item>
+        <item> ירדן </item>
+        <item> קזחסטן </item>
+        <item> קניה </item>
+        <item> קוריאה </item>
+        <item> כווית </item>
+        <item> קירגיזסטן </item>
+        <item> לטביה </item>
+        <item> ליטא </item>
+        <item> לוקסמבורג </item>
+        <item> מקאו </item>
+        <item> מלזיה </item>
+        <item> מקסיקו </item>
+        <item> מונגוליה </item>
+        <item> הולנד </item>
+        <item> ניו זילנד </item>
+        <item> נורבגיה </item>
+        <item> פקיסטן </item>
+        <item> פרו </item>
+        <item> פיליפינים </item>
+        <item> פולין </item>
+        <item> פורטוגל </item>
+        <item> קטאר </item>
+        <item> רומניה </item>
+        <item> רוסיה </item>
+        <item> ערב הסעודית </item>
+        <item> סרביה </item>
+        <item> סינגפור </item>
+        <item> סלובקיה </item>
+        <item> סלובניה </item>
+        <item> דרום אפריקה </item>
+        <item> ספרד </item>
+        <item> סרי לנקה </item>
+        <item> שוודיה </item>
+        <item> שוויץ </item>
+        <item> טייוואן </item>
+        <item> "טג'יקיסטן" </item>
+        <item> תאילנד </item>
+        <item> טוניסיה </item>
+        <item> טורקיה </item>
+        <item> אוקראינה </item>
+        <item> איחוד אמירויות ערבים </item>
+        <item> בריטניה </item>
+        <item> ארצות הברית </item>
+        <item> ונצואלה </item>
+        <item> וייטנאם </item>
+    </string-array>
+
+    <string name="app_name">"פודקאסט Republic"</string>
+    <string name="pref_auto_delete_played_summary">"מחק אוטומטית פריטים שנוגנו מרשימת ההורדות"</string>
+    <string name="pref_downloadLocation">"הורד פודקאסט אל:"</string>
+    <string name="downloads">"הורדות"</string>
+    <string name="jump_to_next_episode">"זכור מיקום השמעה נוכחית"</string>
+    <string name="jump_to_the_end">"סמן כמושלם"</string>
+    <string name="delete_download">"מחק הורדה"</string>
+    <string name="pause_download">"השהה הורדה"</string>
+    <string name="resume_download">"המשך הורדה"</string>
+    <string name="delete">"מחק"</string>
+    <string name="now_playing">"מנגן כעת"</string>
+    <string name="stop">"הפסק"</string>
+    <string name="pause">"השהה"</string>
+    <string name="favorite">"מועדף"</string>
+    <string name="favorites">"מועדפים"</string>
+    <string name="whats_new">"מה חדש"</string>
+    <string name="more">"עוד"</string>
+    <string name="unplayed">"טרם הושמע"</string>
+    <string name="played">"נוגן"</string>
+    <string name="country_text">"מדינה / אזור"</string>
+    <string name="organize_podcasts">"ארגן פודקאסטים"</string>
+    <string name="add_podcasts">"הוסף פודקאסט"</string>
+    <string name="add_a_podcast_by_url">"הוסף פודקאסט על ידי URL"</string>
+    <string name="all">"הכל"</string>
+    <string name="arts">"אומנות"</string>
+    <string name="business">"עסק"</string>
+    <string name="comedy">"קוֹמֶדִיָה"</string>
+    <string name="education">"השכלה"</string>
+    <string name="games">"משחקים ותחביבים"</string>
+    <string name="government">"ממשלה וארגונים"</string>
+    <string name="health_fitness">"בריאות"</string>
+    <string name="kids">"ילדים ומשפחה"</string>
+    <string name="music">"מוסיקה"</string>
+    <string name="news">"חדשות ופוליטיקה"</string>
+    <string name="region">"דת ורוחניות"</string>
+    <string name="science">"מדע ורפואה"</string>
+    <string name="society">"חברה ותרבות"</string>
+    <string name="sports">"ספורט ונופש"</string>
+    <string name="tech">"טֶכנוֹלוֹגִיָה"</string>
+    <string name="tv">"טלוויזיה וקולנוע"</string>
+    <string name="title">"כותרת"</string>
+    <string name="provider">"ספק:"</string>
+    <string name="image_url">"כתובת אתר של תמונה:"</string>
+    <string name="items_in_red_are_required_">"פריטים המודגשים באדום נדרשים."</string>
+    <string name="cancel">"בטל"</string>
+    <string name="add">"הוסף"</string>
+    <string name="publisher">"מוציא לאור"</string>
+    <string name="description_of_podcast">"תיאור הפודקאסט"</string>
+    <string name="description">"תיאור"</string>
+    <string name="play">"לשחק"</string>
+    <string name="share">"שתף"</string>
+    <string name="add_to_playlist">"הוסף לרשימת ההשמעה"</string>
+    <string name="end_editing_mode">"סיים מצב עריכה"</string>
+    <string name="download_selection_s_">"הורד את הנבחרים"</string>
+    <string name="add_selection_s_to_playlist">"הוסף את הנבחרים לרשימת השמעה"</string>
+    <string name="set">"קבע"</string>
+    <string name="remove_selection_s_from_download_list">"הסר נבחרים מרשימת ההורדה"</string>
+    <string name="no_episode_selected">"לא נבחר פרק"</string>
+    <string name="set_played">"הגדר כהושמע"</string>
+    <string name="set_unplayed">"הגדר כלא הושמע"</string>
+    <string name="delete_episode">"מחק פרק"</string>
+    <string name="One_episode_has_been_added_to_playlist">"פרק אחד נוסף לרשימת ההשמעה"</string>
+    <string name="episodes_have_been_added_to_playlist">"%1$d פרקים נוספו לרשימת ההשמעה"</string>
+    <string name="One_episode_has_been_added_to_downloads">"פרק אחד נוסף להורדות"</string>
+    <string name="episodes_have_been_added_to_downloads">"%1$d פרקים נוספו להורדות"</string>
+    <string name="download_episode_not_found">"פרק שהורד לא נמצא"</string>
+    <string name="yes">"כן"</string>
+    <string name="ok">"בסדר"</string>
+    <string name="no">"לא"</string>
+    <string name="close">"סגור"</string>
+    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"פרק שהורד [ %1$s ] לא נמצא. מה ברצונך לעשות?"</string>
+    <string name="episode_downloading">"מוריד"</string>
+    <string name="subscribe">"הירשם"</string>
+    <string name="unsubscribe">"בטל הרשמה"</string>
+    <string name="settings">"הגדרות"</string>
+    <string name="remove_ad">"הסר פרסומות"</string>
+    <string name="playlists">"רשימות השמעה"</string>
+    <string name="there_is_no_podcast_playing">"אין פודקאסט מושמע"</string>
+    <string name="press_again_to_exit">"לחץ שוב ליציאה."</string>
+    <string name="paused">"השהייה"</string>
+    <string name="stopped_on_error">"נעצר בשגיאה"</string>
+    <string name="error_downloaded_file_not_found">"שגיאה: הקובץ שהורד לא נמצא"</string>
+    <string name="stopped">"עצר"</string>
+    <string name="completed">"הושלם"</string>
+    <string name="export_completed_s">": %1$sייצוא הושלם"</string>
+    <string name="import_completed">"יבוא הסתיים"</string>
+    <string name="no_wifi_available">"אין רשת אלחוטית זמינה!"</string>
+    <string name="tag">"תגית"</string>
+    <string name="updating">"מעדכן…"</string>
+    <string name="preparing">"מכין .."</string>
+    <string name="error_no_wifi">"שגיאה: אין רשת אלחוטית"</string>
+    <string name="auto_download">"הורדה אוטומטית"</string>
+    <string name="playing">"מנגן כעת"</string>
+    <string name="subscriptions">"פודקאסטים"</string>
+    <string name="help_faqs">"עזרה/שאלות נפוצות"</string>
+    <string name="next">"הבא"</string>
+    <string name="file_date">"מיין לפי תאריך"</string>
+    <string name="publishing_date">"מיין לפי תאריך פרסום"</string>
+    <string name="sort_manually">"מיין באופן ידני"</string>
+    <string name="Update_podcasts">"עדכן פודקאסטים "</string>
+    <string name="sort_by">"מיין לפי…"</string>
+    <string name="last_updated_time">"מיין לפי זמן העדכון האחרון"</string>
+    <string name="most_recent_count">"מיין לפי כמות אחרונה"</string>
+    <string name="total_unplayed_count">"מיין לפי פריטים שטרם הושמעו"</string>
+    <string name="refresh">"רענן"</string>
+    <string name="stream">"נגן"</string>
+    <string name="remove">"הסרה"</string>
+    <string name="redownload">"הורדה מחדש"</string>
+    <string name="download_all">"הורד הכל"</string>
+    <string name="download_all_d_episodes">"הורד את כל %1$d הפרקים?"</string>
+    <string name="display">"תצוגה"</string>
+    <string name="when_i_press_next_button">"בעת לחיצה על דלג"</string>
+    <string name="background_play">"הפעלה ברקע"</string>
+    <string name="user_interface">"ממשק משתמש"</string>
+    <string name="show_description">"תיאור ההצגה"</string>
+    <string name="update_on_start">"עדכן בהפעלה"</string>
+    <string name="media_player">"נגן המדיה"</string>
+    <string name="download_location">"מיקום הורדה"</string>
+    <string name="change_log">"רשימת שינויים"</string>
+    <string name="view_what_s_new_in_this_version">"הצג מה חדש בגירסה זו"</string>
+    <string name="version">"גרסה"</string>
+    <string name="about">"אודות"</string>
+    <string name="action_">"פעולה: "</string>
+    <string name="action">"פעולה"</string>
+    <string name="download_only_when_connected_to_wifi">"הורד רק בחיבור לרשת אלחוטית"</string>
+    <string name="add_to_new_tag">"הוסף לתג חדש"</string>
+    <string name="enter_new_tag_name">"הזן שם תג חדש"</string>
+    <string name="car_mode">"מצב נהיגה"</string>
+    <string name="update_artwork">"עדכן נתונים גרפיים"</string>
+    <string name="enter_new_artwork_url">"הזן כתובת URL לנתונים גרפיים חדשים"</string>
+    <string name="sleep_timer">"טיימר מצב שינה"</string>
+    <string name="last_updated_s">"עודכן לאחרונה %1$s"</string>
+    <string name="fast_forward">"הרץ קדימה"</string>
+    <string name="fast_rewind">"הרץ אחורה"</string>
+    <string name="play_pause">"נגן / השהה"</string>
+    <string name="none">"ללא"</string>
+    <string name="sort_asc">"מיין בסדר עולה"</string>
+    <string name="sort_desc">"מיין בסדר יורד"</string>
+    <string name="undo_delete">"בטל מחיקה"</string>
+    <string name="language">"שפה"</string>
+    <string name="equalizer">"אקולייזר"</string>
+    <string name="sort">"מיין"</string>
+    <string name="continue_">"המשך"</string>
+    <string name="delete_from_playlists">"מחק מרשימות ההשמעה"</string>
+    <string name="keep_in_playlists">"שמור ברשימות ההשמעה"</string>
+    <string name="remember_the_choice">"זכור את הבחירה"</string>
+    <string name="when_deleting_a_download">"כאשר הורדה נמחקת"</string>
+    <string name="all_episodes">"כל הפרקים"</string>
+    <string name="latest_d_episodes">"%d הפרקים האחרונים"</string>
+    <string name="system_default">"ברירת מחדל של המערכת"</string>
+    <string name="every_one_hour">"בכל שעה אחת"</string>
+    <string name="every_three_hours">"בכל שלוש שעות"</string>
+    <string name="every_six_hours">"בכל שש שעות"</string>
+    <string name="every_half_day">"בכל חצי יום"</string>
+    <string name="every_day">"בכל יום"</string>
+    <string name="every_three_days">"בכל שלושה ימים"</string>
+    <string name="manually">"באופן ידני"</string>
+    <string name="do_not_check">"אל תבדוק"</string>
+    <string name="newest_first">"החדש ביותר ראשון"</string>
+    <string name="oldest_first">"הישן ביותר ראשון"</string>
+    <string name="on">"מופעל"</string>
+    <string name="off">"כבוי"</string>
+    <string name="stop_sleep_timer">"כבוי"</string>
+
+    <string-array name="ui_theme_text">
+        <item>All White</item>
+        <item>לבן</item>
+        <item>"אדום"</item>
+        <item>"וָרוֹד"</item>
+        <item>"סָגוֹל"</item>
+        <item>"סגול עמוק"</item>
+        <item>"אִינדִיגוֹ"</item>
+        <item>"כחול"</item>
+        <item>"תכלת"</item>
+        <item>"טורקיז"</item>
+        <item>"ירוק כחלחל"</item>
+        <item>"ירוק"</item>
+        <item>"ירוק בהיר"</item>
+        <item>"ענבר."</item>
+        <item>"כתום"</item>
+        <item>"עמוק אורנג"</item>
+        <item>"כחול אפור"</item>
+        <item>"חשוך"</item>
+        <item>AMOLED Black</item>
+    </string-array>
+
+    <string name="theme">"ערכת נושא"</string>
+    <string name="skip_beginning">"דלג התחלה"</string>
+    <string name="time_display_second_short_format">"שניות"</string>
+    <string name="search_episode_title">"חפש כותרת פרק"</string>
+    <string name="search_episodes">"חפש פרקים"</string>
+    <string name="widgets">"ווידג'ט"</string>
+    <string name="background_transparency">"שקיפות רקע"</string>
+    <string name="low">"נמוך"</string>
+    <string name="high">"גבוה"</string>
+    <string name="gesture_sensitivity">"רגישות מחוות"</string>
+    <string name="view_library_as">"צפה כ…"</string>
+    <string name="list_view">"תצוגת רשימה"</string>
+    <string name="grid_view">"תצוגת רשת"</string>
+    <string name="playlist_mode">"מצב השמעה"</string>
+    <string name="single_play_mode">"מצב השמעת יחיד"</string>
+    <string name="has_been_added_to_subscription">" נוסף לרשימת הפודקאסטים"</string>
+    <string name="audio_not_started_yet">"השמעה טרם החלה!"</string>
+    <string name="manage_playlist">"נהל את רשימות ההשמעה"</string>
+    <string name="download">"הורדה"</string>
+    <string name="fast_forward_time">"זמן הרצה קדימה"</string>
+    <string name="fast_rewind_time">"זמן הרצה אחורה"</string>
+    <string name="play_stop">"הפעל / עצור"</string>
+    <string name="buttons">"כפתורים"</string>
+    <string name="when_lost_audio_focus">"כאשר שמע נקטע באופן זמני"</string>
+    <string name="lower_audio_volume">"עוצמת שמע נמוכה"</string>
+    <string name="pause_the_playback">"השהה את ההשמעה"</string>
+    <string name="rewind_5_seconds">"החזר 5 שניות"</string>
+    <string name="repeat">"חזור"</string>
+    <string name="keep_downloads">"שמור הורדות"</string>
+    <string name="when_deleting_from_playlist">"כאשר נמחק מרשימת ההשמעה"</string>
+    <string name="search">"חיפוש"</string>
+    <string name="edit">"ערוך"</string>
+    <string name="time_display_minute_short_format">"דקות"</string>
+    <string name="keep_screen_on">"השאר מסך דלוק"</string>
+    <string name="backup_restore">"שחזור וגיבוי"</string>
+    <string name="backup">"גיבוי"</string>
+    <string name="restore_settings_database">"לחץ לשחזור הגדרות ומסד נתונים"</string>
+    <string name="restore">"שחזר"</string>
+    <string name="erase_data_and_restore_from_backup_">"מחק את כל הנתונים ושחזר מגיבוי?"</string>
+    <string name="restore_successful">"השחזור הצליח"</string>
+    <string name="restore_failed">"השחזור נכשל"</string>
+    <string name="backup_successful_s">": %1$sהגיבוי הצליח"</string>
+    <string name="backup_failed_">"הגיבוי נכשל"</string>
+    <string name="when_headset_bluetooth_disconnected">"כאשר קיים זיהוי על ניתוק אוזניות / Bluetooth"</string>
+    <string name="volume">"עוצמת קול"</string>
+    <string name="add_a_virtual_podcast">"הוסף פודקאסט וירטואלי"</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"צור מאגר פודקאסט וירטואלי על ידי בחירת תיקייה במכשיר. כל קובץ מדיה בתיקייה הנבחרת ייובא כפרק. ניתן להוסיף או להסיר באופן ידני קבצי מדיה לתיקייה בשלב מאוחר יותר."</string>
+    <string name="location">"מיקום"</string>
+    <string name="select_a_directory">"בחר תיקייה במכשיר"</string>
+    <string name="data_wifi_usage">"שימוש בנתונים וברשת אלחוטית"</string>
+    <string name="download_via_wifi_only">"הורד באמצעות רשת אלחוטית בלבד"</string>
+    <string name="feed_updates_via_wifi_only">"עדכן פודקאסטים באמצעות רשת אלחוטית בלבד"</string>
+    <string name="update_podcasts_only_when_connected_to_wifi">"עדכון פודקאסטים רק בחיבור לרשת אלחוטית"</string>
+    <string name="mark_all_as_played">"סמן הכל כפריטים שהושמעו"</string>
+    <string name="playback_mode">"מצב השמעה"</string>
+    <string name="display_on_lock_screen">"הצג על מסך הנעילה"</string>
+    <string name="display_artwork_on_lock_screen_when_playing">"הצג גרפיקה על מסך הנעילה בעת ההשמעה"</string>
+    <string name="there_are_no_episodes_">"אין פרקים!"</string>
+    <string name="podcast_feed_url">"כתובת האתר (URL) של הפודקאסט"</string>
+    <string name="no_podcast_found_">"לא נמצא פודקאסט!"</string>
+    <string name="find_podcast">"מצא פודקאסט"</string>
+    <string name="authentication">"אימות"</string>
+    <string name="http">"HTTP"</string>
+    <string name="password">"סיסמה"</string>
+    <string name="username">"שם משתמש"</string>
+    <string name="new_episodes_available">"פרק חדש זמין"</string>
+    <string name="notifications">"התראה"</string>
+    <string name="podcast">"פודקאסט"</string>
+    <string name="send_email_">"שלח דוא\"ל"</string>
+    <string name="bass_boost">"הגברת בס"</string>
+    <string name="media_type">"סוג מדיה"</string>
+    <string name="auto_detect">"זיהוי אוטומטי"</string>
+    <string name="audio">"שמע"</string>
+    <string name="video">"וידאו"</string>
+    <string name="account_and_syncing">"סינכרון בין התקנים"</string>
+    <string name="shuffle">"ערבוב"</string>
+    <string name="update_on_charging">"עדכן בעת הטענה"</string>
+    <string name="update_podcasts_only_when_battery_is_charging">"עדכן פודקאסטים רק בזמן הטענת הסוללה "</string>
+    <string name="filename">"מיין לפי שם קובץ"</string>
+    <string name="auto_backup_saved_to_">"גיבוי אוטומטי נשמר ל[ %1$s ]"</string>
+    <string name="download_removed">"הסרת הורדה"</string>
+    <string name="load_artworks_only_when_connected_to_wifi">"טעינת הגרפיקה תתבצע רק בחיבור לרשת האלחוטית"</string>
+    <string name="load_artwork_via_wifi_only">"טעינת הגרפיקה תתבצע באמצעות רשת אלחוטית בלבד"</string>
+    <string name="when_pressing_episode_in_list">"בעת לחיצת פרק ברשימה"</string>
+    <string name="start_playing">"תמיד התחל לנגן"</string>
+    <string name="display_episode_artwork">"הצג גרפיקה המצורפת לפרק"</string>
+    <string name="ringtone">"צלצול"</string>
+    <string name="vibrate">"רטט"</string>
+    <string name="light">"תאורת לד"</string>
+    <string name="history">"היסטוריה"</string>
+    <string name="remove_all">"הסר הכל"</string>
+    <string name="auto_delete_played_episode_from_playlists">"מחק אוטומטית פריטים שנוגנו מרשימת ההשמעה"</string>
+    <string name="new_episode_notification">"הודעה על פרק חדש"</string>
+    <string name="download_on_charging">"הורדה בעת טעינת סוללה"</string>
+    <string name="start_downloading_only_when_battery_is_charging">"התחל הורדה רק בעת טעינת הסוללה"</string>
+    <string name="add_a_youtube_podcast">"הוסף פודקאסט YouTube"</string>
+    <string name="channels">"ערוצים"</string>
+    <string name="channel_id">"מזהה ערוץ (Channel ID)"</string>
+    <string name="playlist_id">"מזהה רשימת השמעה (Playlist ID)"</string>
+    <string name="when_deleting_an_episode">"בעת מחיקת פרק"</string>
+    <string name="also_remove_from_downloads_amp_playlists">"הסר גם מהורדות וגם מרשימות ההשמעה"</string>
+    <string name="remove_episode_only">"הסר פרק בלבד"</string>
+    <string name="mark_episode_as_played">"סמן פרק כנוגן"</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">"סמן פרק כנוגן אם יותר מ %1$d %% נוגנו"</string>
+    <string name="download_episode">"הורד פרק"</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">"התחל בהורדה כאשר פרק מתווסף לרשימת ההשמעה"</string>
+    <string name="podcast_keep_download_limit_reached_">"מגבלת הורדת פודקאסטים הגיעה."</string>
+    <string name="auto_download_filter">"מסנן הורדה אוטומטית"</string>
+    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"מסנן כותרות פרקים להורדה אוטומטית. דורש הפעלת אפשרות הורדה אוטומטית קודם לכן."</string>
+    <string name="keep_favorite_episodes">"שמור פרקים מועדפים"</string>
+    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"שמור הורדות של פרקים מועדפים ממחיקה אוטומטית"</string>
+    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"תת-ספרייה נמצאה. צור פודקאסט וירטואלי חדש עבור כל תת-ספריה?"</string>
+    <string name="import_sub_directory">"ייבא תת-ספריה"</string>
+    <string name="failed_downloads">"נכשל"</string>
+    <string name="subscribe_on_podcast_republic">"הצטרף לפודקאסט רפאבליק"</string>
+    <string name="dim_screen_but_keep_screen_responsive">"עמעם מסך אך אפשר תגובה"</string>
+    <string name="chapters">"פרקים"</string>
+    <string name="no_chapter_marks_found">"לא נמצאו פרקים מסומנים!"</string>
+    <string name="keep_latest_n_downloads">"שמור %1$d הורדות אחרונות"</string>
+    <string name="keep_all_downloads">"שמור את כל ההורדות"</string>
+    <string name="playback_controls">"כפתורי שמע"</string>
+    <string name="playback_controls_maximum_three_in_notification_">"כפתורי שמע (מקסימום שלושה) בהודעה: "</string>
+    <string name="hide_played_podcasts">"הסתר פודקאסט מושמע"</string>
+    <string name="pause_downloads">"השהה הורדות"</string>
+    <string name="has_keywords_in_title">"יש מילות מפתח בכותרת"</string>
+    <string name="previous">"הקודם"</string>
+    <string name="bluetooth_headset_key_mapping">"מיפוי מקשי בלוטוס' / אוזניות"</string>
+    <string name="button">"כפתור"</string>
+    <string name="and">"ו"</string>
+    <string name="screen_size">"גודל מסך"</string>
+    <string name="original_size">"גודל מקורי"</string>
+    <string name="auto_fit">"התאמה אוטומטית"</string>
+    <string name="stretch">"מתח"</string>
+    <string name="fit_width">"התאם רוחב"</string>
+    <string name="fit_height">"התאם גובה"</string>
+    <string name="search_podcasts">"חפש פודקאסטים "</string>
+    <string name="reset_episodes">"אפס פרקים"</string>
+    <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">"אזהרה: איפוס נתוני הפרק יסיר הורדות של פודקאסט זה!"</string>
+    <string name="copy_url">"העתק URL"</string>
+    <string name="view_episode">"צפה בפרק"</string>
+    <string name="episode_url_has_been_copied_to_clipboard">"כתובת אתר (URL) הפרק הועתק ללוח"</string>
+    <string name="dim_screen">" את המסך"</string>
+    <string name="keep_screen_always_on">"שמור מסך דלוק תמיד"</string>
+    <string name="completed_downloads">"הושלם"</string>
+    <string name="top_charts">"מומלצים"</string>
+    <string name="browse_top_charts">"עיין במומלצים"</string>
+    <string name="in_minutes">"בעוד %1$d דקות"</string>
+    <string name="when_current_episode_ends">"בסיום הפרק הנוכחי"</string>
+    <string name="add_chapter">"הוסף סימניית פרק"</string>
+    <string name="time">"זמן"</string>
+    <string name="filter_name">"שם מסנן"</string>
+    <string name="podcasts">"פודקאסטים"</string>
+    <string name="playing_state">" סטטוס השמעה"</string>
+    <string name="only_include_favorited_episodes">"כלול פרקים מועדפים בלבד"</string>
+    <string name="download_status">"סטטוס ההורדה"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"המשך בניגון הפרק הבא כאשר מתרחשת שגיאה בהשמעה"</string>
+    <string name="continue_on_error">"המשך בעת שגיאה"</string>
+    <string name="downloading">"מוריד"</string>
+    <string name="failed">"נִכשָׁל"</string>
+    <string name="select_all">"בחר הכל"</string>
+    <string name="export_download">"ייצא פרק"</string>
+    <string name="export_downloads">"ייצא פרק"</string>
+    <string name="edit_episode_filter">"ערוך מסנן"</string>
+    <string name="done">"בוצע"</string>
+    <string name="move_selections_to_top">"העבר נבחרים להתחלה"</string>
+    <string name="move_selections_to_bottom">"העבר נבחרים לסוף"</string>
+    <string name="downloaded">"הורדו"</string>
+    <string name="dont_download_episode">"אל תוריד פרק"</string>
+    <string name="match_all_keywords">"התאם את כל מילות המפתח"</string>
+    <string name="match_any_of_the_keywords">"התאם כל אחת ממילות המפתח"</string>
+    <string name="download_episode_if_matching_all_keywords_">"הורד פרק אם הותאמו כל מילות המפתח: "</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_">"הורד פרק אם הותאמו כל אחת ממילות המפתח: "</string>
+    <string name="dont_download_episode_if_matching_all_keywords_">"אל תוריד פרק אם הותאמו כל מילות המפתח: "</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_">"אל תוריד פרק אם הותאמו כל אחת ממילות המפתח: "</string>
+    <string name="keywords">"מילות מפתח"</string>
+    <string name="enter_keywords">"הזן מילות מפתח"</string>
+    <string name="restoring_">"משחזר"</string>
+    <string name="creating_backup_">"יוצר גיבוי…"</string>
+    <string name="resume_downloads">"המשך הורדות"</string>
+    <string name="delete_episode_and_download_">"למחוק פרק ולהוריד?"</string>
+    <string name="clear_playlist">"נקה רשימת השמעה"</string>
+    <string name="clear_current_playlist_">"נקה רשימת השמעה נוכחית?"</string>
+    <string name="enter_playlist_name">"הזן את שם רשימת ההשמעה"</string>
+    <string name="podcast_exported_to_">"פודקסאט מיוצא ל: [ %1$s ]"</string>
+    <string name="search_not_found">"חיפוש לא נמצא"</string>
+    <string name="_is_not_found_add_this_podcast_">"[%1$s] לא נמצא. להוסיף פודקאסט זה באמצעות כתובת האתר (URL)?"</string>
+    <string name="episode_publishing_date">"תאריך פרסום הפרק"</string>
+    <string name="episode_guid">"GUID של הפרק"</string>
+    <string name="episode_unique_criteria">"קריטריונים ייחודיים לפרק"</string>
+    <string name="episode_url">"כתובת אתר (URL) של הפרק"</string>
+    <string name="episode_title">"שם הפרק"</string>
+    <string name="export_history">"היסטורית יצוא"</string>
+    <string name="notes">"הערות"</string>
+    <string name="playback_history">"היסטורית השמעה"</string>
+    <string name="edit_notes">"ערוך הערות"</string>
+    <string name="generated_by_s_app">"שנוצר על ידי %1$s אפליקציה"</string>
+    <string name="auto_backup">"גיבוי אוטומטי"</string>
+    <string name="double_tap_to_play_or_pause">"הקש פעמיים בכדי להפעיל או להשהות"</string>
+    <string name="swipe_up_to_play_next_in_playlist">"החלק מעלה בכדי לנגן את הבא ברשימת ההשמעה"</string>
+    <string name="swipe_to_left_to_fast_rewind">"החלק שמאלה בכדי להריץ לאחור"</string>
+    <string name="swipe_to_right_to_fast_forward">"החלק ימינה בכדי להריץ קדימה"</string>
+    <string name="swipe_down_to_stop">"החלק מטה בכדי לעצור"</string>
+    <string name="remove_subscription_to_">"הסר הרשמה ל: [ %1$s ]"</string>
+    <string name="data_roaming">"נדידת נתונים"</string>
+    <string name="allow_to_download_with_data_services_when_roaming">"אפשר להוריד עם שירותי נתונים בעת נדידה"</string>
+    <string name="up_next">"הבא"</string>
+    <string name="episode_info">"פרטי פרק"</string>
+    <string name="no_more_episodes_to_play_from_playlist_s_">"הסתיימו הפרקים להפעלה ברשימת השמעה [ %1$s ]"</string>
+    <string name="apply_this_change_to_all_podcasts_">"החל שינוי זה לכל הפודקאסטים?"</string>
+    <string name="grid_size">"גודל רשת"</string>
+    <string name="play_pause_double_click">"נגן / השהה,  לחץ לחיצה כפולה"</string>
+    <string name="total_episodes">"סה\"כ פרקים"</string>
+    <string name="duration">"מיין לפי משך"</string>
+    <string name="browse_downloads">"חפש הורדות"</string>
+    <string name="browse_by_playlist">"חפש לפי רשמת ההשמעה"</string>
+    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"איפוס הפרקים יבטל פרקים הנמצאים במטמון ויעדכן אותם לפי פיד הפודקסאט."</string>
+    <string name="right_hand_operation">"תפעול ביד ימין"</string>
+    <string name="open_menu_drawer_on_the_right_side">"פתח תפריט בצד ימין"</string>
+    <string name="go_to_podcast">"הצג פודקאסט נוכחי"</string>
+    <string name="there_are_no_podcasts_">"אין פודקאסטים!"</string>
+    <string name="no_podcasts_selected">"לא נבחר פודקאסט"</string>
+    <string name="enjoy_podcast_republic">"האם אתה נהנה מפודקסאט רפאבליק?"</string>
+    <string name="please_tell_us_how_we_re_doing">"ספר לנו בבקשה האם אנחנו מבצעים עבודה טובה"</string>
+    <string name="rate_us_in_the_play_store">"דרג אותנו ב- Play Store"</string>
+    <string name="no_thanks">"לא, תודה"</string>
+    <string name="select_an_image_on_device">"בחר תמונה במכשיר"</string>
+    <string name="youtube_type">"סוג YouTube"</string>
+    <string name="scanning_">"סורק…"</string>
+    <string name="playback_speed">"מהירות ההשמעה"</string>
+    <string name="keep_playing">"המשך לנגן כרגיל"</string>
+    <string name="play_from_position">"נגן ממיקום אחרון"</string>
+    <string name="report_a_bug">"דווח על באג"</string>
+    <string name="import_export_opml">"OPML יבוא / יצוא"</string>
+    <string name="import_from_opml_file">"ייבא OPML "</string>
+    <string name="export_to_opml_file">"ייצא OPML "</string>
+    <string name="episodes">"פרקים"</string>
+    <string name="episode_s_is_still_downloading_can_not_play_it">"פרק [ %1$s ] עדיין יורד. לא ניתן לנגן כעת."</string>
+    <string name="error_episode_still_downloading">"שגיאה: פרק עדיין יורד"</string>
+    <string name="disabled">"לא פעיל"</string>
+    <string name="click_to_open_full_screen_player_view">"גרור אותי למעלה בכדי לפתוח נגן במסך מלא!"</string>
+    <string name="keep_latest_x_downloads_for_each_podcast">"שמור %1$d הורדות אחרונות בכל פודקאסט"</string>
+    <string name="radio_stations">"תחנות רדיו"</string>
+    <string name="radios">Radios</string>
+    <string name="stations">"תחנות"</string>
+    <string name="connection_failed">"חיבור נכשל"</string>
+    <string name="search_stations">"חפש תחנות"</string>
+    <string name="add_a_station_by_url">"הוסף תחנה לפי כתובת אתר (URL)"</string>
+    <string name="radio_stream_url_is_required_">"נדרש כתובת אתר (URL) של תחנת הרדיו."</string>
+    <string name="radio_title_is_required_">"נדרשת כותרת התחנה!"</string>
+    <string name="_is_not_found_add_this_station_">"[ %1$s ] לא נמצא. הוסף תחנה זו על ידי כתובת האתר (URL)?"</string>
+    <string name="debug_log">"יומן באגים"</string>
+    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">"אם לא צוינה תמונה, כל קובץ תמונה שיימצא בתיקיית פודקאסט הווירטואלית ישמש עבור המיצג החזותי כברירת מחדל."</string>
+    <string name="select">"בחר"</string>
+    <string name="no_schedule_available">"אין לוח זמנים זמין"</string>
+    <string name="browse_by_subscriptions">"חפש לפי פודקאסטים"</string>
+    <string name="browse_by_radio_stations">"חפש לפי תחנות רדיו"</string>
+    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">"רשת אלחוטית אינה זמינה. מבטל בדיקת עדכניות הפודקאסט."</string>
+    <string name="pull_to_refresh">"גרור לריענון"</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">"גרור מטה את רשימת ההשמעה להתחלת עדכון הפודקאסט"</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">"גרור מטה את רשימת ההורדות להתחלת עדכון הפודקאסט"</string>
+    <string name="auto_rotate_screen">"סיבוב אוטומטי של המסך"</string>
+    <string name="screen_orientation">"כיוון מסך"</string>
+    <string name="portrait">"לאורך"</string>
+    <string name="landscape">"לרוחב"</string>
+    <string name="drag_the_handler_to_sort_manually">"גרור לימין בכדי למיין באופן ידני"</string>
+    <string name="streaming">"זרימה"</string>
+    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"הזן את שם המשתמש והסיסמה למטה במידה ופודקאסט שלך דורש אימות. השאר אותם ריקים במידה ולא נדרש אימות."</string>
+    <string name="can_not_play_ps">"לא ניתן לנגן: %1$s"</string>
+    <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+    <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
+    <string name="percent_played">"%1$d%% נוגנו"</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">"גרור מטה את רשימת הפודקאסטים להתחלת עדכון הפודקסט"</string>
+    <string name="actions">"פעולות"</string>
+    <string name="when_an_episode_is_100_played">"כאשר פרק  נוגן 100% "</string>
+    <string name="delete_the_download">"מחק את ההורדה"</string>
+    <string name="keep_the_download">"שמור את ההורדה"</string>
+    <string name="shake_your_device">"נער את המכשיר שלך"</string>
+    <string name="shake_device_to_control_playback">"נער את המכשיר בכדי לשלוט על השמעה"</string>
+    <string name="sensitivity">"רְגִישׁוּת"</string>
+    <string name="gestures">"תנועות"</string>
+    <string name="user_agreement">"הסכם משתמש"</string>
+    <string name="multi_thread_download">"אפשר הורדת מספר פרקים במקביל"</string>
+    <string name="recents">"אחרונים"</string>
+    <string name="group_by_podcasts">"קבץ לפי פודקאסטים"</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"הוסף את לרשימות ההשמעה הבאות בעת הוספת פרק לרשימת השמעה"</string>
+    <string name="compact_view">"תצוגה קומפקטית"</string>
+    <string name="open_source_licenses">"רישיונות קוד פתוח"</string>
+    <string name="can_not_play_the_downloaded_file">"לא ניתן להפעיל את הקובץ שהורד"</string>
+    <string name="can_not_play_the_local_file">"לא ניתן להפעיל את הקובץ המקומי"</string>
+    <string name="audio_loudness_boost">"בוסט קולני לאודיו"</string>
+    <string name="apply_to_all_podcasts">"החל על כל הפודקאסטים"</string>
+    <string name="audio_effects_and_equalizer">"אפקט ואקולייזר שמע"</string>
+    <string name="episode_info_short">"פרטי פרק (בקצרה)"</string>
+    <string name="episode_info_full">"פרטי פרק  (מלא)"</string>
+    <string name="twitter">"טוויטר"</string>
+    <string name="storage_usage">"סטטוס ניצול נפח האחסון"</string>
+    <string name="stream_url">"כתובת אתר זרם (Stream URL)"</string>
+    <string name="fm_am_frequency">"תדר FM / AM"</string>
+    <string name="genre">"ז'אנר"</string>
+    <string name="city_state">"עיר מדינה"</string>
+    <string name="sync_now">"סנכרן כעת"</string>
+    <string name="sign_in">"התחבר"</string>
+    <string name="sign_out">"התנתק"</string>
+    <string name="syncing_started">"הסנכרון החל"</string>
+    <string name="account_logged_in_s"><![CDATA[חשבון מחובר: <i>%1$s</i>]]></string>
+    <string name="sync_subscriptions_and_episode_playback_progress">"התקדמות הרשמה והשמעת הפרק"</string>
+    <string name="schedule_auto_backup_every_d_days">"תזמן גיבוי אוטומטי בכל %1$d ימים"</string>
+    <string name="keep_most_recent_d_auto_backups">"שמור %1$d גיבויים אוטומטיים אחרונים"</string>
+    <string name="save_auto_backup_to_s">"שמור גיבוי אוטומטי ל: %1$s"</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">"אפשר גיבוי אוטומטי של הגדרות האפליקציה ומסד הנתונים"</string>
+    <string name="schedule_backup">"גבה לוח זמנים"</string>
+    <string name="backups_to_keep">"גיבויים לשמירה"</string>
+    <string name="import_subscriptions_from_an_opml_file">"ייבא הרשמות מקובץ OPML"</string>
+    <string name="export_subscriptions_to_an_opml_file">"ייצא הרשמות לקובץ OPML"</string>
+    <string name="create_a_backup_of_app_settings_and_database">"צור גיבוי של הגדרות האפליקציה ומסד הנתונים"</string>
+    <string name="restore_app_settings_and_database_from_selected_backup">"שחזר הגדרות אפליקציה ומסד נתונים מגיבוי שנבחר"</string>
+    <string name="save_to">"שמור ל"</string>
+    <string name="buy_me_a_coffee">"קנה לי קפה"</string>
+    <string name="clear_the_play_history_">"נקה את ההיסטוריה ההשמעה?"</string>
+    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"כשהורדה מוסרת עקב מכסת חבילת הנתונים או עקב מגבלת כמות ההורדות"</string>
+    <string name="keep_all">"שמור הכל"</string>
+    <string name="playlist">"רשימת השמעה"</string>
+    <string name="category">"קטגוריה"</string>
+    <string name="update_podcasts_when_app_is_starting">"עדכן פודקאסטים בהפעלת האפליקציה"</string>
+    <string name="unknown_station">"תחנה לא ידועה"</string>
+    <string name="can_not_cast_youtube_videos_to_chromecast_">"לא ניתן להעביר סרטוני YouTube ל- Chromecast!"</string>
+    <string name="add_a_playlist">"הוסף לרשימת השמעה"</string>
+    <string name="add_to_tag">"הוסף לתג"</string>
+    <string name="add_to_default_playlists">"הוסף לרשימת ההשמעה המוגדרת כברירת המחדל"</string>
+    <string name="add_to_selected_playlists">"הוסף לרשימות ההשמעה שנבחרו"</string>
+    <string name="delete_selected_episodes_">"מחק פרקים נבחרים?"</string>
+    <string name="you_have_no_completed_downloads">"אין לך הורדות שהסתיימו."</string>
+    <string name="you_have_no_pending_downloads">"אין לך הורדות ממתינות."</string>
+    <string name="all_good_">"הכל ☺ טוב"</string>
+    <string name="there_are_no_episodes_in_this_playlist">"אין פרקים ברשימת השמעה זו."</string>
+    <string name="no_play_history_found">"לא נמצאה היסטוריית השמעה."</string>
+    <string name="set_playlists">"הגדר רשימות השמעה "</string>
+    <string name="mark_all_as_read">"סמן הכל כנקרא"</string>
+    <string name="not_in_use">"לא בשימוש"</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">"גרור מטה את רשימת הפרקים להתחלת עדכון הפודקאסט"</string>
+    <string name="remove_favorite">"הסר ממועדפים"</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"סמן את כל הפרקים שפורסמו קודם לפרק זה [ %1$s ] כפי כנוגנו?"</string>
+    <string name="exporting">"ייצוא"</string>
+    <string name="add_s_minutes">"הוסף %1$d דקות"</string>
+    <string name="pick_a_time">"בחר מועד"</string>
+    <string name="updating_podcasts">"מעדכן פודקאסטים"</string>
+    <string name="skip_ending">"דלג על סוף הפרק"</string>
+    <string name="skip_the_beginning_d_seconds">"דלג על %d שניות מתחילת הפרק"</string>
+    <string name="skip_the_ending_d_seconds">"דלג על %d שניות מסיום הפרק"</string>
+    <string name="no_user_notes_found">"לא נמצאו הערות משתמש."</string>
+    <string name="no_episode_description_found">"לא נמצא תיאור לפרק."</string>
+    <string name="set_episode_s_as_played_">"להגדיר פרק [ %s ] כהושמע?"</string>
+    <string name="or">"אוֹ"</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">"הרשימה הבאה עודכנה לשחק מ: %s"</string>
+    <string name="do_a_full_syncing_will_take_much_longer_to_finish">"בצע סינכרון מלא. ייקח זמן רב יותר לסיום."</string>
+    <string name="buy_me_a_coffee_message">"אם אתה נהנה מהשימוש באפליקציית PodcastRepublic ואתה רוצה לתמוך בפיתוח, אתה יכול לקנות לי כוס קפה. תודה!"</string>
+    <string name="maybe_later">"אולי אחר כך"</string>
+    <string name="sign_up">"הירשם"</string>
+    <string name="download_state_idle">"ממתין לתחילת ההורדה"</string>
+    <string name="download_state_fetching_url">"מחפש מקורת להורדה"</string>
+    <string name="download_state_connecting">"מתחבר"</string>
+    <string name="download_state_downloading">"מוריד"</string>
+    <string name="download_state_completed">"הסתיים"</string>
+    <string name="download_state_paused_network_unavailable">"מושהה: מחכה לרשת"</string>
+    <string name="download_state_failed_incorrect_file_received">"נכשל: התקבל קובץ שגוי."</string>
+    <string name="download_state_paused_by_request">"הורדה הושהתה"</string>
+    <string name="download_state_paused_wifi_unavailable">"מושהה: אינטרנט אלחוטי אינו זמין"</string>
+    <string name="download_state_paused_wifi_disabled">"מושהה: אינטרנט אלחוטי מושבת"</string>
+    <string name="download_state_paused_roaming">"מושהה: בנדידה"</string>
+    <string name="download_state_paused_waiting_to_retry">"מושהה: ממתין לניסיון חוזר"</string>
+    <string name="download_state_paused_sdcard_unavailable">"מושהה: אחסון חיצוני אינו זמין"</string>
+    <string name="download_state_paused_need_battery_charging">"מושהה: ממתין לטעינת הסוללה"</string>
+    <string name="download_state_failed_fetching_url">"נכשל: URL לא נמצא"</string>
+    <string name="download_state_failed_sdcard_full">"נכשל: אין מספיק שטח אחסון"</string>
+    <string name="download_state_failed_cancelled">"בוטל"</string>
+    <string name="download_state_failed">"נכשל"</string>
+    <string name="download_state_failed_storage_is_not_accessible">"נכשל: האחסון אינו נגיש"</string>
+    <string name="error_storage_is_not_accessible">"האחסון אינו נגיש"</string>
+    <string name="moving_downloads">"העברת הורדות"</string>
+    <string name="moving_download_from_1s_to_2s">"מעביר את ההורדה מ- [ %1$s ] ל- [ %2$s ]."</string>
+    <string name="invalid_opml_file_selected_">"נבחר קובץ opml לא חוקי!"</string>
+    <string name="podcast_title_can_not_be_empty_">"כותרת פודקאסט לא יכולה להיות ריקה!"</string>
+    <string name="podcast_url_can_not_be_empty_">"כתובת הפודקסאט לא יכולה להיות ריקה!"</string>
+    <string name="show_podcast_title">"הצג כותרת פודקאסט"</string>
+    <string name="hide_podcast_title">"הסתר כותרת פודקאסט"</string>
+    <string name="no_download_directory_prompt_message">"עדיין לא הגדרת את הנתיב לשמירת ההורדות. מעוניין להגדיר כעת?"</string>
+    <string name="at_least_one_playlist_is_required_">"נדרשת רשימת השמעה אחת לפחות!"</string>
+    <string name="manage_tags">"ניהול תגים"</string>
+    <string name="episode_filters">"מסנני פרק"</string>
+    <string name="manage_episode_filters">"ניהול מסנני פרק"</string>
+    <string name="episode_filter">"מסנן פרק"</string>
+    <string name="browse_by_episode_filters">"חפש לי פילטר מותאם אישית"</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">"הניסיון לסנכרן את החשבון נכשל, נסה להיכנס שוב."</string>
+    <string name="filter">"מסנן"</string>
+    <string name="view_all_episodes">"הצג את כל הפרקים"</string>
+    <string name="view_finished_episodes">"הצג פרקים שהסתיימו"</string>
+    <string name="view_unfinished_episodes">"הצג פרקים שלא הסתיימו"</string>
+    <string name="playback_progress">"התקדמות השמעה"</string>
+    <string name="display_playback_progress_in_notification_s">"הצגת התקדמות השמעה בסרגל ההתראות: %s"</string>
+    <string name="you_have_subscribed_to_s">"נרשמת כמנוי ל: %s"</string>
+    <string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">"אופס, לא נמצאו פודקאסטים! אתה יכול ללחוץ על כפתור (+) בשורת הכותרת כדי להוסיף פודקאסטים."</string>
+    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">"הוסף ערוץ YouTube או פלייליסט כפודקאסט."</string>
+    <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"הגדר פודקאסט וירטואלי כדי לנגן מוסיקה או ספרי שמע במכשיר שלך."</string>
+    <string name="click_to_adjust_playback_speed">"לחץ כדי לכוונן את מהירות ההשמעה"</string>
+    <string name="click_to_set_up_sleep_timer">"לחץ כדי להגדיר טיימר שינה"</string>
+    <string name="click_to_view_more_options_">"לחץ כדי להציג אפשרויות נוספות…"</string>
+    <string name="click_to_select_playback_mode">"לחץ כדי לבחור מצב השמעה"</string>
+    <string name="percetage_value">"%d %%"</string>
+    <string name="select_episodes">"בחר פרקים"</string>
+    <string name="select_episodes_from_last_d_days">"בחר פרקים מ- %d הימים האחרונים"</string>
+    <string name="select_episodes_from_all_dates">"בחר פרקים מכל התאריכים"</string>
+    <string name="selected_tags_s">"תגים נבחרים: %s"</string>
+    <string name="selected_podcasts_s">"פודקאסטים נבחרים: %s"</string>
+    <string name="unplayed_less_than_d_played">"לא הושמעו (%d %% הושמעו)"</string>
+    <string name="played_greater_than_d_played">" [הושמעו (&gt; = %d %% הושמעו)"</string>
+    <string name="unfinished_less_than_100_played">"לא הסתיימו (&lt;100% הושמעו)"</string>
+    <string name="finished_100_played">"סיים (100% הושמע)"</string>
+    <string name="restore_defaults">"שחזר את ברירות מחדל"</string>
+    <string name="at_least_one_episode_filter_is_required_">"לפחות מסנן פרק אחד נדרש!"</string>
+    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">"הספריות הבאות אינן נגישות. נא לאפס את ההגדרות. \ N %s"</string>
+    <string name="_download_location">"- מיקום הורדה"</string>
+    <string name="_auto_backup_location">"- מיקום גיבוי אוטומטי"</string>
+    <string name="clean_up">"ניקוי"</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">"הקבצים הבאים נמצאים בתיקית ההורדות אך לא מקושרים להורדות כלשהן. ניתן להסיר אותם על ידי לחיצה על כפתור \"ניקוי\"."</string>
+    <string name="tags">"תגים"</string>
+    <string name="casting">"יְצִיקָה"</string>
+    <string name="chapter_d">"פרק # %d"</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"אל תסגור את האפליקציה כאשר היא משחזרת את הנתונים. היא תופעל מחדש כאשר כל הנתונים ישוחזרו."</string>
+    <string name="playback_paused_on_muted_volume_">"השמעה הושהתה ע\"י השתקת עוצמת השמע!"</string>
+    <string name="number_of_episodes_to_auto_download">"מספר הפרקים להורדה אוטומטית"</string>
+    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"כאשר פרקים חדשים זמינים, הורד באופן אוטומטי את %1$d הפרקים החדשים ביותר"</string>
+    <string name="notify_when_new_episodes_are_available">"הצג התראה ​​כאשר פרקים חדשים זמינים"</string>
+    <string name="save_episode_list_to_html">"שמור רשימת פרקים ל- HTML"</string>
+    <string name="com_parse_ui_progress_dialog_text">"טוען…"</string>
+    <string name="com_parse_ui_forgot_password_button_label">שכחתי סיסמה</string>
+    <string name="com_parse_ui_email_input_hint">"כתובת דואר אלקטרוני"</string>
+    <string name="com_parse_ui_confirm_password_input_hint">"הזן שוב את הסיסמה"</string>
+    <string name="com_parse_ui_create_account_button_label">"צור חשבון"</string>
+    <string name="com_parse_ui_no_password_toast">"הזן את סיסמתך בבקשה"</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">"שם המשתמש והסיסמה שהזנת אינם תואמים"</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">"לא ניתן להתחבר, נסה שוב מאוחר יותר"</string>
+    <string name="com_parse_ui_password_too_short_toast">"על הסיסמה להיות באורך של %1$d לפחות"</string>
+    <string name="com_parse_ui_username_taken_toast">"שם המשתמש כבר תפוס, בחר שם אחר"</string>
+    <string name="com_parse_ui_reenter_password_toast">"אנא הכנס מחדש את סיסמתך"</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">"הסיסמאות אינן תואמות, נסה שוב"</string>
+    <string name="com_parse_ui_no_email_toast">"הזן את כתובת הדואר האלקטרוני שלך"</string>
+    <string name="com_parse_ui_invalid_email_toast">"כתובת הדוא\"ל אינה חוקית, תקן אותה ונסה שוב"</string>
+    <string name="com_parse_ui_email_taken_toast">"כתובת הדוא\"ל כבר זוהתה, בקשה הזן שוב את הסיסמה שלך"</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">"לא ניתן להירשם. נסה שוב מאוחר יותר"</string>
+    <string name="com_parse_ui_login_help_instructions">"הזן את הדוא\"ל שלך כדי לשחזר את הסיסמה שלך"</string>
+    <string name="com_parse_ui_login_help_email_input_hint">"כתובת דואר אלקטרוני"</string>
+    <string name="com_parse_ui_login_help_submit_button_label">"שלח"</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">"חזור להתחברות"</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">"נכשלה בקשת איפוס הסיסמה, נסה שוב"</string>
+    <string name="com_parse_ui_login_help_email_sent">"בדוק את הדוא\"ל שלך לקבלת הוראות גישה לחשבון שלך"</string>
+    <string name="connecting_">"מתחבר"</string>
+    <string name="syncing_episode_changes_s">"מסנכרן שינויים בפרק: %s"</string>
+    <string name="syncing_added_radio_subscriptions_d">"מסנכרן מינויי רדיו נוספים: %d"</string>
+    <string name="syncing_removed_radio_subscriptions_d">"סנכרון מינויי רדיו שהוסרו: %d"</string>
+    <string name="syncing_added_podcast_subscriptions_d">"מסנכרן מינויי פודקאסט שנוספו: %d"</string>
+    <string name="syncing_removed_podcast_subscriptions_d">"מסנכרן מינויי פודקאסט שהוסרו: %d"</string>
+    <string name="syncing_episode_changes_">"מסנכרן שינויים בפרק …"</string>
+    <string name="syncing_radio_subscription_changes_">"מסנכרן שינויים במנוי רדיו …"</string>
+    <string name="syncing_podcast_subscription_changes_">"מסנכרן שינויים בפודקאסט …"</string>
+    <string name="syncing">"סנכרון"</string>
+    <string name="current_playlist">"רשימת השמעה נוכחית"</string>
+    <string name="continue_to_next_playlist">"המשך לרשימת השמעה הבאה"</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"המשך בהפעלת רשימת ההשמעה הבאה לאחר שהושמעו כל הפרקים ברשימת ההשמעה הנוכחית"</string>
+    <string name="disable_manual_sorting">"השבת את המיון הידני"</string>
+    <string name="enable_manual_sorting">"הפעל מיון ידני"</string>
+    <string name="open">"פתח"</string>
+    <string name="newest_unplayed">"החדש ביותר שלא הושמע"</string>
+    <string name="apply_to_current_podcast">"החל על הפודקאסט הנוכחי"</string>
+    <string name="redownload_all_selected_episodes_">"להוריד מחדש את כל הפרקים שנבחרו?"</string>
+    <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">"מיקום ההורדה אינו נגיש. להגדיר את מיקום ההורדה כעת?"</string>
+    <string name="insufficient_space_please_free_some_storage_space_">"אין מספיק מקום להורדה. נא לפנות שטח אחסון."</string>
+    <string name="show_last_updated_time">"הצג את זמן העדכון האחרון"</string>
+    <string name="hide_last_updated_time">"הסתר את זמן העדכון האחרון"</string>
+    <string name="delete_account">"מחק חשבון"</string>
+    <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"לא תוכל להתחבר שוב לחשבון זה! להמשיך למחוק את החשבון?"</string>
+    <string name="please_select_a_directory_to_save_the_auto_backups">"בחר ספריה לשמירת הגיבויים האוטומטיים."</string>
+    <string name="download_completed">"ההורדה הושלמה"</string>
+    <string name="notify_when_an_episode_has_been_downloaded">"הצג התראה בעת הורדת פרק"</string>
+    <string name="night_mode">"מצב לילה"</string>
+    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"החלפה אוטומטית בין ערכת נושא בהירה (יום) לבין ערכת נושא נושא כהה (לילה) בהתבסס על השעה ביום"</string>
+    <string name="repeat_episode">"חזור על הפרק"</string>
+    <string name="repeat_playlist">"חזור על רשימת השמעה"</string>
+    <string name="alarms">"תזכורת"</string>
+    <string name="sunday">יוֹם רִאשׁוֹן</string>
+    <string name="monday">יוֹם שֵׁנִי</string>
+    <string name="tuesday">יוֹם שְׁלִישִׁי</string>
+    <string name="wednesday">יום רביעי</string>
+    <string name="thursday">יוֹם חֲמִישִׁי</string>
+    <string name="friday">יוֹם שִׁישִׁי</string>
+    <string name="saturday">יום שבת</string>
+    <string name="no_alarms_found_">"לא נמצאו תזכורות."</string>
+    <string name="allow_to_download_at_any_time">"אפשר להוריד בכל עת"</string>
+    <string name="allow_to_download_between_selected_time">"אפשר להוריד בשעות מסויימות"</string>
+    <string name="start_time">"שעת התחלה"</string>
+    <string name="end_time">"שעת סיום"</string>
+    <string name="allowed_download_time">"זמן הורדה מותר"</string>
+    <string name="paused_waiting_for_allowed_download_time">"מושהה: ממתין לשעת הורדה מותרת"</string>
+    <string name="last_played_time">"זמן השמעה אחרונה"</string>
+    <string name="display_unplayed_episodes_on_top">"הצג תחילה פרקים שלא השמעו"</string>
+    <string name="text_size">"גודל טקסט"</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">"זהו גודל הטקסט שגודלו עד %d %% ."</string>
+    <string name="_d_seconds">"%d שניות"</string>
+    <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">"האם להמשיך למחוק את קבצי הפודקסט הוירטואלי שנבחרו מהאחסון?"</string>
+    <string name="show_played_date">"הצג תאריך השמעה"</string>
+    <string name="edit_radio_station">"ערוך תחנת רדיו"</string>
+    <string name="subscribed">"מנוי"</string>
+    <string name="edit_chapter">"ערוך פרק"</string>
+    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">"אין אפשרות לערוך פרק זה. רק פרקים שנוספו על ידי המשתמש ניתנים לעריכה."</string>
+    <string name="import_downloads">"ייבוא ​​הורדות"</string>
+    <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">"ייבוא ​​הורדות מספריה נבחרת. פעולה זו תייבא רק קבצי פודקאסט אשר הורדו בעבר על ידי אפליקציה זו."</string>
+    <string name="available_free_space_s">"שטח פנוי זמין: %s"</string>
+    <string name="playback">"השמעה"</string>
+    <string name="background_services">"שירותי רקע"</string>
+    <string name="general_notifications">"התראות כלליות"</string>
+    <string name="return_to_car_mode_">"חזור למצב רכב."</string>
+    <string name="android_wear">"אנדרואיד WEAR"</string>
+    <string name="notification_background_theme_s">"רקע ערכת נושא להתראה: %s"</string>
+    <string name="turn_on_alarms">"הפעל תזכורות"</string>
+    <string name="turn_off_alarms">"כבה את התזכורות"</string>
+    <string name="play_as_audio_only">"השמעת שמע בלבד"</string>
+    <string name="remove_downloads_from_unsubscribed_podcast_s_">"למחוק את ההורדות של הפודקאסט שבוטלה ההרשמה אליו: [ %1$s ]?"</string>
+    <string name="report_bug_privacy_message"><![CDATA[על ידי לחיצה על <em>דווח על באג</em>, אתה מסכים <a href=\"https://podcastrepublic.net/privacy-terms/\"> לתנאים</a> שלנו וכי קראת את <a href=\"https://podcastrepublic.net/privacy-terms/\"> מדיניות הפרטיות </a> שלנו.]]></string>
+    <string name="sign_up_privacy_and_terms_message"><![CDATA[על ידי לחיצה על <em>צור חשבון</em>, אתה מסכים <a href=\"https://podcastrepublic.net/privacy-terms/\"> לתנאים</a> שלנו וכי קראת את <a href=\"https://podcastrepublic.net/privacy-terms/\"> מדיניות הפרטיות </a> שלנו.]]></string>
+    <string name="sign_in_privacy_and_terms_message"><![CDATA[על ידי לחיצה על <em>היכנס</em>, אתה מסכים <a href=\"https://podcastrepublic.net/privacy-terms/\"> לתנאים</a> שלנו וכי קראת א <a href=\"https://podcastrepublic.net/privacy-terms/\"> מדיניות הפרטיות </a> שלנו.]]></string>
+    <string name="automatically_turn_on_sleep_timer_when_playback_starts">"הפעל את הטיימר בעת ​​הפעלת ההשמעה"</string>
+    <string name="syncing_data_only_when_connected_to_wifi_network">"מסנכרן נתונים רק כאשר המכשיר מחובר לרשת WiFi"</string>
+    <string name="syncing_via_wifi_only">"מסנכרן באמצעות WiFi בלבד"</string>
+    <string name="total_downloaded_file_size_s">"סה\"כ גודל הקבצים שהורדו: %s"</string>
+    <string name="featured">"מומלצים"</string>
+    <string name="polular">"פופולרי"</string>
+    <string name="select_episodes_from_today">"בחר פרקים מהיום"</string>
+    <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"זיהינו בעבר קריסה באפליקציה. האם ברצונך לשלוח את דוח הקריסה כדי שנוכל לתקן את הבעיה?"</string>
+    <string name="generating_bug_report_">"יוצר דוח באגים …"</string>
+    <string name="apply_to_all_radio_stations">"החל על כל תחנות הרדיו"</string>
+    <string name="apply_to_current_radio_station">"החל על תחנת הרדיו הנוכחית"</string>
+    <string name="skip_silence">"דלג על שתיקה"</string>
+    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">"הורדה אוטומטית של עד %d פרקים חדשים מהפרק שמתנגן כעת"</string>
+    <string name="smart_download">"הורדה חכמה"</string>
+    <string name="download_anyway">"הורד בכל מקרה"</string>
+    <string name="download_anyway_message">"התעלם מ- Wi-Fi ומהגדרות הסוללה, הןרד את הפרק עם חיבור הרשת הנוכחי עכשיו! פעולה זו עשויה להשתמש בנתונים ובסוללה. האם להמשיך?"</string>
+    <string name="play_all_from_old_to_new">"נגן הכל מהישן לחדש"</string>
+    <string name="delete_all_immediately">"מחק הכל באופן מיידי"</string>
+    <string name="deleted_downloads_will_be_removed_after_24_hours_">"הורדות שנמחקו יוסרו לאחר 24 שעות."</string>
+    <string name="delete_immediately">"מחק מיד"</string>
+    <string name="delayed_deletion">"מחיקה מושהית"</string>
+    <string name="keep_the_downloaded_podcast_file_for_24_hours_after_being_deleted_">"שמור את קובץ ה- Podcast שהורדת למשך 24 שעות לאחר שנמחק."</string>
+    <string name="download_progress">"התקדמות הורדה"</string>
+    <string name="be_the_first_to_write_a_review_">"היה הראשון לכתוב ביקורת!"</string>
+    <string name="write_a_review">"כתוב ביקורת"</string>
+    <string name="my_review">"הסקירה שלי"</string>
+    <string name="your_name">"השם שלך"</string>
+    <string name="your_review">"הסקירה שלך"</string>
+    <string name="a_podcast_republic_user">"משתמש Podcast Republic"</string>
+    <string name="report_spam_review">"דווח על ביקורת ספאם"</string>
+    <string name="report_inappropriate_review">"דווח על ביקורת בלתי הולמת"</string>
+    <string name="reviews">"ביקורות"</string>
+    <string name="submit">"שלח"</string>
+    <string name="deleted">"נמחק"</string>
+    <string name="file_size">"גודל הקובץ"</string>
+    <string name="play_next">"הבא"</string>
+    <string name="are_you_sure_to_clear_the_play_queue_">"האם אתה בטוח שברצונך לנקות את רשימת ההשמעה?"</string>
+    <string name="clear">"נקה"</string>
+    <string name="remaining_time">"זמן שנותר"</string>
+    <string name="elapsed_time">"הזמן שחלף"</string>
+    <string name="paused_network_is_metered">"מושהה: הרשת מטופלת"</string>
+    <string name="download_date">"תאריך הורדה"</string>
+    <string name="create_an_episode_filter">"יצירת מסנן פרק"</string>
+    <string name="play_time">"זמן ניגון"</string>
+    <string name="recently_played">"נוגן לאחרונה"</string>
+    <string name="play_all_newer_episodes">"נגן את כל הפרקים החדשים יותר"</string>
+    <string name="see_what_s_new_in_this_version_s">"ראה מה חדש בגירסה זו: %s"</string>
+    <string name="enabled_buttons_">"לחצנים מופעלים:"</string>
+    <string name="bottom_navigation_bar">"סרגל ניווט תחתון"</string>
+    <string name="play_bar">"סרגל ניגון"</string>
+    <string name="show_play_bar_when_app_starts">"הצג את סרגל ההפעלה כאשר היישום מופעל"</string>
+    <string name="can_not_edit_default_episode_filter_">"לא ניתן לערוך מסנן של פרק ברירת מחדל!"</string>
+    <string name="playlist_name">"שם רשימת השמעה"</string>
+    <string name="priority">"עדיפות"</string>
+    <string name="higher_priority_playlist_will_be_played_first_">"רשימת השמעה בעדיפות גבוהה תוצג תחילה."</string>
+    <string name="view_podcast">"תצוגה"</string>
+    <string name="priority_d">"עדיפות: %d"</string>
+    <string name="stream_all">"הזרם הכל"</string>
+    <string name="view_all_your_playlists">"הצג את כל הפלייליסטים שלך"</string>
+    <string name="click_on_the_tab_again_to_view_all_your_playlists">"לחץ שוב על הכרטיסייה כדי להציג את כל הפלייליסטים שלך"</string>
+    <string name="edit_playlist">"ערוך פלייליסט"</string>
+    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">"לחץ על הכרטיסייה שוב כדי להציג את כל תגי הפודקאסט שלך"</string>
+    <string name="changing_the_play_mode_to_repeat_a_playlist_">"משנה את מצב ההפעלה לחזרה על רשימת השמעה:"</string>
+    <string name="_removing_from_playlist_on_played_will_be_disabled">"- הסרה מרשימת ההשמעה בזמן ניגון יהיה מושבת"</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">"- הסרת קובץ הפודקסאט שהורדת בזמן ניגון יהיה יושבת"</string>
+    <string name="view_all_your_episode_filters">"הצג את כל מסנני הפרק שלך"</string>
+    <string name="click_on_the_tab_again_to_view_all_your_episode_filters">"לחץ שוב על הכרטיסייה כדי להציג את כל מסנני הפרק שלך"</string>
+    <string name="stop_playing_when_time_is_up">"הפסק לנגן בסיום הזמן"</string>
+    <string name="sleep_timer_fired_stop_playing_">"טיימר שינה מופעל, הפסק לנגן!"</string>
+    <string name="yes_sure">"כן, בטח"</string>
+    <string name="play_all_from_new_to_old">"הפעל הכל מחדש לישן"</string>
+    <string name="smart_update">"עדכון חכם"</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"בדוק פרקים חדשים לאחר השלמת הפרק החדש ביותר בפודקאסט"</string>
+    <string name="click_on_the_tab_again_to_view_download_actions">"לחץ על הכרטיסייה שוב כדי להציג פעולות הורדה"</string>
+    <string name="remember_volume_level">"זכור את עוצמת הקול"</string>
+    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"זכור את עוצמת הקול האחרונה שנוגנה ושחזר אותה בהפעלה"</string>
+    <string name="metered_network">"רשת נמדדת"</string>
+    <string name="allow_to_download_over_metered_network">"אפשר להוריד דרך רשת נמדדת"</string>
+    <string name="respond_to_media_button">"הגב ללחצן מדיה"</string>
+    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">"אפשר התחלת ניגון באמצעות פקודת בלוטוס' הניתנת כאשר האפליקציה סגורה"</string>
+    <string name="remind_me_1_minute_less">"הזכר לי (דקה אחת פחות)"</string>
+    <string name="unread_count">"ספירה שלא נקראה"</string>
+    <string name="newest_unread">"הכי חדשים שלא נקראו"</string>
+    <string name="no_articles_selected_">"לא נבחרו מאמרים!"</string>
+    <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: סמן את כל הכתבות כנקראו?"</string>
+    <string name="mark_all_articles_as_read_">"סמן את כל הכתבות כנקראו?"</string>
+    <string name="mark_all_articles_published_earlier_than_this_article_s_as_read_">"סמן את כל הכתבות שפורסמו מוקדם יותר ממאמר זה [ %1$s ] כנקרא?"</string>
+    <string name="there_are_no_articles_">"אין מאמרים."</string>
+    <string name="unreads_d">"הודעות שלא נקראו: %d"</string>
+    <string name="total_articles_d">"סה\"כ מאמרים: %d"</string>
+    <string name="rss_feed_url">"כתובת אתר של RSS"</string>
+    <string name="check_rss_feed_update">"בדוק עדכון RSS"</string>
+    <string name="_is_not_found_add_this_rss_feed_">"[ %1$s ] לא נמצא. הוסף עדכון RSS לפי כתובת אתר?"</string>
+    <string name="add_a_rss_feed_by_url">"הוסף עדכון RSS לפי כתובת אתר"</string>
+    <string name="mark_as_read">"סמן כנקרא"</string>
+    <string name="new_articles_available">"מאמרי RSS חדשים זמינים"</string>
+    <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">"אינטרנט אלחוטי אינו זמין. מבטל עדכון  RSS ."</string>
+    <string name="add_rss_feeds">"הוסף עדכוני RSS"</string>
+    <string name="search_rss_feeds">"חפש RSS"</string>
+    <string name="reset_feed">"אפס Feed"</string>
+    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">"איפוס ה-Feed ימחק נתוני מטמון ויעדכן אותם מחדש מתוך RSS!"</string>
+    <string name="mark_all_previous_articles_as_read">"סמן את כל המאמרים הקודמים כקריאה"</string>
+    <string name="unread">"לא נקרא"</string>
+    <string name="rss_feeds">" RSS Feeds"</string>
+    <string name="review_submitted_">"הביקורת נשלחה."</string>
+    <string name="add_radio_stations">"הוסף תחנות רדיו"</string>
+    <string name="radio_station">"תחנת רדיו"</string>
+    <string name="view_your_podcast_subscriptions">"הצג את הפודקאסטים אליהם נרשמת"</string>
+    <string name="view_your_radio_subscriptions">"הצג את תחנות הרדיו אליהם נרשמת"</string>
+    <string name="view_your_rss_feed_subscriptions">"הצג את ה-RSS אליהם נרשמת"</string>
+    <string name="there_are_no_unplayed_episodes_">"אין פרקים שטרם נוגנו!"</string>
+    <string name="there_are_no_played_episodes_">"אין פרקים שנוגנו!"</string>
+    <string name="there_are_no_favorite_episodes_">"אין פרקים מועדפים!"</string>
+    <string name="there_are_no_downloaded_episodes_">"אין פרקים שהורדו!"</string>
+    <string name="start_playing_and_go_to_now_playing">"התחל לנגן ועבור אל נגן עכשיו"</string>
+    <string name="show_unplayed_recent_counters">"הצג מונים של טרם הופעלו / אחרונים"</string>
+    <string name="hide_unplayed_recent_counters">"הסתר מונים של טרם הופעלו / אחרונים"</string>
+    <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"לא נמצאו תחנות רדיו. לחץ על הלחצן הוסף (+) כדי להוסיף תחנת רדיו."</string>
+    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"לא נמצאו עדכוני RSS. לחץ על הלחצן הוסף (+) כדי להוסיף."</string>
+    <string name="tag_radios">"תג רדיו "</string>
+    <string name="episode">"פרק"</string>
+    <string name="edit_mode">"מצב עריכה"</string>
+    <string name="no_radio_stations_selected_">"לא נבחרו תחנות רדיו!"</string>
+    <string name="no_rss_feeds_selected_">"לא נבחרו  RSS !"</string>
+    <string name="hide_empty_feeds">"הסתר ריקים"</string>
+    <string name="tag_feeds">"עדכוני תג"</string>
+    <string name="open_in_browser">"פתוח בדפדפן"</string>
+    <string name="mark_as_unread">"סמן כלא נקרא"</string>
+    <string name="article_url">"כתובת אתר "</string>
+    <string name="summary">"סיכום"</string>
+    <string name="download_state_paused_battery_low">Paused: battery low</string>
+    <string name="select_episodes_with_duration_greater_than_d_minutes">Select episodes with duration greater than %d minutes</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes">Select episodes with duration less than %d minutes</string>
+    <string name="short_time_unit_format_minute">Min</string>
+    <string name="mark_all_previous_episodes_as_played">Mark all previous episodes as played</string>
+    <string name="hold_down_to_start_dragging">Hold down to start dragging</string>
+    <string name="swipe_right_action">Swipe right action</string>
+    <string name="stream_podcasts_via_wifi_only">Stream podcasts via Wi-Fi only</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Allow to stream podcasts only when Wi-Fi is connected</string>
+    <string name="stream_radios_via_wifi_only">Stream radios via Wi-Fi only</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Allow to stream radios only when Wi-Fi is connected</string>
+    <string name="history_and_stats">History &amp; Stats</string>
+    <string name="delete_downloads">Delete downloads</string>
+    <string name="keep_download">Keep download</string>
+    <string name="delete_episodes">Delete episodes</string>
+    <string name="priority_mode">Priority mode</string>
+    <string name="stats">Stats</string>
+    <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
+    <string name="since_s">Since: %s</string>
+    <string name="reset_stats">Reset stats</string>
+    <string name="display_latest_d_episodes">Display latest %d episodes</string>
+    <string name="find_rss_feed">Find RSS feed</string>
+    <string name="there_are_no_rss_feeds">There are no RSS feeds!</string>
+    <string name="got_it">Got it</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up Next list. As a result the Up Next will not be synced with the currently playing episode list or playlist.</string>
+    <string name="don_t_show_it_again">Don\'t show it again</string>
+    <string name="always_on">Always on</string>
+    <string name="always_on_amoled_black">Always on (AMOLED black)</string>
+    <string name="auto_switch">Auto switch</string>
+    <string name="auto_switch_amoled_black">Auto switch (AMOLED black)</string>
+    <string name="smart_rewind_on_resuming">Smart rewind on resuming</string>
+    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Automatically rewind %1$d to %2$d seconds when resuming the playback</string>
+    <string name="minimum_rewind_time_d_seconds">Minimum rewind time: %d seconds.</string>
+    <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
+    <string name="show_radio_station_title">Show station title</string>
+    <string name="hide_radio_station_title">Hide station title</string>
+    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
+    <string name="not_in_downloads_list">Not in Downloads list</string>
+    <string name="reversed_landscape">Reversed landscape</string>
+    <string name="reset_sleep_timer">Reset sleep timer</string>
+    <string name="toggle_playback_speed_on_off">Toggle playback speed on/off</string>
+    <string name="there_are_no_episodes_with_notes_">There are no episodes with notes!</string>
+    <string name="there_are_no_deleted_episodes_">There are no deleted episodes!</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="remove_favorite_mark">Remove favorite mark</string>
+    <string name="persistent_play_bar">Persistent play bar</string>
+    <string name="keep_play_bar_displayed_after_playback_finishes">Keep play bar displayed after playback finishes</string>
+    <string name="rotate_by_podcasts">Rotate by podcasts</string>
+    <string name="search_in_all_podcasts">Search in all podcasts</string>
+    <string name="search_in_subscribed_podcasts">Search in subscribed podcasts</string>
+    <string name="search_by_podcast_title">Search by podcast title</string>
+    <string name="search_by_podcast_publisher">Search by podcast publisher</string>
+    <string name="all_podcasts">All podcasts</string>
+    <string name="my_podcasts">My podcasts</string>
+    <string name="fade_audio_out_2_minutes_less">Fade audio out (2 minutes less)</string>
+    <string name="keep_all_articles">Keep all articles</string>
+    <string name="keep_articles">Keep articles</string>
+    <string name="keep_articles_from_last_d_days">Keep articles from last %d days</string>
+    <string name="pref_download_location_select_prompt_message">You will be redirected to Android file manager. Please select a directory on internal storage or SD card to be used as the download location.</string>
+    <string name="review_wifi_only_prompt_message">Do you know this app uses WiFi only by default? You can turn off WiFi only if you have fast data connection. Do you want to review the WiFi only settings now?</string>
+    <string name="delete_virtual_podcast_file_from_storage_after_being_played">Delete virtual podcast file from storage after being played</string>
+    <string name="play_all">Play all</string>
+    <string name="remove_played_episode">Remove played episode</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">Remove the episode from playlist after being played</string>
+    <string name="apply_this_change_to_all_playlist_">Apply this change to all playlists?</string>
+    <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
+    <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
+    <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
+    <string name="_d_minutes">%d Minutes</string>
+    <string name="time_unit_minutes">Minutes</string>
+    <string name="greater_than">Greater than</string>
+    <string name="less_than">Less than</string>
+    <string name="has_duration">Has duration</string>
+    <string name="filter_episode_title">Filter episode title</string>
+    <string name="filter_episode_duration">Filter episode duration</string>
+    <string name="clear_the_recents_list_">Clear the Recents list?</string>
+    <string name="clear_the_list">Clear the list</string>
+    <string name="play_as_video">Play as video</string>
+    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Auto download up to %d older and unplayed episodes from current playing podcast</string>
+    <string name="select_all_below">Select all below</string>
+    <string name="select_all_above">Select all above</string>
+    <string name="ignore_articles_in_title">Ignore articles in title</string>
+    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignore articles (A, An, or The) in podcast title when sorting by title</string>
+    <string name="create_shortcut">Create shortcut</string>
+    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Allow to use mobile data and ignore battery restrictions when downloading episodes.</string>
+    <string name="show_play_next_episode_station_button">Show Play next episode/station button</string>
+    <string name="append_to_up_next">Append to Up next</string>
+    <string name="only_include_episodes_with_user_notes">Only include episodes with user notes</string>
+    <string name="description_preview">Description preview</string>
+    <string name="d_lines_of_text">%d lines</string>
+    <string name="mark_current_playback_position">Mark current playback position</string>
+    <string name="comma">", "</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Pick an image as the shortcut icon</string>
+    <string name="use_default_icon">Use default icon</string>
+    <string name="syncing_articles_">Syncing articles…</string>
+    <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
+    <string name="download_priority">Download priority</string>
+    <string name="pin_to_top">Pin to top</string>
+    <string name="unpin_from_top">Unpin from top</string>
+    <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
+    <string name="add_tags_to_podcasts">Add tags to podcast</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
+    <string name="podcast_artwork">Podcast artwork</string>
+    <string name="rss_feed_artwork">RSS feed artwork</string>
+    <string name="add_tags_to_rss_feed">Add tags to RSS feed</string>
+    <string name="_1s_2s_n">%1$s: %2$s\n</string>
+    <string name="_1s_2d_kbs_n">%1$s: %2$dKB/s\n</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="author">Author</string>
+    <string name="composer">Composer</string>
+    <string name="album_artist">Album artist</string>
+    <string name="year">Year</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="number_of_tracks">Number of tracks</string>
+    <string name="preview_notes">Preview notes</string>
+    <string name="preview_user_notes_in_list">Preview user notes in list</string>
+    <string name="extract_from_metadata">Extract from metadata</string>
+    <string name="use_filename">Use filename</string>
+    <string name="delete_played_episode">Delete played episode</string>
+    <string name="copy_files_to_download_directory">Copy files to download directory</string>
+    <string name="move_files_to_download_directory">Move files to download directory</string>
+    <string name="greater_than_d_minutes">&gt; %1$d minutes</string>
+    <string name="less__than_d_minutes">&lt; %1$d minutes</string>
+    <string name="jump_to_next_chapter">Jump to next chapter</string>
+    <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
+    <string name="true_crime">True crime</string>
+    <string name="leisure">Leisure</string>
+    <string name="fiction">Fiction</string>
+    <string name="genre_type_hisotry">History</string>
+    <string name="animations">Animations</string>
+    <string name="list_animation">List animation</string>
+    <string name="animate_items_when_loading_into_list">Animate items when loading into list</string>
+    <string name="failed_to_update_podcast_s">Failed to update podcast: %s</string>
+    <string name="reset_password">Reset password</string>
+    <string name="account_already_exists_please_login_with_the_email_and_password_">Account already exists, please login with the email and password.</string>
+    <string name="sleep_timer_is_on_">Sleep timer is on!</string>
+    <string name="advanced_options">Advanced</string>
+    <string name="auto_start_sleep_timer">Auto start</string>
+    <string name="auto_pause_sleep_timer">Auto pause</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
+    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+</resources>

@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    
+    <style>
+    	#myBtn {
+  			display: none;
+  			position: fixed;
+  			bottom: 20px;
+  			right: 30px;
+  			z-index: 99;
+  			border: none;
+  			outline: none;
+  			background-color: red;
+  			color: white;
+  			cursor: pointer;
+  			padding: 15px;
+  			border-radius: 10px;
+		}
+
+		#myBtn:hover {
+  			background-color: #555;
+		}
+	</style>
+</head>
+
+	<body class="home blog custom-background full-width custom-font-enabled single-author highlander-enabled highlander-light">
+
+	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+	
+		<h3>FAQs for Podcast Republic</h3>
+		<p>&nbsp;</p>
+		
+		<h4>Subscriptions</h4>
+		<ul>
+			<li><a href="#q161021a">How to find podcasts?</a></li>
+			<li><a href="#q161021b">How to subscribe to a podcast?</a></li>
+			<li><a href="#q161021c">How to unsubscribe to a podcast?</a></li>
+			<li><a href="#q328326c">Can I play my music/downloads/audio books using this app?</a></li>
+			<li><a href="#q329326c">How to add a podcast feed manually?</a></li>
+			<li><a href="#q160214b">What do the blue and green progress circles mean?</a></li>
+			<li><a href="#q160712c">What are the blue and green numbers displayed in the Podcasts tab?</a></li>
+		</ul>
+		<h4>Episodes</h4>
+		<ul>
+			<li><a href="#q123456a">How to set up to check for new episodes automatically?</a></li>
+			<li><a href="#q971945c">Why my podcast doesn&#8217;t get updated?</a></li>
+			<li><a href="#q935117a">How to access the individual podcast settings?</a></li>
+			<li><a href="#q010311d">What is Episode unique criteria?</a></li>
+			<li><a href="#q1605021">What does Reset episodes do?</a></li>
+			<li><a href="#q190325b">What are the chapters?</a></li>
+		</ul>
+		<h4>Downloads</h4>
+		<ul>
+			<li><a href="#q323226a">How does the auto download work?</a></li>
+			<li><a href="#q323233a">Can I turn on/off the auto download for one podcast?</a></li>
+			<li><a href="#q180517a">What is Smart download?</a></li>
+			<li><a href="#q553233a">What is Keep download?</a></li>
+			<li><a href="#q663233a">How to save downloads to SD card?</a></li>
+			<li><a href="#q663777a">Why the download is paused for Wi-Fi?</a></li>
+			<li><a href="#q190325c">Why the download is paused for battery low while it's plugged for charging?</a></li>
+			<li><a href="#q863777a">Can I download over 3G or 4G data connection?</a></li>
+			<li><a href="#q160802b">What does the download failed message mean?</a></li>
+			<li><a href="#q993777a">Can I resume a failed download?</a></li>
+			<li><a href="#q910777a">How to remove the download automatically after being played?</a></li>
+			<li><a href="#q1605022">How can I save a podcast permanently?</a></li>
+			<li><a href="#q910117a">Why do I get duplicated downloads?</a></li>
+			<li><a href="#q931117a">Is there any way to know whether an episode has been downloaded?</a></li>
+			<li><a href="#q181016a">How to move the download directory to a new location?</a></li>
+		</ul>
+		<h4>Media Player</h4>
+		<ul>
+			<li><a href="#q927326c">Why my audio podcast is played as video?</a></li>
+			<li><a href="#q347326c">Can I play a video podcast as audio only?</a></li>
+			<li><a href="#q1605023">Why does the playback stop after certain (x) minutes in the background?</a></li>
+			<li><a href="#q181022a">The podcast volume is too low. Can I boost the audio output?</a></li>
+			<li><a href="#q181023a">Does the app have a sleep timer to stop playing after X time?</a></li>
+			<li><a href="#q181024a">Can I schedule a time to play a podcast?</a></li>
+			<li><a href="#q161022a">How to cast to Chromecast?</a></li>
+			<li><a href="#q190325a">What is Smart rewind?</a></li>
+		</ul>
+		<h4>Playlists</h4>
+		<ul>
+			<li><a href="#q1605024">What are the play modes?</a></li>
+			<li><a href="#q161021d">Why does it start playing next episode automatically?</a></li>
+			<li><a href="#q935445c">Why it doesn&#8217;t start playing next episode automatically?</a></li>
+			<li><a href="#q9665d5d">How to play all episodes from a podcast from oldest to newest?</a></li>
+			<li><a href="#q965645c">How to create a user playlist?</a></li>
+			<li><a href="#q977645c">How can I set episodes of a podcast always go to my selected playlist?</a></li>
+			<li><a href="#q147642e">How does the Up Next list work?</a></li>
+			<li><a href="#q177642e">How does the playlist work?</a></li>
+		</ul>
+		<h4>Sync, Backup &amp; Restore</h4>
+		<ul>
+			<li><a href="#q920945c">How to sync data between devices?</a></li>
+			<li><a href="#q170430a">What data are synced between devices?</a></li>
+			<li><a href="#q920921c">How to transfer app data to another device?</a></li>
+			<li><a href="#q922921c">How to transfer downloaded podcast files to another device and get recognized by this app?</a></li>
+			<li><a href="#q160903d">How to restore app data from backups?</a></li>
+			<li><a href="#q181015a">How can I backup a downloaded podcast file?</a></li>
+		</ul>
+		<h4>Misc</h4>
+		<ul>
+			<li><a href="#q922331c">Why YouTube video podcasts are not downloadable?</a></li>
+			<li><a href="#q943331c">Why artworks are not displayed for some podcasts?</a></li>
+			<li><a href="#q160909d">How to enable Debug log?</a></li>
+			<li><a href="#q173402b">How to open app settings?</a></li>
+			<li><a href="#q171209a">What is the side navigation menu?</a></li>
+			<li><a href="#q170909a">What is the overflow menu?</a></li>
+			<li><a href="#q191025a">Why the app doesn't update or stop playing when the app goes to background or is closed?</a></li>
+			<li><a href="#q200909a">Can I control the playback through third party apps such as Tasker?</a></li>
+		</ul>
+		<HR>
+			<a name="q161021a"></a><strong>How to find podcasts?</strong><br />
+			There are two ways to find new podcasts:<br />
+			<ul>
+				<li>Browse top podcasts in the Top charts tab</li>
+			</ul>
+			<ul>
+				<li>Search podcasts by podcast name in the Search tab</li>
+			</ul>
+			<p>&nbsp;</p>
+			
+			<a name="q161021b"></a><strong>How to subscribe to a podcast?</strong><br />
+			After you have found a podcast in the Top charts list or in the podcast search result list, you can swipe the podcast item in the list to left to open the subscribe menu.<br />
+			Or you can tap the podcast name to open the podcast and then click the Subscribe button to subscribe to it.
+			<p>&nbsp;</p>
+			
+			<a name="q161021c"></a><strong>How to unsubscribe to a podcast?</strong><br />
+			To remove a podcast from the subscription, please go to the Podcasts tab first and then find the podcast. Then swipe the podcast item in the list to left to open the delete button.<br />
+			Or tap the podcast name to open the podcast and then click the <strong>Settings</strong> to open the <a href="#q935117a">individual podcast settings</a>. Then use the Unsubscribe button to unsubscribe it.</li>
+		<p>&nbsp;</p>
+		
+		<a name="q328326c"></a><strong>Can I play my music/downloads/audio books using this app?</strong><br />
+		Sure, you can play your music/downloads/audio books using this app. To do that you need to setup a &#8220;virtual&#8221; podcast. It will use a directory on the local device as a &#8220;virtual&#8221; podcast repository. All media files in the directory will be imported into the database and treated as episodes of this &#8220;virtual&#8221; podcast.
+		<p>&nbsp;</p>
+		
+		<a name="q329326c"></a><strong>How to add a podcast feed manually?</strong><br />
+		If your podcast is not found by searching, you can always add the podcast manually. Please go to the Podcasts tab and tap the Add button on the title bar. Then select <strong>Add podcast by URL</strong> from the menu. Enter your podcast feed and then hit the find podcast button. If the podcast is found, it will be added to the app.
+		<p>&nbsp;</p>
+		
+		<a name="q160214b"></a><strong>What do the blue and green progress circles mean?</strong>
+		<ul>
+			<li>The blue progress circle is the playback progress indicator.</li>
+			<li>The green progress circle is the download progress indicator.</li>
+		</ul>
+		<p>&nbsp;</p>
+		
+		<a name="q160712c"></a><strong>What are the blue and green numbers displayed in the Podcasts tab?</strong>
+		<ul>
+			<li>The blue number is the total unplayed episode count.</li>
+			<li>The green number is the number of the recent episodes retrieved since the last time you have opened the podcast.<br />
+				This number will be reset to zero once you open the podcast to view its episode list.</li>
+		</ul>
+		<p>&nbsp;</p>
+		
+		<a name="q123456a"></a><strong>How to set up to check for new episodes automatically?</strong><br />
+		By default this app will check for podcast update every three hours. If you want to set up a different update checking interval or disable the auto checking completely, you can do that through the <a href="#q173402b">app settings</a>.</p>
+	<ol>
+		<li>Swipe to right from the left edge of the screen to open the <a href="#q171209a">side navigation menu</a></li>
+		<li>Click the <strong>Settings</strong> to open the app settings screen</li>
+		<li>Go to the <strong>Podcasts</strong> settings</li>
+		<li>Click <strong>Update podcasts</strong> setting and select an option from the list</li>
+	</ol>
+	<p>&nbsp;</p>
+	
+	<a name="q971945c"></a><strong>Why my podcast doesn&#8217;t get updated?</strong><br />
+	You know there are new episodes being published but this app doesn&#8217;t get those new episodes. Well, this 
+	is very likely that there&#8217;s a publishing date typo/error in the podcast&#8217;s
+	RSS feed. This app uses the publishing date of each episode as the key indicator of whether
+	it is a new episode to be retrieved or an old episode to be discarded. Sometimes,
+	however, the publishing date of some episodes will be wrong because of typo or whatever
+	reasons. If that wrong publishing date is months later than current date, it will
+	prevent this app from updating the podcast, as all episodes before that wrong date will be
+	discarded as false &#8220;older&#8221; episode. In this case, the quickest way to make this app
+	to update the podcast again is to <a href="#q1605021">reset the episode data</a>
+	<p>&nbsp;</p>
+	
+	<a name="q190325b"></a><strong>What are the chapters?</strong><br />
+	<strong>Chapters</strong> or bookmarks as called by some other apps are notes to specific points in the timeline of an audio or video file. They are especially useful for lengthy episode. You can click on the chapter to start playing from that specific position in the timeline.
+	<p>Some podcast publishers may add the chapters info into the podcast media file. In that case, this app will extract them and display them to you. This app can also take the chapters info in the podcast show notes if that's detected. Users can also add chapters manually.</p>
+	<p>&nbsp;</p>
+	
+	<a name="q935117a"></a><strong>How to access the individual podcast settings?</strong>
+	<ul>
+		<li>Go to the Podcasts tab</li>
+		<li>Tap the podcast name to open the podcast</li>
+		<li>Click the Settings button on the screen to open the individual podcast settings</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q010311d"></a><strong>What is Episode unique criteria?</strong><br />
+	Episode unique criteria is the criteria used to identify an episode uniquely. This episode unique criteria is used to prevent duplicated episodes fetched from the podcast feed. Many podcast publishers assign a global unique ID (GUID) to an episode to identify each episode uniquely. However, that&#8217;s not required by the podcast feed RSS standard. Some podcast publishers don&#8217;t use GUID at all. Instead they use episode url or episode publishing date or episode title as an unique way to identify an episode.
+	<p>By default, this app will try to detect the unique criteria used in the podcast feed and remove the duplicated episodes from the podcast feed. It should work fine most of the time. In case the auto detected unique criteria doesn&#8217;t work and duplicated episodes do happen, you can go to the <a href="#q935117a">individual podcast settings</a> to set this episode unique criteria manually.</p>
+	<p>&nbsp;</p>
+	
+	<a name="q1605021"></a><strong>What does Reset episodes do?</strong><br />
+	Episode data will be cached locally by this app in the app database when they are retrieved from the podcast server. Reset episodes will discard the episode data cached in the database and rebuild from the podcast server again. This is useful in case the cached episode data get corrupted due to<br />
+	various reasons or have errors in the episode data.
+	<p>&nbsp;</p>
+	
+	<a name="q323226a"></a><strong>How does the auto download work?</strong><br />
+	The auto download option can be turned on from either in <a href="#q173402b">app settings</a> page or fine tuned for each podcast in the <a href="#q935117a">individual podcast settings</a>. Once turned on, the auto download service will run in the background and automatically download <b>most recent</b> <b>episodes</b> it finds for you periodically.
+	<p>Most recent <b>episodes</b> are the new episodes since the podcast was viewed last time.</p>
+	<ul>
+		<li>Notice: If your device is rebooted, you need to start this app first to get the auto download service started again.</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q323233a"></a><strong>Can I turn on/off the auto download for certain podcasts?</strong><br />
+	Yes, the auto download feature can be fine tuned for each podcast through the <a href="#q935117a">individual podcast settings</a>. The <a href="#q935117a">individual podcast settings</a> will override the system&#8217;s settings.</li>
+<p>&nbsp;</p>
+
+	<a name="q180517a"></a><strong>What is Smart download?</strong><br />
+	With <strong>Smart download</strong> enabled, this app will automatically download up to x number of newer and unplayed episodes from the current playing podcast whenever you start playing an episode. This feature is very useful if you have a large backlog or if you like to play
+	the episodes in the chronological order. When you start playing an episode from date X, the app will start downloading the newer episodes (X+1, X+2...) in the background so you can continue to play those newer episodes offline when current episode X finishes!
+<p>&nbsp;</p>
+
+<a name="q553233a"></a><strong>What is Keep download?</strong><br />
+For <a href="#q935117a">individual podcast settings</a>, this is the max number of download will be kept for each podcast. If new episode is added to the download list and it exceeds this cap, the oldest downloaded file will be deleted automatically.
+<p>&nbsp;</p>
+
+<a name="q663233a"></a><strong>How to save downloads to SD card?</strong><br />
+Please go to the <a href="#q173402b">app settings</a> and set the download location to use SD card under <strong>Downloads</strong> settings.
+<p>&nbsp;</p>
+
+<a name="q663777a"></a><strong>Why the download is paused for Wi-Fi?</strong><br />
+By default, this app will download with Wi-Fi connection only. If Wi-Fi is not available, the download will pause and resume when the Wi-Fi is available.
+<p>&nbsp;</p>
+
+<a name="q190325c"></a><strong>Why the download is paused for battery low while it's plugged for charging?</strong><br />
+Android system will send out battery <strong>LOW</strong> warning if the battery level goes below 15%. However, Android system will not send out battery <strong>OK</strong> till the battery level goes above 20% later. 
+As a result if the download is paused for battery low it won't be resumed even you have the device plugged in till the Android system reaches battery <strong>OK</strong> state.
+<p>&nbsp;</p>
+
+<a name="q863777a"></a><strong>Can I download over 3G or 4G data connection?</strong><br />
+Yes, please turn off Download With Wi-Fi only in <a href="#q173402b">app settings</a>.
+<p>&nbsp;</p>
+
+<a name="q160802b"></a><strong>What does the download failed message mean?</strong><br />
+<ul>
+	<li>URL could not be found: <em>The podcast to be downloaded is not available on the server. Most likely the podcast has been removed by the podcast publisher or it is not accessible from your Internet connection.</em></li>
+	<li>Insufficient space: <em>Not enough free space available in your storage.</em></li>
+	<li>Failed: <em>Unknown error has happened during the downloading.</em></li>
+</ul>
+<p>&nbsp;</p>
+
+<a name="q993777a"></a><strong>Can I resume a failed download?</strong><br />
+Yes, long press the failed download item in the downloads screen will bring up a menu, select Redownload from the menu will download the item again.</li>
+<p>&nbsp;</p>
+
+<a name="q910777a"></a><strong>How to remove the download automatically after being played?</strong><br />
+<ol>
+	<li>Open <a href="#q173402b">app settings</a></li>
+	<li>Go under <strong>Episodes</strong> settings</li>
+	<li>Turn on <strong>Delete the download</strong> when an episode is 100% played</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q1605022"></a><strong>How can I save a podcast permanently?</strong><br />
+If you like to keep a copy of a podcast permanently, please download the podcast first and then export the downloaded podcast to a folder on your device. The exported podcast file will be saved to use its podcast title as the file name. The export podcast feature can be accessed in various screens. Long press the items in the <strong>Downloads</strong> tab or <a href="#q170909a">overflow menu</a> in the <strong>Playing</strong> screen.
+<p>&nbsp;</p>
+
+<a name="q910117a"></a><strong>Why do I get duplicated downloads?</strong><br />
+This app uses a complicated algorithm to detect the episode unique criteria used in the podcast feed to remove duplicated episodes. However, this auto detection may fail sometimes, which results in duplicated episodes are retrieved as new episodes and get downloaded. In the case the auto detecting of episode unique criteria fails, it is recommended to set this criteria in the <a href="#q935117a">individual podcast settings</a> manually.
+<p>Read more on <a href="#q010311d">What is Episode unique criteria?</a></p>
+<p>&nbsp;</p>
+
+<a name="q931117a"></a><strong>Is there any way to know whether an episode has been downloaded?</strong><br />
+Once the download is completed the download button will change to a check mark to indicate the download has been completed.
+<p>&nbsp;</p>
+
+<a name="q181016a"></a><strong>How to move the download directory to a new location?</strong><br />
+Open <a href="#q173402b">app settings</a> and go into Downloads settings. Click on the <strong>Download location</strong> setting to select a new directory. The app will then move existing downloads from current download directory to the selected directory automatically. No need to move the downloads manually. Please make sure you have enough space to put all existing download files in the new location.
+<p>&nbsp;</p>
+
+<a name="q927326c"></a><strong>Why my audio podcast is played as video?</strong><br />
+On some devices the podcast media format may not be detected correctly. In that case please go to the <a href="#q935117a">individual podcast settings</a> and set the media type manually.
+<p>&nbsp;</p>
+
+<a name="q347326c"></a><strong>Can I play a video podcast as audio only?</strong><br />
+Please go to the <a href="#q935117a">individual podcast settings</a> and set the media type to be Audio, that will force the app to play the video podcast as audio only.
+<p>&nbsp;</p>
+
+<a name="q1605023"></a><strong>Why does the playback stop after certain (x) minutes in the background?</strong><br />
+This typically happens if you have the battery saving or optimization enabled in your Android settings. Please try disabling the battery saving or excluding this app from the optimization in your Android settings. There are also some third party apps such as task/memory managing apps or anti-virus apps which can kill running apps in background. If you have those apps installed, please try adding this app to the whitelist so it won&#8217;t be killed by those apps.
+<p>&nbsp;</p>
+
+<a name="q181022a"></a><strong>The podcast volume is too low. Can I boost the audio output?</strong><br />
+Yes, audio boosting is supported in the app to boost the audio output. Please pull up the mini player at the bottom of the screen to expand it to a full screen player and then press the more button (three dots icon) to open the playback menu. Then select Audio effects & equalizer option 
+from the menu. You can enable the audio boost either for one podcast or all podcasts.
+<p>&nbsp;</p>
+
+<a name="q181023a"></a><strong>Does the app have a sleep timer to stop playing after X time?</strong><br />
+Yes, sleep timer is supported in the app. Please pull up the mini player at the bottom of the screen to expand it to a full screen player. The sleep timer is located on playback controls row.
+<p>&nbsp;</p>
+	
+<a name="q181024a"></a><strong>Can I schedule a time to play a podcast?</strong><br />
+Yes, you can use the alarm feature in this app to schedule a time to play selected podcast, radio station, or a playlist automatically.
+<p>&nbsp;</p>	
+
+<a name="q161022a"></a><strong>How to cast to Chromecast?</strong><br />
+Chromecast is supported in this app. The Chromecast icon will show up on the upper right corner of the <strong>Playing</strong> screen when any Chromecase device is detected.
+<p>&nbsp;</p>
+
+<a name="q190325a"></a><strong>What is Smart rewind?</strong><br />
+Smart rewind is a feature in this app which will rewind from 5 seconds to 60 seconds automatically depends on how long the playback has been paused or stopped. The longer the playback was paused or stopped the longer rewind time will be applied.
+<p>&nbsp;</p>
+
+<a name="q1605024"></a><strong>What are the play modes?</strong><br />
+Currently there are six play modes supported in this app:
+<ul>
+	<li>Playlist mode: plays all episodes in the same playlist or episode list in serial</li>
+	<li>Shuffle: plays all episodes in the same playlist or episode list but in a random order</li>
+	<li>Single play mode: play one single episode and then stop</li>
+	<li>Repeat episode: play the same episode repeatedly till it is stopped by user</li>
+	<li>Repeat playlist: play all episodes in the same playlist or episode list repeatedly till it is stopped by user</li>
+	<li>Priority mode: finish current episode and then switch to play the highest (non-empty) priority playlist</li>
+</ul>
+<p>Play mode setting is available in <strong>Media Player</strong> settings. Also, the current selected play mode will be displayed on top of the <strong>Up Next</strong> list in the <strong>Playing</strong> screen.</p>
+<p>&nbsp;</p>
+
+<a name="q161021d"></a><strong>Why does it start playing next episode automatically?</strong><br />
+<p>This app plays in playlist mode by default. That means it will continue to next episode automatically when current episode finishes. If you prefer to play a single episode and then stop, then please set the play mode to <strong>Single play</strong> mode.</p>
+<p>Read more on <a href="#q1605024">What are the play modes?</a></p>
+<p>&nbsp;</p>
+
+<a name="q935445c"></a><strong>Why it doesn&#8217;t start playing next episode automatically?</strong><br />
+<p>Please make sure the play mode is set to <strong>Playlist play mode</strong>.</p>
+<p>Read more on <a href="#q1605024">What are the play modes?</a></p>
+<p>&nbsp;</p>
+
+<a name="q9665d5d"></a><strong>How to play all episodes from a podcast from oldest to newest?</strong><br />
+Just open the podcast from the <strong>Subscriptions</strong> page. Clicking on any episode to start playing. The app will automatically queue all episode from old to new.
+<p>&nbsp;</p>
+
+<a name="q965645c"></a><strong>How to create a user playlist?</strong><br />
+This app supports multiple playlists, including user playlist(s).<br />
+The steps to create an user playlist:</p>
+<ol>
+	<li>Go to the <strong>Playlists</strong> tab</li>
+	<li>Open the <a href="#q170909a">overflow menu</a></li>
+	<li>Select <strong>Manage playlists</strong> button from the menu</li>
+	<li>Enter the new playlist name</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q977645c"></a><strong>How can I set episodes of a podcast always go to my selected playlist?</strong>
+<ol>
+	<li>Open the podcast from the <strong>Podcasts</strong> tab</li>
+	<li>Open the <a href="#q935117a">individual podcast settings</a></li>
+	<li>Click the <strong>Playlists</strong> setting and select one or multiple playlists</li>
+</ol>
+<p>Now all auto downloads of this podcast will go to the selected playlists automatically.</p>
+<p>&nbsp;</p>
+
+<a name="q147642e"></a><strong>How does the Up Next list work?</strong><br />
+The <strong>Up Next</strong> list serves as the play queue in the app. This play queue is a dynamic queue which will update itself automatically when switching to a new playlist or new episodes are added to the playlist or ordering in the playlist has been changed. For example, you go to the <strong>Playlists</strong> tab and tap episode in the &#8220;playlist A&#8221; to start playing. Then, the <strong>Up Next</strong> list will be populated with all episodes from &#8220;playlist A&#8221;.
+<p>Later, you go to the <strong>Downloads</strong> tab and tap episode in the <strong>Downloads</strong> list to start playing. Now, the <strong>Up Next</strong> list will be populated with all episodes from the <strong>Downloads</strong> list. Also, when the episode ordering is changed in the playlist, that change will be synced to the <strong>Up Next</strong> list automatically. You don&#8217;t need to do anything manually to update the play queue.</p>
+<p>&nbsp;</p>
+
+<a name="q177642e"></a><strong>How does the playlist work?</strong><br />
+In this app any episode list can be played as a playlist. You can click the episode in the episode list to start playing. The episode list will then be populated to the <strong>Up Next</strong> list.
+<p>There are two types of playlists based on the features supported:</p>
+<ul>
+	<li>Full featured playlist: the playlists created in the <strong>Playlists</strong> tab</li>
+	<li>Simple playlist: all the other episode lists in the app</li>
+</ul>
+A <strong>priority</strong> value can be assigned to a playlist. When playing with <strong>Priority</strong> mode, after current episode finishes the player will automatically switch to play the highest (non-empty) priority playlist.
+<p>&nbsp;</p>
+
+<a name="q920945c"></a><strong>How to sync data between devices?</strong><br />
+You can create an account or use your Google account to sign in to start syncing between devices. Once you have signed in your account, your subscriptions (podcast &amp; radio), episode playback state and favorite state will be synced automatically. Currently the syncing will use any available network connections (mobile or WiFi) to do the real time syncing. Please go to the <a href="#q173402b">app settings</a> and then login your account under <strong>Sync between devices</strong> settings.
+<p>&nbsp;</p>
+
+<a name="q170430a"></a><strong>What data are synced between devices?</strong><br />
+Currently the data will be synced between devices are: your subscriptions (podcasts and radio stations), episode playback progress, and episode favorite marks.
+<p>&nbsp;</p>
+
+<a name="q920921c"></a><strong>How to transfer app data to another device?</strong><br />
+If you want to be able to pick up the playback progress from another device, the easiest way to do is to set up the syncing between devices, see <a href="#q920945c">how to sync data between devices</a> for details.
+<p>If you like to transfer all app data to another device, the easiest way to do is to use the Backup &amp; Restore feature.</p>
+<p>Want to set up the syncing? You still can transfer the app data to another device. Just create a backup of the app data and then copy that backup file to another device, then restore from the backup. Downloaded files are not included in the app data backup.</p>
+<p>&nbsp;</p>
+
+<a name="q922921c"></a><strong>How to transfer downloaded podcast files to another device and get recognized by this app?</strong><br />
+Suppose you want to transfer downloaded podcast files from device A to device B, please follow the steps below to get the downloaded podcasts to be recognized by this app on device B:
+<ol>
+	<li>Start the app on device A</li>
+	<li>Go to <a href="#q173402b">app settings</a> > <strong>Backup & Restore</strong> > <strong>Backup</strong> to create a backup of the app data on device A</li>
+	<li>Copy the app data backup file to device B</li>
+	<li>Create a new directory on device B</li>
+	<li>Copy the downloaded podcast files from device A to this newly created directory on device B</li>
+	<li>Start the app on device B</li>
+	<li>Follow the <a href="#q160903d">Restore app data</a> instructions to restore from the backup of the app data on device B</li>
+	<li>Go to <a href="#q173402b">app settings</a> > <strong>Downloads</strong> to set up the download directory on device B</li>
+	<li>Go to the Downloads tab and open the <a href="#q170909a">overflow menu</a></li>
+	<li>Select <strong>Import downloads</strong></li>
+	<li>Select the directory where you have the podcast files copied from device A.</li>
+</ol>
+<p>Wait for the importing to finish. You can delete the copied podcast files once verifying the downloads are recognized again.</p>
+<p>&nbsp;</p>
+
+<a name="q160903d"></a><strong>How to restore app data from backups?</strong><br>
+	    <ol>
+			<li>With your Android device powered on, connect it to a computer's USB port.</li>
+			<li>In Windows Explorer (or the Mac equivalent) select the Android device and then its internal storage.</li>
+			<li>Open the backup directory. You can find where the backup directory is under the <strong>Backup & Restore</strong> settings. Copy these files to a location on your PC, as a backup precaution.</li>
+			<li>Locate the download directory and copy all the files to a location on your PC, as a backup precaution.</li>
+			<li>Start Podcast Republic, go to <a href="#q173402b">app settings</a> > <strong>Downloads</strong> to set up the download location.</li>
+			<li>Locate your download directory on your device. If the directory is empty, connect your Android device to the PC again. Copy the downloaded podcast files from your PC to the download directory on your Android device.</li>
+			<li>Start Podcast Republic, go to <a href="#q173402b">app settings</a> > <strong>Backup & Restore</strong> > <strong>Restore</strong>.</li>
+			<li>Locate the backup directory.</li>
+			<li>Open this directory and locate the most recent backup file. They are named "backup_YYYYMMDDHHMM.zip" based on the date and time when the backup was taken.</li>
+			<li>Long press the most recent backup file and then tap the <strong>Select</strong> button.  This will recover all of your subscriptions, played/unplayed lists, favorites, etc.</li>
+			<li>Depending on when the backup was taken, you may be missing some recent activity.  You will need to manually add any subscriptions that were added after your most recent backup was taken.</li>
+			<li>For any episodes that you have played since your most recent backup was taken, you will need to find the episode, tap the "..." next to it and select "Set Played" to mark it as already played.</li>
+			<li>If you marked any episodes as favorites (using the star) after the most recent backup was taken, you will need to manually mark those as favorites again from memory.</li>
+		</ol>
+<p>&nbsp;</p>
+
+<a name="q181015a"></a><strong>How can I backup a downloaded podcast file?</strong><br />
+If you like to keep a copy of the download podcast you can use the <strong>Export episode</strong> feature in the app. The Export episode feature will export the downloaded podcast file to your selected location and use the episode title as the file name.
+The <strong>Export episode</strong> feature can be accessed from multiple places. The easiest way is to go to the <strong>Downloads</strong> tab and then long press a download. Then select <strong>Export episode</strong> option from the context menu.
+<p>&nbsp;</p>
+
+<a name="q922331c"></a><strong>Why YouTube video podcasts are not downloadable?</strong><br />
+It is Google&#8217;s policy that YouTube videos should not be downloaded.</li>
+<p>&nbsp;</p>
+
+<a name="q943331c"></a><strong>Why artworks are not displayed for some podcasts?</strong><br />
+Artwork will be displayed for the podcast if it has one. The artworks are cached locally. However the cache may get cleared somehow. In case the podcast artwork is not displayed, try refreshing the podcast. This app will try to cache the artwork again.
+<p>&nbsp;</p>
+
+<a name="q160909d"></a><strong>How to enable Debug log?</strong><br />
+If you notice any bug in this app you can enable the <strong>Debug log</strong> and send the debug log back to the developer. To enable the <strong>Debug log</strong>, please open the <a href="#q173402b">app settings</a> and then go under the <strong>About</strong> page. Tap on the <strong>Debug log</strong> to enable it. After you have the <strong>Debug log</strong> option enabled, please use this app as normal and wait till the bug is reproduced. After the bug is reproduced, go to the <strong>About</strong> page in the <a href="#q173402b">app settings</a> again and tap the <strong>Report bug</strong> button to send the debug log. At any time, you can go to the <strong>About</strong> page to disable the debug log.
+	<p>&nbsp;</p>
+	
+	<a name="q173402b"></a><strong>How to open app settings?</strong><br />
+	The app settings can be opened from the <a href="#q171209a">side navigation menu</a>.
+	<p>&nbsp;</p>
+	
+	<a name="q171209a"></a><strong>What is the side navigation menu?</strong><br />
+	The side menu is the navigation menu opened from the left or right side of the screen for mobile screens.<br />
+	<p>The menu can be opened in two ways:</p>
+	<ul>
+		<li>Click on the menu button (three lines icon) on the title bar</li>
+		<li>Swipe to right from the left edge of the screen; or swipe to left from the right edge of the screen if <strong>Right hand operation</strong> is enabled</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q170909a"></a><strong>What is the overflow menu?</strong><br />
+	The overflow menu is a three dots button on Android platform. Click on this three dots button will open a menu.
+	<p>&nbsp;</p>
+
+	<a name="q191025a"></a><strong>Why the app doesn't update or stop playing when the app goes to background or is closed?</strong><br />
+	This is mostly due to the battery optimization features built into the Android system. Please go to your Android Settings to turn off the battery optimization for this app.
+	The exact settings can vary from device to device. Typically you can look for those Settings in the following locations:
+	<ul>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Battery usage</b> > <b>Battery optimization</b>. Please make sure this option is set to <b>Not optimized</b>.</li>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Battery usage</b> > <b>Background restriction</b>. Please make sure this option is set to <b>App can use battery in background</b>.</li>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Battery</b> > <b>Allow background activity</b>. Please make sure this option is checked.</li>
+		<li><b>Android Settings</b> > <b>Device care</b> > <b>Battery</b> > <b>App usage</b> > <b>Put this app to sleep when it's not in use</b>. Please make sure this option is turned off.</li>
+	</ul>
+	Please check out this website <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a> for more info.
+	<p>&nbsp;</p>
+	
+	<a name="q200909a"></a><strong>Can I control the playback through third party apps such as Tasker?</strong><br />
+	Yes, controlling the playback through third party apps such as Tasker is supported.<br><br>
+
+   <b>Supported playback actions</b>:
+   <ul>
+   	<li>podcastrepublic.playback.action.forward</li>
+   	<li>podcastrepublic.playback.action.rewind</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
+   	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.pause</li>
+   </ul>
+   <b>Package name</b>: com.itunestoppodcastplayer.app<br>
+   <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver
+	<p>&nbsp;</p>
+	
+	<script>
+		// When the user scrolls down 20px from the top of the document, show the button
+		window.onscroll = function() {scrollFunction()};
+		
+		function scrollFunction() {
+		    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		        document.getElementById("myBtn").style.display = "block";
+		    } else {
+		        document.getElementById("myBtn").style.display = "none";
+		    }
+		}
+		
+		// When the user clicks on the button, scroll to the top of the document
+		function topFunction() {
+		    document.body.scrollTop = 0;
+		    document.documentElement.scrollTop = 0;
+		}
+	</script>
+</body>
+</html>

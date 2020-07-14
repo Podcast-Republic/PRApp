@@ -1068,11 +1068,15 @@
     <string name="animate_items_when_loading_into_list">Animar itens ao carregar lista</string>
     <string name="failed_to_update_podcast_s">Falha ao atualizar podcast: %s</string>
     <string name="reset_password">Redefinir senha</string>
-    <string name="account_already_exists_please_login_with_the_email_and_password_">Account already exists, please login with the email and password.</string>
-    <string name="sleep_timer_is_on_">Sleep timer is on!</string>
-    <string name="advanced_options">Advanced</string>
+    <string name="account_already_exists_please_login_with_the_email_and_password_">A conta já existe, por favor entre com o seu email e senha.</string>
+    <string name="sleep_timer_is_on_">Modo sleep ligado!</string>
+    <string name="advanced_options">Avançado</string>
     <string name="auto_start_sleep_timer">Auto start</string>
     <string name="auto_pause_sleep_timer">Auto pause</string>
-    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Pausar automaticamente o modo sleep enquanto a reprodução estiver pausada.</string>
     <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="_d_db">%1$d dB</string>
+    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automatically turn on sleep timer when start playing between the selected time [%1$s - %2$s].</string>
+    <string name="schedule_sleep_time">Schedule sleep time</string>
+    <string name="error_start_time_and_end_time_can_not_be_same_">Error: \"Start time\" and \"End time\" can not be same!</string>
 </resources>

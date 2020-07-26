@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_list">
+        <item> Albanien </item>
+        <item> Algeriet </item>
+        <item> Angola </item>
+        <item> Anguilla </item>
+        <item> Argentina </item>
+        <item> Armenien </item>
+        <item> Australien </item>
+        <item> Österrike </item>
+        <item> Azerbajdzjan </item>
+        <item> Bahamas </item>
+        <item> Bahrain </item>
+        <item> Belgien </item>
+        <item> Bolivia </item>
+        <item> Brasilien </item>
+        <item> Kambodja </item>
+        <item> Kanada </item>
+        <item> Chile </item>
+        <item> Kina </item>
+        <item> Colombia </item>
+        <item> Costa Rica </item>
+        <item> Kroatien </item>
+        <item> Cypern </item>
+        <item> Tjeckien </item>
+        <item> Danmark </item>
+        <item> Ecuador </item>
+        <item> Egypten </item>
+        <item> Finland </item>
+        <item> Frankrike </item>
+        <item> Tyskland </item>
+        <item> Grekland </item>
+        <item> Hong Kong </item>
+        <item> Ungern </item>
+        <item> Island </item>
+        <item> Indien </item>
+        <item> Indonesien </item>
+        <item> Irland </item>
+        <item> Israel </item>
+        <item> Italien </item>
+        <item> Jamaica </item>
+        <item> Japan </item>
+        <item> Jordanien </item>
+        <item> Kazakstan </item>
+        <item> Kenya </item>
+        <item> Korea </item>
+        <item> Kuwait </item>
+        <item> Kirgizistan </item>
+        <item>Lettland</item>
+        <item>Litauen</item>
+        <item> Luxemburg </item>
+        <item> Macau </item>
+        <item> Malaysia </item>
+        <item> Mexiko </item>
+        <item> Mongoliet </item>
+        <item> Nederländerna </item>
+        <item> Nya Zeeland </item>
+        <item> Norge </item>
+        <item> Pakistan </item>
+        <item> Peru </item>
+        <item> Filippinerna </item>
+        <item> Polen </item>
+        <item> Portugal </item>
+        <item> Qatar </item>
+        <item> Rumänien </item>
+        <item> Ryssland </item>
+        <item> Saudiarabien </item>
+        <item>Serbien</item>
+        <item> Singapore </item>
+        <item> Slovakien </item>
+        <item> Slovenien </item>
+        <item> Sydafrika </item>
+        <item> Spanien </item>
+        <item> Sri Lanka </item>
+        <item> Sverige </item>
+        <item> Schweiz </item>
+        <item> Taiwan </item>
+        <item> Tadzjikistan </item>
+        <item> Thailand </item>
+        <item> Tunisien </item>
+        <item> Turkiet </item>
+        <item> Ukraina </item>
+        <item> Förenade Arabemiraten </item>
+        <item> Storbritannien </item>
+        <item> USA </item>
+        <item> Venezuela </item>
+        <item> Vietnam </item>
+    </string-array>
+
+    <string name="pref_auto_delete_played_summary">Radera spelade avsnitt automatiskt från nedladdningslistan</string>
+    <string name="pref_downloadLocation">Spara till:</string>
+    <string name="downloads">Sparade</string>
+    <string name="jump_to_next_episode">Spara aktuell tidpunkt</string>
+    <string name="jump_to_the_end">Markera som färdigspelad</string>
+    <string name="delete_download">Ta bort fil</string>
+    <string name="pause_download">Pausa hämtning</string>
+    <string name="resume_download">Återuppta hämtning</string>
+    <string name="delete">Ta bort</string>
+    <string name="now_playing">Spelas nu</string>
+    <string name="stop">Stopp</string>
+    <string name="pause">Paus</string>
+    <string name="favorite">Favorit</string>
+    <string name="favorites">Favoriter</string>
+    <string name="whats_new">Nyheter</string>
+    <string name="more">Visa mer</string>
+    <string name="unplayed">Ospelade</string>
+    <string name="played">Färdigspelade</string>
+    <string name="country_text">Land/Region</string>
+    <string name="organize_podcasts">Lägg till taggar osv</string>
+    <string name="add_podcasts">Lägg till podcast</string>
+    <string name="add_a_podcast_by_url">Lägg till podcast via länk</string>
+    <string name="all">Alla</string>
+    <string name="arts">Konst</string>
+    <string name="business">Business</string>
+    <string name="comedy">Humor</string>
+    <string name="education">Kunskap</string>
+    <string name="games">Spel och hobbies</string>
+    <string name="government">Myndigheter och organisationer</string>
+    <string name="health_fitness">Hälsa</string>
+    <string name="kids">Barn och familj</string>
+    <string name="music">Musik</string>
+    <string name="news">Nyheter och politik</string>
+    <string name="region">Religion och andlighet</string>
+    <string name="science">Vetenskap och medicin</string>
+    <string name="society">Kultur och samhälle</string>
+    <string name="sports">Sport och fritid</string>
+    <string name="tech">Teknik</string>
+    <string name="tv">TV och Film</string>
+    <string name="title">Titel</string>
+    <string name="provider">Utgivare</string>
+    <string name="image_url">Länk till bild</string>
+    <string name="items_in_red_are_required_">Rödmarkerade fält är obligatoriska.</string>
+    <string name="cancel">Avbryt</string>
+    <string name="add">Lägg till</string>
+    <string name="publisher">Utgivare</string>
+    <string name="description_of_podcast">Beskrivning av podcasten</string>
+    <string name="description">Beskrivning</string>
+    <string name="play">Spela</string>
+    <string name="share">Dela</string>
+    <string name="add_to_playlist">Lägg till i spellista</string>
+    <string name="end_editing_mode">Redigerat färdigt</string>
+    <string name="download_selection_s_">Hämta valda</string>
+    <string name="add_selection_s_to_playlist">Lägg till val i spellista</string>
+    <string name="set">Ställ in</string>
+    <string name="remove_selection_s_from_download_list">Ta bort vald(a) från listan med nedladdningar</string>
+    <string name="no_episode_selected">Inget valt</string>
+    <string name="set_played">Markera som spelad</string>
+    <string name="set_unplayed">Markera som ospelad</string>
+    <string name="delete_episode">Ta bort avsnitt</string>
+    <string name="One_episode_has_been_added_to_playlist">Ett avsnitt har lagts till i spellistan</string>
+    <string name="episodes_have_been_added_to_playlist">"%1$d avsnitt har lagts till i spellistan"</string>
+    <string name="One_episode_has_been_added_to_downloads">Ett avsnitt ska hämtas</string>
+    <string name="episodes_have_been_added_to_downloads">"%1$d avsnitt ska hämtas"</string>
+    <string name="download_episode_not_found">Det hämtade avsnittet hittades inte</string>
+    <string name="yes">Ja</string>
+    <string name="ok">OK</string>
+    <string name="no">Nej</string>
+    <string name="close">Stäng</string>
+    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Hämtad [%1$s] hittades inte. Vad vill du göra åt det?"</string>
+    <string name="episode_downloading">Hämtas</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="settings">Anpassa</string>
+    <string name="remove_ad">Köp bort reklam</string>
+    <string name="playlists">Spellistor</string>
+    <string name="there_is_no_podcast_playing">Inget spelas nu.</string>
+    <string name="press_again_to_exit">Tryck där igen för att stänga.</string>
+    <string name="paused">Pausad</string>
+    <string name="stopped_on_error">Stoppades pga fel</string>
+    <string name="error_downloaded_file_not_found">Fel: hittar inte hämtad fil</string>
+    <string name="stopped">Stoppad</string>
+    <string name="completed">Klar</string>
+    <string name="export_completed_s">Exporten färdig: %1$s</string>
+    <string name="import_completed">Importen färdig</string>
+    <string name="no_wifi_available">Inget WiFi!</string>
+    <string name="tag">Etikett</string>
+    <string name="updating">Uppdaterar</string>
+    <string name="preparing">Förbereder…</string>
+    <string name="error_no_wifi">Error: Inget WiFi</string>
+    <string name="auto_download">Autohämtning</string>
+    <string name="playing">Spelas nu</string>
+    <string name="subscriptions">Prenumerationer</string>
+    <string name="help_faqs">Hjälp / FAQs</string>
+    <string name="next">Nästa</string>
+    <string name="file_date">Datum</string>
+    <string name="publishing_date">Publiceringsdatum</string>
+    <string name="sort_manually">Manuellt</string>
+    <string name="Update_podcasts">Uppdatera podcaster</string>
+    <string name="sort_by">Sortera efter…</string>
+    <string name="last_updated_time">Senast uppdaterad</string>
+    <string name="most_recent_count">Senaste tillägg</string>
+    <string name="total_unplayed_count">Totalt antal ospelade</string>
+    <string name="refresh">Uppdatera</string>
+    <string name="stream">Streama</string>
+    <string name="remove">Ta bort</string>
+    <string name="redownload">Hämta igen</string>
+    <string name="download_all">Hämta allt</string>
+    <string name="download_all_d_episodes">Hämta alla %1$d avsnitt?</string>
+    <string name="display">Visa</string>
+    <string name="when_i_press_next_button">Vid tryck på "nästa"</string>
+    <string name="background_play">Spela i bakgrunden</string>
+    <string name="user_interface">Utseende</string>
+    <string name="show_descriptions">Visa beskrivning</string>
+    <string name="update_on_start">Uppdatera vid start</string>
+    <string name="media_player">Mediaspelare</string>
+    <string name="download_location">Hämtningsmål</string>
+    <string name="change_log">Change log</string>
+    <string name="view_what_s_new_in_this_version">Nyheter i den här versionen</string>
+    <string name="version">Version</string>
+    <string name="about">Om</string>
+    <string name="action_s">"Åtgärd: %1$s."</string>
+    <string name="action">"Åtgärd"</string>
+    <string name="download_only_when_connected_to_wifi">Hämta endast via WiFi</string>
+    <string name="add_to_new_tag">Skapa ny etikett</string>
+    <string name="enter_new_tag_name">Skriv etikettens namn</string>
+    <string name="car_mode">Billäge</string>
+    <string name="update_artwork">Uppdatera bild</string>
+    <string name="enter_new_artwork_url">Lägg till ny bild-URL</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="last_updated_s">"Senaste uppdatering: %1$s"</string>
+    <string name="fast_forward">Spola framåt</string>
+    <string name="fast_rewind">Spola bakåt</string>
+    <string name="play_pause">Spela/Pausa</string>
+
+    <string name="none">Inget</string>
+    <string name="sort_asc">Sortera stigande</string>
+    <string name="sort_desc">Sortera fallande</string>
+
+    <string name="undo_delete">Ångra ta bort</string>
+    <string name="language">Språk</string>
+
+    <string name="equalizer">Equalizer</string>
+    <string name="sort">Sortera</string>
+    <string name="continue_">Fortsätt</string>
+    <string name="delete_from_playlists">Ta bort från spellista</string>
+    <string name="keep_in_playlists">Behåll i spellista</string>
+    <string name="remember_the_choice">Kom ihåg valet</string>
+    <string name="when_deleting_a_download">När hämtning tas bort</string>
+    <string name="all_episodes">Allt</string>
+    <string name="latest_d_episodes">Senaste %d avsnitten</string>
+    <string name="system_default">System default</string>
+    <string name="every_one_hour">Varje timme</string>
+    <string name="every_three_hours">Var tredje timme</string>
+    <string name="every_six_hours">Var sjätte timme</string>
+    <string name="every_half_day">Två gånger om dagen</string>
+    <string name="every_day">Dagligen</string>
+    <string name="every_three_days">Var tredje dag</string>
+    <string name="manually">Manuellt</string>
+    <string name="newest_first">Nyast först</string>
+    <string name="oldest_first">Äldst först</string>
+    <string name="on">På</string>
+    <string name="off">Av</string>
+    <string name="stop_sleep_timer">Av</string>
+
+    <string-array name="ui_theme_text">
+        <item>All White</item>
+        <item>Vit</item>
+        <item>Röd</item>
+        <item>Rosa</item>
+        <item>Lila</item>
+        <item>Mörklila</item>
+        <item>Indigo</item>
+        <item>Blå</item>
+        <item>Ljusblå</item>
+        <item>Cyan</item>
+        <item>Blågrön</item>
+        <item>Grön</item>
+        <item>Ljusgrön</item>
+        <item>Brungul</item>
+        <item>Orange</item>
+        <item>Mörkorange</item>
+        <item>Blågrå</item>
+        <item>Grå</item>
+        <item>AMOLED Black</item>
+    </string-array>
+
+    <string name="theme">Färgschema</string>
+
+    <string name="skip_beginning">Hoppa över början</string>
+    <string name="time_display_second_short_format">sek</string>
+    <string name="search_episode_title">Sök avsnitt</string>
+    <string name="search_episodes">Sök avsnitt</string>
+    <string name="widgets">Widgets</string>
+    <string name="background_transparency">Genomskinlighet</string>
+    <string name="low">Låg</string>
+    <string name="high">Hög</string>
+    <string name="gesture_sensitivity">Känslighet för gester</string>
+    <string name="view_library_as">Visa som…</string>
+    <string name="list_view">Lista</string>
+    <string name="grid_view">Rutnät</string>
+
+    <string name="playlist_mode">Spelliste-läge</string>
+    <string name="single_play_mode">Spela enstaka avsnitt</string>
+    <string name="s_has_been_added_to_subscription">"%1$s prenumereras nu"</string>
+    <string name="audio_not_started_yet">Uppspelning inte startad</string>
+    <string name="manage_playlist">Hantera spellistor</string>
+    <string name="download">Download</string>
+    <string name="fast_forward_time">Tid för snabbspolning framåt</string>
+    <string name="fast_rewind_time">Tid för snabbspolning bakåt</string>
+    <string name="play_stop">Play/Stop</string>
+
+    <string name="buttons">Knappar</string>
+    <string name="when_lost_audio_focus">När ljudet tillfälligt avbryts</string>
+    <string name="lower_audio_volume">Sänk volymen</string>
+    <string name="pause_the_playback">Pausa spelning</string>
+    <string name="rewind_5_seconds">Spola tillbaka 5 sekunder</string>
+    <string name="repeat">Repeat</string>
+    <string name="keep_downloads">Behåll hämtning</string>
+    <string name="when_deleting_from_playlist">När filen tas bort från spellistan</string>
+    <string name="search">Sök</string>
+    <string name="edit">Redigera</string>
+    <string name="time_display_minute_short_format">min</string>
+    <string name="keep_screen_on">Håll skärmen aktiv</string>
+
+    <string name="backup_restore">Backup och återställning</string>
+    <string name="backup">Backup</string>
+    <string name="restore_settings_database">Återställ inställningar och databas</string>
+    <string name="restore">Återställ</string>
+    <string name="erase_data_and_restore_from_backup_">Rensa data och återställ från backup?</string>
+    <string name="restore_successful">Återställning lyckades</string>
+    <string name="restore_failed">Återställningen misslyckades</string>
+    <string name="backup_successful_s">Säkerhetskopiering lyckades: %1$s</string>
+    <string name="backup_failed_">Säkerhetskopiering misslyckades!</string>
+    <string name="when_headset_bluetooth_disconnected">När headset/Bluetooth kopplas från</string>
+
+    <string name="volume">Volym</string>
+    <string name="add_a_virtual_podcast">Lägg till virtuell podcast</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Skapa en "virtuell podcast" genom att markera en mapp på din enhet. Alla mediafiler som läggs i mappen importeras som ett nytt avsnitt. Du kan lägga till eller ta bort filer ur mappen senare.</string>
+    <string name="location">Plats</string>
+    <string name="select_a_directory">Välj en mapp på din enhet</string>
+    <string name="data_wifi_usage">Data- och WiFi-användning</string>
+    <string name="download_via_wifi_only">Tillåt hämtning endast via WiFi</string>
+    <string name="feed_updates_via_wifi_only">Uppdatera flödet via WiFi</string>
+    <string name="update_podcasts_only_when_connected_to_wifi">Hämta endast flödesuppdatering via WiFi</string>
+    <string name="mark_all_as_played">Markera alla som lyssnade</string>
+    <string name="playback_mode">Uppspelningsläge</string>
+    <string name="display_on_lock_screen">Avaktivera på låsskärm</string>
+    <string name="display_artwork_on_lock_screen_when_playing">Visa mediaspelaren som låsskärmswidget vid uppspelning</string>
+    <string name="there_are_no_episodes_">Inga avsnitt!</string>
+    <string name="podcast_feed_url">Feed URL</string>
+    <string name="no_podcast_found_">Hittade ingen podcast!</string>
+    <string name="find_podcast">Hitta Podcast</string>
+    <string name="authentication">Authentication</string>
+    <string name="http">HTTP</string>
+    <string name="password">Lösenord</string>
+    <string name="username">Användarnamn</string>
+    <string name="new_episodes_available">Nytt avsnitt tillgängligt</string>
+    <string name="notifications">Notifications</string>
+    <string name="podcast">Podcast</string>
+    <string name="send_email_">Send email…</string>
+    <string name="bass_boost">Bass Boost</string>
+    <string name="media_type">Mediatyp</string>
+    <string name="auto_detect">Identifiera automatiskt</string>
+    <string name="audio">Ljud</string>
+    <string name="video">Video</string>
+    <string name="account_and_syncing">Synka mellan enheter (via Dropbox)</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="update_on_charging">Uppdatera endast flödet vid batteriladdning</string>
+    <string name="update_podcasts_only_when_battery_is_charging">Hämta endast nya podcaster när batteriet laddas</string>
+    <string name="filename">Filnamn</string>
+    <string name="auto_backup_saved_to_">"Automatisk backup sparad till: [%1$s]"</string>
+    <string name="download_removed">Hämtning borttagen</string>
+    <string name="load_artworks_only_when_connected_to_wifi">Hämta bilder via WiFi</string>
+    <string name="load_artwork_via_wifi_only">Hämta endast bilder via WiFi</string>
+    <string name="when_pressing_episode_in_list">Vid klick på avsnitt</string>
+    <string name="start_playing">Börja spela automatiskt</string>
+    <string name="display_episode_artwork">Visa avsnittets bild</string>
+    <string name="ringtone">Signal</string>
+    <string name="vibrate">Vibrera</string>
+    <string name="light">LED-lampa</string>
+    <string name="remove_all">Ta bort alla</string>
+    <string name="auto_delete_played_episode_from_playlists">Radera spelade avsnitt automatiskt från spellistan</string>
+    <string name="new_episode_notification">Ny episod aviseras</string>
+    <string name="download_on_charging">Hämta vid batteriladdning</string>
+    <string name="start_downloading_only_when_battery_is_charging">Hämta endast när batteriet laddas</string>
+    <string name="add_a_youtube_podcast">Lägg till YouTube podcast</string>
+    <string name="channels">Kanaler</string>
+    <string name="channel_id">Kanal ID</string>
+    <string name="playlist_id">Spellista ID</string>
+    <string name="when_deleting_an_episode">När avsnitt tas bort</string>
+    <string name="also_remove_from_downloads_amp_playlists">Ta även bort från Hämtningar &amp; Spellistor</string>
+    <string name="remove_episode_only">Ta bara bort avsnittet</string>
+    <string name="mark_episode_as_played">Markera som spelad</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">Markera avsnittet som spelat om jag spelat mer än %1$d%%</string>
+    <string name="download_episode">Hämta avsnitt</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">Börja hämtning när avsnittet läggs till i en spellista</string>
+    <string name="history">Spelhistorik</string>
+    <string name="podcast_keep_download_limit_reached_">Gränsen för antal sparade avsnitt är nådd!</string>
+    <string name="auto_download_filter">Filter för autohämtning</string>
+    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">Filtrera avsnitt för autohämtning. (Kräver att autohämtning är aktiverat)</string>
+    <string name="keep_favorite_episodes">Behåll favoriter</string>
+    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">Ta aldrig bort favoriter automatiskt</string>
+    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">Hittade undermapp, skapa ny virtuell podcast för varje mapp?</string>
+    <string name="import_sub_directory">Importera undermapp</string>
+    <string name="failed_downloads">Hämtning misslyckades</string>
+    <string name="chapters">Kapitel</string>
+    <string name="no_chapter_marks_found">Hittade ingen kapitelindelning</string>
+    <string name="keep_latest_n_downloads">Behåll senaste %1$d avsnitt</string>
+    <string name="keep_all_downloads">Behåll alla avsnitt</string>
+    <string name="playback_controls">Uppspelningsknappar</string>
+    <string name="playback_controls_maximum_three_in_notification_">Uppspelningsknappar i aviseringsfältet (max 3): </string>
+    <string name="hide_played_podcasts">Dölj spelade avsnitt</string>
+    <string name="pause_downloads">Pausa hämtning</string>
+    <string name="has_keywords_in_title">Har sökord i titeln</string>
+    <string name="previous">Föregående</string>
+    <string name="bluetooth_headset_key_mapping">Mappa knappar för Bluetooth/headset</string>
+    <string name="button">Knapp</string>
+    <string name="and">Och</string>
+    <string name="screen_size">Displaystorlek</string>
+    <string name="original_size">Originalstorlek</string>
+    <string name="auto_fit">Passa automatiskt</string>
+    <string name="stretch">Sträck</string>
+    <string name="fit_width">Anpassa till vidd</string>
+    <string name="fit_height">Anpassa till höjd</string>
+    <string name="search_podcasts">Sök podcast</string>
+    <string name="reset_episodes">Återställ avsnitt</string>
+    <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">OBS! Återställ avsnittsdata tar bort hämtade avsnitt för denna podcast!</string>
+    <string name="copy_url">Copy URL</string>
+    <string name="view_episode">Visa avsnitt</string>
+    <string name="episode_url_has_been_copied_to_clipboard">Kopierade avsnittets länk</string>
+    <string name="dim_screen">Dimma displayen</string>
+    <string name="keep_screen_always_on">Behåll displayen på</string>
+    <string name="completed_downloads">Hämtning färdig</string>
+    <string name="top_charts">Topplistor</string>
+    <string name="browse_top_charts">Bläddra bland topplistor</string>
+    <string name="in_minutes">Om %1$d minuter</string>
+    <string name="when_current_episode_ends">När avsnittet är slut</string>
+    <string name="add_chapter">Lägg till kapitelindelning</string>
+    <string name="time">Tid</string>
+    <string name="filter_name">Filter</string>
+    <string name="podcasts">Podcaster</string>
+    <string name="playing_state">Uppspelningsläge</string>
+    <string name="only_include_favorited_episodes">Ta bara med favoriter</string>
+    <string name="download_status">Status för hämtning</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">Om uppspelningsfel uppstår, spela nästa avsnitt</string>
+    <string name="continue_on_error">Fortsätt vid uppspelningsfel</string>
+    <string name="downloading">Hämtar</string>
+    <string name="failed">Misslyckade</string>
+    <string name="select_all">Välj alla</string>
+    <string name="export_download">Exportera avsnittet</string>
+    <string name="export_downloads">Exportera avsnittet</string>
+    <string name="edit_episode_filter">Anpassa filter</string>
+    <string name="done">Klar</string>
+    <string name="move_selections_to_top">Flytta vald(a) överst</string>
+    <string name="move_selections_to_bottom">Flytta vald(a) nederst</string>
+    <string name="downloaded">Hämtat</string>
+    <string name="do_not_check">Kolla inte</string>
+    <string name="dont_download_episode">Hämta inte avsnittet</string>
+    <string name="match_all_keywords">Matcha alla sökord</string>
+    <string name="match_any_of_the_keywords">Matcha något av sökorden</string>
+    <string name="download_episode_if_matching_all_keywords_s">"Hämta avsnitt som innehåller alla sökord: %1$s."</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_s">"Hämta avsnitt som innehåller något av sökorden: %1$s."</string>
+    <string name="dont_download_episode_if_matching_all_keywords_s">"Hämta inte avsnitt som innehåller alla sökord: %1$s."</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Hämta inte avsett som innehåller något av sökorden: %1$s."</string>
+    <string name="keywords">Sökord</string>
+    <string name="enter_keywords">Skriv sökord</string>
+    <string name="restoring_">Återställer…</string>
+    <string name="creating_backup_">Skapar backup…</string>
+    <string name="resume_downloads">Fortsätt hämta</string>
+    <string name="delete_episode_and_download_">Ta bort avsnitt och hämtning?</string>
+    <string name="clear_playlist">Rensa spellista</string>
+    <string name="clear_current_playlist_">Rensa aktuell spellista?</string>
+    <string name="enter_playlist_name">Spellistans namn</string>
+    <string name="podcast_exported_to_">"Podcast exporterad till: [%1$s]"</string>
+    <string name="search_not_found">Hittades inte</string>
+    <string name="_is_not_found_add_this_podcast_">"[%1$s] hittades inte. Lägg till Podcast?”</string>
+    <string name="episode_publishing_date">Avsnittets publiceringsdatum</string>
+    <string name="episode_guid">Avsnitts-GUID</string>
+    <string name="episode_unique_criteria">Avsnittets unika villkor</string>
+    <string name="episode_url">Avsnittets länk</string>
+    <string name="episode_title">Avsnittets titel</string>
+    <string name="export_history">Exportera historik</string>
+    <string name="notes">Anteckningar</string>
+    <string name="playback_history">Spelhistorik</string>
+    <string name="edit_notes">Redigera anteckningar</string>
+    <string name="generated_by_s_app">Skapad av %1$s </string>
+    <string name="auto_backup">Automatisk backup</string>
+    <string name="double_tap_to_play_or_pause">Dubbelklicka för att spela eller pausa</string>
+    <string name="swipe_up_to_play_next_in_playlist">Dra uppåt för att spela nästa i spellistan</string>
+    <string name="swipe_to_left_to_fast_rewind">Dra åt vänster för att spola tillbaka</string>
+    <string name="swipe_to_right_to_fast_forward">Dra åt höger för att spola framåt</string>
+    <string name="swipe_down_to_stop">Dra ner för att stoppa</string>
+    <string name="remove_subscription_to_">"Ta bort prenumerationen på: [%1$s]"</string>
+    <string name="data_roaming">Data roaming</string>
+    <string name="allow_to_download_with_data_services_when_roaming">Hämta via mobildata vid roaming</string>
+    <string name="up_next">Kommande avsnitt</string>
+    <string name="episode_info">Avsnittsinformation</string>
+    <string name="no_more_episodes_to_play_from_playlist_s_">Inga fler avsnitt i spellistan [%1$s]</string>
+    <string name="apply_this_change_to_all_podcasts_">Tillämpa för alla podcaster?</string>
+    <string name="grid_size">Storlek för rutnät</string>
+    <string name="play_pause_double_click">Spela/Pausa genom dubbelklick</string>
+    <string name="total_episodes">Totalt avsnitt</string>
+    <string name="duration">Längd</string>
+    <string name="browse_downloads">Bläddra bland hämtningar</string>
+    <string name="browse_by_playlist">Bläddra bland spellistor</string>
+    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Nollställ avsnitt’ kommer att ta bort cacheade avsnitt och återskapa dem från podcastens flöde.</string>
+    <string name="right_hand_operation">Högerhandsläge</string>
+    <string name="open_menu_drawer_on_the_right_side">Öppnar menyn till höger istället för vänster</string>
+    <string name="go_to_podcast">Visa aktuell podcast</string>
+    <string name="there_are_no_podcasts_">Inga avsnitt!</string>
+    <string name="no_podcasts_selected">Inget valt</string>
+    <string name="enjoy_podcast_republic">Gillar du Podcast Republic?</string>
+    <string name="please_tell_us_how_we_re_doing">Ge oss feedback.</string>
+    <string name="rate_us_in_the_play_store">Betygsätt i Play Store</string>
+    <string name="no_thanks">Nej tack</string>
+    <string name="select_an_image_on_device">Välj bild från enhet</string>
+    <string name="youtube_type">YouTube Type</string>
+    <string name="scanning_">Scanning…</string>
+    <string name="playback_speed">Uppspelningshastighet</string>
+    <string name="keep_playing">Spela som vanligt</string>
+    <string name="play_from_position">Spela från position</string>
+    <string name="report_a_bug">Rapportera bug</string>
+    <string name="import_export_opml">Importera/Exportera OPML</string>
+    <string name="import_from_opml_file">Importera OPML</string>
+    <string name="export_to_opml_file">Exportera OPML</string>
+    <string name="episodes">Avsnitt</string>
+    <string name="episode_s_is_still_downloading_can_not_play_it">Avsnittet [%1$s] hämtas fortfarande och kan inte spelas upp ännu.</string>
+    <string name="error_episode_still_downloading">Error: avsnittet hämtas fortfarande</string>
+    <string name="disabled">Avstängd</string>
+    <string name="click_to_open_full_screen_player_view">Dra mig uppåt för att visa helskärmsspelaren! </string>
+    <string name="keep_latest_x_downloads_for_each_podcast">Behåll senaste %1$d hämtningar för varje podcast</string>
+    <string name="radio_stations">Radiostationer</string>
+    <string name="radios">Radios</string>
+    <string name="stations">Stationer</string>
+    <string name="connection_failed">Anslutning misslyckades</string>
+    <string name="search_stations">Sök station</string>
+    <string name="add_a_station_by_url">Lägg till station med länk</string>
+    <string name="radio_stream_url_is_required_">Det behövs en länk till radioströmmen!</string>
+    <string name="radio_title_is_required_">Det behövs en titel!</string>
+    <string name="_is_not_found_add_this_station_">"[%1$s] hittades inte, lägg till med länk?”</string>
+    <string name="debug_log">Debug log</string>
+    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">Om ingen bild väljs, kommer en bild från den virtuella podcastens mapp att användas som standardbild.</string>
+    <string name="select">Välj</string>
+    <string name="no_schedule_available">Inget tillgängligt schema</string>
+    <string name="browse_by_subscriptions">Bläddra bland prenumerationer</string>
+    <string name="browse_by_radio_stations">Bläddra bland radiostationer</string>
+    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">Ingen WiFi-anslutning, uppdateringen avbröts.</string>
+    <string name="pull_to_refresh">Dra för att uppdatera</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">Dra spellistan neråt för att uppdatera</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">Dra hämtningslistan neråt för att uppdatera</string>
+    <string name="auto_rotate_screen">Rotera skärmen</string>
+    <string name="screen_orientation">Skärmriktning</string>
+    <string name="portrait">Stående</string>
+    <string name="landscape">Liggande</string>
+    <string name="drag_the_handler_to_sort_manually">Dra i handtaget till höger för att sortera manuellt</string>
+    <string name="streaming">Streamar</string>
+    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">Skriv in användarnamn och lösenord om podcasten kräver detta. Annars inte.</string>
+    <string name="can_not_play_ps">"Kan inte spela: %1$s"</string>
+    <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+    <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
+    <string name="percent_played">%1$d%% spelat</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Dra prenumerationslistan nedåt för att uppdatera</string>
+    <string name="actions">Åtgärd</string>
+    <string name="when_an_episode_is_100_played">"När ett avsnitt är 100% spelat"</string>
+    <string name="delete_the_download">Ta bort fil</string>
+    <string name="keep_the_download">Behåll hämtning</string>
+    <string name="shake_your_device">Skaka enheten</string>
+    <string name="shake_device_to_control_playback">Skaka enheten för att styra uppspelning</string>
+    <string name="sensitivity">Känslighet</string>
+    <string name="gestures">Gester</string>
+    <string name="user_agreement">User Agreement</string>
+    <string name="multi_thread_download">Tillåt flera nedladdningar samtidigt</string>
+    <string name="recents">Nyligen</string>
+    <string name="group_by_podcasts">Gruppera efter podcast</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Lägg till i följande spellista</string>
+    <string name="compact_view">Kompaktläge</string>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="can_not_play_the_downloaded_file">Kunde inte spela hämtad fil</string>
+    <string name="can_not_play_the_local_file">Kunde inte spela filen</string>
+    <string name="audio_loudness_boost">Audio loudness boost</string>
+    <string name="apply_to_all_podcasts">Använd för alla podcaster</string>
+    <string name="audio_effects_and_equalizer">Ljudeffekter &amp; equalizer</string>
+    <string name="episode_info_short">Avsnittsinfo (kort)</string>
+    <string name="episode_info_full">Avsnittsinfo (hela)</string>
+    <string name="twitter">Twitter</string>
+    <string name="storage_usage">Lagringsnivå</string>
+    <string name="sync_now">Synka nu</string>
+    <string name="stream_url">Strömmens länk</string>
+    <string name="fm_am_frequency">FM/AM frekvens</string>
+    <string name="genre">Genre</string>
+    <string name="city_state">Ort</string>
+    <string name="sign_in">Login</string>
+    <string name="sign_out">Logout</string>
+    <string name="syncing_started">Synk påbörjad</string>
+    <string name="account_logged_in_s"><![CDATA[Account logged in: <i>%1$s</i>]]></string>
+    <string name="sync_subscriptions_and_episode_playback_progress">Synka prenumerationer och uppspelningsposition</string>
+    <string name="schedule_auto_backup_every_d_days">Schemalägg backup var %1$d dag</string>
+    <string name="keep_most_recent_d_auto_backups">Behåll de senaste %1$d automatiska backuperna</string>
+    <string name="save_auto_backup_to_s">Spara automatisk backup till: %1$s</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">Aktivera automatisk backup för appinställningar och databas</string>
+    <string name="schedule_backup">Schemalägg backup</string>
+    <string name="backups_to_keep">Behåll dessa backuper</string>
+    <string name="import_subscriptions_from_an_opml_file">Importera prenumerationer från en OPML-fil</string>
+    <string name="export_subscriptions_to_an_opml_file">Exportera prenumerationer till en OPML-fil</string>
+    <string name="create_a_backup_of_app_settings_and_database">Gör en backup på appinställningar och databas</string>
+    <string name="restore_app_settings_and_database_from_selected_backup">Återställ appinställningar och databas från vald backup</string>
+    <string name="save_to">Spara till</string>
+    <string name="buy_me_a_coffee">Bjud mig på en fika!</string>
+    <string name="clear_the_play_history_">Rensa spelhistoriken?</string>
+    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">När lagringsnivån eller “behåll antal hämtningar” är nådd och hämtning rensas bort:</string>
+    <string name="keep_all">Behåll allt</string>
+    <string name="playlist">Spellista</string>
+    <string name="category">Kategori</string>
+    <string name="update_podcasts_when_app_is_starting">Updatera podcaster när appen öppnas</string>
+    <string name="unknown_station">Okänd station</string>
+    <string name="can_not_cast_youtube_videos_to_chromecast_">Kan tyvärr inte casta YouTube härifrån till ChromeCast (prova YouTube-appen)!</string>
+    <string name="add_a_playlist">Lägg till spellista</string>
+    <string name="add_to_tag">Lägg till etikett</string>
+    <string name="add_to_default_playlists">Lägg till i standardspellista(/or)</string>
+    <string name="add_to_selected_playlists">Lägg till i aktuell spellista</string>
+    <string name="delete_selected_episodes_">Vill du ta bort dessa avsnitt?</string>
+    <string name="you_have_no_completed_downloads">Det finns inga färdiga hämtningar.</string>
+    <string name="you_have_no_pending_downloads">Det finns inga pågående hämtningar.</string>
+    <string name="all_good_">Allt bra &#9786;</string>
+    <string name="there_are_no_episodes_in_this_playlist">Det finns inga avsnitt i spellistan.</string>
+    <string name="no_play_history_found">Hittade ingen spelhistorik.</string>
+    <string name="set_playlists">Välj spellista</string>
+    <string name="mark_all_as_read">Markera alla som lyssnade/lästa</string>
+    <string name="not_in_use">Används ej</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">Pull down episodes list to start podcast update checking</string>
+    <string name="mark_all_previous_episodes_as_played">Mark all previous episodes as played</string>
+    <string name="remove_favorite">Remove favorite</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Mark all episodes published earlier than this episode [%1$s] as played?</string>
+    <string name="exporting">Exporting</string>
+    <string name="add_s_minutes">Add %1$d minutes</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="updating_podcasts">Updating podcasts</string>
+    <string name="skip_ending">Skip ending</string>
+    <string name="skip_the_beginning_d_seconds">Skip the beginning %d seconds</string>
+    <string name="skip_the_ending_d_seconds">Skip the ending %d seconds</string>
+    <string name="no_user_notes_found">No user notes found.</string>
+    <string name="no_episode_description_found">No episode description found.</string>
+    <string name="set_episode_s_as_played_">Set episode [%s] as played?</string>
+    <string name="or">Or</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">Up Next list has been updated to play from: %s</string>
+    <string name="do_a_full_syncing_will_take_much_longer_to_finish">Do a full syncing. Will take much longer to finish.</string>
+    <string name="buy_me_a_coffee_message">If you enjoy using Podcast Republic app and you would like to support the development, you can buy me a cup of coffee. Thanks!</string>
+    <string name="maybe_later">Maybe later</string>
+    <string name="sign_up">Sign up</string>
+    <string name="download_state_idle">Väntar på att påbörja hämtning</string>
+    <string name="download_state_fetching_url">Letar efter något att hämta</string>
+    <string name="download_state_connecting">Ansluter</string>
+    <string name="download_state_downloading">Hämtar</string>
+    <string name="download_state_completed">Klart!</string>
+    <string name="download_state_paused_network_unavailable">Pausad i väntan på nätverket</string>
+    <string name="download_state_failed_incorrect_file_received">Misslyckades: fel fil mottagen.</string>
+    <string name="download_state_paused_by_request">Hämtningen pausades</string>
+    <string name="download_state_paused_wifi_unavailable">Pausad: ingen WiFi-anslutning</string>
+    <string name="download_state_paused_wifi_disabled">Pausad: WiFi är avstängt</string>
+    <string name="download_state_paused_roaming">Pausad: du är på ett roaming-nätverk</string>
+    <string name="download_state_paused_waiting_to_retry">Pausad: kommer att försöka igen</string>
+    <string name="download_state_paused_sdcard_unavailable">Pausad: SD-kortet otillgängligt</string>
+    <string name="download_state_paused_need_battery_charging">Pausad: batteriet laddas inte</string>
+    <string name="download_state_failed_fetching_url">Misslyckades eftersom länken inte hittades</string>
+    <string name="download_state_failed_sdcard_full">Misslyckades eftersom minneskortet är fullt</string>
+    <string name="download_state_failed_cancelled">Avbröts</string>
+    <string name="download_state_failed">Misslyckades</string>
+    <string name="download_state_failed_storage_is_not_accessible">Misslyckades eftersom lagringen inte är tillgänglig</string>
+    <string name="error_storage_is_not_accessible">Misslyckades eftersom lagringen inte är tillgänglig</string>
+    <string name="moving_downloads">Moving downloads</string>
+    <string name="moving_download_from_1s_to_2s">Moving download from [%1$s] to [%2$s].</string>
+    <string name="invalid_opml_file_selected_">Invalid opml file selected!</string>
+    <string name="podcast_title_can_not_be_empty_">Podcast title can not be empty!</string>
+    <string name="podcast_url_can_not_be_empty_">Podcast URL can not be empty!</string>
+    <string name="show_podcast_title">Show podcast title</string>
+    <string name="hide_podcast_title">Hide podcast title</string>
+    <string name="no_download_directory_prompt_message">You have not set up the podcast download directory yet. Set up now?</string>
+    <string name="at_least_one_playlist_is_required_">At least one playlist is required!</string>
+    <string name="manage_tags">Manage tags</string>
+    <string name="episode_filters">Episode filters</string>
+    <string name="manage_episode_filters">Manage episode filters</string>
+    <string name="episode_filter">Episode filter</string>
+    <string name="browse_by_episode_filters">Bläddra med anpassat filter</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">Syncing account login failed, please try logging in again.</string>
+    <string name="filter">Filter</string>
+    <string name="view_all_episodes">View all episodes</string>
+    <string name="view_finished_episodes">View finished episodes</string>
+    <string name="view_unfinished_episodes">View unfinished episodes</string>
+    <string name="playback_progress">Playback progress</string>
+    <string name="display_playback_progress_in_notification_s">Display playback progress in notification: %s</string>
+    <string name="you_have_subscribed_to_s">You have subscribed to: %s</string>
+    <string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">Oops, no podcasts found! You can press the (+) button on the title bar to add podcasts.</string>
+    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">Add a YouTube channel or playlist as a podcast.</string>
+    <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Set up a virtual podcast to play music or audiobooks on your device.</string>
+    <string name="click_to_adjust_playback_speed">Click to adjust playback speed</string>
+    <string name="click_to_set_up_sleep_timer">Click to set up sleep timer</string>
+    <string name="click_to_view_more_options_">Click to view more options…</string>
+    <string name="click_to_select_playback_mode">Click to select playback mode</string>
+    <string name="percetage_value">%d%%</string>
+    <string name="select_episodes">Select episodes</string>
+    <string name="select_episodes_from_last_d_days">Select episodes from last %d days</string>
+    <string name="select_episodes_from_all_dates">Select episodes from all dates</string>
+    <string name="selected_tags_s">Selected tags: %s</string>
+    <string name="selected_podcasts_s">Selected podcasts: %s</string>
+    <string name="unplayed_less_than_d_played">Unplayed (&lt; %d%% played)</string>
+    <string name="played_greater_than_d_played">Played (&gt;= %d%% played)</string>
+    <string name="unfinished_less_than_100_played">Unfinished (&lt; 100% played)</string>
+    <string name="finished_100_played">Finished (100% played)</string>
+    <string name="restore_defaults">Restore defaults</string>
+    <string name="at_least_one_episode_filter_is_required_">At least one episode filter is required!</string>
+    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">The following directories are not accessible. Please reset in the Settings.\n%s</string>
+    <string name="_download_location">- Download location</string>
+    <string name="_auto_backup_location">- Auto backup location</string>
+    <string name="clean_up">Clean up</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">The following files are found in the download directory but not linked to any downloads. You can remove them by pressing the \"Clean up\" button.</string>
+    <string name="tags">Tags</string>
+    <string name="casting">Casting</string>
+    <string name="chapter_d">Chapter #%d</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Please don\'t close the app when it is restoring the data. It will restart when all data are restored.</string>
+    <string name="playback_paused_on_muted_volume_">Playback paused on muted volume!</string>
+    <string name="number_of_episodes_to_auto_download">Number of episodes to auto download</string>
+    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Automatically download up to %1$d most recent episodes when new episodes are retrieved</string>
+    <string name="notify_when_new_episodes_are_available">Notify when new episodes are available</string>
+    <string name="save_episode_list_to_html">Save episode list to HTML</string>
+
+    <string name="com_parse_ui_progress_dialog_text">Loading…</string>
+    <string name="com_parse_ui_forgot_password_button_label"><u>Forgot password</u></string>
+    <string name="com_parse_ui_email_input_hint">Email</string>
+    <string name="com_parse_ui_confirm_password_input_hint">Re-enter password</string>
+    <string name="com_parse_ui_create_account_button_label">Create account</string>
+    <string name="com_parse_ui_no_password_toast">Please enter your password</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">The username and password you entered don\'t match</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">Could not log in, please try again later</string>
+    <string name="com_parse_ui_password_too_short_toast">Password must be at least %1$d characters long</string>
+    <string name="com_parse_ui_username_taken_toast">Username is already taken, please choose a different one</string>
+    <string name="com_parse_ui_reenter_password_toast">Please re-enter your password</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">Passwords don\'t match, please try again</string>
+    <string name="com_parse_ui_no_email_toast">Please enter your email</string>
+    <string name="com_parse_ui_invalid_email_toast">Email is invalid, please correct it and try again</string>
+    <string name="com_parse_ui_email_taken_toast">Email is already taken, please reset your password instead</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">Could not sign up, please try again later</string>
+    <string name="com_parse_ui_login_help_instructions">Enter your email to recover your password</string>
+    <string name="com_parse_ui_login_help_email_input_hint">Email</string>
+    <string name="com_parse_ui_login_help_submit_button_label">Submit</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">Back to Login</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">Failed to request password reset, please try again</string>
+    <string name="com_parse_ui_login_help_email_sent">Please check your email for instructions on how to access your account</string>
+    <string name="connecting_">Connecting…</string>
+    <string name="syncing_episode_changes_s">Syncing episode changes: %s</string>
+    <string name="syncing_added_radio_subscriptions_d">Syncing added radio subscriptions: %d</string>
+    <string name="syncing_removed_radio_subscriptions_d">Syncing removed radio subscriptions: %d</string>
+    <string name="syncing_added_podcast_subscriptions_d">Syncing added podcast subscriptions: %d</string>
+    <string name="syncing_removed_podcast_subscriptions_d">Syncing removed podcast subscriptions: %d</string>
+    <string name="syncing_episode_changes_">Syncing episode changes…</string>
+    <string name="syncing_radio_subscription_changes_">Syncing radio subscription changes…</string>
+    <string name="syncing_podcast_subscription_changes_">Syncing podcast subscription changes…</string>
+    <string name="syncing">Syncing</string>
+    <string name="current_playlist">Current playlist</string>
+    <string name="continue_to_next_playlist">Continue to next playlist</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Continue to play next playlist after all episodes have been played in current playlist</string>
+    <string name="disable_manual_sorting">Disable manual sorting</string>
+    <string name="enable_manual_sorting">Enable manual sorting</string>
+    <string name="open">Open</string>
+    <string name="newest_unplayed">Newest unplayed</string>
+    <string name="apply_to_current_podcast">Apply to current podcast</string>
+    <string name="redownload_all_selected_episodes_">Redownload all selected episodes?</string>
+    <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">Download location is not accessible. Set up the download location now?</string>
+    <string name="insufficient_space_please_free_some_storage_space_">Insufficient space. Please free some storage space.</string>
+    <string name="show_last_updated_time">Show last updated time</string>
+    <string name="hide_last_updated_time">Hide last updated time</string>
+    <string name="delete_account">Delete account</string>
+    <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">You won\'t be able to login this account again! Continue to delete account?</string>
+    <string name="please_select_a_directory_to_save_the_auto_backups">Please select a directory to save the auto backups.</string>
+    <string name="download_completed">Download completed</string>
+    <string name="notify_when_an_episode_has_been_downloaded">Notify when an episode has been downloaded</string>
+    <string name="night_mode">Night mode</string>
+    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Automatically switching between light theme (day) and dark theme (night) based on the time of day</string>
+    <string name="repeat_episode">Repeat episode</string>
+    <string name="repeat_playlist">Repeat playlist</string>
+    <string name="alarms">Alarms</string>
+    <string name="sunday">Nedelja</string>
+    <string name="monday">Ponedeljek</string>
+    <string name="tuesday">Torek</string>
+    <string name="wednesday">Sreda</string>
+    <string name="thursday">Četrtek</string>
+    <string name="friday">Petek</string>
+    <string name="saturday">Sobota</string>
+    <string name="no_alarms_found_">No alarms found.</string>
+    <string name="allow_to_download_at_any_time">Allow to download at any time</string>
+    <string name="allow_to_download_between_selected_time">Allow to download between selected time</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="allowed_download_time">Allowed download time</string>
+    <string name="paused_waiting_for_allowed_download_time">Paused: waiting for allowed download time</string>
+    <string name="last_played_time">Last played time</string>
+    <string name="display_unplayed_episodes_on_top">Display unplayed episodes on top</string>
+    <string name="text_size">Text size</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">This is the text size zoomed to %d%%.</string>
+    <string name="_d_seconds">%d seconds</string>
+    <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">Continue to delete the selected virtual podcast files from your storage?</string>
+    <string name="show_played_date">Show played date</string>
+    <string name="edit_radio_station">Edit radio station</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="edit_chapter">Edit chapter</string>
+    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">Can not edit this chapter. Only user added chapters are editable.</string>
+    <string name="import_downloads">Import downloads</string>
+    <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">Import downloads from selected directory. This operation will only import podcast files which are downloaded by this app before.</string>
+    <string name="available_free_space_s">Available free space: %s</string>
+    <string name="playback">Playback</string>
+    <string name="background_services">Background services</string>
+    <string name="general_notifications">General notifications</string>
+    <string name="return_to_car_mode_">Return to car mode.</string>
+    <string name="android_wear">Android wear</string>
+    <string name="notification_background_theme_s">Notification background theme: %s</string>
+    <string name="turn_on_alarms">Turn on alarms</string>
+    <string name="turn_off_alarms">Turn off alarms</string>
+    <string name="play_as_audio_only">Play as audio only</string>
+    <string name="remove_downloads_from_unsubscribed_podcast_s_">Remove downloads from unsubscribed podcast: [%1$s]?</string>
+    <string name="report_bug_privacy_message"><![CDATA[By clicking <em>Report a bug</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="sign_up_privacy_and_terms_message"><![CDATA[By clicking <em>Create account</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="sign_in_privacy_and_terms_message"><![CDATA[By clicking <em>Sign in</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="automatically_turn_on_sleep_timer_when_playback_starts">Automatically turn on sleep timer when playback starts.</string>
+    <string name="syncing_data_only_when_connected_to_wifi_network">Syncing data only when connected to WiFi network</string>
+    <string name="syncing_via_wifi_only">Syncing via WiFi only</string>
+    <string name="total_downloaded_file_size_s">Total downloaded file size: %s</string>
+    <string name="featured">Featured</string>
+    <string name="polular">Popular</string>
+    <string name="select_episodes_from_today">Select episodes from today</string>
+    <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"We\'ve detected a crash in the app before. Would you like to send the crash report so we can fix the problem?"</string>
+    <string name="generating_bug_report_">Generating bug report…</string>
+    <string name="apply_to_all_radio_stations">Apply to all radio stations</string>
+    <string name="apply_to_current_radio_station">Apply to current radio station</string>
+    <string name="skip_silence">Skip silence</string>
+    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Auto download up to %d newer and unplayed episodes from current playing podcast</string>
+    <string name="smart_download">Smart download</string>
+    <string name="download_anyway">Download anyway</string>
+    <string name="download_anyway_message">Ignore the WiFi and battery settings, just download the episode with current network connection now! This may use your mobile data and battery. Continue?</string>
+    <string name="play_all_from_old_to_new">Play all from old to new</string>
+    <string name="delete_all_immediately">Delete all immediately</string>
+    <string name="deleted_downloads_will_be_removed_after_24_hours_">Deleted downloads will be removed after 24 hours.</string>
+    <string name="delete_immediately">Delete immediately</string>
+    <string name="delayed_deletion">Delayed deletion</string>
+    <string name="keep_the_downloaded_podcast_file_for_24_hours_after_being_deleted_">Keep the downloaded podcast file for 24 hours after being deleted.</string>
+    <string name="download_progress">Download progress</string>
+    <string name="be_the_first_to_write_a_review_">Be the first to write a review!</string>
+    <string name="write_a_review">Write a review</string>
+    <string name="my_review">My review</string>
+    <string name="your_name">Your name</string>
+    <string name="your_review">Your review</string>
+    <string name="a_podcast_republic_user">A Podcast Republic user</string>
+    <string name="report_spam_review">Report spam review</string>
+    <string name="report_inappropriate_review">Report inappropriate review</string>
+    <string name="reviews">Reviews</string>
+    <string name="submit">Submit</string>
+    <string name="deleted">Deleted</string>
+    <string name="file_size">File size</string>
+    <string name="play_next">Play next</string>
+    <string name="are_you_sure_to_clear_the_play_queue_">Are you sure to clear the play queue?</string>
+    <string name="clear">Clear</string>
+    <string name="remaining_time">Remaining time</string>
+    <string name="elapsed_time">Elapsed time</string>
+    <string name="paused_network_is_metered">Paused: network is metered</string>
+    <string name="download_date">Download date</string>
+    <string name="create_an_episode_filter">Create an episode filter</string>
+    <string name="play_time">Play time</string>
+    <string name="recently_played">Recently played</string>
+    <string name="play_all_newer_episodes">Play all newer episodes</string>
+    <string name="see_what_s_new_in_this_version_s">See what\'s new in this version: %s</string>
+    <string name="enabled_buttons_">Enabled buttons:</string>
+    <string name="bottom_navigation_bar">Bottom navigation bar</string>
+    <string name="play_bar">Play bar</string>
+    <string name="show_play_bar_when_app_starts">Show play bar when app starts</string>
+    <string name="can_not_edit_default_episode_filter_">Can not edit default episode filter!</string>
+    <string name="playlist_name">Playlist name</string>
+    <string name="priority">Priority</string>
+    <string name="higher_priority_playlist_will_be_played_first_">Higher priority playlist will be played first.</string>
+    <string name="view_podcast">View</string>
+    <string name="priority_d">Priority: %d</string>
+    <string name="stream_all">Stream all</string>
+    <string name="view_all_your_playlists">View all your playlists</string>
+    <string name="click_on_the_tab_again_to_view_all_your_playlists">Click on the tab again to view all your playlists</string>
+    <string name="edit_playlist">Edit playlist</string>
+    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">Click on the tab again to view all your podcast tags</string>
+    <string name="changing_the_play_mode_to_repeat_a_playlist_">Changing the play mode to repeat a playlist:</string>
+    <string name="_removing_from_playlist_on_played_will_be_disabled">- Removing from playlist on played will be disabled</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Removing downloaded podcast file on played will be disabled</string>
+    <string name="view_all_your_episode_filters">View all your episode filters</string>
+    <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Click on the tab again to view all your episode filters</string>
+    <string name="stop_playing_when_time_is_up">Stop playing when time is up</string>
+    <string name="sleep_timer_fired_stop_playing_">Sleep timer fired, stop playing!</string>
+    <string name="yes_sure">Yes, sure</string>
+    <string name="play_all_from_new_to_old">Play all from new to old</string>
+    <string name="smart_update">Smart update</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Check for new episodes after completing the newest episode in the podcast</string>
+    <string name="click_on_the_tab_again_to_view_download_actions">Click on the tab again to view download actions</string>
+    <string name="remember_volume_level">Remember volume level</string>
+    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Remember last played volume level and restore to it on playback starts</string>
+    <string name="metered_network">Metered network</string>
+    <string name="allow_to_download_over_metered_network">Allow to download over metered network</string>
+    <string name="respond_to_media_button">Respond to media button</string>
+    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">Allow to start playing on Bluetooth play command received while app is closed.</string>
+    <string name="remind_me_1_minute_less">Remind me (1 minute less)</string>
+    <string name="unread_count">Unread count</string>
+    <string name="newest_unread">Newest unread</string>
+    <string name="no_articles_selected_">No articles selected!</string>
+    <string name="_s_mark_all_articles_as_read_">[%1$s]: Mark all articles as read?</string>
+    <string name="mark_all_articles_as_read_">Mark all articles as read?</string>
+    <string name="mark_all_articles_published_earlier_than_this_article_s_as_read_">Mark all articles published earlier than this article [%1$s] as read?</string>
+    <string name="there_are_no_articles_">There are no articles.</string>
+    <string name="unreads_d">Unreads: %d</string>
+    <string name="total_articles_d">Total articles: %d</string>
+    <string name="rss_feed_url">RSS Feed URL</string>
+    <string name="check_rss_feed_update">Check RSS feed update</string>
+    <string name="_is_not_found_add_this_rss_feed_">[%1$s] is not found. Add this RSS feed by URL?</string>
+    <string name="add_a_rss_feed_by_url">Add a RSS feed by URL</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="new_articles_available">New RSS articles available</string>
+    <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">Wi-Fi is not available. Cancelling RSS feed update checking.</string>
+    <string name="add_rss_feeds">Add RSS feeds</string>
+    <string name="search_rss_feeds">Search RSS feeds</string>
+    <string name="reset_feed">Reset feed</string>
+    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">Reset feed will discard cached data and rebuild from the RSS feed!</string>
+    <string name="mark_all_previous_articles_as_read">Mark all previous articles as read</string>
+    <string name="unread">Unread</string>
+    <string name="rss_feeds">RSS feeds</string>
+    <string name="review_submitted_">Review submitted.</string>
+    <string name="add_radio_stations">Add radio stations</string>
+    <string name="radio_station">Radio station</string>
+    <string name="view_your_podcast_subscriptions">View your podcast subscriptions</string>
+    <string name="view_your_radio_subscriptions">View your radio subscriptions</string>
+    <string name="view_your_rss_feed_subscriptions">View your RSS feed subscriptions</string>
+    <string name="there_are_no_unplayed_episodes_">There are no unplayed episodes!</string>
+    <string name="there_are_no_played_episodes_">There are no played episodes!</string>
+    <string name="there_are_no_favorite_episodes_">There are no favorite episodes!</string>
+    <string name="there_are_no_downloaded_episodes_">There are no downloaded episodes!</string>
+    <string name="start_playing_and_go_to_now_playing">Start playing and go to Now Playing</string>
+    <string name="show_unplayed_recent_counters">Show unplayed/recent counters</string>
+    <string name="hide_unplayed_recent_counters">Hide unplayed/recent counters</string>
+    <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">No radio stations found. Press the Add (+) button to add a radio station.</string>
+    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">No RSS feeds found. Press the Add (+) button to add a feed.</string>
+    <string name="tag_radios">Tag radios</string>
+    <string name="episode">Episode</string>
+    <string name="edit_mode">Edit mode</string>
+    <string name="no_radio_stations_selected_">No radio stations selected!</string>
+    <string name="no_rss_feeds_selected_">No RSS feeds selected!</string>
+    <string name="hide_empty_feeds">Hide empty feeds</string>
+    <string name="tag_feeds">Tag feeds</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="mark_as_unread">Mark as unread</string>
+    <string name="article_url">Article URL</string>
+    <string name="summary">Summary</string>
+    <string name="download_state_paused_battery_low">Paused: battery low</string>
+    <string name="select_episodes_with_duration_greater_than_d_minutes">Select episodes with duration greater than %d minutes</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes">Select episodes with duration less than %d minutes</string>
+    <string name="short_time_unit_format_minute">Min</string>
+    <string name="hold_down_to_start_dragging">Hold down to start dragging</string>
+    <string name="swipe_right_action">Swipe right action</string>
+    <string name="stream_podcasts_via_wifi_only">Stream podcasts via Wi-Fi only</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Allow to stream podcasts only when Wi-Fi is connected</string>
+    <string name="stream_radios_via_wifi_only">Stream radios via Wi-Fi only</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Allow to stream radios only when Wi-Fi is connected</string>
+    <string name="history_and_stats">History &amp; Stats</string>
+    <string name="delete_downloads">Delete downloads</string>
+    <string name="keep_download">Keep download</string>
+    <string name="delete_episodes">Delete episodes</string>
+    <string name="priority_mode">Priority mode</string>
+    <string name="stats">Stats</string>
+    <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
+    <string name="since_s">Since: %s</string>
+    <string name="reset_stats">Reset stats</string>
+    <string name="display_latest_d_episodes">Display latest %d episodes</string>
+    <string name="find_rss_feed">Find RSS feed</string>
+    <string name="there_are_no_rss_feeds">There are no RSS feeds!</string>
+    <string name="got_it">Got it</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up Next list. As a result the Up Next will not be synced with the currently playing episode list or playlist.</string>
+    <string name="don_t_show_it_again">Don\'t show it again</string>
+    <string name="always_on">Always on</string>
+    <string name="always_on_amoled_black">Always on (AMOLED black)</string>
+    <string name="auto_switch">Auto switch</string>
+    <string name="auto_switch_amoled_black">Auto switch (AMOLED black)</string>
+    <string name="smart_rewind_on_resuming">Smart rewind on resuming</string>
+    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Automatically rewind %1$d to %2$d seconds when resuming the playback</string>
+    <string name="minimum_rewind_time_d_seconds">Minimum rewind time: %d seconds.</string>
+    <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
+    <string name="show_radio_station_title">Show station title</string>
+    <string name="hide_radio_station_title">Hide station title</string>
+    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
+    <string name="not_in_downloads_list">Not in Downloads list</string>
+    <string name="reversed_landscape">Reversed landscape</string>
+    <string name="reset_sleep_timer">Reset sleep timer</string>
+    <string name="toggle_playback_speed_on_off">Toggle playback speed on/off</string>
+    <string name="app_name">Podcast Republic</string>
+    <string name="dim_screen_but_keep_screen_responsive">Dim screen but keep screen responsive</string>
+    <string name="subscribe_on_podcast_republic">Subscribe on Podcast Republic</string>
+    <string name="there_are_no_episodes_with_notes_">There are no episodes with notes!</string>
+    <string name="there_are_no_deleted_episodes_">There are no deleted episodes!</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="remove_favorite_mark">Remove favorite mark</string>
+    <string name="persistent_play_bar">Persistent play bar</string>
+    <string name="keep_play_bar_displayed_after_playback_finishes">Keep play bar displayed after playback finishes</string>
+    <string name="rotate_by_podcasts">Rotate by podcasts</string>
+    <string name="search_in_all_podcasts">Search in all podcasts</string>
+    <string name="search_in_subscribed_podcasts">Search in subscribed podcasts</string>
+    <string name="search_by_podcast_title">Search by podcast title</string>
+    <string name="search_by_podcast_publisher">Search by podcast publisher</string>
+    <string name="all_podcasts">All podcasts</string>
+    <string name="my_podcasts">My podcasts</string>
+    <string name="fade_audio_out_2_minutes_less">Fade audio out (2 minutes less)</string>
+    <string name="keep_all_articles">Keep all articles</string>
+    <string name="keep_articles">Keep articles</string>
+    <string name="keep_articles_from_last_d_days">Keep articles from last %d days</string>
+    <string name="pref_download_location_select_prompt_message">You will be redirected to Android file manager. Please select a directory on internal storage or SD card to be used as the download location.</string>
+    <string name="review_wifi_only_prompt_message">Do you know this app uses WiFi only by default? You can turn off WiFi only if you have fast data connection. Do you want to review the WiFi only settings now?</string>
+    <string name="delete_virtual_podcast_file_from_storage_after_being_played">Delete virtual podcast file from storage after being played</string>
+    <string name="play_all">Play all</string>
+    <string name="remove_played_episode">Remove played episode</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">Remove the episode from playlist after being played</string>
+    <string name="apply_this_change_to_all_playlist_">Apply this change to all playlists?</string>
+    <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
+    <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
+    <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
+    <string name="_d_minutes">%d Minutes</string>
+    <string name="time_unit_minutes">Minutes</string>
+    <string name="greater_than">Greater than</string>
+    <string name="less_than">Less than</string>
+    <string name="has_duration">Has duration</string>
+    <string name="filter_episode_title">Filter episode title</string>
+    <string name="filter_episode_duration">Filter episode duration</string>
+    <string name="clear_the_recents_list_">Clear the Recents list?</string>
+    <string name="clear_the_list">Clear the list</string>
+    <string name="play_as_video">Play as video</string>
+    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Auto download up to %d older and unplayed episodes from current playing podcast</string>
+    <string name="select_all_below">Select all below</string>
+    <string name="select_all_above">Select all above</string>
+    <string name="ignore_articles_in_title">Ignore articles in title</string>
+    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignore articles (A, An, or The) in podcast title when sorting by title</string>
+    <string name="create_shortcut">Create shortcut</string>
+    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Allow to use mobile data and ignore battery restrictions when downloading episodes.</string>
+    <string name="show_play_next_episode_station_button">Show Play next episode/station button</string>
+    <string name="append_to_up_next">Append to Up next</string>
+    <string name="only_include_episodes_with_user_notes">Only include episodes with user notes</string>
+    <string name="description_preview">Description preview</string>
+    <string name="d_lines_of_text">%d lines</string>
+    <string name="mark_current_playback_position">Mark current playback position</string>
+    <string name="comma">", "</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Pick an image as the shortcut icon</string>
+    <string name="use_default_icon">Use default icon</string>
+    <string name="syncing_articles_">Syncing articles…</string>
+    <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
+    <string name="download_priority">Download priority</string>
+    <string name="pin_to_top">Pin to top</string>
+    <string name="unpin_from_top">Unpin from top</string>
+    <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
+    <string name="add_tags_to_podcasts">Add tags to podcast</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
+    <string name="podcast_artwork">Podcast artwork</string>
+    <string name="rss_feed_artwork">RSS feed artwork</string>
+    <string name="add_tags_to_rss_feed">Add tags to RSS feed</string>
+    <string name="_1s_2s_n">%1$s: %2$s\n</string>
+    <string name="_1s_2d_kbs_n">%1$s: %2$dKB/s\n</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="author">Author</string>
+    <string name="composer">Composer</string>
+    <string name="album_artist">Album artist</string>
+    <string name="year">Year</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="number_of_tracks">Number of tracks</string>
+    <string name="preview_notes">Preview notes</string>
+    <string name="preview_user_notes_in_list">Preview user notes in list</string>
+    <string name="extract_from_metadata">Extract from metadata</string>
+    <string name="use_filename">Use filename</string>
+    <string name="delete_played_episode">Delete played episode</string>
+    <string name="copy_files_to_download_directory">Copy files to download directory</string>
+    <string name="move_files_to_download_directory">Move files to download directory</string>
+    <string name="greater_than_d_minutes">&gt; %1$d minutes</string>
+    <string name="less__than_d_minutes">&lt; %1$d minutes</string>
+    <string name="jump_to_next_chapter">Jump to next chapter</string>
+    <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
+    <string name="true_crime">True crime</string>
+    <string name="leisure">Leisure</string>
+    <string name="fiction">Fiction</string>
+    <string name="genre_type_hisotry">History</string>
+    <string name="animations">Animations</string>
+    <string name="list_animation">List animation</string>
+    <string name="animate_items_when_loading_into_list">Animate items when loading into list</string>
+    <string name="failed_to_update_podcast_s">Failed to update podcast: %s</string>
+    <string name="reset_password">Reset password</string>
+    <string name="account_already_exists_please_login_with_the_email_and_password_">Account already exists, please login with the email and password.</string>
+    <string name="sleep_timer_is_on_">Sleep timer is on!</string>
+    <string name="advanced_options">Advanced</string>
+    <string name="auto_start_sleep_timer">Auto start</string>
+    <string name="auto_pause_sleep_timer">Auto pause</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
+    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="_d_db">%1$d dB</string>
+    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automatically turn on sleep timer when start playing between the selected time [%1$s - %2$s].</string>
+    <string name="schedule_sleep_time">Schedule sleep time</string>
+    <string name="error_start_time_and_end_time_can_not_be_same_">Error: \"Start time\" and \"End time\" can not be same!</string>
+    <string name="s1_colon_s2">%1$s: %2$s</string>
+    <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Apply audio effects to all podcasts and radio stations?</string>
+    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
+    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
+    <string name="website">Website</string>
+    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
+    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
+    <string name="auto_load_last_played_episode">Auto load last played episode</string>
+    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
+</resources>

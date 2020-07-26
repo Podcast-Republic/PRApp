@@ -1,0 +1,1094 @@
+<resources>
+    <string-array name="country_list">
+        <item>Albaania </item>
+        <item>Alžeeria </item>
+        <item>Angola </item>
+        <item>Anguilla </item>
+        <item>Argentina </item>
+        <item>Armeenia </item>
+        <item>Austraalia </item>
+        <item>Austria </item>
+        <item>Aserbaidžaan </item>
+        <item>Bahama </item>
+        <item>Bahrein </item>
+        <item>Belgia </item>
+        <item>Boliivia </item>
+        <item>Brasiilia </item>
+        <item>Kambodža </item>
+        <item>Kanada </item>
+        <item>Tšiili </item>
+        <item>Hiina </item>
+        <item>Colombia </item>
+        <item>Costa Rica </item>
+        <item>Horvaatia </item>
+        <item>Küpros </item>
+        <item>Tšehhi </item>
+        <item>Taani </item>
+        <item>Ecuador </item>
+        <item>Egiptus </item>
+        <item>Soome </item>
+        <item>Prantsusmaa </item>
+        <item>Saksamaa </item>
+        <item>Kreeka </item>
+        <item>Hong Kong </item>
+        <item>Ungaris </item>
+        <item>Island </item>
+        <item>India </item>
+        <item>Indoneesia </item>
+        <item>Iirimaa </item>
+        <item>Iisrael </item>
+        <item>Itaalia </item>
+        <item>Jamaica </item>
+        <item>Jaapan </item>
+        <item>Jordan </item>
+        <item>Kasahstan </item>
+        <item>Kenya </item>
+        <item>Korea </item>
+        <item>Kuveit </item>
+        <item>Kõrgõzstani </item>
+        <item>Läti </item>
+        <item>Leedu</item>
+        <item>Luksemburg </item>
+        <item>Macau </item>
+        <item>Malaisia ​​</item>
+        <item>Mehhiko </item>
+        <item>Mongoolia </item>
+        <item>Holland </item>
+        <item>Uus-Meremaa </item>
+        <item>Norra </item>
+        <item>Pakistan </item>
+        <item>Peruu </item>
+        <item>Filipiinid </item>
+        <item>Poola </item>
+        <item>Portugal </item>
+        <item>Katar </item>
+        <item>Rumeenia </item>
+        <item>Venemaa </item>
+        <item>Saudi Araabia </item>
+        <item>Serbia </item>
+        <item>Singapur </item>
+        <item>Slovakkia </item>
+        <item>Sloveenia </item>
+        <item>Lõuna-Aafrika Vabariik </item>
+        <item>Hispaania </item>
+        <item>Sri Lanka </item>
+        <item>Rootsi </item>
+        <item>Šveits </item>
+        <item>Taiwan </item>
+        <item>Tadžikistanis </item>
+        <item>Tai </item>
+        <item>Tuneesia </item>
+        <item>Türgi </item>
+        <item>Ukraina </item>
+        <item>Araabia Ühendemiraadid </item>
+        <item>Ühendkuningriik </item>
+        <item>Ameerika Ühendriigid </item>
+        <item>Venezuela </item>
+        <item>Vietnam </item>
+    </string-array>
+
+    <string name="app_name">"Podcast Republic"</string>
+    <string name="pref_auto_delete_played_summary">"Automaatselt kustuta mängitud üksus allalaadimise nimekirjast"</string>
+    <string name="pref_downloadLocation">"Lae taskuhääling:"</string>
+    <string name="downloads">"Allalaadimised"</string>
+    <string name="jump_to_next_episode">"Jäta hetkene taasesituse positsioon meelde"</string>
+    <string name="jump_to_the_end">"Märgi lõpetatuks"</string>
+    <string name="delete_download">"Kustuta allalaadimine"</string>
+    <string name="pause_download">"Allalaadimine ootele"</string>
+    <string name="resume_download">"Jätka allalaadimist"</string>
+    <string name="delete">"Kustuta"</string>
+    <string name="now_playing">"Praegu mängib"</string>
+    <string name="stop">"Stopp"</string>
+    <string name="pause">"Paus"</string>
+    <string name="favorite">"Lemmik"</string>
+    <string name="favorites">"Lemmikud"</string>
+    <string name="whats_new">"Mis on uut"</string>
+    <string name="more">"Rohkem"</string>
+    <string name="unplayed">"Esitamata"</string>
+    <string name="played">"Esitatud"</string>
+    <string name="country_text">"Riik/Regioon"</string>
+    <string name="organize_podcasts">"Organiseeri tellimusi"</string>
+    <string name="add_podcasts">"Lisa taskuhääling"</string>
+    <string name="add_a_podcast_by_url">"Lisa taskuhääling URL aadressi kaudu"</string>
+    <string name="all">"Kõik"</string>
+    <string name="arts">"Kunst"</string>
+    <string name="business">"Äri"</string>
+    <string name="comedy">"Komöödia"</string>
+    <string name="education">"Haridus"</string>
+    <string name="games">"Mängud &amp; Hobid"</string>
+    <string name="government">"Valitsus &amp; Organisatsioonid"</string>
+    <string name="health_fitness">"Tervis"</string>
+    <string name="kids">"Lapsed &amp; Perekond"</string>
+    <string name="music">"Muusika"</string>
+    <string name="news">"Uudised &amp; Poliitika"</string>
+    <string name="region">"Religioon &amp; Vaimsus"</string>
+    <string name="science">"Teadus &amp; Meditsiin"</string>
+    <string name="society">"Ühiskond &amp; Kultuur"</string>
+    <string name="sports">"Sport &amp; Vabaaeg"</string>
+    <string name="tech">"Tehnoloogia"</string>
+    <string name="tv">"TV &amp; Film"</string>
+    <string name="title">"Pealkiri"</string>
+    <string name="provider">"Tarnija"</string>
+    <string name="image_url">"Pildi URL aadress"</string>
+    <string name="items_in_red_are_required_">"Üksused punases on vajalikud"</string>
+    <string name="cancel">"Tühista"</string>
+    <string name="add">"Lisa"</string>
+    <string name="publisher">"Kirjastus"</string>
+    <string name="description_of_podcast">"Taskuhäälingu kirjeldus"</string>
+    <string name="description">"Kirjeldus"</string>
+    <string name="play">"Mängi"</string>
+    <string name="share">"Jaga"</string>
+    <string name="add_to_playlist">"Lisa esitusloendisse"</string>
+    <string name="end_editing_mode">"Lõpeta redigeerimisreziim"</string>
+    <string name="download_selection_s_">"Lae valik(ud)"</string>
+    <string name="add_selection_s_to_playlist">"Lisa valik(ud) esitlusloendisse"</string>
+    <string name="set">"Sea"</string>
+    <string name="remove_selection_s_from_download_list">"Eemalda valik(ud) allalaadimise nimekirjast"</string>
+    <string name="no_episode_selected">"Episood pole valitud"</string>
+    <string name="set_played">"Sea mängitud"</string>
+    <string name="set_unplayed">"Sea mittemängitud"</string>
+    <string name="delete_episode">"Kustuta episood"</string>
+    <string name="One_episode_has_been_added_to_playlist">"Üks episood on lisatud esitlusloendisse"</string>
+    <string name="episodes_have_been_added_to_playlist">"%1$d episoodi on lisatud esitlusloendisse"</string>
+    <string name="One_episode_has_been_added_to_downloads">"Üks episood on lisatud allalaadimiseks"</string>
+    <string name="episodes_have_been_added_to_downloads">"%1$d episoodi on lisatud allalaadimiseks"</string>
+    <string name="download_episode_not_found">"Allalaetud episoodi ei leitud"</string>
+    <string name="yes">"Jah"</string>
+    <string name="ok">"OK"</string>
+    <string name="no">"Ei"</string>
+    <string name="close">"Sulge"</string>
+    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Allalaetud episood [%1$s] ei ole leitav.\nMida soovite teha?"</string>
+    <string name="episode_downloading">"Allalaadimas"</string>
+    <string name="subscribe">"Telli"</string>
+    <string name="unsubscribe">"Loobu tellimusest"</string>
+    <string name="settings">"Seaded"</string>
+    <string name="remove_ad">"Eemalda reklaamid"</string>
+    <string name="playlists">"Esitusloendid"</string>
+    <string name="there_is_no_podcast_playing">"Ühtegi taskuhäälingut ei ole mängimas"</string>
+    <string name="press_again_to_exit">"Väljumiseks vajuta uuesti"</string>
+    <string name="paused">"Ootel"</string>
+    <string name="stopped_on_error">"Peatatud veaga"</string>
+    <string name="error_downloaded_file_not_found">"Viga: allalaetud fail ei ole leitav"</string>
+    <string name="stopped">"Peatatud"</string>
+    <string name="completed">"Lõpetatud"</string>
+    <string name="export_completed_s">"Eksport valmis: %1$s"</string>
+    <string name="import_completed">"Import lõpetatud"</string>
+    <string name="no_wifi_available">"Wi-Fi pole saadaval!"</string>
+    <string name="tag">"Silt"</string>
+    <string name="updating">"Uuendamine"</string>
+    <string name="preparing">"Valmistumine…"</string>
+    <string name="error_no_wifi">"Viga: Wi-Fi pole saadaval"</string>
+    <string name="auto_download">"Automaatne allalaadimine"</string>
+    <string name="playing">"Mängib"</string>
+    <string name="subscriptions">"Tellimused"</string>
+    <string name="help_faqs">"Abi / KKK"</string>
+    <string name="next">"Järgmine"</string>
+    <string name="file_date">"Kuupäeva"</string>
+    <string name="publishing_date">"Väljalaske kuupäeva"</string>
+    <string name="sort_manually">"Käsitsi"</string>
+    <string name="Update_podcasts">"Uuenda taskuhäälinguid"</string>
+    <string name="sort_by">"Sorteeri…"</string>
+    <string name="last_updated_time">"Viimati uuendatud aja"</string>
+    <string name="most_recent_count">"Viimase loendi"</string>
+    <string name="total_unplayed_count">"üldise mitte mängitud loendi"</string>
+    <string name="refresh">"Värskendama"</string>
+    <string name="stream">"Striim"</string>
+    <string name="remove">"Eemalda"</string>
+    <string name="redownload">"Lae uuesti"</string>
+    <string name="download_all">"Lae kõik alla"</string>
+    <string name="download_all_d_episodes">"Lae kõik %1$d episoodi?"</string>
+    <string name="display">"Kuva"</string>
+    <string name="when_i_press_next_button">"Kui vajutan jäta vahele"</string>
+    <string name="background_play">"Taustal mängimine"</string>
+    <string name="user_interface">"Kasutajaliides"</string>
+    <string name="show_descriptions">"Näita kirjeldust"</string>
+    <string name="update_on_start">"Uuenda avamisel"</string>
+    <string name="media_player">"Meedia Mängija"</string>
+    <string name="download_location">"Allalaadimise asukoht"</string>
+    <string name="change_log">"Muudatuste päevik"</string>
+    <string name="view_what_s_new_in_this_version">"Vaata, mis on selles versioonis uut"</string>
+    <string name="version">"Versioon"</string>
+    <string name="about">"Teave"</string>
+    <string name="action_s">"Märul: %1$s."</string>
+    <string name="action">"Märul"</string>
+    <string name="download_only_when_connected_to_wifi">"Lae alles siis, kui on ühendatud Wi-Fi-ga"</string>
+    <string name="add_to_new_tag">"Lisa uus silt"</string>
+    <string name="enter_new_tag_name">"Sisesta uue sildi nimi"</string>
+    <string name="car_mode">"Auto režiim"</string>
+    <string name="update_artwork">"Uuenda kunsti"</string>
+    <string name="enter_new_artwork_url">"Sisestage uue kunsti URL aadress"</string>
+    <string name="sleep_timer">"Magamisreziimi taimer"</string>
+    <string name="last_updated_s">"Viimati uuendatud: %1$s"</string>
+    <string name="fast_forward">"Kiire edastamine"</string>
+    <string name="fast_rewind">"Kiire tagasikerimine"</string>
+    <string name="play_pause">"Esita / Paus"</string>
+    <string name="none">"Puudub"</string>
+    <string name="sort_asc">"Sorteeri kasvavalt"</string>
+    <string name="sort_desc">"Sorteeri kahanevalt"</string>
+    <string name="undo_delete">"Tühista kustutus"</string>
+    <string name="language">"Keel"</string>
+    <string name="equalizer">"Ekvalaiser"</string>
+    <string name="sort">"Sorteeri"</string>
+    <string name="continue_">"Jätka"</string>
+    <string name="delete_from_playlists">"Kustuta loenditest"</string>
+    <string name="keep_in_playlists">"Hoia loendites"</string>
+    <string name="remember_the_choice">"Mäleta valik"</string>
+    <string name="when_deleting_a_download">"Kui allalaetu kustutatakse"</string>
+    <string name="all_episodes">"Kõik episoodid"</string>
+    <string name="latest_d_episodes">"Viimased %d episoodi"</string>
+    <string name="system_default">"Süstemi algne"</string>
+    <string name="every_one_hour">"Iga tund"</string>
+    <string name="every_three_hours">"Iga kolme tunni järel"</string>
+    <string name="every_six_hours">"Iga kuue tunni järel"</string>
+    <string name="every_half_day">"Igal poole päeva järel"</string>
+    <string name="every_day">"Iga päev"</string>
+    <string name="every_three_days">"Iga kolme päeva järel"</string>
+    <string name="manually">"Käsitsi"</string>
+    <string name="do_not_check">"Ärge vaadake"</string>
+    <string name="newest_first">"Uuemad enne"</string>
+    <string name="oldest_first">"Vanemad enne"</string>
+    <string name="on">"Sees"</string>
+    <string name="off">"Väljas"</string>
+    <string name="stop_sleep_timer">"Väljas"</string>
+
+    <string-array name="ui_theme_text">
+        <item>All White</item>
+        <item>Valge</item>
+        <item>"Punane"</item>
+        <item>"Roosa"</item>
+        <item>"Lilla"</item>
+        <item>"Tumelilla"</item>
+        <item>"Sügavsinine"</item>
+        <item>"Sinine"</item>
+        <item>"Helesinine"</item>
+        <item>"Türkiis"</item>
+        <item>"Sinakasroheline"</item>
+        <item>"Roheline"</item>
+        <item>"Heleroheline"</item>
+        <item>"Merevaik"</item>
+        <item>"Oranž"</item>
+        <item>"Sügavoranž"</item>
+        <item>"Sinakashall"</item>
+        <item>"Tume"</item>
+        <item>AMOLED Black</item>
+    </string-array>
+
+    <string name="theme">"Teema"</string>
+    <string name="skip_beginning">"Jäta algus vahele"</string>
+    <string name="time_display_second_short_format">sek</string>
+    <string name="search_episode_title">"Otsi episoodi pealkirja"</string>
+    <string name="search_episodes">"Otsi episoode"</string>
+    <string name="widgets">"Vidin"</string>
+    <string name="background_transparency">"Tausta läbipaistvus"</string>
+    <string name="low">"Madal"</string>
+    <string name="high">"Kõrge"</string>
+    <string name="gesture_sensitivity">"Žesti tundlikus"</string>
+    <string name="view_library_as">"Sirvi…"</string>
+    <string name="list_view">"Loendvaade"</string>
+    <string name="grid_view">"Võrkvaade"</string>
+    <string name="playlist_mode">"Esitusloendi reziim"</string>
+    <string name="single_play_mode">"Üksik taasesitamisrežiim"</string>
+    <string name="s_has_been_added_to_subscription">"%1$s on lisatud tellismuseks"</string>
+    <string name="audio_not_started_yet">"Heli pole veel alanud!"</string>
+    <string name="manage_playlist">"Käitle esitusloendeid"</string>
+    <string name="download">"Allalaadimine"</string>
+    <string name="fast_forward_time">"Keri aega edasi"</string>
+    <string name="fast_rewind_time">"Keri aega tagasi"</string>
+    <string name="play_stop">"Mängi / Stopp"</string>
+    <string name="buttons">"Nupud"</string>
+    <string name="when_lost_audio_focus">"Kui heli katkeb ajutiselt"</string>
+    <string name="lower_audio_volume">"Langeta helitaset"</string>
+    <string name="pause_the_playback">"Taasesitus ootele"</string>
+    <string name="rewind_5_seconds">"Keri 5 sekundit tagasi"</string>
+    <string name="repeat">"Kordus"</string>
+    <string name="keep_downloads">"Hoia allalaadimisi"</string>
+    <string name="when_deleting_from_playlist">"Kui kustutada esitusloendist"</string>
+    <string name="search">"Otsi"</string>
+    <string name="edit">"Muuda"</string>
+    <string name="time_display_minute_short_format">"min"</string>
+    <string name="keep_screen_on">"Hoia ekraani sees"</string>
+    <string name="backup_restore">"Varundamine &amp; Taastamine"</string>
+    <string name="backup">"Varundus"</string>
+    <string name="restore_settings_database">"Vajuta seadete ja andmebaasi taastamiseks"</string>
+    <string name="restore">"Taasta"</string>
+    <string name="erase_data_and_restore_from_backup_">"Andmete kustutamine ja taastamine varukoopiast?"</string>
+    <string name="restore_successful">"Taastamine õnnestus"</string>
+    <string name="restore_failed">"Taastamine ebaõnnestus"</string>
+    <string name="backup_successful_s">"Taastamine õnnestus: %1$s"</string>
+    <string name="backup_failed_">"Taastamine ebaõnnestunud!"</string>
+    <string name="when_headset_bluetooth_disconnected">"Kui peakomplekt / Bluetooth katkeb"</string>
+    <string name="volume">"Helitugevus"</string>
+    <string name="add_a_virtual_podcast">"Lisa virtuaalne taskuhääling"</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Loo virtuaalne taskuhäälingu hoidla valides kaust sinu seadmes. Iga meediafail on valitud kaustas imporditud episoodina. Hiljem saad manuaalselt lisada või eemaldada meediafaile kaustas."</string>
+    <string name="location">"Asukoht"</string>
+    <string name="select_a_directory">"Vali seadmes kaust"</string>
+    <string name="data_wifi_usage">"Andme &amp; Wi-Fi kasutus"</string>
+    <string name="download_via_wifi_only">"Lae ainult Wi-Fi kaudu alla"</string>
+    <string name="feed_updates_via_wifi_only">"Uuenda tasluhäälinguid ainult läbi Wi-Fi"</string>
+    <string name="update_podcasts_only_when_connected_to_wifi">"Uuenda taskuhäälinguid ainult Wi-Fi-ga ühendades"</string>
+    <string name="mark_all_as_played">"Märgi kõik mängitud"</string>
+    <string name="playback_mode">"Taasesitusreziim"</string>
+    <string name="display_on_lock_screen">"Kuva lukustuskuval"</string>
+    <string name="display_artwork_on_lock_screen_when_playing">"Mängimisel kuva kunsti lukustuskuval"</string>
+    <string name="there_are_no_episodes_">"Episoodid puuduvad!"</string>
+    <string name="podcast_feed_url">"Taskuhäälingu URL aadress"</string>
+    <string name="no_podcast_found_">"Taskuhäälingut ei leitud"</string>
+    <string name="find_podcast">"Leia taskuhääling"</string>
+    <string name="authentication">"Autentiseerima"</string>
+    <string name="http">"HTTP"</string>
+    <string name="password">"Salasõna"</string>
+    <string name="username">"Kasutajanimi"</string>
+    <string name="new_episodes_available">"Uus episood saadaval"</string>
+    <string name="notifications">"Teavitus"</string>
+    <string name="podcast">"Taskuhääling"</string>
+    <string name="send_email_">"Saada email…"</string>
+    <string name="bass_boost">"Bassivõim"</string>
+    <string name="media_type">"Meedia tüüp"</string>
+    <string name="auto_detect">"Tuvasta automaatselt"</string>
+    <string name="audio">"Heli"</string>
+    <string name="video">"Video"</string>
+    <string name="account_and_syncing">"Sünkroniseeri seadmete vahel"</string>
+    <string name="shuffle">"Segama"</string>
+    <string name="update_on_charging">"Uuenda laadimisel"</string>
+    <string name="update_podcasts_only_when_battery_is_charging">"Uuenda taskuhäälinguid ainult aku laadimise ajal"</string>
+    <string name="filename">"Failnime"</string>
+    <string name="auto_backup_saved_to_">"Automaatne varundus on salvestatud [ %1$s ]"</string>
+    <string name="download_removed">"Allalaadimine eemaldatud"</string>
+    <string name="load_artworks_only_when_connected_to_wifi">"Lae kunst ainult siis, kui on Wi-Fi-ga ühendatud"</string>
+    <string name="load_artwork_via_wifi_only">"Lae kunst ainult Wi-Fi kaudu"</string>
+    <string name="when_pressing_episode_in_list">"Kui valides episood loendist"</string>
+    <string name="start_playing">"Alati alusta mängimist"</string>
+    <string name="display_episode_artwork">"Esita episoodi kunsti"</string>
+    <string name="ringtone">"Helin"</string>
+    <string name="vibrate">"Vibreerima"</string>
+    <string name="light">"LED valgus"</string>
+    <string name="history">"Ajalugu"</string>
+    <string name="remove_all">"Eemalda kõik"</string>
+    <string name="auto_delete_played_episode_from_playlists">"Automaatselt kustuta esitatud üksus esitusloendist"</string>
+    <string name="new_episode_notification">"Uue episoodi teade"</string>
+    <string name="download_on_charging">"Laadimisel allalaadimine"</string>
+    <string name="start_downloading_only_when_battery_is_charging">"Alusta allalaadimist ainult siis, kui akut laetakse"</string>
+    <string name="add_a_youtube_podcast">"Lisa YouTube-i taskuhääling"</string>
+    <string name="channels">"Kanalid"</string>
+    <string name="channel_id">"Kanali ID"</string>
+    <string name="playlist_id">"Esitusloendi ID"</string>
+    <string name="when_deleting_an_episode">"Kui episood kustutatakse"</string>
+    <string name="also_remove_from_downloads_amp_playlists">"Samuti eemalda ka Allalaadimist &amp; Esitusloenditest"</string>
+    <string name="remove_episode_only">"Eemalda ainult episood"</string>
+    <string name="mark_episode_as_played">"Märgi episood mängituks"</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">"Märgi episood mängituks, kui on rohkem kui %1$d%% mängitud."</string>
+    <string name="download_episode">"Lae episood"</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">"Alusta allalaadimist, kui episood lisatakse esitusloendisse"</string>
+    <string name="podcast_keep_download_limit_reached_">"Taskuhäälingu hoidmise allalaadimise limiit saabunud!"</string>
+    <string name="auto_download_filter">"Automaatne allalaadimise filter"</string>
+    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Filtreeri episoodide pealkirju automaatseks allalaadimiseks. Vajab luba automaatselt allalaadimise valikut."</string>
+    <string name="keep_favorite_episodes">"Hoia lemmikuid episoode"</string>
+    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"Hoia allalaetud lemmikuid episoode mitte automaatselt kustutamisest"</string>
+    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"Alamloend leitud. Loo uus virtuaalne taskuhääling igale alamloendile?"</string>
+    <string name="import_sub_directory">"Impordi alamloend"</string>
+    <string name="failed_downloads">"Ebaõnnestunud"</string>
+    <string name="subscribe_on_podcast_republic">"Telli Podcast Republicus"</string>
+    <string name="dim_screen_but_keep_screen_responsive">"Sumenda ekraani, aga hoia ekraan ärkvel"</string>
+    <string name="chapters">"Peatükid"</string>
+    <string name="no_chapter_marks_found">"Peatükkide märke ei leitud!"</string>
+    <string name="keep_latest_n_downloads">"Hoia uuemad %1$d allalaadimistest"</string>
+    <string name="keep_all_downloads">"Hoia kõik allalaadimised"</string>
+    <string name="playback_controls">"Taasesituse juhtimine"</string>
+    <string name="playback_controls_maximum_three_in_notification_">"Taasesituse juhtimine (maksimaalselt kolm) teavitusel: "</string>
+    <string name="hide_played_podcasts">"Peida mängitud taskuhäääling"</string>
+    <string name="pause_downloads">"Allalaadimised ootele"</string>
+    <string name="has_keywords_in_title">"On märksõnad pealkirjas"</string>
+    <string name="previous">"Eelmine"</string>
+    <string name="bluetooth_headset_key_mapping">"Bluetooth/peakomplekti klahviseosed"</string>
+    <string name="button">"Nupp"</string>
+    <string name="and">"ja"</string>
+    <string name="screen_size">"Ekraani suurus"</string>
+    <string name="original_size">"Originaalsuurus"</string>
+    <string name="auto_fit">"Automaatne sobitamine"</string>
+    <string name="stretch">"Venita"</string>
+    <string name="fit_width">"Sobita laius"</string>
+    <string name="fit_height">"Sobita kõrgus"</string>
+    <string name="search_podcasts">"Otsi taskuhäälinguid"</string>
+    <string name="reset_episodes">"Lähtesta episoodid"</string>
+    <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">"Hoiatus: lähtestades episoodi andmed eemaldab selle allalaadimise taskuhäälingu!"</string>
+    <string name="copy_url">"Kopeeri URL aadress"</string>
+    <string name="view_episode">"Vaata episoodi"</string>
+    <string name="episode_url_has_been_copied_to_clipboard">"Episoodi URL aadress on kopeeritud lõikelauale"</string>
+    <string name="dim_screen">"Summuta ekraan"</string>
+    <string name="keep_screen_always_on">"Hoia ekraan alati sees"</string>
+    <string name="completed_downloads">"Lõpetatud"</string>
+    <string name="top_charts">"Edetabel"</string>
+    <string name="browse_top_charts">"Sirvi edetabelitest"</string>
+    <string name="in_minutes">"%1$d minuti sees"</string>
+    <string name="when_current_episode_ends">"Kui praegune episood lõppeb"</string>
+    <string name="add_chapter">"Lisa peatüki märk"</string>
+    <string name="time">"Aeg"</string>
+    <string name="filter_name">"Filtri nimi"</string>
+    <string name="podcasts">"Taskuhääling"</string>
+    <string name="playing_state">"Esitamise olek"</string>
+    <string name="only_include_favorited_episodes">"Sisalda ainult lemmikud episoodid"</string>
+    <string name="download_status">"Allalaadimise staatus"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Jätka järgmise episoodi mängimist, kui taasesituses ilmneb viga"</string>
+    <string name="continue_on_error">"Jätka vea tekkimisel"</string>
+    <string name="downloading">"Allalaadimine"</string>
+    <string name="failed">"Ebaõnnestunud"</string>
+    <string name="select_all">"Vali kõik"</string>
+    <string name="export_download">"Ekspordi episood"</string>
+    <string name="export_downloads">"Ekspordi episood"</string>
+    <string name="edit_episode_filter">"Redigeeri filtrit"</string>
+    <string name="done">"Valmis"</string>
+    <string name="move_selections_to_top">"Liiguta valik(ud) üles"</string>
+    <string name="move_selections_to_bottom">"Liiguta valik(ud) alla"</string>
+    <string name="downloaded">"Allalaetud"</string>
+    <string name="dont_download_episode">"Ära lae episoodi"</string>
+    <string name="match_all_keywords">"Sobima peavad kõik märksõnad"</string>
+    <string name="match_any_of_the_keywords">"Sobib iga märksõna"</string>
+    <string name="download_episode_if_matching_all_keywords_s">"Lae episood, kui kõik märksõnad kattuvad: %1$s."</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_s">"Lae episood, kui sobitatakse märksõna: %1$s."</string>
+    <string name="dont_download_episode_if_matching_all_keywords_s">"Ära lae episood, kui sobitatakse kõik märksõnad: %1$s."</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Ära lae episood, kui sobitatakse märksõna: %1$s."</string>
+    <string name="keywords">"Märksõnad"</string>
+    <string name="enter_keywords">"Sisesta märksõnad"</string>
+    <string name="restoring_">"Taastamine…"</string>
+    <string name="creating_backup_">"Varukoopia loomine…"</string>
+    <string name="resume_downloads">"Jätka allalaadimist"</string>
+    <string name="delete_episode_and_download_">"Kustuta episood ja lae alla?"</string>
+    <string name="clear_playlist">"Tühjenda esitusloend"</string>
+    <string name="clear_current_playlist_">"Tühjenda praegune esitusloend?"</string>
+    <string name="enter_playlist_name">"Sisesta esitusnimekirja nimi"</string>
+    <string name="podcast_exported_to_">"Taskuhäälingut eksporditakse: [ %1$s ]"</string>
+    <string name="search_not_found">"Otsing Mitte Leitud"</string>
+    <string name="_is_not_found_add_this_podcast_">"[ %1$s ] ei leitud. Lisa see taskuhääling URL aadressi kaudu?"</string>
+    <string name="episode_publishing_date">"Episoodi ilmumiskuupäev"</string>
+    <string name="episode_guid">"Episoodi GUID"</string>
+    <string name="episode_unique_criteria">"Episoodi unikaalne kriteerium"</string>
+    <string name="episode_url">"Episoodi URL aadress"</string>
+    <string name="episode_title">"Episoodi pealkiri"</string>
+    <string name="export_history">"Ekspordi ajalugu"</string>
+    <string name="notes">"Märkmed"</string>
+    <string name="playback_history">"Taasesituse ajalugu"</string>
+    <string name="edit_notes">"Redigeeri märkmeid"</string>
+    <string name="generated_by_s_app">"Genereeritud %1$s app"</string>
+    <string name="auto_backup">"Automaatne varundamine"</string>
+    <string name="double_tap_to_play_or_pause">"Topeltpuudutus esitamiseks või pausiks"</string>
+    <string name="swipe_up_to_play_next_in_playlist">"Libistage üles esitamiseks järgmist esitusloendis"</string>
+    <string name="swipe_to_left_to_fast_rewind">"Libistage vasakule, et tagasi kerida"</string>
+    <string name="swipe_to_right_to_fast_forward">"Libistage paremale, et edasi kerida"</string>
+    <string name="swipe_down_to_stop">"Libistage alla, et lõpetada"</string>
+    <string name="remove_subscription_to_">"Eemalda tellimus: [ %1$s ]"</string>
+    <string name="data_roaming">"Andmerändlus"</string>
+    <string name="allow_to_download_with_data_services_when_roaming">"Luba allalaadimist andmesideteenustega rändlusel"</string>
+    <string name="up_next">"Järgmisena"</string>
+    <string name="episode_info">"Episoodi info"</string>
+    <string name="no_more_episodes_to_play_from_playlist_s_">"Esitusloendis [ %1$s ] ei ole enam episoode esitada"</string>
+    <string name="apply_this_change_to_all_podcasts_">"Rakenda see muudatus kõikidele taskuhäälingutele?"</string>
+    <string name="grid_size">"Ruudustiku suurus"</string>
+    <string name="play_pause_double_click">"Esitus/Paus topeltklõps"</string>
+    <string name="total_episodes">"Kokku episoode"</string>
+    <string name="duration">"Kestvuse"</string>
+    <string name="browse_downloads">"Sirvi allalaadimisi"</string>
+    <string name="browse_by_playlist">"Sirvi esitusloendi põhjal"</string>
+    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Lähtestatud episoodid loobuvad puhverdatud episoodidest ja taastavad episoodid taskuhäälingu voost."</string>
+    <string name="right_hand_operation">"Parema käe operatsioon"</string>
+    <string name="open_menu_drawer_on_the_right_side">"Ava menüü paremalt poolelt"</string>
+    <string name="go_to_podcast">"Vaata praegust taskuhäälingut"</string>
+    <string name="there_are_no_podcasts_">"Puuduvad taskuhäälingud!"</string>
+    <string name="no_podcasts_selected">"Taskuhäälinguid ei ole valitud"</string>
+    <string name="enjoy_podcast_republic">"Kas naudid Podcast Republicut?"</string>
+    <string name="please_tell_us_how_we_re_doing">"Palun öelge, kuidas meil läheb."</string>
+    <string name="rate_us_in_the_play_store">"Hinda meid Play Poes"</string>
+    <string name="no_thanks">"Ei, aitäh"</string>
+    <string name="select_an_image_on_device">"Vali pilt seadmest"</string>
+    <string name="youtube_type">"YouTube tüüp"</string>
+    <string name="scanning_">"Skaneerimine…"</string>
+    <string name="playback_speed">"Taasesituskiirus"</string>
+    <string name="keep_playing">"Hoia esitust normaalselt"</string>
+    <string name="play_from_position">"Esita positsioonist"</string>
+    <string name="report_a_bug">"Teata veast"</string>
+    <string name="import_export_opml">"Import/Eksport OPML"</string>
+    <string name="import_from_opml_file">"Import from OPML file"</string>
+    <string name="export_to_opml_file">"Eksport OPML"</string>
+    <string name="episodes">"Episoodid"</string>
+    <string name="episode_s_is_still_downloading_can_not_play_it">"Episood [ %1$s ] on ikka allalaadimisel. Ei saa esitada!"</string>
+    <string name="error_episode_still_downloading">"Viga: episood allalaadimisel"</string>
+    <string name="disabled">"Keelatud"</string>
+    <string name="click_to_open_full_screen_player_view">"Tõmba mind üles, et avada täisekraanil mängija!"</string>
+    <string name="keep_latest_x_downloads_for_each_podcast">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul"</string>
+    <string name="radio_stations">"Raadiojaamad"</string>
+    <string name="radios">Radios</string>
+    <string name="stations">"Jaamad"</string>
+    <string name="connection_failed">"Ühendus ebaõnnestus"</string>
+    <string name="search_stations">"Otsi jaama"</string>
+    <string name="add_a_station_by_url">"Lisa jaama URL aadress"</string>
+    <string name="radio_stream_url_is_required_">"Raadio striimi URL aadress on vajalik!"</string>
+    <string name="radio_title_is_required_">"Raadiojaama nimi on vajalik!"</string>
+    <string name="_is_not_found_add_this_station_">"[ %1$s ] ei leitud. Lisa see jaam URL aadressi kaudu?"</string>
+    <string name="debug_log">"Silumislogi"</string>
+    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">"Kui ühtegi pilti ei ole määratletud siis valitakse mistahes pildifail leitud virtuaalsest taskuhäälingu kaustast."</string>
+    <string name="select">"Vali"</string>
+    <string name="no_schedule_available">"Ajakava ei ole saadaval"</string>
+    <string name="browse_by_subscriptions">"Sirvi tellimuste põhjal"</string>
+    <string name="browse_by_radio_stations">"Sirvi raadiojaamade põhjal"</string>
+    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">"Wi-Fi ei ole saadaval. Taskuhäälingu uuendamine on tühistatud."</string>
+    <string name="pull_to_refresh">"Tõmmake alla värskendamiseks"</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">"Tõmba alla, et alustada taskuhäälingu uuendamist"</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">"Tõmmake alla allalaadimis list, et alustada taskuhäälingu värskendust"</string>
+    <string name="auto_rotate_screen">"Ekraani automaatne pööramine"</string>
+    <string name="screen_orientation">"Ekraani orientatsioon"</string>
+    <string name="portrait">"Portree"</string>
+    <string name="landscape">"Maastik"</string>
+    <string name="drag_the_handler_to_sort_manually">"Lohista käitleja paremale, et sorteerida manuaalselt"</string>
+    <string name="streaming">"Striimib"</string>
+    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Sisestage kasutajanimi ja salasõna, kui su taskuhääling vajab autentiseerimist. Jäta tühjaks kui autentiseerimist ei ole nõutud."</string>
+    <string name="can_not_play_ps">"Ei saa mängida: %1$s"</string>
+    <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+    <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
+    <string name="percent_played">"%1$d %% esitatud"</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">"Tõmmake alla tellimuste nimekiri, et alustada taskuhäälingu uuendamise algust"</string>
+    <string name="actions">"Tegevused"</string>
+    <string name="when_an_episode_is_100_played">"Kui episood on 100 %% esitatud"</string>
+    <string name="delete_the_download">"Kustuta allalaadimine"</string>
+    <string name="keep_the_download">"Hoia allalaadimine"</string>
+    <string name="shake_your_device">"Raputage seadet"</string>
+    <string name="shake_device_to_control_playback">"Raputage seadet, et juhtida taasesitust"</string>
+    <string name="sensitivity">"Tundlikkus"</string>
+    <string name="gestures">"Žestid"</string>
+    <string name="user_agreement">"Kasutajatingimused"</string>
+    <string name="multi_thread_download">"Lõimtöötlus allalaadimine"</string>
+    <string name="recents">"Hiljutised"</string>
+    <string name="group_by_podcasts">"Grupeeri taskuhäälingute põhjal"</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Lisa järgmistele esitusloenditele episoodi allalaadimisel"</string>
+    <string name="compact_view">"Kompaktne vaade"</string>
+    <string name="open_source_licenses">"Avatud lähtekoodiga litsensid"</string>
+    <string name="can_not_play_the_downloaded_file">"Allalaetud falili ei saa esitada"</string>
+    <string name="can_not_play_the_local_file">"Ei saa esitada kohalikku faili"</string>
+    <string name="audio_loudness_boost">"Heli valjuse võimendi"</string>
+    <string name="apply_to_all_podcasts">"Kehtesta kõikidele taskuhäälingutele"</string>
+    <string name="audio_effects_and_equalizer">"Heliefektid ja ekvalaiser"</string>
+    <string name="episode_info_short">"Episoodi info (lühike)"</string>
+    <string name="episode_info_full">"Episoodi info (täielik)"</string>
+    <string name="twitter">"Twitter"</string>
+    <string name="storage_usage">"Mälukasutus"</string>
+    <string name="stream_url">"Striimi URL aadress"</string>
+    <string name="fm_am_frequency">"FM/AM sagedus"</string>
+    <string name="genre">"Žanr"</string>
+    <string name="city_state">"Linn, Riik"</string>
+
+    <string name="sync_now">"Sünkroniseerimi kohe"</string>
+    <string name="sign_in">"Sisene"</string>
+    <string name="sign_out">"Logi välja"</string>
+    <string name="syncing_started">"Sünkroniseerimine alustatud"</string>
+    <string name="account_logged_in_s"><![CDATA[Konto sisse logitud: <i>%1$s</i>]]></string>
+    <string name="sync_subscriptions_and_episode_playback_progress">"Sünkroniseerimise tellimus ja episoodi taasesituse progress"</string>
+    <string name="schedule_auto_backup_every_d_days">"Planeeri automaatne varundamine iga %1$d päeva järelt"</string>
+    <string name="keep_most_recent_d_auto_backups">"Hoia viimased %1$d automaatsed varukoopiad"</string>
+    <string name="save_auto_backup_to_s">"Salvesta automaatne varundus: %1$s"</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">"Luba automaatne varundus rakenduste sätetest ja andmebaasist"</string>
+    <string name="schedule_backup">"Planeeri varundus"</string>
+    <string name="backups_to_keep">"Varukoopiad hoidmiseks"</string>
+    <string name="import_subscriptions_from_an_opml_file">"Impordi tellimused OPML failist"</string>
+    <string name="export_subscriptions_to_an_opml_file">"Ekspordi tellimused OPML failist"</string>
+    <string name="create_a_backup_of_app_settings_and_database">"Loo varukoopia rakenduse sätetest ja andmebaasist"</string>
+    <string name="restore_app_settings_and_database_from_selected_backup">"Taasta rakenduse sätted ja andmebaas valitud varukoopiast"</string>
+    <string name="save_to">"Salvesta"</string>
+    <string name="buy_me_a_coffee">"Osta mulle kohvi"</string>
+    <string name="clear_the_play_history_">"Puhasta esituse ajalugu?"</string>
+    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Kui allalaadimine on eemaldatud talletuskvoodi täitumisel või hoia allalaadimiste limiit on täis saanud"</string>
+    <string name="keep_all">"Hoidke kõik"</string>
+    <string name="playlist">"Esitusloend"</string>
+    <string name="category">"Kategooria"</string>
+    <string name="update_podcasts_when_app_is_starting">"Värskenda taskuhäälinguid, kui käivitatakse rakendus"</string>
+    <string name="unknown_station">"Tundmatu jaam"</string>
+    <string name="can_not_cast_youtube_videos_to_chromecast_">"Ei saa viia YouTube'i videosi Chromecastile!"</string>
+    <string name="add_a_playlist">"Lisa esitusloendisse"</string>
+    <string name="add_to_tag">"Lisa silt"</string>
+    <string name="add_to_default_playlists">"Lisa vaikimisi esitusloendisse"</string>
+    <string name="add_to_selected_playlists">"Lisa valitud esitusloendisse"</string>
+    <string name="delete_selected_episodes_">"Kustuta valitud episoodid?"</string>
+    <string name="you_have_no_completed_downloads">"Sul ei ole ühtegi lõpetataud allalaadimisi."</string>
+    <string name="you_have_no_pending_downloads">"Teil ei ole pooleliolevaid allalaadimisi."</string>
+    <string name="all_good_">"Kõik on korras ☺"</string>
+    <string name="there_are_no_episodes_in_this_playlist">"Siin esitusloendis ei ole episoode."</string>
+    <string name="no_play_history_found">"Esitus ajalugu ei ole leitud."</string>
+    <string name="set_playlists">"Määra esitusloendid"</string>
+    <string name="mark_all_as_read">"Märgi kõik loetuks"</string>
+    <string name="not_in_use">"Ei ole kasutuses"</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Tõmba alla episoodide nimerija, et alustada taskuhäälingute värskendamist"</string>
+    <string name="remove_favorite">"Eemalda lemmik"</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Märgi kõik episoodid avaldatud varem, kui see episood [ %1$s ] esitatuks?"</string>
+    <string name="exporting">"Eksport"</string>
+    <string name="add_s_minutes">"Lisa %1$d minutit"</string>
+    <string name="pick_a_time">"Vali aeg"</string>
+    <string name="updating_podcasts">"Podcastide värskendamine"</string>
+    <string name="skip_ending">"Lõpetage lõpp"</string>
+    <string name="skip_the_beginning_d_seconds">"Jäta alguse %d sekundid vahele"</string>
+    <string name="skip_the_ending_d_seconds">"Jäta lõpp lõpuni %d sekundit"</string>
+    <string name="no_user_notes_found">"Kasutaja märkmeid ei leitud."</string>
+    <string name="no_episode_description_found">"Ühtegi episoodi kirjeldust ei leitud."</string>
+    <string name="set_episode_s_as_played_">"Määra episood [ %s ] esitatuna?"</string>
+    <string name="or">"Või"</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">"Üles Järgmine loend on värskendatud, et mängida: %s"</string>
+    <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Tehke täielik sünkroonimine. Lõpetamiseks kulub palju kauem."</string>
+    <string name="buy_me_a_coffee_message">"Kui naudite Podcast Republic'i rakendust ja soovite selle arendamist toetada, võite osta mulle tassi kohvi. Täname!"</string>
+    <string name="maybe_later">"Võib-olla hiljem"</string>
+    <string name="sign_up">"Registreeri"</string>
+    <string name="download_state_idle">"Ootamine allalaadimise alustamiseks"</string>
+    <string name="download_state_fetching_url">"Allikate otsimine allalaadimiseks"</string>
+    <string name="download_state_connecting">"Ühendamine"</string>
+    <string name="download_state_downloading">"Allalaadimine"</string>
+    <string name="download_state_completed">"Lõpetatud"</string>
+    <string name="download_state_paused_network_unavailable">"Ootel: -ühenduse ootamine"</string>
+    <string name="download_state_failed_incorrect_file_received">"Ebaõnnestus: vale fail vastuvõtetud"</string>
+    <string name="download_state_paused_by_request">"Allalaadimine peatatud"</string>
+    <string name="download_state_paused_wifi_unavailable">"Ootel: WiFi pole saadaval"</string>
+    <string name="download_state_paused_wifi_disabled">"Ootel: wifi väljas"</string>
+    <string name="download_state_paused_roaming">"Ootel: olete rändlusel"</string>
+    <string name="download_state_paused_waiting_to_retry">"Ootel: ootel uuesti proovimiseks"</string>
+    <string name="download_state_paused_sdcard_unavailable">"Ootel: välismälu ei ole saadaval"</string>
+    <string name="download_state_paused_need_battery_charging">"Ootel: aku vajab laadimist"</string>
+    <string name="download_state_failed_fetching_url">"Ebaõnnestunud: URL aadressi ei leitud"</string>
+    <string name="download_state_failed_sdcard_full">"Ebaõnnestunud: pole piisavalt ruumi või talletuskvoot ületatud"</string>
+    <string name="download_state_failed_cancelled">"Tühistatud"</string>
+    <string name="download_state_failed">"Ebaõnnestunud"</string>
+    <string name="download_state_failed_storage_is_not_accessible">"Ebaõnnestunud: hoiustamine ei ole kättesaadav"</string>
+    <string name="error_storage_is_not_accessible">"Hoiustamine ei ole kättesaadav"</string>
+    <string name="moving_downloads">"Allalaadimiste teisaldamine"</string>
+    <string name="moving_download_from_1s_to_2s">"Allalaadimise liigutamine [%1$s] to [%2$s]."</string>
+    <string name="invalid_opml_file_selected_">"Valitud on vale opml-fail!"</string>
+    <string name="podcast_title_can_not_be_empty_">"Podcasti pealkiri ei saa olla tühi!"</string>
+    <string name="podcast_url_can_not_be_empty_">"Podcasti URL ei saa olla tühi!"</string>
+    <string name="show_podcast_title">"Näita podcasti pealkirja"</string>
+    <string name="hide_podcast_title">"Peida podcasti pealkiri"</string>
+    <string name="no_download_directory_prompt_message">"Sa ei ole veel podcasti allalaadimise kataloogi seadistanud. Kas nüüd on loodud?"</string>
+    <string name="at_least_one_playlist_is_required_">"Vaja on vähemalt ühte esitusloendit!"</string>
+    <string name="manage_tags">"Märgendite haldamine"</string>
+    <string name="episode_filters">"Episoodi filtrid"</string>
+    <string name="manage_episode_filters">"Halda episoodifiltreid"</string>
+    <string name="episode_filter">"Episoodi filter"</string>
+    <string name="browse_by_episode_filters">"Sirvilit filtriusel"</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">"Konto sisselogimine ebaõnnestus, proovige uuesti sisse logida."</string>
+    <string name="filter">"Filter"</string>
+    <string name="view_all_episodes">"Vaadake kõiki episoode"</string>
+    <string name="view_finished_episodes">"Vaadake lõppenud episoode"</string>
+    <string name="view_unfinished_episodes">"Vaadake lõpetamata episoode"</string>
+    <string name="playback_progress">"Taasesituse edenemine"</string>
+    <string name="display_playback_progress_in_notification_s">"Taasesituse edenemine teates: %s"</string>
+    <string name="you_have_subscribed_to_s">"Olete tellinud: %s"</string>
+    <string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">"Vabandust, ühtegi podcasti ei leitud! Podcastide lisamiseks saate tiitliribal vajutada nuppu (+)."</string>
+    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">"Lisage YouTube'i kanal või esitusloend podcastiks."</string>
+    <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Seadistage oma seadmes muusika või heliraamatute esitamiseks virtuaalne podcast."</string>
+    <string name="click_to_adjust_playback_speed">"Vajutage taasesituse kiiruse reguleerimiseks"</string>
+    <string name="click_to_set_up_sleep_timer">"Unetaimer seadistamiseks klõpsake"</string>
+    <string name="click_to_view_more_options_">"Klõpsa, et vaadata rohkem valikuid…"</string>
+    <string name="click_to_select_playback_mode">"Valige taasesituse režiimi valimiseks"</string>
+    <string name="percetage_value">"%d %%"</string>
+    <string name="select_episodes">"Valige episoodid"</string>
+    <string name="select_episodes_from_last_d_days">"Valige viimasest %d päevast episoodid"</string>
+    <string name="select_episodes_from_all_dates">"Valige kõik kuupäevadest episoodid"</string>
+    <string name="selected_tags_s">"Valitud sildid: %s"</string>
+    <string name="selected_podcasts_s">"Valitud podcastid: %s"</string>
+    <string name="unplayed_less_than_d_played">mängimata (&lt; %d %% mängitud)</string>
+    <string name="played_greater_than_d_played">mängitud (&gt;= %d %% mängitud)</string>
+    <string name="unfinished_less_than_100_played">lõpetamata (&lt; 100% mängitud)</string>
+    <string name="finished_100_played">"Lõppenud (100% mängitud)"</string>
+    <string name="restore_defaults">"Taasta algsed sätted"</string>
+    <string name="at_least_one_episode_filter_is_required_">"Vaja on vähemalt ühte episoodi filtrit!"</string>
+
+    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">"Järgmised kataloogid ei ole kättesaadavad. Palun nullida Seaded. \ N %s"</string>
+    <string name="_download_location">"- allalaadimise asukoht"</string>
+    <string name="_auto_backup_location">"- Auto varukoopia asukoht"</string>
+    <string name="clean_up">"Korista ära"</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">"Allalaadimiskataloogis leiduvad järgmised failid, kuid need ei ole seotud mingite allalaadimistega. Neid saab eemaldada, vajutades nuppu \"Puhasta\"."</string>
+    <string name="tags">"Sildid"</string>
+    <string name="casting">"Valamine"</string>
+    <string name="chapter_d">"Peatükk # %d"</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Palun ärge sulgege rakendust andmete taastamisel. See taaskäivitub, kui kõik andmed taastatakse."</string>
+    <string name="playback_paused_on_muted_volume_">"Taasesitus peatatud vaigistatud helitugevusel!"</string>
+    <string name="number_of_episodes_to_auto_download">"Automaatseks allalaadimiseks vajalike episoodide arv"</string>
+    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Uute episoodide allalaadimisel laadige automaatselt alla kuni %1$d viimast episoodi"</string>
+    <string name="notify_when_new_episodes_are_available">"Teatage, kui uued episoodid on saadaval"</string>
+    <string name="save_episode_list_to_html">"Salvestage episoodiloend HTML-i"</string>
+
+    <string name="com_parse_ui_progress_dialog_text">"Laadimine…"</string>
+    <string name="com_parse_ui_forgot_password_button_label">"&lt;u&gt; Unustasid parooli &lt;/u&gt;"</string>
+    <string name="com_parse_ui_email_input_hint">"E-post"</string>
+    <string name="com_parse_ui_confirm_password_input_hint">"Sisesta parool uuesti"</string>
+    <string name="com_parse_ui_create_account_button_label">"Loo konto"</string>
+    <string name="com_parse_ui_no_password_toast">"Palun sisesta oma salasõna"</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">"Sisestatud kasutajanimi ja parool ei sobi"</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">"Sisselogimine ei õnnestunud, proovige hiljem uuesti"</string>
+    <string name="com_parse_ui_password_too_short_toast">"Parool peab olema vähemalt %1$d tähemärki pikk"</string>
+    <string name="com_parse_ui_username_taken_toast">"Kasutajanimi on juba võetud, palun valige teine"</string>
+    <string name="com_parse_ui_reenter_password_toast">"Sisestage oma parool uuesti"</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">"Paroolid ei sobi, proovige uuesti"</string>
+    <string name="com_parse_ui_no_email_toast">"Palun sisestage oma e-kiri"</string>
+    <string name="com_parse_ui_invalid_email_toast">"E-post on kehtetu, palun parandage ja proovige uuesti"</string>
+    <string name="com_parse_ui_email_taken_toast">"E-post on juba võetud, lähtestage oma parool"</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">"Ei saanud registreeruda, proovige hiljem uuesti"</string>
+    <string name="com_parse_ui_login_help_instructions">"Parooli taastamiseks sisestage oma e-post"</string>
+    <string name="com_parse_ui_login_help_email_input_hint">"E-post"</string>
+    <string name="com_parse_ui_login_help_submit_button_label">"Esita"</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">"Tagasi sisselogimise juurde"</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">"Parooli lähtestamine ei õnnestunud, proovige uuesti"</string>
+    <string name="com_parse_ui_login_help_email_sent">"Palun vaadake oma e-posti aadressilt juhiseid oma kontole pääsemiseks"</string>
+    <string name="connecting_">"Ühendamine …"</string>
+    <string name="syncing_episode_changes_s">"Episoodimuutuste sünkroonimine: %s"</string>
+    <string name="syncing_added_radio_subscriptions_d">"Lisatud raadio tellimuste sünkroonimine: %d"</string>
+    <string name="syncing_removed_radio_subscriptions_d">"Eemaldatud raadio tellimuste sünkroonimine: %d"</string>
+    <string name="syncing_added_podcast_subscriptions_d">"Lisatud taskuhäälingusaadete sünkroonimine: %d"</string>
+    <string name="syncing_removed_podcast_subscriptions_d">"Eemaldatud taskuhäälingusaadete sünkroonimine: %d"</string>
+    <string name="syncing_episode_changes_">"Episoodimuutuste sünkroonimine …"</string>
+    <string name="syncing_radio_subscription_changes_">"Raadio tellimuse muudatuste sünkroonimine …"</string>
+    <string name="syncing_podcast_subscription_changes_">"Taskuhäälingu tellimuse muudatuste sünkroonimine …"</string>
+    <string name="syncing">"Sünkroonimine"</string>
+    <string name="current_playlist">"Praegune esitusloend"</string>
+    <string name="continue_to_next_playlist">"Jätka järgmisesse esitusloendisse"</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Jätka järgmise esitusloendi esitamist pärast seda, kui kõik episoodid on mängitud praeguses esitusloendis"</string>
+    <string name="disable_manual_sorting">"Keela käsitsi sorteerimine"</string>
+    <string name="enable_manual_sorting">"Luba käsitsi sorteerimine"</string>
+    <string name="open">"Ava"</string>
+    <string name="newest_unplayed">"Uusim esitamata"</string>
+    <string name="apply_to_current_podcast">"Rakenda praegusele podcastile"</string>
+    <string name="redownload_all_selected_episodes_">"Laadige kõik valitud episoodid uuesti alla?"</string>
+    <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">"Allalaadimise asukoht ei ole kättesaadav. Seadistage allalaadimiskoht nüüd?"</string>
+    <string name="insufficient_space_please_free_some_storage_space_">"Ebapiisav ruum. Palun vabasta ruumi."</string>
+    <string name="show_last_updated_time">"Näita viimast värskendatud aega"</string>
+    <string name="hide_last_updated_time">"Peida viimane uuendatud aeg"</string>
+    <string name="delete_account">"Kustuta konto"</string>
+    <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"Te ei saa seda kontot uuesti sisse logida! Jätka konto kustutamist?"</string>
+    <string name="please_select_a_directory_to_save_the_auto_backups">"Valige automaatne varukoopiate salvestamiseks kataloog."</string>
+    <string name="download_completed">"Allalaadimine on lõpetatud"</string>
+    <string name="notify_when_an_episode_has_been_downloaded">"Teatage, kui episood on alla laaditud"</string>
+    <string name="night_mode">"Öörežiim"</string>
+    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Automaatne ümberlülitus valguse teema (päev) ja tumeda teema (öö) vahel kellaaja järgi"</string>
+    <string name="repeat_episode">"Korda episoodi"</string>
+    <string name="repeat_playlist">"Korda esitusloendit"</string>
+    <string name="alarms">"Äratused"</string>
+    <string name="sunday">"Pühapäev"</string>
+    <string name="monday">"Esmaspäev"</string>
+    <string name="tuesday">"Teisipäev"</string>
+    <string name="wednesday">"Kolmapäev"</string>
+    <string name="thursday">"Neljapäev"</string>
+    <string name="friday">"Reede"</string>
+    <string name="saturday">"Laupäev"</string>
+    <string name="no_alarms_found_">"Häireid ei leitud."</string>
+    <string name="allow_to_download_at_any_time">"Luba igal ajal alla laadida"</string>
+    <string name="allow_to_download_between_selected_time">"Laske valitud aja vahel alla laadida"</string>
+    <string name="start_time">"Algusaeg"</string>
+    <string name="end_time">"Lõpuaeg"</string>
+    <string name="allowed_download_time">"Lubatud allalaadimise aeg"</string>
+    <string name="paused_waiting_for_allowed_download_time">"Peatatud: oodatud allalaadimisaja ootamine"</string>
+    <string name="last_played_time">"Viimati mängitud aeg"</string>
+    <string name="display_unplayed_episodes_on_top">"Kuva pealt esitamata episoodid"</string>
+    <string name="text_size">"Teksti suurus"</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">"See on teksti suurus, mis on suumitud %d %% ."</string>
+    <string name="_d_seconds">"%d sekundit"</string>
+    <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">"Kas jätkate valitud virtuaalsete podcast-failide kustutamist oma mälust?"</string>
+    <string name="show_played_date">"Näita mängitud kuupäeva"</string>
+    <string name="edit_radio_station">"Muuda raadiojaama"</string>
+    <string name="subscribed">"Tellitud"</string>
+    <string name="edit_chapter">"Muuda peatükki"</string>
+    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">"Seda peatükki ei saa muuta. Redigeeritavad on ainult kasutaja lisatud peatükid."</string>
+    <string name="import_downloads">"Impordi failid"</string>
+    <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">"Impordi allalaaditud failid valitud kataloogist. See toiming impordib ainult selliseid podcast-faile, mis on selle rakenduse poolt alla laaditud."</string>
+    <string name="available_free_space_s">"Saadaval vaba ruum: %s"</string>
+    <string name="playback">"Taasesitus"</string>
+    <string name="background_services">"Taustateenused"</string>
+    <string name="general_notifications">"Üldised teated"</string>
+    <string name="return_to_car_mode_">"Tagasi auto režiimi."</string>
+    <string name="android_wear">"Android kulumine"</string>
+    <string name="notification_background_theme_s">"Teavituse taustateema: %s"</string>
+    <string name="turn_on_alarms">"Lülitage alarmid sisse"</string>
+    <string name="turn_off_alarms">"Lülitage häired välja"</string>
+    <string name="play_as_audio_only">"Esita ainult heli"</string>
+    <string name="remove_downloads_from_unsubscribed_podcast_s_">"Allalaadimiste eemaldamine tellimata podcastist: [ %1$s ]?"</string>
+    <string name="report_bug_privacy_message"><![CDATA[Klõpsates <em>Teata veast</em>, nõustute meie <a href=\"https://podcastrepublic.net/privacy-terms/\">tingimustega</a> ja et teil on lugege meie <a href=\"https://podcastrepublic.net/privacy-terms/\">privaatsuspoliitikat</a>.]]></string>
+    <string name="sign_up_privacy_and_terms_message"><![CDATA[CDATA [Klõpsates <em>Loo konto</em>, nõustute meie <a href=\"https://podcastrepublic.net/privacy-terms/\">tingimustega</a> ja olete lugenud meie <a href=\"https://podcastrepublic.net/privacy-terms/\">privaatsuspoliitika</a>.]]></string>
+    <string name="sign_in_privacy_and_terms_message"><![CDATA[CDATA [Klõpsates <em>Logi sisse</em>, nõustute meie <a href=\"https://podcastrepublic.net/privacy-terms/\">tingimustega</a> ja olete lugenud meie <a href=\"https://podcastrepublic.net/privacy-terms/\">privaatsuspoliitika</a>.]]></string>
+    <string name="automatically_turn_on_sleep_timer_when_playback_starts">"Lülitage taimer sisse, kui taasesitus algab"</string>
+    <string name="syncing_data_only_when_connected_to_wifi_network">"Andmete sünkroonimine ainult WiFi-võrguga ühendatud"</string>
+    <string name="syncing_via_wifi_only">"Sünkroonimine ainult WiFi kaudu"</string>
+    <string name="total_downloaded_file_size_s">"Allalaaditud faili suurus kokku: %s"</string>
+    <string name="featured">"Soovitatavad"</string>
+    <string name="polular">"Populaarne"</string>
+    <string name="select_episodes_from_today">"Valige täna episoodid"</string>
+    <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Oleme varem rakenduses avastanud avarii. Kas soovite krahhi aruande saata, et saaksime probleemi lahendada?"</string>
+    <string name="generating_bug_report_">"Veateate genereerimine…"</string>
+    <string name="apply_to_all_radio_stations">"Rakenda kõikidele raadiojaamadele"</string>
+    <string name="apply_to_current_radio_station">"Rakenda praegusele raadiojaamale"</string>
+    <string name="skip_silence">"Jäta vaikus vaikima"</string>
+    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">"Automaatne allalaadimine kuni %d uuematest ja mängimata episoodidest praegusest podcastist"</string>
+    <string name="smart_download">"Nutikas allalaadimine"</string>
+    <string name="download_anyway">"Allalaadimine ikkagi"</string>
+    <string name="download_anyway_message">"Ignoreeri WiFi ja aku seadeid, laadige nüüd episood praeguse võrguühendusega alla! See võib kasutada teie mobiilandmeid ja akut. Jätka?"</string>
+    <string name="play_all_from_old_to_new">"Esita kõik vanast uuele"</string>
+    <string name="delete_all_immediately">"Kustuta kõik kohe"</string>
+    <string name="deleted_downloads_will_be_removed_after_24_hours_">"Kustutatud allalaadimised eemaldatakse 24 tunni pärast."</string>
+    <string name="delete_immediately">"Kustuta kohe"</string>
+    <string name="delayed_deletion">"Viivitatud kustutamine"</string>
+    <string name="keep_the_downloaded_podcast_file_for_24_hours_after_being_deleted_">"Hoidke allalaaditud podcast-faili 24 tundi pärast kustutamist."</string>
+    <string name="download_progress">"Allalaadimise edenemine"</string>
+    <string name="be_the_first_to_write_a_review_">"Ole esimene, kes kirjutab kommentaari!"</string>
+    <string name="write_a_review">"Kirjuta arvustus"</string>
+    <string name="my_review">"Minu ülevaade"</string>
+    <string name="your_name">"Sinu nimi"</string>
+    <string name="your_review">"Teie ülevaade"</string>
+    <string name="a_podcast_republic_user">"Podcast Vabariigi kasutaja"</string>
+    <string name="report_spam_review">"Teata rämpsposti läbivaatamisest"</string>
+    <string name="report_inappropriate_review">"Teata sobimatust ülevaatusest"</string>
+    <string name="reviews">"Arvustused"</string>
+    <string name="submit">"Esita"</string>
+    <string name="deleted">"Kustutatud"</string>
+    <string name="file_size">"Faili suurus"</string>
+    <string name="play_next">"Esita järgmine"</string>
+    <string name="are_you_sure_to_clear_the_play_queue_">"Kas olete kindlasti mängimisjärjekorda tühjendanud?"</string>
+    <string name="clear">"Selge"</string>
+    <string name="remaining_time">"Järelejäänud aeg"</string>
+    <string name="elapsed_time">"Kulunud aeg"</string>
+    <string name="paused_network_is_metered">"Peatatud: võrk mõõdetakse"</string>
+    <string name="download_date">"Allalaadimise kuupäev"</string>
+    <string name="create_an_episode_filter">"Loo episoodi filter"</string>
+    <string name="play_time">"Esitusaeg"</string>
+    <string name="recently_played">"Hiljuti mängitud"</string>
+    <string name="play_all_newer_episodes">"Esita kõik uuemad episoodid"</string>
+    <string name="see_what_s_new_in_this_version_s">"Vaadake, mis on selles versioonis uus: %s"</string>
+    <string name="enabled_buttons_">"Lubatud nupud:"</string>
+    <string name="bottom_navigation_bar">"Alumine navigeerimisriba"</string>
+    <string name="play_bar">"Esita baar"</string>
+    <string name="show_play_bar_when_app_starts">"Näita mänguriba rakenduse käivitamisel"</string>
+    <string name="can_not_edit_default_episode_filter_">"Vaikimisi episoodi filtrit ei saa muuta!"</string>
+    <string name="playlist_name">"Esitusloendi nimi"</string>
+    <string name="priority">"Prioriteet"</string>
+    <string name="higher_priority_playlist_will_be_played_first_">"Esmalt mängitakse kõrgema prioriteediga esitusloendit."</string>
+    <string name="view_podcast">"Vaade"</string>
+    <string name="priority_d">"Prioriteet: %d"</string>
+    <string name="stream_all">"Stream kõik"</string>
+    <string name="view_all_your_playlists">"Vaadake kõiki oma esitusloendeid"</string>
+    <string name="click_on_the_tab_again_to_view_all_your_playlists">"Kõikide esitusloendite vaatamiseks klõpsake uuesti vahekaardil"</string>
+    <string name="edit_playlist">"Esitusloendi muutmine"</string>
+    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">"Klõpsake uuesti vahekaardil, et vaadata kõiki oma podcastide silte"</string>
+    <string name="changing_the_play_mode_to_repeat_a_playlist_">"Esitusrežiimi muutmine esitusloendi kordamiseks:"</string>
+    <string name="_removing_from_playlist_on_played_will_be_disabled">"- Esitusloendist eemaldamine esitusloendist keelatakse"</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">"- Allalaaditud podcast-faili eemaldamine mängitakse välja"</string>
+    <string name="view_all_your_episode_filters">"Vaadake kõiki oma episoodi filtreid"</string>
+    <string name="click_on_the_tab_again_to_view_all_your_episode_filters">"Kõikide episoodifiltrite vaatamiseks klõpsake uuesti vahekaardil"</string>
+    <string name="stop_playing_when_time_is_up">"Lõpeta mängimine, kui aeg on lõppenud"</string>
+    <string name="sleep_timer_fired_stop_playing_">"Unerežiimi väljalülitamine, lõpetage mängimine!"</string>
+    <string name="yes_sure">"Jah, muidugi"</string>
+    <string name="play_all_from_new_to_old">"Mängi kõik uutelt vanaks"</string>
+    <string name="smart_update">"Nutikas värskendus"</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"Kontrollige uusi episoode pärast podcasti uusima episoodi lõpetamist"</string>
+    <string name="click_on_the_tab_again_to_view_download_actions">"Allalaadimismeetmete vaatamiseks klõpsake uuesti vahekaardil"</string>
+    <string name="remember_volume_level">"Pea meeles helitugevuse taset"</string>
+    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Pea meeles, et viimati mängitud helitugevus ja taasesituse alguses taastada"</string>
+    <string name="metered_network">"Mõõdetud võrk"</string>
+    <string name="allow_to_download_over_metered_network">"Lubage laadida üle mõõdetud võrgu"</string>
+    <string name="respond_to_media_button">"Vastake meedia nupule"</string>
+    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">"Luba alustada mängimist Bluetooth-mängukäskudes, mis on saadud rakenduse sulgemisel."</string>
+    <string name="remind_me_1_minute_less">"Tuletage mulle meelde (1 minut vähem)"</string>
+    <string name="unread_count">"Lugemata arv"</string>
+    <string name="newest_unread">"Uusim lugemata"</string>
+    <string name="no_articles_selected_">"Pole ühtegi artiklit valitud!"</string>
+    <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: Märkige kõik artiklid loetuks?"</string>
+    <string name="mark_all_articles_as_read_">"Märkige kõik artiklid loetuks?"</string>
+    <string name="mark_all_articles_published_earlier_than_this_article_s_as_read_">"Märgi kõik artiklid, mis on avaldatud varem kui see artikkel [ %1$s ] loetud?"</string>
+    <string name="there_are_no_articles_">"Artikleid ei ole."</string>
+    <string name="unreads_d">"Lugemata: %d"</string>
+    <string name="total_articles_d">"Artikleid kokku: %d"</string>
+    <string name="rss_feed_url">"RSS-voo URL"</string>
+    <string name="check_rss_feed_update">"Kontrollige RSS-voo värskendust"</string>
+    <string name="_is_not_found_add_this_rss_feed_">"[ %1$s ] ei leitud. Lisage see RSS-voog URL-i järgi?"</string>
+    <string name="add_a_rss_feed_by_url">"Lisage RSS-voog URL-i järgi"</string>
+    <string name="mark_as_read">"Märgi loetuks"</string>
+    <string name="new_articles_available">"Saadaval on uued RSS-artiklid"</string>
+    <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">"WiFi-ühendus pole saadaval. RSS-voo uuendamise kontrollimise tühistamine."</string>
+    <string name="add_rss_feeds">"Lisage RSS-vooge"</string>
+    <string name="search_rss_feeds">"Otsi RSS-vooge"</string>
+    <string name="reset_feed">"Lähtestage kanal"</string>
+    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">"Lähtestage sööt hävitab vahemällu salvestatud andmed ja taastab RSS-voogust!"</string>
+    <string name="mark_all_previous_articles_as_read">"Märkige kõik eelmised artiklid loetuks"</string>
+    <string name="unread">"Lugemata"</string>
+    <string name="rss_feeds">"RSS-kanalid"</string>
+    <string name="review_submitted_">"Läbivaatamine esitatud."</string>
+    <string name="add_radio_stations">"Lisage raadiojaamad"</string>
+    <string name="radio_station">"Raadiojaam"</string>
+    <string name="view_your_podcast_subscriptions">"Saate vaadata oma netisaate tellimusi"</string>
+    <string name="view_your_radio_subscriptions">"Vaadake oma raadio tellimusi"</string>
+    <string name="view_your_rss_feed_subscriptions">"Vaadake oma RSS-kanalite tellimusi"</string>
+    <string name="there_are_no_unplayed_episodes_">"Esitamata episoode pole!"</string>
+    <string name="there_are_no_played_episodes_">"Mängitud episoode pole!"</string>
+    <string name="there_are_no_favorite_episodes_">"Lemmikepisoode pole!"</string>
+    <string name="there_are_no_downloaded_episodes_">"Allalaaditud episoode pole!"</string>
+    <string name="start_playing_and_go_to_now_playing">"Alusta mängimist ja minge kohe mängima"</string>
+    <string name="show_unplayed_recent_counters">"Näita mängimata / viimaseid loendureid"</string>
+    <string name="hide_unplayed_recent_counters">"Peida mängimata / hiljutised loendurid"</string>
+    <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Raadiojaamu ei leitud. Raadiojaama lisamiseks vajutage nuppu Lisa (+)."</string>
+    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"RSS-kanaleid ei leitud. Kanali lisamiseks vajutage nuppu Lisa (+)."</string>
+    <string name="tag_radios">"Märkige raadiod"</string>
+    <string name="episode">"Episood"</string>
+    <string name="edit_mode">"Redigeerimisrežiim"</string>
+    <string name="no_radio_stations_selected_">"Valitud raadiojaamu pole!"</string>
+    <string name="no_rss_feeds_selected_">"RSS-vooge pole valitud!"</string>
+    <string name="hide_empty_feeds">"Peida tühjad kanalid"</string>
+    <string name="tag_feeds">"Sildid"</string>
+    <string name="open_in_browser">"Ava brauseris"</string>
+    <string name="mark_as_unread">"Märgi mitteloetuks"</string>
+    <string name="article_url">"Artikli URL"</string>
+    <string name="summary">"Kokkuvõte"</string>
+    <string name="download_state_paused_battery_low">"Peatatud: aku on tühi"</string>
+    <string name="select_episodes_with_duration_greater_than_d_minutes">Select episodes with duration greater than %d minutes</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes">Select episodes with duration less than %d minutes</string>
+    <string name="short_time_unit_format_minute">Min</string>
+    <string name="hold_down_to_start_dragging">Hold down to start dragging</string>
+    <string name="swipe_right_action">Swipe right action</string>
+    <string name="stream_podcasts_via_wifi_only">Stream podcasts via Wi-Fi only</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Allow to stream podcasts only when Wi-Fi is connected</string>
+    <string name="stream_radios_via_wifi_only">Stream radios via Wi-Fi only</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Allow to stream radios only when Wi-Fi is connected</string>
+    <string name="history_and_stats">History &amp; Stats</string>
+    <string name="delete_downloads">Delete downloads</string>
+    <string name="keep_download">Keep download</string>
+    <string name="delete_episodes">Delete episodes</string>
+    <string name="priority_mode">Priority mode</string>
+    <string name="stats">Stats</string>
+    <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
+    <string name="since_s">Since: %s</string>
+    <string name="reset_stats">Reset stats</string>
+    <string name="display_latest_d_episodes">Display latest %d episodes</string>
+    <string name="find_rss_feed">Find RSS feed</string>
+    <string name="there_are_no_rss_feeds">There are no RSS feeds!</string>
+    <string name="got_it">Got it</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up Next list. As a result the Up Next will not be synced with the currently playing episode list or playlist.</string>
+    <string name="don_t_show_it_again">Don\'t show it again</string>
+    <string name="always_on">Always on</string>
+    <string name="always_on_amoled_black">Always on (AMOLED black)</string>
+    <string name="auto_switch">Auto switch</string>
+    <string name="auto_switch_amoled_black">Auto switch (AMOLED black)</string>
+    <string name="smart_rewind_on_resuming">Smart rewind on resuming</string>
+    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Automatically rewind %1$d to %2$d seconds when resuming the playback</string>
+    <string name="minimum_rewind_time_d_seconds">Minimum rewind time: %d seconds.</string>
+    <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
+    <string name="show_radio_station_title">Show station title</string>
+    <string name="hide_radio_station_title">Hide station title</string>
+    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
+    <string name="not_in_downloads_list">Not in Downloads list</string>
+    <string name="reversed_landscape">Reversed landscape</string>
+    <string name="reset_sleep_timer">Reset sleep timer</string>
+    <string name="toggle_playback_speed_on_off">Toggle playback speed on/off</string>
+    <string name="mark_all_previous_episodes_as_played">Mark all previous episodes as played</string>
+    <string name="there_are_no_episodes_with_notes_">There are no episodes with notes!</string>
+    <string name="there_are_no_deleted_episodes_">There are no deleted episodes!</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="remove_favorite_mark">Remove favorite mark</string>
+    <string name="persistent_play_bar">Persistent play bar</string>
+    <string name="keep_play_bar_displayed_after_playback_finishes">Keep play bar displayed after playback finishes</string>
+    <string name="rotate_by_podcasts">Rotate by podcasts</string>
+    <string name="search_in_all_podcasts">Search in all podcasts</string>
+    <string name="search_in_subscribed_podcasts">Search in subscribed podcasts</string>
+    <string name="search_by_podcast_title">Search by podcast title</string>
+    <string name="search_by_podcast_publisher">Search by podcast publisher</string>
+    <string name="all_podcasts">All podcasts</string>
+    <string name="my_podcasts">My podcasts</string>
+    <string name="fade_audio_out_2_minutes_less">Fade audio out (2 minutes less)</string>
+    <string name="keep_all_articles">Keep all articles</string>
+    <string name="keep_articles">Keep articles</string>
+    <string name="keep_articles_from_last_d_days">Keep articles from last %d days</string>
+    <string name="pref_download_location_select_prompt_message">You will be redirected to Android file manager. Please select a directory on internal storage or SD card to be used as the download location.</string>
+    <string name="review_wifi_only_prompt_message">Do you know this app uses WiFi only by default? You can turn off WiFi only if you have fast data connection. Do you want to review the WiFi only settings now?</string>
+    <string name="delete_virtual_podcast_file_from_storage_after_being_played">Delete virtual podcast file from storage after being played</string>
+    <string name="play_all">Play all</string>
+    <string name="remove_played_episode">Remove played episode</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">Remove the episode from playlist after being played</string>
+    <string name="apply_this_change_to_all_playlist_">Apply this change to all playlists?</string>
+    <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
+    <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
+    <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
+    <string name="_d_minutes">%d Minutes</string>
+    <string name="time_unit_minutes">Minutes</string>
+    <string name="greater_than">Greater than</string>
+    <string name="less_than">Less than</string>
+    <string name="has_duration">Has duration</string>
+    <string name="filter_episode_title">Filter episode title</string>
+    <string name="filter_episode_duration">Filter episode duration</string>
+    <string name="clear_the_recents_list_">Clear the Recents list?</string>
+    <string name="clear_the_list">Clear the list</string>
+    <string name="play_as_video">Play as video</string>
+    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Auto download up to %d older and unplayed episodes from current playing podcast</string>
+    <string name="select_all_below">Select all below</string>
+    <string name="select_all_above">Select all above</string>
+    <string name="ignore_articles_in_title">Ignore articles in title</string>
+    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignore articles (A, An, or The) in podcast title when sorting by title</string>
+    <string name="create_shortcut">Create shortcut</string>
+    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Allow to use mobile data and ignore battery restrictions when downloading episodes.</string>
+    <string name="show_play_next_episode_station_button">Show Play next episode/station button</string>
+    <string name="append_to_up_next">Append to Up next</string>
+    <string name="only_include_episodes_with_user_notes">Only include episodes with user notes</string>
+    <string name="description_preview">Description preview</string>
+    <string name="d_lines_of_text">%d lines</string>
+    <string name="mark_current_playback_position">Mark current playback position</string>
+    <string name="comma">", "</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Pick an image as the shortcut icon</string>
+    <string name="use_default_icon">Use default icon</string>
+    <string name="syncing_articles_">Syncing articles…</string>
+    <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
+    <string name="download_priority">Download priority</string>
+    <string name="pin_to_top">Pin to top</string>
+    <string name="unpin_from_top">Unpin from top</string>
+    <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
+    <string name="add_tags_to_podcasts">Add tags to podcast</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
+    <string name="podcast_artwork">Podcast artwork</string>
+    <string name="rss_feed_artwork">RSS feed artwork</string>
+    <string name="add_tags_to_rss_feed">Add tags to RSS feed</string>
+    <string name="_1s_2s_n">%1$s: %2$s\n</string>
+    <string name="_1s_2d_kbs_n">%1$s: %2$dKB/s\n</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="author">Author</string>
+    <string name="composer">Composer</string>
+    <string name="album_artist">Album artist</string>
+    <string name="year">Year</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="number_of_tracks">Number of tracks</string>
+    <string name="preview_notes">Preview notes</string>
+    <string name="preview_user_notes_in_list">Preview user notes in list</string>
+    <string name="extract_from_metadata">Extract from metadata</string>
+    <string name="use_filename">Use filename</string>
+    <string name="delete_played_episode">Delete played episode</string>
+    <string name="copy_files_to_download_directory">Copy files to download directory</string>
+    <string name="move_files_to_download_directory">Move files to download directory</string>
+    <string name="greater_than_d_minutes">&gt; %1$d minutes</string>
+    <string name="less__than_d_minutes">&lt; %1$d minutes</string>
+    <string name="jump_to_next_chapter">Jump to next chapter</string>
+    <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
+    <string name="true_crime">True crime</string>
+    <string name="leisure">Leisure</string>
+    <string name="fiction">Fiction</string>
+    <string name="genre_type_hisotry">History</string>
+    <string name="animations">Animations</string>
+    <string name="list_animation">List animation</string>
+    <string name="animate_items_when_loading_into_list">Animate items when loading into list</string>
+    <string name="failed_to_update_podcast_s">Failed to update podcast: %s</string>
+    <string name="reset_password">Reset password</string>
+    <string name="account_already_exists_please_login_with_the_email_and_password_">Account already exists, please login with the email and password.</string>
+    <string name="sleep_timer_is_on_">Sleep timer is on!</string>
+    <string name="advanced_options">Advanced</string>
+    <string name="auto_start_sleep_timer">Auto start</string>
+    <string name="auto_pause_sleep_timer">Auto pause</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
+    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="_d_db">%1$d dB</string>
+    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automatically turn on sleep timer when start playing between the selected time [%1$s - %2$s].</string>
+    <string name="schedule_sleep_time">Schedule sleep time</string>
+    <string name="error_start_time_and_end_time_can_not_be_same_">Error: \"Start time\" and \"End time\" can not be same!</string>
+    <string name="s1_colon_s2">%1$s: %2$s</string>
+    <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Apply audio effects to all podcasts and radio stations?</string>
+    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
+    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
+    <string name="website">Website</string>
+    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
+    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
+    <string name="auto_load_last_played_episode">Auto load last played episode</string>
+    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
+</resources>

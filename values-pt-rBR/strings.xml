@@ -217,7 +217,7 @@
     <string name="car_mode">Modo carro</string>
     <string name="update_artwork">Atualizar arte de capa</string>
     <string name="enter_new_artwork_url">Digite a URL da nova arte de capa</string>
-    <string name="sleep_timer">Tempo do modo sleep</string>
+    <string name="sleep_timer">Timer do modo sleep</string>
     <string name="last_updated_s">"Última atualização: %1$s"</string>
     <string name="fast_forward">Avanço rápido</string>
     <string name="fast_rewind">Retroceder</string>
@@ -249,7 +249,7 @@
     <string name="oldest_first">Antigos primeiro</string>
     <string name="on">On</string>
     <string name="off">Off</string>
-    <string name="stop_sleep_timer">Cancelar modo sleep</string>
+    <string name="stop_sleep_timer">Cancelar timer do modo sleep</string>
 
     <string-array name="ui_theme_text">
         <item>Tudo branco</item>
@@ -542,16 +542,16 @@
     <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
     <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
     <string name="percent_played">%1$d%% reproduzido</string>
-    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Puxar a lista de assinaturas para baixo para iniciar a verificação da atualização dos podcasts</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Puxar a lista de assinaturas para baixo para verificar atualizações dos podcasts</string>
     <string name="actions">Ação</string>
-    <string name="when_an_episode_is_100_played">"Quando um episódio é reproduzido a 100%"</string>
+    <string name="when_an_episode_is_100_played">"Quando 100% de um episódio é reproduzido"</string>
     <string name="delete_the_download">Excluir o download</string>
     <string name="keep_the_download">Manter a transferência</string>
-    <string name="shake_your_device">"Agite o seu dispositivo"</string>
-    <string name="shake_device_to_control_playback">"Agite o dispositivo para controlar a reprodução"</string>
+    <string name="shake_your_device">"Agitar o seu dispositivo"</string>
+    <string name="shake_device_to_control_playback">"Agitar o dispositivo para controlar a reprodução"</string>
     <string name="sensitivity">"Sensibilidade"</string>
     <string name="gestures">"Gestos"</string>
-    <string name="user_agreement">Acordo do Usuário</string>
+    <string name="user_agreement">Termos de uso</string>
     <string name="multi_thread_download">"Múltiplas transferências em simultâneo"</string>
     <string name="recents">Recente</string>
     <string name="group_by_podcasts">"Agrupar por podcasts"</string>
@@ -610,7 +610,7 @@
     <string name="set_playlists">"Definir listas de reprodução"</string>
     <string name="mark_all_as_read">"Marcar tudo como lido"</string>
     <string name="not_in_use">"Não está em uso"</string>
-    <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Puxe para baixo a lista dos episódios para iniciar a verificação da atualização dos podcasts"</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Puxar para baixo a lista dos episódios para verificar atualizações dos podcasts"</string>
     <string name="mark_all_previous_episodes_as_played">"Marcar todos os episódios anteriores como reproduzidos"</string>
     <string name="remove_favorite">"Remover favorito"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Marcar todos os episódios publicados anteriormente a este episódio [ %1$s ] como reproduzidos?"</string>
@@ -676,7 +676,7 @@
     <string name="add_a_youtube_channel_or_playlist_as_a_podcast">"Adicionar um canal ou lista de reprodução do YouTube como um podcast."</string>
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Definir um podcast virtual para reproduzir música ou audiolivros no seu dispositivo."</string>
     <string name="click_to_adjust_playback_speed">"Clique para ajustar a velocidade de reprodução"</string>
-    <string name="click_to_set_up_sleep_timer">"Clique para definir o temporizador de inatividade"</string>
+    <string name="click_to_set_up_sleep_timer">"Clique para definir o timer do modo sleep"</string>
     <string name="click_to_view_more_options_">"Clique para ver mais opções…"</string>
     <string name="click_to_select_playback_mode">"Clique para selecionar o modo de reprodução"</string>
     <string name="percetage_value">%d%%</string>
@@ -687,7 +687,7 @@
     <string name="selected_podcasts_s">Selecionar podcasts: %s</string>
     <string name="unplayed_less_than_d_played">Não reproduzido (&lt; %d%% reproduzido)</string>
     <string name="played_greater_than_d_played">Reproduzido (&gt;= %d%% reproduzido)</string>
-    <string name="unfinished_less_than_100_played">Não terminado (&lt; 100% reproduzido)</string>
+    <string name="unfinished_less_than_100_played">Não finalizado (&lt; 100% reproduzido)</string>
     <string name="finished_100_played">Terminado (100% reproduzido)</string>
     <string name="restore_defaults">Restaurar definições padrão</string>
     <string name="at_least_one_episode_filter_is_required_">É necessário pelo menos um filtro de episódio!</string>
@@ -860,17 +860,17 @@
     <string name="priority_d">Prioridade: %d</string>
     <string name="stream_all">Fazer stream de todos</string>
     <string name="view_all_your_playlists">Ver todas as suas playlists</string>
-    <string name="click_on_the_tab_again_to_view_all_your_playlists">Clique na tab de novo para ver todas as suas playlists</string>
+    <string name="click_on_the_tab_again_to_view_all_your_playlists">Clique na aba de novo para ver todas as suas playlists</string>
     <string name="edit_playlist">Editar playlist</string>
-    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">Clique na tab de novo para ver todos os seus tags de podcasts</string>
-    <string name="changing_the_play_mode_to_repeat_a_playlist_">A alterar o modo de tocar para repetir a playlist:</string>
-    <string name="_removing_from_playlist_on_played_will_be_disabled">- Remoção da playlist quando tocado vai ser desativado</string>
-    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Remoção do arquivo de podcast baixado quando tocado vai ser desativado</string>
+    <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">Clique na aba de novo para ver todos as suas tags de podcasts</string>
+    <string name="changing_the_play_mode_to_repeat_a_playlist_">Alterando o modo de reprodução para repetir a playlist:</string>
+    <string name="_removing_from_playlist_on_played_will_be_disabled">- Remover da playlist após a reprodução será desativado</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- A exclusão do podcast baixado após a reprodução será desativada</string>
     <string name="view_all_your_episode_filters">Ver todos os filtros de episódios</string>
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Clique no tab de novo para ver todos os filtros de episódios</string>
     <string name="stop_playing_when_time_is_up">Parar de tocar quando o tempo terminar</string>
-    <string name="sleep_timer_fired_stop_playing_">Temporizador de adormecer disparado, parar de tocar!</string>
-    <string name="yes_sure">Sim, de certeza</string>
+    <string name="sleep_timer_fired_stop_playing_">Timer do modo sleep acionado, parar de tocar!</string>
+    <string name="yes_sure">Sim, com certeza</string>
     <string name="play_all_from_new_to_old">Tocar todos do mais recente para o mais antigo</string>
     <string name="smart_update">atualização inteligente</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"Verificar se há novos episódios depois de concluir o episódio mais recente do podcast"</string>
@@ -955,7 +955,7 @@
     <string name="find_rss_feed">"Encontrar feeds RSS"</string>
     <string name="there_are_no_rss_feeds">"Não há feeds RSS!"</string>
     <string name="got_it">"Entendi"</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">"Você reordenou a lista \"Próximos\". Como resultado, esta lista não será sincronizada com a lista de episódios tocando atualmente ou playlist."</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">"Você reordenou a lista \"Próximo\". Como resultado, esta lista não será sincronizada com a lista de episódios tocando atualmente ou com a playlist."</string>
     <string name="don_t_show_it_again">"Não mostrar novamente"</string>
     <string name="always_on">"Sempre ligado"</string>
     <string name="always_on_amoled_black">"Sempre ligado (preto AMOLED)"</string>
@@ -970,7 +970,7 @@
     <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">"Se não for selecionado nenhum dia para repetir, o alarme será acionado apenas uma vez."</string>
     <string name="not_in_downloads_list">"Não está na lista de downloads"</string>
     <string name="reversed_landscape">"Paisagem invertida"</string>
-    <string name="reset_sleep_timer">"Resetar temporizador"</string>
+    <string name="reset_sleep_timer">"Resetar timer"</string>
     <string name="toggle_playback_speed_on_off">"Ativar/desativar a velocidade de reprodução"</string>
     <string name="http">"HTTP"</string>
     <string name="app_name">"Podcast Republic"</string>
@@ -1035,7 +1035,7 @@
     <string name="unpin_from_top">Desafixar do topo</string>
     <string name="only_include_episodes_with_user_chapters">Incluir apenas episódios com capítulos de usuários</string>
     <string name="add_tags_to_podcasts">Adicionar tags ao podcast</string>
-    <string name="add_new_episodes_to_selected_playlists_automatically_">Adcionar novos episódios às playlists automaticamente.</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Adicionar novos episódios às playlists automaticamente.</string>
     <string name="podcast_artwork">Arte do podcast</string>
     <string name="rss_feed_artwork">Arte do feed RSS</string>
     <string name="_1s_2s_n">%1$s: %2$s\n</string>
@@ -1069,23 +1069,23 @@
     <string name="failed_to_update_podcast_s">Falha ao atualizar podcast: %s</string>
     <string name="reset_password">Redefinir senha</string>
     <string name="account_already_exists_please_login_with_the_email_and_password_">A conta já existe, por favor entre com o seu email e senha.</string>
-    <string name="sleep_timer_is_on_">Modo sleep ligado!</string>
+    <string name="sleep_timer_is_on_">Timer do modo sleep ligado!</string>
     <string name="advanced_options">Avançado</string>
-    <string name="auto_start_sleep_timer">Auto start</string>
-    <string name="auto_pause_sleep_timer">Auto pause</string>
-    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Pausar automaticamente o modo sleep enquanto a reprodução estiver pausada.</string>
+    <string name="auto_start_sleep_timer">Início automático</string>
+    <string name="auto_pause_sleep_timer">Pausa automática</string>
+    <string name="automatically_pause_sleep_timer_when_playback_is_paused">Pausar automaticamente o timer do modo sleep enquanto a reprodução estiver pausada.</string>
     <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
     <string name="_d_db">%1$d dB</string>
-    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automatically turn on sleep timer when start playing between the selected time [%1$s - %2$s].</string>
-    <string name="schedule_sleep_time">Schedule sleep time</string>
-    <string name="error_start_time_and_end_time_can_not_be_same_">Error: \"Start time\" and \"End time\" can not be same!</string>
+    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Ativar o timer do modo sleep automaticamente quando a reprodução iniciar entre estes horários [%1$s - %2$s].</string>
+    <string name="schedule_sleep_time">Agendar timer do modo sleep</string>
+    <string name="error_start_time_and_end_time_can_not_be_same_">Erro: \"Tempo Inicial\" e \"Tempo Final\" não podem ser iguais!</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
-    <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Apply audio effects to all podcasts and radio stations?</string>
-    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
-    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
+    <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Aplicar efeitos de áudio a todos os podcasts e estações de rádio?</string>
+    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Permitir baixar os episódios não reproduzidos mais antigos, se novos episódios não forem encontrados.</string>
+    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Permitir baixar os episódios não reproduzidos mais novos, se episódios antigos não forem encontrados.</string>
     <string name="website">Website</string>
-    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
-    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
-    <string name="auto_load_last_played_episode">Auto load last played episode</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
+    <string name="allow_to_sort_playlist_manually">Permitir ordenar a playlist manualmente.</string>
+    <string name="preview_descriptions_in_list">Visualizar descrições na lista.</string>
+    <string name="auto_load_last_played_episode">Carregar automaticamente o último episódio reproduzido</string>
+    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Carrega automaticamente o último episódio reproduzido na playlist no \'Tocando agora\'.</string>
 </resources>

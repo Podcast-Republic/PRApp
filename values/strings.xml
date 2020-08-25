@@ -762,6 +762,8 @@
     <string name="syncing_episode_changes_">Syncing episode changes…</string>
     <string name="syncing_radio_subscription_changes_">Syncing radio subscription changes…</string>
     <string name="syncing_podcast_subscription_changes_">Syncing podcast subscription changes…</string>
+    <string name="syncing_app_setting_changes_s">Syncing app Setting changes: %1$s.</string>
+    <string name="syncing_app_setting_changes_">Syncing app Setting changes…</string>
     <string name="syncing">Syncing</string>
     <string name="current_playlist">Current playlist</string>
     <string name="continue_to_next_playlist">Continue to next playlist</string>
@@ -1111,4 +1113,9 @@
     <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
     <string name="auto_load_last_played_episode">Auto load last played episode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
+    <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
+    <string name="delete_the_tag_s">"Delete the tag: %s?"</string>
+    <string name="delete_the_episode_filter_s">"Delete the episode filter: %s?"</string>
+    <string name="sleep_after">Sleep after</string>
+    <string name="sleep_at_time">Sleep at time</string>
 </resources>

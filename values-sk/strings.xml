@@ -1116,6 +1116,6 @@
     <string name="delete_the_episode_filter_s">"Odstrániť filter epizódy: %s?"</string>
     <string name="syncing_app_setting_changes_s">Synchronizovať zmeny Nastavenia apky: %1$s.</string>
     <string name="syncing_app_setting_changes_">Synchronizovať zmeny Nastavenia…</string>
-    <string name="sleep_after">Sleep after</string>
-    <string name="sleep_at_time">Sleep at time</string>
+    <string name="sleep_after">Uspať po</string>
+    <string name="sleep_at_time">Uspať o</string>
 </resources>

@@ -689,7 +689,7 @@
     <string name="manage_episode_filters">Spravovať filtre epizód</string>
     <string name="episode_filter">Filter epizódy</string>
     <string name="browse_by_episode_filters">Prehliadať podľa filtrov epizód</string>
-    <string name="syncing_account_login_failed_please_try_logging_in_again_">Prihlasovanie synchronizácie účtu zlyhalo, skúste sa prihlásiť znova.</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">Prihlásenie k účtu synchronizácie zlyhalo, skúste sa prihlásiť znova.</string>
     <string name="filter">Filter</string>
     <string name="view_all_episodes">Zobraziť všetky epizódy</string>
     <string name="view_finished_episodes">Zobraziť dokončené epizódy</string>

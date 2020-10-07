@@ -1095,4 +1095,7 @@
     <string name="syncing_app_setting_changes_">Syncing app Setting changes…</string>
     <string name="sleep_after">Sleep after</string>
     <string name="sleep_at_time">Sleep at time</string>
+    <string name="export_episode_list">Export episode list</string>
+    <string name="as_html_file">as HTML file</string>
+    <string name="as_json_file">as JSON file</string>
 </resources>

@@ -1118,4 +1118,7 @@
     <string name="delete_the_episode_filter_s">"Delete the episode filter: %s?"</string>
     <string name="sleep_after">Sleep after</string>
     <string name="sleep_at_time">Sleep at time</string>
+    <string name="export_episode_list">Export episode list</string>
+    <string name="as_html_file">as HTML file</string>
+    <string name="as_json_file">as JSON file</string>
 </resources>

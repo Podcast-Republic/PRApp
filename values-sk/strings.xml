@@ -689,7 +689,7 @@
     <string name="manage_episode_filters">Spravovať filtre epizód</string>
     <string name="episode_filter">Filter epizódy</string>
     <string name="browse_by_episode_filters">Prehliadať podľa filtrov epizód</string>
-    <string name="syncing_account_login_failed_please_try_logging_in_again_">Prihlasovanie synchronizácie účtu zlyhalo, skúste sa prihlásiť znova.</string>
+    <string name="syncing_account_login_failed_please_try_logging_in_again_">Prihlásenie k účtu synchronizácie zlyhalo, skúste sa prihlásiť znova.</string>
     <string name="filter">Filter</string>
     <string name="view_all_episodes">Zobraziť všetky epizódy</string>
     <string name="view_finished_episodes">Zobraziť dokončené epizódy</string>
@@ -1116,8 +1116,8 @@
     <string name="delete_the_episode_filter_s">"Odstrániť filter epizódy: %s?"</string>
     <string name="syncing_app_setting_changes_s">Synchronizovať zmeny Nastavenia apky: %1$s.</string>
     <string name="syncing_app_setting_changes_">Synchronizovať zmeny Nastavenia…</string>
-    <string name="sleep_after">Sleep after</string>
-    <string name="sleep_at_time">Sleep at time</string>
+    <string name="sleep_after">Uspať po</string>
+    <string name="sleep_at_time">Uspať o</string>
     <string name="export_episode_list">Export episode list</string>
     <string name="as_html_file">as HTML file</string>
     <string name="as_json_file">as JSON file</string>

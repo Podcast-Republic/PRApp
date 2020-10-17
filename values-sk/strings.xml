@@ -1118,7 +1118,7 @@
     <string name="syncing_app_setting_changes_">Synchronizovať zmeny Nastavenia…</string>
     <string name="sleep_after">Uspať po</string>
     <string name="sleep_at_time">Uspať o</string>
-    <string name="export_episode_list">Export episode list</string>
-    <string name="as_html_file">as HTML file</string>
-    <string name="as_json_file">as JSON file</string>
+    <string name="export_episode_list">Exportovať zoznam epizód</string>
+    <string name="as_html_file">ako HTML súbor</string>
+    <string name="as_json_file">ako JSON súbor</string>
 </resources>

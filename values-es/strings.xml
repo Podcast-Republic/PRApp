@@ -540,7 +540,7 @@
     <string name="streaming">"Transmisión"</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Ingresar el nombre de usuario y la contraseña a continuación si su podcast requiere autentificación. Déjelos vacíos si no se requiere autentificación."</string>
     <string name="can_not_play_ps">"No se puede reproducir: %1$s"</string>
-     <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+     <string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
     <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
     <string name="percent_played">"%1$d %% reproducido"</string>
     <string name="pull_down_podcasts_list_to_start_podcast_update_checking">"Bajar la lista de podcasts para iniciar la actualización de podcast"</string>
@@ -917,8 +917,10 @@
     <string name="there_are_no_favorite_episodes_">"¡No hay episodios favoritos!"</string>
     <string name="there_are_no_downloaded_episodes_">"¡No hay episodios descargados!"</string>
     <string name="start_playing_and_go_to_now_playing">"Comenzar la reproducción e ir a la pantalla de reproducción"</string>
-    <string name="show_unplayed_recent_counters">"Mostrar contadores de no reproducidos/recientes"</string>
-    <string name="hide_unplayed_recent_counters">"Ocultar contadores no reproducidos/recientes"</string>
+    <string name="show_unplayed_counter">"Mostrar contadores de no reproducidos"</string>
+    <string name="hide_unplayed_counter">"Ocultar contadores no reproducidos"</string>
+    <string name="show_recent_counter">"Mostrar contadores de no recientes"</string>
+    <string name="hide_recent_counter">"Ocultar contadores no recientes"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"No se han encontrado emisoras de radio. Presione el botón Agregar (+) para agregar una emisora de radio."</string>
     <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"No se han encontrado feeds de RSS. Presione el botón Agregar (+) para agregar un feed."</string>
     <string name="tag_radios">"Etiquetar radios"</string>
@@ -1096,4 +1098,9 @@
     <string name="export_episode_list">Export episode list</string>
     <string name="as_html_file">as HTML file</string>
     <string name="as_json_file">as JSON file</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Display episode artwork retrieved from podcast feed.</string>
+    <string name="use_podcast_artwork_as_episode_artwork_">Use podcast artwork as episode artwork.</string>
+    <string name="use_embedded_artwork">Use embedded artwork</string>
+    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Prefer to use artwork extracted from downloaded podcast file.</string>
+    <string name="display_episode_artwork_retrieved_from_media_file_">Display episode artwork retrieved from media file.</string>
 </resources>

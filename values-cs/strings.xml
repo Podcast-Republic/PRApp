@@ -540,7 +540,7 @@
     <string name="streaming">"Streamování"</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Pokud podcast vyžaduje ověření, zadejte uživatelské jméno a heslo. Nechte je prázdné, pokud není vyžadováno ověřování."</string>
     <string name="can_not_play_ps">"Nelze přehrát: %1$s"</string>
-    <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+    <string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
     <string name="unknown_percent_file_size">"- %1$s %2$s"</string>
     <string name="percent_played">"%% %1$d %% přehráno"</string>
     <string name="pull_down_podcasts_list_to_start_podcast_update_checking">"Chcete-li aktualizovat podcast, zatáhněte za něj dolů"</string>
@@ -917,8 +917,10 @@
     <string name="there_are_no_favorite_episodes_">"Neexistují žádné oblíbené epizody!"</string>
     <string name="there_are_no_downloaded_episodes_">"Nejsou stažené epizody!"</string>
     <string name="start_playing_and_go_to_now_playing">Začít hrát a jít na Pravě hraje</string>
-    <string name="show_unplayed_recent_counters">Ukázat počty nepřehraných/nových</string>
-    <string name="hide_unplayed_recent_counters">Skrýt počty nepřehraných/nových</string>
+    <string name="show_unplayed_counter">Ukázat počty nepřehraných</string>
+    <string name="hide_unplayed_counter">Skrýt počty nepřehraných</string>
+    <string name="show_recent_counter">Ukázat počty nových</string>
+    <string name="hide_recent_counter">Skrýt počty nových</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nenalezeny žádné stanice. Stiskněte tlačítko přidat (+) a nějaké vyberte.</string>
     <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Nenalezeny žádný RSS kanál. Stiskněte tlačítko přidat (+) a nějaký vyberte.</string>
     <string name="tag_radios">"Štítky rádií"</string>
@@ -1097,4 +1099,9 @@
     <string name="export_episode_list">Export episode list</string>
     <string name="as_html_file">as HTML file</string>
     <string name="as_json_file">as JSON file</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Display episode artwork retrieved from podcast feed.</string>
+    <string name="use_podcast_artwork_as_episode_artwork_">Use podcast artwork as episode artwork.</string>
+    <string name="use_embedded_artwork">Use embedded artwork</string>
+    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Prefer to use artwork extracted from downloaded podcast file.</string>
+    <string name="display_episode_artwork_retrieved_from_media_file_">Display episode artwork retrieved from media file.</string>
 </resources>

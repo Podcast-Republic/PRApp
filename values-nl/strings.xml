@@ -540,7 +540,7 @@
     <string name="streaming">Streamen</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">Voer de gebruikersnaam en wachtwoord in wanneer jouw podcast is beschermd. Laat leeg wanneer de podcast niet is beschermd.</string>
     <string name="can_not_play_ps">"Kan niet afspelen: %1$s"</string>
-    <string name="percent_file_size">"%1$.1f%% %2$s%3$s"</string>
+    <string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
     <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
     <string name="percent_played">%1$d%% gespeeld</string>
     <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Sleep abonnementenlijst naar beneden om de podcast update controle te beginnen</string>
@@ -917,8 +917,10 @@
     <string name="there_are_no_favorite_episodes_">"Er zijn geen favoriete afleveringen!"</string>
     <string name="there_are_no_downloaded_episodes_">"Er zijn geen gedownloade afleveringen!"</string>
     <string name="start_playing_and_go_to_now_playing">"Begin met spelen en ga naar Nu spelen"</string>
-    <string name="show_unplayed_recent_counters">"Toon ongespeelde/recente tellers"</string>
-    <string name="hide_unplayed_recent_counters">"Ongespeelde/recente tellers verbergen"</string>
+    <string name="show_unplayed_counter">"Toon ongespeelde tellers"</string>
+    <string name="hide_unplayed_counter">"Ongespeelde tellers verbergen"</string>
+    <string name="show_recent_counter">"Toon recente tellers"</string>
+    <string name="hide_recent_counter">"Recente tellers verbergen"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Geen radiozenders gevonden. Druk op de knop Toevoegen (+) om een radiozender toe te voegen."</string>
     <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"Geen RSS-feeds gevonden. Druk op de knop Toevoegen (+) om een feed toe te voegen."</string>
     <string name="tag_radios">"Tag radio's"</string>
@@ -1099,4 +1101,9 @@
     <string name="export_episode_list">Export episode list</string>
     <string name="as_html_file">as HTML file</string>
     <string name="as_json_file">as JSON file</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Display episode artwork retrieved from podcast feed.</string>
+    <string name="use_podcast_artwork_as_episode_artwork_">Use podcast artwork as episode artwork.</string>
+    <string name="use_embedded_artwork">Use embedded artwork</string>
+    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Prefer to use artwork extracted from downloaded podcast file.</string>
+    <string name="display_episode_artwork_retrieved_from_media_file_">Display episode artwork retrieved from media file.</string>
 </resources>

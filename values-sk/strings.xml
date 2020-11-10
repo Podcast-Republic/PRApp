@@ -1123,9 +1123,9 @@
     <string name="export_episode_list">Exportovať zoznam epizód</string>
     <string name="as_html_file">ako HTML súbor</string>
     <string name="as_json_file">ako JSON súbor</string>
-    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Display episode artwork retrieved from podcast feed.</string>
-    <string name="use_podcast_artwork_as_episode_artwork_">Use podcast artwork as episode artwork.</string>
-    <string name="use_embedded_artwork">Use embedded artwork</string>
-    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Prefer to use artwork extracted from downloaded podcast file.</string>
-    <string name="display_episode_artwork_retrieved_from_media_file_">Display episode artwork retrieved from media file.</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Zobraiť obrázok epizódy získaný zo zdroja podcastu.</string>
+    <string name="use_podcast_artwork_as_episode_artwork_">Použiť obrázok podcastu ako obrázok epizódy.</string>
+    <string name="use_embedded_artwork">Použiť vložený obrázok</string>
+    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Uprednostniť obrázok získaný zo stiahnutého súboru podcastu.</string>
+    <string name="display_episode_artwork_retrieved_from_media_file_">Zobraiť obrázok epizódy z získaný z mediálneho súboru.</string>
 </resources>

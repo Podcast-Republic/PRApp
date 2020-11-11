@@ -113,8 +113,8 @@
     <string name="add_a_podcast_by_url">"הוסף פודקאסט על ידי URL"</string>
     <string name="all">"הכל"</string>
     <string name="arts">"אומנות"</string>
-    <string name="business">"עסק"</string>
-    <string name="comedy">"קוֹמֶדִיָה"</string>
+    <string name="business">"עסקים"</string>
+    <string name="comedy">"קומדיה"</string>
     <string name="education">"השכלה"</string>
     <string name="games">"משחקים ותחביבים"</string>
     <string name="government">"ממשלה וארגונים"</string>
@@ -126,7 +126,7 @@
     <string name="science">"מדע ורפואה"</string>
     <string name="society">"חברה ותרבות"</string>
     <string name="sports">"ספורט ונופש"</string>
-    <string name="tech">"טֶכנוֹלוֹגִיָה"</string>
+    <string name="tech">"טכנולוגיה"</string>
     <string name="tv">"טלוויזיה וקולנוע"</string>
     <string name="title">"כותרת"</string>
     <string name="provider">"ספק:"</string>
@@ -137,7 +137,7 @@
     <string name="publisher">"מוציא לאור"</string>
     <string name="description_of_podcast">"תיאור הפודקאסט"</string>
     <string name="description">"תיאור"</string>
-    <string name="play">"לשחק"</string>
+    <string name="play">"נגן"</string>
     <string name="share">"שתף"</string>
     <string name="add_to_playlist">"הוסף לרשימת ההשמעה"</string>
     <string name="end_editing_mode">"סיים מצב עריכה"</string>
@@ -177,7 +177,7 @@
     <string name="no_wifi_available">"אין רשת אלחוטית זמינה!"</string>
     <string name="tag">"תגית"</string>
     <string name="updating">"מעדכן…"</string>
-    <string name="preparing">"מכין .."</string>
+    <string name="preparing">"מכין..."</string>
     <string name="error_no_wifi">"שגיאה: אין רשת אלחוטית"</string>
     <string name="auto_download">"הורדה אוטומטית"</string>
     <string name="playing">"מנגן כעת"</string>
@@ -250,16 +250,16 @@
     <string name="oldest_first">"הישן ביותר ראשון"</string>
     <string name="on">"מופעל"</string>
     <string name="off">"כבוי"</string>
-    <string name="stop_sleep_timer">"כבוי"</string>
+    <string name="stop_sleep_timer">"כבה"</string>
 
     <string-array name="ui_theme_text">
-        <item>All White</item>
+        <item>הכל לבן</item>
         <item>לבן</item>
         <item>"אדום"</item>
-        <item>"וָרוֹד"</item>
-        <item>"סָגוֹל"</item>
+        <item>"ורוד"</item>
+        <item>"סגול"</item>
         <item>"סגול עמוק"</item>
-        <item>"אִינדִיגוֹ"</item>
+        <item>"אינדיגו"</item>
         <item>"כחול"</item>
         <item>"תכלת"</item>
         <item>"טורקיז"</item>
@@ -271,11 +271,11 @@
         <item>"עמוק אורנג"</item>
         <item>"כחול אפור"</item>
         <item>"חשוך"</item>
-        <item>AMOLED Black</item>
+        <item>AMOLED שחור</item>
     </string-array>
 
     <string name="theme">"ערכת נושא"</string>
-    <string name="skip_beginning">"דלג התחלה"</string>
+    <string name="skip_beginning">"דלג על ההתחלה"</string>
     <string name="time_display_second_short_format">"שניות"</string>
     <string name="search_episode_title">"חפש כותרת פרק"</string>
     <string name="search_episodes">"חפש פרקים"</string>

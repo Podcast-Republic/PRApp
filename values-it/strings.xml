@@ -1106,4 +1106,12 @@
     <string name="use_embedded_artwork">Use embedded artwork</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Prefer to use artwork extracted from downloaded podcast file.</string>
     <string name="display_episode_artwork_retrieved_from_media_file_">Display episode artwork retrieved from media file.</string>
+    <string name="not_tagged">Untagged</string>
+    <string name="save_backup_to">Save backup to</string>
+    <string name="local_storage">Local storage</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="select_backup_file_to_restore_from">Select backup file to restore from</string>
+    <string name="open_android_file_manager">Open Android file manager</string>
+    <string name="android_file_manager_select_tip">Tips: Android file manager will be opened to complete the restore processing. Please navigate to where the backup file is located and then hold down the file to the select it. The default backup file is named in the format of backup_date.zip</string>
+    <string name="save_auto_backup_to">Salva backup automatico in</string>
 </resources>

@@ -1114,4 +1114,6 @@
     <string name="open_android_file_manager">Open Android file manager</string>
     <string name="android_file_manager_select_tip">Tips: Android file manager will be opened to complete the restore processing. Please navigate to where the backup file is located and then hold down the file to the select it. The default backup file is named in the format of backup_date.zip</string>
     <string name="save_auto_backup_to">Automatisches Backup sichern nach</string>
+    <string name="use_wifi_only">Use Wi-Fi only</string>
+    <string name="back_up_google_drive_only_when_wifi_is_connected_">Back up to Google Drive only when Wi-Fi is connected.</string>
 </resources>

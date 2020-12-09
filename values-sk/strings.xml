@@ -1136,6 +1136,6 @@
     <string name="open_android_file_manager">Otvorte správcu súborov Android</string>
     <string name="android_file_manager_select_tip">Tipy: Na dokončenie procesu obnovenia sa otvorí správca súborov Android. Prejdite na miesto, kde sa nachádza záložný súbor, a podržte ho a vyberte. Predvolený záložný súbor je pomenovaný vo formáte backup_date.zip</string>
     <string name="save_auto_backup_to">Uložiť automatickú zálohu do</string>
-    <string name="use_wifi_only">Use Wi-Fi only</string>
-    <string name="back_up_google_drive_only_when_wifi_is_connected_">Back up to Google Drive only when Wi-Fi is connected.</string>
+    <string name="use_wifi_only">Použiť iba Wi-Fi</string>
+    <string name="back_up_google_drive_only_when_wifi_is_connected_">Zálohovať na Disk Google iba pri pripojení na Wi-Fi.</string>
 </resources>

@@ -1138,4 +1138,7 @@
     <string name="save_auto_backup_to">Uložiť automatickú zálohu do</string>
     <string name="use_wifi_only">Použiť iba Wi-Fi</string>
     <string name="back_up_google_drive_only_when_wifi_is_connected_">Zálohovať na Disk Google iba pri pripojení na Wi-Fi.</string>
+    <string name="sunrise_time">Sunrise time</string>
+    <string name="sunset_time">Sunset time</string>
+    <string name="amoled_black">Čierna AMOLED</string>
 </resources>

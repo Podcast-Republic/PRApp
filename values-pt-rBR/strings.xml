@@ -1115,4 +1115,7 @@
     <string name="save_auto_backup_to">Guardar a cópia de segurança automática em</string>
     <string name="use_wifi_only">Use Wi-Fi only</string>
     <string name="back_up_google_drive_only_when_wifi_is_connected_">Back up to Google Drive only when Wi-Fi is connected.</string>
+    <string name="sunrise_time">Sunrise time</string>
+    <string name="sunset_time">Sunset time</string>
+    <string name="amoled_black">Preto AMOLED</string>
 </resources>

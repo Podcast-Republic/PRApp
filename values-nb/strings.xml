@@ -129,7 +129,7 @@
     <string name="add_chapter">Legg til kapittelinndeling</string>
     <string name="add_podcasts">Legg til podcaster</string>
     <string name="add_a_podcast_by_url">Legg til podcast via URL</string>
-    <string name="add_s_minutes">Legg til %1$d minutter</string>
+    <string name="extend_s_minutes">Legg til %1$d minutter</string>
     <string name="add_selection_s_to_playlist">Legg de valgt[e] til spilleliste</string>
     <string name="add_a_station_by_url">Legg til stasjon via URL</string>
     <string name="add_to_default_playlists">Legg til til standard spillelister</string>
@@ -412,7 +412,7 @@
     <string name="import_from_opml_file">Importer OPML</string>
     <string name="import_sub_directory">Importer undermappe</string>
     <string name="import_subscriptions_from_an_opml_file">Importer abonnement fra en OPML-fil</string>
-    <string name="in_minutes">Om %1$d minutter</string>
+    <string name="after_x_minutes">Om %1$d minutter</string>
     <string name="invalid_opml_file_selected_">Ugyldig OPML-fil valgt!</string>
     <string name="items_in_red_are_required_">Felter markert med rødt er obligatoriske</string>
     <string name="keep_all">Behold alle</string>
@@ -732,7 +732,7 @@
     <string name="whats_new">Nyheter</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">Vis varsel når en fil slettes fordi avsatt datamengde eller grense for antall nedlastinger som skal beholdes, er nådd.</string>
     <string name="when_an_episode_is_100_played">Når en episode er 100 % ferdigspilt</string>
-    <string name="when_current_episode_ends">Når den aktuelle episoden slutter</string>
+    <string name="after_current_episode_ends">Når den aktuelle episoden slutter</string>
     <string name="when_deleting_a_download">Når en nedlastet fil slettes</string>
     <string name="when_deleting_an_episode">Når du sletter en episode</string>
     <string name="when_deleting_from_playlist">Når filen slettes fra spillelisten</string>
@@ -951,7 +951,7 @@
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
-    <string name="since_s">Since: %s</string>
+    <string name="since_date">Since</string>
     <string name="reset_stats">Reset stats</string>
     <string name="display_latest_d_episodes">Display latest %d episodes</string>
     <string name="find_rss_feed">Find RSS feed</string>
@@ -1118,4 +1118,5 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">AMOLED Sort</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

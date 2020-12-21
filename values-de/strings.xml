@@ -419,8 +419,8 @@
     <string name="completed_downloads">"Downloads abgeschlossen"</string>
     <string name="top_charts">"Top-Charts"</string>
     <string name="browse_top_charts">"Top-Charts durchblättern"</string>
-    <string name="in_minutes">"In %1$d Minuten"</string>
-    <string name="when_current_episode_ends">"Wenn aktuelle Episode endet"</string>
+    <string name="after_x_minutes">"In %1$d Minuten"</string>
+    <string name="after_current_episode_ends">"Wenn aktuelle Episode endet"</string>
     <string name="add_chapter">"Kapitelmarke hinzufügen"</string>
     <string name="time">"Zeit"</string>
     <string name="filter_name">"Filtername"</string>
@@ -617,7 +617,7 @@
     <string name="remove_favorite">"Den Favoriten entfernen"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Alle Episoden, die neuer sind als diese Episode [%1$s] als gespielt markieren?"</string>
     <string name="exporting">"Wird exportiert"</string>
-    <string name="add_s_minutes">"%1$d Minuten hinzufügen"</string>
+    <string name="extend_s_minutes">"%1$d Minuten hinzufügen"</string>
     <string name="pick_a_time">"Wähle eine Zeit"</string>
     <string name="updating_podcasts">"Podcasts werden aktualisiert"</string>
     <string name="skip_ending">"Ende überspringen"</string>
@@ -952,7 +952,7 @@
     <string name="stats">"Statistiken"</string>
     <string name="time_saved_b_s_b"><![CDATA[Zeit gespart: <b> %s </b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Sie haben gehört: <b> %s </b>]]></string>
-    <string name="since_s">"Seit: %s"</string>
+    <string name="since_date">"Seit"</string>
     <string name="reset_stats">"Statistiken zurücksetzen"</string>
     <string name="display_latest_d_episodes">"Zeigt die neuesten %d Episoden an"</string>
     <string name="find_rss_feed">"RSS-Feed suchen"</string>
@@ -1119,4 +1119,5 @@
     <string name="sunrise_time">Sonnenaufgangszeit</string>
     <string name="sunset_time">Sonnenuntergangszeit</string>
     <string name="amoled_black">AMOLED schwarz</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

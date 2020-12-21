@@ -419,8 +419,8 @@
     <string name="completed_downloads">Tamamlandı</string>
     <string name="top_charts">Üst çizelgeler</string>
     <string name="browse_top_charts">En iyi grafiklere göz atın</string>
-    <string name="in_minutes">%1$d dakika içinde</string>
-    <string name="when_current_episode_ends">Mevcut bölüm sona erdi</string>
+    <string name="after_x_minutes">%1$d dakika içinde</string>
+    <string name="after_current_episode_ends">Mevcut bölüm sona erdi</string>
     <string name="add_chapter">Bölüm işaretleyicisini ekle</string>
     <string name="time">Zaman</string>
     <string name="filter_name">Filtre adı</string>
@@ -617,7 +617,7 @@
     <string name="remove_favorite">Favoriyi kaldır</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Bu bölümden önce yayınlanan tüm bölümleri [%1$s] oynatıldığı gibi işaretle?</string>
     <string name="exporting">Dışa aktar</string>
-    <string name="add_s_minutes">Add %1$d minutes</string>
+    <string name="extend_s_minutes">Add %1$d minutes</string>
     <string name="pick_a_time">Pick a time</string>
     <string name="updating_podcasts">Updating podcasts</string>
     <string name="skip_ending">Skip ending</string>
@@ -954,7 +954,7 @@
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
-    <string name="since_s">Since: %s</string>
+    <string name="since_date">Since</string>
     <string name="reset_stats">Reset stats</string>
     <string name="display_latest_d_episodes">Display latest %d episodes</string>
     <string name="find_rss_feed">Find RSS feed</string>
@@ -1119,5 +1119,6 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">AMOLED Black</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>
 

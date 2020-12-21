@@ -420,8 +420,8 @@
     <string name="completed_downloads">"Fuldførte"</string>
     <string name="top_charts">"Toplister"</string>
     <string name="browse_top_charts">"Gennemse toplister"</string>
-    <string name="in_minutes">"Om %1$d minutter"</string>
-    <string name="when_current_episode_ends">"Når det aktuelle afsnit slutter"</string>
+    <string name="after_x_minutes">"Om %1$d minutter"</string>
+    <string name="after_current_episode_ends">"Når det aktuelle afsnit slutter"</string>
     <string name="add_chapter">"Tilføj kapitelinddeling"</string>
     <string name="time">"Tid"</string>
     <string name="filter_name">"Filter"</string>
@@ -618,7 +618,7 @@
     <string name="remove_favorite">"Fjern favorit"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Marker alle afsnit udgivet tidligere end dette afsnit [ %1$s ] som afspillet?"</string>
     <string name="exporting">"Eksporterer…"</string>
-    <string name="add_s_minutes">"Tilføj %1$d minutter"</string>
+    <string name="extend_s_minutes">"Tilføj %1$d minutter"</string>
     <string name="pick_a_time">"Vælg et tidspunkt"</string>
     <string name="updating_podcasts">"Opdaterer podcasts"</string>
     <string name="skip_ending">"Spring over afslutningen"</string>
@@ -954,7 +954,7 @@
     <string name="stats">Statistik</string>
     <string name="time_saved_b_s_b"><![CDATA[Tid sparet: <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Du har lyttet: <b>%s</b>]]></string>
-    <string name="since_s">Siden: %s</string>
+    <string name="since_date">Siden</string>
     <string name="reset_stats">Nulstil statistik</string>
     <string name="display_latest_d_episodes">Vis de seneste %d afsnit</string>
     <string name="find_rss_feed">Find RSS-feed</string>
@@ -1120,4 +1120,5 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">AMOLED Sort</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

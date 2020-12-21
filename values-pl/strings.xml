@@ -416,8 +416,8 @@
     <string name="completed_downloads">Pobrane</string>
     <string name="top_charts">Odkrywaj</string>
     <string name="browse_top_charts">Przeglądaj podcasty</string>
-    <string name="in_minutes">Za %1$d minut</string>
-    <string name="when_current_episode_ends">Gdy skończy się bieżący odcinek</string>
+    <string name="after_x_minutes">Za %1$d minut</string>
+    <string name="after_current_episode_ends">Gdy skończy się bieżący odcinek</string>
     <string name="add_chapter">Dodaj znacznik rozdziału</string>
     <string name="time">Czas</string>
     <string name="filter_name">Nazwa filtru</string>
@@ -615,7 +615,7 @@
     <string name="remove_favorite">Usuń ulubione</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Czy oznaczyć wszystkie odcinki opublikowane wcześniej, niż [%1$s] jako przesłuchane?</string>
     <string name="exporting">Eksportowanie</string>
-    <string name="add_s_minutes">Dodaj %1$d minut</string>
+    <string name="extend_s_minutes">Dodaj %1$d minut</string>
     <string name="pick_a_time">Wybierz czas</string>
     <string name="updating_podcasts">Aktualizacja podcastu</string>
     <string name="skip_ending">Pomiń zakończenie</string>
@@ -954,7 +954,7 @@
     <string name="stats">"Statystyki"</string>
     <string name="time_saved_b_s_b"><![CDATA[Czas zapisanych nagrań: <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Wysłuchałeś: <b>%s</b>]]></string>
-    <string name="since_s">"Od: %s"</string>
+    <string name="since_date">"Od"</string>
     <string name="reset_stats">"Zresetuj statystyki"</string>
     <string name="display_latest_d_episodes">"Wyświetl najnowsze %d odcinków"</string>
     <string name="find_rss_feed">"Znajdź kanał RSS"</string>
@@ -1122,4 +1122,5 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">Czarny AMOLED</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

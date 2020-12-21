@@ -422,8 +422,8 @@
     <string name="completed_downloads">Complets</string>
     <string name="top_charts">Populaires</string>
     <string name="browse_top_charts">Parcourir les populaires</string>
-    <string name="in_minutes">Dans %1$d minutes</string>
-    <string name="when_current_episode_ends">"A la fin de l'épisode"</string>
+    <string name="after_x_minutes">Dans %1$d minutes</string>
+    <string name="after_current_episode_ends">"A la fin de l'épisode"</string>
     <string name="add_chapter">Ajouter une signet</string>
     <string name="time">Temps</string>
     <string name="filter_name">Nom du filtre</string>
@@ -621,7 +621,7 @@
     <string name="remove_favorite">Retirer des favoris</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Marquer tous les épisodes publiés avant cet épisode (%1$s) comme lus ?</string>
     <string name="exporting">Exporter</string>
-    <string name="add_s_minutes">Ajouter %1$d minutes</string>
+    <string name="extend_s_minutes">Ajouter %1$d minutes</string>
     <string name="pick_a_time">Choisir une durée</string>
     <string name="updating_podcasts">Actualiser les podcasts</string>
     <string name="skip_ending">Passer la fin</string>
@@ -957,7 +957,7 @@
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Temps économisé : <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Vous avez écouté : <b>%s</b>]]></string>
-    <string name="since_s">Depuis : %s</string>
+    <string name="since_date">Depuis</string>
     <string name="reset_stats">Réinitialiser les stats</string>
     <string name="display_latest_d_episodes">Afficher les derniers %d épisodes</string>
     <string name="find_rss_feed">Trouver le flux RSS</string>
@@ -1125,4 +1125,5 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">AMOLED Black</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

@@ -419,8 +419,8 @@
     <string name="completed_downloads">"Befejezve"</string>
     <string name="top_charts">"Toplisták"</string>
     <string name="browse_top_charts">"Toplisták böngészése"</string>
-    <string name="in_minutes">"%1$d perc múlva"</string>
-    <string name="when_current_episode_ends">"Amikor az aktuális epizód lejár"</string>
+    <string name="after_x_minutes">"%1$d perc múlva"</string>
+    <string name="after_current_episode_ends">"Amikor az aktuális epizód lejár"</string>
     <string name="add_chapter">"Könyvjelző hozzáadása"</string>
     <string name="time">"Idő"</string>
     <string name="filter_name">"Szűrő neve"</string>
@@ -618,7 +618,7 @@
     <string name="remove_favorite">"Kedvenc eltávolítása"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Jelölj meg minden epizódot lejátszottként, ami ezelőtt az epizód előtt jött ki [ %1$s ] ?"</string>
     <string name="exporting">"Exportálás"</string>
-    <string name="add_s_minutes">"%1$d perc hozzáadása"</string>
+    <string name="extend_s_minutes">"%1$d perc hozzáadása"</string>
     <string name="pick_a_time">"Válassz egy időt"</string>
     <string name="updating_podcasts">"Podcastok frissítése"</string>
     <string name="skip_ending">"Ugrás a végén"</string>
@@ -957,7 +957,7 @@
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
-    <string name="since_s">Since: %s</string>
+    <string name="since_date">Since</string>
     <string name="reset_stats">Reset stats</string>
     <string name="display_latest_d_episodes">Display latest %d episodes</string>
     <string name="find_rss_feed">Find RSS feed</string>
@@ -1122,4 +1122,5 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">AMOLED Black</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

@@ -418,8 +418,8 @@
     <string name="completed_downloads">"Voltooid"</string>
     <string name="top_charts">"Toplijsten"</string>
     <string name="browse_top_charts">"Blader toplijsten"</string>
-    <string name="in_minutes">"In %1$d minuten"</string>
-    <string name="when_current_episode_ends">"Wanneer de huidige aflevering eindigt"</string>
+    <string name="after_x_minutes">"In %1$d minuten"</string>
+    <string name="after_current_episode_ends">"Wanneer de huidige aflevering eindigt"</string>
     <string name="add_chapter">"Voeg hoofdstukmarkering toe"</string>
     <string name="time">"Tijd"</string>
     <string name="filter_name">"Filternaam"</string>
@@ -616,7 +616,7 @@
     <string name="remove_favorite">Verwijder favoriet</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Alle afleveringen die zijn uitgebracht voor deze aflevering [%1$s] als gespeeld markeren?</string>
     <string name="exporting">Exporteren</string>
-    <string name="add_s_minutes">Voeg %1$d minuten toe</string>
+    <string name="extend_s_minutes">Voeg %1$d minuten toe</string>
     <string name="pick_a_time">Selecteer een tijd</string>
     <string name="updating_podcasts">Bijwerken podcasts</string>
     <string name="skip_ending">Sla het einde over</string>
@@ -952,7 +952,7 @@
     <string name="stats">Statistieken</string>
     <string name="time_saved_b_s_b"><![CDATA[Tijd bespaard: <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Je luisterde: <b>%s</b>]]></string>
-    <string name="since_s">Sinds: %s</string>
+    <string name="since_date">Sinds</string>
     <string name="reset_stats">Wis statistieken</string>
     <string name="display_latest_d_episodes">Toon de laatste %d afleveringen</string>
     <string name="find_rss_feed">Vind RSS feed</string>
@@ -1119,4 +1119,5 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">AMOLED Zwart</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

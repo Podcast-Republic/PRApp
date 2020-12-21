@@ -419,8 +419,8 @@
     <string name="completed_downloads">"Lõpetatud"</string>
     <string name="top_charts">"Edetabel"</string>
     <string name="browse_top_charts">"Sirvi edetabelitest"</string>
-    <string name="in_minutes">"%1$d minuti sees"</string>
-    <string name="when_current_episode_ends">"Kui praegune episood lõppeb"</string>
+    <string name="after_x_minutes">"%1$d minuti sees"</string>
+    <string name="after_current_episode_ends">"Kui praegune episood lõppeb"</string>
     <string name="add_chapter">"Lisa peatüki märk"</string>
     <string name="time">"Aeg"</string>
     <string name="filter_name">"Filtri nimi"</string>
@@ -617,7 +617,7 @@
     <string name="remove_favorite">"Eemalda lemmik"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Märgi kõik episoodid avaldatud varem, kui see episood [ %1$s ] esitatuks?"</string>
     <string name="exporting">"Eksport"</string>
-    <string name="add_s_minutes">"Lisa %1$d minutit"</string>
+    <string name="extend_s_minutes">"Lisa %1$d minutit"</string>
     <string name="pick_a_time">"Vali aeg"</string>
     <string name="updating_podcasts">"Podcastide värskendamine"</string>
     <string name="skip_ending">"Lõpetage lõpp"</string>
@@ -955,7 +955,7 @@
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>]]></string>
-    <string name="since_s">Since: %s</string>
+    <string name="since_date">Since</string>
     <string name="reset_stats">Reset stats</string>
     <string name="display_latest_d_episodes">Display latest %d episodes</string>
     <string name="find_rss_feed">Find RSS feed</string>
@@ -1121,4 +1121,5 @@
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">AMOLED Black</string>
+    <string name="episode_artwork">Episode artwork</string>
 </resources>

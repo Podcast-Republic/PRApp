@@ -1003,7 +1003,7 @@
     <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
     <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
-    <string name="_d_minutes">%d Minutes</string>
+    <string name="_d_minutes">%1$d minutes</string>
     <string name="time_unit_minutes">Minutes</string>
     <string name="greater_than">Greater than</string>
     <string name="less_than">Less than</string>
@@ -1119,4 +1119,17 @@
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">Чорна (для AMOLED)</string>
     <string name="episode_artwork">Episode artwork</string>
+    <string name="taag_radio_stations">Tag radios</string>
+    <string name="tag_rss_feeds">Tag feeds</string>
+    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Download episode if duration is greater than %d minutes.</string>
+    <string name="download_episode_if_duration_is_less_than_d_minutes_">Download episode if duration is less than %d_minutes.</string>
+    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Don\'t download episode if duration is greater than %d minutes.</string>
+    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Don\'t download episode if duration is less than %d minutes.</string>
+    <string name="feed_title_can_not_be_empty_">Feed title can not be empty!</string>
+    <string name="rss_feed_url_can_not_be_empty_">RSS feed URL can not be empty!</string>
+    <string name="no_rss_feeds_found_">No RSS feeds found!</string>
+   <string name="remove_obsolete_episodes">Remove obsolete episodes</string>
+    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remove obsolete episodes if they are no longer present in the podcast feed.</string>
+    <string name="mark_as_played">Mark as played</string>
+    <string name="swipe_left_action">Swipe left action</string>
 </resources>

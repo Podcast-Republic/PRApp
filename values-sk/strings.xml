@@ -507,7 +507,7 @@
     <string name="apply_this_change_to_all_podcasts_">Použiť túto zmenu na všetky podcasty?</string>
     <string name="grid_size">Veľkosť mriežky</string>
     <string name="play_pause_double_click">Dvojitým poklepaním Prehrať/Pozastaviť</string>
-    <string name="total_episodes">Celkový počet epizód</string>
+    <string name="total_episodes_d">Celkový počet epizód: %1$d</string>
     <string name="duration">Trvanie</string>
     <string name="browse_downloads">Prehliadať stiahnuté súbory</string>
     <string name="browse_by_playlist">Prehliadať podľa playlistov</string>
@@ -556,8 +556,8 @@
     <string name="pull_to_refresh">Potiahnutím obnoviť</string>
     <string name="pull_down_the_playlist_to_start_podcast_update_checking">Potiahnutím playlistu nadol spustíte aktualizáciu podcastu</string>
     <string name="pull_down_download_list_to_start_podcast_update_checking">Potiahnutím zoznamu sťahovaných súborov nadol spustíte aktualizáciu podcastu</string>
-    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Potiahnutím zoznamu podcastov nadol spustíte aktualizáciu podcastov</string>																																			  
-    <string name="pull_down_episodes_list_to_start_podcast_update_checking">Potiahnutím zoznamu epizód nadol spustíte aktualizáciu podcastov</string>																																			  
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Potiahnutím zoznamu podcastov nadol spustíte aktualizáciu podcastov</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">Potiahnutím zoznamu epizód nadol spustíte aktualizáciu podcastov</string>
     <string name="auto_rotate_screen">Automatické otáčanie obrazovky</string>
     <string name="screen_orientation">Orientácia obrazovky</string>
     <string name="portrait">Na výšku</string>
@@ -754,13 +754,13 @@
     <string name="com_parse_ui_login_help_email_sent">Pokyny ako získať prístup k svojmu účtu nájdete v emaili</string>
     <string name="connecting_">Pripája sa…</string>
     <string name="syncing_episode_changes_s">Synchronizujú sa zmeny epizód: %s</string>
-    <string name="syncing_added_radio_subscriptions_d">Synchronizácia pridaných odberov rádia: %d</string>
-    <string name="syncing_removed_radio_subscriptions_d">Synchronizácia odstránených odberov rádia: %d</string>
-    <string name="syncing_added_podcast_subscriptions_d">Synchronizácia pridaných odberov podcastov: %d</string>
-    <string name="syncing_removed_podcast_subscriptions_d">Synchronizácia odstránených odberov podcastov: %d</string>
+    <string name="syncing_added_radio_stations_d">Synchronizácia pridaných odberov rádia: %d</string>
+    <string name="syncing_removed_radio_stations_d">Synchronizácia odstránených odberov rádia: %d</string>
+    <string name="syncing_added_podcasts_d">Synchronizácia pridaných odberov podcastov: %d</string>
+    <string name="syncing_removed_podcasts_d">Synchronizácia odstránených odberov podcastov: %d</string>
     <string name="syncing_episode_changes_">Synchronizujú sa zmeny epizód…</string>
-    <string name="syncing_radio_subscription_changes_">Synchronizujú sa zmeny odberov rádia…</string>
-    <string name="syncing_podcast_subscription_changes_">Synchronizujú zmeny odberov podcastov…</string>
+    <string name="syncing_radio_station_changes_">Synchronizujú sa zmeny odberov rádia…</string>
+    <string name="syncing_podcast_changes_">Synchronizujú zmeny odberov podcastov…</string>
     <string name="syncing_app_setting_changes_s">Synchronizovať zmeny Nastavenia apky: %1$s.</string>
     <string name="syncing_app_setting_changes_">Synchronizovať zmeny Nastavenia…</string>
     <string name="syncing">Synchronizácia</string>
@@ -1155,4 +1155,10 @@
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Odstrániť zastarané epizódy, ak sa už nenachádzajú v podcaste.</string>
     <string name="mark_as_played">Označiť ako prehraté</string>
     <string name="swipe_left_action">Akcia potiahnutia doľava</string>
+    <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
+    <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
+    <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
+    <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
+    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
+    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
 </resources>

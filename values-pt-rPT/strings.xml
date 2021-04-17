@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="country_list">
-        <item>Albânia </item>
-        <item>Argélia </item>
-        <item>Angola </item>
-        <item>Anguilla </item>
-        <item>Argentina </item>
-        <item>Armênia </item>
-        <item>Austrália </item>
-        <item>Áustria </item>
-        <item>Azerbaijão </item>
-        <item>Bahamas </item>
-        <item>Bahrain </item>
-        <item>Bélgica </item>
-        <item>Bolívia </item>
-        <item>Brasil </item>
-        <item>Camboja </item>
-        <item>Canadá </item>
-        <item>Chile </item>
-        <item>China </item>
-        <item>Colômbia </item>
-        <item>Costa Rica </item>
-        <item>Croácia </item>
-        <item>Chipre </item>
-        <item>República Checa </item>
-        <item>Dinamarca </item>
-        <item>Equador </item>
-        <item>Egito </item>
-        <item>Finlândia </item>
-        <item>França </item>
-        <item>Alemanha </item>
-        <item>Grécia </item>
-        <item>Hong Kong </item>
-        <item>Hungria </item>
-        <item>Islândia </item>
-        <item>Índia </item>
-        <item>Indonésia </item>
-        <item>Irlanda </item>
-        <item>Israel </item>
-        <item>Itália </item>
-        <item>Jamaica </item>
-        <item>Japão </item>
-        <item>Jordânia </item>
-        <item>Cazaquistão </item>
-        <item>Quênia </item>
-        <item>Coréia </item>
-        <item>Kuweit </item>
-        <item>Quirguistão </item>
+        <item>Albânia</item>
+        <item>Argélia</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Argentina</item>
+        <item>Armênia</item>
+        <item>Austrália</item>
+        <item>Áustria</item>
+        <item>Azerbaijão</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bélgica</item>
+        <item>Bolívia</item>
+        <item>Brasil</item>
+        <item>Camboja</item>
+        <item>Canadá</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colômbia</item>
+        <item>Costa Rica</item>
+        <item>Croácia</item>
+        <item>Chipre</item>
+        <item>República Checa</item>
+        <item>Dinamarca</item>
+        <item>Equador</item>
+        <item>Egito</item>
+        <item>Finlândia</item>
+        <item>França</item>
+        <item>Alemanha</item>
+        <item>Grécia</item>
+        <item>Hong Kong</item>
+        <item>Hungria</item>
+        <item>Islândia</item>
+        <item>Índia</item>
+        <item>Indonésia</item>
+        <item>Irlanda</item>
+        <item>Israel</item>
+        <item>Itália</item>
+        <item>Jamaica</item>
+        <item>Japão</item>
+        <item>Jordânia</item>
+        <item>Cazaquistão</item>
+        <item>Quênia</item>
+        <item>Coréia</item>
+        <item>Kuweit</item>
+        <item>Quirguistão</item>
         <item>Letônia</item>
         <item>Lituânia</item>
-        <item>Luxemburgo </item>
-        <item>Macau </item>
-        <item>Malásia </item>
-        <item>México </item>
-        <item>Mongólia </item>
-        <item>Holanda </item>
-        <item>nova Zelândia </item>
-        <item>Noruega </item>
-        <item>Paquistão </item>
-        <item>Peru </item>
-        <item>Filipinas </item>
-        <item>Polônia </item>
-        <item>Portugal </item>
-        <item>Catar </item>
-        <item>Romênia </item>
-        <item>Rússia </item>
-        <item>Arábia Saudita </item>
+        <item>Luxemburgo</item>
+        <item>Macau</item>
+        <item>Malásia</item>
+        <item>México</item>
+        <item>Mongólia</item>
+        <item>Holanda</item>
+        <item>nova Zelândia</item>
+        <item>Noruega</item>
+        <item>Paquistão</item>
+        <item>Peru</item>
+        <item>Filipinas</item>
+        <item>Polônia</item>
+        <item>Portugal</item>
+        <item>Catar</item>
+        <item>Romênia</item>
+        <item>Rússia</item>
+        <item>Arábia Saudita</item>
         <item>Sérvia</item>
-        <item>Cingapura </item>
-        <item>Eslováquia </item>
-        <item>Eslovenia </item>
-        <item>África do Sul </item>
-        <item>Espanha </item>
-        <item>Sri Lanka </item>
-        <item>Suécia </item>
-        <item>Suíça </item>
-        <item>Taiwan </item>
-        <item>Tadjiquistão </item>
-        <item>Tailândia </item>
-        <item>Tunísia </item>
-        <item>Turquia </item>
-        <item>Ucrânia </item>
-        <item>Emirados Árabes Unidos </item>
-        <item>Grã-Bretanha </item>
-        <item>Estados Unidos </item>
-        <item>Venezuela </item>
+        <item>Cingapura</item>
+        <item>Eslováquia</item>
+        <item>Eslovenia</item>
+        <item>África do Sul</item>
+        <item>Espanha</item>
+        <item>Sri Lanka</item>
+        <item>Suécia</item>
+        <item>Suíça</item>
+        <item>Taiwan</item>
+        <item>Tadjiquistão</item>
+        <item>Tailândia</item>
+        <item>Tunísia</item>
+        <item>Turquia</item>
+        <item>Ucrânia</item>
+        <item>Emirados Árabes Unidos</item>
+        <item>Grã-Bretanha</item>
+        <item>Estados Unidos</item>
+        <item>Venezuela</item>
         <item>Vietnã</item>
     </string-array>
 
@@ -482,7 +482,7 @@
     <string name="apply_this_change_to_all_podcasts_">"Aplicar esta alteração a todos os podcasts?"</string>
     <string name="grid_size">"Tamanho da grelha"</string>
     <string name="play_pause_double_click">"Duplo toque para Reproduzir/Pausar"</string>
-    <string name="total_episodes">"Total de episódios"</string>
+    <string name="total_episodes_d">"Total de episódios: %1$d"</string>
     <string name="duration">"Ordenar por duração"</string>
     <string name="browse_downloads">"Navegar nas transferências"</string>
     <string name="browse_by_playlist">"Navegar na playlist"</string>
@@ -680,26 +680,26 @@
     <string name="click_to_view_more_options_">"Clique para ver mais opções…"</string>
     <string name="click_to_select_playback_mode">"Clique para seleccionar o modo de reprodução"</string>
     <string name="percetage_value">%d%%</string>
-    <string name="select_episodes">Seleccionar episódios</string>
-    <string name="select_episodes_from_last_d_days">Seleccionar episódios dos últimos %d dias</string>
-    <string name="select_episodes_from_all_dates">Seleccionar episódios de todas as datas</string>
-    <string name="selected_tags_s">Seleccionar etiquetas: %s</string>
-    <string name="selected_podcasts_s">Seleccionar podcasts: %s</string>
+    <string name="select_episodes">Selecionar episódios</string>
+    <string name="select_episodes_from_last_d_days">Selecionar episódios dos últimos %d dias</string>
+    <string name="select_episodes_from_all_dates">Selecionar episódios de todas as datas</string>
+    <string name="selected_tags_s">Selecionar categorias: %s</string>
+    <string name="selected_podcasts_s">Selecionar podcasts: %s</string>
     <string name="unplayed_less_than_d_played">Não reproduzido (&lt; %d%% reproduzido)</string>
     <string name="played_greater_than_d_played">Reproduzido (&gt;= %d%% reproduzido)</string>
-    <string name="unfinished_less_than_100_played">Não terminado (&lt; 100% reproduzido)</string>
+    <string name="unfinished_less_than_100_played">Não finalizado (&lt; 100% reproduzido)</string>
     <string name="finished_100_played">Terminado (100% reproduzido)</string>
     <string name="restore_defaults">Restaurar definições padrão</string>
     <string name="at_least_one_episode_filter_is_required_">É necessário pelo menos um filtro de episódio!</string>
-    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">Os seguintes directórios não estão acessíveis. É favor redefinir nas Definições.\n%s</string>
+    <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">Os seguintes diretórios não estão acessíveis. Por favor redefina nas Configurações.\n%s</string>
     <string name="_download_location">- Local das transferências</string>
     <string name="_auto_backup_location">- Local da cópia de segurança automática</string>
     <string name="clean_up">Limpeza</string>
-    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_"> Os seguintes ficheiros foram encontrados no directório das transferências, mas não se encontram associados a qualquer transferência. Pode removê-los, pressionando o botão de limpeza.</string>
-    <string name="tags">Etiquetas</string>
-    <string name="casting">A transmitir</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_"> Os seguintes arquivos foram encontrados no diretório das transferências, mas não se encontram associados a qualquer transferência. Pode removê-los, pressionando o botão de limpeza.</string>
+    <string name="tags">Categorias</string>
+    <string name="casting">Transmitindo</string>
     <string name="chapter_d">Capítulo #%d</string>
-    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Por favor, não encerre a aplicação durante o restauro dos dados. A aplicação irá reiniciar após todos os dados terem sido restaurados.</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Por favor, não encerre a aplicação durante a restauração dos dados. A aplicação irá reiniciar após todos os dados terem sido restaurados.</string>
     <string name="playback_paused_on_muted_volume_">Reprodução em pausa com o volume silenciado!</string>
     <string name="number_of_episodes_to_auto_download">"Número de episódios para download automático"</string>
     <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Baixar automaticamente até %1$d episódios mais recentes quando novos episódios são procurados"</string>
@@ -729,13 +729,13 @@
     <string name="com_parse_ui_login_help_email_sent">Verifique seu e-mail para obter informações sobre como acessar sua conta</string>
     <string name="connecting_">"Conectando…"</string>
     <string name="syncing_episode_changes_s">"Sincronizando alterações em episódios: %s"</string>
-    <string name="syncing_added_radio_subscriptions_d">"Sincronizando inscrições de rádio adicionadas: %d"</string>
-    <string name="syncing_removed_radio_subscriptions_d">"Sincronizando assinaturas de rádio removidas: %d"</string>
-    <string name="syncing_added_podcast_subscriptions_d">"Sincronizando inscrições de podcasts adicionados: %d"</string>
-    <string name="syncing_removed_podcast_subscriptions_d">"Sincronizando podcasts com assinaturas removidas: %d"</string>
+    <string name="syncing_added_radio_stations_d">"Sincronizando inscrições de rádio adicionadas: %d"</string>
+    <string name="syncing_removed_radio_stations_d">"Sincronizando assinaturas de rádio removidas: %d"</string>
+    <string name="syncing_added_podcasts_d">"Sincronizando inscrições de podcasts adicionados: %d"</string>
+    <string name="syncing_removed_podcasts_d">"Sincronizando podcasts com assinaturas removidas: %d"</string>
     <string name="syncing_episode_changes_">"Sincronizando alterações em episódios…"</string>
-    <string name="syncing_radio_subscription_changes_">"Sincronizando alterações em assinaturas de rádios…"</string>
-    <string name="syncing_podcast_subscription_changes_">"Sincronizando alterações em assinaturas de podcasts,.."</string>
+    <string name="syncing_radio_station_changes_">"Sincronizando alterações em assinaturas de rádios…"</string>
+    <string name="syncing_podcast_changes_">"Sincronizando alterações em assinaturas de podcasts…"</string>
     <string name="syncing">"Sincronizando"</string>
     <string name="current_playlist">"Lista de reprodução atual"</string>
     <string name="continue_to_next_playlist">"Continuar com a próxima playlist"</string>
@@ -804,8 +804,8 @@
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">"Ligar o temporizador quando a reprodução começar"</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">"Sincronizando dados somente quando conectado via WiFi"</string>
     <string name="syncing_via_wifi_only">"Sincronizando apenas via WiFi"</string>
-    <string name="total_downloaded_file_size_s">Tamanho total do ficheiro descarregado: %s</string>
-    <string name="featured">Destaque</string>
+    <string name="total_downloaded_file_size_s">Tamanho total do arquivo baixado: %s</string>
+    <string name="featured">Destaques</string>
     <string name="polular">Popular</string>
     <string name="select_episodes_from_today">Seleccionar episódios de hoje</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Detectámos que houve um crash na aplicação. Gostaria de enviar o relatório do crash para que possamos resolver o problema?"</string>
@@ -922,13 +922,13 @@
     <string name="hide_recent_counter">"Ocultar contadore recente"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Nenhuma estação de rádio encontrada. Pressione o botão (+) para adicionar uma estação de rádio."</string>
     <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"Nenhum feed RSS encontrado. Pressione o botão (+) para adicionar um feed."</string>
-    <string name="tag_radios">"Tags de rádio"</string>
+    <string name="tag_radios">"Categorias de rádio"</string>
     <string name="episode">"Episódio"</string>
     <string name="edit_mode">"Editar"</string>
     <string name="no_radio_stations_selected_">"Nenhuma estação de rádio selecionada!"</string>
     <string name="no_rss_feeds_selected_">"Nenhum feed RSS selecionado!"</string>
     <string name="hide_empty_feeds">"Ocultar feeds vazios"</string>
-    <string name="tag_feeds">"Tags de feeds"</string>
+    <string name="tag_feeds">"Categorias de feeds"</string>
     <string name="open_in_browser">"Abrir no navegador"</string>
     <string name="mark_as_unread">"Marcar como não lido"</string>
     <string name="article_url">"URL do artigo"</string>
@@ -1036,8 +1036,8 @@
     <string name="pin_to_top">Fixar no topo</string>
     <string name="unpin_from_top">Desafixar do topo</string>
     <string name="only_include_episodes_with_user_chapters">Incluir apenas episódios com capítulos de usuários</string>
-    <string name="add_tags_to_podcasts">Adicionar tags ao podcast</string>
-    <string name="add_new_episodes_to_selected_playlists_automatically_">Adcionar novos episódios às playlists automaticamente.</string>
+    <string name="add_tags_to_podcasts">Adicionar categorias ao podcast</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Adicionar novos episódios às playlists automaticamente.</string>
     <string name="podcast_artwork">Arte do podcast</string>
     <string name="rss_feed_artwork">Arte do feed RSS</string>
     <string name="_1s_2s_n">%1$s: %2$s\n</string>
@@ -1090,46 +1090,53 @@
     <string name="preview_descriptions_in_list">Visualizar descrições na lista.</string>
     <string name="auto_load_last_played_episode">Carregar automaticamente o último episódio reproduzido</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Carrega automaticamente o último episódio reproduzido na playlist no \'Tocando agora\'.</string>
-    <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
-    <string name="delete_the_tag_s">"Delete the tag: %s?"</string>
-    <string name="delete_the_episode_filter_s">"Delete the episode filter: %s?"</string>
-    <string name="syncing_app_setting_changes_s">Syncing app Setting changes: %1$s.</string>
-    <string name="syncing_app_setting_changes_">Syncing app Setting changes…</string>
-    <string name="sleep_after">Sleep after</string>
-    <string name="sleep_at_time">Sleep at time</string>
-    <string name="export_episode_list">Export episode list</string>
-    <string name="as_html_file">as HTML file</string>
-    <string name="as_json_file">as JSON file</string>
-    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Display episode artwork retrieved from podcast feed.</string>
-    <string name="use_podcast_artwork_as_episode_artwork_">Use podcast artwork as episode artwork.</string>
-    <string name="use_embedded_artwork">Use embedded artwork</string>
-    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Prefer to use artwork extracted from downloaded podcast file.</string>
-    <string name="display_episode_artwork_retrieved_from_media_file_">Display episode artwork retrieved from media file.</string>
-    <string name="not_tagged">Untagged</string>
+    <string name="delete_the_playlist_s">"Excluir a playlist: %s?"</string>
+    <string name="delete_the_tag_s">"Excluir a categoria: %s?"</string>
+    <string name="delete_the_episode_filter_s">"Excluir o filtro de episódio: %s?"</string>
+    <string name="syncing_app_setting_changes_s">Sincronizando alterações nas configurações do App: %1$s.</string>
+    <string name="syncing_app_setting_changes_">Sincronizando alterações nas configurações do App…</string>
+    <string name="sleep_after">Dormir depois</string>
+    <string name="sleep_at_time">Dormir no horário</string>
+    <string name="export_episode_list">Exportar lista de episódios</string>
+    <string name="as_html_file">como arquivo HTML</string>
+    <string name="as_json_file">como arquivo JSON</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Exibir arte do episódio obtida pelo feed do podcast.</string>
+    <string name="use_podcast_artwork_as_episode_artwork_">Usar arte do podcast como arte do episódio.</string>
+    <string name="use_embedded_artwork">Usar arte incorporada</string>
+    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Preferir usar arte extraida do arquivo do podcast baixado.</string>
+    <string name="display_episode_artwork_retrieved_from_media_file_">Exibir arte do epsódio obtida por arquivo de mídia.</string>
+    <string name="not_tagged">Sem categoria</string>
     <string name="save_backup_to">Save backup to</string>
-    <string name="local_storage">Local storage</string>
+    <string name="local_storage">Amazenamento local</string>
     <string name="google_drive">Google Drive</string>
-    <string name="select_backup_file_to_restore_from">Select backup file to restore from</string>
-    <string name="open_android_file_manager">Open Android file manager</string>
-    <string name="android_file_manager_select_tip">Tips: Android file manager will be opened to complete the restore processing. Please navigate to where the backup file is located and then hold down the file to the select it. The default backup file is named in the format of backup_date.zip</string>
+    <string name="select_backup_file_to_restore_from">Selecionar o arquivo de restauração do backup de</string>
+    <string name="open_android_file_manager">Abrir gerenciador de arquivos do Android</string>
+    <string name="android_file_manager_select_tip">Dica: O gerenciador de arquivos do Android será aberto para completar o processo de restauração. Por favor navegue até o local do arquivo de backup e pressione o arquivo para selecioná-lo. Por padrão o arquivo de backup é nomeado no formato backup_data.zip</string>
     <string name="save_auto_backup_to">Guardar a cópia de segurança automática em</string>
-    <string name="use_wifi_only">Use Wi-Fi only</string>
-    <string name="back_up_google_drive_only_when_wifi_is_connected_">Back up to Google Drive only when Wi-Fi is connected.</string>
+    <string name="use_wifi_only">Usar somente Wi-Fi</string>
+    <string name="back_up_google_drive_only_when_wifi_is_connected_">Backup para o Google Drive somente quando o Wi-Fi estiver conectado.</string>
     <string name="sunrise_time">Sunrise time</string>
     <string name="sunset_time">Sunset time</string>
     <string name="amoled_black">Preto AMOLED</string>
-    <string name="episode_artwork">Episode artwork</string>
-    <string name="taag_radio_stations">Tag radios</string>
-    <string name="tag_rss_feeds">Tag feeds</string>
-    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Download episode if duration is greater than %d minutes.</string>
-    <string name="download_episode_if_duration_is_less_than_d_minutes_">Download episode if duration is less than %d_minutes.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Don\'t download episode if duration is greater than %d minutes.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Don\'t download episode if duration is less than %d minutes.</string>
-    <string name="feed_title_can_not_be_empty_">Feed title can not be empty!</string>
-    <string name="rss_feed_url_can_not_be_empty_">RSS feed URL can not be empty!</string>
-    <string name="no_rss_feeds_found_">No RSS feeds found!</string>
-   <string name="remove_obsolete_episodes">Remove obsolete episodes</string>
-    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remove obsolete episodes if they are no longer present in the podcast feed.</string>
-    <string name="mark_as_played">Mark as played</string>
-    <string name="swipe_left_action">Swipe left action</string>
+    <string name="episode_artwork">Arte do episódio</string>
+    <string name="taag_radio_stations">Categorias de rádios</string>
+    <string name="tag_rss_feeds">Categorias de feeds</string>
+    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Baixar o episódio se a duração for maior que %d minutos.</string>
+    <string name="download_episode_if_duration_is_less_than_d_minutes_">Baixe o episódio se a duração for menor que %d minutos.</string>
+    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Não baixar o episódio se a duração for maior que %d minutos.</string>
+    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Não baixar o episódio se a duração for menor que %d minutos.</string>
+    <string name="feed_title_can_not_be_empty_">O título do feed não pode estar vazio!</string>
+    <string name="rss_feed_url_can_not_be_empty_">A URL do feed RSS não pode estar em vazia!</string>
+    <string name="no_rss_feeds_found_">Nenhum feed RSS encontrado!</string>
+    <string name="remove_obsolete_episodes">Remover episódios obsoletos</string>
+    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remover episódios obsoletos se eles não estiverem mais disponíveis no feed do podcast.</string>
+    <string name="mark_as_played">Marcar como reproduzido</string>
+    <string name="swipe_left_action">Ao deslizar para a esquerda</string>
+    <string name="nothing_in_up_next">Nothing in Up Next.</string>
+    <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
+    <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
+    <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
+    <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
+    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
+    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
 </resources>

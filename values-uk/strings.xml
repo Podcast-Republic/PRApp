@@ -484,7 +484,7 @@
     <string name="apply_this_change_to_all_podcasts_">"Застосувати цю зміну до всіх подкастів?"</string>
     <string name="grid_size">"Розмір сітки"</string>
     <string name="play_pause_double_click">"Відтворення / призупинення подвійним клацанням"</string>
-    <string name="total_episodes">"Всього епізодів"</string>
+    <string name="total_episodes_d">"Всього епізодів: %1$d"</string>
     <string name="duration">"Tривалістю"</string>
     <string name="browse_downloads">"Переглянути завантаження"</string>
     <string name="browse_by_playlist">"Переглянути плейлист"</string>
@@ -731,13 +731,13 @@
     <string name="com_parse_ui_login_help_email_sent">"Будь ласка, перевірте свою електронну пошту, щоб отримати інструкції щодо доступу до вашого облікового запису"</string>
     <string name="connecting_">"Підключення…"</string>
     <string name="syncing_episode_changes_s">"Синхронізація змін епізоду: %s"</string>
-    <string name="syncing_added_radio_subscriptions_d">"Синхронізація доданої підписки на радіо: %d"</string>
-    <string name="syncing_removed_radio_subscriptions_d">"Синхронізація видалених підписки на радіо: %d"</string>
-    <string name="syncing_added_podcast_subscriptions_d">"Синхронізація доданих у подкаст підписок: %d"</string>
-    <string name="syncing_removed_podcast_subscriptions_d">"Синхронізація видалених підписок на подкасти: %d"</string>
+    <string name="syncing_added_radio_stations_d">"Синхронізація доданої підписки на радіо: %d"</string>
+    <string name="syncing_removed_radio_stations_d">"Синхронізація видалених підписки на радіо: %d"</string>
+    <string name="syncing_added_podcasts_d">"Синхронізація доданих у подкаст підписок: %d"</string>
+    <string name="syncing_removed_podcasts_d">"Синхронізація видалених підписок на подкасти: %d"</string>
     <string name="syncing_episode_changes_">"Синхронізація змін в епізодах…"</string>
-    <string name="syncing_radio_subscription_changes_">"Синхронізація змін підписок на радіо"</string>
-    <string name="syncing_podcast_subscription_changes_">"Синхронізація підписок на подкаст …"</string>
+    <string name="syncing_radio_station_changes_">"Синхронізація змін підписок на радіо"</string>
+    <string name="syncing_podcast_changes_">"Синхронізація підписок на подкаст …"</string>
     <string name="syncing">"Синхронізую…"</string>
     <string name="current_playlist">"Поточний список відтворення"</string>
     <string name="continue_to_next_playlist">"Перейти до наступного плейлиста"</string>
@@ -1132,4 +1132,11 @@
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remove obsolete episodes if they are no longer present in the podcast feed.</string>
     <string name="mark_as_played">Mark as played</string>
     <string name="swipe_left_action">Swipe left action</string>
+    <string name="nothing_in_up_next">Nothing in Up Next.</string>
+    <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
+    <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
+    <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
+    <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
+    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
+    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
 </resources>

@@ -483,7 +483,7 @@
     <string name="apply_this_change_to_all_podcasts_">"Provést změnu na všech podcastech?"</string>
     <string name="grid_size">"Velikost mřížky"</string>
     <string name="play_pause_double_click">"Přehrát/pozastavit dvojitým poklepáním"</string>
-    <string name="total_episodes">"Celkem epizod"</string>
+    <string name="total_episodes_d">"Celkem epizod: %1$d"</string>
     <string name="duration">"Doba trvání"</string>
     <string name="browse_downloads">"Procházet stažené"</string>
     <string name="browse_by_playlist">"Procházet po seznamech"</string>
@@ -730,13 +730,13 @@
     <string name="com_parse_ui_login_help_email_sent">"Zkontrolujte svlj e-mail, naleznete v něm pokyny pro přístup ke svému účtu"</string>
     <string name="connecting_">"Připojuji…"</string>
     <string name="syncing_episode_changes_s">"Synchronizace změn epizody: %s"</string>
-    <string name="syncing_added_radio_subscriptions_d">"Synchronizace přidaných odběrů rádia: %d"</string>
-    <string name="syncing_removed_radio_subscriptions_d">"Synchronizace odebraných odběrů rádia: %d"</string>
-    <string name="syncing_added_podcast_subscriptions_d">"Synchronizace přidaných podcastů: %d"</string>
-    <string name="syncing_removed_podcast_subscriptions_d">"Synchronizace odebraných podcastů: %d"</string>
+    <string name="syncing_added_radio_stations_d">"Synchronizace přidaných odběrů rádia: %d"</string>
+    <string name="syncing_removed_radio_stations_d">"Synchronizace odebraných odběrů rádia: %d"</string>
+    <string name="syncing_added_podcasts_d">"Synchronizace přidaných podcastů: %d"</string>
+    <string name="syncing_removed_podcasts_d">"Synchronizace odebraných podcastů: %d"</string>
     <string name="syncing_episode_changes_">"Synchronizace změn epizody …"</string>
-    <string name="syncing_radio_subscription_changes_">"Synchronizace změn odebíraných stanic…"</string>
-    <string name="syncing_podcast_subscription_changes_">"Synchronizace změn odebíraného podcastu …"</string>
+    <string name="syncing_radio_station_changes_">"Synchronizace změn odebíraných stanic…"</string>
+    <string name="syncing_podcast_changes_">"Synchronizace změn odebíraného podcastu …"</string>
     <string name="syncing">"Synchronizace"</string>
     <string name="current_playlist">"Aktuální seznam"</string>
     <string name="continue_to_next_playlist">"Pokračovat k dalšímu seznamu"</string>
@@ -1131,4 +1131,11 @@
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remove obsolete episodes if they are no longer present in the podcast feed.</string>
     <string name="mark_as_played">Mark as played</string>
     <string name="swipe_left_action">Swipe left action</string>
+    <string name="nothing_in_up_next">Nothing in Up Next.</string>
+    <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
+    <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
+    <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
+    <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
+    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
+    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
 </resources>

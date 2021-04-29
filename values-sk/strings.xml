@@ -1155,10 +1155,10 @@
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Odstrániť zastarané epizódy, ak sa už nenachádzajú v podcaste.</string>
     <string name="mark_as_played">Označiť ako prehraté</string>
     <string name="swipe_left_action">Akcia potiahnutia doľava</string>
-    <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
-    <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
-    <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
-    <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
-    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
+    <string name="syncing_article_changes_s">Synchronizujú sa zmeny článku: %1$s.</string>
+    <string name="syncing_added_tags_playlists_filters_d">Synchronizujú sa pridané tagy/playlisty/filtre: %1$d.</string>
+    <string name="syncing_removed_tags_playlists_fiilters_d">Synchronizujú sa odstránené tagy/playlisty/filtre: %1$d.</string>
+    <string name="syncing_tag_playlist_filter_changes_">Synchronizujú sa zmeny tagov/playlistov/filtrov…</string>
+    <string name="syncing_added_rss_feeds_d">Synchronizujú sa pridané RSS zdroje: %1$d.</string>
+    <string name="syncing_removed_rss_feeds_d">Synchronizujú sa odstránené RSS zdroje: %1$d.</string>
 </resources>

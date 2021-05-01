@@ -166,7 +166,6 @@
     <string name="remove_ad">"Fjern reklamer"</string>
     <string name="playlists">"Playlister"</string>
     <string name="there_is_no_podcast_playing">"Ingen podcast spilles"</string>
-    <string name="press_again_to_exit">"Tryk igen for at afslutte"</string>
     <string name="paused">"Midlertidigt afbrudt"</string>
     <string name="stopped_on_error">"Stoppet på grund af fejl"</string>
     <string name="error_downloaded_file_not_found">"Fejl: Downloadet fil iblev kke fundet"</string>
@@ -1141,4 +1140,8 @@
     <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
     <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
+    <string name="adjust_playback_position">Adjust playback position</string>
+    <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
+    <string name="zoom_image">Zoom image</string>
+    <string name="mark_all_as_unplayed">Mark all as unplayed</string>
 </resources>

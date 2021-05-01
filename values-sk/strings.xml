@@ -169,7 +169,6 @@
     <string name="remove_ad">Odstrániť reklamy</string>
     <string name="playlists">Playlisty</string>
     <string name="there_is_no_podcast_playing">Nič sa neprehráva</string>
-    <string name="press_again_to_exit">Ukončíte opätovným stlačením.</string>
     <string name="paused">Pozastavené</string>
     <string name="stopped_on_error">Zastavené! Nastala chyba.</string>
     <string name="error_downloaded_file_not_found">Chyba: stiahnutý súbor nebol nájdený</string>
@@ -1161,4 +1160,8 @@
     <string name="syncing_tag_playlist_filter_changes_">Synchronizujú sa zmeny tagov/playlistov/filtrov…</string>
     <string name="syncing_added_rss_feeds_d">Synchronizujú sa pridané RSS zdroje: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Synchronizujú sa odstránené RSS zdroje: %1$d.</string>
+    <string name="adjust_playback_position">Adjust playback position</string>
+    <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
+    <string name="zoom_image">Zoom image</string>
+    <string name="mark_all_as_unplayed">Mark all as unplayed</string>
 </resources>

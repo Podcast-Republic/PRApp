@@ -1160,8 +1160,8 @@
     <string name="syncing_tag_playlist_filter_changes_">Synchronizujú sa zmeny tagov/playlistov/filtrov…</string>
     <string name="syncing_added_rss_feeds_d">Synchronizujú sa pridané RSS zdroje: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Synchronizujú sa odstránené RSS zdroje: %1$d.</string>
-    <string name="adjust_playback_position">Adjust playback position</string>
-    <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
-    <string name="zoom_image">Zoom image</string>
-    <string name="mark_all_as_unplayed">Mark all as unplayed</string>
+    <string name="adjust_playback_position">Nastavenie pozície prehrávania</string>
+    <string name="allow_to_change_playback_position_from_notification_">Umožňuje zmeniť pozíciu prehrávania z oznámenia.</string>
+    <string name="zoom_image">Priblíženie obrázka</string>
+    <string name="mark_all_as_unplayed">Označiť všetky ako neprehraté</string>
 </resources>

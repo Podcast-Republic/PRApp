@@ -116,7 +116,6 @@
     <string name="business">"Obchod"</string>
     <string name="comedy">"Komedie"</string>
     <string name="education">"Vzdělání"</string>
-    <string name="games">"Hry a koníčky"</string>
     <string name="government">"Vláda a organizace"</string>
     <string name="health_fitness">"Zdraví"</string>
     <string name="kids">"Děti a rodina"</string>
@@ -244,7 +243,6 @@
     <string name="every_day">"Každý den"</string>
     <string name="every_three_days">"Každé tři dny"</string>
     <string name="manually">"Ručně"</string>
-    <string name="do_not_check">"Nekontrolovat"</string>
     <string name="newest_first">"Nejdřív nejnovější"</string>
     <string name="oldest_first">"Nejdřív nejstarší"</string>
     <string name="on">"Zapnout"</string>
@@ -450,7 +448,6 @@
     <string name="restoring_">"Obnovuji…"</string>
     <string name="creating_backup_">"Vytváření zálohy…"</string>
     <string name="resume_downloads">"Obnovit stahování"</string>
-    <string name="delete_episode_and_download_">"Vymazat epizodu a stáhnout?"</string>
     <string name="clear_playlist">"Vymazat seznam"</string>
     <string name="clear_current_playlist_">"Vymazat aktuální seznam?"</string>
     <string name="enter_playlist_name">"Zadejte název seznamu"</string>
@@ -472,7 +469,6 @@
     <string name="swipe_up_to_play_next_in_playlist">"Přejeďte prstem nahoru, pro další v seznamu"</string>
     <string name="swipe_to_left_to_fast_rewind">"Přejeďte prstem doleva pro přetočení zpět"</string>
     <string name="swipe_to_right_to_fast_forward">"Přejeďte prstem doprava pro posun vpřed"</string>
-    <string name="swipe_down_to_stop">"Přejeďte prstem dolů pro zastavení"</string>
     <string name="remove_subscription_to_">"Zrušit odběru: [ %1$s ]"</string>
     <string name="data_roaming">"Datový roaming"</string>
     <string name="allow_to_download_with_data_services_when_roaming">"Povolit stahování přes data při roamingu"</string>
@@ -493,9 +489,6 @@
     <string name="there_are_no_podcasts_">"Nejsou žádné podcasty!"</string>
     <string name="no_podcasts_selected">"Žádné podcasty nevybrány!"</string>
     <string name="enjoy_podcast_republic">"Líbí se vám Podcast Republic?"</string>
-    <string name="please_tell_us_how_we_re_doing">"Řekněte všem, jak nám to jde"</string>
-    <string name="rate_us_in_the_play_store">"Ohodnoťte nás v Obchodě Play"</string>
-    <string name="no_thanks">"Ne, díky"</string>
     <string name="select_an_image_on_device">"Vyberte obrázek v zařízení"</string>
     <string name="youtube_type">"Typ YouTube"</string>
     <string name="scanning_">"Hledám…"</string>
@@ -623,7 +616,6 @@
     <string name="skip_the_ending_d_seconds">"Přeskočte posledních %d sekund"</string>
     <string name="no_user_notes_found">"Nebyly nalezeny žádné uživatelské poznámky."</string>
     <string name="no_episode_description_found">"Nebyl nalezen žádný popis epizody."</string>
-    <string name="set_episode_s_as_played_">"Nastavit epizodu [ %s ] jako přehranou?"</string>
     <string name="or">"nebo"</string>
     <string name="up_next_list_has_been_updated_to_play_from_s">"Nahoru Další seznam byl aktualizován pro přehrání od: %s"</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Provést úplnou synchronizaci. Bude to chvíli trvat."</string>
@@ -677,7 +669,6 @@
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Nastavit virtuální podcast pro přehrávání hudby nebo audioknih v zařízení."</string>
     <string name="click_to_adjust_playback_speed">"Klepnutím upravíte rychlost přehrávání"</string>
     <string name="click_to_set_up_sleep_timer">"Klepnutím nastavíte časovač vypnutí"</string>
-    <string name="click_to_view_more_options_">"Kliknutím zobrazíte další možnosti …"</string>
     <string name="click_to_select_playback_mode">"Klepnutím vyberte režim přehrávání"</string>
     <string name="percetage_value">"%d %%"</string>
     <string name="select_episodes">"Vybrat epizody"</string>
@@ -704,7 +695,6 @@
     <string name="number_of_episodes_to_auto_download">"Počet epizod pro automatické stahování"</string>
     <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Automaticky stahovat až %1$d nejnovějších při načtení nových epizod"</string>
     <string name="notify_when_new_episodes_are_available">"Upozornit na nové epizody"</string>
-    <string name="save_episode_list_to_html">"Uložit seznam epizod do HTML"</string>
     <string name="com_parse_ui_progress_dialog_text">"Načítání…"</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Zapomenuté heslo</u></string>
     <string name="com_parse_ui_email_input_hint">"E-mail"</string>
@@ -752,7 +742,6 @@
     <string name="hide_last_updated_time">"Skrýt poslední aktualizovaný čas"</string>
     <string name="delete_account">"Zrušit účet"</string>
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"Už se nebudete moci přihlásit! Chcete účet opravdu zrušit?"</string>
-    <string name="please_select_a_directory_to_save_the_auto_backups">"Vyberte adresář pro uložení automatických záloh."</string>
     <string name="download_completed">"Stahování dokončeno"</string>
     <string name="notify_when_an_episode_has_been_downloaded">"Upozornit na stažení epizody"</string>
     <string name="night_mode">"Noční režim"</string>
@@ -851,13 +840,11 @@
     <string name="enabled_buttons_">"Povolená tlačítka:"</string>
     <string name="bottom_navigation_bar">"Dolní navigační panel"</string>
     <string name="play_bar">"Panel přehravače"</string>
-    <string name="show_play_bar_when_app_starts">"Zobrazit panel přehrávače při spuštění aplikace"</string>
     <string name="can_not_edit_default_episode_filter_">"Výchozí filtr epizody nelze upravit!"</string>
     <string name="playlist_name">"Název seznamu"</string>
     <string name="priority">"Priorita"</string>
     <string name="higher_priority_playlist_will_be_played_first_">"Seznam s vyšší prioritou bude přehráván jako první."</string>
     <string name="view_podcast">"Pohled"</string>
-    <string name="priority_d">"Priorita: %d"</string>
     <string name="stream_all">"Streamovat všechny"</string>
     <string name="view_all_your_playlists">"Zobrazit všechny seznamy"</string>
     <string name="click_on_the_tab_again_to_view_all_your_playlists">"Klepnutím na kartu zobrazíte všechny seznamy"</string>
@@ -870,7 +857,6 @@
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">"Klepnutím na kartu zobrazíte všechny filty epizod"</string>
     <string name="stop_playing_when_time_is_up">"Zastavit přehrávání po uplynutí času"</string>
     <string name="sleep_timer_fired_stop_playing_">"Časovač spánku doběhl, přestávám hrát!"</string>
-    <string name="yes_sure">Ano, jistě</string>
     <string name="play_all_from_new_to_old">Přehrát vše od nejnovějšího</string>
     <string name="smart_update">Chytré stahování</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Zkontrolovat nové epizody po poslechnutí nejnovější epizody v podcastu</string>
@@ -879,8 +865,6 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Pamatovat si úroveň hlasitosti a obnovit ji při zahájení přehrávání</string>
     <string name="metered_network">Měřená síť</string>
     <string name="allow_to_download_over_metered_network">Povolit stahování na měřené síti</string>
-    <string name="respond_to_media_button">"Reakce na tlačítko médií"</string>
-    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">"Zahájit přehrávání tlačítkem Bluetooth při zavřené aplikaci."</string>
     <string name="remind_me_1_minute_less">Zavibrovat minutu předem</string>
     <string name="unread_count">"Počet nepřečtených"</string>
     <string name="newest_unread">"Nejnovější nepřečtené"</string>
@@ -962,9 +946,7 @@
     <string name="smart_rewind_on_resuming">Chytré přetočení při obnovení</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Vrátit zpět o %1$d až %2$d sekund při obnovení přehrávání</string>
     <string name="always_on">Vždy zapnuto</string>
-    <string name="auto_switch">Automaticky přepnout</string>
     <string name="always_on_amoled_black">Vždy zapnuto (AMOLED černý)</string>
-    <string name="auto_switch_amoled_black">Automaticky přepnout (AMOLED černý)</string>
     <string name="minimum_rewind_time_d_seconds">Minimální čas přetočení: %d sekund.</string>
     <string name="maximum_rewind_time_d_seconds">Maximální čas přetočení: %d sekund.</string>
     <string name="show_radio_station_title">Ukázat název stanice</string>
@@ -978,15 +960,11 @@
     <string name="there_are_no_deleted_episodes_">Nejsou žádné smazané epizody!</string>
     <string name="mark_as_favorite">Označit jako oblíbené</string>
     <string name="remove_favorite_mark">Odstranit značku oblíbené</string>
-    <string name="persistent_play_bar">Persistent play bar</string>
-    <string name="keep_play_bar_displayed_after_playback_finishes">Keep play bar displayed after playback finishes</string>
     <string name="rotate_by_podcasts">Rotate by podcasts</string>
     <string name="search_in_all_podcasts">Search in all podcasts</string>
     <string name="search_in_subscribed_podcasts">Search in subscribed podcasts</string>
     <string name="search_by_podcast_title">Search by podcast title</string>
     <string name="search_by_podcast_publisher">Search by podcast publisher</string>
-    <string name="all_podcasts">All podcasts</string>
-    <string name="my_podcasts">My podcasts</string>
     <string name="fade_audio_out_2_minutes_less">Fade audio out (2 minutes less)</string>
     <string name="keep_all_articles">Keep all articles</string>
     <string name="keep_articles">Keep articles</string>
@@ -1141,4 +1119,20 @@
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
     <string name="mark_all_as_unplayed">Mark all as unplayed</string>
+    <string name="default_playlist">Default playlist</string>
+    <string name="use_this_playlist_as_the_default_playlist">Use this playlist as the default playlist.</string>
+    <string name="article_unique_criteria">Article unique criteria</string>
+    <string name="new_article_notification">New article notification</string>
+    <string name="there_are_no_radio_stations_">There are no radio stations!</string>
+    <string name="android_auto">Android Auto</string>
+    <string name="display_now_playling_list">Display now playing list.</string>
+    <string name="display_podcasts_list">Display podcasts list.</string>
+    <string name="display_playlists_list">Display playlists list.</string>
+    <string name="display_completed_downloads_list">Display completed downloads list.</string>
+    <string name="display_episode_filters_list">Display episode filters list.</string>
+    <string name="display_radio_stations_list">Display radio stations list.</string>
+    <string name="view_unplayed_episodes">View unplayed episodes</string>
+    <string name="view_downloaded_episodes">View downloaded episodes</string>
+    <string name="unreviewed">Unreviewed</string>
+    <string name="posted">Posted</string>
 </resources>

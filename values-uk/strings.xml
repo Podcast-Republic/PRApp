@@ -115,7 +115,6 @@
     <string name="business">"Бізнес"</string>
     <string name="comedy">"Комедія"</string>
     <string name="education">"Освіта"</string>
-    <string name="games">"Ігри та хобі"</string>
     <string name="government">"Уряд та організації"</string>
     <string name="health_fitness">"Здоров'я"</string>
     <string name="kids">"Діти та сім'я"</string>
@@ -243,7 +242,6 @@
     <string name="every_day">"Кожен день"</string>
     <string name="every_three_days">"Кожні три дні"</string>
     <string name="manually">"Вручну"</string>
-    <string name="do_not_check">"Не оновлювати"</string>
     <string name="newest_first">"Спочатку найновіше"</string>
     <string name="oldest_first">"Спочатку найстаріше"</string>
     <string name="on">"Увімкнути"</string>
@@ -451,7 +449,6 @@
     <string name="restoring_">"Відновлюю…"</string>
     <string name="creating_backup_">"Створюю резервну копію…"</string>
     <string name="resume_downloads">"Продовжити завантаження"</string>
-    <string name="delete_episode_and_download_">"Видалити епізод і завантажити?"</string>
     <string name="clear_playlist">"Очистити список відтворення"</string>
     <string name="clear_current_playlist_">"Очистити поточний список відтворення?"</string>
     <string name="enter_playlist_name">"Введіть назву плейлиста"</string>
@@ -473,7 +470,6 @@
     <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх і зіграти наступне у списку"</string>
     <string name="swipe_to_left_to_fast_rewind">"Свайпнути вліво, щоб перемотати назад"</string>
     <string name="swipe_to_right_to_fast_forward">"Свайпнути праворуч, щоб перемотати вперед"</string>
-    <string name="swipe_down_to_stop">"Свайпнути вниз, щоб призупинити"</string>
     <string name="remove_subscription_to_">"Видалити підписку на: [ %1$s ]?"</string>
     <string name="data_roaming">"Роумінг даних"</string>
     <string name="allow_to_download_with_data_services_when_roaming">"Дозволити завантажувати дані через роумінг"</string>
@@ -494,9 +490,6 @@
     <string name="there_are_no_podcasts_">"Немає подкастів!"</string>
     <string name="no_podcasts_selected">"Не вибрано жодного подкасту"</string>
     <string name="enjoy_podcast_republic">"Подобається Podcast Republic?"</string>
-    <string name="please_tell_us_how_we_re_doing">"будь ласка, поділіться вашими побажаннями"</string>
-    <string name="rate_us_in_the_play_store">"Оцініть нас у Play Store"</string>
-    <string name="no_thanks">"Ні, дякую"</string>
     <string name="select_an_image_on_device">"Виберіть зображення на пристрої"</string>
     <string name="youtube_type">"Тип YouTube"</string>
     <string name="scanning_">"Сканування…"</string>
@@ -624,7 +617,6 @@
     <string name="skip_the_ending_d_seconds">"Пропустити закінчення %d секунд"</string>
     <string name="no_user_notes_found">"Ніяких користувацьких приміток не знайдено."</string>
     <string name="no_episode_description_found">"Не знайдено ніякого опису до епізоду."</string>
-    <string name="set_episode_s_as_played_">"Помітити епізод [ %s ] як зіграний?"</string>
     <string name="or">"Або "</string>
     <string name="up_next_list_has_been_updated_to_play_from_s">"Наступний список був оновлений для відтворення з: %s"</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Зробіть повну синхронізацію. Триватиме довше, ніж зазвичай."</string>
@@ -678,7 +670,6 @@
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Налаштуйте віртуальний подкаст, щоб відтворювати музику або аудіокниги на своєму пристрої."</string>
     <string name="click_to_adjust_playback_speed">"Натисніть, щоб налаштувати швидкість відтворення"</string>
     <string name="click_to_set_up_sleep_timer">"Натисніть, щоб налаштувати таймер вимкнення"</string>
-    <string name="click_to_view_more_options_">"Натисніть, щоб переглянути інші параметри"</string>
     <string name="click_to_select_playback_mode">"Натисніть, щоб вибрати режим відтворення"</string>
     <string name="percetage_value">"%d%%"</string>
     <string name="select_episodes">"Виберіть епізоди"</string>
@@ -705,7 +696,6 @@
     <string name="number_of_episodes_to_auto_download">"Кількість епізодів для автоматичного завантаження"</string>
     <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Автоматично завантажувати до останніх епізодів %1$d коли завантажуються нові епізоди"</string>
     <string name="notify_when_new_episodes_are_available">"Сповіщати, коли з'являються нові епізоди"</string>
-    <string name="save_episode_list_to_html">"Зберегти список епізодів у форматі HTML"</string>
     <string name="com_parse_ui_progress_dialog_text">"Завантаження …"</string>
     <string name="com_parse_ui_forgot_password_button_label">"Забули пароль"</string>
     <string name="com_parse_ui_email_input_hint">"E-mail"</string>
@@ -753,7 +743,6 @@
     <string name="hide_last_updated_time">"Сховати востаннє оновлений час"</string>
     <string name="delete_account">Видалити аккаунт</string>
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Ви не зможете залогінитися знову! Справді видалити аккаунт?</string>
-    <string name="please_select_a_directory_to_save_the_auto_backups">Будь ласка, виберіть місце для автоматичного створення резервної копії.</string>
     <string name="download_completed">Завантаження закінчено</string>
     <string name="notify_when_an_episode_has_been_downloaded">Повідомити, коли епізод завантажиться</string>
     <string name="night_mode">Нічний режим</string>
@@ -852,13 +841,11 @@
     <string name="enabled_buttons_">Enabled buttons:</string>
     <string name="bottom_navigation_bar">Bottom navigation bar</string>
     <string name="play_bar">Play bar</string>
-    <string name="show_play_bar_when_app_starts">Show play bar when app starts</string>
     <string name="can_not_edit_default_episode_filter_">Can not edit default episode filter!</string>
     <string name="playlist_name">Playlist name</string>
     <string name="priority">Priority</string>
     <string name="higher_priority_playlist_will_be_played_first_">Higher priority playlist will be played first.</string>
     <string name="view_podcast">View</string>
-    <string name="priority_d">Priority: %d</string>
     <string name="stream_all">Stream all</string>
     <string name="view_all_your_playlists">View all your playlists</string>
     <string name="click_on_the_tab_again_to_view_all_your_playlists">Click on the tab again to view all your playlists</string>
@@ -871,7 +858,6 @@
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Click on the tab again to view all your episode filters</string>
     <string name="stop_playing_when_time_is_up">Stop playing when time is up</string>
     <string name="sleep_timer_fired_stop_playing_">Sleep timer fired, stop playing!</string>
-    <string name="yes_sure">Yes, sure</string>
     <string name="play_all_from_new_to_old">Play all from new to old</string>
     <string name="smart_update">Smart update</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Check for new episodes after completing the newest episode in the podcast</string>
@@ -880,8 +866,6 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Remember last played volume level and restore to it on playback starts</string>
     <string name="metered_network">Metered network</string>
     <string name="allow_to_download_over_metered_network">Allow to download over metered network</string>
-    <string name="respond_to_media_button">Respond to media button</string>
-    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">Allow to start playing on Bluetooth play command received while app is closed.</string>
     <string name="remind_me_1_minute_less">Remind me (1 minute less)</string>
     <string name="unread_count">Unread count</string>
     <string name="newest_unread">Newest unread</string>
@@ -962,8 +946,6 @@
     <string name="don_t_show_it_again">Don\'t show it again</string>
     <string name="always_on">Always on</string>
     <string name="always_on_amoled_black">Always on (AMOLED black)</string>
-    <string name="auto_switch">Auto switch</string>
-    <string name="auto_switch_amoled_black">Auto switch (AMOLED black)</string>
     <string name="smart_rewind_on_resuming">Smart rewind on resuming</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Automatically rewind %1$d to %2$d seconds when resuming the playback</string>
     <string name="minimum_rewind_time_d_seconds">Minimum rewind time: %d seconds.</string>
@@ -979,15 +961,11 @@
     <string name="there_are_no_deleted_episodes_">There are no deleted episodes!</string>
     <string name="mark_as_favorite">Mark as favorite</string>
     <string name="remove_favorite_mark">Remove favorite mark</string>
-    <string name="persistent_play_bar">Persistent play bar</string>
-    <string name="keep_play_bar_displayed_after_playback_finishes">Keep play bar displayed after playback finishes</string>
     <string name="rotate_by_podcasts">Rotate by podcasts</string>
     <string name="search_in_all_podcasts">Search in all podcasts</string>
     <string name="search_in_subscribed_podcasts">Search in subscribed podcasts</string>
     <string name="search_by_podcast_title">Search by podcast title</string>
     <string name="search_by_podcast_publisher">Search by podcast publisher</string>
-    <string name="all_podcasts">All podcasts</string>
-    <string name="my_podcasts">My podcasts</string>
     <string name="fade_audio_out_2_minutes_less">Fade audio out (2 minutes less)</string>
     <string name="keep_all_articles">Keep all articles</string>
     <string name="keep_articles">Keep articles</string>
@@ -1142,4 +1120,20 @@
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
     <string name="mark_all_as_unplayed">Mark all as unplayed</string>
+    <string name="default_playlist">Default playlist</string>
+    <string name="use_this_playlist_as_the_default_playlist">Use this playlist as the default playlist.</string>
+    <string name="article_unique_criteria">Article unique criteria</string>
+    <string name="new_article_notification">New article notification</string>
+    <string name="there_are_no_radio_stations_">There are no radio stations!</string>
+    <string name="android_auto">Android Auto</string>
+    <string name="display_now_playling_list">Display now playing list.</string>
+    <string name="display_podcasts_list">Display podcasts list.</string>
+    <string name="display_playlists_list">Display playlists list.</string>
+    <string name="display_completed_downloads_list">Display completed downloads list.</string>
+    <string name="display_episode_filters_list">Display episode filters list.</string>
+    <string name="display_radio_stations_list">Display radio stations list.</string>
+    <string name="view_unplayed_episodes">View unplayed episodes</string>
+    <string name="view_downloaded_episodes">View downloaded episodes</string>
+    <string name="unreviewed">Unreviewed</string>
+    <string name="posted">Posted</string>
 </resources>

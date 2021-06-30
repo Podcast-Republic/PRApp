@@ -116,7 +116,6 @@
     <string name="business">Economie</string>
     <string name="comedy">Humour</string>
     <string name="education">Education</string>
-    <string name="games">Jeux &amp; Loisirs</string>
     <string name="government">Gouvernement &amp; Associations</string>
     <string name="health_fitness">Santé</string>
     <string name="kids">Enfants &amp; Famille</string>
@@ -442,7 +441,6 @@
     <string name="move_selections_to_top">Déplacer la sélection au début</string>
     <string name="move_selections_to_bottom">Déplacer la sélection à la fin</string>
     <string name="downloaded">Téléchargés</string>
-    <string name="do_not_check">Ne pas vérifier</string>
     <string name="dont_download_episode">"Ne pas télécharger l'épisode"</string>
     <string name="match_all_keywords">Correspondre à tous les mots-clés</string>
     <string name="match_any_of_the_keywords">"Correspondre à n'importe quel mot-clé"</string>
@@ -455,7 +453,6 @@
     <string name="restoring_">Restoration en cours…</string>
     <string name="creating_backup_">Sauvegarde en cours …</string>
     <string name="resume_downloads">Reprendre les téléchargements</string>
-    <string name="delete_episode_and_download_">"Supprimer l'épisode et son téléchargement ?"</string>
     <string name="clear_playlist">Effacer la liste de lecture</string>
     <string name="clear_current_playlist_">Effacer cette liste de lecture ?</string>
     <string name="enter_playlist_name">Entrer le nom de la liste de lecture</string>
@@ -477,7 +474,6 @@
     <string name="swipe_up_to_play_next_in_playlist">Faites glisser vers le haut pour écouter le suivant dans la liste de lecture</string>
     <string name="swipe_to_left_to_fast_rewind">Faites glisser vers la gauche pour reculer</string>
     <string name="swipe_to_right_to_fast_forward">Faites glisser vers la droite pour avancer</string>
-    <string name="swipe_down_to_stop">Faites glisser vers le bas pour stopper</string>
     <string name="remove_subscription_to_">"Se désabonner : [%1$s]"</string>
     <string name="data_roaming">Données en itinérance</string>
     <string name="allow_to_download_with_data_services_when_roaming">Autoriser le téléchargement via un service de données en itinérance</string>
@@ -498,9 +494,6 @@
     <string name="there_are_no_podcasts_">"Il n'y a aucun élément !"</string>
     <string name="no_podcasts_selected">No podcast selected</string>
     <string name="enjoy_podcast_republic">Vous appréciez cette application ?</string>
-    <string name="please_tell_us_how_we_re_doing">"S’il vous plaît, aidez-nous à devenir une application 5 étoiles !"</string>
-    <string name="rate_us_in_the_play_store">Notez-moi dans le Play Store</string>
-    <string name="no_thanks">Non merci</string>
     <string name="select_an_image_on_device">"Selectionner une image sur l'appareil"</string>
     <string name="youtube_type">Type YouTube</string>
     <string name="scanning_">Balayage en cours …</string>
@@ -628,7 +621,6 @@
     <string name="skip_the_ending_d_seconds">Passer la fin de %d secondes</string>
     <string name="no_user_notes_found">"Pas de notes d'utilisateur trouvé."</string>
     <string name="no_episode_description_found">La description ne permet pas de trouver un épisode.</string>
-    <string name="set_episode_s_as_played_">"Afficher l'épisode (%s) comme lu ?"</string>
     <string name="or">Ou</string>
     <string name="up_next_list_has_been_updated_to_play_from_s">La liste suivante est prête pour la lecture à partir de : %s</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">Faire une synchronisation complète. Cela mettra plus de temps à finir.</string>
@@ -682,7 +674,6 @@
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Ajouter un podcast virtuel pour écouter de la musique ou un livre audio sur votre appareil.</string>
     <string name="click_to_adjust_playback_speed">Cliquer pour ajuster la vitesse de lecture</string>
     <string name="click_to_set_up_sleep_timer">Cliquer pour régler le sleep timer</string>
-    <string name="click_to_view_more_options_">"Cliquer pour plus d'options…"</string>
     <string name="click_to_select_playback_mode">Cliquer pour le mode lecture en boucle</string>
     <string name="percetage_value">%d%%</string>
     <string name="select_episodes">Sélectionner les épisodes</string>
@@ -709,7 +700,6 @@
     <string name="number_of_episodes_to_auto_download">"Nombre d'épisodes à télécharger automatiquement"</string>
     <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Télécharger automatiquement jusqu’à %1$d les épisodes les plus récents lorsque de nouveaux épisodes sont récupérés.</string>
     <string name="notify_when_new_episodes_are_available">Notifier lorsque de nouveaux épisodes sont disponibles</string>
-    <string name="save_episode_list_to_html">"Sauvegarder la liste d'épisodes au format HTML"</string>
     <string name="com_parse_ui_progress_dialog_text">Chargement…</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Mot de passe oublié</u></string>
     <string name="com_parse_ui_email_input_hint">Adresse Mail</string>
@@ -757,7 +747,6 @@
     <string name="hide_last_updated_time">Masquer les dernières mises à jour</string>
     <string name="delete_account">Supprimer le compte</string>
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Vous ne désirez plus utiliser ce compte ! valider la suppression ?</string>
-    <string name="please_select_a_directory_to_save_the_auto_backups">Merci de sélectionner un dossier de sauvegarde automatique.</string>
     <string name="download_completed">Téléchargement terminé</string>
     <string name="notify_when_an_episode_has_been_downloaded">"Notifier lorsqu'un épisode a bien été téléchargé"</string>
     <string name="night_mode">Mode nuit</string>
@@ -856,13 +845,11 @@
     <string name="enabled_buttons_">Boutons activés :</string>
     <string name="bottom_navigation_bar">Barre de navigation</string>
     <string name="play_bar">Barre de lecture</string>
-    <string name="show_play_bar_when_app_starts">"Afficher la barre de lecture au démarrage de l'application"</string>
     <string name="can_not_edit_default_episode_filter_">"Impossible de modifier le filtre d'épisode par défaut !"</string>
     <string name="playlist_name">Nom de la playlist</string>
     <string name="priority">Priorité</string>
     <string name="higher_priority_playlist_will_be_played_first_">La sélection de priorité élevé sera lue en premier.</string>
     <string name="view_podcast">Vue</string>
-    <string name="priority_d">Priorité : %d</string>
     <string name="stream_all">Diffuser tout</string>
     <string name="view_all_your_playlists">Voir toutes vos playlists</string>
     <string name="click_on_the_tab_again_to_view_all_your_playlists">"Cliquez de nouveau sur l'onglet pour voir toutes vos playlists."</string>
@@ -875,7 +862,6 @@
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">"Cliquez sur l'onglet de nouveau pour voir tous vos filtres d'épisodes."</string>
     <string name="stop_playing_when_time_is_up">Arrêter la lecture lorsque le temps est terminé.</string>
     <string name="sleep_timer_fired_stop_playing_">Minuteur terminé, arrêt de la lecture !</string>
-    <string name="yes_sure">Oui, bien sûr</string>
     <string name="play_all_from_new_to_old">Lire tout du plus récent au plus ancien</string>
     <string name="smart_update">Mise à jour automatique</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"Vérifier s'il y a de nouveaux épisodes après le dernier épisode podcasté."</string>
@@ -884,8 +870,6 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Se souvenir du dernier niveau de volume et le rétablir au démarrage de la lecture.</string>
     <string name="metered_network">Réseau mobile</string>
     <string name="allow_to_download_over_metered_network">Autoriser le téléchargement sur réseau mobile.</string>
-    <string name="respond_to_media_button">Bouton répondre aux médias</string>
-    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">"Autoriser la lecture par une commande Bluetooth lorsque l'application est fermée."</string>
     <string name="remind_me_1_minute_less">Me le rappeler (moins de 1 minute)</string>
     <string name="unread_count">Compte non lu</string>
     <string name="newest_unread">Plus récent non lu</string>
@@ -966,8 +950,6 @@
     <string name="don_t_show_it_again">Ne plus afficher</string>
     <string name="always_on">Toujours allumé</string>
     <string name="always_on_amoled_black">Toujours allumé (même écran éteint)</string>
-    <string name="auto_switch">Commuter automatiquement</string>
-    <string name="auto_switch_amoled_black">Commuter automatiquement (même écran éteint)</string>
     <string name="smart_rewind_on_resuming">Reprise intelligente</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Reprendre automatiquement %1$d à %2$d secondes lors de la reprise de lecture .</string>
     <string name="minimum_rewind_time_d_seconds">Temps minimum de retour arrière : %d secondes .</string>
@@ -986,15 +968,11 @@
     <string name="there_are_no_deleted_episodes_">"Il n'y a pas d'épisodes supprimés !"</string>
     <string name="mark_as_favorite">Ajouter aux favoris</string>
     <string name="remove_favorite_mark">Retirer des favoris</string>
-    <string name="persistent_play_bar">Barre de lecture toujours affichée</string>
-    <string name="keep_play_bar_displayed_after_playback_finishes">Maintenir la barre de lecture affichée à la fin de la lecture.</string>
     <string name="rotate_by_podcasts">Rotation automatique par podcast</string>
     <string name="search_in_all_podcasts">Recherche dans tous les podcasts</string>
     <string name="search_in_subscribed_podcasts">Recherche dans les abonnements</string>
     <string name="search_by_podcast_title">Recherche par titre de podcast</string>
     <string name="search_by_podcast_publisher">Recherche par éditeur de podcast</string>
-    <string name="all_podcasts">Tous les podcasts</string>
-    <string name="my_podcasts">Mes podcasts</string>
     <string name="fade_audio_out_2_minutes_less">Fondu audio (moins de 2 minutes)</string>
     <string name="keep_all_articles">Conserver tous les articles</string>
     <string name="keep_articles">Conserver les articles</string>
@@ -1149,4 +1127,20 @@
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
     <string name="mark_all_as_unplayed">Mark all as unplayed</string>
+    <string name="default_playlist">Default playlist</string>
+    <string name="use_this_playlist_as_the_default_playlist">Use this playlist as the default playlist.</string>
+    <string name="article_unique_criteria">Article unique criteria</string>
+    <string name="new_article_notification">New article notification</string>
+    <string name="there_are_no_radio_stations_">There are no radio stations!</string>
+    <string name="android_auto">Android Auto</string>
+    <string name="display_now_playling_list">Display now playing list.</string>
+    <string name="display_podcasts_list">Display podcasts list.</string>
+    <string name="display_playlists_list">Display playlists list.</string>
+    <string name="display_completed_downloads_list">Display completed downloads list.</string>
+    <string name="display_episode_filters_list">Display episode filters list.</string>
+    <string name="display_radio_stations_list">Display radio stations list.</string>
+    <string name="view_unplayed_episodes">View unplayed episodes</string>
+    <string name="view_downloaded_episodes">View downloaded episodes</string>
+    <string name="unreviewed">Unreviewed</string>
+    <string name="posted">Posted</string>
 </resources>

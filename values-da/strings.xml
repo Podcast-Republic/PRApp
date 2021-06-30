@@ -116,7 +116,6 @@
     <string name="business">"Erhverv"</string>
     <string name="comedy">"Humor"</string>
     <string name="education">"Viden"</string>
-    <string name="games">"Spil og hobbyer"</string>
     <string name="government">"Myndigheder og organisationer"</string>
     <string name="health_fitness">"Sundhed"</string>
     <string name="kids">"Børn og familie"</string>
@@ -244,7 +243,6 @@
     <string name="every_day">"Dagligt"</string>
     <string name="every_three_days">"Hver tredje dag"</string>
     <string name="manually">"Manuelt"</string>
-    <string name="do_not_check">"Tjek ikke"</string>
     <string name="newest_first">"Nyeste først"</string>
     <string name="oldest_first">"Ældste først"</string>
     <string name="on">"Ja"</string>
@@ -452,7 +450,6 @@
     <string name="restoring_">"Gendanner…"</string>
     <string name="creating_backup_">"Opretter backup …"</string>
     <string name="resume_downloads">"Genoptag downloads"</string>
-    <string name="delete_episode_and_download_">"Slet afsnit og download?"</string>
     <string name="clear_playlist">"Ryd playliste"</string>
     <string name="clear_current_playlist_">"Ryd nuværende playliste?"</string>
     <string name="enter_playlist_name">"Indtast navn på playliste"</string>
@@ -474,7 +471,6 @@
     <string name="swipe_up_to_play_next_in_playlist">"Swipe opad for at spille det næste i playlisten"</string>
     <string name="swipe_to_left_to_fast_rewind">"Swipe til venstre for at spole tilbage"</string>
     <string name="swipe_to_right_to_fast_forward">"Swipe til højre for at spole fremad"</string>
-    <string name="swipe_down_to_stop">"Swipe nedad for at stoppe"</string>
     <string name="remove_subscription_to_">"Fjern abonnement på: [ %1$s ]"</string>
     <string name="data_roaming">"Dataroaming"</string>
     <string name="allow_to_download_with_data_services_when_roaming">"Download med mobildata ved roaming"</string>
@@ -495,9 +491,6 @@
     <string name="there_are_no_podcasts_">"Der er ingen podcasts"</string>
     <string name="no_podcasts_selected">"Ingen valgte podcasts"</string>
     <string name="enjoy_podcast_republic">"Synes du om Podcast Republic?"</string>
-    <string name="please_tell_us_how_we_re_doing">"Giv os gerne feedback"</string>
-    <string name="rate_us_in_the_play_store">"Bedøm os i Play Butik"</string>
-    <string name="no_thanks">"Nej tak"</string>
     <string name="select_an_image_on_device">"Vælg billede på enheden"</string>
     <string name="youtube_type">"YouTube-type"</string>
     <string name="scanning_">"Scanner …"</string>
@@ -625,7 +618,6 @@
     <string name="skip_the_ending_d_seconds">"Spring de sidste %d sekunder af slutningen over"</string>
     <string name="no_user_notes_found">"Ingen noter fundet"</string>
     <string name="no_episode_description_found">"Der er ingen afsnitsbeskrivelse"</string>
-    <string name="set_episode_s_as_played_">"Marker afsnit [ %s ] som afspillet?"</string>
     <string name="or">"Eller"</string>
     <string name="up_next_list_has_been_updated_to_play_from_s">"Op Næste liste er blevet opdateret for at afspille fra: %s"</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Udfør en fuld synkronisering. Det vil tage meget længere tid at færdiggøre"</string>
@@ -678,7 +670,6 @@
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Opret en virtuel podcast for at afspille musik eller lydbøger på din enhed."</string>
     <string name="click_to_adjust_playback_speed">"Tryk her for at justere afspilningshastigheden"</string>
     <string name="click_to_set_up_sleep_timer">"Tryk her for at indstille dvale-tilstand"</string>
-    <string name="click_to_view_more_options_">"Tryk her for at se flere indstillinger…"</string>
     <string name="click_to_select_playback_mode">"Tryk her for at vælge afspilningstilstand"</string>
     <string name="percetage_value">%d%%</string>
     <string name="select_episodes">"Vælg afsnit"</string>
@@ -705,7 +696,6 @@
     <string name="number_of_episodes_to_auto_download">Antal episoder der downloades automatisk</string>
     <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Download automatisk op til %1$d af de seneste afsnit, når nye afsnit er tilgængelige</string>
     <string name="notify_when_new_episodes_are_available">Vis notifikation når nye afsnit er tilgængelige</string>
-    <string name="save_episode_list_to_html">Gem afsnitsliste som HTML-fil</string>
 
     <string name="com_parse_ui_progress_dialog_text">"Indlæser…"</string>
     <string name="com_parse_ui_forgot_password_button_label">"<u>Glemt adgangskode</u>"</string>
@@ -754,7 +744,6 @@
     <string name="hide_last_updated_time">Skjul tidspunkt for seneste opdatering</string>
     <string name="delete_account">Slet konto</string>
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Du vil ikke kunne logge ind med denne konto igen. Vil du fortsætte med at slette kontoen?</string>
-    <string name="please_select_a_directory_to_save_the_auto_backups">Vælg en placering til automatisk backup.</string>
     <string name="download_completed">Download fuldført</string>
     <string name="notify_when_an_episode_has_been_downloaded">Vis notifikation når et afsnit er downloadet</string>
     <string name="night_mode">Nat-tilstand</string>
@@ -853,13 +842,11 @@
     <string name="enabled_buttons_">"Aktive knapper: "</string>
     <string name="bottom_navigation_bar">"Navigationslinje i bunden af skærmen"</string>
     <string name="play_bar">"Afspiller i bunden af skærmen"</string>
-    <string name="show_play_bar_when_app_starts">"Vis afspilleren i bunden af skærmen, når appen starter"</string>
     <string name="can_not_edit_default_episode_filter_">"Standardfiltret kan ikke ændres"</string>
     <string name="playlist_name">"Navn på playliste"</string>
     <string name="priority">"Prioritet"</string>
     <string name="higher_priority_playlist_will_be_played_first_">"Playlisten med højere prioritet afspilles først."</string>
     <string name="view_podcast">"Vis"</string>
-    <string name="priority_d">"Prioritet: %d"</string>
     <string name="stream_all">"Stream alle"</string>
     <string name="view_all_your_playlists">"Vis alle dine playlister"</string>
     <string name="click_on_the_tab_again_to_view_all_your_playlists">"Klik på fanen igen for at vise alle dine playlister"</string>
@@ -872,7 +859,6 @@
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">"Klik på fanen igen for at se alle afsnitsfiltre"</string>
     <string name="stop_playing_when_time_is_up">"Stop med at spille, når tiden er gået"</string>
     <string name="sleep_timer_fired_stop_playing_">"Sleep timer er sat i gang - afspilningen stoppes"</string>
-    <string name="yes_sure">"Ja, bestemt"</string>
     <string name="play_all_from_new_to_old">"Afspil alle fra nyeste til ældste"</string>
     <string name="smart_update">"Smartopdatering"</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"Søg efter nye afsnit, når du har afspillet det seneste afsnit af en podcast"</string>
@@ -881,8 +867,6 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Husk lydstyrken og fortsæt med denne, når afspilningen genoptages"</string>
     <string name="metered_network">"Forbrugsbaseret netværk"</string>
     <string name="allow_to_download_over_metered_network">"Tillad download via forbrugsbaseret netværk"</string>
-    <string name="respond_to_media_button">"Reager på medieknappen"</string>
-    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">"Tillad at begynde afspilning via Bluetooth Play-kommando, mens appen er slukket."</string>
     <string name="remind_me_1_minute_less">"Påmind mig (1 minut tilbage)"</string>
     <string name="unread_count">"Antal ulæste"</string>
     <string name="newest_unread">"Seneste ulæste"</string>
@@ -963,8 +947,6 @@
     <string name="don_t_show_it_again">Vis ikke dette igen</string>
     <string name="always_on">Altid på</string>
     <string name="always_on_amoled_black">Altid på (AMOLED black)</string>
-    <string name="auto_switch">Skift automatisk</string>
-    <string name="auto_switch_amoled_black">Skift automatisk (AMOLED black)</string>
     <string name="smart_rewind_on_resuming">Spol tilbage efter pause</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Spol %1$d til %2$d sekunder tilbage når afspilningen genoptages</string>
     <string name="minimum_rewind_time_d_seconds">Spol mindst %d sekunder tilbage.</string>
@@ -981,15 +963,11 @@
     <string name="there_are_no_deleted_episodes_">Der er ingen slettede afsnit</string>
     <string name="mark_as_favorite">Marker som favorit</string>
     <string name="remove_favorite_mark">Fjern markering som favorit</string>
-    <string name="persistent_play_bar">Lås afspiller</string>
-    <string name="keep_play_bar_displayed_after_playback_finishes">Afspilleren vises fortsat når afspilningen er færdig</string>
     <string name="rotate_by_podcasts">Roter efter podcast</string>
     <string name="search_in_all_podcasts">Søg i alle podcasts</string>
     <string name="search_in_subscribed_podcasts">Søg i podcasts du abonnerer på</string>
     <string name="search_by_podcast_title">Søg efter podcasttitel</string>
     <string name="search_by_podcast_publisher">Søg efter podcastudgiver</string>
-    <string name="all_podcasts">Alle podcasts</string>
-    <string name="my_podcasts">Mine podcasts</string>
     <string name="fade_audio_out_2_minutes_less">Fade lyden ud (2 minutter mindre)</string>
     <string name="keep_all_articles">Vis alle artikler</string>
     <string name="keep_articles">Vis artikler</string>
@@ -1144,4 +1122,20 @@
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
     <string name="mark_all_as_unplayed">Mark all as unplayed</string>
+    <string name="default_playlist">Default playlist</string>
+    <string name="use_this_playlist_as_the_default_playlist">Use this playlist as the default playlist.</string>
+    <string name="article_unique_criteria">Article unique criteria</string>
+    <string name="new_article_notification">New article notification</string>
+    <string name="there_are_no_radio_stations_">There are no radio stations!</string>
+    <string name="android_auto">Android Auto</string>
+    <string name="display_now_playling_list">Display now playing list.</string>
+    <string name="display_podcasts_list">Display podcasts list.</string>
+    <string name="display_playlists_list">Display playlists list.</string>
+    <string name="display_completed_downloads_list">Display completed downloads list.</string>
+    <string name="display_episode_filters_list">Display episode filters list.</string>
+    <string name="display_radio_stations_list">Display radio stations list.</string>
+    <string name="view_unplayed_episodes">View unplayed episodes</string>
+    <string name="view_downloaded_episodes">View downloaded episodes</string>
+    <string name="unreviewed">Unreviewed</string>
+    <string name="posted">Posted</string>
 </resources>

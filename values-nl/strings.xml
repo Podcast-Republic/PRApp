@@ -115,7 +115,6 @@
     <string name="business">"Business"</string>
     <string name="comedy">"Komedie"</string>
     <string name="education">"Opleiding"</string>
-    <string name="games">"Games &amp; Hobby"</string>
     <string name="government">"Overheid &amp; Organisaties"</string>
     <string name="health_fitness">"Gezondheidszorg"</string>
     <string name="kids">"Kinderen &amp; Familie"</string>
@@ -243,7 +242,6 @@
     <string name="every_day">"Iedere dag"</string>
     <string name="every_three_days">Iedere drie dag</string>
     <string name="manually">"Handmatig"</string>
-    <string name="do_not_check">"Niet controleren"</string>
     <string name="newest_first">"Nieuwste eerst"</string>
     <string name="oldest_first">"Oudste eerst"</string>
     <string name="on">"Aan"</string>
@@ -450,7 +448,6 @@
     <string name="restoring_">"Herstellen …"</string>
     <string name="creating_backup_">"Maakt een back-up …"</string>
     <string name="resume_downloads">"Downloaden hervatten"</string>
-    <string name="delete_episode_and_download_">"Verwijder aflevering en download?"</string>
     <string name="clear_playlist">"Leegmaken afspeellijst"</string>
     <string name="clear_current_playlist_">"Leegmaken huidige afspeellijst?"</string>
     <string name="enter_playlist_name">"Naam afspeellijst"</string>
@@ -472,7 +469,6 @@
     <string name="swipe_up_to_play_next_in_playlist">"Veeg omhoog voor volgende in afspeellijst"</string>
     <string name="swipe_to_left_to_fast_rewind">"Veeg naar links voor terugspoelen"</string>
     <string name="swipe_to_right_to_fast_forward">"Veeg naar rechts snel vooruit spoelen"</string>
-    <string name="swipe_down_to_stop">"Veeg omlaag voor stoppen"</string>
     <string name="remove_subscription_to_">"Verwijder abonnement op: [%1$s]"</string>
     <string name="data_roaming">"Data roaming"</string>
     <string name="allow_to_download_with_data_services_when_roaming">"Sta downloaden met data diensten toe tijdens roaming"</string>
@@ -493,9 +489,6 @@
     <string name="there_are_no_podcasts_">"Er zijn geen podcasts!"</string>
     <string name="no_podcasts_selected">"Geen podcast geselecteerd"</string>
     <string name="enjoy_podcast_republic">"Bevalt Podcast Republiek je goed?"</string>
-    <string name="please_tell_us_how_we_re_doing">"Laat ons weten hoe we het doen."</string>
-    <string name="rate_us_in_the_play_store">"Beoordeel ons in de Play Store"</string>
-    <string name="no_thanks">"Nee, bedankt"</string>
     <string name="select_an_image_on_device">"Selecteer afbeelding op apparaat"</string>
     <string name="youtube_type">"YouTube type"</string>
     <string name="scanning_">"Scannen…"</string>
@@ -623,7 +616,6 @@
     <string name="skip_the_ending_d_seconds">Sla de laatste %d seconden over</string>
     <string name="no_user_notes_found">Geen gebruikersaantekeningen gevonden.</string>
     <string name="no_episode_description_found">Geen afleveringsbeschrijving gevonden.</string>
-    <string name="set_episode_s_as_played_">Aflevering [%s] als gespeeld markeren?</string>
     <string name="or">Of</string>
     <string name="up_next_list_has_been_updated_to_play_from_s">De volgende lijst is geupdate om af te spelen: %s</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">Alles synchroniseren. Duurt wel veel langer om te doen.</string>
@@ -677,7 +669,6 @@
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Maak een virtuele podcast om muziek of audioboeken op je apparaat af te spelen.</string>
     <string name="click_to_adjust_playback_speed">Klik om de afspeelsnelheid te veranderen</string>
     <string name="click_to_set_up_sleep_timer">Klik om de slaapstand timer in te stellen</string>
-    <string name="click_to_view_more_options_">Klik om meer instellingen te bekijken…</string>
     <string name="click_to_select_playback_mode">Klik om een afspeelmodus te selecteren</string>
     <string name="percetage_value">%d%%</string>
     <string name="select_episodes">Selecteer afleveringen</string>
@@ -704,7 +695,6 @@
     <string name="number_of_episodes_to_auto_download">Aantal afleveringen om automatisch te downloaden</string>
     <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Automatisch de %1$d meest recente afleveringen downloaden wanneer nieuwe afleveringen zijn opgehaald</string>
     <string name="notify_when_new_episodes_are_available">Laat weten wanneer er nieuwe afleveringen beschikbaar zijn</string>
-    <string name="save_episode_list_to_html">Afleveringenlijst opslaan naar HTML</string>
     <string name="com_parse_ui_progress_dialog_text">Aan het laden…</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Wachtwoord vergeten</u></string>
     <string name="com_parse_ui_email_input_hint">E-mail</string>
@@ -752,7 +742,6 @@
     <string name="hide_last_updated_time">Verberg tijd laatste update</string>
     <string name="delete_account">Verwijder account</string>
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Je zult niet meer op dit account kunnen inloggen! Doorgaan met verwijderen van dit account?</string>
-    <string name="please_select_a_directory_to_save_the_auto_backups">Selecteer een folder om je automatische backups in op te slaan.</string>
     <string name="download_completed">Download afgerond</string>
     <string name="notify_when_an_episode_has_been_downloaded">Meld het wanneer een aflevering is gedownload</string>
     <string name="night_mode">"Nachtstand"</string>
@@ -851,13 +840,11 @@
     <string name="enabled_buttons_">"Ingeschakelde knoppen:"</string>
     <string name="bottom_navigation_bar">"Onderste navigatiebalk"</string>
     <string name="play_bar">"Afspeelbalk"</string>
-    <string name="show_play_bar_when_app_starts">"Toon de afspeelbalk wanneer de app start"</string>
     <string name="can_not_edit_default_episode_filter_">"Kan standaardafleveringsfilter niet bewerken!"</string>
     <string name="playlist_name">"Naam afspeellijst"</string>
     <string name="priority">"Prioriteit"</string>
     <string name="higher_priority_playlist_will_be_played_first_">"Een afspeellijst met hogere prioriteit wordt eerst afgespeeld."</string>
     <string name="view_podcast">"Bekijk"</string>
-    <string name="priority_d">"Prioriteit: %d"</string>
     <string name="stream_all">"Stream alles"</string>
     <string name="view_all_your_playlists">"Bekijk al je afspeellijsten"</string>
     <string name="click_on_the_tab_again_to_view_all_your_playlists">"Klik nogmaals op het tabblad om al je afspeellijsten te bekijken"</string>
@@ -870,7 +857,6 @@
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">"Klik nogmaals op het tabblad om al je afleveringsfilters te bekijken"</string>
     <string name="stop_playing_when_time_is_up">"Stop met spelen wanneer de tijd om is"</string>
     <string name="sleep_timer_fired_stop_playing_">"Slaaptimer afgegaan, stop met spelen!"</string>
-    <string name="yes_sure">"Ja, tuurlijk"</string>
     <string name="play_all_from_new_to_old">"Speel alles van nieuw tot oud"</string>
     <string name="smart_update">"Slimme update"</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"Controleer op nieuwe afleveringen na het voltooien van de nieuwste aflevering in de podcast"</string>
@@ -879,8 +865,6 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Onthoud het laatst afgespeelde volumeniveau en herstel het bij het starten van het afspelen"</string>
     <string name="metered_network">"Gemeten netwerk"</string>
     <string name="allow_to_download_over_metered_network">"Sta toe om over een gemeten netwerk te downloaden"</string>
-    <string name="respond_to_media_button">"Reageer op media-knop"</string>
-    <string name="allow_to_start_playing_on_bluetooth_play_command_received_while_app_is_closed_">"Begin met spelen wanneer Bluetooth-afspeelopdracht is ontvangen terwijl de app is gesloten."</string>
     <string name="remind_me_1_minute_less">"Herinner me eraan (1 minuut minder)"</string>
     <string name="unread_count">"Aantal ongelezen"</string>
     <string name="newest_unread">"Nieuwste ongelezen"</string>
@@ -961,8 +945,6 @@
     <string name="don_t_show_it_again">Niet meer laten zien</string>
     <string name="always_on">Altijd aan</string>
     <string name="always_on_amoled_black">Altijd aan (AMOLED zwart)</string>
-    <string name="auto_switch">Auto switch</string>
-    <string name="auto_switch_amoled_black">Auto switch (AMOLED zwart)</string>
     <string name="smart_rewind_on_resuming">Slim terugspoelen bij hervatten</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Automatisch %1$d tot %2$d seconden terugspoelen bij hervatten van het afspelen</string>
     <string name="minimum_rewind_time_d_seconds">Minimale terugspoeltijd: %d seconden.</string>
@@ -980,15 +962,11 @@
     <string name="there_are_no_deleted_episodes_">Er zijn geen verwijderde afleveringen!</string>
     <string name="mark_as_favorite">Markeer als favoriet</string>
     <string name="remove_favorite_mark">Verwijder favoriet markering</string>
-    <string name="persistent_play_bar">Blijvend zichtbare afspeelbalk</string>
-    <string name="keep_play_bar_displayed_after_playback_finishes">Hou de afspeelbalk zichtbaar nadat afspelen is gestopt</string>
     <string name="rotate_by_podcasts">Roteer bij podcasts</string>
     <string name="search_in_all_podcasts">Zoek in alle podcasts</string>
     <string name="search_in_subscribed_podcasts">Zoek in alle geabonneerde podcasts</string>
     <string name="search_by_podcast_title">Zoek op podcast titel</string>
     <string name="search_by_podcast_publisher">Zoek op podcast uitgever</string>
-    <string name="all_podcasts">Alle podcasts</string>
-    <string name="my_podcasts">Mijn podcasts</string>
     <string name="fade_audio_out_2_minutes_less">Audio fade out (2 minuten korter)</string>
     <string name="keep_all_articles">Bewaar alle artikelen</string>
     <string name="keep_articles">Bewaar artikelen</string>
@@ -1143,4 +1121,20 @@
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
     <string name="mark_all_as_unplayed">Mark all as unplayed</string>
+    <string name="default_playlist">Default playlist</string>
+    <string name="use_this_playlist_as_the_default_playlist">Use this playlist as the default playlist.</string>
+    <string name="article_unique_criteria">Article unique criteria</string>
+    <string name="new_article_notification">New article notification</string>
+    <string name="there_are_no_radio_stations_">There are no radio stations!</string>
+    <string name="android_auto">Android Auto</string>
+    <string name="display_now_playling_list">Display now playing list.</string>
+    <string name="display_podcasts_list">Display podcasts list.</string>
+    <string name="display_playlists_list">Display playlists list.</string>
+    <string name="display_completed_downloads_list">Display completed downloads list.</string>
+    <string name="display_episode_filters_list">Display episode filters list.</string>
+    <string name="display_radio_stations_list">Display radio stations list.</string>
+    <string name="view_unplayed_episodes">View unplayed episodes</string>
+    <string name="view_downloaded_episodes">View downloaded episodes</string>
+    <string name="unreviewed">Unreviewed</string>
+    <string name="posted">Posted</string>
 </resources>

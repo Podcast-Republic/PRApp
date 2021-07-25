@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    
+    <style>
+    	#myBtn {
+  			display: none;
+  			position: fixed;
+  			bottom: 20px;
+  			right: 30px;
+  			z-index: 99;
+  			border: none;
+  			outline: none;
+  			background-color: red;
+  			color: white;
+  			cursor: pointer;
+  			padding: 15px;
+  			border-radius: 10px;
+		}
+
+		#myBtn:hover {
+  			background-color: #555;
+		}
+	</style>
+</head>
+
+	<body class="home blog custom-background full-width custom-font-enabled single-author highlander-enabled highlander-light">
+
+	<button onclick="topFunction()" id="myBtn" title="Prejsť na vrch">Hore</button>
+	
+		<h3>Najčastejšie otázky – Podcast Republic</h3>
+		<p>&nbsp;</p>
+		
+		<h4>Odbery</h4>
+		<ul>
+			<li><a href="#q161021a">Ako nájsť podcasty?</a></li>
+			<li><a href="#q161021b">Ako sa prihlásiť na odber podcastu?</a></li>
+			<li><a href="#q161021c">Ako sa odhlásiť z odberu podcastu?</a></li>
+			<li><a href="#q328326c">Môžem pomocou tejto aplikácie prehrávať svoju hudbu/stiahnuté súbory/audioknihy?</a></li>
+			<li><a href="#q329326c">Ako manuálne pridať podcastový kanál?</a></li>
+			<li><a href="#q160214b">Čo znamenajú modré a zelené kruhy priebehu?</a></li>
+			<li><a href="#q160712c">Čo znamenajú modré a zelené čísla zobrazené na karte Podcasty?</a></li>
+		</ul>
+		<h4>Epizódy</h4>
+		<ul>
+			<li><a href="#q123456a">Ako nastaviť automatickú kontrolu nových epizód?</a></li>
+			<li><a href="#q971945c">Prečo sa môj podcast neaktualizuje?</a></li>
+			<li><a href="#q935117a">Ako prejsť k jednotlivým nastaveniam podcastu?</a></li>
+			<li><a href="#q010311d">Čo sú to jedinečné kritériá epizódy?</a></li>
+			<li><a href="#q1605021">Na čo slúži Reset epizód?</a></li>
+			<li><a href="#q190325b">Čo sú to kapitoly?</a></li>
+		</ul>
+		<h4>Sťahovanie</h4>
+		<ul>
+			<li><a href="#q323226a">Ako funguje automatické sťahovanie?</a></li>
+			<li><a href="#q323233a">Môžem zapnúť/vypnúť automatické sťahovanie pre jeden podcast?</a></li>
+			<li><a href="#q180517a">Čo je Inteligentné sťahovanie?</a></li>
+			<li><a href="#q553233a">Čo je to Ponechať stiahnuté?</a></li>
+			<li><a href="#q663233a">Ako uložiť stiahnuté súbory na SD kartu?</a></li>
+			<li><a href="#q663777a">Prečo je sťahovanie pre Wi-Fi pozastavené?</a></li>
+			<li><a href="#q190325c">Prečo je sťahovanie pozastavené z dôvodu slabej batérie, keď je zariadenie pripojené na nabíjanie?</a></li>
+			<li><a href="#q863777a">Môžem sťahovať cez dátové pripojenie 3G alebo 4G?</a></li>
+			<li><a href="#q160802b">Čo znamená správa o neúspešnom sťahovaní?</a></li>
+			<li><a href="#q993777a">Môžem obnoviť zlyhané sťahovanie?</a></li>
+			<li><a href="#q910777a">Ako automaticky odstrániť stiahnuté súbory po ich prehratí?</a></li>
+			<li><a href="#q1605022">Ako môžem podcast uložiť natrvalo?</a></li>
+			<li><a href="#q910117a">Prečo dochádza k duplicitnému sťahovaniu?</a></li>
+			<li><a href="#q931117a">Dá sa nejako zistiť, či bola epizóda stiahnutá?</a></li>
+			<li><a href="#q181016a">Ako presunúť priečinok na stiahnutie na nové miesto?</a></li>
+		</ul>
+		<h4>Prehrávač médií</h4>
+		<ul>
+			<li><a href="#q927326c">Prečo sa môj audiopodcast prehráva ako video?</a></li>
+			<li><a href="#q347326c">Môžem prehrávať video podcast len ako zvuk?</a></li>
+			<li><a href="#q1605023">Prečo sa prehrávanie na pozadí zastaví po uplynutí (x) minút?</a></li>
+			<li><a href="#q181022a">Hlasitosť podcastu je príliš nízka. Môžem zvýšiť zvukový výstup?</a></li>
+			<li><a href="#q181023a">Má aplikácia časovač spánku, ktorý zastaví prehrávanie po uplynutí času X?</a></li>
+			<li><a href="#q181024a">Môžem si naplánovať čas prehrávania podcastu?</a></li>
+			<li><a href="#q161022a">Ako vysielať do Chromecastu?</a></li>
+			<li><a href="#q190325a">Čo je inteligentné pretáčanie?</a></li>
+		</ul>
+		<h4>Playlisty</h4>
+		<ul>
+			<li><a href="#q1605024">Aké sú režimy prehrávania?</a></li>
+			<li><a href="#q161021d">Prečo sa automaticky spustí prehrávanie ďalšej epizódy?</a></li>
+			<li><a href="#q935445c">Prečo sa automaticky nespustí prehrávanie ďalšej epizódy?</a></li>
+			<li><a href="#q9665d5d">Ako prehrať všetky epizódy podcastu od najstaršej po najnovšiu?</a></li>
+			<li><a href="#q965645c">Ako vytvoriť používateľský playlist?</a></li>
+			<li><a href="#q977645c">Ako môžem nastaviť, aby sa epizódy podcastu vždy dostali do môjho vybraného zoznamu skladieb?</a></li>
+			<li><a href="#q147642e">Ako funguje zoznam Nasleduje?</a></li>
+			<li><a href="#q177642e">Ako funguje zoznam skladieb?</a></li>
+		</ul>
+		<h4>Synchronizácia, zálohovanie a obnovovanie<br>
+</h4>
+		<ul>
+			<li><a href="#q920945c">Ako synchronizovať údaje medzi zariadeniami?</a></li>
+			<li><a href="#q170430a">Aké údaje sa synchronizujú medzi zariadeniami?</a></li>
+			<li><a href="#q920921c">Ako preniesť údaje aplikácie do iného zariadenia?</a></li>
+			<li><a href="#q922921c">Ako preniesť stiahnuté súbory podcastov do iného zariadenia a aby ich táto aplikácia rozpoznala?</a></li>
+			<li><a href="#q160903d">Ako obnoviť údaje aplikácie zo záloh?</a></li>
+			<li><a href="#q181015a">Ako zálohovať stiahnutý súbor podcastu?</a></li>
+		</ul>
+		<h4>Rôzne</h4>
+		<ul>
+			<li><a href="#q922331c">Prečo sa videopodcasty z YouTube nedajú stiahnuť?</a></li>
+			<li><a href="#q943331c">Prečo sa pri niektorých podcastoch nezobrazujú obrázky?</a></li>
+			<li><a href="#q160909d">Ako zapnúť denník ladenia?</a></li>
+			<li><a href="#q173402b">Ako otvoriť nastavenia aplikácie?</a></li>
+			<li><a href="#q171209a">Čo je bočný panel?</a></li>
+			<li><a href="#q170909a">Čo je trojbodková ponuka?</a></li>
+			<li><a href="#q191025a">Prečo sa aplikácia neaktualizuje alebo prestane hrať, keď aplikácia prejde na pozadie alebo je ukončená?</a></li>
+			<li><a href="#q200909a">Môžem ovládať prehrávanie prostredníctvom aplikácií tretích strán, napríklad Tasker?</a></li>
+		</ul>
+		<hr>
+			<a name="q161021a"></a><strong>Ako nájsť podcasty?</strong><br>
+			Existujú dva spôsoby, ako nájsť nové podcasty:<br>
+			<ul>
+				<li>Prehľadávanie najlepších podcastov na karte Rebríčky</li>
+			</ul>
+			<ul>
+				<li>Vyhľadávať podcasty podľa názvu podcastu na karte Vyhľadávanie</li>
+			</ul>
+			<p>&nbsp;</p>
+			
+			<a name="q161021b"></a><strong>Ako sa prihlásiť na odber podcastu?</strong><br>
+Po nájdení podcastu v zozname rebríčkov alebo v 
+zozname výsledkov vyhľadávania podcastov, môžete položku podcastu v zozname posunúť doľava a otvoriť ponuku odberu.<br>
+			Alebo môžete klepnúť na názov podcastu, čím otvoríte podcast, a potom kliknutím na tlačidlo Prihlásiť sa k odberu sa prihlásite na odber.
+			<p>&nbsp;</p>
+			
+			<a name="q161021c"></a><strong>Ako zrušiť odber podcastu?</strong><br>
+Ak chcete odstrániť podcast z odberu, prejdite na stránku Podcasty
+najprv na kartu a potom nájdite podcast. Potom potiahnite položku podcastu na zozname doľava, čím otvoríte tlačidlo na odstránenie.<br>
+			Alebo klepnutím na názov podcastu otvorte podcast a potom klepnutím na <strong>Nastavenia</strong> otvorte <a href="#q935117a">individuálne nastavenia podcastu</a>. Potom ho pomocou tlačidla Zrušiť odber odhláste.
+		<p>&nbsp;</p>
+		
+		<a name="q328326c"></a><strong>Môžem pomocou tejto aplikácie prehrávať svoju hudbu/stiahnuté súbory/audio knihy?</strong><br>
+Iste, pomocou tejto aplikácie môžete prehrávať svoju hudbu/stiahnuté súbory/audioknihy. Aby ste to mohli urobiť, musíte nastaviť "virtuálny" podcast. Použije sa priečinok v lokálnom zariadení ako "virtuálne" úložisko podcastov. Všetky mediálne súbory v tomto priečinku budú importované do databázy a považované za
+epizódy tohto "virtuálneho" podcastu. <p>&nbsp;</p>
+		
+		<a name="q329326c"></a><strong>Ako manuálne pridať podcastový kanál?</strong><br>
+Ak váš podcast nenájdete pomocou vyhľadávania, vždy môžete pridať
+podcast ručne. Prejdite na kartu Podcasty a klepnite na tlačidlo Pridať
+na riadku s nadpisom. Potom vyberte položku <strong>Pridať podcast cez URL</strong>. Zadajte svoj podcastový kanál, a potom stlačte tlačidlo Nájsť podcast. Ak sa podcast nájde, pridá sa do aplikácie. <p>&nbsp;</p>
+		
+		<a name="q160214b"></a><strong>Čo znamenajú modré a zelené kruhy?</strong>
+		<ul>
+			<li>Modrý kruh priebehu je indikátor priebehu prehrávania.</li>
+			<li>Zelený kruh priebehu je indikátor priebehu sťahovania.</li>
+		</ul>
+		<p>&nbsp;</p>
+		
+		<a name="q160712c"></a><strong>Čo sú modré a zelené čísla zobrazené na karte Podcasty?</strong>
+		<ul>
+			<li>Modré číslo je celkový počet neprehratých epizód.</li>
+			<li>Zelené číslo je počet posledných stiahnutých epizód od posledného otvorenia podcastu.<br>
+				Toto číslo sa vynuluje, keď otvoríte podcast a zobrazíte jeho zoznam epizód.</li>
+		</ul>
+		<p>&nbsp;</p>
+		
+		<a name="q123456a"></a><strong>Ako nastaviť automatickú kontrolu nových epizód?</strong><br>
+V predvolenom nastavení bude táto aplikácia kontrolovať aktualizáciu podcastov každé tri hodiny. Ak chcete nastaviť iný interval kontroly aktualizácií alebo chcete automatickú kontrolu vypnúť úplne, môžete to urobiť prostredníctvom <a href="#q173402b">nastavenia aplikácie</a>.
+	<ol>
+		<li>Potiahnutím prsta z ľavého okraja obrazovky doprava otvoríte <a href="#q171209a" >bočnú ponuku</a></li>.
+		<li>Kliknutím na <strong>Nastavenia</strong> otvoríte obrazovku nastavení aplikácie</li>.
+		<li>Prejdite na položku <strong>Podcasty</strong></li>
+		<li>Kliknite na nastavenie <strong>Aktualizácia podcastov</strong> a vyberte možnosť zo zoznamu</li>.
+	</ol>
+	<p>&nbsp;</p>
+	
+	<a name="q971945c"></a><strong>Prečo sa môj podcast neaktualizuje?</strong><br>
+	Viete, že sú nové epizódy, ale táto aplikácia tieto nové epizódy nezobrazuje. No je veľmi pravdepodobné, že v kanáli RSS podcastu je preklep/chyba v dátume publikovania. Táto aplikácia používa dátum uverejnenia každej epizódy ako kľúčový ukazovateľ toho, či ide o novú epizódu, ktorá sa má načítať, alebo o starú epizódu, ktorá sa má odstrániť. Niekedy sa však stane, že dátum vydania niektorých epizód je nesprávny z dôvodu preklepu alebo z iných dôvodov. Ak je tento nesprávny dátum uverejnenia o niekoľko mesiacov neskorší ako aktuálny dátum, to zabráni tejto aplikácii aktualizovať podcast, pretože všetky epizódy pred týmto nesprávnym dátumom budú vyhodnotené ako falošné "staršie" epizódy. V tomto prípade je najrýchlejším spôsobom, ako prinútiť túto aplikáciu, aby podcast opäť aktualizovala, <a href="#q1605021">obnovenie údajov o epizóde</a>
+	<p>&nbsp;</p>
+	
+	<a name="q190325b"></a><strong>Čo sú kapitoly?</strong><br>
+	<strong>Kapitoly</strong>
+alebo záložky, ako ich nazývajú niektoré iné aplikácie, sú poznámky k určitým bodom na časovej osi zvukového alebo videosúboru. Sú užitočné najmä pri dlhých epizódach. Kliknutím na kapitolu môžete spustiť prehrávanie od tejto konkrétnej pozície na časovej osi. <p>Niektorí vydavatelia podcastov môžu pridať informácie o kapitolách do mediálneho súboru podcastu. V takom prípade ich táto aplikácia extrahuje a zobrazí vám ich. Táto aplikácia môže tiež prevziať informácie o kapitolách v poznámkach k relácii podcastu, ak je to rozpoznané. Používatelia môžu tiež pridávať kapitoly ručne.</p>
+	<p>&nbsp;</p>
+	
+	<a name="q935117a"></a><strong>Ako získať prístup k nastaveniam jednotlivých podcastov?</strong>
+	<ul>
+		<li>Prejdite na kartu Podcasty</li>
+		<li>Klepnutím na názov podcastu otvorte podcast</li>
+		<li>Kliknutím na tlačidlo Nastavenia na obrazovke otvorte nastavenia jednotlivých podcastov</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q010311d"></a><strong>Čo je jedinečné kritérium epizódy?</strong><br>
+Jedinečné kritériá epizódy sú kritériá používané na jednoznačnú identifikáciu epizódy. Toto jedinečné kritérium epizódy sa používa na zabránenie duplicitným epizódam načítaným z podcastového kanála. Mnohí vydavatelia podcastov priraďujú epizóde globálny jedinečný identifikátor (GUID), ktorý umožňuje jedinečnú identifikáciu každej epizódy. To sa však podľa štandardu RSS kanála podcastu nevyžaduje. Niektorí vydavatelia podcastov GUID vôbec nepoužívajú. Namiesto toho používajú URL adresu epizódy, dátum vydania epizódy alebo názov epizódy ako jedinečný spôsob identifikácie epizódy. <p>Táto aplikácia sa v predvolenom nastavení pokúsi zistiť použité jedinečné kritériá v kanáli podcastu a odstráni duplicitné epizódy z podcastu kanála podcastov. Väčšinu času by to malo fungovať správne. V prípade, že automatické zisťovanie jedinečné kritériá nefunguje a duplicitné epizódy sa zobrazujú, môžete prejsť do <a href="#q935117a">individuálnych nastavení podcastu</a> a nastaviť tieto jedinečné kritériá epizód ručne.</p>
+	<p>&nbsp;</p>
+	
+	<a name="q1605021"></a><strong>Čo robí resetovanie epizód?</strong><br>
+Údaje o epizódach budú touto aplikáciou lokálne uložené do medzipamäte v databáze aplikácie keď sa načítajú zo servera podcastov. Obnovenie epizód sa odstráni údaje epizód uložené v databáze a nanovo ich vytvorí z podcastového servera. Toto je užitočné v prípade, že údaje epizód uložené v medzipamäti sa poškodia z rôznych dôvodov alebo sa v údajoch epizód vyskytli chyby.
+	<p>&nbsp;</p>
+	
+	<a name="q323226a"></a><strong>Ako funguje automatické sťahovanie?</strong><br>
+	Možnosť automatického sťahovania môžete zapnúť buď v <a href="#q173402b">nastaveniach aplikácie</a>, alebo detailne nastaviť pre každý podcast v <a href="#q935117a">individuálnych nastaveniach podcastu</a>. Po zapnutí bude služba automatického sťahovania bežať na pozadí a automaticky sťahovať <b>najnovšie epizódy</b>, ktoré pre vás pravidelne vyhľadá.
+	<p>Najnovšie <b>epizódy</b> sú nové epizódy od posledného zobrazenia podcastu.</p>
+	<ul>
+		<li>Upozornenie: Ak je vaše zariadenie reštartované, musíte najprv spustiť túto aplikáciu, aby sa služba automatického sťahovania opäť spustila.</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q323233a"></a><strong>Môžem zapnúť/vypnúť automatické sťahovanie určitých podcastov?</strong><br>
+	Áno, funkciu automatického sťahovania môžete pre každý podcast podrobne nastaviť prostredníctvom <a href="#q935117a">individuálnych nastavení podcastu</a>. <a href="#q935117a">individuálne nastavenia podcastov</a> prepíšu systémové nastavenia.
+<p>&nbsp;</p>
+
+	<a name="q180517a"></a><strong>Čo je inteligentné sťahovanie?</strong><br>
+	So zapnutým <strong>inteligentným sťahovaním</strong> táto aplikácia automaticky stiahne až x novších a neprehratých epizód z aktuálne prehrávaného podcastu vždy, keď začnete prehrávať epizódu. Táto funkcia je veľmi užitočná, ak máte veľký počet nahromadených epizód alebo ak radi prehrávate epizódy v chronologickom poradí. Keď začnete prehrávať epizódu z dátumu X, aplikácia začne na pozadí sťahovať novšie epizódy (X+1, X+2...), takže môžete pokračovať v prehrávaní týchto novších epizód v režime offline, keď sa aktuálna epizóda X skončí!
+<p>&nbsp;</p>
+
+<a name="q553233a"></a><strong>Čo je Ponechať stiahnuté?</strong><br>
+Pre <a href="#q935117a">individuálne nastavenia podcastov</a>,
+je to maximálny počet stiahnutí, ktorý sa bude uchovávať pre každý podcast. Ak sa do zoznamu sťahovaní pridá nová epizóda a prekročí tento limit, najstarší stiahnutý súbor sa automaticky odstráni.
+<p>&nbsp;</p>
+
+<a name="q663233a"></a><strong>Ako uložiť stiahnuté súbory na SD kartu?</strong><br>
+Prejdite do <a href="#q173402b">nastavení aplikácie</a> a v časti <strong>Sťahovanie</strong> nastavte umiestnenie sťahovania na SD kartu.
+<p>&nbsp;</p>
+
+<a name="q663777a"></a><strong>Prečo je sťahovanie pre Wi-Fi pozastavené?</strong><br>Podľa predvoleného nastavenia táto aplikácia bude sťahovať len s pripojením Wi-Fi. Ak pripojenie Wi-Fi nie je k dispozícii, sťahovanie sa pozastaví a obnoví, keď je Wi-Fi k dispozícii.
+<p>&nbsp;</p>
+
+<a name="q190325c"></a><strong>Prečo sa sťahovanie pozastaví pre vybitú batériu, keď je zariadenie pripojené na nabíjanie? </strong><br>
+Systém Android vyšle upozornenie <strong>NÍZKU</strong> úroveň batérie, ak úroveň batérie klesne pod 15 %. Systém Android však nepošle signál, že batéria je <strong>OK</strong>, až kým úroveň batérie neprekročí 20 %.V dôsledku toho, ak je sťahovanie pozastavené pre nízku úroveň nabitia batérie, nebude obnovené, ani keď budete mať zariadenie pripojené, kým systém Android nedosiahne stav batérie <strong>OK</strong>.
+<p>&nbsp;</p>
+
+<a name="q863777a"></a><strong>Môžem sťahovať cez dátové pripojenie 3G alebo 4G?</strong><br>
+Áno, v <a href="#q173402b">nastaveniach aplikácie</a> vypnite možnosť Sťahovať iba cez Wi-Fi.
+<p>&nbsp;</p>
+
+<a name="q160802b"></a><strong>Čo znamená informácia o neúspešnom sťahovaní?</strong><br>
+<ul>
+	<li>URL sa nepodarilo nájsť: <em>Podcast, ktorý sa má stiahnuť 
+nie je k dispozícii na serveri. S najväčšou pravdepodobnosťou bol podcast odstránený vydavateľom podcastu alebo nie je dostupný z vášho pripojenia.</em></li>.
+	<li>Nedostatok miesta:<em>Na vašom úložisku nie je dostatok voľného miesta.</em></li>
+	<li>Zlyhalo: <em>Počas sťahovania došlo k neznámej chybe.</em></li>
+</ul>
+<p>&nbsp;</p>
+
+<a name="q993777a"></a><strong>Môžem pokračovať v zlyhanom sťahovaní?</strong><br>
+Áno, dlhým podržaním na neúspešne stiahnutej položke na obrazovke sťahovania sa zobrazí ponuka, výberom možnosti Stiahnuť znova z ponuky sa položka znovu stiahne.
+<p>&nbsp;</p>
+
+<a name="q910777a"></a><strong>Ako automaticky odstrániť stiahnuté súbory po prehratí?</strong><br>
+<ol>
+	<li>Otvorte <a href="#q173402b">nastavenia aplikácie</a></li>
+	<li>Prejdite na <strong>Epizódy</strong></li>
+	<li>Zapnite <strong>Odstrániť stiahnuté</strong>, keď je epizóda na 100 % prehraná</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q1605022"></a><strong>Ako môžem uložiť podcast natrvalo?</strong><br>Ak chcete natrvalo uchovať kópiu podcastu, stiahnite si podcast, a potom stiahnutý podcast exportujte do priečinka na vašom zariadení. Exportovaný súbor podcastu sa uloží tak, aby bolo možné použiť názov podcastu ako názov súboru. Funkcia exportovania podcastu je prístupná na viacerých obrazovkách. Dlho stlačením položiek na karte <strong>Stiahnuté súbory</strong> alebo <a href="#q170909a">v trojbodkovej ponuke</a> na obrazovke <strong>Prehráva sa</strong>.
+<p>&nbsp;</p>
+
+<a name="q910117a"></a><strong>Prečo sa mi duplicitne sťahujú súbory?</strong><br>
+Táto aplikácia používa zložitý algoritmus na zisťovanie jedinečných kritérií epizód používané v podcastovom kanáli, aby odstránil duplicitné epizódy. Táto automatická detekcia však môže niekedy zlyhať, čo má za následok, že duplicitné epizódy sa načítajú ako nové epizódy a stiahnu sa. V prípade, že automatické zisťovanie jedinečných kritérií epizódy zlyhá, odporúča sa nastaviť toto kritérium v <a href="#q935117a">individuálnych nastaveniach podcastu</a> ručne.
+<p>Prečítajte si viac na <a href="#q010311d">Čo sú jedinečné kritériá epizódy?</a></p>
+<p>&nbsp;</p>
+
+<a name="q931117a"></a><strong>Dá sa nejako zistiť, či bola epizóda stiahnutá?</strong><br>
+Po dokončení sťahovania sa tlačidlo sťahovania zmení na začiarknuté, čo znamená, že sťahovanie bolo dokončené.
+<p>&nbsp;</p>
+
+<a name="q181016a"></a><strong>Ako presunúť priečinok na sťahovanie na nové umiestnenie?</strong><br>
+Otvorte <a href="#q173402b">nastavenia aplikácií</a> a prejdite do nastavení sťahovania. Kliknite na nastavenie <strong>Umiestnenie sťahovania</strong> a vyberte nový priečinok. Aplikácia potom presunie existujúce stiahnuté súbory z aktuálneho priečinka na stiahnutie do vybraného priečinka automaticky. Stiahnuté súbory nie je potrebné presúvať ručne. Uistite sa, že máte dostatok miesta na uloženie všetkých existujúcich stiahnutých súborov na nové umiestnenie.
+<p>&nbsp;</p>
+
+<a name="q927326c"></a><strong>Prečo sa môj audiopodcast prehráva ako video?</strong><br>
+Na niektorých zariadeniach nemusí byť formát médií podcastu správne rozpoznaný. V takom prípade prejdite do <a href="#q935117a">individuálnych nastavení podcastu</a> a nastavte typ média manuálne.
+<p>&nbsp;</p>
+
+<a name="q347326c"></a><strong>Môžem prehrávať videopodcast len ako zvuk?</strong><br>
+Prejdite do <a href="#q935117a">individuálnych nastavení podcastu</a> a nastavte typ média na Audio, čím aplikáciu prinútite prehrávať video podcast len ako audio.
+<p>&nbsp;</p>
+
+<a name="q1605023"></a><strong>Prečo sa prehrávanie na pozadí zastaví po určitých (x) minútach?</strong><br>Toto  sa zvyčajne stáva, ak máte povolené šetrenie batérie alebo optimalizáciu v nastaveniach Androidu. Skúste vypnúť šetrenie batérie alebo vylúčiť túto aplikáciu z optimalizácie v nastavení Androidu. Spôsobovať to môžu aj niektoré aplikácie tretích strán, ako napríklad správcovia úloha/pamäte alebo antivírusové aplikácie, ktoré môžu ukončiť spustené aplikácie na pozadí. Ak máte tieto aplikácie nainštalované, skúste pridať túto aplikáciu do zoznamu povolených, aby ju tieto aplikácie neukončovali.
+<p>&nbsp;</p>
+
+<a name="q181022a"></a><strong>Hlasnosť podcastu je príliš nízka. Môžem zvýšiť zvukový výstup?</strong><br>Áno, v aplikácii je podporované zosilnenie zvuku, ktoré umožňuje zvýšiť zvukový výstup. Ak chcete rozšíriť miniprehrávač v spodnej časti obrazovky, vytiahnite ho nahor na celú obrazovku a potom stlačte tlačidlo viac (tri bodky), aby sa otvorila ponuka prehrávania. Potom vyberte položku Zvukové efekty &amp; ekvalizér z ponuky. Zosilnenie zvuku môžete zapnúť buď pre jeden podcast, alebo pre všetky podcasty.
+<p>&nbsp;</p>
+
+<a name="q181023a"></a><strong>Má aplikácia časovač spánku, ktorý zastaví prehrávanie po uplynutí času X?</strong><br>Áno, v aplikácii je podporovaný časovač spánku. Prosím, vytiahnite miniprehrávač na spodnej časti obrazovky, aby ste ho rozbalili na prehrávač na celú obrazovku. Časovač spánku sa nachádza na riadku ovládacích prvkov prehrávania.
+<p>&nbsp;</p>
+	
+<a name="q181024a"></a><strong>Môžem naplánovať čas prehrávania podcastu?</strong><br>Áno, v tejto aplikácii môžete automaticky použiť funkciu budíka na naplánovanie času prehrávania vybraného podcastu, rádia alebo playlistu.
+<p>&nbsp;</p>	
+
+<a name="q161022a"></a><strong>Ako vysielať do Chromecastu?</strong><br>
+Táto aplikácia podporuje Chromecast. Ikona Chromecast sa zobrazí v pravom hornom rohu obrazovky <strong>Prehrávať</strong>, keď sa zistí akékoľvek Chromecast zariadenie.
+<p>&nbsp;</p>
+
+<a name="q190325a"></a><strong>Čo je to Inteligentné pretáčanie? </strong><br>Inteligentné pretáčanie je funkcia v tejto aplikácii, ktorá pretáča čas od 5 sekúnd do 60 sekúnd automaticky v závislosti od toho, ako dlho bolo prehrávanie pozastavené alebo zastavené. Čím dlhšie bolo prehrávanie pozastavené alebo zastavené, tým dlhšie sa použije dlhší čas pretáčania.
+<p>&nbsp;</p>
+
+<a name="q1605024" ></a><strong>Čo sú to režimy prehrávania?</strong><br>
+V súčasnosti je v tejto aplikácii podporovaných šesť režimov prehrávania:
+<ul>
+	<li>Režim playlistu: prehráva všetky epizódy v tom istom playliste alebo zozname epizód za sebou</li>.
+	<li>Režim náhodne: prehráva všetky epizódy v rovnakom playliste alebo zozname epizód, ale v náhodnom poradí</li>
+	<li>Režim jedného prehratia: prehráva jednu epizódu, a potom sa zastaví</li>
+	<li>Opakovať epizódu: opakované prehrávanie tej istej epizódy, kým ju používateľ nezastaví</li>
+	<li>Opakovať playlist: opakované prehrávanie všetkých epizód v tom istom playliste alebo zozname epizód, kým ho používateľ nezastaví</li>
+	<li>Prioritný režim: dokončí aktuálnu epizódu, a potom prepne na prehrávanie playlistu s najvyššou (neprázdnou) prioritou</li>
+</ul>
+<p>Predvolené nastavenie <strong>režimu prehrávania</strong> je dostupné v nastavení <strong>Prehrávač médií</strong>. Každý playlist môže mať vlastný <strong>režim prehrávania</strong>, ktorý možno nastaviť prostredníctvom nastavenia playlistu (<strong>Playlisty</strong> &gt; <strong>Viac</strong> &gt; <strong>Správa playlistov</strong>).</p>
+<p>Aktuálne zvolený režim prehrávania sa zobrazí v hornej časti zoznamu <strong>Nasleduje</strong> na obrazovke <strong>Prehráva sa</strong>.</p>
+<p>&nbsp;</p>
+
+<a name="q161021d"></a><strong>Prečo sa automaticky začne prehrávať ďalšia epizóda?</strong><br>
+<p>Táto aplikácia predvolene prehráva v režime Playlist. To znamená, že automaticky pokračuje v prehrávaní ďalšej epizódy, keď sa aktuálna epizóda skončí. Ak dávate prednosť prehrávaniu jednej epizódy a potom zastaviť, tak nastavte režim prehrávania na režim <strong>Jedno prehratie</strong>.</p>
+<p>Prečítajte si viac na <a href="#q1605024">Aké sú režimy prehrávania?</a></p>
+<p>&nbsp;</p>
+
+<a name="q935445c"></a><strong>Prečo sa automaticky nezačne prehrávať ďalšia epizóda?</strong><br>
+<p>Uistite sa, že režim prehrávania je nastavený na <strong>Režim playlistu</strong>.</p>
+<p>Prečítajte si viac na <a href="#q1605024">Aké sú režimy prehrávania?</a></p>
+<p>&nbsp;</p>
+
+<a name="q9665d5d"></a><strong>Ako prehrať všetky epizódy podcastu od najstaršej po najnovšiu?</strong><br>
+Stačí otvoriť podcast na stránke <strong>Odbery</strong>. Kliknutím na ktorúkoľvek epizódu spustíte prehrávanie. Aplikácia automaticky zoradí všetky epizódy od najstaršej po najnovšiu.
+<p>&nbsp;</p>
+
+<a name="q965645c"></a><strong>Ako vytvoriť používateľský playlist?</strong><br>
+Táto aplikácia podporuje viacero playlistov, vrátane používateľských playlistov.<br>
+Kroky na vytvorenie používateľského playlistu:
+<ol>
+	<li>Prejdite na kartu <strong>Playlisty</strong></li>
+	<li>Otvorte <a href="#q170909a">trojbodkovú ponuku</a></li>
+	<li>V ponuke vyberte tlačidlo <strong>Správa playlistov</strong></li>.
+	<li>Zadajte nový názov playlistu</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q977645c"></a><strong>Ako môžem nastaviť, aby sa epizódy podcastu vždy presunuli do vybraného playlistu?</strong>
+<ol>
+	<li>Otvorte podcast na karte <strong>Podcasty</strong></li>
+	<li>Otvorte <a href="#q935117a">individuálne nastavenia podcastu</a></li>
+	<li>Kliknite na nastavenie <strong>Playlisty</strong> a vyberte jeden alebo viacero playlistov</li>.
+</ol>
+<p>Odteraz budú všetky automatické stiahnutia tohto podcastu automaticky presunuté do vybraných playlistov.</p>
+<p>&nbsp;</p>
+
+<a name="q147642e"></a><strong>Ako funguje zoznam Nasleduje?</strong><br>
+Zoznam <strong>Nasleduje</strong> slúži ako front na prehrávanie v aplikácii. Tento front prehrávania je dynamický front, ktorý sa automaticky aktualizuje pri prepnutí na nový playlist alebo pri pridaní nových epizód do playlistu alebo pri zmene poradia v playliste. Napríklad prejdete na kartu <strong>Playlisty</strong> a klepnutím na epizódu v "playliste A" spustíte prehrávanie. Potom sa zoznam <strong>Nasledujúce</strong> naplní všetkými epizódami z "playlistu A".
+<p>Potom prejdete na kartu <strong>Sťahovanie</strong> a klepnutím na epizódu v zozname <strong>Sťahovanie</strong> spustíte prehrávanie. Teraz sa zoznam <strong>Nasleduje</strong> naplní všetkými epizódami zo zoznamu <strong>Sťahovanie</strong>. Taktiež, keď sa zmení poradie epizód v zozname prehrávania, táto zmena sa automaticky synchronizuje so zoznamom <strong>Nasleduje</strong>. Na aktualizáciu poradia prehrávania nemusíte robiť nič ručne.</p>
+<p>&nbsp;</p>
+
+<a name="q177642e"></a><strong>Ako funguje playlist?</strong><br>
+V tejto aplikácii sa dá akýkoľvek zoznam epizód prehrať ako playlist. Môžete kliknúť na epizódu v zozname epizód, aby ste spustili prehrávanie. Zoznam epizód sa následne načíta do zoznamu <strong>Nasleduje</strong>.
+Existujú dva typy playlistov na základe podporovaných funkcií:
+<ul>
+	<li>Plnohodnotný playlist: playlisty vytvorené na karte <strong>Playlisty</strong></li>
+	<li>Základný playlist: všetky ostatné zoznamy epizód v aplikácii</li>
+</ul>
+Playlistu možno priradiť hodnotu <strong>priority</strong>. Pri prehrávaní v režime <strong>Priorita</strong> sa po skončení aktuálnej epizódy prehrávač automaticky prepne na prehrávanie playlistu s najvyššou (neprázdnou) prioritou.
+<p>&nbsp;</p>
+
+<a name="q920945c"></a><strong>Ako synchronizovať údaje medzi zariadeniami?</strong><br>
+Ak chcete začať synchronizovať údaje medzi zariadeniami, môžete si vytvoriť účet alebo sa prihlásiť pomocou účtu Google. Po prihlásení do konta sa automaticky synchronizujú vaše odbery (podcast a rádio), stav prehrávania epizód a stav obľúbených. V súčasnosti sa na synchronizáciu v reálnom čase používa akékoľvek dostupné pripojenie (mobilné alebo WiFi). Prejdite do <a href="#q173402b">nastavení aplikácie</a>, a potom sa prihláste do svojho konta v časti <strong>Synchronizácia medzi zariadeniami</strong>.
+<p>&nbsp;</p>
+
+<a name="q170430a"></a><strong>Aké údaje sa synchronizujú medzi zariadeniami?</strong><br>
+V súčasnosti sa medzi zariadeniami synchronizujú tieto údaje:
+<ul>
+	<li>Vaše odbery (podcasty a rádiá)</li>
+	<li>Priebeh prehrávania epizód, stav obľúbených</li>
+	<li>Poznámky používateľa</li>
+	<li>Používateľské kapitoly</li>
+	<li>Nastavenia aplikácie</li>
+</ul>
+<p>&nbsp;</p>
+
+<a name="q920921c"></a><strong>Ako preniesť údaje aplikácie do iného zariadenia?</strong><br>
+Ak chcete mať možnosť preniesť priebeh prehrávania z iného
+zariadenia, najjednoduchším spôsobom je nastaviť synchronizáciu medzi zariadeniami, podrobnosti nájdete v časti <a href="#q920945c">ako synchronizovať údaje medzi zariadeniami</a>.
+<p>Ak chcete preniesť všetky údaje aplikácie do iného zariadenia, najjednoduchšie to urobíte pomocou funkcie Zálohovanie a obnovenie.</p>
+<p>Nechcete nastaviť synchronizáciu? Stále môžete preniesť údaje aplikácie do iného zariadenia. Stačí vytvoriť zálohu údajov aplikácie, a potom skopírovať tento súbor zálohy do iného zariadenia, a potom obnoviť zo zálohy. Stiahnuté súbory nie sú zahrnuté do zálohy údajov aplikácie.</p>
+<p>&nbsp;</p>
+
+<a name="q922921c"></a><strong>Ako preniesť stiahnuté súbory podcastu do iného zariadenia a rozpoznať ich touto aplikáciou?</strong><br>
+Predpokladajme, že chcete preniesť stiahnuté súbory podcastov zo zariadenia A do zariadenia B, postupujte podľa nasledujúcich krokov, ich táto aplikácia rozpoznala v zariadení B:
+<ol>
+	<li>Spustite aplikáciu na zariadení A</li>
+	<li>Prejdite do <a href="#q173402b">nastavení aplikácie</a> &gt; <strong>Zálohovanie a obnovenie</strong> &gt; <strong>Zálohovať</strong> a vytvorte zálohu údajov aplikácie v zariadení A</li>
+	<li>Skopírujte súbor zálohy údajov aplikácie do zariadenia B</li>
+	<li>Vytvorte nový priečinok v zariadení B</li>
+	<li>Skopírujte stiahnuté súbory podcastov zo zariadenia A do tohto novovytvoreného priečinka v zariadení B</li>
+	<li>Spustite aplikáciu v zariadení B</li>
+	<li>Postupujte podľa pokynov <a href="#q160903d">Obnovenie údajov aplikácie</a> na obnovenie zo zálohy údajov aplikácie v zariadení B</li>.
+	<li>Prejdite do <a href="#q173402b">nastavení aplikácií</a> &gt; <strong>Sťahovanie</strong> a nastavte priečinok sťahovania v zariadení B</li>
+	<li>Prejdite na kartu Sťahovanie a otvorte <a href="#q170909a">trojbodkovú ponuku</a></li>
+	<li>Vyberte položku <strong>Importovať stiahnuté súbory</strong></li>
+	<li>Vyberte priečinok, do ktorého ste skopírovali súbory podcastov zo zariadenia A.</li>
+</ol>
+<p>Počkajte na dokončenie importu. Skopírované súbory podcastov môžete odstrániť po opätovnom overení rozpoznania stiahnutých súborov.</p>
+<p>&nbsp;</p>
+
+<a name="q160903d"></a><strong>Ako obnoviť údaje aplikácie zo zálohy?</strong><br>
+	    <ol>
+			<li>Zapnuté zariadenie Android pripojte k USB portu počítača.</li>
+			<li>V Prieskumníkovi (alebo v ekvivalente systému Mac) vyberte Android zariadenie, a potom jeho internú pamäť.</li>
+			<li>Otvorte priečinok so zálohou. Miesto, kde sa záložný priečinok nachádza, nájdete v nastavení <strong>Zálohovanie a obnovenie</strong>. Preventívne skopírujte tieto súbory na miesto v počítači, aby ste si ich mohli zálohovať.</li>
+			<li>Nájdite priečinok so stiahnutými súbormi a skopírujte všetky súbory na miesto v počítači, ako preventívnu zálohu.</li>
+			<li>Spustite aplikáciu Podcast Republic, prejdite na <a href="#q173402b">nastavenia aplikácie</a> &gt; <strong>Sťahovanie</strong> a nastavte umiestnenie na sťahovanie.</li>
+			<li>Nájdite priečinok na sťahovanie vo svojom zariadení. Ak je priečinok prázdny, znova pripojte zariadenie Android k počítaču. Skopírujte stiahnuté súbory podcastov z počítača do priečinka na sťahovanie v zariadení Android.</li>
+			<li>Spustite Podcast Republic, prejdite na <a href="#q173402b">nastavenia aplikácie</a> &gt; <strong>Zálohovanie a obnovenie</strong> &gt; <strong>Obnoviť</strong>.</li>
+			<li>Nájdite priečinok zálohy.</li>
+			<li>Otvorte tento priečinok a vyhľadajte najnovší súbor zálohy. Nazvané sú "backup_YYYYYMMDDHHMM.zip" na základe dátumu a času, kedy bola záloha vytvorená.</li>
+			<li>Dlho stlačte posledný súbor zálohy, a potom klepnite na tlačidlo <strong>Vybrať</strong>. Tým obnovíte všetky svoje odbery, zoznamy prehratých/neprehratých, obľúbené položky atď.</li>
+			<li>V závislosti od toho, kedy bola záloha vytvorená, vám môžu chýbať niektoré nedávne aktivity.
+				Budete musieť ručne pridať všetky odbery, ktoré boli pridané po vykonaní vašej poslednej zálohy.</li>
+			<li>Pre všetky epizódy, ktoré ste prehrali od vytvorenia poslednej zálohy, musíte nájsť epizódu, klepnúť na "..." vedľa nej a vybrať "Označiť ako prehraté", aby ste ju označili ako už prehratú.</li>
+			<li>Ak ste po vytvorení poslednej zálohy označili niektoré epizódy ako obľúbené (pomocou hviezdičky), budete ich musieť znova manuálne označiť ako obľúbené z pamäte.</li>
+		</ol>
+<p>&nbsp;</p>
+
+<a name="q181015a"></a><strong>Ako môžem zálohovať stiahnutý súbor podcastu?</strong><br>
+Ak si chcete ponechať stiahnutú kópiu podcastu, môžete v aplikácii použiť funkciu <strong>Exportovať epizódu</strong>. Funkcia Exportovať epizódu vyexportuje stiahnutý súbor podcastu do vami zvoleného umiestnenia a použije názov epizódy ako názov súboru.
+K funkcii <strong>Exportovať epizódu</strong> môžete pristupovať z viacerých miest. Najjednoduchší spôsob je prejsť na kartu <strong>Sťahovanie</strong>, a potom dlho podržať na epizóde. Potom z kontextovej ponuky vyberte možnosť <strong>Exportovať epizódu</strong>.
+<p>&nbsp;</p>
+
+<a name="q922331c"></a><strong>Prečo sa videopodcasty z YouTube nedajú stiahnuť?</strong><br>
+Podľa zásad spoločnosti Google by sa videá na YouTube nemali sťahovať.
+<p>&nbsp;</p>
+
+<a name="q943331c"></a><strong>Prečo sa pri niektorých podcastoch nezobrazujú obrázky?</strong><br>
+Obrázky sa zobrazia pre podcast, ktorý ho má. Obrázky sa ukladajú do lokálnej vyrovnávacej pamäte. Táto vyrovnávacia pamäť sa však môže nejakým spôsobom vymazať. V prípade, že sa obrázok podcastu nezobrazuje, skúste podcast obnoviť. Táto aplikácia sa pokúsi obrázok opäť uložiť do vyrovnávacej pamäte.
+<p>&nbsp;</p>
+
+<a name="q160909d"></a><strong>Ako zapnúť denník ladenia?</strong><br>
+Ak si v tejto aplikácii všimnete nejakú chybu, môžete povoliť <strong>Denník ladenia</strong> a poslať denník ladenia späť vývojárovi. Ak chcete povoliť <strong>Denník ladenia</strong>, otvorte <a href="#q173402b">nastavenia aplikácie</a>, a potom prejdite na stránku <strong>O aplikácii</strong>. Klepnutím na <strong>Denník ladenia</strong> ho povolíte. Po povolení možnosti <strong>Denník ladenia</strong> používajte túto aplikáciu ako zvyčajne a počkajte, kým sa chyba nezopakuje. Po opätovnom reprodukovaní chyby prejdite na stránku <strong>O aplikácii</strong> v <a href="#q173402b">nastaveniach aplikácie</a> a klepnutím na tlačidlo <strong>Nahlásiť chybu</strong> odošlite denník ladenia. Kedykoľvek môžete prejsť na stránku <strong>O aplikácii</strong> a vypnúť odosielanie denníka ladenia.
+	<p>&nbsp;</p>
+	
+	<a name="q173402b"></a><strong>Ako otvoriť nastavenia aplikácie?</strong><br>
+	Nastavenia aplikácie môžete otvoriť z <a href="#q171209a">bočného panela</a>.
+	<p>&nbsp;</p>
+	
+	<a name="q171209a"></a><strong>Čo je bočný panel?</strong><br>
+	Bočný panel je navigačná ponuka otvorená z ľavej alebo pravej strany obrazovky pre mobilné obrazovky.<br>
+	<p>Túto ponuku možno otvoriť dvoma spôsobmi:</p>
+	<ul>
+		<li>Kliknutím na tlačidlo ponuky (ikona troch riadkov) v záhlaví</li>
+		<li>Potiahnutím prstom doprava z ľavého okraja obrazovky; alebo potiahnutím prstom doľava z pravého okraja obrazovky, ak je povolené <strong>Ovládanie pravou rukou</strong></li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q170909a"></a><strong>Čo je to trojbodková ponuka?</strong><br>
+	Trojbodková ponuka je tlačidlo s tromi bodkami v systéme Android. Kliknutím na toto tlačidlo s tromi bodkami sa otvorí ponuka.
+	<p>&nbsp;</p>
+
+	<a name="q191025a"></a><strong>Prečo sa aplikácia neaktualizuje alebo prestane hrať, keď aplikácia prejde na pozadie alebo je zatvorená?</strong><br>
+Je to spôsobené najmä funkciami optimalizácie batérie zabudovanými v systéme Android. Prejdite do nastavení systému Android a vypnite 
+optimalizáciu batérie pre túto aplikáciu. Presné nastavenia sa môžu v jednotlivých zariadeniach líšiť. Zvyčajne môžete tieto nastavenia hľadať na nasledujúcich miestach: <ul>
+		<li><b>Nastavenia Androidu</b> &gt; <b>Aplikácie</b> &gt; <b>Podcast Republic</b> &gt; <b>Spotreba batérie</b> &gt; <b>Optimalizácia batérie</b>. Uistite sa, že táto možnosť je nastavená na <b>Neoptimalizované</b>.</li>
+		<li><b>Nastavenia Androidu</b> &gt; <b>Aplikácie</b> &gt; <b>Podcast Republic</b> &gt; <b>Spotreba batérie</b> &gt; <b>Obmedzenie využívania na pozadí</b>. Uistite sa, že táto možnosť je nastavená na <b>Aplikácia môže využívať batériu na pozadí</b>.</li>
+		<li><b>Nastavenia Androidu</b> &gt; <b>Aplikácie</b> &gt; <b>Podcast Republic</b> &gt; <b>Batéria</b> &gt; <b>Povoliť aktivitu na pozadí</b>. Uistite sa, že je táto možnosť začiarknutá.</li>
+		<li><b>Nastavenia Androidu</b> &gt; <b>Starostlivosť o zariadenie</b> &gt; <b>Batéria</b> &gt; <b>Spotreba aplikácií</b> &gt; <b>Uspať túto aplikáciu, keď sa nepoužíva</b>. Uistite sa, že je táto možnosť vypnutá.</li>
+	</ul>
+	Viac informácií nájdete na tejto webovej stránke <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a>.
+	<p>&nbsp;</p>
+	
+	<a name="q200909a"></a><strong>Môžem ovládať prehrávanie prostredníctvom aplikácií tretích strán, napríklad Tasker?</strong><br>
+	Áno, ovládanie prehrávania prostredníctvom aplikácií tretích strán, napríklad Tasker, je podporované.<br><br>
+
+   <b>Podporované akcie prehrávania</b>:
+   <ul>
+   	<li>podcastrepublic.playback.action.forward</li>
+   	<li>podcastrepublic.playback.action.rewind</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
+   	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.pause</li>
+   </ul>
+   <b>Package name</b>: com.itunestoppodcastplayer.app<br>
+   <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver
+	<p>&nbsp;</p>
+	
+	<script>
+		// When the user scrolls down 20px from the top of the document, show the button
+		window.onscroll = function() {scrollFunction()};
+		
+		function scrollFunction() {
+		    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		        document.getElementById("myBtn").style.display = "block";
+		    } else {
+		        document.getElementById("myBtn").style.display = "none";
+		    }
+		}
+		
+		// When the user clicks on the button, scroll to the top of the document
+		function topFunction() {
+		    document.body.scrollTop = 0;
+		    document.documentElement.scrollTop = 0;
+		}
+	</script>
+</body>
+</html>

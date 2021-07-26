@@ -1137,5 +1137,10 @@
     <string name="view_downloaded_episodes">View downloaded episodes</string>
     <string name="unreviewed">Unreviewed</string>
     <string name="posted">Posted</string>
+    <string name="id3_tag_album_cd_track">ID3 Tag (Album - CD track)</string>
+    <string name="cd_track">CD track</string>
+    <string name="bonus">Bonus</string>
+    <string name="trailer">Trailer</string>
+    <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Obsolete episodes will always be removed for YouTube podcast.</string>
 </resources>
 

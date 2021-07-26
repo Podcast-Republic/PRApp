@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    
+    <style>
+    	#myBtn {
+  			display: none;
+  			position: fixed;
+  			bottom: 20px;
+  			right: 30px;
+  			z-index: 99;
+  			border: none;
+  			outline: none;
+  			background-color: red;
+  			color: white;
+  			cursor: pointer;
+  			padding: 15px;
+  			border-radius: 10px;
+		}
+
+		#myBtn:hover {
+  			background-color: #555;
+		}
+	</style>
+</head>
+
+	<body class="home blog custom-background full-width custom-font-enabled single-author highlander-enabled highlander-light">
+
+	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+	
+		<h3>FAQs para Podcast Republic</h3>
+		<p>&nbsp;</p>
+		
+		<h4>Subscriptions</h4>
+		<ul>
+			<li><a href="#q161021a">¿Como encontrar Podcasts?</a></li>
+			<li><a href="#q161021b">¿Como suscribirse a un podcast?</a></li>
+			<li><a href="#q161021c">¿como desuscribirse de un podcast?</a></li>
+			<li><a href="#q328326c">¿Puedo reproducir mi musica/libros/videos usando esta app?</a></li>
+			<li><a href="#q329326c">¿Como agregar un podcast manualmente?</a></li>
+			<li><a href="#q160214b">¿Que significan los circulos de progreso azules y verdes?</a></li>
+			<li><a href="#q160712c">¿Que son los numeros azules y verdes que se ven en la pestaña de podcasts?</a></li>
+		</ul>
+		<h4>Episodios</h4>
+		<ul>
+			<li><a href="#q123456a">¿Como puedo hacer para que se verifique si hay episodios nuevos automaticamente?</a></li>
+			<li><a href="#q971945c">¿Por que mi podcast no se actualiza?</a></li>
+			<li><a href="#q935117a">¿Como configurar un podcast individualmente?</a></li>
+			<li><a href="#q010311d">¿Que es el criterio unico de un episodio?</a></li>
+			<li><a href="#q1605021">¿Que es lo que hace Resetear episodios?</a></li>
+			<li><a href="#q190325b">¿Que son los capitulos?</a></li>
+		</ul>
+		<h4>Descargas</h4>
+		<ul>
+			<li><a href="#q323226a">¿Como funciona la Autodescarga?</a></li>
+			<li><a href="#q323233a">¿Puedo habilitar/deshabilitar la autodescarga para un podcast?</a></li>
+			<li><a href="#q180517a">¿Que es la descarga inteligente?</a></li>
+			<li><a href="#q553233a">¿Que es descarga Keep?</a></li>
+			<li><a href="#q663233a">¿Como guardo las descargas en mi tarjeta SD?</a></li>
+			<li><a href="#q663777a">¿Por que la descarga esta pausada para el Wi-Fi?</a></li>
+			<li><a href="#q190325c">¿Por que la descarga esta pausada por bateria baja cuando el dispositivo esta cargando?</a></li>
+			<li><a href="#q863777a">¿Puedo descargar con una conexion de datos 3G/4G?</a></li>
+			<li><a href="#q160802b">¿Que significa el mensaje de descarga fallida?</a></li>
+			<li><a href="#q993777a">¿Como puedo resumir una descarga fallida?</a></li>
+			<li><a href="#q910777a">¿Como puedo remover la descarga automaticamente luego de ser reproducida?</a></li>
+			<li><a href="#q1605022">¿Como puedo guardar un podcast de forma permanente?</a></li>
+			<li><a href="#q910117a">¿Por que tengo descargas duplicadas?</a></li>
+			<li><a href="#q931117a">¿Hay alguna forma de saber si un episodio fue descargado?</a></li>
+			<li><a href="#q181016a">¿Como mover la carpeta de descargas a una nueva ubicacion?</a></li>
+		</ul>
+		<h4>Reproductor</h4>
+		<ul>
+			<li><a href="#q927326c">¿Por que mi podcast de audios se reproduce como video?</a></li>
+			<li><a href="#q347326c">¿Puedo reproducir un podcast de video como solo audio?</a></li>
+			<li><a href="#q1605023">¿Por que la reproducción se detiene luego de (x) minutos en segundo plano?</a></li>
+			<li><a href="#q181022a">El volumen del podcast es muy bajo, ¿lo puedo aumentar?</a></li>
+			<li><a href="#q181023a">¿La aplicación tiene un temporizador para dejar de reproducir despues de X tiempo?</a></li>
+			<li><a href="#q181024a">¿Puedo programar una hora para que comience a reproducir un podcast?</a></li>
+			<li><a href="#q161022a">¿Como usar con Chromecast?</a></li>
+			<li><a href="#q190325a">¿Que es el rebobinado inteligente?</a></li>
+		</ul>
+		<h4>Playlists</h4>
+		<ul>
+			<li><a href="#q1605024">¿Cuales son los modos de reproducción?</a></li>
+			<li><a href="#q161021d">¿Por que empieza a reproducir el siguiente episodio automaticamente?</a></li>
+			<li><a href="#q935445c">¿Por que no empieza a reproducir el siguiente episodio automaticamente?</a></li>
+			<li><a href="#q9665d5d">¿Como reproducir todos los episodios de un podcast desde el mas antiguo al mas nuevo?</a></li>
+			<li><a href="#q965645c">¿Como crear una playlist?</a></li>
+			<li><a href="#q977645c">¿Como puedo configurar los episodios de un podcast para que se agreguen a mi playlist?</a></li>
+			<li><a href="#q147642e">¿Como funciona la lista Up Next?</a></li>
+			<li><a href="#q177642e">¿Como funcionan las playlist?</a></li>
+		</ul>
+		<h4>Sincronización, Backup &amp; Restaurar</h4>
+		<ul>
+			<li><a href="#q920945c">¿Como sincronizar datos entre dispositivos?</a></li>
+			<li><a href="#q170430a">¿Que datos se sincronizan entre dispositivos?</a></li>
+			<li><a href="#q920921c">¿Como transferir datos a otros dispositivos?</a></li>
+			<li><a href="#q922921c">¿Como transferir podcasts descargados a otro dispositivo y que sean reconocidos por esta app?</a></li>
+			<li><a href="#q160903d">¿Como restaurar datos desde el Backup?</a></li>
+			<li><a href="#q181015a">¿Como puedo hacer un backup del archivo de un podcast descargado?</a></li>
+		</ul>
+		<h4>Miscelaneo</h4>
+		<ul>
+			<li><a href="#q922331c">¿Por que no se pueden descargar los videos de Youtube?</a></li>
+			<li><a href="#q943331c">¿Por que los Artworks no se muestran para algunos podcasts?</a></li>
+			<li><a href="#q160909d">¿Como habilitar el log de Debug?</a></li>
+			<li><a href="#q173402b">¿Como abrir la configuración de la app?</a></li>
+			<li><a href="#q171209a">¿Que es el menu de navegación lateral?</a></li>
+			<li><a href="#q170909a">¿Que es el menu Overflow?</a></li>
+			<li><a href="#q191025a">¿Por que la app no se actualiza o deja de reproducir al estar en segundo plano o cerrada?</a></li>
+			<li><a href="#q200909a">¿Puedo controlar la reproducción con otra app como Tasker?</a></li>
+		</ul>
+		<HR>
+			<a name="q161021a"></a><strong>Como encontrar podcasts?</strong><br />
+			Hay dos maneras de encontrar nuevos podcasts:<br />
+			<ul>
+				<li>Navegando entre los podcasts mas escuchados en la pestaña de Tops</li>
+			</ul>
+			<ul>
+				<li>Buscando podcasts por nombre en la pestaña de busqueda</li>
+			</ul>
+			<p>&nbsp;</p>
+			
+			<a name="q161021b"></a><strong>¿Como suscribirse a un podcast?</strong><br />
+			Una vez que hayas encontrado un podcast que te guste en el Top o entre la lista de resultados de busqueda, puedes despizar el podcast en cuestion hacia la izquierda para abrir el menu de suscripción.<br />
+			O puedes tocar el nombre del podcast para abrirlo y entonces tocar el botón de "Suscribirse".
+			<p>&nbsp;</p>
+			
+			<a name="q161021c"></a><strong>¿Como desuscribirse de un podcast?</strong><br />
+			Para remover un podcast de tus suscripciones, ve a la pestaña de podcasts para encontrar el podcast del que te deseas desuscribir y luego deslizalo hacia la izquierda para abrir la opción de eliminar.<br />
+			O puedes tocar el nombre del podcast para abrirlo y luego tocar <strong>Configuración</strong> para abrir la <a href="#q935117a">configuración individual del podcast</a>. Entonces tocá "Desuscribirse".</li>
+		<p>&nbsp;</p>
+		
+		<a name="q328326c"></a><strong>¿Puedo reproducir mis propios archivos con esta app?</strong><br />
+		Si, podes reproducir tu musica/descargas/audiolibros usando esta app. Para hacer eso necesitas configurar un podcast &#8220;virtual&#8221;. que usará un directorio local como un  &#8220;virtual&#8221; podcast repository. All media files in the directory will be imported into the database and treated as episodes of this &#8220;virtual&#8221; podcast.
+		<p>&nbsp;</p>
+		
+		<a name="q329326c"></a><strong>Como añadir un podcast manualmente?</strong><br />
+		Si no encuentras tu podcast con la funcion de busqueda, lo puedes agregar de forma manual. Solo vé a la pestaña de Podcasts y presiona el boton "Añadir" en la barra de titulo. Entonces selecciona <strong>Añadir podcast con URL</strong> desde el menu. Ingresa tu Podcast y presiona "Encontrar podcast", si se encuentra, se añadirá a la app.
+		<p>&nbsp;</p>
+		
+		<a name="q160214b"></a><strong>Que significan los circulos de progreso azules y verdes?</strong>
+		<ul>
+			<li>El azul es el indicador de reproducción.</li>
+			<li>El verde es el indicador de la descarga.</li>
+		</ul>
+		<p>&nbsp;</p>
+		
+		<a name="q160712c"></a><strong>Que son los numeros azules y verdes que se muestran en la pestaña de Podcasts?</strong>
+		<ul>
+			<li>El numero azul es el total de episodios sin reproducir.</li>
+			<li>El numero verde es el numero de episodios nuevos desde la ultima vez que abriste el podcast.<br />
+				Este numero será Cero una vez que abras el podcast en cuestion.</li>
+		</ul>
+		<p>&nbsp;</p>
+		
+		<a name="q123456a"></a><strong>Como hacer para chequear si hay nuevos episodios automaticamente?</strong><br />
+		La app por default verá si hay nuevos episodios cada tres horas. Si quieres un intervalo diferente o desactivarlo totalmente, puedes hacerlo a través de <a href="#q173402b">La configuración de la aplicación</a>.</p>
+	<ol>
+		<li>Desliza hacia la derecha desde la izquierda de la pantalla apra abrir <a href="#q171209a">El menu de navegación lateral</a></li>
+		<li>Click en <strong>Configuración</strong> para abrir la pantalla de configuración</li>
+		<li>ve a configuración de <strong>Podcasts</strong></li>
+		<li>Click configuración de <strong>Actualizacion de podcasts</strong> y selecciona una opción del menú</li>
+	</ol>
+	<p>&nbsp;</p>
+	
+	<a name="q971945c"></a><strong>Por que mi podcast no se actualiza?</strong><br />
+	Si sabes que hay nuevos episodios siendo publicados pero esta app no los muestra entonces 
+	es muy posible que haya un error en la fecha de publicación del podcast en el 
+	feed RSS. Esta aplicación usa la fecha de publicación de cada episodio como el indicador
+	de si es un nuevo episodio para publicar o uno antiguo para ser descargado. De vez en cuando,
+	la fecha de publicación de algun episodio puede estar mal por un error o cualquier tipo de
+	otra razón. Si la fecha de publicación erronea es meses despues de la fecha actual, eso podria
+	prevenir la app de actualizar el podcast, ya que todos los episodios antes de ese con la fecha erronea
+	se descartarian como falsos &#8220;viejos&#8221; episodios. En este caso, la forma mas rapida de corregir esto
+	es <a href="#q1605021">reinciar la informacion del episodio</a>
+	<p>&nbsp;</p>
+	
+	<a name="q190325b"></a><strong>Que son los capitulos?</strong><br />
+	<strong>Capitulos</strong> o notas como los llaman otras apps son notas en un punto especifico del audio/video. Son especialmente utiles para un episodio largo. Puedes hacer click en ese capitulo para comenzar la reproducción desde ese punto.
+	<p>Algunos podcasts tambien pueden añadir info en los capitulos. En ese caso, esta app los extraera y te los mostrara. Esta app tambien te puede mostrar los capitulos si son detectados en las notas del episodio. Tambien los puedes añadir manualmente</p>
+	<p>&nbsp;</p>
+	
+	<a name="q935117a"></a><strong>Como acceder a la configuración de un podcast individual?</strong>
+	<ul>
+		<li>Ve a la pestaña de podcast</li>
+		<li>Tap en el nombre del podcast para abrirlo</li>
+		<li>Presiona el boton de configuración en la pantalla apra abrir la configuración individual del podcast</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q010311d"></a><strong>Que es el criterio unico de un episodio?</strong><br />
+	El criterio unico de un episodio es el criterio usado para identificar a un episodio de forma unica. Se usa para prevenir episodios duplicados. Muchos podcasts asignan una ID unica global (GUID) a un episodio para identificarlo de forma unica. De todas formas, eso no es requerido por el standard de RSS Algunos publicadores de podcast no usan el GUID en lo absoluto. En cambio usan la fecha, la url o el titulo para identificarlos.
+	<p>de forma default, la app va a intentar detectar el criterio unico y remover los episodios duplicados del podcast feed. Deberia funcionar bien la mayor parte del tiempo, en caso de que no funcione y encuentres episodios duplicados, puedes ir a <a href="#q935117a">Configuración individual del podcast</a> para configurar este criterio manualmente.</p>
+	<p>&nbsp;</p>
+	
+	<a name="q1605021"></a><strong>Que es lo que hace Reiniciar episodios?</strong><br />
+	La información del episodio va a estar en el caché local de esta app cuando la recoja del servidor del podcast. Reinciiar episodios descartará el caché en la base de datos y lo reconstruira del server del podcast de nuevo. Esto es util en caso del que la infiormacion del episodio este corrupta debido a<br />
+	varias razones o errores en la información del episodio.
+	<p>&nbsp;</p>
+	
+	<a name="q323226a"></a><strong>Como funciona la Descarga automatica?</strong><br />
+	La opcion de Descarga automatica se puede activar desde la pagina de <a href="#q173402b">Configuración de la aplicación</a> o activarla manualmente en <a href="#q935117a">Configuración individual del podcast</a>. Una vez activada, el servicio de descarga automatica va a estar activo en segundo plano y automaticamente descargara <b>los mas recientes</b> <b>episodios</b> que encuentra para ti periodicamente.
+	<p>Los <b>episodes</b> mas recientes son los nuevos episodios desde que el podcast fue visto por ultima vez.</p>
+	<ul>
+		<li>Aviso: Si tu dispositivo es reinciado, tendrás que iniciar esta app para que el servicio de descarga automatica vuelva a funcionar.</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q323233a"></a><strong>Puedo activar/desactivar la descarga automatica para ciertos podcasts?</strong><br />
+	Si, la Descarga automatica puede ser configurada para cada podcast en particular a través de la <a href="#q935117a">Configuración individual del podcast</a>. La <a href="#q935117a">Configuración individual del podcast</a> reemplazará cualquier configuración del sistema.</li>
+<p>&nbsp;</p>
+
+	<a name="q180517a"></a><strong>Que es la Descarga inteligente?</strong><br />
+	Con la <strong>Descarga inteligente</strong> activada, esta aplicación descargara de forma automatica hasta x cantidad de episodios nuevos o sin reproducir del podcast actual una vez que empieces a reproducir un episodio. Esta caracteristica es muy util si tienes muchos episodios o quieres
+	reproducir los episodios en orden cronologico. Cuando empiezas a reproducir un episodio desde una fecha X, la app va a comenzar a descargar los episodios siguientes (X+1, X+2...) en segundo plano asi puedes reproducirlos de forma offline una vez que el episodio X termine!
+<p>&nbsp;</p>
+
+<a name="q553233a"></a><strong>Que es Mantener descargado?</strong><br />
+En la <a href="#q935117a">configuración individual del podcast</a>, este es el numero maximo de descargas que se mantendran por podcast. Si un nuevo episodio es añadido a la lista de descargas y excede esta capacidad, el archivo mas antiguo se borrará automaticamente.
+<p>&nbsp;</p>
+
+<a name="q663233a"></a><strong>Como guardar las descargas en la tarjeta SD?</strong><br />
+Vé a la <a href="#q173402b">Configuración de la aplicación</a> y configura el lugar de guardado dentro de la configuración de las <strong>Descargas</strong>.
+<p>&nbsp;</p>
+
+<a name="q663777a"></a><strong>Por que la descarga esta pausada por Wi-Fi?</strong><br />
+De forma default, esta app solo descargará si hay una conexion Wi-Fi activa, Si no hay Wi-Fi, la descarga se pausara y reanudara cuando vuelva a haber una conexión.
+<p>&nbsp;</p>
+
+<a name="q190325c"></a><strong>Por que la descarga esta en pausa por baja bateria cuando el dispositivo esta cargando?</strong><br />
+Android te advierte de bateria <strong>BAJA</strong> si el nivel es menor a 15%. Sin embargo, Android no enviará un estado de <strong>OK</strong> hasta que el nievl sea al menos 20%. 
+Como resultado, si la descarga fue detenida por bateria baja, no se resumira incluso si tienes el dispositivo conectado hasta que el nivel llegue al estado de <strong>OK</strong>.
+<p>&nbsp;</p>
+
+<a name="q863777a"></a><strong>Puedo descargar con una conexion 3G o 4G?</strong><br />
+Si, desactiva "Descargar solo con WiFi" en la <a href="#q173402b">Configuración de la app</a>.
+<p>&nbsp;</p>
+
+<a name="q160802b"></a><strong>Que significa el mensaje de descarga fallida?</strong><br />
+<ul>
+	<li>No se pudo encontrar la URL: <em>El podcast no se encontro en el servidor. Lo mas probable es que haya sido removido por el publicador o no sea accesible por tu conexion a internet.</em></li>
+	<li>Espacio insuficiente: <em>No tienes suficiente espacio de almacenamiento.</em></li>
+	<li>Fallo: <em>Un error desconocido ocurrió durante la descarga.</em></li>
+</ul>
+<p>&nbsp;</p>
+
+<a name="q993777a"></a><strong>Puedo resumir una descarga fallida?</strong><br />
+Si, manten presionada la descarga fallida en la pantalla de descargas y desplegará un menú, selecciona Redescargar del menú y la descarga comenzará nuevamente.</li>
+<p>&nbsp;</p>
+
+<a name="q910777a"></a><strong>Como remover la descarga automaticamente luego de haberse reproducido?</strong><br />
+<ol>
+	<li>Abre <a href="#q173402b">Configuración de la aplicación</a></li>
+	<li>Ve a Configuración de <strong>Episodios</strong> </li>
+	<li>Activa <strong>Eliminar la descarga</strong> cuando el episodio se haya reproducido al 100%</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q1605022"></a><strong>Puedo guardar un podcast de forma permanente?</strong><br />
+Si quieres guardar una copia de un podcast permanentemente, descarga el podcast primero y luego exportalo a una carpeta en tu dispositivo. El nombre del archivo del podcast exportado su titulo. La caracteristica de exportar el podcasts puede accederse desde varios lugares. Manten presionado los items en la pestaña de <strong>Descargas</strong> o <a href="#q170909a">overflow menu</a> en la pantalla de <strong>reproducción</strong> .
+<p>&nbsp;</p>
+
+<a name="q910117a"></a><strong>Por que tengo descargas duplicadas?</strong><br />
+Esta app una un algoritmo complicado para detectar el criterio unico del episodio usado en el podcast para remover episodios duplicados. Sin embargo, esta detección automatica puede fallar de vez en cuando, lo que resulta en episodios duplicados siendo descargados. En caso de que la detección del criterio unico falle, es recomendable configurarla manualmente en <a href="#q935117a">configuración individual del podcast</a>.
+<p>Lee mas en <a href="#q010311d">Que es el criterio de episodio unico?</a></p>
+<p>&nbsp;</p>
+
+<a name="q931117a"></a><strong>Hay alguna forma de saber si un episodio fue descargado?</strong><br />
+Una vez que la descarga este completa el botón de descarga cambiará a un tilde. 
+<p>&nbsp;</p>
+
+<a name="q181016a"></a><strong>Como mover el directorio de descarga a un nuevo lugar?</strong><br />
+Abre la<a href="#q173402b">Configuración de la aplicación</a> y ve a "Configuración de descargas". Presiona en <strong>Lugar de descarga</strong> y selecciona un nuevo directorio. La aplicación moverá todas las descargas existentes del directorio actual al nuevo automaticamente si necesidad de hacerlo manualmente. Ten en cuenta el tener el suficiente espacio para que entren todos los archivos existentes en el nuevo lugar.
+<p>&nbsp;</p>
+
+<a name="q927326c"></a><strong>Por que mi podcast en audio se reproduce como video?</strong><br />
+En algunos dispositivos el formato del podcast puede ser detectado de forma incorrecta, en ese caso ve a la <a href="#q935117a">configuración individual del podcast</a> y selecciona el tipo manualmente.
+<p>&nbsp;</p>
+
+<a name="q347326c"></a><strong>Puedo reproducir un podcast de video como solo audio?</strong><br />
+Vé a la <a href="#q935117a">Configuración individual del podcast</a> y selecciona el tipo de media como Audio, esto forzará a la aplicación a reproducir el podcast de video como solo audio.
+<p>&nbsp;</p>
+
+<a name="q1605023"></a><strong>Porque la reproducción se detiene luego de cierta cantidad (x) de minutos en segundo plano?</strong><br />
+Esto usualmente sucede si tienes alguna configuración de optimización de bateria o similar en tu Android Intenta deshabilitar esta configuración o excluir esta aplicación en particular de la optimización en tu configuración de android. También hay algunas aplicaciones independientes de manejo de memoria o antivirus que pueden desactivar aplicaciones en segundo plano; si tienes alguna de estas instaladas, intenta añadir esta aplicación dentro de las permitidas.
+<p>&nbsp;</p>
+
+<a name="q181022a"></a><strong>El volumen del podcast es muy bajo, puedo aumentarlo?</strong><br />
+Si, el amplificador de audio es una caracteristica que puede aumentar el volumen. Arrastra el mini reproductor hacia la esquina de la pantalla para convertirlo a pantalla completa y entonces presiona el botón de "Mas" (El icono de tres puntos) para abrir el menu de reproducción y seleccionar la opción "Efectos de audio y ecualizador" 
+del menu. Puedes activar el amplificador para un podcast o para todos.
+<p>&nbsp;</p>
+
+<a name="q181023a"></a><strong>La aplicación tiene un temporizador para dejar de reproducir luego de X cantidad de tiempo?</strong><br />
+Si, el Temporizador nocturno es una caracteristica de la app. Arrastra el mini reproductor hacia la esquina de la pantalla para convertirlo a pantalla completa. El temporizador nocturno esta localizado en la fila de controles de reproducción.
+<p>&nbsp;</p>
+	
+<a name="q181024a"></a><strong>Puedo configurar una hora para empezar a reproducir un Podcast?</strong><br />
+Si, puedes usar la caracteristica de alarma en la app para configurar un horario donde se reproduzca un podcast, estacion de radio o playlist automaticamente
+<p>&nbsp;</p>	
+
+<a name="q161022a"></a><strong>Como usar con Chromecast?</strong><br />
+El icono de Chromecast aparecerá en la esquina derecha de la pantalla del <strong>Reproductor</strong> cuando se detecte cualquier dispositivo Chromecase.
+<p>&nbsp;</p>
+
+<a name="q190325a"></a><strong>¿Que es el rebobinado inteligente?</strong><br />
+El rebobinado inteligente es una caracteristica que rebobinara entre 5 y 60 segundos dependiendo cuanto tiempo la reproducción haya estado detenida. Mientras mas tiempo haya estado pausado o detenido, mas tiempo se rebobinará.
+<p>&nbsp;</p>
+
+<a name="q1605024"></a><strong>¿Que son los modos de reproducción?</strong><br />
+Actualmente hay seis modos de reproducción en la app:
+<ul>
+	<li>Playlist: reproduce consecutivamente todos los episodios de la playlist o lista de episodios en orden</li>
+	<li>Shuffle: Reproduce todos los episodios de la playlist o lista de episodios pero en un orden aleatorio</li>
+	<li>Reproducción unica: reproduce un solo episodio y se detiene</li>
+	<li>Repetir episodio: Repite el mismo episodio hasta que el usuario lo detenga</li>
+	<li>Repetir playlist: Repite todos los episodios de una playlist o lista de episodios hasta que es detenido</li>
+	<li>Modo de prioridad: Termina el episodio actual y luego cambia al siguiente episodio que le sigue en prioridad en la playlist</li>
+</ul>
+<p>El modo de reproducción esta dispoinible en la configuración del <strong>reproductor</strong>. el modo de reproducción actual se mostrara encima de <strong>Siguiente</strong> en la pantalla de <strong>Reproducción</strong>.</p>
+<p>&nbsp;</p>
+
+<a name="q161021d"></a><strong>Por que comienza a reproducir el siguiente episodio automaticamente?</strong><br />
+<p>Esta app utiliza el modo de reproduccion "Playlist" por default. Lo que significa que continua con el episodio siguiente una vez que el actual termine. Si deseas cambiar esto a que reproduzca un solo episodio, puedes usar el modo <strong>Reproducción unica</strong> .</p>
+<p>Leer mas en <a href="#q1605024">¿Que son los modos de reproducción?</a></p>
+<p>&nbsp;</p>
+
+<a name="q935445c"></a><strong>¿Por que no comienza a reproducir el siguiente episodio automaticamente?</strong><br />
+<p>Por favor asegurate que el modo de reproduccion sea <strong>"Playlist"</strong>.</p>
+<p>Leer mas en <a href="#q1605024">¿Que son los modos de reproducción?</a></p>
+<p>&nbsp;</p>
+
+<a name="q9665d5d"></a><strong>Como reproducir todos los episodios del mas viejo al mas nuevo?</strong><br />
+Solo abre el podcast desde la pagina de <strong>Suscripciones</strong>. Toca en cualquier episodio para comenzar a reproducir y la app automaticamente añadira el resto a la lista.
+<p>&nbsp;</p>
+
+<a name="q965645c"></a><strong>¿Como crear una playlist personalizada?</strong><br />
+Esta app soporta multiples tipos de listas, incluidas las creadas por el usuario.<br />
+Los pasos para crear una playlist personalizada:</p>
+<ol>
+	<li>Ve a la pestaña <strong>Playlists</strong></li>
+	<li>Abre el <a href="#q170909a">overflow menu</a></li>
+	<li>Selecciona <strong>manejar playlists</strong> del menu</li>
+	<li>Ingresar el nombre de la playlist</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q977645c"></a><strong>Como hago para que episodios de podcasts vayan a mi playlist?</strong>
+<ol>
+	<li>Abre el podcast de la pestaña <strong>Podcasts</strong></li>
+	<li>Abre la <a href="#q935117a">configuración individual de podcast</a></li>
+	<li>Click en <strong>Configuración de playlists</strong> y selecciona una o multiple playlists</li>
+</ol>
+<p>Ahora todas las descargas automaticas iran a la playlist seleccionada.</p>
+<p>&nbsp;</p>
+
+<a name="q147642e"></a><strong>¿Como funciona la lista "Siguiente"??</strong><br />
+La lista <strong>Siguiente</strong> sirve como la cola de reproduccion en la app. Esta es una cola dinamina que se actualiza a si misma automaticamente al cambiar a una nueva playlist o cuando nuevos episodios son añadidos o el orden ha sido cambiado. Por ejemplo si vas a la pestaña de <strong>Playlists</strong> y presionas un episodio en la &#8220;playlist A&#8221; para empezar a reproudicr, la lista <strong>Siguiente</strong> va a estar con llena de episodios de la &#8220;playlist A&#8221;.
+<p>Luego, si vas a la pestaña <strong>Descargas</strong> y tocas en un episodio de la lista <strong>Descargas</strong> para comenzar a reproducirlo la lista <strong>Siguiente</strong> va a estar con episodios de la lista de <strong>Descargas</strong>. También cuando el orden de los episodios haya sido cambiado en la playlist, ese cambio se reflejara en la lista <strong>Siguiente</strong> de forma automatica. No necesitas hacer nada de forma manual para actualizar la cola.</p>
+<p>&nbsp;</p>
+
+<a name="q177642e"></a><strong>¿Como funcionan las playlist?</strong><br />
+En esta app cualquier lista de episodios puede ser reproducida como una playlist. Puedes hacer click en el episodio en la lista de episodios para comenzar a reproducir y los episodios siguientes se veran reflejados en la lista <strong>Siguiente</strong>.
+<p>Hay dos tipos de playlist actualmente:</p>
+<ul>
+	<li>Playlists con caracteristicas completas: las playlist creadas en la pestaña <strong>Playlists</strong></li>
+	<li>Simple playlist: Todas las demas listas de episodios en la app</li>
+</ul>
+Un valor de <strong>prioridad</strong> puede ser asignado a una playlist. Cuando se reproduce con el modo <strong>Prioridad</strong>, Luego de que el episodio actual termine el reproductor automaticamente reproducira la Playlist (No vacia) que le sigue en prioridad. 
+<p>&nbsp;</p>
+
+<a name="q920945c"></a><strong>¿Como sincronizar informacion entre dispositivos?</strong><br />
+Puedes crearte una cuenta o usar tu cuenta de Google para logearte y sincronizar entre dispositivos. Una vez que hayas entrado con tu cuenta, tus suscripciones (Podcasts, radios), estado de reproducción y favoritos serán sincronizados automaticamente. Se usará cualquier tipo de conexion (Movil o Wifi) para hacer la sincronización en tiempo real. Por favor ve a <a href="#q173402b">Configuración de la app</a> y entra con tu cuenta en la configuración <strong>Sincronizar entre dispositivos</strong>.
+<p>&nbsp;</p>
+
+<a name="q170430a"></a><strong>¿Que datos se sincronizan entre dispositivos?</strong><br />
+Actualmente los datos sincronizados son: tus suscripciones (podcasts y estaciones de radio), estado de reproducción y marcas en la reproduccion.
+<p>&nbsp;</p>
+
+<a name="q920921c"></a><strong>Como transferir los datos a otro dispositivo?</strong><br />
+Si quieres usar el progreso de la reproduccion en otro dispositivo, la forma mas facil es sincronizar ambos dispositivos, vé a <a href="#q920945c">Como sincronizar informacion entre dispositivos</a> para mas detalles.
+<p>Si quieres transferir tu información a otro dispositivo, la manera mas facil es usa la caracteristica Backup &amp; Restaurar .</p>
+<p>Quieres conservar la sincronización? Puedes transferir la información de la app a otro dispositivo. Solo crea un Backup de la información de la app y copia el archivo en otro dispositivo, luego restaura desde el backup. Los archivos descargados no estan incluidos en el backup.</p>
+<p>&nbsp;</p>
+
+<a name="q922921c"></a><strong>¿Como transferir archivos de podcast descargados a otro dispositivo y que esta app los reconozca?</strong><br />
+Suponiendo que quieres transferir tus podcasts descargados del dispositivo A al dispositivo B, por favor, sigue los pasos debajo para que los archivos sean reconocidos en el dispositivo B:
+<ol>
+	<li>Abre la app en el dispositivo A</li>
+	<li>Ve a <a href="#q173402b">Configuración de la aplicacion</a> > <strong>Backup & Restaurar</strong> > <strong>Backup</strong> Para crear un backup en el dispositivo A</li>
+	<li>Copia el archivo backup al dispositivo B</li>
+	<li>Crea un nuevo directorio en el dispositivo B</li>
+	<li>Copia los archivos de podcast descargados desde el dispositivo A a este nuevo directorio en el dispositivo B</li>
+	<li>Abre la app en el dispositivo B</li>
+	<li>Sigue las instrucciones para <a href="#q160903d">Restaurar información de la app</a> para restaurar desde el backup backup anterior en el dispositivo B</li>
+	<li>Vé a <a href="#q173402b">Configuración de la aplicacion</a> > <strong>Descargas</strong> para configurar en directorio de descarga en el dispositivo B</li>
+	<li>Ve a la pestaña de Descargas y abre el <a href="#q170909a">overflow menu</a></li>
+	<li>Selecciona <strong>Importar descargas</strong></li>
+	<li>Selecciona el directorio donde tienes los archivos copiados desde el dispositivo A.</li>
+</ol>
+<p>Espera que la importación finalice. Puedes eliminar los archivos una vez que se sincronicen las descargas.</p>
+<p>&nbsp;</p>
+
+<a name="q160903d"></a><strong>Como restaurar la informacion de la app desde backups?</strong><br>
+	    <ol>
+			<li>Con tu dispositivo Android encendido, conectalo al puerto USB de una computadora</li>
+			<li>en Windows Explorer (o el equivalente en MAC) selecciona el dispositivo Android y su almacenamiento interno.</li>
+			<li>Abre el directorio del backup. Lo podes encontrar dentro de la configuración´ <strong>Backup & Restauracion</strong>. Copia esos archivos en tu pc como un Backup.</li>
+			<li>Localiza el directorio de descarga y copia todos los archivos a tu pc como un Backup de precaucion.</li>
+			<li>Abre Podcast Republic, ve a <a href="#q173402b">Configuración de la aplicacion</a> > <strong>Descargas</strong> apra configurar el lugar de descargas.</li>
+			<li>Ve al directorio de descargas en tu dispositivo. Si se encuentra vacio, conecta tu dispositivo a tu PC de nuevo y copia los archivos desde tu pc al directorio de descarga en tu dispositivo.</li>
+			<li>Abre Podcast Republic, ve a <a href="#q173402b">Configuración de la aplicacion</a> > <strong>Backup & Restauracion</strong> > <strong>Restaurar</strong>.</li>
+			<li>Encuentra el directorio del backup.</li>
+			<li>Abre el directorio y localiza el archivo de Backup mas recientes. Estan nombrados "backup_YYYYMMDDHHMM.zip" basandose en la fecha y la hora en la que fueron creados.</li>
+			<li>Manten presionado el archivo de backup mas reciente y entonces presiona el boton <strong>Seleccionar</strong> .Esto recuperara todas tus suscripciones, favorito, y demas.</li>
+			<li>Dependiendo de cuando el backup haya sido hecho, quizas haya alguna actividad sin registrar. Tendrás que añadir manualmente cualquier suscripción nueva luego de que el backup haya sido hecho.</li>
+			<li>Por cualquier episodio que haya sido reproducido desde el ultimo backup, tendras que encontrar el episodio, hacer click en "..." a su lado y seleccionar "Marcar como reproducido" para marcarlo como ya reproducido.</li>
+			<li>Si marcaste algun episodio como favorito (Usando la estrella) luego de que el backup mas reciente haya sido creado, tendrás que hacerlo manualmente de nuevo.</li>
+		</ol>
+<p>&nbsp;</p>
+
+<a name="q181015a"></a><strong>¿Como puedo hacer un backup de un podcast?</strong><br />
+Si te gustaría tener una copia de un podcast que descargaste, puedes usar la funcion <strong>Exportar episodio</strong> an la app. La funcion exportará la descarga al destino que elijas y usara el nombre del episodio como nombre de archivo.
+La funcion <strong>Exportar episodio</strong> se puede acceder desde distintos lugares. La forma mas facil es ir hacia la pestaña <strong>Descargas</strong> y mantener presionado un archivo, luego seleccionar la opcion <strong>Exportar episodio</strong> del menu.
+<p>&nbsp;</p>
+
+<a name="q922331c"></a><strong>¿Por que los podcast de Youtube Video no son descargables?</strong><br />
+Es politica de google que los videos no sean descargados.</li>
+<p>&nbsp;</p>
+
+<a name="q943331c"></a><strong>Porque hay artworks que no se muestran para algunos podcast?</strong><br />
+El artwork se mostrará para el Podcast si este tiene uno. Los artworks se guardan en el cache local pero si el cache por alguna razon es eliminado el artwork no se mostrará. Intenta actualizar el podcast y la app intentará conseguir el artwork de nuevo.
+<p>&nbsp;</p>
+
+<a name="q160909d"></a><strong>Como activar el Debug log?</strong><br />
+Si encontras algun bug en la app, puedes activar el <strong>Debug log</strong> y enviar el log al desarollador. Para activar el <strong>Debug log</strong>, abre la <a href="#q173402b">configuración de la aplicacion</a> y ve a la sección <strong>Acerca de</strong>. Click en <strong>Debug log</strong> para activarlo. Luego de que hayas activado la opcion <strong>Debug log</strong>, y usa la app como de costumbre hasta que el bug se reproduzca nuevamente. Una vez que el bug ocurrio nuevamente, ve a la pagina <strong>Acerca de</strong> en la <a href="#q173402b">configuración de la aplicacion</a> de nuevo y toca <strong>Reportar bug</strong> para enviar el debug log. En cualquier momento puedes ir a la pagina <strong>Acerca de</strong> para desactivar el debug log.
+	<p>&nbsp;</p>
+	
+	<a name="q173402b"></a><strong>Como abrir la configuración de la aplicacion?</strong><br />
+	La configuración de la aplicacion puede ser abierta desde el <a href="#q171209a">menu de navegación lateral</a>.
+	<p>&nbsp;</p>
+	
+	<a name="q171209a"></a><strong>Que es el menu de navegación lateral?</strong><br />
+	El menu lateral es un menu que puede ser abierto en dispositivos desde la izquierda o derecha de la pantalla.<br />
+	<p>Hay dos formas de abrirlo:</p>
+	<ul>
+		<li>Toca el botón de Menú (Icono con tres lineas) en la barra de titulo</li>
+		<li>Desliza hacia la derecha desde la izquierda de la pantalla; o viceversa si <strong>Operar con la mano derecha</strong> esta activado</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q170909a"></a><strong>¿Que es el overflow menu?</strong><br />
+	El overflow menu son los tres puntos en la plataforma Android. Toca en estos tres puntos y un menú aparecerá
+	<p>&nbsp;</p>
+
+	<a name="q191025a"></a><strong>¿Por que las app no se actualiza o deja de reproducir cuando va a segundo plano o es cerrada?</strong><br />
+	Esto es mas que nada por las caracteristicas de optimización de bateria de Android. Ve a la configuración de tu dispositivo para desactivar la optimización para esta app.
+	La configuración exacta varia entre dispositi y dispositivo pero podes encontrarlo por lo general en los siguientes lugares:
+	<ul>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Uso de bateria</b> > <b>Optimización de bateria</b>. Por favor asegurate que este como <b>No optimizada</b>.</li>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Uso de bateria</b> > <b>Restricciones de segundo plano</b>. Asegurate que este como <b>La aplicacion puede usar bateria en segundo plano</b>.</li>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Bateria</b> > <b>Permitir uso en segundo plano</b>. Asegurate de marcar esta opcion.</li>
+		<li><b>Android Settings</b> > <b>Cuidado del dispositivo</b> > <b>bateria</b> > <b>Uso de la app</b> > <b>Desactiva esta app cuando no se este usando</b>. Asegurate que esta opcion esta desactivada.</li>
+	</ul>
+	Visita nuestra web <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a> Para mas informacion.
+	<p>&nbsp;</p>
+	
+	<a name="q200909a"></a><strong>Puedo controlar la reproducción con otras apps como Tasker?</strong><br />
+	Si, controlar la reproduccion con otras apps independientes como Tasker es posible.<br><br>
+
+   <b>Posibles acciones de reproduccion:</b>:
+   <ul>
+   	<li>podcastrepublic.playback.action.forward</li>
+   	<li>podcastrepublic.playback.action.rewind</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
+   	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.pause</li>
+   </ul>
+   <b>Package name</b>: com.itunestoppodcastplayer.app<br>
+   <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver
+	<p>&nbsp;</p>
+	
+	<script>
+		// When the user scrolls down 20px from the top of the document, show the button
+		window.onscroll = function() {scrollFunction()};
+		
+		function scrollFunction() {
+		    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		        document.getElementById("myBtn").style.display = "block";
+		    } else {
+		        document.getElementById("myBtn").style.display = "none";
+		    }
+		}
+		
+		// When the user clicks on the button, scroll to the top of the document
+		function topFunction() {
+		    document.body.scrollTop = 0;
+		    document.documentElement.scrollTop = 0;
+		}
+	</script>
+</body>
+</html>

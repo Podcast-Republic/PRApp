@@ -1158,9 +1158,9 @@
     <string name="view_downloaded_episodes">Zobraziť stiahnuté epizódy</string>
     <string name="unreviewed">Nerecenzované</string>
     <string name="posted">Zverejnené</string>
-    <string name="id3_tag_album_cd_track">ID3 Tag (Album - CD track)</string>
-    <string name="cd_track">CD track</string>
+    <string name="id3_tag_album_cd_track">ID3 Tag (Album - CD stopa)</string>
+    <string name="cd_track">CD stopa</string>
     <string name="bonus">Bonus</string>
     <string name="trailer">Trailer</string>
-    <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Obsolete episodes will always be removed for YouTube podcast.</string>
+    <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Neaktuálne epizódy YouTube podcastu budú vždy odstránené.</string>
 </resources>

@@ -746,7 +746,7 @@
     <string name="download_completed">"ההורדה הושלמה"</string>
     <string name="notify_when_an_episode_has_been_downloaded">"הצג התראה בעת הורדת פרק"</string>
     <string name="night_mode">"מצב לילה"</string>
-    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"החלפה אוטומטית בין ערכת נושא בהירה (יום) לבין ערכת נושא נושא כהה (לילה) בהתבסס על השעה ביום"</string>
+    <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"החלפה אוטומטית בין ערכת נושא בהירה (יום) לבין ערכת נושא נושא כהה (לילה) בהתבסס על השעה ביום"</string>
     <string name="repeat_episode">"חזור על הפרק"</string>
     <string name="repeat_playlist">"חזור על רשימת השמעה"</string>
     <string name="alarms">"תזכורת"</string>
@@ -1142,4 +1142,11 @@
     <string name="bonus">Bonus</string>
     <string name="trailer">Trailer</string>
     <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Obsolete episodes will always be removed for YouTube podcast.</string>
+    <string name="retrieve_full_article_via_wifi_only">Retrieve full article via Wi-Fi only</string>
+    <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">When updating RSS feeds retrieve full article only if connected to Wi-Fi.</string>
+    <string name="retrieve_full_article">Retrieve full article</string>
+    <string name="article_publishing_date">Article publishing date</string>
+    <string name="article_guid">Article GUID</string>
+    <string name="article_title">Article title</string>
+    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
 </resources>

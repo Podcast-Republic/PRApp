@@ -771,7 +771,7 @@
     <string name="download_completed">Sťahovanie bolo dokončené</string>
     <string name="notify_when_an_episode_has_been_downloaded">Upozorniť na stiahnutie epizódy</string>
     <string name="night_mode">Nočný režim</string>
-    <string name="automatically_switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Automaticky prepínať medzi svetlým (deň) a tmavým (noc) režimom na základe času</string>
+    <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Automaticky prepínať medzi svetlým (deň) a tmavým (noc) režimom na základe času</string>
     <string name="repeat_episode">Opakovať epizódu</string>
     <string name="repeat_playlist">Opakovať playlist</string>
     <string name="alarms">Budíky</string>
@@ -1163,4 +1163,11 @@
     <string name="bonus">Bonus</string>
     <string name="trailer">Trailer</string>
     <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Neaktuálne epizódy YouTube podcastu budú vždy odstránené.</string>
+    <string name="retrieve_full_article_via_wifi_only">Retrieve full article via Wi-Fi only</string>
+    <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">When updating RSS feeds retrieve full article only if connected to Wi-Fi.</string>
+    <string name="retrieve_full_article">Retrieve full article</string>
+    <string name="article_publishing_date">Article publishing date</string>
+    <string name="article_guid">Article GUID</string>
+    <string name="article_title">Article title</string>
+    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
 </resources>

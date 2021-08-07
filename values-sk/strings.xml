@@ -1163,11 +1163,11 @@
     <string name="bonus">Bonus</string>
     <string name="trailer">Trailer</string>
     <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Neaktuálne epizódy YouTube podcastu budú vždy odstránené.</string>
-    <string name="retrieve_full_article_via_wifi_only">Retrieve full article via Wi-Fi only</string>
-    <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">When updating RSS feeds retrieve full article only if connected to Wi-Fi.</string>
-    <string name="retrieve_full_article">Retrieve full article</string>
-    <string name="article_publishing_date">Article publishing date</string>
-    <string name="article_guid">Article GUID</string>
-    <string name="article_title">Article title</string>
-    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="retrieve_full_article_via_wifi_only">Stiahnuť celý článok iba cez Wi-Fi</string>
+    <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">Pri aktualizácii RSS zdrojov načítať celý článok len v prípade pripojenia k Wi-Fi.</string>
+    <string name="retrieve_full_article">Stiahnuť celý článok</string>
+    <string name="article_publishing_date">Dátum uverejnenia článku</string>
+    <string name="article_guid">GUID článku</string>
+    <string name="article_title">Nadpis článku</string>
+    <string name="follow_android_systems_dark_theme_setup">Podľa nastavenia tmavej témy v Androide.</string>
 </resources>

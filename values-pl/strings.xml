@@ -388,7 +388,7 @@
     <string name="keep_latest_n_downloads">Zachowaj ostatnie %1$d pobranych odcinków</string>
     <string name="keep_all_downloads">Zachowaj wszystkie pobrane</string>
     <string name="playback_controls">Kontrola odtwarzania</string>
-    <string name="playback_controls_maximum_three_in_notification_">Kontrolki odtwarzania (maks. 3) w obszarze powiadomień: </string>
+    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Kontrolki odtwarzania (maks. 3) w obszarze powiadomień: </string>
     <string name="hide_played_podcasts">Ukryj przesłuchane podcasty</string>
     <string name="pause_downloads">Wstrzymaj pobieranie</string>
     <string name="has_keywords_in_title">Zawiera słowo kluczowe w tytule</string>
@@ -1152,4 +1152,8 @@
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
     <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="background_color">Background color</string>
+    <string name="current_color">Current color</string>
+    <string name="text_color">Text color</string>
+    <string name="unread_articles">Unread articles</string>
 </resources>

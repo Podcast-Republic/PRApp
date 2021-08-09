@@ -391,7 +391,7 @@
     <string name="keep_latest_n_downloads">En son %1$d indirmeyi sakla</string>
     <string name="keep_all_downloads">Tüm indirmeleri sakla</string>
     <string name="playback_controls">Oynatma kontrolleri</string>
-    <string name="playback_controls_maximum_three_in_notification_">Oynatma kontrolleri (en fazla 3) bildirim: </string>
+    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Oynatma kontrolleri (en fazla 3) bildirim: </string>
     <string name="hide_played_podcasts">"Oynatılan podcast'ı gizle"</string>
     <string name="pause_downloads">İndirmeleri duraklat</string>
     <string name="has_keywords_in_title">Has keywords in title</string>
@@ -1149,5 +1149,9 @@
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
     <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="background_color">Background color</string>
+    <string name="current_color">Current color</string>
+    <string name="text_color">Text color</string>
+    <string name="unread_articles">Unread articles</string>
 </resources>
 

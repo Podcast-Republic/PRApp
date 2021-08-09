@@ -414,7 +414,7 @@
     <string name="keep_latest_n_downloads">Ponechať najnovšie stiahnutia: %1$d</string>
     <string name="keep_all_downloads">Ponechať všetky stiahnuté súbory</string>
     <string name="playback_controls">Ovládacie prvky prehrávania</string>
-    <string name="playback_controls_maximum_three_in_notification_">Ovládacie prvky prehrávania (maximálne tri) v notifikačnom paneli: </string>
+    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Ovládacie prvky prehrávania (maximálne tri) v notifikačnom paneli: </string>
     <string name="hide_played_podcasts">Skryť prehraté podcasty</string>
     <string name="pause_downloads">Pozastaviť sťahovanie</string>
     <string name="has_keywords_in_title">Obsahuje kľúčové slová v názve</string>
@@ -1170,4 +1170,8 @@
     <string name="article_guid">GUID článku</string>
     <string name="article_title">Nadpis článku</string>
     <string name="follow_android_systems_dark_theme_setup">Podľa nastavenia tmavej témy v Androide.</string>
+    <string name="background_color">Background color</string>
+    <string name="current_color">Current color</string>
+    <string name="text_color">Text color</string>
+    <string name="unread_articles">Unread articles</string>
 </resources>

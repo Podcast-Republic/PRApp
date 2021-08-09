@@ -395,7 +395,7 @@
     <string name="keep_latest_n_downloads">%1$d derniers épisodes</string>
     <string name="keep_all_downloads">Tout conserver</string>
     <string name="playback_controls">Contrôles de la lecture</string>
-    <string name="playback_controls_maximum_three_in_notification_">Contrôles de la lecture (maximum 3) dans la notification: </string>
+    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Contrôles de la lecture (maximum 3) dans la notification: </string>
     <string name="hide_played_podcasts">Cacher les podcasts lus</string>
     <string name="pause_downloads">Suspendre le téléchargement</string>
     <string name="has_keywords_in_title">a des mots-clés dans le titre</string>
@@ -1155,4 +1155,8 @@
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
     <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="background_color">Background color</string>
+    <string name="current_color">Current color</string>
+    <string name="text_color">Text color</string>
+    <string name="unread_articles">Unread articles</string>
 </resources>

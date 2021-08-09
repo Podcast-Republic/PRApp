@@ -513,7 +513,7 @@
     <string name="play_pause_double_click">Spill av/pause med trykk to ganger</string>
     <string name="play_stop">Spill av/stopp</string>
     <string name="playback_controls">Avspillingsknapper</string>
-    <string name="playback_controls_maximum_three_in_notification_">Knapper i avspillingskontrolleren på varslingslinjen (max 3): "</string>
+    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Knapper i avspillingskontrolleren på varslingslinjen (max 3): "</string>
     <string name="playback_history">Avspillingshistorikk</string>
     <string name="playback_mode">Avspillingsmåte</string>
     <string name="playback_paused_on_muted_volume_">Avspilling blir pauset når lyden er slått av!</string>
@@ -1148,4 +1148,8 @@
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
     <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="background_color">Background color</string>
+    <string name="current_color">Current color</string>
+    <string name="text_color">Text color</string>
+    <string name="unread_articles">Unread articles</string>
 </resources>

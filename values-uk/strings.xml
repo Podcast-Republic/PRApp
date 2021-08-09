@@ -391,7 +391,7 @@
     <string name="keep_latest_n_downloads">"Зберігати останні %1$d завантаження"</string>
     <string name="keep_all_downloads">"Зберігати всі завантаження"</string>
     <string name="playback_controls">"Кнопки відтворення"</string>
-    <string name="playback_controls_maximum_three_in_notification_">"Кнопки відтворення (максимум три) у сповіщенні: "</string>
+    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">"Кнопки відтворення (максимум три) у сповіщенні: "</string>
     <string name="hide_played_podcasts">"Сховати відтворені подкасти"</string>
     <string name="pause_downloads">"Призупинити завантаження"</string>
     <string name="has_keywords_in_title">"Має ключові слова у назві"</string>
@@ -1148,4 +1148,8 @@
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
     <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="background_color">Background color</string>
+    <string name="current_color">Current color</string>
+    <string name="text_color">Text color</string>
+    <string name="unread_articles">Unread articles</string>
 </resources>

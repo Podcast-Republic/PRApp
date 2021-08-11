@@ -1170,8 +1170,8 @@
     <string name="article_guid">GUID článku</string>
     <string name="article_title">Nadpis článku</string>
     <string name="follow_android_systems_dark_theme_setup">Podľa nastavenia tmavej témy v Androide.</string>
-    <string name="background_color">Background color</string>
-    <string name="current_color">Current color</string>
-    <string name="text_color">Text color</string>
-    <string name="unread_articles">Unread articles</string>
+    <string name="background_color">Farba pozadia</string>
+    <string name="current_color">Aktuálna farba</string>
+    <string name="text_color">Farba textu</string>
+    <string name="unread_articles">Neprečítané články</string>
 </resources>

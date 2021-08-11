@@ -1153,4 +1153,7 @@
     <string name="current_color">Current color</string>
     <string name="text_color">Text color</string>
     <string name="unread_articles">Unread articles</string>
+    <string name="advanced">Advanced</string>
+    <string name="bluetooth_auto_play_workaround">Bluetooth auto play workaround</string>
+    <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Do not start playing upon Bluetooth is connected. Check out FAQs for more info.</string>
 </resources>

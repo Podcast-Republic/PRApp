@@ -874,7 +874,7 @@
     <string name="no_articles_selected_">"Pole ühtegi artiklit valitud!"</string>
     <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: Märkige kõik artiklid loetuks?"</string>
     <string name="mark_all_articles_as_read_">"Märkige kõik artiklid loetuks?"</string>
-    <string name="mark_all_articles_published_earlier_than_this_article_s_as_read_">"Märgi kõik artiklid, mis on avaldatud varem kui see artikkel [ %1$s ] loetud?"</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_read_">"Märgi kõik artiklid, mis on avaldatud varem kui see artikkel [ %1$s ] loetud?"</string>
     <string name="there_are_no_articles_">"Artikleid ei ole."</string>
     <string name="unreads_d">"Lugemata: %d"</string>
     <string name="total_articles_d">"Artikleid kokku: %d"</string>
@@ -1155,7 +1155,10 @@
     <string name="current_color">Current color</string>
     <string name="text_color">Text color</string>
     <string name="unread_articles">Unread articles</string>
-    <string name="advanced">Advanced</string>
     <string name="bluetooth_auto_play_workaround">Bluetooth auto play workaround</string>
     <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Do not start playing upon Bluetooth is connected. Check out FAQs for more info.</string>
+    <string name="rss_feeds_in_widget">RSS feeds in widget</string>
+    <string name="show_selected_rss_feeds_in_widget_s">Show selected RSS feeds in widget: %s</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_read_">Mark all articles published after this article [%1$s] as read?</string>
+    <string name="mark_all_next_articles_as_read">Mark all next articles as read</string>
 </resources>

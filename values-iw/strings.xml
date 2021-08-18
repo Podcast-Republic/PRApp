@@ -1159,4 +1159,6 @@
     <string name="show_selected_rss_feeds_in_widget_s">Show selected RSS feeds in widget: %s</string>
     <string name="mark_all_articles_published_after_this_article_s_as_read_">Mark all articles published after this article [%1$s] as read?</string>
     <string name="mark_all_next_articles_as_read">Mark all next articles as read</string>
+    <string name="use_legacy_media_notification_style">Use legacy media notification style</string>
+    <string name="use_legacy_media_notification_style_before_android_11">Use legacy media notification style before Android 11.</string>
 </resources>

@@ -630,7 +630,7 @@
     <string name="not_in_use">Nenastavené</string>
     <string name="mark_all_previous_episodes_as_played">Označiť všetky predchádzajúce epizódy ako prehraté</string>
     <string name="remove_favorite">Odstrániť obľúbené</string>
-    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Označiť všetky epizódy uverejnené skôr ako táto epizóda [%1$s] ako prehraté?</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Označiť všetky epizódy uverejnené pred touto epizódou [%1$s] ako prehraté?</string>
     <string name="exporting">Exportovanie</string>
     <string name="extend_s_minutes">Pridať %1$d min.</string>
     <string name="pick_a_time">Vyberte čas</string>
@@ -1176,8 +1176,8 @@
     <string name="unread_articles">Neprečítané články</string>
     <string name="bluetooth_auto_play_workaround">Riešenie automatického prehrávania cez Bluetooth</string>
     <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Prehrávanie sa nespustí po pripojení Bluetooth. Pre viac informácií si pozrite FAQ.</string>
-    <string name="rss_feeds_in_widget">RSS feeds in widget</string>
-    <string name="show_selected_rss_feeds_in_widget_s">Show selected RSS feeds in widget: %s</string>
-    <string name="mark_all_articles_published_after_this_article_s_as_read_">Mark all articles published after this article [%1$s] as read?</string>
-    <string name="mark_all_next_articles_as_read">Mark all next articles as read</string>
+    <string name="rss_feeds_in_widget">RSS zdroje v miniaplikácii</string>
+    <string name="show_selected_rss_feeds_in_widget_s">Zobraziť vybrané zdroje v miniaplikácii: %s</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_read_">Označiť všetky články uverejnené po tomto článku [%1$s] ako prečítané?</string>
+    <string name="mark_all_next_articles_as_read">Označiť všetky ďalšie články ako prečítané</string>
 </resources>

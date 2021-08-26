@@ -959,8 +959,9 @@
     <string name="delete_episodes">Odstrániť epizódy</string>
     <string name="priority_mode">Prioritný režim</string>
     <string name="stats">Štatistika</string>
-    <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>]]></string>
+    <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>.]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>.]]></string>
+    <string name="you_ve_listened_b_d_s_b"><![CDATA[Počúvali ste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></string>
     <string name="since_date">Od</string>
     <string name="reset_stats">Vynulovať štatistiku</string>
     <string name="display_latest_d_episodes">Zobraziť posledné %d epizódy</string>
@@ -1182,4 +1183,7 @@
     <string name="mark_all_next_articles_as_read">Označiť všetky ďalšie články ako prečítané</string>
     <string name="use_legacy_media_notification_style">Použiť starší štýl upozornenia na médiá</string>
     <string name="use_legacy_media_notification_style_before_android_11">Použiť starší štýl upozornenia na médiá pred Androidom 11.</string>
+    <string name="save_up_next_to">Save Up next to...</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Mark all episodes published earlier than this episode [%1$s] as unplayed?</string>
+    <string name="mark_all_previous_episodes_as_unplayed">Mark all previous episodes as unplayed</string>
 </resources>

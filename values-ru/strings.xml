@@ -1167,4 +1167,7 @@
     <string name="save_up_next_to">Save Up next to...</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Mark all episodes published earlier than this episode [%1$s] as unplayed?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Mark all previous episodes as unplayed</string>
+    <string name="_s_kbps">%skbps</string>
+    <string name="_1s_kbps_2s">%1$skbps %2$s</string>
+    <string name="use_default_chapter_title">Use default chapter title.</string>
 </resources>

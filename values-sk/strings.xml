@@ -1186,4 +1186,7 @@
     <string name="save_up_next_to">Uložiť Nasleduje do...</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Označiť všetky epizódy uverejnené pred touto epizódou [%1$s] ako neprehraté?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Označiť všetky predchádzajúce epizódy ako neprehraté</string>
+    <string name="_s_kbps">%skbps</string>
+    <string name="_1s_kbps_2s">%1$skbps %2$s</string>
+    <string name="use_default_chapter_title">Use default chapter title.</string>
 </resources>

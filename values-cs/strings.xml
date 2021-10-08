@@ -1166,4 +1166,7 @@
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Use default chapter title.</string>
+    <string name="grid_spacing">Grid spacing</string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
+    <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
 </resources>

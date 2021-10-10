@@ -896,7 +896,7 @@
     <string name="newest_unread">Najnovšie neprečítané</string>
     <string name="no_articles_selected_">Nie sú vybrané žiadne články!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Označiť všetky články ako prečítané?</string>
-    <string name="mark_all_articles_as_read_">Označiť všetky články ako prečítané?</string>
+    <string name="mark_all_d_articles_as_read">Označiť všetky %d články ako prečítané?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Označiť všetky články uverejnené skôr ako tento článok [%1$s] ako prečítané?</string>
     <string name="there_are_no_articles_">Nie sú žiadne články.</string>
     <string name="unreads_d">Neprečítané: %d</string>

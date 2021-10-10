@@ -875,7 +875,7 @@
     <string name="newest_unread">Plus récent non lu</string>
     <string name="no_articles_selected_">Aucun article selectionné !</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s] : Marquer tous les articles comme lus ?</string>
-    <string name="mark_all_articles_as_read_">Marquer tous les articles comme lus ?</string>
+    <string name="mark_all_d_articles_as_read">Marquer tous les %d articles comme lus ?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Marquer tous les articles publiés avant cet article [%1$s] comme lus ?</string>
     <string name="there_are_no_articles_">"Il n'y a aucun article."</string>
     <string name="unreads_d">Non lus : %d</string>
@@ -1177,4 +1177,14 @@
     <string name="grid_spacing">Grid spacing</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
+    <string name="mark_all_d_episodes_as_played">Mark all %d episodes as played?</string>
+    <string name="mark_all_d_episodes_as_unplayed">Mark all %d episodes as unplayed?</string>
+    <string name="mark_all_d_podcasts_as_played">Mark all %d podcasts as played?</string>
+    <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
+    <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
+    <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
+    <string name="mark_podcasts_as_played">Mark podcasts as played</string>
+    <string name="mark_all_articles_as_read">Mark all articles as read</string>
+    <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
+    <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
 </resources>

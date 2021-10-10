@@ -198,7 +198,7 @@
     <string name="stream">Stream</string>
     <string name="remove">Remove</string>
     <string name="redownload">Redownload</string>
-    <string name="download_all">"Download all"</string>
+    <string name="download_all">Download all</string>
     <string name="download_all_d_episodes">Download all %1$d episodes?</string>
     <string name="display">Display</string>
     <string name="when_i_press_next_button">When I press Next button</string>
@@ -347,7 +347,6 @@
     <string name="download_via_wifi_only">Download via Wi-Fi only</string>
     <string name="feed_updates_via_wifi_only">Update podcasts via Wi-Fi only</string>
     <string name="update_podcasts_only_when_connected_to_wifi">Update podcasts only when connected to Wi-Fi.</string>
-    <string name="mark_all_as_played">Mark all as played</string>
     <string name="playback_mode">Playback mode</string>
     <string name="display_on_lock_screen">Display on lock screen</string>
     <string name="display_artwork_on_lock_screen_when_playing">Display artwork on lock screen when playing.</string>
@@ -627,7 +626,6 @@
     <string name="there_are_no_episodes_in_this_playlist">There are no episodes in this playlist.</string>
     <string name="no_play_history_found">No play history found.</string>
     <string name="set_playlists">Set playlists</string>
-    <string name="mark_all_as_read">Mark all as read</string>
     <string name="not_in_use">Not in use</string>
     <string name="mark_all_previous_episodes_as_played">Mark all previous episodes as played</string>
     <string name="remove_favorite">Remove favorite</string>
@@ -903,7 +901,7 @@
     <string name="newest_unread">Newest unread</string>
     <string name="no_articles_selected_">No articles selected!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Mark all articles as read?</string>
-    <string name="mark_all_articles_as_read_">Mark all articles as read?</string>
+    <string name="mark_all_d_articles_as_read">Mark all %d articles as read?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Mark all articles published before this article [%1$s] as read?</string>
     <string name="there_are_no_articles_">There are no articles.</string>
     <string name="unreads_d">Unreads: %1$d</string>
@@ -1143,7 +1141,6 @@
     <string name="adjust_playback_position">Adjust playback position</string>
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
-    <string name="mark_all_as_unplayed">Mark all as unplayed</string>
     <string name="default_playlist">Default playlist</string>
     <string name="use_this_playlist_as_the_default_playlist">Use this playlist as the default playlist.</string>
     <string name="article_unique_criteria">Article unique criteria</string>
@@ -1193,4 +1190,17 @@
     <string name="grid_spacing">Grid spacing</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
+    <string name="mark_all_as_played">Mark all as played</string>
+    <string name="mark_all_as_unplayed">Mark all as unplayed</string>
+    <string name="mark_all_as_read">Mark all as read</string>
+    <string name="mark_all_d_episodes_as_played">Mark all %d episodes as played?</string>
+    <string name="mark_all_d_episodes_as_unplayed">Mark all %d episodes as unplayed?</string>
+    <string name="mark_all_d_podcasts_as_played">Mark all %d podcasts as played?</string>
+    <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
+    <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
+    <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
+    <string name="mark_podcasts_as_played">Mark podcasts as played</string>
+    <string name="mark_all_articles_as_read">Mark all articles as read</string>
+    <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
+    <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
 </resources>

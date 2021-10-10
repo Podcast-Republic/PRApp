@@ -896,7 +896,7 @@
     <string name="newest_unread">Najnovšie neprečítané</string>
     <string name="no_articles_selected_">Nie sú vybrané žiadne články!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Označiť všetky články ako prečítané?</string>
-    <string name="mark_all_articles_as_read_">Označiť všetky články ako prečítané?</string>
+    <string name="mark_all_d_articles_as_read">Označiť všetky %d články ako prečítané?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Označiť všetky články uverejnené skôr ako tento článok [%1$s] ako prečítané?</string>
     <string name="there_are_no_articles_">Nie sú žiadne články.</string>
     <string name="unreads_d">Neprečítané: %d</string>
@@ -1192,4 +1192,14 @@
     <string name="grid_spacing">Vzdialenosť medzi mriežkami</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> nemožno použiť ako priečinok na sťahovanie. Vyberte priečinok v internej pamäti alebo na SD karte.]]></string>
     <string name="set_sleep_timer_after_this_episode">Nastaviť časovač spánku po tejto epizóde</string>
+    <string name="mark_all_d_episodes_as_played">Mark all %d episodes as played?</string>
+    <string name="mark_all_d_episodes_as_unplayed">Mark all %d episodes as unplayed?</string>
+    <string name="mark_all_d_podcasts_as_played">Mark all %d podcasts as played?</string>
+    <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
+    <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
+    <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
+    <string name="mark_podcasts_as_played">Mark podcasts as played</string>
+    <string name="mark_all_articles_as_read">Mark all articles as read</string>
+    <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
+    <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
 </resources>

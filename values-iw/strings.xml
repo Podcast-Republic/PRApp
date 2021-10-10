@@ -871,7 +871,7 @@
     <string name="newest_unread">"הכי חדשים שלא נקראו"</string>
     <string name="no_articles_selected_">"לא נבחרו מאמרים!"</string>
     <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: סמן את כל הכתבות כנקראו?"</string>
-    <string name="mark_all_articles_as_read_">"סמן את כל הכתבות כנקראו?"</string>
+    <string name="mark_all_d_articles_as_read">"לסמן את כל %d המאמרים כנקראים?"</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">"סמן את כל הכתבות שפורסמו מוקדם יותר ממאמר זה [ %1$s ] כנקרא?"</string>
     <string name="there_are_no_articles_">"אין מאמרים."</string>
     <string name="unreads_d">"הודעות שלא נקראו: %d"</string>
@@ -1171,4 +1171,14 @@
     <string name="grid_spacing">Grid spacing</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
+    <string name="mark_all_d_episodes_as_played">Mark all %d episodes as played?</string>
+    <string name="mark_all_d_episodes_as_unplayed">Mark all %d episodes as unplayed?</string>
+    <string name="mark_all_d_podcasts_as_played">Mark all %d podcasts as played?</string>
+    <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
+    <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
+    <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
+    <string name="mark_podcasts_as_played">Mark podcasts as played</string>
+    <string name="mark_all_articles_as_read">Mark all articles as read</string>
+    <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
+    <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
 </resources>

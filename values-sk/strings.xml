@@ -197,7 +197,7 @@
     <string name="stream">Stream</string>
     <string name="remove">Odstrániť</string>
     <string name="redownload">Stiahnuť znova</string>
-    <string name="download_all">"Stiahnuť všetko"</string>
+    <string name="download_all">Stiahnuť všetko</string>
     <string name="download_all_d_episodes">Stiahnuť všetky epizódy: %1$d?</string>
     <string name="display">Zobraziť</string>
     <string name="when_i_press_next_button">Keď stlačím preskočiť</string>
@@ -346,7 +346,6 @@
     <string name="download_via_wifi_only">Sťahovať iba cez Wi-Fi</string>
     <string name="feed_updates_via_wifi_only">Aktualizovať podcasty iba cez Wi-Fi</string>
     <string name="update_podcasts_only_when_connected_to_wifi">Aktualizovať podcasty iba pri aktívnom pripojení Wi-Fi</string>
-    <string name="mark_all_as_played">Označiť všetko ako prehraté</string>
     <string name="playback_mode">Režim prehrávania</string>
     <string name="display_on_lock_screen">Zobraziť na uzamknutej obrazovke</string>
     <string name="display_artwork_on_lock_screen_when_playing">Počas prehrávania zobraziť obrázok na uzamknutej obrazovke</string>
@@ -626,7 +625,6 @@
     <string name="there_are_no_episodes_in_this_playlist">V tomto playliste nie sú žiadne epizódy.</string>
     <string name="no_play_history_found">Nebola nájdená žiadna história prehrávania.</string>
     <string name="set_playlists">Nastaviť playlisty</string>
-    <string name="mark_all_as_read">Označiť všetko ako prečítané</string>
     <string name="not_in_use">Nenastavené</string>
     <string name="mark_all_previous_episodes_as_played">Označiť všetky predchádzajúce epizódy ako prehraté</string>
     <string name="remove_favorite">Odstrániť obľúbené</string>
@@ -896,7 +894,7 @@
     <string name="newest_unread">Najnovšie neprečítané</string>
     <string name="no_articles_selected_">Nie sú vybrané žiadne články!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Označiť všetky články ako prečítané?</string>
-    <string name="mark_all_articles_as_read_">Označiť všetky články ako prečítané?</string>
+    <string name="mark_all_d_articles_as_read">Označiť všetky články (%d) ako prečítané?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Označiť všetky články uverejnené skôr ako tento článok [%1$s] ako prečítané?</string>
     <string name="there_are_no_articles_">Nie sú žiadne články.</string>
     <string name="unreads_d">Neprečítané: %d</string>
@@ -1142,7 +1140,6 @@
     <string name="adjust_playback_position">Nastavenie pozície prehrávania</string>
     <string name="allow_to_change_playback_position_from_notification_">Umožňuje zmeniť pozíciu prehrávania z oznámenia.</string>
     <string name="zoom_image">Priblížiť obrázok</string>
-    <string name="mark_all_as_unplayed">Označiť všetky ako neprehraté</string>
     <string name="default_playlist">Predvolený playlist</string>
     <string name="use_this_playlist_as_the_default_playlist">Použiť tento playlist ako predvolený.</string>
     <string name="article_unique_criteria">Jedinečné kritériá článku</string>

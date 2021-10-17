@@ -1180,7 +1180,7 @@
     <string name="mark_all_next_articles_as_read">Označiť všetky ďalšie články ako prečítané</string>
     <string name="use_legacy_media_notification_style">Použiť starší štýl upozornenia na médiá</string>
     <string name="use_legacy_media_notification_style_before_android_11">Použiť starší štýl upozornenia na médiá pred Androidom 11.</string>
-    <string name="save_up_next_to">Uložiť Nasleduje do...</string>
+    <string name="save_up_next_to">Uložiť Nasleduje do…</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Označiť všetky epizódy uverejnené pred touto epizódou [%1$s] ako neprehraté?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Označiť všetky predchádzajúce epizódy ako neprehraté</string>
     <string name="_s_kbps">%skbps</string>
@@ -1199,4 +1199,5 @@
     <string name="mark_all_articles_as_read">Označiť všetky články ako prečítané</string>
     <string name="mark_all_rss_feeds_as_read">Označiť všetky zdroje ako prečítané</string>
     <string name="mark_all_d_rss_feeds_as_read">Označiť všetky kanály (%d) ako prečítané?</string>
+    <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
 </resources>

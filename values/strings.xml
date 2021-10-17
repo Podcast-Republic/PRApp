@@ -395,7 +395,6 @@
     <string name="when_deleting_an_episode">When deleting an episode</string>
     <string name="also_remove_from_downloads_amp_playlists">Also remove from Downloads &amp; Playlists.</string>
     <string name="remove_episode_only">Remove episode only</string>
-    <string name="mark_episode_as_played">Mark episode as played</string>
     <string name="mark_episode_as_played_if_more_than_has_been_played">Mark episode as played if more than %1$d%% has been played.</string>
     <string name="download_episode">Download episode</string>
     <string name="start_downloading_when_episode_is_added_to_playlist">Start downloading when episode is added to playlist.</string>
@@ -1203,4 +1202,6 @@
     <string name="mark_all_articles_as_read">Mark all articles as read</string>
     <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
     <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
+    <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
+    <string name="mark_episode_as_played">Mark episode as played</string>
 </resources>

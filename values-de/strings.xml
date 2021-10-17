@@ -473,7 +473,7 @@
     <string name="remove_subscription_to_">"Abonnement von [%1$s] entfernen"</string>
     <string name="data_roaming">"Daten-Roaming"</string>
     <string name="allow_to_download_with_data_services_when_roaming">"Download über mobile Datenverbindung erlauben, wenn im Roaming-Modus"</string>
-    <string name="up_next">"Als nächstes"</string>
+    <string name="up_next">"Als Nächstes"</string>
     <string name="episode_info">"Info zur Episode"</string>
     <string name="no_more_episodes_to_play_from_playlist_s_">"Keine Episoden mehr in Playlist [%1$s] abzuspielen"</string>
     <string name="apply_this_change_to_all_podcasts_">"Diese Änderungen auf alle Podcasts anwenden?"</string>
@@ -826,7 +826,7 @@
     <string name="submit">"Einreichen"</string>
     <string name="deleted">"Gelöscht"</string>
     <string name="file_size">"Dateigröße"</string>
-    <string name="play_next">"Nächste abspielen"</string>
+    <string name="play_next">"Als Nächstes abspielen"</string>
     <string name="are_you_sure_to_clear_the_play_queue_">"Bist Du sicher, dass die Playlist gelöscht werden soll?"</string>
     <string name="clear">"Auswahl löschen"</string>
     <string name="remaining_time">"Verbleibende Zeit"</string>
@@ -1000,7 +1000,7 @@
     <string name="create_shortcut">Verknüpfung erstellen</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Erlauben Sie die Verwendung mobiler Daten und ignorieren Sie die Akkubeschränkungen beim Herunterladen von Episoden.</string>
     <string name="show_play_next_episode_station_button">Nächste Episode/Sender abspielen anzeigen</string>
-    <string name="append_to_up_next">Anhängen an oben nächste</string>
+    <string name="append_to_up_next">"An 'Als Nächstes' unten anhängen"</string>
     <string name="only_include_episodes_with_user_notes">Nur Episoden mit Benutzernotizen aufnehmen</string>
     <string name="description_preview">Beschreibungsvorschau</string>
     <string name="d_lines_of_text">%d zeilen</string>
@@ -1162,7 +1162,7 @@
     <string name="mark_all_next_articles_as_read">Mark all next articles as read</string>
     <string name="use_legacy_media_notification_style">Use legacy media notification style</string>
     <string name="use_legacy_media_notification_style_before_android_11">Use legacy media notification style before Android 11.</string>
-    <string name="save_up_next_to">Save Up next to...</string>
+    <string name="save_up_next_to">Save Up next to…</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Mark all episodes published earlier than this episode [%1$s] as unplayed?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Mark all previous episodes as unplayed</string>
     <string name="_s_kbps">%skbps</string>
@@ -1181,4 +1181,5 @@
     <string name="mark_all_articles_as_read">Mark all articles as read</string>
     <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
     <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
+    <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
 </resources>

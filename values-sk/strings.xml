@@ -1199,5 +1199,5 @@
     <string name="mark_all_articles_as_read">Označiť všetky články ako prečítané</string>
     <string name="mark_all_rss_feeds_as_read">Označiť všetky zdroje ako prečítané</string>
     <string name="mark_all_d_rss_feeds_as_read">Označiť všetky kanály (%d) ako prečítané?</string>
-    <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
+    <string name="mark_episode_as_unplayed">Označiť epizódu ako prehratú</string>
 </resources>

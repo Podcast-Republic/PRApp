@@ -137,7 +137,7 @@
     <string name="description">"الوصف"</string>
     <string name="play">"تشغيل"</string>
     <string name="share">"مشاركة"</string>
-    <string name="add_to_playlist">"أضف إلى قائمة التشغيل"</string>
+    <string name="add_to_playlists">"أضف إلى قائمة التشغيل"</string>
     <string name="end_editing_mode">"إنهاء وضع التحرير"</string>
     <string name="download_selection_s_">"اختيار التنزيل"</string>
     <string name="add_selection_s_to_playlist">"إضافة التحديد الى قائمة التشغيل"</string>

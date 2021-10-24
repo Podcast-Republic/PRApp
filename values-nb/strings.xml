@@ -134,7 +134,7 @@
     <string name="add_a_station_by_url">Legg til stasjon via URL</string>
     <string name="add_to_default_playlists">Legg til til standard spillelister</string>
     <string name="add_to_new_tag">Legg til ny etikett</string>
-    <string name="add_to_playlist">Legg til i spilleliste</string>
+    <string name="add_to_playlists">Legg til i spilleliste</string>
     <string name="add_to_selected_playlists">Legg til utvalgte spillelister</string>
     <string name="add_to_tag">Legg til etikett</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Legg episode til følgende spillelister</string>

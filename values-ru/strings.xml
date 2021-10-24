@@ -137,7 +137,7 @@
     <string name="description">Описание</string>
     <string name="play">Воспроизвести</string>
     <string name="share">Поделиться</string>
-    <string name="add_to_playlist">Добавить к списку воспроизведения</string>
+    <string name="add_to_playlists">Добавить к списку воспроизведения</string>
     <string name="end_editing_mode">Закончить редактирование</string>
     <string name="download_selection_s_">Загрузить выбранные файлы</string>
     <string name="add_selection_s_to_playlist">Добавить выбранные выпуски к списку воспроизведения</string>

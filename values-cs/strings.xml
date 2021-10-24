@@ -138,7 +138,7 @@
     <string name="description">"Popis"</string>
     <string name="play">"Přehrát"</string>
     <string name="share">"Sdílet"</string>
-    <string name="add_to_playlist">"Přidat do seznamu"</string>
+    <string name="add_to_playlists">"Přidat do seznamu"</string>
     <string name="end_editing_mode">"Ukončit režim úprav"</string>
     <string name="download_selection_s_">"Stáhnout vybrané"</string>
     <string name="add_selection_s_to_playlist">"Přidat vybrané do seznamu"</string>

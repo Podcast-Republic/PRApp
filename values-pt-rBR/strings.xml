@@ -137,7 +137,7 @@
     <string name="description">Descrição</string>
     <string name="play">Tocar</string>
     <string name="share">Compartilhar</string>
-    <string name="add_to_playlist">Adicionar à playlist</string>
+    <string name="add_to_playlists">Adicionar à playlist</string>
     <string name="end_editing_mode">Sair do modo de edição</string>
     <string name="download_selection_s_">Baixar selecionado(s)</string>
     <string name="add_selection_s_to_playlist">Adicionar selecionado(s) à playlist</string>

@@ -137,7 +137,7 @@
     <string name="description">"Leírás"</string>
     <string name="play">"Lejátszás"</string>
     <string name="share">"Megosztás"</string>
-    <string name="add_to_playlist">"Lejátszási listához adás"</string>
+    <string name="add_to_playlists">"Lejátszási listához adás"</string>
     <string name="end_editing_mode">"Kilépés a szerkesztési módból"</string>
     <string name="download_selection_s_">"Kiválasztottak letöltése"</string>
     <string name="add_selection_s_to_playlist">"Kiválasztottak hozzáadása a lejátszási listához"</string>

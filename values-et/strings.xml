@@ -137,7 +137,7 @@
     <string name="description">"Kirjeldus"</string>
     <string name="play">"Mängi"</string>
     <string name="share">"Jaga"</string>
-    <string name="add_to_playlist">"Lisa esitusloendisse"</string>
+    <string name="add_to_playlists">"Lisa esitusloendisse"</string>
     <string name="end_editing_mode">"Lõpeta redigeerimisreziim"</string>
     <string name="download_selection_s_">"Lae valik(ud)"</string>
     <string name="add_selection_s_to_playlist">"Lisa valik(ud) esitlusloendisse"</string>

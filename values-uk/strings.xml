@@ -137,7 +137,7 @@
     <string name="description">"Опис"</string>
     <string name="play">"Відтворити"</string>
     <string name="share">"Поділитися"</string>
-    <string name="add_to_playlist">"Додати в плейлист"</string>
+    <string name="add_to_playlists">"Додати в плейлист"</string>
     <string name="end_editing_mode">"Завершити редагування"</string>
     <string name="download_selection_s_">"Завантажити обране(-ні)"</string>
     <string name="add_selection_s_to_playlist">"Додати вибір до списку відтворення"</string>

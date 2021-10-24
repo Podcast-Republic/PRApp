@@ -141,7 +141,7 @@
     <string name="description">Popis</string>
     <string name="play">Prehrať</string>
     <string name="share">Zdieľať</string>
-    <string name="add_to_playlist">Pridať do playlistu</string>
+    <string name="add_to_playlists">Pridať do playlistu</string>
     <string name="end_editing_mode">Ukončiť režim úprav</string>
     <string name="download_selection_s_">Stiahnuť vybrané</string>
     <string name="add_selection_s_to_playlist">Pridať vybrané do playlistu</string>

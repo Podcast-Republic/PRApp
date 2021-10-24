@@ -138,7 +138,7 @@
     <string name="description">"Descrizione"</string>
     <string name="play">"Riproduci"</string>
     <string name="share">"Condividi"</string>
-    <string name="add_to_playlist">"Aggiungi a playlist"</string>
+    <string name="add_to_playlists">"Aggiungi a playlist"</string>
     <string name="end_editing_mode">"Esci da modalità di modifica"</string>
     <string name="download_selection_s_">"Scarica selezionati"</string>
     <string name="add_selection_s_to_playlist">"Aggiungi selezionati alla playlist"</string>

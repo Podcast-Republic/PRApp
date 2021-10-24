@@ -142,7 +142,7 @@
     <string name="description">Description</string>
     <string name="play">Play</string>
     <string name="share">Share</string>
-    <string name="add_to_playlist">Add to playlist</string>
+    <string name="add_to_playlists">Add to playlists</string>
     <string name="end_editing_mode">End editing mode</string>
     <string name="download_selection_s_">Download selection(s)</string>
     <string name="add_selection_s_to_playlist">Add selection(s) to playlist</string>

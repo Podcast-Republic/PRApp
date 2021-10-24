@@ -137,7 +137,7 @@
     <string name="description">"Beschrijving"</string>
     <string name="play">"Afspelen"</string>
     <string name="share">"Delen"</string>
-    <string name="add_to_playlist">"Toevoegen aan afspeellijst"</string>
+    <string name="add_to_playlists">"Toevoegen aan afspeellijst"</string>
     <string name="end_editing_mode">"Einde bewerkingsmodus"</string>
     <string name="download_selection_s_">"Download selectie(s)"</string>
     <string name="add_selection_s_to_playlist">"Selectie(s) toevoegen aan afspeellijst"</string>

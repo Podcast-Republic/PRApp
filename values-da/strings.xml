@@ -138,7 +138,7 @@
     <string name="description">"Beskrivelse"</string>
     <string name="play">"Afspil"</string>
     <string name="share">"Del"</string>
-    <string name="add_to_playlist">"Tilføj til playliste"</string>
+    <string name="add_to_playlists">"Tilføj til playliste"</string>
     <string name="end_editing_mode">"Afslut redigering"</string>
     <string name="download_selection_s_">"Download de valgte"</string>
     <string name="add_selection_s_to_playlist">"Tilføj de valgte til playliste"</string>

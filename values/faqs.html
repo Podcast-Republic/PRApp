@@ -82,6 +82,7 @@
 			<li><a href="#q161022a">How to cast to Chromecast?</a></li>
 			<li><a href="#q190325a">What is Smart rewind?</a></li>
 			<li><a href="#q210810a">How to disable Bluetooth automatic playback?</a></li>
+			<li><a href="#q210817a">Why do multiple playback notifications stack up on Android 11?</a></li>
 		</ul>
 		<h4>Playlists</h4>
 		<ul>
@@ -324,6 +325,13 @@ Some Bluetooth speakers or car kits will sends a <strong>Play</strong>  command 
 </p>
 <p>&nbsp;</p>
 
+<a name="q210817a"></a><strong>Why do multiple playback notifications stack up on Android 11?</strong><br />
+Android 11 has a new media control which groups all media notifications into Quick settings. By default this new media control shows up all the time regardless whether the podcast is playing or not.
+<p>Unfortunately, this new media control was very buggy when Android 11 was released. Multiple media notifications may stack up on the notification tray.</p>
+<p>Google has fixed this bug in one of the system patches. However, only a few devices such as Google Pixel phones have received the system patch.</p>
+<p>If your device manufacture hasn't pushed this system patch to you yet you can workaround the bug by going to <strong>app Settings > Notifications</strong> to turn on <strong>Use legacy media notification</strong> option.</p>
+<p>&nbsp;</p>
+
 <a name="q1605024"></a><strong>What are the play modes?</strong><br />
 Currently there are six play modes supported in this app:
 <ul>
@@ -513,8 +521,8 @@ If you notice any bug in this app you can enable the <strong>Debug log</strong> 
 	this procedure may break depends on how well your file manager app supports SAF. We strongly suggest to use Android's built-in file manager app to avoid any issues when dealing with your storage.</p>
 	
 	<a name="q201223b"></a><strong>Why isn't podcast info displaying via Bluetooth in my car?</strong><br />
-	Typically that's due to the incompatible <b>AVRCP</b> versions on your phone and your car Bluetooth. To fix that, first, you'll need to enable <b>Developer options</b> enabled on your <b>Android Settings</b>. 
-	Open your <b>Android Settings</b> and then go to <b>About Phone</b>, then tap the <b>Build Number</b> 7 times. After <b>Developer options</b> are enabled, go into <b>Developer Options</b>, 
+	Typically that's due to the incompatible <b>AVRCP</b> versions on your phone and your car Bluetooth. To fix that, first, you'll need to have <b>Developer options</b> enabled in your <b>Android Settings</b>. 
+	Open your <b>Android Settings</b> and then go to <b>About Phone</b>, then tap the <b>Build Number</b> 7 times. After <b>Developer options</b> is enabled, go into <b>Developer Options</b>, 
 	scroll down to <b>Bluetooth AVRCP Version</b>. Change <b>AVRCP</b> version to a lower version, restart the phone. You may need to try couple times to find the right <b>AVRCP</b> version which is compatible with your car.
 	
 	<script>

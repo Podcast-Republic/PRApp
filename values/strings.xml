@@ -664,8 +664,6 @@
     <string name="download_state_failed">Failed</string>
     <string name="download_state_failed_storage_is_not_accessible">Failed: storage is not accessible.</string>
     <string name="error_storage_is_not_accessible">Error: storage is not accessible.</string>
-    <string name="moving_downloads">Moving downloads</string>
-    <string name="moving_download_from_1s_to_2s">Moving download from [%1$s] to [%2$s].</string>
     <string name="invalid_opml_file_selected_">Invalid opml file selected!</string>
     <string name="podcast_title_can_not_be_empty_">Podcast title can not be empty!</string>
     <string name="podcast_url_can_not_be_empty_">Podcast URL can not be empty!</string>
@@ -1204,4 +1202,10 @@
     <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
     <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
     <string name="mark_episode_as_played">Mark episode as played</string>
+    <string name="moving_downloads">Moving downloads</string>
+    <string name="moving_download_from_1s_to_2s">Moving download from [%1$s] to [%2$s].</string>
+    <string name="moving_downloads_failed">Moving downloads failed</string>
+    <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
+    <string name="html_notation">HTML notation</string>
+    <string name="media_buttons">Media buttons</string>
 </resources>

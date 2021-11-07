@@ -941,7 +941,7 @@
     <string name="stats">Statisztika</string>
     <string name="time_saved_b_s_b"><![CDATA[Megtakarított idő: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Meghallgatva: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Meghallgatott: <b>%1$d</b> epizódot, <b>%2$s</b>]]></string>
+    <string name="you_ve_listened_b_d_s_b"><![CDATA[Meghallgatva: <b>%1$d</b> epizód, <b>%2$s</b>]]></string>
     <string name="since_date">Ettől a dátumtól</string>
     <string name="reset_stats">Statisztikák törlése</string>
     <string name="display_latest_d_episodes">Legújabb %d epizód megjelenítése</string>

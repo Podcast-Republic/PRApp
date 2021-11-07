@@ -299,7 +299,7 @@
     <string name="rewind_5_seconds">5 mp-et tekerjen vissza</string>
     <string name="repeat">Ismétlés</string>
     <string name="keep_downloads">Letöltések megtartása</string>
-    <string name="when_deleting_from_playlist">Amikor lejátszólistából töröl</string>
+    <string name="when_deleting_from_playlist">Amikor töröl a lejátszólistából</string>
     <string name="search">Keresés</string>
     <string name="edit">Kijelölés</string>
     <string name="time_display_minute_short_format">perc</string>
@@ -426,7 +426,7 @@
     <string name="only_include_favorited_episodes">Csak kedvenc epizódokat tartalmazzon</string>
     <string name="download_status">Letöltés állapota</string>
     <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel</string>
-    <string name="continue_on_error">Hiba esetén is folytatás</string>
+    <string name="continue_on_error">Folytatás hiba esetén</string>
     <string name="downloading">Letöltődik</string>
     <string name="failed">Sikertelen</string>
     <string name="select_all">Összes kiválasztása</string>
@@ -539,7 +539,7 @@
     <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Az előfizetési listát lehúzva frissítés</string>
     <string name="actions">Műveletek</string>
     <string name="when_an_episode_is_100_played">Ha egy epizód végig lejátszódott</string>
-    <string name="delete_the_download">Törölje a letöltést</string>
+    <string name="delete_the_download">Letöltések törlése</string>
     <string name="keep_the_download">Tartsa meg a letöltést</string>
     <string name="shake_your_device">A készülék megrázása</string>
     <string name="shake_device_to_control_playback">Műveletek a készülék megrázására</string>
@@ -734,7 +734,7 @@
     <string name="syncing_podcast_changes_">Podcastok szinkronizálása…</string>
     <string name="syncing">Szinkronizálás</string>
     <string name="current_playlist">Aktuális lejátszólista</string>
-    <string name="continue_to_next_playlist">Folytassa a következő lejátszólistával</string>
+    <string name="continue_to_next_playlist">Folytatás a következő lejátszólistával</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
     <string name="disable_manual_sorting">Manuális rendezés letiltása</string>
     <string name="enable_manual_sorting">Manuális rendezés engedélyezése</string>
@@ -867,7 +867,7 @@
     <string name="smart_update">Okos frissítés</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Csak a podcast legújabb epizódjának befejezése után ellenőrzi az új epizódokat</string>
     <string name="click_on_the_tab_again_to_view_download_actions">Kattintson ismételten a fülre a letöltési műveletek megtekintéséhez</string>
-    <string name="remember_volume_level">Emlékezzen a hangerőszintre</string>
+    <string name="remember_volume_level">Emlékezés a hangerőszintre</string>
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Emlékezzen a legutóbbi hangerőszintre, és a lejátszás megkezdésekor állítsa vissza azt</string>
     <string name="metered_network">\"Metered\" hálózat</string>
     <string name="allow_to_download_over_metered_network">Letöltés \"metered\" hálózaton keresztül</string>
@@ -983,7 +983,7 @@
     <string name="remove_played_episode">Lejátszott epizód eltávolítása</string>
     <string name="remove_the_episode_from_playlist_after_being_played">Lejátszás után távolítsa el az epizódot a lejátszási listáról</string>
     <string name="apply_this_change_to_all_playlist_">Alkalmazza ezt a módosítást az összes lejátszólistára?</string>
-    <string name="overwrite_volume_mute_state">A hangerőnémítás állapotának felülírása</string>
+    <string name="overwrite_volume_mute_state">Hangerőnémítás állapotának felülírása</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Engedélyezze a hangerőnémítás állapotának felülírását, és állítsa vissza a legutóbbi lejátszás hangerejét</string>
     <string name="starting_podcast_update_checking">Podcast frissítések ellenőrzésének indítása.</string>
     <string name="_d_minutes">%1$d perc</string>
@@ -1164,7 +1164,7 @@
     <string name="show_selected_rss_feeds_in_widget_s">Kiválasztott RSS-hírcsatornák megjelenítése a Modulban: %s</string>
     <string name="mark_all_articles_published_after_this_article_s_as_read_">Megjelöli olvasottként a cikk [%1$s] után megjelent összes cikket?</string>
     <string name="mark_all_next_articles_as_read">Minden következő cikk megjelölése olvasottként</string>
-    <string name="use_legacy_media_notification_style">Használjon régi média értesítési stílust</string>
+    <string name="use_legacy_media_notification_style">Régi média értesítési stílus használata</string>
     <string name="use_legacy_media_notification_style_before_android_11">Használjon régi médiaértesítési stílust Android 11 előtti rendszereken</string>
     <string name="save_up_next_to">A Következők mentése…</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Megjelöli a [%1$s] epizódnál korábban megjelent összes epizódot le nem játszottként?</string>

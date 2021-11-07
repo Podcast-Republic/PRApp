@@ -1198,6 +1198,7 @@
     <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
     <string name="mark_podcasts_as_played">Mark podcasts as played</string>
     <string name="mark_all_articles_as_read">Mark all articles as read</string>
+    <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
     <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
     <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>

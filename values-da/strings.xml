@@ -1187,4 +1187,5 @@
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
     <string name="media_buttons">Media buttons</string>
+    <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
 </resources>

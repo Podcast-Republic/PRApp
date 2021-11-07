@@ -331,7 +331,7 @@
     <string name="podcast_feed_url">Podcast URL</string>
     <string name="no_podcast_found_">Nem található podcast!</string>
     <string name="find_podcast">Podcast keresése</string>
-    <string name="authentication">Azonosítás</string>
+    <string name="authentication">Fiók azonosítás</string>
     <string name="http">HTTP</string>
     <string name="password">Jelszó</string>
     <string name="username">Felhasználónév</string>
@@ -470,7 +470,7 @@
     <string name="swipe_up_to_play_next_in_playlist">Csúsztatás fel: ugrás a lista következő elemére</string>
     <string name="swipe_to_left_to_fast_rewind">Csúsztatás balra: visszatekerés</string>
     <string name="swipe_to_right_to_fast_forward">Csúsztatás jobbra: előretekerés</string>
-    <string name="remove_subscription_to_">Leiratkozás innen: [ %1$s ]</string>
+    <string name="remove_subscription_to_">Leiratkozás erről: [ %1$s ]</string>
     <string name="data_roaming">Adatforgalom</string>
     <string name="allow_to_download_with_data_services_when_roaming">Roaming közben is engedje a letöltést</string>
     <string name="up_next">Következő</string>
@@ -480,7 +480,7 @@
     <string name="grid_size">Ikonrács mérete</string>
     <string name="play_pause_double_click">Lejátszás / Szünet dupla kattintással</string>
     <string name="total_episodes_d">Összes epizód: %1$d</string>
-    <string name="duration">Hossz</string>
+    <string name="duration">Időtartam</string>
     <string name="browse_downloads">Letöltések böngészése</string>
     <string name="browse_by_playlist">Lejátszólisták böngészése</string>
     <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">A visszaállított epizódok elvesztik az eddigi adatokat, és a feed alapján újratöltődnek</string>
@@ -492,7 +492,7 @@
     <string name="enjoy_podcast_republic">Tetszik a Podcast Republic?</string>
     <string name="select_an_image_on_device">Válasszon képet a készülékéről</string>
     <string name="youtube_type">YouTube típus</string>
-    <string name="scanning_">Szkennelés…</string>
+    <string name="scanning_">Átvizsgálás…</string>
     <string name="playback_speed">Lejátszási sebesség</string>
     <string name="keep_playing">Folyamatos lejátszás, normál mód</string>
     <string name="play_from_position">Lejátszás pozíciótól</string>
@@ -691,7 +691,7 @@
     <string name="_download_location">- Letöltés helye</string>
     <string name="_auto_backup_location">- Auto backup helye</string>
     <string name="clean_up">Tisztítás</string>
-    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">A következő fájlok találhatóak a letöltési könyvtárban, de nem kapcsolódnak semmilyen letöltéshez. A \"Tisztítás\" gomb megnyomásával eltávolíthatja őket.</string>
+    <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">A következő fájlok a letöltési könyvtárban nem kapcsolódnak semmilyen letöltéshez. A \"Tisztítás\" gomb megnyomásával eltávolíthatja őket.\n</string>
     <string name="tags">Címkék</string>
     <string name="casting">Casting</string>
     <string name="chapter_d">Fejezet #%d</string>
@@ -782,7 +782,7 @@
     <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">Ez a fejezet nem szerkeszthető. Csak a felhasználó által hozzáadott fejezetek szerkeszthetők.</string>
     <string name="import_downloads">Letöltések importálása</string>
     <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">Letöltések importálása adott könyvtárból. Ez a művelet csak az alkalmazás által korábban letöltött podcast-fájlokat importálja.</string>
-    <string name="available_free_space_s">Rendelkezésre álló szabad terület: %s</string>
+    <string name="available_free_space_s">Rendelkezésre álló szabad terület:\n%s</string>
     <string name="playback">Lejátszás</string>
     <string name="background_services">Háttérszolgáltatások</string>
     <string name="general_notifications">Általános értesítések</string>
@@ -799,7 +799,7 @@
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Az elalvási időzítő automatikus bekapcsolása, amikor a lejátszás elindul</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Adatok szinkronizálása csak WiFi hálózathoz csatlakozva történik</string>
     <string name="syncing_via_wifi_only">Szinkronizálás csak WiFi-n</string>
-    <string name="total_downloaded_file_size_s">A letöltött fájl teljes mérete: %s</string>
+    <string name="total_downloaded_file_size_s">A letöltött fájlok teljes mérete:\n%s</string>
     <string name="featured">Kiemelt</string>
     <string name="polular">Népszerű</string>
     <string name="select_episodes_from_today">Válasszon epizódokat a mai napiakból</string>
@@ -885,7 +885,7 @@
     <string name="check_rss_feed_update">Ellenőrizze az RSS-hírcsatorna frissítését</string>
     <string name="_is_not_found_add_this_rss_feed_">[%1$s] nem található. Hozzáadja az RSS-hírcsatornát URL alapján?</string>
     <string name="add_a_rss_feed_by_url">RSS-hírcsatorna hozzáadása URL alapján</string>
-    <string name="mark_as_read">hallgatottnak jelölés</string>
+    <string name="mark_as_read">Hallgatottnak jelölés</string>
     <string name="new_articles_available">Új RSS cikkek érhetők el</string>
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">WiFi nem elérhető. Az RSS-hírcsatorna frissítések ellenőrzésének megszakítása.</string>
     <string name="add_rss_feeds">RSS-hírcsatornák hozzáadása</string>
@@ -1002,7 +1002,7 @@
     <string name="ignore_articles_in_title">Névelők figyelmen kívül hagyása</string>
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Cím szerinti rendezéskor figyelmen kívül hagyja a podcast címében található névelőket (A, An vagy The)</string>
     <string name="create_shortcut">Indítóikon létrehozása</string>
-    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Engedélyezi a mobiladat-használatot, és figyelmen kívül hagyja az akkura vonatkozó korlátozásokat az epizódok letöltésekor.</string>
+    <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Engedélyezi a mobiladat-használatot, és figyelmen kívül hagyja az akkura vonatkozó korlátozásokat az epizódok letöltésekor</string>
     <string name="show_play_next_episode_station_button">Következő epizód lejátszása gomb megjelenítése</string>
     <string name="append_to_up_next">Hozzáadás a Következőkhöz</string>
     <string name="only_include_episodes_with_user_notes">Csak felhasználói megjegyzéseket tartalmazó epizódokat tartalmazzon</string>

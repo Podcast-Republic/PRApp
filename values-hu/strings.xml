@@ -1186,9 +1186,9 @@
     <string name="mark_all_rss_feeds_as_read">Összes jelölése olvasottként</string>
     <string name="mark_all_d_rss_feeds_as_read">Megjelöli mind a %d hírcsatornát olvasottként?</string>
     <string name="mark_episode_as_unplayed">Epizód megjelölése le nem játszottként</string>
-    <string name="moving_downloads_failed">Moving downloads failed</string>
-    <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
-    <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
-    <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
+    <string name="moving_downloads_failed">Letöltések áthelyezése nem sikerült</string>
+    <string name="some_downloads_are_not_moved_to_s">Pár letöltés nem került át ide: %s</string>
+    <string name="html_notation">HTML jelölés</string>
+    <string name="media_buttons">Média gombok</string>
+    <string name="mark_rss_feeds_as_read">Hírcsatornák jelölése olvasottként</string>
 </resources>

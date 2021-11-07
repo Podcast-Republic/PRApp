@@ -1182,4 +1182,9 @@
     <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
     <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
     <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
+    <string name="moving_downloads_failed">Moving downloads failed</string>
+    <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
+    <string name="html_notation">HTML notation</string>
+    <string name="media_buttons">Media buttons</string>
+    <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
 </resources>

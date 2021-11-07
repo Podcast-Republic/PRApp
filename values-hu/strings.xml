@@ -86,7 +86,7 @@
         <item>Venezuela</item>
         <item>Vietnam</item>
     </string-array>
-    
+
     <string name="app_name">Podcast Republic</string>
     <string name="pref_auto_delete_played_summary">Lejátszott elemek automatikus törlése a letöltésekből</string>
     <string name="pref_downloadLocation">Letöltési mappa:</string>
@@ -1111,7 +1111,7 @@
     <string name="feed_title_can_not_be_empty_">A hírcsatorna címe nem lehet üres!</string>
     <string name="rss_feed_url_can_not_be_empty_">Az RSS hírcsatorna URL-je nem lehet üres!</string>
     <string name="no_rss_feeds_found_">Nem található RSS hírcsatorna!</string>
-   <string name="remove_obsolete_episodes">Elavult epizódok eltávolítása</string>
+    <string name="remove_obsolete_episodes">Elavult epizódok eltávolítása</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Elavult, a podcast feedben már nem szerepelő epizódok eltávolítása</string>
     <string name="mark_as_played">Lejátszottnak jelölés</string>
     <string name="swipe_left_action">Balra csúsztatás</string>
@@ -1186,4 +1186,9 @@
     <string name="mark_all_rss_feeds_as_read">Összes jelölése olvasottként</string>
     <string name="mark_all_d_rss_feeds_as_read">Megjelöli mind a %d hírcsatornát olvasottként?</string>
     <string name="mark_episode_as_unplayed">Epizód megjelölése le nem játszottként</string>
+    <string name="moving_downloads_failed">Moving downloads failed</string>
+    <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
+    <string name="html_notation">HTML notation</string>
+    <string name="media_buttons">Media buttons</string>
+    <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
 </resources>

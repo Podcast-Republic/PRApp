@@ -543,7 +543,7 @@
     <string name="no_schedule_available">K dispozícii nie je žiadny plán</string>
     <string name="browse_by_subscriptions">Prehliadať odbery</string>
     <string name="browse_by_radio_stations">Prehliadať rádiá</string>
-    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">Wi-Fi nie je k dispozícii. Ruší sa aktualizácie podcastov.</string>
+    <string name="wifi_is_not_available_cancelling_podcast_update_checking_">Wi-Fi nie je k dispozícii. Rušia sa aktualizácie podcastov.</string>
     <string name="pull_to_refresh">Potiahnutím obnoviť</string>
     <string name="pull_down_the_playlist_to_start_podcast_update_checking">Potiahnutím playlistu nadol spustíte aktualizáciu podcastu</string>
     <string name="pull_down_download_list_to_start_podcast_update_checking">Potiahnutím zoznamu sťahovaných súborov nadol spustíte aktualizáciu podcastu</string>
@@ -639,7 +639,7 @@
     <string name="no_user_notes_found">Neboli nájdené žiadne poznámky používateľa.</string>
     <string name="no_episode_description_found">Nenašiel sa žiadny popis epizódy.</string>
     <string name="or">Alebo</string>
-    <string name="up_next_list_has_been_updated_to_play_from_s">Zoznam Nasleduje bol aktualizovaný pre prehrávanie od: %s</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">Zoznam Nasleduje bol aktualizovaný pre prehrávanie z: %s</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">Urobiť úplnú synchronizáciu. Dokončenie bude trvať oveľa dlhšie.</string>
     <string name="buy_me_a_coffee_message">Ak radi používate aplikáciu Podcast Republic a chcete podporiť jej vývoj, môžete mi kúpiť šálku kávy. Ďakujem!</string>
     <string name="maybe_later">Možno neskôr</string>
@@ -1200,4 +1200,9 @@
     <string name="mark_all_rss_feeds_as_read">Označiť všetky zdroje ako prečítané</string>
     <string name="mark_all_d_rss_feeds_as_read">Označiť všetky kanály (%d) ako prečítané?</string>
     <string name="mark_episode_as_unplayed">Označiť epizódu ako prehratú</string>
+    <string name="moving_downloads_failed">Presúvanie stiahnutých súborov zlyhalo</string>
+    <string name="some_downloads_are_not_moved_to_s">Niektoré stiahnuté súbory nie sú presunuté do: %s</string>
+    <string name="html_notation">HTML zápis</string>
+    <string name="media_buttons">Mediálne tlačidlá</string>
+    <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
 </resources>

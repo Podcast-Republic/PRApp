@@ -215,7 +215,7 @@
     <string name="car_mode">Autó mód</string>
     <string name="update_artwork">Borító grafika frissítése</string>
     <string name="enter_new_artwork_url">Adjon meg egy új borító grafika URL címet</string>
-    <string name="sleep_timer">Alvó üzemmód időzítő</string>
+    <string name="sleep_timer">Elalvási üzemmód időzítő</string>
     <string name="last_updated_s">Legutóbbi frissítés: %1$s</string>
     <string name="fast_forward">Gyors előretekerés</string>
     <string name="fast_rewind">Gyors visszatekerés</string>
@@ -385,7 +385,7 @@
     <string name="import_sub_directory">Alkönyvtár importálása</string>
     <string name="failed_downloads">Hibás</string>
     <string name="subscribe_on_podcast_republic">A Podcast Republic-on való előfizetés</string>
-    <string name="dim_screen_but_keep_screen_responsive">Alacsony fényerőre kapcsolás</string>
+    <string name="dim_screen_but_keep_screen_responsive">Alacsonyabb fényerő beállítása</string>
     <string name="chapters">Fejezetek</string>
     <string name="no_chapter_marks_found">Könyvjelzők nem találhatók.</string>
     <string name="keep_latest_n_downloads">Tartsa meg a legújabb %1$d letöltést</string>
@@ -412,7 +412,7 @@
     <string name="view_episode">Epizód részletek</string>
     <string name="episode_url_has_been_copied_to_clipboard">Az epizód URL a vágólapra másolva</string>
     <string name="dim_screen">Fényerő csökkentése</string>
-    <string name="keep_screen_always_on">Tartsa a képernyőt mindig bekapcsolva</string>
+    <string name="keep_screen_always_on">Tartsa a képernyőt folyamatosan bekapcsolva</string>
     <string name="completed_downloads">Befejezett</string>
     <string name="top_charts">Toplisták</string>
     <string name="browse_top_charts">Toplisták böngészése</string>
@@ -467,7 +467,7 @@
     <string name="generated_by_s_app">A %1$s alkalmazás által generált.</string>
     <string name="auto_backup">Automatikus biztonsági mentés</string>
     <string name="double_tap_to_play_or_pause">Duplakopp lejátszás/szünet</string>
-    <string name="swipe_up_to_play_next_in_playlist">Csúsztatás fel: ugrás a lista következő elemére</string>
+    <string name="swipe_up_to_play_next_in_playlist">Csúsztatás fel: a lista következő elemére</string>
     <string name="swipe_to_left_to_fast_rewind">Csúsztatás balra: visszatekerés</string>
     <string name="swipe_to_right_to_fast_forward">Csúsztatás jobbra: előretekerés</string>
     <string name="remove_subscription_to_">Leiratkozás erről: [ %1$s ]</string>
@@ -672,7 +672,7 @@
     <string name="add_a_youtube_channel_or_playlist_as_a_podcast">YouTube-csatorna vagy lejátszási lista hozzáadása podcastként.</string>
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Virtuális podcast beállítása zenék vagy hangoskönyvek lejátszásához az eszközön.</string>
     <string name="click_to_adjust_playback_speed">Kattintson ide a lejátszási sebesség beállításához</string>
-    <string name="click_to_set_up_sleep_timer">Kattintson ide az elalvás időzítő beállításához</string>
+    <string name="click_to_set_up_sleep_timer">Kattintson ide az elalvási időzítő beállításához</string>
     <string name="click_to_select_playback_mode">Kattintson ide a lejátszási mód kiválasztásához</string>
     <string name="percetage_value">%d%%</string>
     <string name="select_episodes">Epizódok kiválasztása</string>
@@ -961,7 +961,7 @@
     <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">Ha nincs kiválasztva ismétlődési nap, a riasztás csak egyszer szólal meg.</string>
     <string name="not_in_downloads_list">Nincs a Letöltési listában</string>
     <string name="reversed_landscape">Fordított tájolás</string>
-    <string name="reset_sleep_timer">Alvási időzítő alaphelyzetbe</string>
+    <string name="reset_sleep_timer">Elalvási időzítő alaphelyzetbe</string>
     <string name="toggle_playback_speed_on_off">Lejátszási sebesség átkapcsolása ki/be</string>
     <string name="there_are_no_episodes_with_notes_">Nincsenek jegyzetekkel ellátott epizódok!</string>
     <string name="there_are_no_deleted_episodes_">Nincsenek törölt epizódok!</string>
@@ -1061,8 +1061,8 @@
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Az elalvási időzítő automatikus szüneteltetése, amikor a lejátszás szünetel</string>
     <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
     <string name="_d_db">%1$d dB</string>
-    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Az elalvás időzítő automatikus bekapcsolása, ha elkezd lejátszani a megadott [%1$s - %2$s] időpontok között</string>
-    <string name="schedule_sleep_time">Alvási idő ütemezése</string>
+    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Az elalvási időzítő automatikus bekapcsolása, ha elkezd lejátszani a megadott [%1$s - %2$s] időpontok között</string>
+    <string name="schedule_sleep_time">Elalvási idő ütemezése</string>
     <string name="error_start_time_and_end_time_can_not_be_same_">Hiba: A \"Kezdési\" és a \"Befejezési időpont\" nem lehet azonos!</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
     <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Audioeffektusok alkalmazása az összes podcastra és rádióállomásra?</string>
@@ -1078,7 +1078,7 @@
     <string name="delete_the_episode_filter_s">Törli az epizód szűrőt: %s?</string>
     <string name="syncing_app_setting_changes_s">Alkalmazás beállításmódosítások szinkronizálása: %1$s.</string>
     <string name="syncing_app_setting_changes_">Alkalmazás beállításmódosítások szinkronizálása…</string>
-    <string name="sleep_after">Alvó üzemmód, miután</string>
+    <string name="sleep_after">Elalvási üzemmód, miután</string>
     <string name="sleep_at_time">Elalvás időpontban</string>
     <string name="export_episode_list">Epizódlista exportálása</string>
     <string name="as_html_file">HTML fájlként</string>
@@ -1147,7 +1147,7 @@
     <string name="bonus">Bónusz</string>
     <string name="trailer">Trailer</string>
     <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Elavult epizódok eltávolítása a YouTube podcastból</string>
-    <string name="retrieve_full_article_via_wifi_only">WiFi-n keresztüli teljes cikk letöltés</string>
+    <string name="retrieve_full_article_via_wifi_only">Teljes cikkletöltés csak WiFi-n</string>
     <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">Az RSS-hírcsatornák frissítésekor csak akkor kérje le a teljes cikket, ha csatlakozik WiFi-hálózathoz</string>
     <string name="retrieve_full_article">Teljes cikk letöltése</string>
     <string name="article_publishing_date">Cikk megjelenési dátuma</string>
@@ -1174,7 +1174,7 @@
     <string name="use_default_chapter_title">Alapértelmezett fejezetcím formátum.</string>
     <string name="grid_spacing">Rácstávolság</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[A <b>Letöltés</b> nem tudja használni a letöltési könyvtárat. Válasszon könyvtárat a belső tárhelyen vagy az SD-kártyán.]]></string>
-    <string name="set_sleep_timer_after_this_episode">Alvási időzítő bekapcsolása az epizód után</string>
+    <string name="set_sleep_timer_after_this_episode">Elalvási időzítő bekapcsolása az epizód után</string>
     <string name="mark_all_d_episodes_as_played">Megjelöli mind a %d epizódot lejátszottként?</string>
     <string name="mark_all_d_episodes_as_unplayed">Megjelöli mind a %d epizódot nem lejátszottként?</string>
     <string name="mark_all_d_podcasts_as_played">Megjelöli mind a %d podcastot lejátszottként?</string>

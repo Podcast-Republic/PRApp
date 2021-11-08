@@ -1191,4 +1191,5 @@
     <string name="html_notation">HTML jelölés</string>
     <string name="media_buttons">Média gombok</string>
     <string name="mark_rss_feeds_as_read">Hírcsatornák jelölése olvasottként</string>
+    <string name="ask_me_for_action">Ask me for action</string>
 </resources>

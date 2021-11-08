@@ -1021,7 +1021,7 @@
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Pri zoradení podľa názvu podcastu ignorovať členy (A, An alebo The)</string>
     <string name="create_shortcut">Vytvoriť odkaz</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Povolí používať mobilné dáta a ignorovať šetrenie batérie pri sťahovaní epizód.</string>
-    <string name="show_play_next_episode_station_button">Zobraziť tlačidlo Prehrať ďalšiu epizódu/stanicu</string>
+    <string name="show_play_next_episode_station_button">Zobraziť tlačidlo Prehrať ďalšiu epizódu/stanicu.</string>
     <string name="append_to_up_next">Pridať k Nasleduje</string>
     <string name="only_include_episodes_with_user_notes">Zahrnúť len epizódy s poznámkami</string>
     <string name="description_preview">Náhľad popisu</string>
@@ -1205,4 +1205,5 @@
     <string name="html_notation">HTML zápis</string>
     <string name="media_buttons">Mediálne tlačidlá</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
+    <string name="ask_me_for_action">Ask me for action</string>
 </resources>

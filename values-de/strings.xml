@@ -999,7 +999,7 @@
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignoriere bei der Sortierung nach Titel die Artikel (A, An oder The) im Podcast-Titel</string>
     <string name="create_shortcut">Verknüpfung erstellen</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Erlauben Sie die Verwendung mobiler Daten und ignorieren Sie die Akkubeschränkungen beim Herunterladen von Episoden.</string>
-    <string name="show_play_next_episode_station_button">Nächste Episode/Sender abspielen anzeigen</string>
+    <string name="show_play_next_episode_station_button">Nächste Episode/Sender abspielen anzeigen.</string>
     <string name="append_to_up_next">"An 'Als Nächstes' unten anhängen"</string>
     <string name="only_include_episodes_with_user_notes">Nur Episoden mit Benutzernotizen aufnehmen</string>
     <string name="description_preview">Beschreibungsvorschau</string>
@@ -1187,4 +1187,5 @@
     <string name="html_notation">HTML notation</string>
     <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
+    <string name="ask_me_for_action">Ask me for action</string>
 </resources>

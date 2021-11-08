@@ -861,7 +861,7 @@
     <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Lejátszáskor a letöltött podcast fájl eltávolítása le lesz tiltva</string>
     <string name="view_all_your_episode_filters">Összes epizódszűrő megtekintése</string>
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Kattintson ismételten a fülre az összes epizódszűrő megtekintéséhez</string>
-    <string name="stop_playing_when_time_is_up">A lejátszás megállítása az idő letelte után</string>
+    <string name="stop_playing_when_time_is_up">A lejátszás megállítása időtartam leteltekor</string>
     <string name="sleep_timer_fired_stop_playing_">Az elalvási időzítő aktív, a lejátszás megáll!</string>
     <string name="play_all_from_new_to_old">Összes lejátszása újaktól a régiekig</string>
     <string name="smart_update">Okos frissítés</string>
@@ -1171,7 +1171,7 @@
     <string name="mark_all_previous_episodes_as_unplayed">Korábbi epizódok megjelölése nem lejátszottként</string>
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
-    <string name="use_default_chapter_title">Alapértelmezett fejezetcím formátum.</string>
+    <string name="use_default_chapter_title">Alapértelmezett fejezetcím formátum</string>
     <string name="grid_spacing">Rácstávolság</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[A <b>Letöltés</b> nem tudja használni a letöltési könyvtárat. Válasszon könyvtárat a belső tárhelyen vagy az SD-kártyán.]]></string>
     <string name="set_sleep_timer_after_this_episode">Elalvási időzítő bekapcsolása az epizód után</string>

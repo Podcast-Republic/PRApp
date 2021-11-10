@@ -145,7 +145,7 @@
     <string name="remove_selection_s_from_download_list">Kijelöltek eltávolítása a letöltésekből</string>
     <string name="no_episode_selected">Nincs epizód kijelölve</string>
     <string name="set_played">Lejátszottnak jelölés</string>
-    <string name="set_unplayed">Le nem játszottnak jelölés</string>
+    <string name="set_unplayed">Nem lejátszottnak jelölés</string>
     <string name="delete_episode">Epizód törlése</string>
     <string name="One_episode_has_been_added_to_playlist">Egy epizód hozzáadva a lejátszólistához</string>
     <string name="episodes_have_been_added_to_playlist">%1$d epizód hozzáadva a lejátszólistához</string>
@@ -188,7 +188,7 @@
     <string name="sort_by">Rendezés…</string>
     <string name="last_updated_time">Utolsó frissítés ideje</string>
     <string name="most_recent_count">Legutóbbi darabszám</string>
-    <string name="total_unplayed_count">Le nem játszottak száma</string>
+    <string name="total_unplayed_count">Nem lejátszottak száma</string>
     <string name="refresh">Frissítés</string>
     <string name="stream">Stream</string>
     <string name="remove">Eltávolítás</string>
@@ -408,7 +408,7 @@
     <string name="search_podcasts">Podcastok keresése</string>
     <string name="reset_episodes">Epizódok visszaállítása</string>
     <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">Figyelmeztetés: az epizód adatok visszaállítása törli a letöltött podcastot!</string>
-    <string name="copy_url">URL Másolása</string>
+    <string name="copy_url">URL másolása</string>
     <string name="view_episode">Epizód részletek</string>
     <string name="episode_url_has_been_copied_to_clipboard">Az epizód URL a vágólapra másolva</string>
     <string name="dim_screen">Fényerő csökkentése</string>
@@ -653,7 +653,7 @@
     <string name="show_podcast_title">Mutassa a podcast címét</string>
     <string name="hide_podcast_title">Rejtse el a podcast címét</string>
     <string name="no_download_directory_prompt_message">Még nem állított be letöltési könyvtárat. Most beállítja?</string>
-    <string name="at_least_one_playlist_is_required_">Legalább egy lejátszási lista szükséges!</string>
+    <string name="at_least_one_playlist_is_required_">Legalább egy lejátszólista szükséges!</string>
     <string name="manage_tags">Címkék kezelése</string>
     <string name="episode_filters">Epizódszűrők</string>
     <string name="manage_episode_filters">Epizódszűrők kezelése</string>
@@ -669,7 +669,7 @@
 
     <string name="you_have_subscribed_to_s">Ön előfizetett erre: %s</string>
     <string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">Hoppá, nem található podcast! Podcast hozzáadásához nyomja meg a (+) gombot a címsorban.</string>
-    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">YouTube-csatorna vagy lejátszási lista hozzáadása podcastként.</string>
+    <string name="add_a_youtube_channel_or_playlist_as_a_podcast">YouTube-csatorna vagy lejátszólista hozzáadása podcastként.</string>
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Virtuális podcast beállítása zenék vagy hangoskönyvek lejátszásához az eszközön.</string>
     <string name="click_to_adjust_playback_speed">Kattintson ide a lejátszási sebesség beállításához</string>
     <string name="click_to_set_up_sleep_timer">Kattintson ide az elalvási időzítő beállításához</string>
@@ -808,7 +808,7 @@
     <string name="apply_to_all_radio_stations">Használja az összes rádióállomásra</string>
     <string name="apply_to_current_radio_station">Használja az aktuális rádióállomásra</string>
     <string name="skip_silence">Csend átugrása</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Max %d újabb és le nem játszott epizód automatikus letöltése az aktuálisan lejátszott podcastból</string>
+    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Max %d újabb és nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból</string>
     <string name="smart_download">Okos letöltés</string>
     <string name="download_anyway">Mindenképp töltse le</string>
     <string name="download_anyway_message">Hagyja figyelmen kívül a WiFi és az akkumulátor beállításokat, töltse le az epizódot az aktuális hálózati kapcsolattal most! Ez igénybe veheti mobiladat forgalmat és az akkumulátort merítheti. Folytatja?</string>
@@ -948,7 +948,7 @@
     <string name="find_rss_feed">RSS hírcsatorna keresése</string>
     <string name="there_are_no_rss_feeds">Nincsenek RSS-hírcsatornák!</string>
     <string name="got_it">Mehet</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">Átrendezte a Következő listát. Ennek eredményeként az Következők nem lesznek szinkronizálva az éppen lejátszott epizódlistával vagy lejátszási listával.</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">Átrendezte a Következő listát. Ennek eredményeként az Következők nem lesznek szinkronizálva az éppen lejátszott epizódlistával vagy lejátszólistával.</string>
     <string name="don_t_show_it_again">Legközelebb ne mutassa.</string>
     <string name="always_on">Always on (AOD)</string>
     <string name="always_on_amoled_black">Always on (AMOLED fekete)</string>
@@ -996,7 +996,7 @@
     <string name="clear_the_recents_list_">Törli a Legutóbbiak listát?</string>
     <string name="clear_the_list">Lista törlése</string>
     <string name="play_as_video">Lejátszás videóként</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Akár %d régebbi, még le nem játszott epizód automatikus letöltése az aktuálisan lejátszott podcastból</string>
+    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Akár %d régebbi, még nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból</string>
     <string name="select_all_below">Összes lentebbi kiválasztása</string>
     <string name="select_all_above">Összes fentebbi kiválasztása</string>
     <string name="ignore_articles_in_title">Névelők figyelmen kívül hagyása</string>
@@ -1019,7 +1019,7 @@
     <string name="unpin_from_top">Kitűzés eltávolítása</string>
     <string name="only_include_episodes_with_user_chapters">Csak felhasználói fejezetekkel rendelkező epizódokat tartalmazzon</string>
     <string name="add_tags_to_podcasts">Címkék hozzáadása a podcasthoz</string>
-    <string name="add_new_episodes_to_selected_playlists_automatically_">Új epizódok automatikus hozzáadása a kiválasztott lejátszási listákhoz</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Új epizódok automatikus hozzáadása a kiválasztott lejátszólistákhoz</string>
     <string name="podcast_artwork">Podcast grafika</string>
     <string name="rss_feed_artwork">RSS hírcsatorna grafika</string>
     <string name="add_tags_to_rss_feed">Címkék hozzáadása az RSS-hírcsatornához</string>
@@ -1066,14 +1066,14 @@
     <string name="error_start_time_and_end_time_can_not_be_same_">Hiba: A \"Kezdési\" és a \"Befejezési időpont\" nem lehet azonos!</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
     <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Audioeffektusok alkalmazása az összes podcastra és rádióállomásra?</string>
-    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Lehetővé teszi a legrégebbi le nem játszott epizódok letöltését, ha nem található újabb le nem játszott epizód.</string>
-    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Lehetővé teszi a legújabb le nem játszott epizódok letöltését, ha nem található régebbi le nem játszott epizód.</string>
+    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Lehetővé teszi a legrégebbi nem lejátszott epizódok letöltését, ha nem található újabb nem lejátszott epizód.</string>
+    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Lehetővé teszi a legújabb nem lejátszott epizódok letöltését, ha nem található régebbi nem lejátszott epizód.</string>
     <string name="website">Weboldal</string>
     <string name="allow_to_sort_playlist_manually">Engedélyezi a lejátszólisták kézi rendezését</string>
     <string name="preview_descriptions_in_list">Leírások előnézete a listában</string>
     <string name="auto_load_last_played_episode">Legutóbb lejátszott epizód aut. betöltése</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \'Most lejátszott\' mappába</string>
-    <string name="delete_the_playlist_s">Törli ezt a lejátszási listát: %s?</string>
+    <string name="delete_the_playlist_s">Törli ezt a lejátszólistát: %s?</string>
     <string name="delete_the_tag_s">Törli ezt a címkét: %s?</string>
     <string name="delete_the_episode_filter_s">Törli az epizód szűrőt: %s?</string>
     <string name="syncing_app_setting_changes_s">Alkalmazás beállításmódosítások szinkronizálása: %1$s.</string>
@@ -1125,7 +1125,7 @@
     <string name="adjust_playback_position">Lejátszási pozíció beállítása</string>
     <string name="allow_to_change_playback_position_from_notification_">Lejátszási pozíció módosításának engedélyezése értesítésből</string>
     <string name="zoom_image">Kép nagyítása</string>
-    <string name="mark_all_as_unplayed">Összes megjelölése le nem játszottként</string>
+    <string name="mark_all_as_unplayed">Összes megjelölése nem lejátszottként</string>
     <string name="default_playlist">Alapértelmezett lejátszólista</string>
     <string name="use_this_playlist_as_the_default_playlist">Használja ezt a listát alapértelmezett lejátszólistaként.</string>
     <string name="article_unique_criteria">A cikk egyedi kritériumai</string>
@@ -1138,7 +1138,7 @@
     <string name="display_completed_downloads_list">Befejeződött letöltések megjelenítése</string>
     <string name="display_episode_filters_list">Epizódszűrők megjelenítése</string>
     <string name="display_radio_stations_list">Rádióállomások megjelenítése</string>
-    <string name="view_unplayed_episodes">Le nem játszott epizódok megjelenítése</string>
+    <string name="view_unplayed_episodes">Nem lejátszott epizódok megjelenítése</string>
     <string name="view_downloaded_episodes">Letöltött epizódok megjelenítése</string>
     <string name="unreviewed">Nem véleményezett</string>
     <string name="posted">Beküldött</string>
@@ -1167,7 +1167,7 @@
     <string name="use_legacy_media_notification_style">Régi média értesítési stílus használata</string>
     <string name="use_legacy_media_notification_style_before_android_11">Használjon régi médiaértesítési stílust Android 11 előtti rendszereken</string>
     <string name="save_up_next_to">A Következők mentése…</string>
-    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Megjelöli a [%1$s] epizódnál korábban megjelent összes epizódot le nem játszottként?</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Megjelöli a [%1$s] epizódnál korábban megjelent összes epizódot nem lejátszottként?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Korábbi epizódok megjelölése nem lejátszottként</string>
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
@@ -1185,7 +1185,7 @@
     <string name="mark_all_articles_as_read">Összes jelölése olvasottként</string>
     <string name="mark_all_rss_feeds_as_read">Összes jelölése olvasottként</string>
     <string name="mark_all_d_rss_feeds_as_read">Megjelöli mind a %d hírcsatornát olvasottként?</string>
-    <string name="mark_episode_as_unplayed">Epizód megjelölése le nem játszottként</string>
+    <string name="mark_episode_as_unplayed">Epizód megjelölése nem lejátszottként</string>
     <string name="moving_downloads_failed">Letöltések áthelyezése nem sikerült</string>
     <string name="some_downloads_are_not_moved_to_s">Pár letöltés nem került át ide: %s</string>
     <string name="html_notation">HTML jelölés</string>

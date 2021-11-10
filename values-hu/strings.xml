@@ -782,7 +782,7 @@
     <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">Ez a fejezet nem szerkeszthető. Csak a felhasználó által hozzáadott fejezetek szerkeszthetők.</string>
     <string name="import_downloads">Letöltések importálása</string>
     <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">Letöltések importálása adott könyvtárból. Ez a művelet csak az alkalmazás által korábban letöltött podcast-fájlokat importálja.</string>
-    <string name="available_free_space_s">Rendelkezésre álló szabad terület:\n%s</string>
+    <string name="available_free_space_s">Rendelkezésre álló szabad terület: %s</string>
     <string name="playback">Lejátszás</string>
     <string name="background_services">Háttérszolgáltatások</string>
     <string name="general_notifications">Általános értesítések</string>
@@ -799,7 +799,7 @@
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Az elalvási időzítő automatikus bekapcsolása, amikor a lejátszás elindul</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Adatok szinkronizálása csak WiFi hálózathoz csatlakozva történik</string>
     <string name="syncing_via_wifi_only">Szinkronizálás csak WiFi-n</string>
-    <string name="total_downloaded_file_size_s">A letöltött fájlok teljes mérete:\n%s</string>
+    <string name="total_downloaded_file_size_s">A letöltött fájlok teljes mérete: %s</string>
     <string name="featured">Kiemelt</string>
     <string name="polular">Népszerű</string>
     <string name="select_episodes_from_today">Válasszon epizódokat a mai napiakból</string>
@@ -894,7 +894,7 @@
     <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">A hírcsatorna visszaállítása törli a gyorsítótárazott adatokat, és újraépíti azt az RSS hírcsatornából!</string>
     <string name="mark_all_previous_articles_as_read">Minden korábbi cikk megjelölése olvasottként</string>
     <string name="unread">Olvasatlan</string>
-    <string name="rss_feeds">RSS hírcsatorna</string>
+    <string name="rss_feeds">RSS hírcsatornák</string>
     <string name="review_submitted_">Vélemény beküldve.</string>
     <string name="add_radio_stations">Rádióállomás hozzáadása</string>
     <string name="radio_station">Rádióállomás</string>

@@ -1063,7 +1063,7 @@
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Az elalvási időzítő automatikus bekapcsolása, ha elkezd lejátszani a megadott [%1$s - %2$s] időpontok között</string>
     <string name="schedule_sleep_time">Elalvási idő ütemezése</string>
-    <string name="error_start_time_and_end_time_can_not_be_same_">Hiba: A \"Kezdési\" és a \"Befejezési időpont\" nem lehet azonos!</string>
+    <string name="error_start_time_and_end_time_can_not_be_same_">Hiba: A \"Kezdő\" és \"Befejező\" időpont nem lehet azonos!</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
     <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Audioeffektusok alkalmazása az összes podcastra és rádióállomásra?</string>
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Lehetővé teszi a legrégebbi nem lejátszott epizódok letöltését, ha nem található újabb nem lejátszott epizód.</string>

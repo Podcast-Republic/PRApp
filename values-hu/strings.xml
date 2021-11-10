@@ -533,9 +533,9 @@
     <string name="streaming">Streaming</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">Adja meg a felhasználónevet és jelszót, ha a podcast hitelesítést igényel. Hagyja a mezőket üresen, ha nem szükséges hitelesítés.</string>
     <string name="can_not_play_ps">Nem sikerült lejátszani a következőt: %s</string>
-    <string name="percent_file_size">%1$d%%%2$s%3$s</string>
+    <string name="percent_file_size">%1$d%% %2$s%3$s</string>
     <string name="unknown_percent_file_size">%1$s - %2$s</string>
-    <string name="percent_played">%1$d %% lejátszott</string>
+    <string name="percent_played">%1$d%% lejátszott</string>
     <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Az előfizetési listát lehúzva frissítés</string>
     <string name="actions">Műveletek</string>
     <string name="when_an_episode_is_100_played">Ha egy epizód végig lejátszódott</string>

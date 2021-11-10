@@ -1206,4 +1206,11 @@
     <string name="media_buttons">Mediálne tlačidlá</string>
     <string name="mark_rss_feeds_as_read">Označiť zdroje ako prečítané</string>
     <string name="ask_me_for_action">Opýtať sa na akciu</string>
+    <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
+    <string name="reset">Reset</string>
+    <string name="a_playback_error_occurred_please_try_again_later">A playback error occurred. Please try again later.</string>
+    <string name="time_unit_hour_single_letter_format">H</string>
+    <string name="time_unit_minute_single_letter_format">M</string>
+    <string name="time_unit_second_single_letter_format">S</string>
+    <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
 </resources>

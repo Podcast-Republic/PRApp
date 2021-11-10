@@ -882,7 +882,7 @@
     <string name="unreads_d">Olvasatlan: %d</string>
     <string name="total_articles_d">Összes cikk: %d</string>
     <string name="rss_feed_url">RSS hírcsatorna URL</string>
-    <string name="check_rss_feed_update">Ellenőrizze az RSS-hírcsatorna frissítését</string>
+    <string name="check_rss_feed_update">RSS-hírcsatorna frissítések ellenőrzése</string>
     <string name="_is_not_found_add_this_rss_feed_">[%1$s] nem található. Hozzáadja az RSS-hírcsatornát URL alapján?</string>
     <string name="add_a_rss_feed_by_url">RSS-hírcsatorna hozzáadása URL alapján</string>
     <string name="mark_as_read">Hallgatottnak jelölés</string>
@@ -933,7 +933,7 @@
     <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Csak akkor engedélyezett a podcastok streamelése, ha WiFi-re csatlakozik</string>
     <string name="stream_radios_via_wifi_only">Rádiók streamelése csak WiFi-n</string>
     <string name="allow_to_stream_radios_only_when_wifi_is_connected">Csak akkor engedélyezett a rádiók streamelése, ha WiFi-re csatlakozik</string>
-    <string name="history_and_stats">Előzmények és Statisztika</string>
+    <string name="history_and_stats">Előzmények és statisztika</string>
     <string name="delete_downloads">Letöltések törlése</string>
     <string name="keep_download">Letöltés megtartása</string>
     <string name="delete_episodes">Epizódok törlése</string>
@@ -1010,7 +1010,7 @@
     <string name="d_lines_of_text">%d sor</string>
     <string name="mark_current_playback_position">Aktuális pozíció megjelölése</string>
     <string name="comma">, </string>
-    <string name="pick_an_image_as_the_shortcut_icon">Válasszon egy képet a parancsikonhoz</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Kép választása a parancsikonhoz</string>
     <string name="use_default_icon">Alapértelmezett ikon használata</string>
     <string name="syncing_articles_">Cikkek szinkronizálása…</string>
     <string name="syncing_rss_feeds_">RSS-hírcsatornák szinkronizálása…</string>

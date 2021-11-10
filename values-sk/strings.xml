@@ -1204,6 +1204,6 @@
     <string name="some_downloads_are_not_moved_to_s">Niektoré stiahnuté súbory nie sú presunuté do: %s</string>
     <string name="html_notation">HTML zápis</string>
     <string name="media_buttons">Mediálne tlačidlá</string>
-    <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
-    <string name="ask_me_for_action">Ask me for action</string>
+    <string name="mark_rss_feeds_as_read">Označiť zdroje ako prečítané</string>
+    <string name="ask_me_for_action">Opýtať sa na akciu</string>
 </resources>

@@ -1003,7 +1003,7 @@
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Cím szerinti rendezéskor figyelmen kívül hagyja a podcast címében található névelőket (A, An vagy The)</string>
     <string name="create_shortcut">Indítóikon létrehozása</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Engedélyezi a mobiladat-használatot, és figyelmen kívül hagyja az akkura vonatkozó korlátozásokat az epizódok letöltésekor</string>
-    <string name="show_play_next_episode_station_button">Következő epizód lejátszása gomb megjelenítése</string>
+    <string name="show_play_next_episode_station_button">Következő epizód/állomás lejátszása gomb megjelenítése</string>
     <string name="append_to_up_next">Hozzáadás a Következőkhöz</string>
     <string name="only_include_episodes_with_user_notes">Csak felhasználói megjegyzéseket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
@@ -1192,7 +1192,7 @@
     <string name="media_buttons">Média gombok</string>
     <string name="mark_rss_feeds_as_read">Hírcsatornák jelölése olvasottként</string>
     <string name="ask_me_for_action">Kérdezzen rá</string>
-    <string name="this_will_delete_all_of_your_current_playback_stats_">Törli az összes jelenlegi lejátszási statisztikát.</string>
+    <string name="this_will_delete_all_of_your_current_playback_stats_">Törli az összes jelenlegi lejátszási statisztikát?</string>
     <string name="reset">Törlés</string>
     <string name="a_playback_error_occurred_please_try_again_later">Lejátszási hiba történt. Próbálja újra később.</string>
     <string name="time_unit_hour_single_letter_format">ó</string>

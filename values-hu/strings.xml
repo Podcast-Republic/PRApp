@@ -1192,4 +1192,12 @@
     <string name="media_buttons">Média gombok</string>
     <string name="mark_rss_feeds_as_read">Hírcsatornák jelölése olvasottként</string>
     <string name="ask_me_for_action">Kérdezzen rá</string>
+    <string name="this_will_delete_all_of_your_current_playback_stats_">Törli az összes jelenlegi lejátszási statisztikát.</string>
+    <string name="reset">Törlés</string>
+    <string name="a_playback_error_occurred_please_try_again_later">Lejátszási hiba történt. Próbálja újra később.</string>
+    <string name="time_unit_hour_single_letter_format">ó</string>
+    <string name="time_unit_minute_single_letter_format">p</string>
+    <string name="time_unit_second_single_letter_format">mp</string>
+    <string name="time_unit_second_single_letter_format_lower_case_with_value">%dmp</string>
+
 </resources>

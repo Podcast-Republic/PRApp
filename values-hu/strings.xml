@@ -175,7 +175,7 @@
     <string name="tag">Címke</string>
     <string name="updating">Frissítés…</string>
     <string name="preparing">Előkészítés</string>
-    <string name="error_no_wifi">Hiba: Nincs WiFi</string>
+    <string name="error_no_wifi">Hiba: Nincs WiFi kapcsolat</string>
     <string name="auto_download">Automatikus letöltés</string>
     <string name="playing">Most játszott</string>
     <string name="subscriptions">Előfizetések</string>
@@ -1191,12 +1191,13 @@
     <string name="html_notation">HTML jelölés</string>
     <string name="media_buttons">Média gombok</string>
     <string name="mark_rss_feeds_as_read">Hírcsatornák jelölése olvasottként</string>
-    <string name="ask_me_for_action">Ask me for action</string>
-    <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
-    <string name="reset">Reset</string>
-    <string name="a_playback_error_occurred_please_try_again_later">A playback error occurred. Please try again later.</string>
+    <string name="ask_me_for_action">Kérdezzen rá</string>
+    <string name="this_will_delete_all_of_your_current_playback_stats_">Törli az összes jelenlegi lejátszási statisztikát.</string>
+    <string name="reset">Törlés</string>
+    <string name="a_playback_error_occurred_please_try_again_later">Lejátszási hiba történt. Próbálja újra később.</string>
     <string name="time_unit_hour_single_letter_format">ó</string>
     <string name="time_unit_minute_single_letter_format">p</string>
     <string name="time_unit_second_single_letter_format">mp</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%dmp</string>
+
 </resources>

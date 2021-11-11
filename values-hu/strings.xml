@@ -906,10 +906,10 @@
     <string name="there_are_no_favorite_episodes_">Nincsenek kedvenc epizódok!</string>
     <string name="there_are_no_downloaded_episodes_">Nincsenek letöltött epizódok!</string>
     <string name="start_playing_and_go_to_now_playing">Kezdje el a lejátszást, és ugrás a Most játszott lehetőségre</string>
-    <string name="show_unplayed_counter">Nem lejátszott számláló megjelenítése</string>
-    <string name="hide_unplayed_counter">Nem lejátszott számláló elrejtése</string>
-    <string name="show_recent_counter">Legutóbbiak számláló megjelenítése</string>
-    <string name="hide_recent_counter">Legutóbbiak számláló elrejtése</string>
+    <string name="show_unplayed_counter">Nem lejátszott szám. megjelenítése</string>
+    <string name="hide_unplayed_counter">Nem lejátszott szám. elrejtése</string>
+    <string name="show_recent_counter">Legutóbbiak szám. megjelenítése</string>
+    <string name="hide_recent_counter">Legutóbbiak szám. elrejtése</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nem találhatóak rádióállomások. Hozzáadáshoz nyomja meg a Hozzáadás (+) gombot.</string>
     <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Nem találhatóak RSS hírcsatornák. Hozzáadáshoz nyomja meg a Hozzáadás (+) gombot.</string>
     <string name="tag_radios">Rádió címkék</string>

@@ -500,7 +500,7 @@
     <string name="import_export_opml">OPML Import / Export</string>
     <string name="import_from_opml_file">Importálás OPML fájlból</string>
     <string name="export_to_opml_file">Exportálás OPML fájlba</string>
-    <string name="episodes">Epizód</string>
+    <string name="episodes">Epizódok</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">[ %1$s ] epizód még töltődik. Nem lehet lejátszani.</string>
     <string name="error_episode_still_downloading">Hiba: epizód még letöltés alatt</string>
     <string name="disabled">Letiltva</string>

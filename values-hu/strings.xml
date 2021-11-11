@@ -549,7 +549,7 @@
     <string name="multi_thread_download">Többszálú letöltés</string>
     <string name="recents">Utóbbiak</string>
     <string name="group_by_podcasts">Csoportosítás podcastok alapján</string>
-    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Adja hozzá az alábbi lejátszólistákhoz, amikor hozzáad egy epizódot egy lejátszólistához</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Adja hozzá a megadott lejátszólistákhoz, amikor hozzáad egy epizódot egy lejátszólistához</string>
     <string name="compact_view">Kompakt nézet</string>
     <string name="open_source_licenses">Nyílt forráskódú licencek</string>
     <string name="can_not_play_the_downloaded_file">Nem lehet lejátszani a letöltött fájlt</string>
@@ -1019,7 +1019,7 @@
     <string name="unpin_from_top">Kitűzés eltávolítása</string>
     <string name="only_include_episodes_with_user_chapters">Csak felhasználói fejezetekkel rendelkező epizódokat tartalmazzon</string>
     <string name="add_tags_to_podcasts">Címkék hozzáadása a podcasthoz</string>
-    <string name="add_new_episodes_to_selected_playlists_automatically_">Új epizódok automatikus hozzáadása a kiválasztott lejátszólistákhoz</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Új epizódok automatikus hozzáadása a megadott lejátszólistákhoz</string>
     <string name="podcast_artwork">Podcast grafika</string>
     <string name="rss_feed_artwork">RSS hírcsatorna grafika</string>
     <string name="add_tags_to_rss_feed">Címkék hozzáadása az RSS-hírcsatornához</string>

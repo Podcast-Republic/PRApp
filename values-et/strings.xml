@@ -1197,4 +1197,5 @@
     <string name="time_unit_minute_single_letter_format">M</string>
     <string name="time_unit_second_single_letter_format">S</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
+    <string name="playback_speed_shortcuts">Quick speeds</string>
 </resources>

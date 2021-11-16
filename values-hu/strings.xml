@@ -1199,6 +1199,6 @@
     <string name="time_unit_minute_single_letter_format">p</string>
     <string name="time_unit_second_single_letter_format">mp</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%dmp</string>
-    <string name="playback_speed_shortcuts">Quick speeds</string>
+    <string name="playback_speed_shortcuts">Gyors sebességváltás</string>
 
 </resources>

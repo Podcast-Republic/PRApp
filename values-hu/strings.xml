@@ -1088,7 +1088,7 @@
     <string name="use_embedded_artwork">Beágyazott grafika használata</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Elsődlegesen a letöltött podcast fájlból származó grafika használata</string>
     <string name="display_episode_artwork_retrieved_from_media_file_">A médiafájlból letöltött epizód grafika megjelenítése.</string>
-    <string name="not_tagged">Címkézetlen</string>
+    <string name="not_tagged">Címke nélküliek</string>
     <string name="save_backup_to">Biztonsági másolat mentése ide</string>
     <string name="local_storage">Helyi tárolóeszköz</string>
     <string name="google_drive">Google Drive</string>

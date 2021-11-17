@@ -962,8 +962,8 @@
     <string name="priority_mode">Prioritný režim</string>
     <string name="stats">Štatistika</string>
     <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Počúvali ste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_d_s_b"><![CDATA[Počúvali ste: <b>%1$d</b> episodes, <b>%2$s</b>]]></string>
     <string name="since_date">Od</string>
     <string name="reset_stats">Vynulovať štatistiku</string>
     <string name="display_latest_d_episodes">Zobraziť posledné %d epizódy</string>

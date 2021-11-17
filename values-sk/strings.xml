@@ -962,8 +962,8 @@
     <string name="priority_mode">Prioritný režim</string>
     <string name="stats">Štatistika</string>
     <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Počúvali ste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></string>
+    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>]]></string>
+    <string name="you_ve_listened_b_d_s_b"><![CDATA[Počúvali ste: <b>%1$d</b> episodes, <b>%2$s</b>]]></string>
     <string name="since_date">Od</string>
     <string name="reset_stats">Vynulovať štatistiku</string>
     <string name="display_latest_d_episodes">Zobraziť posledné %d epizódy</string>
@@ -1217,5 +1217,5 @@
     <string name="time_unit_minute_single_letter_format">M</string>
     <string name="time_unit_second_single_letter_format">S</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
-    <string name="playback_speed_shortcuts">Quick speeds</string>
+    <string name="playback_speed_shortcuts">Preddefinované rýchlosti</string>
 </resources>

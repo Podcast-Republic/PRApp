@@ -185,7 +185,7 @@
     <string name="file_date">"Data"</string>
     <string name="publishing_date">"Data di pubblicazione"</string>
     <string name="sort_manually">"Manualmente"</string>
-    <string name="Update_podcasts">"Aggiorna i podcast"</string>
+    <string name="update_podcasts">"Aggiorna i podcast"</string>
     <string name="sort_by">"Ordina per…"</string>
     <string name="last_updated_time">"Data/ora ultimo aggiornamento"</string>
     <string name="most_recent_count">"Conteggio più recente"</string>
@@ -1160,14 +1160,14 @@
     <string name="show_selected_rss_feeds_in_widget_s">Mostra nel widget gli RSS feed selezionati: %s.</string>
     <string name="mark_all_articles_published_after_this_article_s_as_read_">Segnare tutti gli articolo come riprodotti dopo che questo articolo [%1$s] verrà letto?</string>
     <string name="mark_all_next_articles_as_read">Segna tutti gli articolo come letti</string>
-    <string name="use_legacy_media_notification_style">Use legacy media notification style</string>
-    <string name="use_legacy_media_notification_style_before_android_11">Use legacy media notification style before Android 11.</string>
-    <string name="save_up_next_to">Save Up next to…</string>
-    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Mark all episodes published earlier than this episode [%1$s] as unplayed?</string>
-    <string name="mark_all_previous_episodes_as_unplayed">Mark all previous episodes as unplayed</string>
+    <string name="use_legacy_media_notification_style">Usa lo stile di notifica dei media delle versioni precedenti</string>
+    <string name="use_legacy_media_notification_style_before_android_11">Usa lo stile di notifica dei media delle versioni precedenti ad Android 11.</string>
+    <string name="save_up_next_to">Salva Up next in…</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Segna tutti gli episodi precedenti a questo [%1$s] come non riprodotti?</string>
+    <string name="mark_all_previous_episodes_as_unplayed">Segna tutti gli episodi precedenti come non riprodotti</string>
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
-    <string name="use_default_chapter_title">Use default chapter title.</string>
+    <string name="use_default_chapter_title">Usa il titolo predefinito del capitolo.</string>
     <string name="grid_spacing">Grid spacing</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
@@ -1196,4 +1196,10 @@
     <string name="time_unit_second_single_letter_format">S</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
     <string name="playback_speed_shortcuts">Quick speeds</string>
+    <string name="move_all_files_from_s_to_the_new_download_directory_s">Move all files from [%1$s] to the new download directory [%2$s]?</string>
+    <string name="article_text_size">Article text size</string>
+    <string name="apply_this_change_to_all_rss_feeds">Apply this change to all RSS feeds?</string>
+    <string name="update_rss_feeds">Update RSS Feeds</string>
+    <string name="updating_podcast_d1_d2">Updating podcast - %1$d/%2$d</string>
+    <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
 </resources>

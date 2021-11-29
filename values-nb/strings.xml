@@ -112,7 +112,7 @@
 
     <string name="One_episode_has_been_added_to_downloads">En episode er blitt lagt til nedlastinger</string>
     <string name="One_episode_has_been_added_to_playlist">En episode er lagt til i spillelisten</string>
-    <string name="Update_podcasts">Frekvens på oppdatering av podcaster</string>
+    <string name="update_podcasts">Frekvens på oppdatering av podcaster</string>
     <string name="_auto_backup_location"> Plassering for automatisk sikkerhetskopi</string>
     <string name="_download_location"> Plassering av nedlastinger</string>
     <string name="_is_not_found_add_this_podcast_">[%1$s] ble ikke funnet. Legge til podcasten via URL?</string>
@@ -1195,4 +1195,10 @@
     <string name="time_unit_second_single_letter_format">S</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
     <string name="playback_speed_shortcuts">Quick speeds</string>
+    <string name="move_all_files_from_s_to_the_new_download_directory_s">Move all files from [%1$s] to the new download directory [%2$s]?</string>
+    <string name="article_text_size">Article text size</string>
+    <string name="apply_this_change_to_all_rss_feeds">Apply this change to all RSS feeds?</string>
+    <string name="update_rss_feeds">Update RSS Feeds</string>
+    <string name="updating_podcast_d1_d2">Updating podcast - %1$d/%2$d</string>
+    <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
 </resources>

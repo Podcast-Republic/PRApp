@@ -184,7 +184,7 @@
     <string name="file_date">Dátum</string>
     <string name="publishing_date">Kiadás dátuma</string>
     <string name="sort_manually">Manuális</string>
-    <string name="Update_podcasts">Podcastok frissítése</string>
+    <string name="update_podcasts">Podcastok frissítése</string>
     <string name="sort_by">Rendezés…</string>
     <string name="last_updated_time">Utolsó frissítés ideje</string>
     <string name="most_recent_count">Legutóbbi darabszám</string>
@@ -1200,5 +1200,11 @@
     <string name="time_unit_second_single_letter_format">mp</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%dmp</string>
     <string name="playback_speed_shortcuts">Gyors sebességváltás</string>
+    <string name="move_all_files_from_s_to_the_new_download_directory_s">Move all files from [%1$s] to the new download directory [%2$s]?</string>
+    <string name="article_text_size">Article text size</string>
+    <string name="apply_this_change_to_all_rss_feeds">Apply this change to all RSS feeds?</string>
+    <string name="update_rss_feeds">Update RSS Feeds</string>
+    <string name="updating_podcast_d1_d2">Updating podcast - %1$d/%2$d</string>
+    <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
 
 </resources>

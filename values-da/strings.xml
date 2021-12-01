@@ -1203,4 +1203,6 @@
     <string name="update_rss_feeds">Update RSS Feeds</string>
     <string name="updating_podcast_d1_d2">Updating podcast - %1$d/%2$d</string>
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
+    <string name="remove_all_episodes_above">Remove all above</string>
+    <string name="remove_all_episodes_below">Remove all below</string>
 </resources>

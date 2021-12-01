@@ -663,7 +663,7 @@
     <string name="download_state_failed_cancelled">Cancelled</string>
     <string name="download_state_failed">Failed</string>
     <string name="download_state_failed_storage_is_not_accessible">Failed: storage is not accessible.</string>
-    <string name="error_storage_is_not_accessible">Error: storage is not accessible.</string>
+    <string name="error_storage_is_not_accessible">Napaka: shramba je nedosegljiva.</string>
     <string name="invalid_opml_file_selected_">Invalid opml file selected!</string>
     <string name="podcast_title_can_not_be_empty_">Podcast title can not be empty!</string>
     <string name="podcast_url_can_not_be_empty_">Podcast URL can not be empty!</string>

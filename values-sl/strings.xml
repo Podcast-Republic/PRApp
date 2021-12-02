@@ -273,27 +273,6 @@
         <item>Dark</item>
         <item>AMOLED Black</item>
     </string-array>
-    <string-array name="ui_theme_value" translatable="false">
-        <item>DeepWhite</item>
-        <item>White</item>
-        <item>Red</item>
-        <item>Pink</item>
-        <item>Purple</item>
-        <item>DeepPurple</item>
-        <item>Indigo</item>
-        <item>Light</item>     <!-- Blue-->
-        <item>LightBlue</item>
-        <item>Cyan</item>
-        <item>Teal</item>
-        <item>Green</item>
-        <item>LightGreen</item>
-        <item>Amber</item>
-        <item>Orange</item>
-        <item>DeepOrange</item>
-        <item>BlueGray</item>
-        <item>Dark</item>
-        <item>DeepDark</item>
-    </string-array>
     <string name="theme">Theme</string>
     <string name="skip_beginning">Skip beginning</string>
     <string name="time_display_second_short_format">sec</string>
@@ -449,10 +428,10 @@
     <string name="download_status">Download status</string>
     <string name="continue_to_play_next_episode_when_playback_error_occurs">Continue to play next episode when playback error occurs.</string>
     <string name="continue_on_error">Continue on error</string>
-    <string name="downloading">V prenašanju/string>
+    <string name="downloading">V prenašanju</string>
     <string name="failed">Failed</string>
     <string name="select_all">Izberi vse</string>
-    <string name="export_download">Izvozi prenos/string>
+    <string name="export_download">Izvozi prenos</string>
     <string name="export_downloads">Izvozi prenose</string>
     <string name="edit_episode_filter">Edit episode filter</string>
     <string name="done">Narejeno</string>
@@ -648,7 +627,7 @@
     <string name="download_state_fetching_url">Looking for resources to download.</string>
     <string name="download_state_connecting">Povezujem</string>
     <string name="download_state_downloading">Prenašam</string>
-    <string name="download_state_completed">Končano<string>
+    <string name="download_state_completed">Končano</string>
     <string name="download_state_paused_network_unavailable">Paused: waiting for network.</string>
     <string name="download_state_failed_incorrect_file_received">Failed: incorrect file received.</string>
     <string name="download_state_paused_by_request">Download paused</string>
@@ -1168,7 +1147,7 @@
     <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
     <string name="background_color">Barva ozadja</string>
     <string name="current_color">Trenutna barva</string>
-    <string name="text_color">Barva teksta/string>
+    <string name="text_color">Barva teksta</string>
     <string name="unread_articles">Neprebrani članki</string>
     <string name="bluetooth_auto_play_workaround">Bluetooth auto play workaround</string>
     <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Do not start playing upon Bluetooth is connected. Check out FAQs for more info.</string>

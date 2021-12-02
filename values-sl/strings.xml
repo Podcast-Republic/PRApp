@@ -98,7 +98,7 @@
     <string name="jump_to_next_episode">Skoči na naslednjo epizodo</string>
     <string name="jump_to_next_chapter">Skoči na naslednje poglavje</string>
     <string name="jump_to_the_end">Skoči na konec</string>
-    <string name="delete_download">Izbriši prenos download</string>
+    <string name="delete_download">Izbriši prenos</string>
     <string name="pause_download">Pause download</string>
     <string name="resume_download">Resume download</string>
     <string name="delete">Izbriši</string>
@@ -113,8 +113,8 @@
     <string name="played">Predvajano</string>
     <string name="country_text">Država/Regija</string>
     <string name="organize_podcasts">Organiziraj podkaste</string>
-    <string name="add_podcasts">Dodaj podcaste</string>
-    <string name="add_a_podcast_by_url">Dodaj podcast z URL naslovom</string>
+    <string name="add_podcasts">Dodaj podkaste</string>
+    <string name="add_a_podcast_by_url">Dodaj podkast z URL naslovom</string>
     <string name="all">Vse</string>
     <string name="arts">Umetnost</string>
     <string name="business">Posel</string>

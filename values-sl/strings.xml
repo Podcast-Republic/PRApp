@@ -104,9 +104,9 @@
     <string name="delete">Izbriši</string>
     <string name="now_playing">Zdaj se predvaja</string>
     <string name="stop">Stop</string>
-    <string name="pause">Pause</string>
-    <string name="favorite">Favorite</string>
-    <string name="favorites">Favorites</string>
+    <string name="pause">Začasno ustavi</string>
+    <string name="favorite">Priljubljen(a)</string>
+    <string name="favorites">Priljubljeni</string>
     <string name="whats_new">Kaj je novega</string>
     <string name="more">Več</string>
     <string name="unplayed">Nepredvajano</string>
@@ -134,7 +134,7 @@
     <string name="title">Naslov</string>
     <string name="provider">Provider</string>
     <string name="image_url">Image URL</string>
-    <string name="items_in_red_are_required_">Items in red are required.</string>
+    <string name="items_in_red_are_required_">Rdeče obarvani elementi so zahtevani.</string>
     <string name="cancel">Preklic</string>
     <string name="add">Dodaj</string>
     <string name="publisher">Založnik</string>
@@ -181,7 +181,7 @@
     <string name="updating">Posodabljam</string>
     <string name="preparing">Pripravljam…</string>
     <string name="error_no_wifi">Napaka: Ni Wi-Fi povezave</string>
-    <string name="auto_download">Auto download</string>
+    <string name="auto_download">Samodejni prenos</string>
     <string name="playing">Predvaja se</string>
     <string name="subscriptions">Naročnine</string>
     <string name="help_faqs">Pomoč/Pogosta vprašanja in odgovori</string>
@@ -203,18 +203,18 @@
     <string name="display">Zaslon</string>
     <string name="when_i_press_next_button">When I press Next button</string>
     <string name="background_play">Background play</string>
-    <string name="user_interface">User Interface</string>
+    <string name="user_interface">Uporabniški vmesnik</string>
     <string name="show_descriptions">Pokaži opise</string>
     <string name="update_on_start">Update on start</string>
     <string name="media_player">Media Player</string>
     <string name="download_location">Lokacija prenosov</string>
-    <string name="change_log">Change log</string>
+    <string name="change_log">Dnevnik sprememb</string>
     <string name="view_what_s_new_in_this_version">Poglej kaj je novega v tej verziji.</string>
     <string name="version">Verzija</string>
     <string name="about">O aplikaciji</string>
     <string name="action_s">"Action: %1$s."</string>
     <string name="action">"Action"</string>
-    <string name="download_only_when_connected_to_wifi">Prenesi samo kadar je povezava  only when connected to Wi-Fi.</string>
+    <string name="download_only_when_connected_to_wifi">Prenesi samo kadar je naprava povezana v Wi-Fi omrežje.</string>
     <string name="add_to_new_tag">Add To New Tag</string>
     <string name="enter_new_tag_name">Vnesi ime nove oznake</string>
     <string name="car_mode">Avto način</string>
@@ -275,7 +275,7 @@
     </string-array>
     <string name="theme">Tema</string>
     <string name="skip_beginning">Preskoči začetek</string>
-    <string name="time_display_second_short_format">sec</string>
+    <string name="time_display_second_short_format">sek</string>
     <string name="search_episode_title">Išči po naslovih epizod</string>
     <string name="search_episodes">Išči epizode/string>
     <string name="widgets">Pripomočki</string>

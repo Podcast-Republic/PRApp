@@ -19,7 +19,7 @@
         <item>Bolivija</item>
         <item>Brazilija</item>
         <item>Ciper</item>
-        <item>Češka republika</item>
+        <item>Češka</item>
 	<item>Čile</item>
         <item>Danska</item>
         <item>Egipt</item>
@@ -98,6 +98,9 @@
     <string name="jump_to_next_episode">Skoči na naslednjo epizodo</string>
     <string name="jump_to_next_chapter">Skoči na naslednje poglavje</string>
     <string name="jump_to_the_end">Skoči na konec</string>
+    <string name="jump_to_previous_episode">Skoči na prejšnjo epizodo</string>
+    <string name="jump_to_previous_chapter">Skoči na prejšnje poglavje</string>
+    <string name="jump_to_beginning">Skoči na začetek to beginning</string>
     <string name="delete_download">Izbriši prenos</string>
     <string name="pause_download">Začasno ustavi prenos</string>
     <string name="resume_download">Nadaljuj prenos</string>
@@ -201,7 +204,8 @@
     <string name="download_all">Prenesi vse</string>
     <string name="download_all_d_episodes">Prenos vseh %1$d epizod?</string>
     <string name="display">Zaslon</string>
-    <string name="when_i_press_next_button">Ko pritisnem Naslednji</string>
+    <string name="when_i_press_next_button">Ob dotiku možnosti Naslednji</string>
+    <string name="when_i_press_previous_button">Ob dotiku možnosti Prejšnji</string>
     <string name="background_play">Predvajanje v ozadju</string>
     <string name="user_interface">Uporabniški vmesnik</string>
     <string name="show_descriptions">Pokaži opise</string>
@@ -273,6 +277,26 @@
         <item>Temna</item>
         <item>AMOLED črna</item>
     </string-array>
+	    <string-array name="ui_theme_value" translatable="false">
+        <item>DeepWhite</item>
+        <item>White</item>
+        <item>Red</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>DeepPurple</item>
+        <item>Indigo</item>
+        <item>Light</item>     <!-- Blue-->
+        <item>LightBlue</item>
+        <item>Cyan</item>
+        <item>Teal</item>
+        <item>Green</item>
+        <item>LightGreen</item>
+        <item>Amber</item>
+        <item>Orange</item>
+        <item>DeepOrange</item>
+        <item>BlueGray</item>
+        <item>Dark</item>
+        <item>DeepDark</item>
     <string name="theme">Tema</string>
     <string name="skip_beginning">Preskoči začetek</string>
     <string name="time_display_second_short_format">sek</string>

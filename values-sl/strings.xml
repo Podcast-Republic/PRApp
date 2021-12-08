@@ -7,7 +7,7 @@
         <item>Albanija</item>
         <item>Alžirija</item>
         <item>Angola</item>
-        <item>Anguilla</item>
+        <item>Angvila</item>
         <item>Argentina</item>
         <item>Armenija</item>
         <item>Avstralija</item>
@@ -46,6 +46,8 @@
         <item>Kazahstan</item>
         <item>Kenija</item>
 	<item>Kirgizija</item>
+	<item>Kitajska</item>
+	<item>Kolumbija</item>
         <item>Koreja</item>
 	<item>Kostarika</item>
         <item>Kuvajt</item>
@@ -96,6 +98,9 @@
     <string name="jump_to_next_episode">Skoči na naslednjo epizodo</string>
     <string name="jump_to_next_chapter">Skoči na naslednje poglavje</string>
     <string name="jump_to_the_end">Skoči na konec</string>
+    <string name="jump_to_previous_episode">Skoči na prejšnjo epizodo</string>
+    <string name="jump_to_previous_chapter">Skoči na prejšnje poglavje</string>
+    <string name="jump_to_beginning">Skoči na začetek</string>
     <string name="delete_download">Izbriši prenos</string>
     <string name="pause_download">Začasno ustavi prenos</string>
     <string name="resume_download">Nadaljuj prenos</string>
@@ -131,7 +136,7 @@
     <string name="tv">TV &amp; Film</string>
     <string name="title">Naslov</string>
     <string name="provider">Ponudnik</string>
-    <string name="image_url">Image URL</string>
+    <string name="image_url">URL naslov podobe</string>
     <string name="items_in_red_are_required_">Rdeče obarvani elementi so zahtevani.</string>
     <string name="cancel">Preklic</string>
     <string name="add">Dodaj</string>
@@ -1194,7 +1199,7 @@
     <string name="time_unit_minute_single_letter_format">m</string>
     <string name="time_unit_second_single_letter_format">s</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
-    <string name="playback_speed_shortcuts">Hitrosti</string>
+    <string name="playback_speed_shortcuts">Hitrosti predvajanja</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Premakni vse datoteke iz [%1$s] v novo mapo prenosov [%2$s]?</string>
     <string name="article_text_size">Velikost pisave članka</string>
     <string name="apply_this_change_to_all_rss_feeds">Uporabim te spremembe za vse RSS vier?</string>

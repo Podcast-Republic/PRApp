@@ -1205,8 +1205,8 @@
     <string name="updating_rss_feed_d1_d2">Aktualizácia zdroja RSS - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Odstrániť všetky nad</string>
     <string name="remove_all_episodes_below">Odstrániť všetky pod</string>
-    <string name="jump_to_previous_episode">Jump to previous episode</string>
-    <string name="jump_to_beginning">Jump to beginning</string>
-    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
-    <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="jump_to_previous_episode">Prejsť na predchádzajúcu epizódu</string>
+    <string name="jump_to_beginning">Prejsť na začiatok</string>
+    <string name="jump_to_previous_chapter">Prejsť na predchádzajúcu kapitolu</string>
+    <string name="when_i_press_previous_button">Keď stlačím tlačidlo predchádzajúce</string>
 </resources>

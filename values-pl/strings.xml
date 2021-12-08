@@ -416,7 +416,7 @@
     <string name="browse_top_charts">Przeglądaj podcasty</string>
     <string name="after_x_minutes">Za %1$d minut</string>
     <string name="after_current_episode_ends">Gdy skończy się bieżący odcinek</string>
-    <string name="add_chapter">Dodaj znacznik rozdziału</string>
+    <string name="add_a_chapter">Dodaj znacznik rozdziału</string>
     <string name="time">Czas</string>
     <string name="filter_name">Nazwa filtru</string>
     <string name="podcasts">Podcasty</string>
@@ -1207,4 +1207,8 @@
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Remove all above</string>
     <string name="remove_all_episodes_below">Remove all below</string>
+    <string name="jump_to_previous_episode">Jump to previous episode</string>
+    <string name="jump_to_beginning">Jump to beginning</string>
+    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="when_i_press_previous_button">When I press Previous button</string>
 </resources>

@@ -418,7 +418,7 @@
     <string name="browse_top_charts">En iyi grafiklere göz atın</string>
     <string name="after_x_minutes">%1$d dakika içinde</string>
     <string name="after_current_episode_ends">Mevcut bölüm sona erdi</string>
-    <string name="add_chapter">Bölüm işaretleyicisini ekle</string>
+    <string name="add_a_chapter">Bölüm işaretleyicisini ekle</string>
     <string name="time">Zaman</string>
     <string name="filter_name">Filtre adı</string>
     <string name="podcasts">"Podcast'ler"</string>
@@ -1204,5 +1204,9 @@
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Remove all above</string>
     <string name="remove_all_episodes_below">Remove all below</string>
+    <string name="jump_to_previous_episode">Jump to previous episode</string>
+    <string name="jump_to_beginning">Jump to beginning</string>
+    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="when_i_press_previous_button">When I press Previous button</string>
 </resources>
 

@@ -98,6 +98,9 @@
     <string name="jump_to_next_episode">Jump to next episode</string>
     <string name="jump_to_next_chapter">Jump to next chapter</string>
     <string name="jump_to_the_end">Jump to the end</string>
+    <string name="jump_to_previous_episode">Jump to previous episode</string>
+    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="jump_to_beginning">Jump to beginning</string>
     <string name="delete_download">Delete download</string>
     <string name="pause_download">Pause download</string>
     <string name="resume_download">Resume download</string>
@@ -202,6 +205,7 @@
     <string name="download_all_d_episodes">Download all %1$d episodes?</string>
     <string name="display">Display</string>
     <string name="when_i_press_next_button">When I press Next button</string>
+    <string name="when_i_press_previous_button">When I press Previous button</string>
     <string name="background_play">Background play</string>
     <string name="user_interface">User Interface</string>
     <string name="show_descriptions">Show descriptions</string>
@@ -440,7 +444,7 @@
     <string name="browse_top_charts">Browse top charts</string>
     <string name="after_x_minutes">After %1$d minutes</string>
     <string name="after_current_episode_ends">After current episode ends</string>
-    <string name="add_chapter">Add chapter</string>
+    <string name="add_a_chapter">Add a chapter</string>
     <string name="time">Time</string>
     <string name="filter_name">Filter name</string>
     <string name="podcasts">Podcasts</string>

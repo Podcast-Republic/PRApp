@@ -220,7 +220,7 @@
     <string name="car_mode">Avto način</string>
     <string name="update_artwork">Update artwork</string>
     <string name="enter_new_artwork_url">Enter a new artwork URL</string>
-    <string name="sleep_timer">Časovnik/string>
+    <string name="sleep_timer">Časovnik</string>
     <string name="last_updated_s">"Zadnjič posodobljeno: %1$s"</string>
     <string name="fast_forward">Hitro naprej</string>
     <string name="fast_rewind">Hitro nazaj</string>
@@ -277,9 +277,9 @@
     <string name="skip_beginning">Preskoči začetek</string>
     <string name="time_display_second_short_format">sek</string>
     <string name="search_episode_title">Išči po naslovih epizod</string>
-    <string name="search_episodes">Išči epizode/string>
+    <string name="search_episodes">Išči epizode</string>
     <string name="widgets">Pripomočki</string>
-    <string name="background_transparency">Prosojnost ozadja/string>
+    <string name="background_transparency">Prosojnost ozadja</string>
     <string name="low">Nizka</string>
     <string name="high">Visoka</string>
     <string name="gesture_sensitivity">Občutjivost kretenj</string>
@@ -419,7 +419,7 @@
     <string name="browse_top_charts">Brskaj lestvice najboljših</string>
     <string name="after_x_minutes">Po %1$d minutah</string>
     <string name="after_current_episode_ends">Ko se zaključi trenutna epizoda</string>
-    <string name="add_chapter">Dodaj poglavje</string>
+    <string name="add_a_chapter">Dodaj poglavje</string>
     <string name="time">Čas</string>
     <string name="filter_name">Ime filtra</string>
     <string name="podcasts">Podkasti</string>
@@ -494,7 +494,7 @@
     <string name="select_an_image_on_device">Izberi pododbo na napravi</string>
     <string name="youtube_type">YouTube Type</string>
     <string name="scanning_">Scanning…</string>
-    <string name="playback_speed">Hitrost predvajanja/string>
+    <string name="playback_speed">Hitrost predvajanja</string>
     <string name="keep_playing">Nadaljuj predvajanje</string>
     <string name="play_from_position">Play from position</string>
     <string name="report_a_bug">Prijavi hrošča</string>
@@ -1087,7 +1087,7 @@
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Prefer to use artwork extracted from downloaded podcast file.</string>
     <string name="display_episode_artwork_retrieved_from_media_file_">Display episode artwork retrieved from media file.</string>
     <string name="not_tagged">Neoznačeno</string>
-    <string name="save_backup_to">Shrani varnostno kopijo/string>
+    <string name="save_backup_to">Shrani varnostno kopijo</string>
     <string name="local_storage">Lokalna shramba</string>
     <string name="google_drive">Google Drive</string>
     <string name="select_backup_file_to_restore_from">Izberi varnostno kopijo za obnovitev</string>
@@ -1205,4 +1205,8 @@
     <string name="updating_rss_feed_d1_d2">Posodabljam RSS vir - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Odstrani vse zgoraj</string>
     <string name="remove_all_episodes_below">Odstrani vse spodaj</string>
+    <string name="jump_to_previous_episode">Jump to previous episode</string>
+    <string name="jump_to_beginning">Jump to beginning</string>
+    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="when_i_press_previous_button">When I press Previous button</string>
 </resources>

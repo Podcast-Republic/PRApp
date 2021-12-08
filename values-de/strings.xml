@@ -418,7 +418,7 @@
     <string name="browse_top_charts">"Top-Charts durchblättern"</string>
     <string name="after_x_minutes">"In %1$d Minuten"</string>
     <string name="after_current_episode_ends">"Wenn aktuelle Episode endet"</string>
-    <string name="add_chapter">"Kapitelmarke hinzufügen"</string>
+    <string name="add_a_chapter">"Kapitelmarke hinzufügen"</string>
     <string name="time">"Zeit"</string>
     <string name="filter_name">"Filtername"</string>
     <string name="podcasts">"Podcasts"</string>
@@ -1204,4 +1204,8 @@
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Remove all above</string>
     <string name="remove_all_episodes_below">Remove all below</string>
+    <string name="jump_to_previous_episode">Jump to previous episode</string>
+    <string name="jump_to_beginning">Jump to beginning</string>
+    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="when_i_press_previous_button">When I press Previous button</string>
 </resources>

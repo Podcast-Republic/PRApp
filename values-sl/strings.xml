@@ -297,6 +297,7 @@
         <item>BlueGray</item>
         <item>Dark</item>
         <item>DeepDark</item>
+		    </string-array>
     <string name="theme">Tema</string>
     <string name="skip_beginning">Preskoči začetek</string>
     <string name="time_display_second_short_format">sek</string>
@@ -1229,8 +1230,4 @@
     <string name="updating_rss_feed_d1_d2">Posodabljam RSS vir - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Odstrani vse zgoraj</string>
     <string name="remove_all_episodes_below">Odstrani vse spodaj</string>
-    <string name="jump_to_previous_episode">Skoči na prejšnjo epizodo</string>
-    <string name="jump_to_beginning">Skoči na začetek</string>
-    <string name="jump_to_previous_chapter">Skoči na prejšnje poglavlje</string>
-    <string name="when_i_press_previous_button">Ko se dotaknem možnosti Prejšnji</string>
 </resources>

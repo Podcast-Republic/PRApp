@@ -538,7 +538,7 @@
     <string name="connection_failed">Povezava ni uspela</string>
     <string name="search_stations">Išči postaje</string>
     <string name="add_a_station_by_url">Dodaj postajo z URL naslovom</string>
-    <string name="radio_stream_url_is_required_">Radio stream URL is required!</string>
+    <string name="radio_stream_url_is_required_">Zahtevan je URL naslov za pretakanje vsebin radijske postaje!</string>
     <string name="radio_title_is_required_">Zahtevano je ime radijske postaje!</string>
     <string name="_is_not_found_add_this_station_">"[%1$s] ni najdena. Dodam to postajo preko URL naslova?"</string>
     <string name="debug_log">Zapis razhroščevanja</string>
@@ -597,7 +597,7 @@
     <string name="sign_out">Izpis</string>
     <string name="syncing_started">Sinhroniziranje se je začelo</string>
     <string name="account_logged_in_s"><![CDATA[Account logged in: <i>%1$s</i>]]></string>
-    <string name="sync_subscriptions_and_episode_playback_progress">Sinhroniziraj naročnine in odstotek predvajanja epizod.</string>
+    <string name="sync_subscriptions_and_episode_playback_progress">Sinhroniziraj naročnine in napredek predvajanja epizod.</string>
     <string name="schedule_auto_backup_every_d_days">Varnostno kopiraj vsakih %1$d dni.</string>
     <string name="keep_most_recent_d_auto_backups">Ohrani nedavnih %1$d varnostnih kopij.</string>
     <string name="save_auto_backup_to_s">Shrani varnostno kopijo v: %1$s.</string>
@@ -618,7 +618,7 @@
     <string name="update_podcasts_when_app_is_starting">Posodobi podkaste ob zagonu aplikacije.</string>
     <string name="unknown_station">Neznana postaja</string>
     <string name="can_not_cast_youtube_videos_to_chromecast_">YouTube posnetkov ni mogoče poslati v Chromecast!</string>
-    <string name="add_a_playlist">Dodaj seznamu</string>
+    <string name="add_a_playlist">Dodaj seznam</string>
     <string name="add_to_tag">Dodaj oznakam</string>
     <string name="add_to_default_playlists">Dodaj privzetim seznamom</string>
     <string name="add_to_selected_playlists">Dodaj izbranim senznamom</string>
@@ -648,20 +648,20 @@
     <string name="buy_me_a_coffee_message">Če uživaš v uporabi aplikacije Podcast Republic in bi rad(a) podprl(a) razvoj aplikacije, mi lahko plačaš skodelico kave. Hvala!</string>
     <string name="maybe_later">Mogoče kasneje</string>
     <string name="sign_up">Prijavi se</string>
-    <string name="download_state_idle">Čakam začetek prenašanja.</string>
-    <string name="download_state_fetching_url">Looking for resources to download.</string>
+    <string name="download_state_idle">Čakam začetek prenosa.</string>
+    <string name="download_state_fetching_url">Iščem vire za prenos.</string>
     <string name="download_state_connecting">Povezujem</string>
     <string name="download_state_downloading">Prenašam</string>
     <string name="download_state_completed">Končano</string>
     <string name="download_state_paused_network_unavailable">Začasno ustavljeno: čakam omrežje.</string>
-    <string name="download_state_failed_incorrect_file_received">Neuspešno: prejeta nepravilna datoteka.</string>
+    <string name="download_state_failed_incorrect_file_received">Neuspešno: prejeta je bila napačna datoteka.</string>
     <string name="download_state_paused_by_request">Prenos začasno ustavljen</string>
-    <string name="download_state_paused_wifi_unavailable">Začasno ustavljeno: Wi-Fi omrežje je nedosegljivo.</string>
+    <string name="download_state_paused_wifi_unavailable">Začasno ustavljeno: Wi-Fi omrežje ni na voljo.</string>
     <string name="download_state_paused_wifi_disabled">Začasno ustavljeno: Wi-Fi omrežje je onemogočeno.</string>
     <string name="download_state_paused_roaming">Začasno ustavljeno: aparat je v podatkovnem gostovanju.</string>
     <string name="download_state_paused_waiting_to_retry">Začasno ustavljeno: čakam na nov poskus.</string>
     <string name="download_state_paused_sdcard_unavailable">Začasno ustavljeno: zunanji spomin je nedosegljiv.</string>
-    <string name="download_state_paused_need_battery_charging">Začasno zaustavustavljenoljeno: čakam na polnjenje baterije.</string>
+    <string name="download_state_paused_need_battery_charging">Začasno ustavljeno: čakam na polnjenje baterije.</string>
     <string name="download_state_failed_fetching_url">Neuspešno: URL naslova ni bilo mogoče najti.</string>
     <string name="download_state_failed_sdcard_full">Neuspešno: ni dovolj prostora.</string>
     <string name="download_state_failed_cancelled">Prekinjeno</string>
@@ -702,10 +702,10 @@
     <string name="selected_podcasts_s">Izbrani podkasti: %1$s</string>
     <string name="unplayed_less_than_d_played">Nepredvajano (&lt; %1$d%% predvajano)</string>
     <string name="played_greater_than_d_played">Predvajano (&gt;= %1$d%% predvajano)</string>
-    <string name="unfinished_less_than_100_played">Nekončano (&lt; 100% predvajano</string>
+    <string name="unfinished_less_than_100_played">Nedokončano (&lt; 100% predvajano</string>
     <string name="finished_100_played">Končano (100% predvajano)</string>
     <string name="restore_defaults">Obnovi privzete vrednosti</string>
-    <string name="at_least_one_episode_filter_is_required_">Zahtevan je najmanj en filter za epizode!</string>
+    <string name="at_least_one_episode_filter_is_required_">Zahtevan je najmanj en filter epizode!</string>
     <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">Te mape niso dosegljive. Prosimo, ponastavite v nastavitvah.\n%1$s</string>
     <string name="_download_location">- Mesto prenosa</string>
     <string name="_auto_backup_location">- Mesto varnostne kopije</string>
@@ -715,7 +715,7 @@
     <string name="casting">Casting</string>
     <string name="chapter_d">Poglavje #%1$d</string>
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Prosimo, ne zaprite aplikacije med obnavljanjem podatkoav. Aplikacija se bo ponovno zagnala, ko bodo vsi podatki obnovljeni.</string>
-    <string name="playback_paused_on_muted_volume_">Predvajanje začasno ustavljeno ob pridušeni glasnosti!</string>
+    <string name="playback_paused_on_muted_volume_">Ob pridušeni glasnosti se predvajanje začasno ustavi!</string>
     <string name="number_of_episodes_to_auto_download">Število epizod za samodejen prenos</string>
     <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</string>
     <string name="notify_when_new_episodes_are_available">Obvesti me, ko so na voljo nove epizode.</string>

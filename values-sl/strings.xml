@@ -606,7 +606,7 @@
     <string name="mark_all_previous_episodes_as_played">Označi vse prejšnje epizode kot predvajane</string>
     <string name="remove_favorite">Odstrani priljubljene</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Označim vse epizode objavljene pred epizodo [%1$s] kot predvajane?</string>
-    <string name="exporting">V izvajanju</string>
+    <string name="exporting">Izvažam</string>
     <string name="extend_s_minutes">Podaljšaj za %1$d minut</string>
     <string name="pick_a_time">Izberi čas</string>
     <string name="updating_podcasts">Posodabljam podkaste</string>
@@ -616,8 +616,8 @@
     <string name="no_user_notes_found">Ni najdenih zapiskov.</string>
     <string name="no_episode_description_found">Opis epizode ni najden.</string>
     <string name="or">Ali</string>
-    <string name="up_next_list_has_been_updated_to_play_from_s">Seznam Naslednji je bil posodobljen za predvajanje od: %1$s.</string>
-    <string name="do_a_full_syncing_will_take_much_longer_to_finish">Izvedi polno sihronizacijo. Trajalo bo več časa.</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">Seznam Naslednji je bil posodobljen in bo začel predvajanje z: %1$s.</string>
+    <string name="do_a_full_syncing_will_take_much_longer_to_finish">Izvedi polno sihronizacijo. To bo trajalo več časa.</string>
     <string name="buy_me_a_coffee_message">Če uživaš v uporabi aplikacije Podcast Republic in bi rad(a) podprl(a) razvoj aplikacije, mi lahko plačaš skodelico kave. Hvala!</string>
     <string name="maybe_later">Mogoče kasneje</string>
     <string name="sign_up">Prijavi se</string>

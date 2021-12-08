@@ -418,7 +418,7 @@
     <string name="browse_top_charts">"Переглянути кращі канали"</string>
     <string name="after_x_minutes">"У %1$d хвилинах"</string>
     <string name="after_current_episode_ends">"Коли поточний епізод закінчується"</string>
-    <string name="add_chapter">"Додати мітку до розділу"</string>
+    <string name="add_a_chapter">"Додати мітку до розділу"</string>
     <string name="time">"Час"</string>
     <string name="filter_name">"Фільтрувати ім'я"</string>
     <string name="podcasts">"Подкасти"</string>
@@ -1203,4 +1203,8 @@
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Remove all above</string>
     <string name="remove_all_episodes_below">Remove all below</string>
+    <string name="jump_to_previous_episode">Jump to previous episode</string>
+    <string name="jump_to_beginning">Jump to beginning</string>
+    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="when_i_press_previous_button">When I press Previous button</string>
 </resources>

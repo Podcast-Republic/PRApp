@@ -419,7 +419,7 @@
     <string name="browse_top_charts">"Gennemse toplister"</string>
     <string name="after_x_minutes">"Om %1$d minutter"</string>
     <string name="after_current_episode_ends">"Når det aktuelle afsnit slutter"</string>
-    <string name="add_chapter">"Tilføj kapitelinddeling"</string>
+    <string name="add_a_chapter">"Tilføj kapitelinddeling"</string>
     <string name="time">"Tid"</string>
     <string name="filter_name">"Filter"</string>
     <string name="podcasts">"Podcasts"</string>
@@ -1205,4 +1205,8 @@
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Remove all above</string>
     <string name="remove_all_episodes_below">Remove all below</string>
+    <string name="jump_to_previous_episode">Jump to previous episode</string>
+    <string name="jump_to_beginning">Jump to beginning</string>
+    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="when_i_press_previous_button">When I press Previous button</string>
 </resources>

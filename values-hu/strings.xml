@@ -115,7 +115,7 @@
     <string name="business">Üzlet</string>
     <string name="comedy">Komédia / Vígjáték</string>
     <string name="education">Oktatás</string>
-    <string name="government">Kormány és szervezetek</string>
+    <string name="government">Kormányzat és szervezetek</string>
     <string name="health_fitness">Egészség</string>
     <string name="kids">Gyerekek / Család</string>
     <string name="music">Zene</string>
@@ -1208,9 +1208,9 @@
     <string name="updating_rss_feed_d1_d2">RSS-hírfolyam frissítése - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Fentebbiek eltávolítása</string>
     <string name="remove_all_episodes_below">Lentebbiek eltávolítása</string>
-    <string name="jump_to_previous_episode">Jump to previous episode</string>
-    <string name="jump_to_beginning">Jump to beginning</string>
-    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
-    <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="jump_to_previous_episode">Ugrás az előző epizódra</string>
+    <string name="jump_to_beginning">Ugrás az elejére</string>
+    <string name="jump_to_previous_chapter">Ugrás az előző fejezetre</string>
+    <string name="when_i_press_previous_button">Az Előző gomb megnyomásakor</string>
 
 </resources>

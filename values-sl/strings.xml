@@ -1221,7 +1221,7 @@
     <string name="time_unit_minute_single_letter_format">m</string>
     <string name="time_unit_second_single_letter_format">s</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
-    <string name="playback_speed_shortcuts">Hitrosti</string>
+    <string name="playback_speed_shortcuts">Hitrosti predvajanja</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Premakni vse datoteke iz [%1$s] v novo mapo prenosov [%2$s]?</string>
     <string name="article_text_size">Velikost pisave članka</string>
     <string name="apply_this_change_to_all_rss_feeds">Uporabim te spremembe za vse RSS vier?</string>

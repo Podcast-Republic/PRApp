@@ -277,27 +277,6 @@
         <item>Temna</item>
         <item>AMOLED črna</item>
     </string-array>
-	    <string-array name="ui_theme_value" translatable="false">
-        <item>DeepWhite</item>
-        <item>White</item>
-        <item>Red</item>
-        <item>Pink</item>
-        <item>Purple</item>
-        <item>DeepPurple</item>
-        <item>Indigo</item>
-        <item>Light</item>     <!-- Blue-->
-        <item>LightBlue</item>
-        <item>Cyan</item>
-        <item>Teal</item>
-        <item>Green</item>
-        <item>LightGreen</item>
-        <item>Amber</item>
-        <item>Orange</item>
-        <item>DeepOrange</item>
-        <item>BlueGray</item>
-        <item>Dark</item>
-        <item>DeepDark</item>
-		    </string-array>
     <string name="theme">Tema</string>
     <string name="skip_beginning">Preskoči začetek</string>
     <string name="time_display_second_short_format">sek</string>

@@ -20,49 +20,49 @@
         <item>Brazilija</item>
         <item>Ciper</item>
         <item>Češka</item>
-	<item>Čile</item>
+	    <item>Čile</item>
         <item>Danska</item>
         <item>Egipt</item>
         <item>Ekvador</item>
-	<item>Filipini</item>
+	    <item>Filipini</item>
         <item>Finska</item>
         <item>Francija</item>
         <item>Grčija</item>
         <item>Hong Kong</item>
-	<item>Hrvaška</item>
+	    <item>Hrvaška</item>
         <item>Indija</item>
         <item>Indonezija</item>
         <item>Irska</item>
-	<item>Islandija</item>
+	    <item>Islandija</item>
         <item>Italija</item>
-	<item>Izrael</item>
+	    <item>Izrael</item>
         <item>Jamajka</item>
         <item>Japonska</item>
         <item>Jordanija</item>
-	<item>Južna Afrika</item>
-	<item>Kambodža</item>
+        <item>Južna Afrika</item>
+        <item>Kambodža</item>
         <item>Kanada</item>
-	<item>Katar</item>
+	    <item>Katar</item>
         <item>Kazahstan</item>
         <item>Kenija</item>
-	<item>Kirgizija</item>
-	<item>Kitajska</item>
-	<item>Kolumbija</item>
+        <item>Kirgizija</item>
+        <item>Kitajska</item>
+        <item>Kolumbija</item>
         <item>Koreja</item>
-	<item>Kostarika</item>
+	    <item>Kostarika</item>
         <item>Kuvajt</item>
         <item>Latvija</item>
         <item>Litva</item>
         <item>Luksemburg</item>
         <item>Macau</item>
-	<item>Madžarska</item>
-	<item>Mehika</item>
+        <item>Madžarska</item>
+        <item>Mehika</item>
         <item>Malezija</item>
         <item>Mongolija</item>
-	<item>Nemčija</item>
+	    <item>Nemčija</item>
         <item>Nizozemska</item>
         <item>Norveška</item>
-	<item>Nova Zelandija</item>
+	    <item>Nova Zelandija</item>
         <item>Pakistan</item>
         <item>Peru</item>
         <item>Poljska</item>
@@ -73,20 +73,20 @@
         <item>Singapur</item>
         <item>Slovaška</item>
         <item>Slovenija</item>
-	<item>Srbija</item>
+	    <item>Srbija</item>
         <item>Španija</item>
         <item>Šri Lanka</item>
         <item>Švedska</item>
         <item>Švica</item>
         <item>Tadžikistan</item>
         <item>Tajska</item>
-	<item>Tajvan</item>
+	    <item>Tajvan</item>
         <item>Tunizija</item>
         <item>Turčija</item>
         <item>Ukrajina</item>
         <item>Združene države Amerike</item>
-	<item>Združeni arabski emirati</item>
-	<item>Združeno kraljestvo</item>
+        <item>Združeni arabski emirati</item>
+        <item>Združeno kraljestvo</item>
         <item>Venezuela</item>
         <item>Vijetnam</item>
     </string-array>

@@ -92,7 +92,7 @@
     </string-array>
 
     <string name="app_name">Podcast Republic</string>
-    <string name="pref_auto_delete_played_summary">Samodejno izbriši predvajane elemente iz seznama prenosov.</string>
+    <string name="pref_auto_delete_played_summary">Samodejno izbriši predvajane epizode iz seznama prenosov.</string>
     <string name="pref_downloadLocation">Prenesi podkaste v:</string>
     <string name="downloads">Prenosi</string>
     <string name="jump_to_next_episode">Skoči na naslednjo epizodo</string>
@@ -161,7 +161,7 @@
     <string name="episodes_have_been_added_to_downloads">"%1$d epizod je bilo dodanih prenesenim."</string>
     <string name="download_episode_not_found">Prenesena epizoda ni najdena!</string>
     <string name="yes">Da</string>
-    <string name="ok">OK</string>
+    <string name="ok">Potrdi</string>
     <string name="no">Ne</string>
     <string name="close">Zapri</string>
     <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Prenesena epizoda [%1$s] ni najdena.\nKaj bi rad(a) storil(a)?"</string>
@@ -226,8 +226,8 @@
     <string name="enter_new_artwork_url">Vnesi nov URL naslov za grafično podobo</string>
     <string name="sleep_timer">Časovnik</string>
     <string name="last_updated_s">"Zadnjič posodobljeno: %1$s"</string>
-    <string name="fast_forward">Hitro naprej</string>
-    <string name="fast_rewind">Hitro nazaj</string>
+    <string name="fast_forward">Skok naprej</string>
+    <string name="fast_rewind">Skok nazaj</string>
     <string name="play_pause">Predvajaj/Pavza</string>
     <string name="none">Nič</string>
     <string name="sort_asc">Razvrsti naraščajoče</string>
@@ -296,8 +296,8 @@
     <string name="audio_not_started_yet">Zvokovna sled se še ni začela!</string>
     <string name="manage_playlist">Organiziraj sezname</string>
     <string name="download">Prenos</string>
-    <string name="fast_forward_time">Hitro naprej</string>
-    <string name="fast_rewind_time">Hitro nazaj</string>
+    <string name="fast_forward_time">Skok naprej</string>
+    <string name="fast_rewind_time">Skok nazaj</string>
     <string name="play_stop">Predvajaj/Ustavi</string>
     <string name="buttons">Možnosti</string>
     <string name="when_lost_audio_focus">Ko je zvok začasno prekinjen</string>
@@ -376,11 +376,11 @@
     <string name="channel_id">ID kanala</string>
     <string name="playlist_id">ID Seznama</string>
     <string name="when_deleting_an_episode">Ob izbrisu epizode</string>
-    <string name="also_remove_from_downloads_amp_playlists">Odstrani tudi iz Prenosov &amp; Seznamov.</string>
+    <string name="also_remove_from_downloads_amp_playlists">Odstrani tudi iz prenosov &amp; seznamov.</string>
     <string name="remove_episode_only">Odstrani samo epizode</string>
     <string name="mark_episode_as_played_if_more_than_has_been_played">Označi epizodo kot predvajano, ko je bila predvajana več kot %1$d%%.</string>
     <string name="download_episode">Prenesi epizodo</string>
-    <string name="start_downloading_when_episode_is_added_to_playlist">Začni prenašanje, ko je eipzoda dodana na seznam.</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">Začni prenašanje, ko je epizoda dodana na seznam.</string>
     <string name="podcast_keep_download_limit_reached_">Dosežena zgornja meja ohranjenih prenesenih podkastov!</string>
     <string name="auto_download_filter">Filter samodejnih prenosov</string>
     <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">Filtriraj epizode za samodejen prenos. Zahteva omogočeno možnost samodejnih prenosov.</string>
@@ -414,7 +414,7 @@
     <string name="reset_episodes">Ponastavi epizode</string>
     <string name="warning_reset_episode_data_will_remove_downloads_of_this_podcast_">Opozorilo: ponastavitev podatkov epizod bo odstranila vse prenose tega podkasta!</string>
     <string name="copy_url">Kopiraj URL naslov</string>
-    <string name="view_episode">Poglej epizodo</string>
+    <string name="view_episode">Pokaži opis epizode</string>
     <string name="episode_url_has_been_copied_to_clipboard">URL naslov epizode je bil kopiran.</string>
     <string name="dim_screen">Zatemnitev zaslona</string>
     <string name="keep_screen_always_on">Ohrani zaslon vedno aktiven.</string>
@@ -473,8 +473,8 @@
     <string name="auto_backup">Varnostna kopija</string>
     <string name="double_tap_to_play_or_pause">Dvojni dotik za predvajanje ali pavzo</string>
     <string name="swipe_up_to_play_next_in_playlist">Podrsajte navzgor za predvajanje naslednjega na seznamu</string>
-    <string name="swipe_to_left_to_fast_rewind">Podrsajte v levo za hitro previjanje nazaj</string>
-    <string name="swipe_to_right_to_fast_forward">Podrsajte v desno za hitro previjanje naprej</string>
+    <string name="swipe_to_left_to_fast_rewind">Podrsajte v levo za skok nazaj</string>
+    <string name="swipe_to_right_to_fast_forward">Podrsajte v desno za skok naprej</string>
     <string name="remove_subscription_to_">"Odstrani naročnino na: [%1$s]."</string>
     <string name="data_roaming">Podatkovno gostovanje</string>
     <string name="allow_to_download_with_data_services_when_roaming">Dovoli prenos(e) med podatkovnim gostovanjem.</string>
@@ -528,11 +528,11 @@
     <string name="browse_by_radio_stations">Brskaj po radijskih postajah</string>
     <string name="wifi_is_not_available_cancelling_podcast_update_checking_">Wi-Fi omrežje ni dosegljivo. Preklicujem preverjanje posodobitev podkastov.</string>
     <string name="pull_to_refresh">Povleci za posodobitev</string>
-    <string name="pull_down_the_playlist_to_start_podcast_update_checking">Povleci seznam za začetek preverjanja posodobitev podkastov.</string>
-    <string name="pull_down_download_list_to_start_podcast_update_checking">Povleci seznam prenosov za začetek preverjanja posodobitev podkastov.</string>
-    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Povleci seznam podkastov za začetek preverjanja posodobitev podkastov.</string>
-    <string name="pull_down_episodes_list_to_start_podcast_update_checking">Povleci seznam epizod za začetek preverjanja posodobitev podkastov.</string>
-    <string name="auto_rotate_screen">Samodejno obrni zaslon</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">Povleci seznam za začetek preverjanja posodobitev.</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">Povleci seznam prenosov za začetek preverjanja posodobitev.</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">Povleci seznam podkastov za začetek preverjanja posodobitev.</string>
+    <string name="pull_down_episodes_list_to_start_podcast_update_checking">Povleci seznam epizod za začetek preverjanja posodobitev.</string>
+    <string name="auto_rotate_screen">Samodejno zasukaj zaslon</string>
     <string name="screen_orientation">Usmerjenost zaslona</string>
     <string name="portrait">Pokončno</string>
     <string name="landscape">Ležeče</string>
@@ -848,7 +848,7 @@
     <string name="recently_played">Zadnje predvajano</string>
     <string name="play_all_newer_episodes">Predvajaj vse nove epizode</string>
     <string name="see_what_s_new_in_this_version_s">Poglej kaj je novega v tej verziji: %1$s.</string>
-    <string name="enabled_buttons_">Omogočeni gumbi:</string>
+    <string name="enabled_buttons_">Možnosti:</string>
     <string name="bottom_navigation_bar">Spodnja vrstica za krmarjenje</string>
     <string name="play_bar">Vrstica za predvajanje</string>
     <string name="can_not_edit_default_episode_filter_">Ne morem urediti prvzetega filtra epizod!</string>
@@ -910,7 +910,7 @@
     <string name="there_are_no_played_episodes_">Ni predvajanih epizod!</string>
     <string name="there_are_no_favorite_episodes_">Ni priljubljenih epizod!</string>
     <string name="there_are_no_downloaded_episodes_">Ni prenesenih epizod!</string>
-    <string name="start_playing_and_go_to_now_playing">Začni predvajanje in pojdi na seznam Trenutno se predvaja</string>
+    <string name="start_playing_and_go_to_now_playing">Začni predvajanje in pojdi na seznam Predvaja se</string>
     <string name="show_unplayed_counter">Prikaži števec nepredvajanih</string>
     <string name="hide_unplayed_counter">Skrij števec nepredvajanih</string>
     <string name="show_recent_counter">Prikaži števec nedavnih</string>
@@ -957,10 +957,10 @@
     <string name="don_t_show_it_again">Ne pokaži ponovno</string>
     <string name="always_on">Vedno vklopljen</string>
     <string name="always_on_amoled_black">Vedno vklopljen (AMOLED črna)</string>
-    <string name="smart_rewind_on_resuming">Pametno previjanje nazaj ob nadaljevanju</string>
-    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Samodejno previj nazaj %1$d do %2$d sekund ob nadaljevanju predvajanja.</string>
-    <string name="minimum_rewind_time_d_seconds">Najmanjši čas previjanja: %1$d sekund.</string>
-    <string name="maximum_rewind_time_d_seconds">Največji čas previjanja: %1$d sekund.</string>
+    <string name="smart_rewind_on_resuming">Pametno ponavljanje ob nadaljevanju</string>
+    <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Ponovi %1$d do %2$d sekund ob nadaljevanju predvajanja.</string>
+    <string name="minimum_rewind_time_d_seconds">Najkrajši čas ponavljanja: %1$d sekund.</string>
+    <string name="maximum_rewind_time_d_seconds">Najdaljši čas ponavljanja: %1$d sekund.</string>
     <string name="show_radio_station_title">Pokaži ime postaje</string>
     <string name="hide_radio_station_title">Skrij ime postaje</string>
     <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">Če ni izbranih ponavljajočih se dni, se bo budilka sprožila samo enkrat.</string>
@@ -1005,14 +1005,14 @@
     <string name="select_all_below">Izberi vse spodaj</string>
     <string name="select_all_above">Izberi vse zgoraj</string>
     <string name="ignore_articles_in_title">Ne upoštevaj člankov v naslovu</string>
-    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Pri razvrščanju po naslovu prezrite predpone (A, An ali The) v naslovu podcasta.</string>
+    <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Pri razvrščanju po naslovu prezrite predpone (A, An ali The) v naslovu podkasta.</string>
     <string name="create_shortcut">Ustvari bližnjico</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Dovoli uporabo mobilnih podatkov in prezri omejitve baterije pri prenosu epizod.</string>
     <string name="show_play_next_episode_station_button">Prikaži možnost Predvajaj naslednjo epizodo/radijsko postajo.</string>
     <string name="append_to_up_next">Pripni v seznam Naslednji</string>
     <string name="only_include_episodes_with_user_notes">Vključi samo epizode z zapiski uporabnika.</string>
     <string name="description_preview">Predogled opisa</string>
-    <string name="d_lines_of_text">%1$d vrstic</string>
+    <string name="d_lines_of_text">%1$d vrstice</string>
     <string name="mark_current_playback_position">Označi trenutni pooložaj predvajanja</string>
     <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">Izberi podobo za podobo bližnjice</string>
@@ -1054,7 +1054,7 @@
     <string name="genre_type_hisotry">Zgodovina</string>
     <string name="animations">Animacije</string>
     <string name="list_animation">Seznam animacij</string>
-    <string name="animate_items_when_loading_into_list">Animate items when loading into list.</string>
+    <string name="animate_items_when_loading_into_list">Animirajte elemente pri nalaganju na seznam.</string>
     <string name="failed_to_update_podcast_s">Neuspešno posodabljanje podkasta: %1$s.</string>
     <string name="reset_password">Ponastavi geslo</string>
     <string name="account_already_exists_please_login_with_the_email_and_password_">Uporabniški račun že obstaja. Prosimo, vpišite se z enaslovom in geslom.</string>
@@ -1085,10 +1085,10 @@
     <string name="export_episode_list">Izvozi seznam epizod</string>
     <string name="as_html_file">kot HTML datoteko</string>
     <string name="as_json_file">kot JSON datoteko</string>
-    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Prikaži grafično podobo epizode pridobljeno iz vira podkastov.</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Prikaži grafično podobo epizode pridobljeno iz vira podkasta.</string>
     <string name="use_podcast_artwork_as_episode_artwork_">Uporabi grafično podobo podkasta kot grafično podobo epizode.</string>
-    <string name="use_embedded_artwork">Uporabi vdelano grafično podoob</string>
-    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Raje uporabi grafično podobo izvlečeno iz prenesene datoteke podkasta.</string>
+    <string name="use_embedded_artwork">Uporabi vdelano grafično podobo</string>
+    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Raje uporabi grafično podobo iz prenesene datoteke podkasta.</string>
     <string name="display_episode_artwork_retrieved_from_media_file_">Prikaži grafično podobo epizode pridobljeno iz medijske datoteke.</string>
     <string name="not_tagged">Neoznačeno</string>
     <string name="save_backup_to">Shrani varnostno kopijo</string>
@@ -1153,8 +1153,8 @@
     <string name="current_color">Trenutna barva</string>
     <string name="text_color">Barva teksta</string>
     <string name="unread_articles">Neprebrani članki</string>
-    <string name="bluetooth_auto_play_workaround">Bluetooth auto play workaround</string>
-    <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Ne začni predvajati, ko je povezan Bluetooth. Za več informacij si oglejte pogosta vprašanja in odgovorov.</string>
+    <string name="bluetooth_auto_play_workaround">Obvod samodejnega predvajanja preok Bluetooth povezave</string>
+    <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Ne začni predvajati, ko je povezan Bluetooth. Za več informacij si oglejte pogosta vprašanja in odgovore.</string>
     <string name="rss_feeds_in_widget">Viri RSS v pripomočku</string>
     <string name="show_selected_rss_feeds_in_widget_s">V pripomočku prikaži izbrane RSS vire: %s</string>
     <string name="mark_all_articles_published_after_this_article_s_as_read_">Označim vse članke objavljene pred tem člankom [%1$s] kot prebrane?</string>

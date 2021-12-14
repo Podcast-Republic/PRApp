@@ -216,8 +216,8 @@
     <string name="view_what_s_new_in_this_version">Poglej kaj je novega v tej verziji.</string>
     <string name="version">Verzija</string>
     <string name="about">O aplikaciji</string>
-    <string name="action_s">"Ukrep: %1$s."</string>
-    <string name="action">"Ukrep"</string>
+    <string name="action_s">"Dejanje: %1$s."</string>
+    <string name="action">"Dejanje"</string>
     <string name="download_only_when_connected_to_wifi">Prenesi samo kadar je naprava povezana v Wi-Fi omrežje.</string>
     <string name="add_to_new_tag">Oznaka Dodaj k novm</string>
     <string name="enter_new_tag_name">Vnesi ime nove oznake</string>
@@ -290,13 +290,13 @@
     <string name="view_library_as">Brskaj…</string>
     <string name="list_view">Pogled seznama</string>
     <string name="grid_view">Pogled mreže</string>
-    <string name="playlist_mode">Način seznama predvajanja</string>
-    <string name="single_play_mode">Posamezno predvajanja</string>
+    <string name="playlist_mode">Seznam predvajanja</string>
+    <string name="single_play_mode">Posamezno predvajanje</string>
     <string name="s_has_been_added_to_subscription">"%1$s je bil dodan k naročenim"</string>
     <string name="audio_not_started_yet">Zvokovna sled se še ni začela!</string>
     <string name="manage_playlist">Organiziraj sezname</string>
     <string name="download">Prenos</string>
-    <string name="fast_forward_time">Hitro napreje</string>
+    <string name="fast_forward_time">Hitro naprej</string>
     <string name="fast_rewind_time">Hitro nazaj</string>
     <string name="play_stop">Predvajaj/Ustavi</string>
     <string name="buttons">Možnosti</string>
@@ -328,7 +328,7 @@
     <string name="select_a_directory">Izberi mapo</string>
     <string name="data_wifi_usage">Podatki &amp; Wi-Fi uporabe</string>
     <string name="download_via_wifi_only">Prenesi samo preko Wi-Fi povezave</string>
-    <string name="feed_updates_via_wifi_only">Posodobi podkaste samo preko Wi-Fi povezave</string>
+    <string name="feed_updates_via_wifi_only">Posodobi podkaste samo preko Wi-Fi omrežja</string>
     <string name="update_podcasts_only_when_connected_to_wifi">Posodobi podkaste samo, ko je vzpostavljena Wi-Fi povezava.</string>
     <string name="playback_mode">Način predvajanja</string>
     <string name="display_on_lock_screen">Prikaži na zaklenjenem zaslonu</string>
@@ -350,13 +350,13 @@
     <string name="auto_detect">Samodejno zaznavanje</string>
     <string name="audio">Avdio</string>
     <string name="video">Video</string>
-    <string name="account_and_syncing">Uporabniški račun &amp; Sinhroniziram</string>
+    <string name="account_and_syncing">Uporabniški račun &amp; Sinhroniziranje</string>
     <string name="shuffle">Premešaj</string>
 	<string name="update_on_charging">Posodobi med polnjenjem baterije</string>
 	<string name="update_podcasts_only_when_battery_is_charging">Posodobi podkaste samo med polnjenjem baterije.</string>
 	<string name="filename">Ime datoteke</string>
 	<string name="auto_backup_saved_to_">"Varnostna kopija shranjena v [%1$s]."</string>
-    <string name="download_removed">Prenos odstranjen</string>
+    <string name="download_removed">Odstranjen prenos</string>
 	<string name="load_artworks_only_when_connected_to_wifi">Naloži grafične podobe samo med povezavo z Wi-Fi omrežjem.</string>
 	<string name="load_artwork_via_wifi_only">Naloži grafično podobo samo preko Wi-Fi omrežja</string>
 	<string name="when_pressing_episode_in_list">Ko se dotakenem epizode v seznamu</string>
@@ -396,7 +396,7 @@
     <string name="keep_latest_n_downloads">Ohrani zadnjih %1$d prenosov.</string>
     <string name="keep_all_downloads">Ohrani vse prenose</string>
     <string name="playback_controls">Možnosti upravljanja</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Prikaži do tri možnosti upravljanja v skrčenem obvestilu in pri obvestilu v zaklenjenem zaslonu: </string>
+    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Izberite do 3 možnosti za prikaz upravljanja v skrčenem obvestilu in pri obvestilu v zaklenjenem zaslonu: </string>
     <string name="hide_played_podcasts">Skrij predvajane podkaste</string>
     <string name="pause_downloads">Začasno ustavi prenose</string>
     <string name="has_keywords_in_title">Ima ključne besede v naslovu</string>
@@ -575,7 +575,7 @@
     <string name="sign_in">Vpis</string>
     <string name="sign_out">Izpis</string>
     <string name="syncing_started">Sinhroniziranje se je začelo</string>
-    <string name="account_logged_in_s"><![CDATA[Account logged in: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s"><![CDATA[Vpisani ste v uporabniški račun: <i>%1$s</i>]]></string>
     <string name="sync_subscriptions_and_episode_playback_progress">Sinhroniziraj naročnine in napredek predvajanja epizod.</string>
     <string name="schedule_auto_backup_every_d_days">Varnostno kopiraj vsakih %1$d dni.</string>
     <string name="keep_most_recent_d_auto_backups">Ohrani zadnje %1$d varnostne kopije.</string>
@@ -803,7 +803,7 @@
     <string name="sign_in_privacy_and_terms_message"><![CDATA[By clicking <em>Sign in</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Samodejno vklopi časovnik, ko se začne predvajanje.</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Sihroniziraj podatke samo med aktivno povezavo v Wi-Fi omrežju.</string>
-    <string name="syncing_via_wifi_only">Sinhroniziranje samo preko omrežja Wi-Fi</string>
+    <string name="syncing_via_wifi_only">Sinhroniziranje preko omrežja Wi-Fi</string>
     <string name="total_downloaded_file_size_s">Skupna velikost prenesene datoteke: %1$s.</string>
     <string name="featured">Izpostavljeno</string>
     <string name="polular">Popularno</string>
@@ -935,9 +935,9 @@
     <string name="hold_down_to_start_dragging">Pridrži in povleci</string>
     <string name="swipe_right_action">Dejanje za podrsljaj v desno</string>
     <string name="stream_podcasts_via_wifi_only">Pretakaj podkaste samo preko Wi-Fi omrežja</string>
-    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Dovoli pretakanje podkastov samo kadar je vzpostavljena povezava z Wi-Fi omrežjem.</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Dovoli pretakanje podkastov samo kadar je vzpostavljena Wi-Fi povezava.</string>
     <string name="stream_radios_via_wifi_only">Pretakaj radijske postaje samo preko Wi-Fi omrežja</string>
-    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Dovoli pretakanja radijskih postaj samo kadar je aktivna Wi-Fi povezava.</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Dovoli pretakanja radijskih postaj samo kadar med aktivno Wi-Fi povezava.</string>
     <string name="history_and_stats">Zgodovina &amp; Statistika</string>
     <string name="delete_downloads">Izbriši prenoste</string>
     <string name="keep_download">Ohrani prenos</string>
@@ -1142,9 +1142,9 @@
     <string name="bonus">Bonus</string>
     <string name="trailer">Napovednik</string>
     <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Zastarele epizode YouTube podkastov bodo vedno odstranjene.</string>
-    <string name="retrieve_full_article_via_wifi_only">Cel članek prenesi samo preko Wi-Fi omrežja</string>
-    <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">Med posodabljanjem RSS virov pridobi cele članke samo, če je vzpostavljena povezava z Wi-Fi omrežjem.</string>
-    <string name="retrieve_full_article">Prenesi cel članek</string>
+    <string name="retrieve_full_article_via_wifi_only">Celoten članek prenesi samo preko Wi-Fi omrežja</string>
+    <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">Med posodabljanjem RSS virov pridobi celotne članke samo, če je vzpostavljena povezava z Wi-Fi omrežjem.</string>
+    <string name="retrieve_full_article">Prenesi celoten članek</string>
     <string name="article_publishing_date">Datum objave članka</string>
     <string name="article_guid">GUID članka</string>
     <string name="article_title">Naslov članka</string>

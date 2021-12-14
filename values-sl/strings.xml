@@ -816,7 +816,7 @@
     <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</string>
     <string name="smart_download">Pametni prenos</string>
     <string name="download_anyway">Prenesi vseeno</string>
-    <string name="download_anyway_message">Prezri nastavitve za Wi-Fi omrežje in baterijo ter takoj prenesi epizodo preko trenutno omrežne povezave! To bo lahko vplivalo na uporabo prenosa podatkov in baterije. Nadaljujem?</string>
+    <string name="download_anyway_message">Prezri nastavitve za Wi-Fi omrežje in baterijo ter takoj prenesi epizodo preko trenutne omrežne povezave! To bo lahko vplivalo na uporabo prenosa podatkov in baterije. Nadaljujem?</string>
     <string name="play_all_from_old_to_new">Predvajaj vse od starih proti novim</string>
     <string name="delete_all_immediately">Izbriši takoj vse</string>
     <string name="deleted_downloads_will_be_removed_after_24_hours_">Izbrisani prenosi bodo odstranjeni čez 24 ur.</string>
@@ -1076,7 +1076,7 @@
     <string name="allow_to_sort_playlist_manually">Dovoli ročno razvrščanje seznama.</string>
     <string name="preview_descriptions_in_list">Predogled opisov na seznamu.</string>
     <string name="auto_load_last_played_episode">Samodejno nalaganje zadnje predvajane epizode</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Samodejno naložite zadnjo predvajano epizodo na seznamu predvajanja v \'Now playing\'.</string>
+    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Samodejno naložite zadnjo predvajano epizodo na seznamu predvajanja v \'Predvaja se\'.</string>
     <string name="delete_the_playlist_s">"Izbris seznamov: %s?"</string>
     <string name="delete_the_tag_s">"Izbris oznak: %s?"</string>
     <string name="delete_the_episode_filter_s">"Izbriši filtre epizod: %s?"</string>
@@ -1127,7 +1127,7 @@
     <string name="new_article_notification">Obvestilo za nov članek</string>
     <string name="there_are_no_radio_stations_">Ni nobene radijske postaje!</string>
     <string name="android_auto">Android Avto</string>
-    <string name="display_now_playling_list">Prikaži seznam predvajanja.</string>
+    <string name="display_now_playling_list">Prikaži seznam Predvaja se.</string>
     <string name="display_podcasts_list">Prikaži seznam podkastov.</string>
     <string name="display_playlists_list">Prikaži sezname.</string>
     <string name="display_completed_downloads_list">Prikaži seznam dokončanih prenosov.</string>

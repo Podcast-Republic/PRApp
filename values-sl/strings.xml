@@ -221,7 +221,7 @@
     <string name="download_only_when_connected_to_wifi">Prenesi samo kadar je naprava povezana v Wi-Fi omrežje.</string>
     <string name="add_to_new_tag">Oznaka Dodaj k novm</string>
     <string name="enter_new_tag_name">Vnesi ime nove oznake</string>
-    <string name="car_mode">Avto način</string>
+    <string name="car_mode">Način za med vožnjo</string>
     <string name="update_artwork">Posodobi grafično podobo</string>
     <string name="enter_new_artwork_url">Vnesi nov URL naslov za grafično podobo</string>
     <string name="sleep_timer">Časovnik</string>
@@ -791,7 +791,7 @@
     <string name="playback">Predvajanje</string>
     <string name="background_services">Storitve v ozadju</string>
     <string name="general_notifications">Splošna obvestila</string>
-    <string name="return_to_car_mode_">Vrnitev v avto način.</string>
+    <string name="return_to_car_mode_">Vrnitev v način za med vožnjo.</string>
     <string name="android_wear">Android wear</string>
     <string name="notification_background_theme_s">Tema ozadja obvestil: %1$s.</string>
     <string name="turn_on_alarms">Vklopi budilo</string>
@@ -919,7 +919,7 @@
     <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Ni najdenih RSS virov. Dotakni se možnosti Dodaj (+) da dodaš vir.</string>
     <string name="tag_radios">Izberi radijske postaje</string>
     <string name="episode">Epizode</string>
-    <string name="edit_mode">Način urejanja</string>
+    <string name="edit_mode">Način za urejanje</string>
     <string name="no_radio_stations_selected_">Nobena radijska postaja ni izbrana!</string>
     <string name="no_rss_feeds_selected_">Noben RSS vir ni izbran!</string>
     <string name="hide_empty_feeds">Skrij prazne vire</string>
@@ -1047,7 +1047,7 @@
     <string name="move_files_to_download_directory">Premakni datoteke v mapo prenosov</string>
     <string name="greater_than_d_minutes">&gt; %1$d minute</string>
     <string name="less__than_d_minutes">&lt; %1$d minute</string>
-    <string name="you_haven_t_left_any_reviews_yet">Niste napisali še nobene ocene.</string>
+    <string name="you_haven_t_left_any_reviews_yet">Napisali niste še nobene ocene.</string>
     <string name="true_crime">Resnični zločini</string>
     <string name="leisure">Prosti čas</string>
     <string name="fiction">Fantastika</string>
@@ -1136,7 +1136,7 @@
     <string name="view_unplayed_episodes">Poglej nepredvajane epizode</string>
     <string name="view_downloaded_episodes">Poglej prenesene epizode</string>
     <string name="unreviewed">Neocenjeno</string>
-    <string name="posted">Posted</string>
+    <string name="posted">Objavljeno</string>
     <string name="id3_tag_album_cd_track">ID3 Oznaka (Album - CD track)</string>
     <string name="cd_track">CD track</string>
     <string name="bonus">Bonus</string>

@@ -167,7 +167,7 @@
     <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Prenesena epizoda [%1$s] ni najdena.\nKaj bi rad(a) storil(a)?"</string>
     <string name="episode_downloading">Prenašam</string>
     <string name="subscribe">Naroči se</string>
-    <string name="unsubscribe">Prekini naorčnino</string>
+    <string name="unsubscribe">Prekini naročnino</string>
     <string name="settings">Nastavitve</string>
     <string name="remove_ad">Odstrani oglase</string>
     <string name="playlists">Seznami</string>
@@ -188,7 +188,7 @@
     <string name="playing">Predvaja se</string>
     <string name="subscriptions">Naročnine</string>
     <string name="help_faqs">Pomoč/Pogosta vprašanja in odgovori</string>
-    <string name="next">Naslednja</string>
+    <string name="next">Naslednji</string>
     <string name="file_date">Datum datoteke</string>
     <string name="publishing_date">Datum objave</string>
     <string name="sort_manually">Razvrsti ročno</string>
@@ -288,8 +288,8 @@
     <string name="high">Visoka</string>
     <string name="gesture_sensitivity">Občutljivost za kretnje</string>
     <string name="view_library_as">Brskaj…</string>
-    <string name="list_view">Pogled seznama</string>
-    <string name="grid_view">Pogled mreže</string>
+    <string name="list_view">Pogled v obliki seznama</string>
+    <string name="grid_view">Pogled v obliki mreže</string>
     <string name="playlist_mode">Seznam predvajanja</string>
     <string name="single_play_mode">Posamezno predvajanje</string>
     <string name="s_has_been_added_to_subscription">"%1$s je bil dodan k naročenim"</string>
@@ -326,7 +326,7 @@
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Ustvarite odlagališče navideznih podkastov tako, da izberete mapo v svoji napravi. Vsaka predstavnostna datoteka v izbrani mapo bo uvožena kot epizoda. Pozneje lahko ročno dodate ali odstanite predstavnostne datoteke v mapi.</string>
     <string name="location">Lokacija</string>
     <string name="select_a_directory">Izberi mapo</string>
-    <string name="data_wifi_usage">Podatki &amp; Wi-Fi uporabe</string>
+    <string name="data_wifi_usage">Podatki &amp; Wi-Fi uporaba</string>
     <string name="download_via_wifi_only">Prenesi samo preko Wi-Fi povezave</string>
     <string name="feed_updates_via_wifi_only">Posodobi podkaste samo preko Wi-Fi omrežja</string>
     <string name="update_podcasts_only_when_connected_to_wifi">Posodobi podkaste samo, ko je vzpostavljena Wi-Fi povezava.</string>
@@ -502,7 +502,7 @@
     <string name="keep_playing">Nadaljuj predvajanje</string>
     <string name="play_from_position">Predvajaj iz položaja</string>
     <string name="report_a_bug">Prijavi hrošča</string>
-    <string name="import_export_opml">Uvoz/izvoz OPML</string>
+    <string name="import_export_opml">OPML uvoz/izvoz</string>
     <string name="import_from_opml_file">Uvozi iz OPML datoteke</string>
     <string name="export_to_opml_file">Izvozi v OPML datoteko</string>
     <string name="episodes">Epizode</string>
@@ -593,7 +593,7 @@
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">Ko je prenos odstranjen zaradi dosežene meje shranjenih prenosov.</string>
     <string name="keep_all">Ohrani vse</string>
     <string name="playlist">Seznam</string>
-    <string name="category">Kategorija</string>
+    <string name="category">Kategorije</string>
     <string name="update_podcasts_when_app_is_starting">Posodobi podkaste ob zagonu aplikacije.</string>
     <string name="unknown_station">Neznana postaja</string>
     <string name="can_not_cast_youtube_videos_to_chromecast_">YouTube posnetkov ni mogoče poslati v Chromecast!</string>
@@ -749,8 +749,8 @@
     <string name="redownload_all_selected_episodes_">Ponovno prenesi vse izbrane epizode?</string>
     <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">Mesto shranjevanja ni dosegljivo. Nastavim mesto lokacije zdaj?</string>
     <string name="insufficient_space_please_free_some_storage_space_">Premalo prostora. Sprostite nekaj prostora za shranjevanje.</string>
-    <string name="show_last_updated_time">Pokaži zadnji posodobljeni čas</string>
-    <string name="hide_last_updated_time">Skrij zadnji posodobljeni čas</string>
+    <string name="show_last_updated_time">Pokaži zadnji čas posodobitve</string>
+    <string name="hide_last_updated_time">Skrij zadnji čas posodobitve</string>
     <string name="delete_account">Izbriši uporabniški račun</string>
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">V ta račun se ne boste mogli znova prijaviti! Želite dokončno izbrisati račun?</string>
     <string name="download_completed">Prenos končan</string>
@@ -798,9 +798,9 @@
     <string name="turn_off_alarms">Izklopi budilko</string>
     <string name="play_as_audio_only">Predvajaj samo zvok</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Odstrani prenose odjavljenega podkasta: [%1$s]?</string>
-    <string name="report_bug_privacy_message"><![CDATA[By clicking <em>Report a bug</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[By clicking <em>Create account</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[By clicking <em>Sign in</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="report_bug_privacy_message"><![CDATA[Z dotikom možnosti <em>Prijavi hrošča</em> potrjujete, da se strinjate z našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Pogoji uporabe</a> in da ste prebrali našo <a href=\"https://podcastrepublic.net/privacy-terms/\">Politiko zasebnosti</a>.]]></string>
+    <string name="sign_up_privacy_and_terms_message"><![CDATA[Z dotikom možnosti <em>Ustvari uporabniški račun</em> potrjujete. da se strinjate z našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Pogoji uporabe</a> in da ste prebrali našo <a href=\"https://podcastrepublic.net/privacy-terms/\">Politiko zasebnosti</a>.]]></string>
+    <string name="sign_in_privacy_and_terms_message"><![CDATA[Z dotikom možnosti <em>Sign in</em> potrjujete. da se strinjate z našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Pogoji uporabe</a> in da ste prebrali našo <a href=\"https://podcastrepublic.net/privacy-terms/\">Politiko zasebnosti</a>.]]></string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Samodejno vklopi časovnik, ko se začne predvajanje.</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Sihroniziraj podatke samo med aktivno povezavo v Wi-Fi omrežju.</string>
     <string name="syncing_via_wifi_only">Sinhroniziranje preko omrežja Wi-Fi</string>
@@ -917,13 +917,13 @@
     <string name="hide_recent_counter">Skrij števec nedavnih</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nobena radijska postaja ni najdena. Dotakni se možnosti Dodaj (+) , da dodaš radijsko postajo.</string>
     <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Ni najdenih RSS virov. Dotakni se možnosti Dodaj (+) da dodaš vir.</string>
-    <string name="tag_radios">Označi radijske postaje</string>
+    <string name="tag_radios">Izberi radijske postaje</string>
     <string name="episode">Epizode</string>
     <string name="edit_mode">Način urejanja</string>
     <string name="no_radio_stations_selected_">Nobena radijska postaja ni izbrana!</string>
     <string name="no_rss_feeds_selected_">Noben RSS vir ni izbran!</string>
     <string name="hide_empty_feeds">Skrij prazne vire</string>
-    <string name="tag_feeds">Označi vire</string>
+    <string name="tag_feeds">Izberi vire</string>
     <string name="open_in_browser">Odpri v brskalniku</string>
     <string name="mark_as_unread">Označi kot neprebrano</string>
     <string name="article_url">URL naslov članka</string>
@@ -1167,7 +1167,7 @@
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Uporabi privzet naslov poglavja.</string>
-    <string name="grid_spacing">Razmerja v mreži</string>
+    <string name="grid_spacing">Razmik v mreži</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
     <string name="set_sleep_timer_after_this_episode">Nastavi časovnik po tej epizodi</string>
     <string name="mark_all_as_played">Označi vse kot predvajano</string>

@@ -20,36 +20,36 @@
         <item>Brazilija</item>
         <item>Ciper</item>
         <item>Češka</item>
-	    <item>Čile</item>
+	<item>Čile</item>
         <item>Danska</item>
         <item>Egipt</item>
         <item>Ekvador</item>
-	    <item>Filipini</item>
+	<item>Filipini</item>
         <item>Finska</item>
         <item>Francija</item>
         <item>Grčija</item>
         <item>Hong Kong</item>
-	    <item>Hrvaška</item>
+	<item>Hrvaška</item>
         <item>Indija</item>
         <item>Indonezija</item>
         <item>Irska</item>
-	    <item>Islandija</item>
+	<item>Islandija</item>
         <item>Italija</item>
-	    <item>Izrael</item>
+	<item>Izrael</item>
         <item>Jamajka</item>
         <item>Japonska</item>
         <item>Jordanija</item>
         <item>Južna Afrika</item>
         <item>Kambodža</item>
         <item>Kanada</item>
-	    <item>Katar</item>
+	<item>Katar</item>
         <item>Kazahstan</item>
         <item>Kenija</item>
         <item>Kirgizija</item>
         <item>Kitajska</item>
         <item>Kolumbija</item>
         <item>Koreja</item>
-	    <item>Kostarika</item>
+	<item>Kostarika</item>
         <item>Kuvajt</item>
         <item>Latvija</item>
         <item>Litva</item>
@@ -59,10 +59,10 @@
         <item>Mehika</item>
         <item>Malezija</item>
         <item>Mongolija</item>
-	    <item>Nemčija</item>
+	<item>Nemčija</item>
         <item>Nizozemska</item>
         <item>Norveška</item>
-	    <item>Nova Zelandija</item>
+	<item>Nova Zelandija</item>
         <item>Pakistan</item>
         <item>Peru</item>
         <item>Poljska</item>
@@ -73,14 +73,14 @@
         <item>Singapur</item>
         <item>Slovaška</item>
         <item>Slovenija</item>
-	    <item>Srbija</item>
+	<item>Srbija</item>
         <item>Španija</item>
         <item>Šri Lanka</item>
         <item>Švedska</item>
         <item>Švica</item>
         <item>Tadžikistan</item>
         <item>Tajska</item>
-	    <item>Tajvan</item>
+	<item>Tajvan</item>
         <item>Tunizija</item>
         <item>Turčija</item>
         <item>Ukrajina</item>
@@ -311,7 +311,7 @@
     <string name="edit">Uredi</string>
     <string name="time_display_minute_short_format">min</string>
     <string name="keep_screen_on">Ohrani zaslon vklopljen</string>
-    <string name="backup_restore">Varnostna kopija &amp; Obnovi</string>
+    <string name="backup_restore">Varnostna kopija &amp; Obnovitev</string>
     <string name="backup">Varnostna kopija</string>
     <string name="restore_settings_database">Dotakni se za obnovitev nastavitev &amp; podatkovne baze.</string>
     <string name="restore">Obnovi</string>
@@ -417,7 +417,7 @@
     <string name="view_episode">Poglej epizodo</string>
     <string name="episode_url_has_been_copied_to_clipboard">URL naslov epizode je bil kopiran.</string>
     <string name="dim_screen">Zatemnitev zaslona</string>
-    <string name="keep_screen_always_on">Ohrano zaslon vedno aktiven.</string>
+    <string name="keep_screen_always_on">Ohrani zaslon vedno aktiven.</string>
     <string name="completed_downloads">Dokončano</string>
     <string name="top_charts">Lestvice najboljših</string>
     <string name="browse_top_charts">Brskaj lestvice najboljših</string>
@@ -578,9 +578,9 @@
     <string name="account_logged_in_s"><![CDATA[Account logged in: <i>%1$s</i>]]></string>
     <string name="sync_subscriptions_and_episode_playback_progress">Sinhroniziraj naročnine in napredek predvajanja epizod.</string>
     <string name="schedule_auto_backup_every_d_days">Varnostno kopiraj vsakih %1$d dni.</string>
-    <string name="keep_most_recent_d_auto_backups">Ohrani nedavnih %1$d varnostnih kopij.</string>
+    <string name="keep_most_recent_d_auto_backups">Ohrani zadnje %1$d varnostne kopije.</string>
     <string name="save_auto_backup_to_s">Shrani varnostno kopijo v: %1$s.</string>
-    <string name="enable_auto_backup_of_app_settings_and_database">Omogoči varnostno kopijo nastavitev aplikacije in podatkovne baze.</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">Omogoči varnostno kopiranje nastavitev aplikacije in podatkovne baze.</string>
     <string name="schedule_backup">Urnik za varnostne kopije</string>
     <string name="backups_to_keep">Ohrani varnostne kopije</string>
     <string name="import_subscriptions_from_an_opml_file">Uvozi naročnine iz OPML datoteke.</string>
@@ -876,7 +876,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Zapomni si zadnji nivo glasnosti in ga uporabi ob začetku predvajanja.</string>
     <string name="metered_network">Merjeno omrežje</string>
     <string name="allow_to_download_over_metered_network">Dovoli prenose preko merjenega omrežja.</string>
-    <string name="remind_me_1_minute_less">Opomni me (1 minuta manj)</string>
+    <string name="remind_me_1_minute_less">Opomni me (1 minuto prej)</string>
     <string name="unread_count">Število neprebranih</string>
     <string name="newest_unread">Novi neprebrani</string>
     <string name="no_articles_selected_">Ni izbranih člankov!</string>
@@ -977,7 +977,7 @@
     <string name="search_in_subscribed_podcasts">Išči po vseh naročenih podkastih</string>
     <string name="search_by_podcast_title">Išči po naslovu podkasta</string>
     <string name="search_by_podcast_publisher">Išči po založniku podkasta</string>
-    <string name="fade_audio_out_2_minutes_less">Postopoma znižaj glasnost (2 minuti manj)</string>
+    <string name="fade_audio_out_2_minutes_less">Postopoma znižaj glasnost (2 minuti)</string>
     <string name="keep_all_articles">Ohrani vse članke</string>
     <string name="keep_articles">Ohrani članke</string>
     <string name="keep_articles_from_last_d_days">Ohrani članke zadnjih %1$d dni.</string>
@@ -1066,7 +1066,7 @@
     <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Samodejno vklopi časovnik, če se predvajanje začne med določenim časom [%1$s - %2$s].</string>
-    <string name="schedule_sleep_time">Schedule sleep time</string>
+    <string name="schedule_sleep_time">Nastavi čas počitka</string>
     <string name="error_start_time_and_end_time_can_not_be_same_">Napaka: \"Začetni čas\" and \"Končni čas\" ne smeta biti enaka!</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
     <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Uporabim zvočne učinke za vse podkaste in radijske postaje?</string>

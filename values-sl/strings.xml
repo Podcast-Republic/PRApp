@@ -489,8 +489,8 @@
     <string name="browse_downloads">Prebrskaj prenose</string>
     <string name="browse_by_playlist">Prebrskaj sezname</string>
     <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">Ponastavitev epizod bo zavrgla predpomnjene epizode in obnovila epizode iz vira podkastov.</string>
-    <string name="right_hand_operation">Right hand operation</string>
-    <string name="open_menu_drawer_on_the_right_side">Odprite predal z meniji na desni stran.</string>
+    <string name="right_hand_operation">Upravljanje na desni</string>
+    <string name="open_menu_drawer_on_the_right_side">Odprite predal z možnostmi na desni stran.</string>
     <string name="go_to_podcast">Skoči na podkast</string>
     <string name="there_are_no_podcasts_">Ni nobenega podkasta!</string>
     <string name="no_podcasts_selected">Noben podkast ni izbran!</string>
@@ -1053,7 +1053,7 @@
     <string name="fiction">Fantastika</string>
     <string name="genre_type_hisotry">Zgodovina</string>
     <string name="animations">Animacije</string>
-    <string name="list_animation">Seznam animacij</string>
+    <string name="list_animation">Animacije seznamov</string>
     <string name="animate_items_when_loading_into_list">Animirajte elemente pri nalaganju na seznam.</string>
     <string name="failed_to_update_podcast_s">Neuspešno posodabljanje podkasta: %1$s.</string>
     <string name="reset_password">Ponastavi geslo</string>

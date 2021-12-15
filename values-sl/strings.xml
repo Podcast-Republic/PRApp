@@ -863,7 +863,7 @@
     <string name="click_on_the_tab_again_to_view_all_your_podcast_tags">Ponovno se dotakni zavihka za ogled vseh oznak podkastov.</string>
     <string name="changing_the_play_mode_to_repeat_a_playlist_">Spreminjanje načina predvajanja za ponovitev seznama predvajanja:</string>
     <string name="_removing_from_playlist_on_played_will_be_disabled">- Odstranjevanje s seznama predvajanja ob predvajanju bo onemogočeno</string>
-    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Odstranjevanje prenesene datoteke podcasta ob predvajanju bo onemogočeno</string>
+    <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Odstranjevanje prenesene datoteke podkasta ob predvajanju bo onemogočeno</string>
     <string name="view_all_your_episode_filters">Poglej vse filtre za epizode</string>
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Znova kliknite zavihek, da si ogledate vse filtre za epizode.</string>
     <string name="stop_playing_when_time_is_up">Ko poteče čas, ustavi predvajanje</string>

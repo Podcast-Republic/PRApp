@@ -49,7 +49,7 @@
         <item>Lettország</item>
         <item>Litvánia</item>
         <item>Luxemburg</item>
-        <item>Macau</item>
+        <item>Makaó</item>
         <item>Malajzia</item>
         <item>Mexikó</item>
         <item>Mongólia</item>
@@ -65,8 +65,8 @@
         <item>Románia</item>
         <item>Oroszország</item>
         <item>Szaúd-Arábia</item>
-        <item>Szerb</item>
-        <item>Singapore</item>
+        <item>Szerbia</item>
+        <item>Szingapúr</item>
         <item>Szlovákia</item>
         <item>Szlovénia</item>
         <item>Dél-Afrika</item>
@@ -162,7 +162,7 @@
     <string name="unsubscribe">Leiratkozás</string>
     <string name="settings">Beállítások</string>
     <string name="remove_ad">Hirdetések eltávolítása</string>
-    <string name="playlists">Listák</string>
+    <string name="playlists">Lejátszólisták</string>
     <string name="there_is_no_podcast_playing">Nincs mit hallgatni</string>
     <string name="paused">Szünetel</string>
     <string name="stopped_on_error">Leállt hiba miatt</string>
@@ -1212,6 +1212,6 @@
     <string name="jump_to_beginning">Ugrás az elejére</string>
     <string name="jump_to_previous_chapter">Ugrás az előző fejezetre</string>
     <string name="when_i_press_previous_button">Az Előző gomb megnyomásakor</string>
-    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
+    <string name="playback_mode_single_episode_load_next">Egy epizód (következő betöltése)</string>
 
 </resources>

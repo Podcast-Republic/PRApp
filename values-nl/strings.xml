@@ -283,8 +283,8 @@
     <string name="view_library_as">"Bekijken in…"</string>
     <string name="list_view">"Lijstweergave"</string>
     <string name="grid_view">"Gridweergave"</string>
-    <string name="playlist_mode">"Afspeellijst modus"</string>
-    <string name="single_play_mode">"Apart afspelen modus"</string>
+    <string name="playback_mode_playlist">"Afspeellijst modus"</string>
+    <string name="playback_mode_single_episode">"Apart afspelen modus"</string>
     <string name="s_has_been_added_to_subscription">"%1$s is toegevoegd aan abonnement"</string>
     <string name="audio_not_started_yet">"Audio nog niet begonnen!"</string>
     <string name="manage_playlist">"Beheer afspeellijsten"</string>
@@ -344,7 +344,7 @@
     <string name="audio">"Audio"</string>
     <string name="video">"Video"</string>
     <string name="account_and_syncing">"Sync tussen apparaten"</string>
-    <string name="shuffle">"Husselen"</string>
+    <string name="playback_mode_shuffle">"Husselen"</string>
     <string name="update_on_charging">"Controleer op updates bij opladen"</string>
     <string name="update_podcasts_only_when_battery_is_charging">"Controleer alleen op podcast updates wanneer de batterij wordt opgeladen"</string>
     <string name="filename">"Bestandsnaam"</string>
@@ -746,8 +746,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">Meld het wanneer een aflevering is gedownload</string>
     <string name="night_mode">"Nachtstand"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Schakelt automatisch tussen licht thema (dag) en donker thema (nacht) op basis van het tijdstip van de dag"</string>
-    <string name="repeat_episode">"Herhaal aflevering"</string>
-    <string name="repeat_playlist">"Herhaal afspeellijst"</string>
+    <string name="playback_mode_repeat_episode">"Herhaal aflevering"</string>
+    <string name="playback_mode_repeat_playlist">"Herhaal afspeellijst"</string>
     <string name="alarms">"Alarmen"</string>
     <string name="sunday">Zondag</string>
     <string name="monday">Maandag</string>
@@ -931,7 +931,7 @@
     <string name="delete_downloads">Verwijder downloads</string>
     <string name="keep_download">Bewaar download</string>
     <string name="delete_episodes">Verwijder afleveringen</string>
-    <string name="priority_mode">Prioriteitsmodus</string>
+    <string name="playback_mode_priority">Prioriteitsmodus</string>
     <string name="stats">Statistieken</string>
     <string name="time_saved_b_s_b"><![CDATA[Tijd bespaard: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Je luisterde: <b>%s</b>.]]></string>
@@ -1208,4 +1208,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

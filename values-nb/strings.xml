@@ -524,7 +524,7 @@
     <string name="playing_state">Avspillingstilstand</string>
     <string name="playlist">Spilleliste</string>
     <string name="playlist_id">Spilleliste-id</string>
-    <string name="playlist_mode">Spilleliste</string>
+    <string name="playback_mode_playlist">Spilleliste</string>
     <string name="playlists">Spillelister</string>
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Lukk ikke appen når den holder på å gjeninnhente data. Appen starter opp igjen når alle data er på plass.</string>
     <string name="podcast">Podcast</string>
@@ -616,11 +616,11 @@
     <string name="share">Del</string>
     <string name="show_descriptions">Vis beskrivelse</string>
     <string name="show_podcast_title">Vis podcasttittel</string>
-    <string name="shuffle">Tilfeldig rekkefølge</string>
+    <string name="playback_mode_shuffle">Tilfeldig rekkefølge</string>
     <string name="sign_in">Logg inn</string>
     <string name="sign_out">Logg ut</string>
     <string name="sign_up">Meld deg opp</string>
-    <string name="single_play_mode">Enkeltepisoder</string>
+    <string name="playback_mode_single_episode">Enkeltepisoder</string>
     <string name="skip_beginning">Hopp over begynnelsen</string>
     <string name="skip_ending">Hopp over avslutningen</string>
     <string name="skip_the_beginning_d_seconds">Hopp over de første %d sekundene av begynnelsen</string>
@@ -745,8 +745,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">Notify when an episode has been downloaded</string>
     <string name="night_mode">Night mode</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Switching between light theme (day) and dark theme (night) based on the time of day</string>
-    <string name="repeat_episode">Repeat episode</string>
-    <string name="repeat_playlist">Repeat playlist</string>
+    <string name="playback_mode_repeat_episode">Repeat episode</string>
+    <string name="playback_mode_repeat_playlist">Repeat playlist</string>
     <string name="alarms">Alarms</string>
     <string name="sunday">Sunday</string>
     <string name="monday">Monday</string>
@@ -930,7 +930,7 @@
     <string name="delete_downloads">Delete downloads</string>
     <string name="keep_download">Keep download</string>
     <string name="delete_episodes">Delete episodes</string>
-    <string name="priority_mode">Priority mode</string>
+    <string name="playback_mode_priority">Priority mode</string>
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>.]]></string>
@@ -1207,4 +1207,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

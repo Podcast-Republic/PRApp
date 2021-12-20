@@ -288,8 +288,8 @@
     <string name="view_library_as">Afficher en …</string>
     <string name="list_view">Liste</string>
     <string name="grid_view">Grille</string>
-    <string name="playlist_mode">Mode de la liste de lecture</string>
-    <string name="single_play_mode">Mode de lecture unique</string>
+    <string name="playback_mode_playlist">Mode de la liste de lecture</string>
+    <string name="playback_mode_single_episode">Mode de lecture unique</string>
     <string name="s_has_been_added_to_subscription">"%1$s a été ajouté à l'abonnement"</string>
     <string name="audio_not_started_yet">"L'audio n'a pas encore commencé !"</string>
     <string name="manage_playlist">Gérer les listes de lecture</string>
@@ -349,7 +349,7 @@
     <string name="audio">Audio</string>
     <string name="video">"Vidéo"</string>
     <string name="account_and_syncing">Synchro entre appareils</string>
-    <string name="shuffle">Au hasard</string>
+    <string name="playback_mode_shuffle">Au hasard</string>
     <string name="update_on_charging">Actualiser pendant la charge</string>
     <string name="update_podcasts_only_when_battery_is_charging">"N’actualiser les podcasts que pendant la charge de la batterie"</string>
     <string name="filename">Nom de fichier</string>
@@ -751,8 +751,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">"Notifier lorsqu'un épisode a bien été téléchargé"</string>
     <string name="night_mode">Mode nuit</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Ajuster automatiquement la luminosité entre \"jour\" et \"nuit\" en fonction de l'heure."</string>
-    <string name="repeat_episode">"Répéter l'épisode"</string>
-    <string name="repeat_playlist">Répéter la playlist</string>
+    <string name="playback_mode_repeat_episode">"Répéter l'épisode"</string>
+    <string name="playback_mode_repeat_playlist">Répéter la playlist</string>
     <string name="alarms">Alarmes</string>
     <string name="sunday">Dimanche</string>
     <string name="monday">Lundi</string>
@@ -936,7 +936,7 @@
     <string name="delete_downloads">Supprimer les téléchargements</string>
     <string name="keep_download">Conserver les téléchargements</string>
     <string name="delete_episodes">Supprimer les épisodes</string>
-    <string name="priority_mode">Mode prioritaire</string>
+    <string name="playback_mode_priority">Mode prioritaire</string>
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Temps économisé : <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Vous avez écouté : <b>%s</b>.]]></string>
@@ -1214,4 +1214,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

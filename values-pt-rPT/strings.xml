@@ -283,8 +283,8 @@
     <string name="view_library_as">"Navegar como…"</string>
     <string name="list_view">"Exibição em playlist"</string>
     <string name="grid_view">"Exibição em grelha"</string>
-    <string name="playlist_mode">"Modo de playlist"</string>
-    <string name="single_play_mode">"Modo de reprodução única"</string>
+    <string name="playback_mode_playlist">"Modo de playlist"</string>
+    <string name="playback_mode_single_episode">"Modo de reprodução única"</string>
     <string name="s_has_been_added_to_subscription">"%1$s foi adicionado à assinatura"</string>
     <string name="audio_not_started_yet">"O áudio ainda não iniciou!"</string>
     <string name="manage_playlist">"Gerir playlists"</string>
@@ -344,7 +344,7 @@
     <string name="audio">"Áudio"</string>
     <string name="video">"Vídeo"</string>
     <string name="account_and_syncing">"Sincronizar entre dispositivos"</string>
-    <string name="shuffle">"Aleatório"</string>
+    <string name="playback_mode_shuffle">"Aleatório"</string>
 	<string name="update_on_charging">"Verificar actualização durante o carregamento"</string>
 	<string name="update_podcasts_only_when_battery_is_charging">"Verificar actualização dos podcasts apenas durante o carregamento da bateria"</string>
 	<string name="filename">"Nome do ficheiro"</string>
@@ -745,8 +745,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">"Notificar quando concluir o download de um episódio"</string>
     <string name="night_mode">"Modo noturno"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Alternar automaticamente entre o tema claro (dia) e o tema escuro (noite) com base na hora do dia"</string>
-    <string name="repeat_episode">"Repetir o episódio"</string>
-    <string name="repeat_playlist">"Repetir lista de reprodução"</string>
+    <string name="playback_mode_repeat_episode">"Repetir o episódio"</string>
+    <string name="playback_mode_repeat_playlist">"Repetir lista de reprodução"</string>
     <string name="alarms">"Alarmes"</string>
     <string name="sunday">Domingo</string>
     <string name="monday">Segunda-feira</string>
@@ -930,7 +930,7 @@
     <string name="delete_downloads">"Excluir downloads"</string>
     <string name="keep_download">"Manter o download"</string>
     <string name="delete_episodes">"Excluir episódios"</string>
-    <string name="priority_mode">"Modo de prioridade"</string>
+    <string name="playback_mode_priority">"Modo de prioridade"</string>
     <string name="stats">"Estatísticas"</string>
     <string name="time_saved_b_s_b"><![CDATA[Tempo economizado: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Você ouviu: <b>%s</b>.]]></string>
@@ -1207,4 +1207,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

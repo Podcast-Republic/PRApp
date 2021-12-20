@@ -290,8 +290,8 @@
     <string name="view_library_as">Brskaj…</string>
     <string name="list_view">Pogled v obliki seznama</string>
     <string name="grid_view">Pogled v obliki mreže</string>
-    <string name="playlist_mode">Seznam predvajanja</string>
-    <string name="single_play_mode">Posamezno predvajanje</string>
+    <string name="playback_mode_playlist">Seznam predvajanja</string>
+    <string name="playback_mode_single_episode">Posamezno predvajanje</string>
     <string name="s_has_been_added_to_subscription">"%1$s je bil dodan k naročenim"</string>
     <string name="audio_not_started_yet">Zvokovna sled se še ni začela!</string>
     <string name="manage_playlist">Organiziraj sezname</string>
@@ -351,7 +351,7 @@
     <string name="audio">Avdio</string>
     <string name="video">Video</string>
     <string name="account_and_syncing">Uporabniški račun &amp; Sinhroniziranje</string>
-    <string name="shuffle">Premešaj</string>
+    <string name="playback_mode_shuffle">Premešaj</string>
 	<string name="update_on_charging">Posodobi med polnjenjem baterije</string>
 	<string name="update_podcasts_only_when_battery_is_charging">Posodobi podkaste samo med polnjenjem baterije.</string>
 	<string name="filename">Ime datoteke</string>
@@ -757,8 +757,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">Obvesti me, ko bo epizoda prenesena.</string>
     <string name="night_mode">Nočni način</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Preklopi med svetlim (dan) in temnim (noč) načinom glede na trenutno uro.</string>
-    <string name="repeat_episode">Ponovi epizodo</string>
-    <string name="repeat_playlist">Ponovi seznam</string>
+    <string name="playback_mode_repeat_episode">Ponovi epizodo</string>
+    <string name="playback_mode_repeat_playlist">Ponovi seznam</string>
     <string name="alarms">Budilke</string>
     <string name="sunday">Nedelja</string>
     <string name="monday">Ponedeljek</string>
@@ -942,7 +942,7 @@
     <string name="delete_downloads">Izbriši prenoste</string>
     <string name="keep_download">Ohrani prenos</string>
     <string name="delete_episodes">Izbriši epizode</string>
-    <string name="priority_mode">Prednostni način</string>
+    <string name="playback_mode_priority">Prednostni način</string>
     <string name="stats">Statistika</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%1$s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%1$s</b>.]]></string>
@@ -1209,4 +1209,5 @@
     <string name="updating_rss_feed_d1_d2">Posodabljam RSS vir - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Odstrani vse zgoraj</string>
     <string name="remove_all_episodes_below">Odstrani vse spodaj</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

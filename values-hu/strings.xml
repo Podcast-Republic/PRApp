@@ -283,8 +283,8 @@
     <string name="view_library_as">Böngészés…</string>
     <string name="list_view">Listanézet</string>
     <string name="grid_view">Rácsnézet</string>
-    <string name="playlist_mode">Lejátszólista üzemmód</string>
-    <string name="single_play_mode">Epizódikus lejátszási mód</string>
+    <string name="playback_mode_playlist">Lejátszólista üzemmód</string>
+    <string name="playback_mode_single_episode">Epizódikus lejátszási mód</string>
     <string name="s_has_been_added_to_subscription">%1$s hozzáadtuk az előfizetésekhez</string>
     <string name="audio_not_started_yet">A lejátszás még nem kezdődött el!</string>
     <string name="manage_playlist">Lejátszólisták kezelése</string>
@@ -345,7 +345,7 @@
     <string name="audio">Audio</string>
     <string name="video">Video</string>
     <string name="account_and_syncing">Eszközök közötti szinkronizálás</string>
-    <string name="shuffle">Keverés</string>
+    <string name="playback_mode_shuffle">Keverés</string>
     <string name="update_on_charging">Frissítés akkutöltés közben</string>
     <string name="update_podcasts_only_when_battery_is_charging">Csak az akkumulátor töltése közben frissít</string>
     <string name="filename">Fájlnév</string>
@@ -752,8 +752,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">Értesítés epizód letöltéséről</string>
     <string name="night_mode">Éjszakai mód</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Napszaktól függő váltás a világos (nappali) és a sötét (éjszakai) témák között</string>
-    <string name="repeat_episode">Epizód ismétlése</string>
-    <string name="repeat_playlist">Lejátszólista ismétlése</string>
+    <string name="playback_mode_repeat_episode">Epizód ismétlése</string>
+    <string name="playback_mode_repeat_playlist">Lejátszólista ismétlése</string>
     <string name="alarms">Riasztások</string>
     <string name="sunday">Vasárnap</string>
     <string name="monday">Hétfő</string>
@@ -937,7 +937,7 @@
     <string name="delete_downloads">Letöltések törlése</string>
     <string name="keep_download">Letöltés megtartása</string>
     <string name="delete_episodes">Epizódok törlése</string>
-    <string name="priority_mode">Prioritásos mód</string>
+    <string name="playback_mode_priority">Prioritásos mód</string>
     <string name="stats">Statisztika</string>
     <string name="time_saved_b_s_b"><![CDATA[Megtakarított idő: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Meghallgatva: <b>%s</b>.]]></string>
@@ -1212,5 +1212,6 @@
     <string name="jump_to_beginning">Ugrás az elejére</string>
     <string name="jump_to_previous_chapter">Ugrás az előző fejezetre</string>
     <string name="when_i_press_previous_button">Az Előző gomb megnyomásakor</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 
 </resources>

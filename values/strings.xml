@@ -311,8 +311,6 @@
     <string name="view_library_as">Browse as…</string>
     <string name="list_view">List view</string>
     <string name="grid_view">Grid view</string>
-    <string name="playlist_mode">Playlist mode</string>
-    <string name="single_play_mode">Single play mode</string>
     <string name="s_has_been_added_to_subscription">"%1$s has been added to subscription"</string>
     <string name="audio_not_started_yet">Audio not started yet!</string>
     <string name="manage_playlist">Manage playlists</string>
@@ -372,7 +370,6 @@
     <string name="audio">Audio</string>
     <string name="video">Video</string>
     <string name="account_and_syncing">Account &amp; Syncing</string>
-    <string name="shuffle">Shuffle</string>
 	<string name="update_on_charging">Update on charging</string>
 	<string name="update_podcasts_only_when_battery_is_charging">Update podcasts only when battery is charging.</string>
 	<string name="filename">Filename</string>
@@ -778,8 +775,6 @@
     <string name="notify_when_an_episode_has_been_downloaded">Notify when an episode has been downloaded.</string>
     <string name="night_mode">Night mode</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Switching between light theme (day) and dark theme (night) based on the time of day.</string>
-    <string name="repeat_episode">Repeat episode</string>
-    <string name="repeat_playlist">Repeat playlist</string>
     <string name="alarms">Alarms</string>
     <string name="sunday">Sunday</string>
     <string name="monday">Monday</string>
@@ -963,7 +958,6 @@
     <string name="delete_downloads">Delete downloads</string>
     <string name="keep_download">Keep download</string>
     <string name="delete_episodes">Delete episodes</string>
-    <string name="priority_mode">Priority mode</string>
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%1$s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%1$s</b>.]]></string>
@@ -1230,4 +1224,11 @@
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Remove all above</string>
     <string name="remove_all_episodes_below">Remove all below</string>
+    <string name="playback_mode_shuffle">Shuffle mode</string>
+    <string name="playback_mode_priority">Priority mode</string>
+    <string name="playback_mode_playlist">Playlist mode</string>
+    <string name="playback_mode_repeat_playlist">Repeat playlist mode</string>
+    <string name="playback_mode_single_episode">Single episode mode</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
+    <string name="playback_mode_repeat_episode">Repeat episode mode</string>
 </resources>

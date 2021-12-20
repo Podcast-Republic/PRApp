@@ -333,14 +333,15 @@ Android 11 has a new media control which groups all media notifications into Qui
 <p>&nbsp;</p>
 
 <a name="q1605024"></a><strong>What are the play modes?</strong><br />
-Currently there are six play modes supported in this app:
+Currently there are seven playback modes supported in this app:
 <ul>
-	<li>Playlist mode: plays all episodes in the same playlist or episode list in serial</li>
-	<li>Shuffle: plays all episodes in the same playlist or episode list but in a random order</li>
-	<li>Single play mode: play one single episode and then stop</li>
-	<li>Repeat episode: play the same episode repeatedly till it is stopped by user</li>
-	<li>Repeat playlist: play all episodes in the same playlist or episode list repeatedly till it is stopped by user</li>
+	<li>Shuffle mode: plays all episodes in the same playlist or episode list but in a random order</li>
 	<li>Priority mode: finish current episode and then switch to play the highest (non-empty) priority playlist</li>
+	<li>Playlist mode: plays all episodes in the same playlist or episode list in serial</li>
+	<li>Repeat playlist mode: play all episodes in the same playlist or episode list repeatedly till it is stopped by user</li>
+	<li>Single episode mode: play one single episode and then stop, keep current episode in Now playing.</li>
+	<li>Single episode (load next): play one single episode and then stop, load next episode into Now playing.</li>
+	<li>Repeat episode: play the same episode repeatedly till it is stopped by user</li>
 </ul>
 <p>Default <strong>play mode</strong> setting is available in <strong>Media Player</strong> settings. Each playlist can have its own <strong>play mode</strong> which can be setup through playlist setup (<strong>Playlists</strong> > <strong>More</strong> > <strong>Manage playlists</strong>).</p>
 <p>Currently selected play mode will be displayed on top of the <strong>Up Next</strong> list in the <strong>Playing</strong> screen.</p>
@@ -407,6 +408,7 @@ Currently the data will be synced between devices are:
 	<li>User notes</li>
 	<li>User chapters</li>
 	<li>App settings</li>
+	<li>Tags</li>
 </ul>
 <p>&nbsp;</p>
 
@@ -505,9 +507,13 @@ If you notice any bug in this app you can enable the <strong>Debug log</strong> 
    <ul>
    	<li>podcastrepublic.playback.action.forward</li>
    	<li>podcastrepublic.playback.action.rewind</li>
-   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.play_new</li>
+   	<li>podcastrepublic.playback.action.play_prev</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.pause</li>
+   	<li>podcastrepublic.playback.action.stop</li>
+   	<li>podcastrepublic.playback.action.action.mark_position</li>
    </ul>
    <b>Package name</b>: com.itunestoppodcastplayer.app<br>
    <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver

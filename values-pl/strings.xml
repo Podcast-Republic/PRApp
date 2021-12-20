@@ -283,8 +283,8 @@
     <string name="view_library_as">Przeglądaj bibliotekę jako…</string>
     <string name="list_view">Lista</string>
     <string name="grid_view">Siatka</string>
-    <string name="playlist_mode">Odtwórz playlistę</string>
-    <string name="single_play_mode">Pojedyncze odtworzenie</string>
+    <string name="playback_mode_playlist">Odtwórz playlistę</string>
+    <string name="playback_mode_single_episode">Pojedyncze odtworzenie</string>
     <string name="s_has_been_added_to_subscription">"%1$s dodano do subskrypcji"</string>
     <string name="audio_not_started_yet">Daj mi chwilkę!</string>
     <string name="manage_playlist">Zarządzaj playlistą</string>
@@ -748,8 +748,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">"Powiadamiaj o pobraniu odcinka"</string>
     <string name="night_mode">"Tryb nocny"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Automatyczne przełączanie między jasnym motywem (dzień) a ciemnym motywem (noc) w zależności od pory dnia"</string>
-    <string name="repeat_episode">"Powtarzaj odcinek"</string>
-    <string name="repeat_playlist">"Powtarzaj playlistę"</string>
+    <string name="playback_mode_repeat_episode">"Powtarzaj odcinek"</string>
+    <string name="playback_mode_repeat_playlist">"Powtarzaj playlistę"</string>
     <string name="alarms">"Alarmy"</string>
     <string name="sunday">"Niedziela"</string>
     <string name="monday">"Poniedziałek"</string>
@@ -933,7 +933,7 @@
     <string name="delete_downloads">"Usuń pobrane pliki"</string>
     <string name="keep_download">"Zachowaj pobrany plik"</string>
     <string name="delete_episodes">"Usuń odcinki"</string>
-    <string name="priority_mode">"Tryb priorytetu"</string>
+    <string name="playback_mode_priority">"Tryb priorytetu"</string>
     <string name="stats">"Statystyki"</string>
     <string name="time_saved_b_s_b"><![CDATA[Czas zapisanych nagrań: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Wysłuchałeś: <b>%s</b>.]]></string>
@@ -960,7 +960,7 @@
     <string name="reset_sleep_timer">"Zresetuj wyłącznik czasowy"</string>
     <string name="toggle_playback_speed_on_off">"Włącz / wyłącz dopasowywanie szybkości odtwarzania"</string>
     <string name="app_name">"Podcast Republic"</string>
-    <string name="shuffle">"Losowo"</string>
+    <string name="playback_mode_shuffle">"Losowo"</string>
     <string name="subscribe_on_podcast_republic">"Subskrybuj na Podcast Republic"</string>
     <string name="there_are_no_episodes_with_notes_">"Nie ma odcinków z notatkami!"</string>
     <string name="there_are_no_deleted_episodes_">"Brak usuniętych odcinków!"</string>
@@ -1211,4 +1211,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

@@ -339,6 +339,7 @@ Jelenleg az alkalmazás az alábbi hat lejátszási módot támogatja:
 	<li>Lejátszólista üzemmód: a lejátszási listából vagy epizódlistából lejátszik minden epizódot</li>
 	<li>Keverés: a lejátszási listából vagy epizódlistából lejátszik minden epizódot véletlen sorrendben</li>
 	<li>Epizódikus lejátszási mód: lejátszik egyetlen epizódot, majd megáll</li>
+	<li>Single episode (load next): play one single episode and then stop, load next episode into Now playing.</li>
 	<li>Epizód ismétlése: lejátssza ugyanazt az epizódot ismételten, amíg a felhasználó le nem állítja</li>
 	<li>Lejátszólista ismétlése: az összes epizód lejátszása ugyanazon lejátszó listából vagy epizódlistából ismételten, amíg a felhasználó le nem állítja</li>
 	<li>Prioritásos mód: befejezi az aktuális epizódot, majd átvált a legmagasabb prioritású (nem üres) lejátszólista lejátszására</li>
@@ -408,6 +409,7 @@ Currently the data will be synced between devices are:
 	<li>User notes</li>
 	<li>User chapters</li>
 	<li>App settings</li>
+	<li>Tags</li>
 </ul>
 <p>&nbsp;</p>
 
@@ -506,9 +508,13 @@ If you notice any bug in this app you can enable the <strong>Debug log</strong> 
    <ul>
    	<li>podcastrepublic.playback.action.forward</li>
    	<li>podcastrepublic.playback.action.rewind</li>
-   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.play_new</li>
+   	<li>podcastrepublic.playback.action.play_prev</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.pause</li>
+   	<li>podcastrepublic.playback.action.stop</li>
+   	<li>podcastrepublic.playback.action.action.mark_position</li>
    </ul>
    <b>Package name</b>: com.itunestoppodcastplayer.app<br>
    <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver

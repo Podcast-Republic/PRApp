@@ -324,6 +324,7 @@ V súčasnosti je v tejto aplikácii podporovaných šesť režimov prehrávania
 	<li>Režim playlistu: prehráva všetky epizódy v tom istom playliste alebo zozname epizód za sebou</li>.
 	<li>Režim náhodne: prehráva všetky epizódy v rovnakom playliste alebo zozname epizód, ale v náhodnom poradí</li>
 	<li>Režim jedného prehratia: prehráva jednu epizódu, a potom sa zastaví</li>
+	<li>Single episode (load next): play one single episode and then stop, load next episode into Now playing.</li>
 	<li>Opakovať epizódu: opakované prehrávanie tej istej epizódy, kým ju používateľ nezastaví</li>
 	<li>Opakovať playlist: opakované prehrávanie všetkých epizód v tom istom playliste alebo zozname epizód, kým ho používateľ nezastaví</li>
 	<li>Prioritný režim: dokončí aktuálnu epizódu, a potom prepne na prehrávanie playlistu s najvyššou (neprázdnou) prioritou</li>
@@ -393,6 +394,7 @@ V súčasnosti sa medzi zariadeniami synchronizujú tieto údaje:
 	<li>Poznámky používateľa</li>
 	<li>Používateľské kapitoly</li>
 	<li>Nastavenia aplikácie</li>
+	<li>Tags</li>
 </ul>
 <p>&nbsp;</p>
 
@@ -490,11 +492,15 @@ optimalizáciu batérie pre túto aplikáciu. Presné nastavenia sa môžu v jed
 
    <b>Podporované akcie prehrávania</b>:
    <ul>
-   	<li>podcastrepublic.playback.action.forward</li>
+   <li>podcastrepublic.playback.action.forward</li>
    	<li>podcastrepublic.playback.action.rewind</li>
-   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.play_new</li>
+   	<li>podcastrepublic.playback.action.play_prev</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.pause</li>
+   	<li>podcastrepublic.playback.action.stop</li>
+   	<li>podcastrepublic.playback.action.action.mark_position</li>
    </ul>
    <b>Package name</b>: com.itunestoppodcastplayer.app<br>
    <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver

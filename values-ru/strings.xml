@@ -283,8 +283,8 @@
     <string name="view_library_as">Отображать библиотеку …</string>
     <string name="list_view">Списком</string>
     <string name="grid_view">Сеткой</string>
-    <string name="playlist_mode">Плейлист</string>
-    <string name="single_play_mode">Один файл</string>
+    <string name="playback_mode_playlist">Плейлист</string>
+    <string name="playback_mode_single_episode">Один файл</string>
     <string name="s_has_been_added_to_subscription">"%1$s Добавлено к подпискам"</string>
     <string name="audio_not_started_yet">Воспроизведение еще не началось</string>
     <string name="manage_playlist">Управление плейлистами</string>
@@ -344,7 +344,7 @@
     <string name="audio">Аудио</string>
     <string name="video">Видео</string>
     <string name="account_and_syncing">Учетная запись и синхронизация</string>
-    <string name="shuffle">Перемешать</string>
+    <string name="playback_mode_shuffle">Перемешать</string>
     <string name="update_on_charging">Проверять обновления на зарядке</string>
     <string name="update_podcasts_only_when_battery_is_charging">Проверять обновления только во время зарядки</string>
     <string name="filename">Nмени файла</string>
@@ -748,8 +748,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">"Уведомлять, когда эпизод загружен"</string>
     <string name="night_mode">"Ночной режим"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Автоматическое переключение между светлой темой (днём) и темной темой (ночью), в зависимости от времени суток"</string>
-    <string name="repeat_episode">"Повторить эпизод"</string>
-    <string name="repeat_playlist">"Повторить плейлист"</string>
+    <string name="playback_mode_repeat_episode">"Повторить эпизод"</string>
+    <string name="playback_mode_repeat_playlist">"Повторить плейлист"</string>
     <string name="alarms">Будильник</string>
     <string name="sunday">Воскресенье</string>
     <string name="monday">Понедельник</string>
@@ -933,7 +933,7 @@
     <string name="delete_downloads">Delete downloads</string>
     <string name="keep_download">Keep download</string>
     <string name="delete_episodes">Delete episodes</string>
-    <string name="priority_mode">Priority mode</string>
+    <string name="playback_mode_priority">Priority mode</string>
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>.]]></string>
@@ -1210,4 +1210,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

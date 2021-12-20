@@ -284,8 +284,8 @@
     <string name="view_library_as">"צפה כ…"</string>
     <string name="list_view">"תצוגת רשימה"</string>
     <string name="grid_view">"תצוגת רשת"</string>
-    <string name="playlist_mode">"מצב השמעה"</string>
-    <string name="single_play_mode">"מצב השמעת יחיד"</string>
+    <string name="playback_mode_playlist">"מצב השמעה"</string>
+    <string name="playback_mode_single_episode">"מצב השמעת יחיד"</string>
     <string name="s_has_been_added_to_subscription">"%1$s נוסף לרשימת הפודקאסטים"</string>
     <string name="audio_not_started_yet">"השמעה טרם החלה!"</string>
     <string name="manage_playlist">"נהל את רשימות ההשמעה"</string>
@@ -346,7 +346,7 @@
     <string name="audio">"שמע"</string>
     <string name="video">"וידאו"</string>
     <string name="account_and_syncing">"סינכרון בין התקנים"</string>
-    <string name="shuffle">"ערבוב"</string>
+    <string name="playback_mode_shuffle">"ערבוב"</string>
     <string name="update_on_charging">"עדכן בעת הטענה"</string>
     <string name="update_podcasts_only_when_battery_is_charging">"עדכן פודקאסטים רק בזמן הטענת הסוללה "</string>
     <string name="filename">"מיין לפי שם קובץ"</string>
@@ -747,8 +747,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">"הצג התראה בעת הורדת פרק"</string>
     <string name="night_mode">"מצב לילה"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"החלפה אוטומטית בין ערכת נושא בהירה (יום) לבין ערכת נושא נושא כהה (לילה) בהתבסס על השעה ביום"</string>
-    <string name="repeat_episode">"חזור על הפרק"</string>
-    <string name="repeat_playlist">"חזור על רשימת השמעה"</string>
+    <string name="playback_mode_repeat_episode">"חזור על הפרק"</string>
+    <string name="playback_mode_repeat_playlist">"חזור על רשימת השמעה"</string>
     <string name="alarms">"תזכורת"</string>
     <string name="sunday">יוֹם רִאשׁוֹן</string>
     <string name="monday">יוֹם שֵׁנִי</string>
@@ -933,7 +933,7 @@
     <string name="delete_downloads">Delete downloads</string>
     <string name="keep_download">Keep download</string>
     <string name="delete_episodes">Delete episodes</string>
-    <string name="priority_mode">Priority mode</string>
+    <string name="playback_mode_priority">Priority mode</string>
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>.]]></string>
@@ -1208,4 +1208,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

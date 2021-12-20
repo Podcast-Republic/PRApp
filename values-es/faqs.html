@@ -338,6 +338,7 @@ Actualmente hay seis modos de reproducción en la app:
 	<li>Playlist: reproduce consecutivamente todos los episodios de la playlist o lista de episodios en orden</li>
 	<li>Shuffle: Reproduce todos los episodios de la playlist o lista de episodios pero en un orden aleatorio</li>
 	<li>Reproducción unica: reproduce un solo episodio y se detiene</li>
+	<li>Single episode (load next): play one single episode and then stop, load next episode into Now playing.</li>
 	<li>Repetir episodio: Repite el mismo episodio hasta que el usuario lo detenga</li>
 	<li>Repetir playlist: Repite todos los episodios de una playlist o lista de episodios hasta que es detenido</li>
 	<li>Modo de prioridad: Termina el episodio actual y luego cambia al siguiente episodio que le sigue en prioridad en la playlist</li>
@@ -399,7 +400,15 @@ Puedes crearte una cuenta o usar tu cuenta de Google para logearte y sincronizar
 <p>&nbsp;</p>
 
 <a name="q170430a"></a><strong>¿Que datos se sincronizan entre dispositivos?</strong><br />
-Actualmente los datos sincronizados son: tus suscripciones (podcasts y estaciones de radio), estado de reproducción y marcas en la reproduccion.
+Currently the data will be synced between devices are:
+<ul>
+	<li>Your subscriptions (podcasts and radio stations)</li>
+	<li>Episode playback progress, favorite state</li>
+	<li>User notes</li>
+	<li>User chapters</li>
+	<li>App settings</li>
+	<li>Tags</li>
+</ul>
 <p>&nbsp;</p>
 
 <a name="q920921c"></a><strong>Como transferir los datos a otro dispositivo?</strong><br />
@@ -497,9 +506,13 @@ Si encontras algun bug en la app, puedes activar el <strong>Debug log</strong> y
    <ul>
    	<li>podcastrepublic.playback.action.forward</li>
    	<li>podcastrepublic.playback.action.rewind</li>
-   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.play_new</li>
+   	<li>podcastrepublic.playback.action.play_prev</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
    	<li>podcastrepublic.playback.action.pause</li>
+   	<li>podcastrepublic.playback.action.stop</li>
+   	<li>podcastrepublic.playback.action.action.mark_position</li>
    </ul>
    <b>Package name</b>: com.itunestoppodcastplayer.app<br>
    <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver

@@ -286,8 +286,8 @@
     <string name="view_library_as">Prehliadať ako…</string>
     <string name="list_view">Zoznam</string>
     <string name="grid_view">Mriežka</string>
-    <string name="playlist_mode">Režim playlistu</string>
-    <string name="single_play_mode">Režim jedného prehratia</string>
+    <string name="playback_mode_playlist">Režim playlistu</string>
+    <string name="playback_mode_single_episode">Režim jedného prehratia</string>
     <string name="s_has_been_added_to_subscription">"%1$s bol pridaný na odber"</string>
     <string name="audio_not_started_yet">Zvuk ešte nie je spustený!</string>
     <string name="manage_playlist">Správa playlistov</string>
@@ -347,7 +347,7 @@
     <string name="audio">Audio</string>
     <string name="video">Video</string>
     <string name="account_and_syncing">Účet a synchronizácia</string>
-    <string name="shuffle">Náhodne</string>
+    <string name="playback_mode_shuffle">Náhodne</string>
     <string name="update_on_charging">Aktualizácia počas nabíjania</string>
     <string name="update_podcasts_only_when_battery_is_charging">Aktualizovať podcasty iba počas nabíjania batérie</string>
     <string name="filename">Názov súboru</string>
@@ -753,8 +753,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">Upozorniť na stiahnutie epizódy</string>
     <string name="night_mode">Nočný režim</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Automaticky prepínať medzi svetlým (deň) a tmavým (noc) režimom na základe času</string>
-    <string name="repeat_episode">Opakovať epizódu</string>
-    <string name="repeat_playlist">Opakovať playlist</string>
+    <string name="playback_mode_repeat_episode">Opakovať epizódu</string>
+    <string name="playback_mode_repeat_playlist">Opakovať playlist</string>
     <string name="alarms">Budíky</string>
     <string name="sunday">Nedeľa</string>
     <string name="monday">Pondelok</string>
@@ -938,7 +938,7 @@
     <string name="delete_downloads">Odstrániť stiahnuté</string>
     <string name="keep_download">Ponechať stiahnuté</string>
     <string name="delete_episodes">Odstrániť epizódy</string>
-    <string name="priority_mode">Prioritný režim</string>
+    <string name="playback_mode_priority">Prioritný režim</string>
     <string name="stats">Štatistika</string>
     <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>]]></string>
@@ -1209,4 +1209,5 @@
     <string name="jump_to_beginning">Prejsť na začiatok</string>
     <string name="jump_to_previous_chapter">Prejsť na predchádzajúcu kapitolu</string>
     <string name="when_i_press_previous_button">Keď stlačím tlačidlo predchádzajúce</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

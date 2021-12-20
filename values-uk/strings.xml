@@ -283,8 +283,8 @@
     <string name="view_library_as">"Переглянути як …"</string>
     <string name="list_view">"Перегляд списком"</string>
     <string name="grid_view">"Перегляд таблицею"</string>
-    <string name="playlist_mode">"Режим списку відтворення"</string>
-    <string name="single_play_mode">"Один епізод"</string>
+    <string name="playback_mode_playlist">"Режим списку відтворення"</string>
+    <string name="playback_mode_single_episode">"Один епізод"</string>
     <string name="s_has_been_added_to_subscription">"%1$s було додано до підписок"</string>
     <string name="audio_not_started_yet">"Звучання ще не розпочато!"</string>
     <string name="manage_playlist">"Керування списками відтворення"</string>
@@ -345,7 +345,7 @@
     <string name="audio">"Звук"</string>
     <string name="video">"Відео"</string>
     <string name="account_and_syncing">"Аккаунт і синхронізація"</string>
-    <string name="shuffle">"Перемішати"</string>
+    <string name="playback_mode_shuffle">"Перемішати"</string>
     <string name="update_on_charging">"Оновлювати під час зарядки "</string>
     <string name="update_podcasts_only_when_battery_is_charging">"Оновлювати подкасти лише під час зарядки акумулятора"</string>
     <string name="filename">"Iменем файла"</string>
@@ -747,8 +747,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">Повідомити, коли епізод завантажиться</string>
     <string name="night_mode">Нічний режим</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Переключатися автоматично зі світлого скіна (день) на темний (ніч), в залежності від часу дня</string>
-    <string name="repeat_episode">Повторити епізод</string>
-    <string name="repeat_playlist">Повторити список відтворення</string>
+    <string name="playback_mode_repeat_episode">Повторити епізод</string>
+    <string name="playback_mode_repeat_playlist">Повторити список відтворення</string>
     <string name="alarms">Нагадування</string>
     <string name="sunday">Неділя</string>
     <string name="monday">Понеділок</string>
@@ -932,7 +932,7 @@
     <string name="delete_downloads">Delete downloads</string>
     <string name="keep_download">Keep download</string>
     <string name="delete_episodes">Delete episodes</string>
-    <string name="priority_mode">Priority mode</string>
+    <string name="playback_mode_priority">Priority mode</string>
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>.]]></string>
@@ -1207,4 +1207,5 @@
     <string name="jump_to_beginning">Jump to beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
 </resources>

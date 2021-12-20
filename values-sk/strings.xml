@@ -1209,5 +1209,5 @@
     <string name="jump_to_beginning">Prejsť na začiatok</string>
     <string name="jump_to_previous_chapter">Prejsť na predchádzajúcu kapitolu</string>
     <string name="when_i_press_previous_button">Keď stlačím tlačidlo predchádzajúce</string>
-    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
+    <string name="playback_mode_single_episode_load_next">Jedna epizóda (načítať ďalšiu)</string>
 </resources>

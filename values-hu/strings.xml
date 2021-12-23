@@ -284,7 +284,7 @@
     <string name="list_view">Listanézet</string>
     <string name="grid_view">Rácsnézet</string>
     <string name="playback_mode_playlist">Lejátszólista üzemmód</string>
-    <string name="playback_mode_single_episode">Epizódikus lejátszási mód</string>
+    <string name="playback_mode_single_episode">Egy epizód lejátszása</string>
     <string name="s_has_been_added_to_subscription">%1$s hozzáadtuk az előfizetésekhez</string>
     <string name="audio_not_started_yet">A lejátszás még nem kezdődött el!</string>
     <string name="manage_playlist">Lejátszólisták kezelése</string>
@@ -1212,6 +1212,6 @@
     <string name="jump_to_beginning">Ugrás az elejére</string>
     <string name="jump_to_previous_chapter">Ugrás az előző fejezetre</string>
     <string name="when_i_press_previous_button">Az Előző gomb megnyomásakor</string>
-    <string name="playback_mode_single_episode_load_next">Egy epizód (következő betöltése)</string>
+    <string name="playback_mode_single_episode_load_next">Egy epizód (következő betöltésével)</string>
 
 </resources>

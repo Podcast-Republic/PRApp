@@ -1215,4 +1215,7 @@
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
     <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
+    <string name="schedule_as_verb">Schedule</string>
+    <string name="schedule_a_date">Schedule a date</string>
+    <string name="fund_this_podcast">Fund this Podcast</string>
 </resources>

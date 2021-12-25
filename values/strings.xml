@@ -1231,4 +1231,7 @@
     <string name="playback_mode_single_episode">Single episode mode</string>
     <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
     <string name="playback_mode_repeat_episode">Repeat episode mode</string>
+    <string name="schedule_as_verb">Schedule</string>
+    <string name="schedule_a_date">Schedule a date</string>
+    <string name="fund_this_podcast">Fund this Podcast</string>
 </resources>

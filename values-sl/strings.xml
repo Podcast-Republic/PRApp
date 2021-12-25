@@ -1210,4 +1210,7 @@
     <string name="remove_all_episodes_above">Odstrani vse zgoraj</string>
     <string name="remove_all_episodes_below">Odstrani vse spodaj</string>
     <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
+    <string name="schedule_as_verb">Schedule</string>
+    <string name="schedule_a_date">Schedule a date</string>
+    <string name="fund_this_podcast">Fund this Podcast</string>
 </resources>

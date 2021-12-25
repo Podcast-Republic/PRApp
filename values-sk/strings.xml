@@ -1210,4 +1210,7 @@
     <string name="jump_to_previous_chapter">Prejsť na predchádzajúcu kapitolu</string>
     <string name="when_i_press_previous_button">Keď stlačím tlačidlo predchádzajúce</string>
     <string name="playback_mode_single_episode_load_next">Jedna epizóda (načítať ďalšiu)</string>
+    <string name="schedule_as_verb">Schedule</string>
+    <string name="schedule_a_date">Schedule a date</string>
+    <string name="fund_this_podcast">Fund this Podcast</string>
 </resources>

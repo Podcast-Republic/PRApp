@@ -20,36 +20,36 @@
         <item>Brazilija</item>
         <item>Ciper</item>
         <item>Češka</item>
-	    <item>Čile</item>
+	<item>Čile</item>
         <item>Danska</item>
         <item>Egipt</item>
         <item>Ekvador</item>
-	    <item>Filipini</item>
+	<item>Filipini</item>
         <item>Finska</item>
         <item>Francija</item>
         <item>Grčija</item>
         <item>Hong Kong</item>
-	    <item>Hrvaška</item>
+	item>Hrvaška</item>
         <item>Indija</item>
         <item>Indonezija</item>
         <item>Irska</item>
-	    <item>Islandija</item>
+	<item>Islandija</item>
         <item>Italija</item>
-	    <item>Izrael</item>
+	<item>Izrael</item>
         <item>Jamajka</item>
         <item>Japonska</item>
         <item>Jordanija</item>
         <item>Južna Afrika</item>
         <item>Kambodža</item>
         <item>Kanada</item>
-	    <item>Katar</item>
+	<item>Katar</item>
         <item>Kazahstan</item>
         <item>Kenija</item>
         <item>Kirgizija</item>
         <item>Kitajska</item>
         <item>Kolumbija</item>
         <item>Koreja</item>
-	    <item>Kostarika</item>
+	<item>Kostarika</item>
         <item>Kuvajt</item>
         <item>Latvija</item>
         <item>Litva</item>
@@ -59,10 +59,10 @@
         <item>Mehika</item>
         <item>Malezija</item>
         <item>Mongolija</item>
-	    <item>Nemčija</item>
+	<item>Nemčija</item>
         <item>Nizozemska</item>
         <item>Norveška</item>
-	    <item>Nova Zelandija</item>
+	<item>Nova Zelandija</item>
         <item>Pakistan</item>
         <item>Peru</item>
         <item>Poljska</item>
@@ -73,14 +73,14 @@
         <item>Singapur</item>
         <item>Slovaška</item>
         <item>Slovenija</item>
-	    <item>Srbija</item>
+	<item>Srbija</item>
         <item>Španija</item>
         <item>Šri Lanka</item>
         <item>Švedska</item>
         <item>Švica</item>
         <item>Tadžikistan</item>
         <item>Tajska</item>
-	    <item>Tajvan</item>
+	<item>Tajvan</item>
         <item>Tunizija</item>
         <item>Turčija</item>
         <item>Ukrajina</item>
@@ -352,14 +352,14 @@
     <string name="video">Video</string>
     <string name="account_and_syncing">Uporabniški račun &amp; Sinhroniziranje</string>
     <string name="playback_mode_shuffle">Premešaj</string>
-	<string name="update_on_charging">Posodobi med polnjenjem baterije</string>
-	<string name="update_podcasts_only_when_battery_is_charging">Posodobi podkaste samo med polnjenjem baterije.</string>
-	<string name="filename">Ime datoteke</string>
-	<string name="auto_backup_saved_to_">"Varnostna kopija shranjena v [%1$s]."</string>
+    <string name="update_on_charging">Posodobi med polnjenjem baterije</string>
+    <string name="update_podcasts_only_when_battery_is_charging">Posodobi podkaste samo med polnjenjem baterije.</string>
+    <string name="filename">Ime datoteke</string>
+    <string name="auto_backup_saved_to_">"Varnostna kopija shranjena v [%1$s]."</string>
     <string name="download_removed">Odstranjen prenos</string>
-	<string name="load_artworks_only_when_connected_to_wifi">Naloži grafične podobe samo kadar je naprava povezana z Wi-Fi omrežjem.</string>
-	<string name="load_artwork_via_wifi_only">Naloži grafično podobo samo preko Wi-Fi omrežja</string>
-	<string name="when_pressing_episode_in_list">Ko se dotakenem epizode v seznamu</string>
+    <string name="load_artworks_only_when_connected_to_wifi">Naloži grafične podobe samo kadar je naprava povezana z Wi-Fi omrežjem.</string>
+    <string name="load_artwork_via_wifi_only">Naloži grafično podobo samo preko Wi-Fi omrežja</string>
+    <string name="when_pressing_episode_in_list">Ko se dotakenem epizode v seznamu</string>
     <string name="start_playing">Začni predvajanje</string>
     <string name="display_episode_artwork">Prikaži grafično pododbo epizode</string>
     <string name="ringtone">Zvonenje</string>
@@ -1113,7 +1113,7 @@
     <string name="feed_title_can_not_be_empty_">Naslov vira ne sme biti prazen!</string>
     <string name="rss_feed_url_can_not_be_empty_">URL naslov RSS vira ne sme biti prazen!</string>
     <string name="no_rss_feeds_found_">Ni najdenih RSS virov!</string>
-   <string name="remove_obsolete_episodes">Odstrani zastarele epizode</string>
+    <string name="remove_obsolete_episodes">Odstrani zastarele epizode</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Odstrani zastarele epizode, ki niso več prisotne v viru podkasta.</string>
     <string name="mark_as_played">Označi kot predvajano</string>
     <string name="swipe_left_action">Dejanje za podrsljaj v levo</string>

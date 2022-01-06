@@ -352,7 +352,7 @@
     <string name="download_removed">Удалить загруженное</string>
     <string name="load_artworks_only_when_connected_to_wifi">Загрузить обложки только при подключении к WiFi</string>
     <string name="load_artwork_via_wifi_only">Загружать обложки только по WiFi</string>
-    <string name="when_pressing_episode_in_list">При нажатии на выпуск в списке</string>
+    <string name="when_pressing_an_episode_in_list">При нажатии на выпуск в списке</string>
     <string name="start_playing">Всегда начинать воспроизведение</string>
     <string name="display_episode_artwork">Показывать обложку выпуска</string>
     <string name="ringtone">Рингтон</string>
@@ -1214,4 +1214,7 @@
     <string name="schedule_as_verb">Schedule</string>
     <string name="schedule_a_date">Schedule a date</string>
     <string name="fund_this_podcast">Fund this Podcast</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
 </resources>

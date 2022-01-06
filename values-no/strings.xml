@@ -728,7 +728,7 @@
     <string name="when_headset_bluetooth_disconnected">Når headsettet/Bluetooth er koblet fra</string>
     <string name="when_i_press_next_button">Når du trykker på neste</string>
     <string name="when_lost_audio_focus">Når lyden blir avbrutt</string>
-    <string name="when_pressing_episode_in_list">Når du trykker på en episode i listen</string>
+    <string name="when_pressing_an_episode_in_list">Når du trykker på en episode i listen</string>
     <string name="widgets">Widgets</string>
     <string name="wifi_is_not_available_cancelling_podcast_update_checking_">Ingen Wi-Fi-nettverk er tilgjengelige, oppdateringen avbrytes.</string>
     <string name="yes">Ja</string>
@@ -1211,4 +1211,7 @@
     <string name="schedule_as_verb">Schedule</string>
     <string name="schedule_a_date">Schedule a date</string>
     <string name="fund_this_podcast">Fund this Podcast</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
 </resources>

@@ -353,7 +353,7 @@
     <string name="download_removed">İndirme kaldırıldı</string>
 	<string name="load_artworks_only_when_connected_to_wifi">"Resimleri yalnızca Wifi'ye bağlandığında yükle"</string>
 	<string name="load_artwork_via_wifi_only">Resimleri sadece Wifi ile yükle</string>
-	<string name="when_pressing_episode_in_list">Listedeki bölüm baskısı</string>
+	<string name="when_pressing_an_episode_in_list">Listedeki bölüm baskısı</string>
     <string name="start_playing">Daima oynatmaya başla</string>
     <string name="display_episode_artwork">Ekran bölüm resimleri</string>
     <string name="ringtone">Zil sesi</string>
@@ -1212,5 +1212,8 @@
     <string name="schedule_as_verb">Schedule</string>
     <string name="schedule_a_date">Schedule a date</string>
     <string name="fund_this_podcast">Fund this Podcast</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
 </resources>
 

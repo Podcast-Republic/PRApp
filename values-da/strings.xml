@@ -354,7 +354,7 @@
     <string name="download_removed">"Download fjernet"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Hent kun billeder, når du er tilsluttet Wi-Fi"</string>
     <string name="load_artwork_via_wifi_only">"Indlæs kun billeder via Wi-Fi"</string>
-    <string name="when_pressing_episode_in_list">"Når du trykker på afsnit i listen"</string>
+    <string name="when_pressing_an_episode_in_list">"Når du trykker på afsnit i listen"</string>
     <string name="start_playing">"Start altid afspilning"</string>
     <string name="display_episode_artwork">"Vis podcastbilleder"</string>
     <string name="ringtone">"Ringetone"</string>
@@ -1213,4 +1213,7 @@
     <string name="schedule_as_verb">Schedule</string>
     <string name="schedule_a_date">Schedule a date</string>
     <string name="fund_this_podcast">Fund this Podcast</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
 </resources>

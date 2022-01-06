@@ -352,7 +352,7 @@
     <string name="download_removed">"Stažený soubor odstraněn"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Stahovat obrázky pouze při připojení k Wi-Fi"</string>
     <string name="load_artwork_via_wifi_only">"Stáhnout obrázky pouze přes Wi-Fi"</string>
-    <string name="when_pressing_episode_in_list">"Při klepnutí na epizodu v seznamu"</string>
+    <string name="when_pressing_an_episode_in_list">"Při klepnutí na epizodu v seznamu"</string>
     <string name="start_playing">"Vždy spustit přehrávání"</string>
     <string name="display_episode_artwork">"Ukázat obrázek epizody"</string>
     <string name="ringtone">"Vyzvánění"</string>
@@ -1210,4 +1210,7 @@
     <string name="schedule_as_verb">Schedule</string>
     <string name="schedule_a_date">Schedule a date</string>
     <string name="fund_this_podcast">Fund this Podcast</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
 </resources>

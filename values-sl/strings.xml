@@ -359,7 +359,7 @@
     <string name="download_removed">Odstranjen prenos</string>
 	<string name="load_artworks_only_when_connected_to_wifi">Naloži grafične podobe samo kadar je naprava povezana z Wi-Fi omrežjem.</string>
 	<string name="load_artwork_via_wifi_only">Naloži grafično podobo samo preko Wi-Fi omrežja</string>
-	<string name="when_pressing_episode_in_list">Ko se dotakenem epizode v seznamu</string>
+	<string name="when_pressing_an_episode_in_list">Ko se dotakenem epizode v seznamu</string>
     <string name="start_playing">Začni predvajanje</string>
     <string name="display_episode_artwork">Prikaži grafično pododbo epizode</string>
     <string name="ringtone">Zvonenje</string>
@@ -1209,8 +1209,11 @@
     <string name="updating_rss_feed_d1_d2">Posodabljam RSS vir - %1$d/%2$d</string>
     <string name="remove_all_episodes_above">Odstrani vse zgoraj</string>
     <string name="remove_all_episodes_below">Odstrani vse spodaj</string>
-    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
-    <string name="schedule_as_verb">Schedule</string>
-    <string name="schedule_a_date">Schedule a date</string>
-    <string name="fund_this_podcast">Fund this Podcast</string>
+    <string name="playback_mode_single_episode_load_next">Posamezna epizoda (naloži naslednjo)</string>
+    <string name="schedule_as_verb">Urnik</string>
+    <string name="schedule_a_date">Nastavi datum</string>
+    <string name="fund_this_podcast">Doniraj temu podkastu</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
 </resources>

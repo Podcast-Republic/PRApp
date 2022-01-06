@@ -1213,7 +1213,7 @@
     <string name="schedule_as_verb">Naplánovať</string>
     <string name="schedule_a_date">Vyberte dátum</string>
     <string name="fund_this_podcast">Podporiť tento podcast</string>
-    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
-    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
-    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Popis podcastu bude aktualizovaný po obnovení.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Názov podcastu bude aktualizovaný po obnovení.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Vydavateľ podcastu bude aktualizovaný po obnovení.</string>
 </resources>

@@ -1216,8 +1216,8 @@
     <string name="schedule_as_verb">Időzítés</string>
     <string name="schedule_a_date">Időzítés dátumra</string>
     <string name="fund_this_podcast">Podcast támogatása</string>
-    <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
-    <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
-    <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">A podcast leírása frissítés után módosul.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">A podcast címe frissítés után módosul.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">A Podcast kiadója frissítés után módosul.</string>
 
 </resources>

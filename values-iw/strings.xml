@@ -592,7 +592,7 @@
     <string name="update_podcasts_when_app_is_starting">"עדכן פודקאסטים בהפעלת האפליקציה"</string>
     <string name="unknown_station">"תחנה לא ידועה"</string>
     <string name="can_not_cast_youtube_videos_to_chromecast_">"לא ניתן להעביר סרטוני YouTube ל- Chromecast!"</string>
-    <string name="add_a_playlist">"הוסף לרשימת השמעה"</string>
+    <string name="add_a_playlist">"הוסף רשימת השמעה"</string>
     <string name="add_to_tag">"הוסף לתג"</string>
     <string name="add_to_default_playlists">"הוסף לרשימת ההשמעה המוגדרת כברירת המחדל"</string>
     <string name="add_to_selected_playlists">"הוסף לרשימות ההשמעה שנבחרו"</string>

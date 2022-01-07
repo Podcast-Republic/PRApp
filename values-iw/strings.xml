@@ -474,7 +474,7 @@
     <string name="remove_subscription_to_">"הסר הרשמה ל: [ %1$s ]"</string>
     <string name="data_roaming">"נדידת נתונים"</string>
     <string name="allow_to_download_with_data_services_when_roaming">"אפשר להוריד עם שירותי נתונים בעת נדידה"</string>
-    <string name="up_next">"רשימת השמעה"</string>
+    <string name="up_next">"הבא"</string>
     <string name="episode_info">"פרטי פרק"</string>
     <string name="no_more_episodes_to_play_from_playlist_s_">"הסתיימו הפרקים להפעלה ברשימת השמעה [ %1$s ]"</string>
     <string name="apply_this_change_to_all_podcasts_">"החל שינוי זה לכל הפודקאסטים?"</string>

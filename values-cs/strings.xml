@@ -1213,4 +1213,10 @@
     <string name="podcast_description_will_be_updated_after_refreshing_">Podcast description will be updated after refreshing.</string>
     <string name="podcast_title_will_be_updated_after_refreshing_">Podcast title will be updated after refreshing.</string>
     <string name="podcast_publisher_will_be_updated_after_refreshing_">Podcast publisher will be updated after refreshing.</string>
+    <string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Customize playback controls on collapsed and expanded notifications.</string>
+    <string name="collapsed_notification_short_format">Collapsed</string>
+    <string name="expanded_notification_short_format">Expanded</string>
+    <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
+    <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
+    <string name="save_image">Save image</string>
 </resources>

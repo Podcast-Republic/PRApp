@@ -1225,6 +1225,6 @@
     <string name="at_lease_one_playback_control_is_required">- Legalább egy lejátszásvezérlő szükséges.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Az összecsukott értesítésnek legfeljebb három lejátszási vezérlője lehet.</string>
     <string name="save_image">Kép mentése</string>
-    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="view_or_edit_playlist_setup_">Lejátszólista beállítások megtekintése vagy szerkesztése.</string>
 
 </resources>

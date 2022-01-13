@@ -89,7 +89,7 @@
     </string-array>
 
     <string name="app_name">"Podcast Republic"</string>
-    <string name="pref_auto_delete_played_summary">"Automaticky odstranit přehranou položku ze seznamu stažených"</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Automaticky odstranit přehranou položku ze seznamu stažených"</string>
     <string name="pref_downloadLocation">"Stáhnout podcast do:"</string>
     <string name="downloads">"Stažené"</string>
     <string name="jump_to_next_episode">"Pamatovat si aktuální pozici přehrávání"</string>
@@ -286,7 +286,7 @@
     <string name="playback_mode_single_episode">"Režim jednoho přehrání"</string>
     <string name="s_has_been_added_to_subscription">"%1$s byl přidán k odběru"</string>
     <string name="audio_not_started_yet">"Přehrávání ještě nezačalo!"</string>
-    <string name="manage_playlist">"Správa seznamů"</string>
+    <string name="manage_playlists">"Správa seznamů"</string>
     <string name="download">"Stažené"</string>
     <string name="fast_forward_time">"Přetočení vpřed"</string>
     <string name="fast_rewind_time">"Rychlé přetáčení"</string>
@@ -1219,4 +1219,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

@@ -88,7 +88,7 @@
         <item>Wietnam</item>
     </string-array>
 
-    <string name="pref_auto_delete_played_summary">Usuwaj przesłuchane odcinki z listy pobranych</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Usuwaj przesłuchane odcinki z listy pobranych</string>
     <string name="pref_downloadLocation">"Pobieraj podcasty do: "</string>
     <string name="downloads">Pobrane</string>
     <string name="jump_to_next_episode">Zapamiętaj pozycję odtwarzania</string>
@@ -287,7 +287,7 @@
     <string name="playback_mode_single_episode">Pojedyncze odtworzenie</string>
     <string name="s_has_been_added_to_subscription">"%1$s dodano do subskrypcji"</string>
     <string name="audio_not_started_yet">Daj mi chwilkę!</string>
-    <string name="manage_playlist">Zarządzaj playlistą</string>
+    <string name="manage_playlists">Zarządzaj playlistą</string>
     <string name="download">Pobierz</string>
     <string name="fast_forward_time">Czas szybkiego przewijania</string>
     <string name="fast_rewind_time">Czas szybkiego cofania</string>
@@ -1224,4 +1224,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

@@ -88,7 +88,7 @@
         <item>    فيتنام</item>
     </string-array>
     <string name="app_name">"بودكاست ريببلك"</string>
-    <string name="pref_auto_delete_played_summary">"الحذف التلقائي للعناصر التي تم تشغيلها"</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"الحذف التلقائي للعناصر التي تم تشغيلها"</string>
     <string name="pref_downloadLocation">"تخزين التنزيلات في:"</string>
     <string name="downloads">"التنزيلات"</string>
     <string name="jump_to_next_episode">"تذكر موقف التشغيل الحالي"</string>
@@ -287,7 +287,7 @@
     <string name="playback_mode_single_episode">"وضع تشغيل منفصل"</string>
     <string name="s_has_been_added_to_subscription">"%1$s قد أضيفت إلى الاشتراك"</string>
     <string name="audio_not_started_yet">"الصوت لم يبدأ بعد!"</string>
-    <string name="manage_playlist">"إدارة قوائم التشغيل"</string>
+    <string name="manage_playlists">"إدارة قوائم التشغيل"</string>
     <string name="download">"تنزيل"</string>
     <string name="fast_forward_time">"وقت التسريع إلى الأمام"</string>
     <string name="fast_rewind_time">"وقت الترجيع السريع"</string>
@@ -1221,4 +1221,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

@@ -92,7 +92,7 @@
     </string-array>
 
     <string name="app_name">Podcast Republic</string>
-    <string name="pref_auto_delete_played_summary">Auto delete played item from download list.</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Delete the downloaded podcast file after being played.</string>
     <string name="pref_downloadLocation">Download podcast to:</string>
     <string name="downloads">Downloads</string>
     <string name="jump_to_next_episode">Jump to next episode</string>
@@ -313,7 +313,7 @@
     <string name="grid_view">Grid view</string>
     <string name="s_has_been_added_to_subscription">"%1$s has been added to subscription"</string>
     <string name="audio_not_started_yet">Audio not started yet!</string>
-    <string name="manage_playlist">Manage playlists</string>
+    <string name="manage_playlists">Manage playlists</string>
     <string name="download">Download</string>
     <string name="fast_forward_time">Fast forward time</string>
     <string name="fast_rewind_time">Fast rewind time</string>
@@ -1243,4 +1243,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

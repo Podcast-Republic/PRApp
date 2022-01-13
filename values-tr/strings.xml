@@ -88,7 +88,7 @@
         <item>Vietnam </item>
     </string-array>
     <string name="app_name">Podcast Cumhuriyeti</string>
-    <string name="pref_auto_delete_played_summary">Oynatılan öğeyi indirme listesinden otomatik sil</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Oynatılan öğeyi indirme listesinden otomatik sil</string>
     <string name="pref_downloadLocation">"Podcast indirme yolu: "</string>
     <string name="downloads">İndirilenler</string>
     <string name="jump_to_next_episode">Geçerli oynatma konumunu hatırla</string>
@@ -287,7 +287,7 @@
     <string name="playback_mode_single_episode">Tekli oynatma modu</string>
     <string name="s_has_been_added_to_subscription">"%1$s abone olmak için eklendi"</string>
     <string name="audio_not_started_yet">Ses henüz başlamadı!</string>
-    <string name="manage_playlist">Oynatma listelerini yönet</string>
+    <string name="manage_playlists">Oynatma listelerini yönet</string>
     <string name="download">İndir</string>
     <string name="fast_forward_time">Hızlı ileri sarma süresi</string>
     <string name="fast_rewind_time">Hızlı geri sarma süresi</string>
@@ -1221,5 +1221,6 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>
 

@@ -88,7 +88,7 @@
         <item> "В'єтнам" </item>
     </string-array>
     <string name="app_name">"Podcast Republic"</string>
-    <string name="pref_auto_delete_played_summary">"Автоматичне видалення зіграного елемента зі списку завантажень"</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Автоматичне видалення зіграного елемента зі списку завантажень"</string>
     <string name="pref_downloadLocation">"Завантажити подкаст до: "</string>
     <string name="downloads">"Завантажені"</string>
     <string name="jump_to_next_episode">"Запам'ятати поточну позицію відтворення"</string>
@@ -287,7 +287,7 @@
     <string name="playback_mode_single_episode">"Один епізод"</string>
     <string name="s_has_been_added_to_subscription">"%1$s було додано до підписок"</string>
     <string name="audio_not_started_yet">"Звучання ще не розпочато!"</string>
-    <string name="manage_playlist">"Керування списками відтворення"</string>
+    <string name="manage_playlists">"Керування списками відтворення"</string>
     <string name="download">"Завантажити"</string>
     <string name="fast_forward_time">"Час швидкого програвання вперед"</string>
     <string name="fast_rewind_time">"Час швидкого перемотування назад"</string>
@@ -1220,4 +1220,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

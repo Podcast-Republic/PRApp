@@ -438,7 +438,7 @@
     <string name="low">Lavt</string>
     <string name="lower_audio_volume">Senk volumet</string>
     <string name="manage_episode_filters">Administrer episodefiltre</string>
-    <string name="manage_playlist">Administrer spillelister</string>
+    <string name="manage_playlists">Administrer spillelister</string>
     <string name="manage_tags">Administrer etiketter</string>
     <string name="manually">Oppdater manuelt</string>
     <string name="mark_all_as_played">Marker alle som avspilt</string>
@@ -534,7 +534,7 @@
     <string name="podcast_url_can_not_be_empty_">Podcast-URL kan ikke være tom</string>
     <string name="podcasts">Podcaster</string>
     <string name="portrait">Stående</string>
-    <string name="pref_auto_delete_played_summary">Fjern avspilte episoder fra nedlastingslisten automatisk</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Fjern avspilte episoder fra nedlastingslisten automatisk</string>
     <string name="pref_downloadLocation">Last ned podcast til:</string>
     <string name="preparing">Forbereder …</string>
     <string name="previous">Forrige</string>
@@ -1220,4 +1220,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

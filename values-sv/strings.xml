@@ -88,7 +88,7 @@
         <item> Vietnam </item>
     </string-array>
 
-    <string name="pref_auto_delete_played_summary">Radera spelade avsnitt automatiskt från nedladdningslistan</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Radera spelade avsnitt automatiskt från nedladdningslistan</string>
     <string name="pref_downloadLocation">Spara till:</string>
     <string name="downloads">Sparade</string>
     <string name="jump_to_next_episode">Spara aktuell tidpunkt</string>
@@ -292,7 +292,7 @@
     <string name="playback_mode_single_episode">Spela enstaka avsnitt</string>
     <string name="s_has_been_added_to_subscription">"%1$s prenumereras nu"</string>
     <string name="audio_not_started_yet">Uppspelning inte startad</string>
-    <string name="manage_playlist">Hantera spellistor</string>
+    <string name="manage_playlists">Hantera spellistor</string>
     <string name="download">Download</string>
     <string name="fast_forward_time">Tid för snabbspolning framåt</string>
     <string name="fast_rewind_time">Tid för snabbspolning bakåt</string>
@@ -1230,4 +1230,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

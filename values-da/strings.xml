@@ -89,7 +89,7 @@
     </string-array>
 
     <string name="app_name">"Podcast Republic"</string>
-    <string name="pref_auto_delete_played_summary">"Automatisk slette spillet fra downloadlisten"</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Automatisk slette spillet fra downloadlisten"</string>
     <string name="pref_downloadLocation">"Download podcast til:"</string>
     <string name="downloads">"Downloads"</string>
     <string name="jump_to_next_episode">"Husk den aktuelle afspilningsposition"</string>
@@ -288,7 +288,7 @@
     <string name="playback_mode_single_episode">"Afspil enkelte afsnit"</string>
     <string name="s_has_been_added_to_subscription">"%1$s Er blevet tilføjet til abonnementer"</string>
     <string name="audio_not_started_yet">"Afspilning ikke startet"</string>
-    <string name="manage_playlist">"Administrer playlister"</string>
+    <string name="manage_playlists">"Administrer playlister"</string>
     <string name="download">"Download"</string>
     <string name="fast_forward_time">"Spring frem (tid)"</string>
     <string name="fast_rewind_time">"Spring tilbage (tid)"</string>
@@ -1222,4 +1222,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

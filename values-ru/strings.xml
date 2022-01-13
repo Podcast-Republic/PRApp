@@ -88,7 +88,7 @@
         <item>Вьетнам</item>
     </string-array>
 
-    <string name="pref_auto_delete_played_summary">Автоматически удалять прослушанное из списка загрузок</string>
+    <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Автоматически удалять прослушанное из списка загрузок</string>
     <string name="pref_downloadLocation">Загрузить в:</string>
     <string name="downloads">Загрузки</string>
     <string name="jump_to_next_episode">Запомнить текущую позицию</string>
@@ -287,7 +287,7 @@
     <string name="playback_mode_single_episode">Один файл</string>
     <string name="s_has_been_added_to_subscription">"%1$s Добавлено к подпискам"</string>
     <string name="audio_not_started_yet">Воспроизведение еще не началось</string>
-    <string name="manage_playlist">Управление плейлистами</string>
+    <string name="manage_playlists">Управление плейлистами</string>
     <string name="download">Загрузка</string>
     <string name="fast_forward_time">Быстрая перемотка вперед</string>
     <string name="fast_rewind_time">Быстрая перемотка назад</string>
@@ -1223,4 +1223,5 @@
     <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
+    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
 </resources>

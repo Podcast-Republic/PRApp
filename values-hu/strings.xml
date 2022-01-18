@@ -416,8 +416,8 @@
     <string name="completed_downloads">Befejezett</string>
     <string name="top_charts">Toplisták</string>
     <string name="browse_top_charts">Toplisták böngészése</string>
-    <string name="after_x_minutes">%1$d perc eltelt</string>
-    <string name="after_current_episode_ends">az aktuális epizód befejeződik</string>
+    <string name="after_x_minutes">%1$d perc letelte után</string>
+    <string name="after_current_episode_ends">Az epizód befejeződésekor</string>
     <string name="add_a_chapter">Könyvjelző hozzáadása</string>
     <string name="time">Idő</string>
     <string name="filter_name">Szűrő neve</string>

@@ -139,10 +139,7 @@
     <string name="share">Поделиться</string>
     <string name="add_to_playlists">Добавить к списку воспроизведения</string>
     <string name="end_editing_mode">Закончить редактирование</string>
-    <string name="download_selection_s_">Загрузить выбранные файлы</string>
-    <string name="add_selection_s_to_playlist">Добавить выбранные выпуски к списку воспроизведения</string>
     <string name="set">Установить</string>
-    <string name="remove_selection_s_from_download_list">Удалить выбранное из списка загрузок</string>
     <string name="no_episode_selected">Не выбрано ни одного выпуска</string>
     <string name="set_played">Отметить как прослушанный</string>
     <string name="set_unplayed">Отметить как непрослушанный</string>
@@ -165,7 +162,6 @@
     <string name="playlists">Плейлист</string>
     <string name="there_is_no_podcast_playing">Сейчас ничего не воспроизводится</string>
     <string name="paused">Приостановлено</string>
-    <string name="stopped_on_error">Остановка из-за ошибки</string>
     <string name="error_downloaded_file_not_found">Ошибка: файл для загрузки не обнаружен</string>
     <string name="stopped">Остановлен</string>
     <string name="completed">Выполенно</string>
@@ -276,7 +272,6 @@
     <string name="search_episode_title">Искать выпуск по названию</string>
     <string name="search_episodes">Искать выпуски</string>
     <string name="widgets">Виджет</string>
-    <string name="background_transparency">Прозрачность фона</string>
     <string name="low">Меньше</string>
     <string name="high">Больше</string>
     <string name="gesture_sensitivity">Чувствительность жестов</string>
@@ -314,7 +309,6 @@
     <string name="backup_successful_s">Резервная копия создана успешно: %1$s</string>
     <string name="backup_failed_">Ошибка создания резервной копии!</string>
     <string name="when_headset_bluetooth_disconnected">Когда гарнитура/Bluetooth-гарнитура отсоединена</string>
-    <string name="volume">Громкость</string>
     <string name="add_a_virtual_podcast">Добавить виртуальный подкаст</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Создать виртуальный подкаст из выбранного каталога на диске. Каждый файл будет добавлен как отдельный выпуск. Вы можете добавлять или удалять медиа файлы в каталоге.</string>
     <string name="location">Размещение</string>
@@ -360,7 +354,6 @@
     <string name="light">LED подсветка</string>
     <string name="history">История</string>
     <string name="remove_all">Удалить всё</string>
-    <string name="auto_delete_played_episode_from_playlists">Автоматически удалять проигранные выпуски из плейлиста</string>
     <string name="new_episode_notification">Уведомление о новом эпизоде</string>
     <string name="download_on_charging">Скачивание на зарядке</string>
     <string name="start_downloading_only_when_battery_is_charging">Скачивать только на зарядке</string>
@@ -390,7 +383,6 @@
     <string name="keep_latest_n_downloads">Последние %1$d выпуска(ов)</string>
     <string name="keep_all_downloads">Сохранить все</string>
     <string name="playback_controls">Кнопки воспроизведения</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Кнопки воспроизведения (не более три) в строке состояния: </string>
     <string name="hide_played_podcasts">Скрывать прослушанные выпуски</string>
     <string name="pause_downloads">Приостановить загрузку</string>
     <string name="has_keywords_in_title">Есть ключевые слова в заголовке</string>
@@ -433,8 +425,8 @@
     <string name="export_downloads">Экспорт подкаста</string>
     <string name="edit_episode_filter">Редактировать фильтр</string>
     <string name="done">Готово</string>
-    <string name="move_selections_to_top">Переместить выбранное в начало</string>
-    <string name="move_selections_to_bottom">Переместить выбранное в конец</string>
+    <string name="move_to_top">Переместить выбранное в начало</string>
+    <string name="move_to_bottom">Переместить выбранное в конец</string>
     <string name="downloaded">Загруженные</string>
     <string name="dont_download_episode">Не загружать выпуск</string>
     <string name="match_all_keywords">Полное совпадение по ключевым словам</string>
@@ -751,13 +743,6 @@
     <string name="playback_mode_repeat_episode">"Повторить эпизод"</string>
     <string name="playback_mode_repeat_playlist">"Повторить плейлист"</string>
     <string name="alarms">Будильник</string>
-    <string name="sunday">Воскресенье</string>
-    <string name="monday">Понедельник</string>
-    <string name="tuesday">Bторник</string>
-    <string name="wednesday">Cреда</string>
-    <string name="thursday">Четверг</string>
-    <string name="friday">Пятница</string>
-    <string name="saturday">Cуббота</string>
     <string name="no_alarms_found_">Будильники не найдены.</string>
     <string name="allow_to_download_at_any_time">Разрешить загрузку в любое время</string>
     <string name="allow_to_download_between_selected_time">Разрешить загрузку только</string>
@@ -954,7 +939,6 @@
     <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
     <string name="show_radio_station_title">Show station title</string>
     <string name="hide_radio_station_title">Hide station title</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
     <string name="not_in_downloads_list">Not in Downloads list</string>
     <string name="reversed_landscape">Reversed landscape</string>
     <string name="reset_sleep_timer">Reset sleep timer</string>
@@ -1067,8 +1051,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
     <string name="website">Website</string>
-    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
-    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
     <string name="auto_load_last_played_episode">Auto load last played episode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
@@ -1187,7 +1169,6 @@
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="ask_me_for_action">Ask me for action</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
@@ -1224,4 +1205,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

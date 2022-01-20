@@ -140,10 +140,7 @@
     <string name="share">"שתף"</string>
     <string name="add_to_playlists">"הוסף לרשימות ההשמעה"</string>
     <string name="end_editing_mode">"סיים מצב עריכה"</string>
-    <string name="download_selection_s_">"הורד את הנבחרים"</string>
-    <string name="add_selection_s_to_playlist">"הוסף את הנבחרים לרשימת השמעה"</string>
     <string name="set">"קבע"</string>
-    <string name="remove_selection_s_from_download_list">"הסר נבחרים מרשימת ההורדה"</string>
     <string name="no_episode_selected">"לא נבחר פרק"</string>
     <string name="set_played">"הגדר כהושמע"</string>
     <string name="set_unplayed">"הגדר כלא הושמע"</string>
@@ -166,7 +163,6 @@
     <string name="playlists">"רשימות השמעה"</string>
     <string name="there_is_no_podcast_playing">"אין פודקאסט מושמע"</string>
     <string name="paused">"השהייה"</string>
-    <string name="stopped_on_error">"נעצר בשגיאה"</string>
     <string name="error_downloaded_file_not_found">"שגיאה: הקובץ שהורד לא נמצא"</string>
     <string name="stopped">"עצר"</string>
     <string name="completed">"הושלם"</string>
@@ -277,7 +273,6 @@
     <string name="search_episode_title">"חפש כותרת פרק"</string>
     <string name="search_episodes">"חפש פרקים"</string>
     <string name="widgets">"ווידג'ט"</string>
-    <string name="background_transparency">"שקיפות רקע"</string>
     <string name="low">"נמוך"</string>
     <string name="high">"גבוה"</string>
     <string name="gesture_sensitivity">"רגישות מחוות"</string>
@@ -315,7 +310,6 @@
     <string name="backup_successful_s">": %1$sהגיבוי הצליח"</string>
     <string name="backup_failed_">"הגיבוי נכשל"</string>
     <string name="when_headset_bluetooth_disconnected">"כאשר קיים זיהוי על ניתוק אוזניות / Bluetooth"</string>
-    <string name="volume">"עוצמת קול"</string>
     <string name="add_a_virtual_podcast">"הוסף פודקאסט וירטואלי"</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"צור מאגר פודקאסט וירטואלי על ידי בחירת תיקייה במכשיר. כל קובץ מדיה בתיקייה הנבחרת ייובא כפרק. ניתן להוסיף או להסיר באופן ידני קבצי מדיה לתיקייה בשלב מאוחר יותר."</string>
     <string name="location">"מיקום"</string>
@@ -354,7 +348,6 @@
     <string name="download_removed">"הסרת הורדה"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"טעינת הגרפיקה תתבצע רק בחיבור לרשת האלחוטית"</string>
     <string name="load_artwork_via_wifi_only">"טעינת הגרפיקה תתבצע באמצעות רשת אלחוטית בלבד"</string>
-    <string name="when_pressing_episode_in_list">"בעת לחיצת פרק ברשימה"</string>
     <string name="start_playing">"תמיד התחל לנגן"</string>
     <string name="display_episode_artwork">"הצג גרפיקה המצורפת לפרק"</string>
     <string name="ringtone">"צלצול"</string>
@@ -362,7 +355,6 @@
     <string name="light">"תאורת לד"</string>
     <string name="history">"היסטוריה"</string>
     <string name="remove_all">"הסר הכל"</string>
-    <string name="auto_delete_played_episode_from_playlists">"מחק אוטומטית פריטים שנוגנו מרשימת ההשמעה"</string>
     <string name="new_episode_notification">"הודעה על פרק חדש"</string>
     <string name="download_on_charging">"הורדה בעת טעינת סוללה"</string>
     <string name="start_downloading_only_when_battery_is_charging">"התחל הורדה רק בעת טעינת הסוללה"</string>
@@ -392,7 +384,6 @@
     <string name="keep_latest_n_downloads">"שמור %1$d הורדות אחרונות"</string>
     <string name="keep_all_downloads">"שמור את כל ההורדות"</string>
     <string name="playback_controls">"כפתורי שמע"</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">"כפתורי שמע (מקסימום שלושה) בהודעה: "</string>
     <string name="hide_played_podcasts">"הסתר פודקאסט מושמע"</string>
     <string name="pause_downloads">"השהה הורדות"</string>
     <string name="has_keywords_in_title">"יש מילות מפתח בכותרת"</string>
@@ -435,8 +426,8 @@
     <string name="export_downloads">"ייצא פרק"</string>
     <string name="edit_episode_filter">"ערוך מסנן"</string>
     <string name="done">"בוצע"</string>
-    <string name="move_selections_to_top">"העבר נבחרים להתחלה"</string>
-    <string name="move_selections_to_bottom">"העבר נבחרים לסוף"</string>
+    <string name="move_to_top">"העבר נבחרים להתחלה"</string>
+    <string name="move_to_bottom">"העבר נבחרים לסוף"</string>
     <string name="downloaded">"הורדו"</string>
     <string name="dont_download_episode">"אל תוריד פרק"</string>
     <string name="match_all_keywords">"התאם את כל מילות המפתח"</string>
@@ -750,13 +741,6 @@
     <string name="playback_mode_repeat_episode">"חזור על הפרק"</string>
     <string name="playback_mode_repeat_playlist">"חזור על רשימת השמעה"</string>
     <string name="alarms">"תזכורת"</string>
-    <string name="sunday">"יום ראשון"</string>
-    <string name="monday">"יום שני"</string>
-    <string name="tuesday">"יום שלישי"</string>
-    <string name="wednesday">"יום רביעי"</string>
-    <string name="thursday">"יום חמישי"</string>
-    <string name="friday">"יום שישי"</string>
-    <string name="saturday">"יום שבת"</string>
     <string name="no_alarms_found_">"לא נמצאו תזכורות."</string>
     <string name="allow_to_download_at_any_time">"אפשר להוריד בכל עת"</string>
     <string name="allow_to_download_between_selected_time">"אפשר להוריד בשעות מסויימות"</string>
@@ -954,7 +938,6 @@
     <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
     <string name="show_radio_station_title">Show station title</string>
     <string name="hide_radio_station_title">Hide station title</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
     <string name="not_in_downloads_list">Not in Downloads list</string>
     <string name="reversed_landscape">Reversed landscape</string>
     <string name="reset_sleep_timer">Reset sleep timer</string>
@@ -1065,8 +1048,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
     <string name="website">Website</string>
-    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
-    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
     <string name="auto_load_last_played_episode">Auto load last played episode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
@@ -1185,7 +1166,6 @@
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="ask_me_for_action">Ask me for action</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
@@ -1222,4 +1202,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

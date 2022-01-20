@@ -139,10 +139,7 @@
     <string name="share">Megosztás</string>
     <string name="add_to_playlists">Lejátszólistához adás</string>
     <string name="end_editing_mode">Kilépés szerkesztési módból</string>
-    <string name="download_selection_s_">Kiválasztottak letöltése</string>
-    <string name="add_selection_s_to_playlist">Kiválasztottak hozzáadása lejátszólistához</string>
     <string name="set">Beállítás</string>
-    <string name="remove_selection_s_from_download_list">Kijelöltek eltávolítása a letöltésekből</string>
     <string name="no_episode_selected">Nincs epizód kijelölve</string>
     <string name="set_played">Lejátszottnak jelölés</string>
     <string name="set_unplayed">Nem lejátszottnak jelölés</string>
@@ -165,7 +162,6 @@
     <string name="playlists">Lejátszólisták</string>
     <string name="there_is_no_podcast_playing">Nincs mit hallgatni</string>
     <string name="paused">Szünetel</string>
-    <string name="stopped_on_error">Leállt hiba miatt</string>
     <string name="error_downloaded_file_not_found">Hiba: a letöltött fájl nem található</string>
     <string name="stopped">Megállított</string>
     <string name="completed">Befejezett</string>
@@ -276,7 +272,6 @@
     <string name="search_episode_title">Epizódcím keresése</string>
     <string name="search_episodes">Epizódok keresése</string>
     <string name="widgets">Modulok (Widgets)</string>
-    <string name="background_transparency">Háttér átláthatósága</string>
     <string name="low">Alacsony</string>
     <string name="high">Magas</string>
     <string name="gesture_sensitivity">Gesztus érzékenység</string>
@@ -314,7 +309,6 @@
     <string name="backup_successful_s">A biztonsági mentés sikerült: %1$s</string>
     <string name="backup_failed_">A biztonsági mentés nem sikerült!</string>
     <string name="when_headset_bluetooth_disconnected">Amikor a Headset / Bluetooth szétkapcsolódik</string>
-    <string name="volume">Hangerő</string>
     <string name="add_a_virtual_podcast">Virtuális podcast hozzáadása</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Létrehozhat Virtuális podcastot egy mappa kiválasztásával a készüléken. Minden médiafájl a kiválasztott mappából egy-egy epizódként fog megjelenni. Manuálisan tud hozzáadni vagy eltávolítani fájlokat a mappából.</string>
     <string name="location">Mappa helye</string>
@@ -361,7 +355,6 @@
     <string name="light">LED világítás</string>
     <string name="history">Előzmények</string>
     <string name="remove_all">Összes eltávolítása</string>
-    <string name="auto_delete_played_episode_from_playlists">Meghallgatottak automatikus törlése a lejátszólistákból</string>
     <string name="new_episode_notification">Értesítés új epizód esetén</string>
     <string name="download_on_charging">Letöltés csak akkumulátor töltéskor</string>
     <string name="start_downloading_only_when_battery_is_charging">Csak akkor kezdjen el letölteni, ha az akkumulátor töltődik</string>
@@ -391,7 +384,6 @@
     <string name="keep_latest_n_downloads">Tartsa meg a legújabb %1$d letöltést</string>
     <string name="keep_all_downloads">Az összes letöltés megtartása</string>
     <string name="playback_controls">Lejátszásvezérlők</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Lejátszásvezérlők (maximum három) az értesítésekben:</string>
     <string name="hide_played_podcasts">Lejátszott podcastok elrejtése</string>
     <string name="pause_downloads">Letöltések szüneteltetése</string>
     <string name="has_keywords_in_title">Címben szereplő kulcsszavak</string>
@@ -434,8 +426,8 @@
     <string name="export_downloads">Letöltések exportálása</string>
     <string name="edit_episode_filter">Epizódszűrő szerkesztése</string>
     <string name="done">Kész</string>
-    <string name="move_selections_to_top">Kiválasztottak áthelyezése felülre</string>
-    <string name="move_selections_to_bottom">Kiválasztottak áthelyezése alulra</string>
+    <string name="move_to_top">Kiválasztottak áthelyezése felülre</string>
+    <string name="move_to_bottom">Kiválasztottak áthelyezése alulra</string>
     <string name="downloaded">Letöltve</string>
     <string name="dont_download_episode">Ne töltse le az epizódot</string>
     <string name="match_all_keywords">Az összes kulcsszó egyezzen</string>
@@ -755,13 +747,6 @@
     <string name="playback_mode_repeat_episode">Epizód ismétlése</string>
     <string name="playback_mode_repeat_playlist">Lejátszólista ismétlése</string>
     <string name="alarms">Riasztások</string>
-    <string name="sunday">Vasárnap</string>
-    <string name="monday">Hétfő</string>
-    <string name="tuesday">Kedd</string>
-    <string name="wednesday">Szerda</string>
-    <string name="thursday">Csütörtök</string>
-    <string name="friday">Péntek</string>
-    <string name="saturday">Szombat</string>
     <string name="no_alarms_found_">Nincsenek riasztások.</string>
     <string name="allow_to_download_at_any_time">Letöltés bármikor</string>
     <string name="allow_to_download_between_selected_time">Letöltés engedélyezése a megadott időpontok között</string>
@@ -958,7 +943,6 @@
     <string name="maximum_rewind_time_d_seconds">Maximális visszatekerési idő: %d másodperc.</string>
     <string name="show_radio_station_title">Állomás nevének megjelenítése</string>
     <string name="hide_radio_station_title">Állomás nevének elrejtése</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">Ha nincs kiválasztva ismétlődési nap, a riasztás csak egyszer szólal meg.</string>
     <string name="not_in_downloads_list">Nincs a Letöltési listában</string>
     <string name="reversed_landscape">Fordított tájolás</string>
     <string name="reset_sleep_timer">Alvó üzemmód alaphelyzetbe</string>
@@ -1069,8 +1053,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Lehetővé teszi a legrégebbi nem lejátszott epizódok letöltését, ha nem található újabb nem lejátszott epizód.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Lehetővé teszi a legújabb nem lejátszott epizódok letöltését, ha nem található régebbi nem lejátszott epizód.</string>
     <string name="website">Weboldal</string>
-    <string name="allow_to_sort_playlist_manually">Engedélyezi a lejátszólisták kézi rendezését</string>
-    <string name="preview_descriptions_in_list">Leírások előnézetének megjelenítése a listában</string>
     <string name="auto_load_last_played_episode">Legutóbb lejátszott epizód aut. betöltése</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \'Most lejátszott\' mappába</string>
     <string name="delete_the_playlist_s">Törli ezt a lejátszólistát: %s?</string>
@@ -1189,7 +1171,6 @@
     <string name="moving_downloads_failed">Letöltések áthelyezése nem sikerült</string>
     <string name="some_downloads_are_not_moved_to_s">Pár letöltés nem került át ide: %s</string>
     <string name="html_notation">HTML jelölés</string>
-    <string name="media_buttons">Média gombok</string>
     <string name="mark_rss_feeds_as_read">Hírcsatornák jelölése olvasottként</string>
     <string name="ask_me_for_action">Kérdezzen rá</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">Törli az összes jelenlegi lejátszási statisztikát?</string>
@@ -1226,5 +1207,7 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Az összecsukott értesítésnek legfeljebb három lejátszási vezérlője lehet.</string>
     <string name="save_image">Kép mentése</string>
     <string name="view_or_edit_playlist_setup_">Lejátszólista beállítások megtekintése vagy szerkesztése.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 
 </resources>

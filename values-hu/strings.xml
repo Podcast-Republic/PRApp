@@ -408,8 +408,8 @@
     <string name="completed_downloads">Befejezett</string>
     <string name="top_charts">Toplisták</string>
     <string name="browse_top_charts">Toplisták böngészése</string>
-    <string name="after_x_minutes">%1$d perc eltelt</string>
-    <string name="after_current_episode_ends">az aktuális epizód befejeződik</string>
+    <string name="after_x_minutes">%1$d perc letelte után</string>
+    <string name="after_current_episode_ends">Az epizód befejeződésekor</string>
     <string name="add_a_chapter">Könyvjelző hozzáadása</string>
     <string name="time">Idő</string>
     <string name="filter_name">Szűrő neve</string>
@@ -1207,7 +1207,7 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Az összecsukott értesítésnek legfeljebb három lejátszási vezérlője lehet.</string>
     <string name="save_image">Kép mentése</string>
     <string name="view_or_edit_playlist_setup_">Lejátszólista beállítások megtekintése vagy szerkesztése.</string>
-    <string name="search_in_title">Search in title</string>
-    <string name="search_in_title_and_article">Search in title and article</string>
+    <string name="search_in_title">Keresés a címben</string>
+    <string name="search_in_title_and_article">Keresés a címben és a cikkben</string>
 
 </resources>

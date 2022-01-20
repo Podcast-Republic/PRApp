@@ -1222,5 +1222,5 @@
     <string name="at_lease_one_playback_control_is_required">- Vyžaduje sa aspoň jedno ovládanie prehrávania.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Zbalené upozornenia môžu mať až tri ovládacie prvky prehrávania.</string>
     <string name="save_image">Uložiť obrázok</string>
-    <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="view_or_edit_playlist_setup_">Zobraziť alebo upraviť nastavenie playlistu.</string>
 </resources>

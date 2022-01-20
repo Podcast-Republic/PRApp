@@ -139,10 +139,7 @@
     <string name="share">"مشاركة"</string>
     <string name="add_to_playlists">"أضف إلى قائمة التشغيل"</string>
     <string name="end_editing_mode">"إنهاء وضع التحرير"</string>
-    <string name="download_selection_s_">"اختيار التنزيل"</string>
-    <string name="add_selection_s_to_playlist">"إضافة التحديد الى قائمة التشغيل"</string>
     <string name="set">"تعيين"</string>
-    <string name="remove_selection_s_from_download_list">"إزالة التحديد من قائمة التنزيلات"</string>
     <string name="no_episode_selected">"لم يتم تحديد أي بودكاست"</string>
     <string name="set_played">"تعيين اكتمال التشغيل"</string>
     <string name="set_unplayed">"تعيين لم يتم التشغيل"</string>
@@ -165,7 +162,6 @@
     <string name="playlists">"قوائم التشغيل"</string>
     <string name="there_is_no_podcast_playing">"لا يوجد أي عرض يتم تشغيله الآن."</string>
     <string name="paused">"تم إيقافه مؤقتًا"</string>
-    <string name="stopped_on_error">"توقف بسبب خطأ"</string>
     <string name="error_downloaded_file_not_found">"خطأ: الملف الذي تم تنزيله لم يتم العثور علىه"</string>
     <string name="stopped">"تم الإيقاف"</string>
     <string name="completed">"اكتمل"</string>
@@ -276,7 +272,6 @@
     <string name="search_episode_title">"البحث في عنوان الحلقة"</string>
     <string name="search_episodes">"بحث في الحلقة"</string>
     <string name="widgets">"تطبيق مصغّر"</string>
-    <string name="background_transparency">"شفافية الخلفية"</string>
     <string name="low">"منخفض"</string>
     <string name="high">"عالي"</string>
     <string name="gesture_sensitivity">"حساسية الحركة"</string>
@@ -314,7 +309,6 @@
     <string name="backup_successful_s">": %1$sنجح النسخ الاحتياطي"</string>
     <string name="backup_failed_">"أخفق النسخ الاحتياطي"</string>
     <string name="when_headset_bluetooth_disconnected">"عندما يتم فصل سماعة / بلوتوث"</string>
-    <string name="volume">"مستوى الصوت"</string>
     <string name="add_a_virtual_podcast">"إضافة بودكاست افتراضي"</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"إنشاء مستودع بودكاست افتراضي عن طريق اختيار مجلد على جهازك. سيتم استيراد كل ملف وسائط في المجلد المحدد كحلقة. يمكنك يدويا إضافة أو إزالة ملفات الوسائط إلى المجلد في وقت لاحق."</string>
     <string name="location">"المجلد"</string>
@@ -361,7 +355,6 @@
     <string name="light">"ضوء ال اي دي"</string>
     <string name="history">"المحفوظات السابقة"</string>
     <string name="remove_all">"إزالة الكل"</string>
-    <string name="auto_delete_played_episode_from_playlists">"الحذف التلقائي للحلقة التي تم تشغيلها من القائمة"</string>
     <string name="new_episode_notification">"اشعار حلقة جديدة"</string>
     <string name="download_on_charging">"تنزيل الحلقات أثناء الشحن"</string>
     <string name="start_downloading_only_when_battery_is_charging">"بدء التنزيل فقط عندما يتم شحن البطارية"</string>
@@ -391,7 +384,6 @@
     <string name="keep_latest_n_downloads">"أحدث %d حلقة (ات)"</string>
     <string name="keep_all_downloads">"احتفظ بها جميعا"</string>
     <string name="playback_controls">"التحكم في التشغيل"</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">"أزرار التشغيل (بحد أقصى ثلاثة) في التنبيهات: "</string>
     <string name="hide_played_podcasts">"إخفاء البودكاست التي تم تشغيلها"</string>
     <string name="pause_downloads">"توقيف مؤقت للتنزيلات"</string>
     <string name="has_keywords_in_title">"كلمات رئيسية في العنوان"</string>
@@ -434,8 +426,8 @@
     <string name="export_downloads">"تصدير الحلقة"</string>
     <string name="edit_episode_filter">"تعديل التصفية"</string>
     <string name="done">"تم"</string>
-    <string name="move_selections_to_top">"نقل الاختيارات إلى الأعلى"</string>
-    <string name="move_selections_to_bottom">"نقل الاختيارات إلى الأسفل"</string>
+    <string name="move_to_top">"نقل الاختيارات إلى الأعلى"</string>
+    <string name="move_to_bottom">"نقل الاختيارات إلى الأسفل"</string>
     <string name="downloaded">"الملفات المحملة"</string>
     <string name="dont_download_episode">"عدم تحميل الحلقة"</string>
     <string name="match_all_keywords">"تطابق جميع الكلمات الرئيسية"</string>
@@ -751,13 +743,6 @@
     <string name="playback_mode_repeat_episode">Repeat episode</string>
     <string name="playback_mode_repeat_playlist">Repeat playlist</string>
     <string name="alarms">Alarms</string>
-    <string name="sunday">الأحد</string>
-    <string name="monday">الإثنين</string>
-    <string name="tuesday">الثلاثاء</string>
-    <string name="wednesday">الأربعاء</string>
-    <string name="thursday">الخميس</string>
-    <string name="friday">يوم الجمعة</string>
-    <string name="saturday">يوم السبت</string>
     <string name="no_alarms_found_">No alarms found.</string>
     <string name="allow_to_download_at_any_time">Allow to download at any time</string>
     <string name="allow_to_download_between_selected_time">Allow to download between selected time</string>
@@ -954,7 +939,6 @@
     <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
     <string name="show_radio_station_title">Show station title</string>
     <string name="hide_radio_station_title">Hide station title</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
     <string name="not_in_downloads_list">Not in Downloads list</string>
     <string name="reversed_landscape">Reversed landscape</string>
     <string name="reset_sleep_timer">Reset sleep timer</string>
@@ -1065,8 +1049,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
     <string name="website">Website</string>
-    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
-    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
     <string name="auto_load_last_played_episode">Auto load last played episode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
@@ -1185,7 +1167,6 @@
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="ask_me_for_action">Ask me for action</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
@@ -1222,4 +1203,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

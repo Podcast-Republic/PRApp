@@ -139,10 +139,7 @@
     <string name="share">"Jaga"</string>
     <string name="add_to_playlists">"Lisa esitusloendisse"</string>
     <string name="end_editing_mode">"Lõpeta redigeerimisreziim"</string>
-    <string name="download_selection_s_">"Lae valik(ud)"</string>
-    <string name="add_selection_s_to_playlist">"Lisa valik(ud) esitlusloendisse"</string>
     <string name="set">"Sea"</string>
-    <string name="remove_selection_s_from_download_list">"Eemalda valik(ud) allalaadimise nimekirjast"</string>
     <string name="no_episode_selected">"Episood pole valitud"</string>
     <string name="set_played">"Sea mängitud"</string>
     <string name="set_unplayed">"Sea mittemängitud"</string>
@@ -165,7 +162,6 @@
     <string name="playlists">"Esitusloendid"</string>
     <string name="there_is_no_podcast_playing">"Ühtegi taskuhäälingut ei ole mängimas"</string>
     <string name="paused">"Ootel"</string>
-    <string name="stopped_on_error">"Peatatud veaga"</string>
     <string name="error_downloaded_file_not_found">"Viga: allalaetud fail ei ole leitav"</string>
     <string name="stopped">"Peatatud"</string>
     <string name="completed">"Lõpetatud"</string>
@@ -276,7 +272,6 @@
     <string name="search_episode_title">"Otsi episoodi pealkirja"</string>
     <string name="search_episodes">"Otsi episoode"</string>
     <string name="widgets">"Vidin"</string>
-    <string name="background_transparency">"Tausta läbipaistvus"</string>
     <string name="low">"Madal"</string>
     <string name="high">"Kõrge"</string>
     <string name="gesture_sensitivity">"Žesti tundlikus"</string>
@@ -314,7 +309,6 @@
     <string name="backup_successful_s">"Taastamine õnnestus: %1$s"</string>
     <string name="backup_failed_">"Taastamine ebaõnnestunud!"</string>
     <string name="when_headset_bluetooth_disconnected">"Kui peakomplekt / Bluetooth katkeb"</string>
-    <string name="volume">"Helitugevus"</string>
     <string name="add_a_virtual_podcast">"Lisa virtuaalne taskuhääling"</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Loo virtuaalne taskuhäälingu hoidla valides kaust sinu seadmes. Iga meediafail on valitud kaustas imporditud episoodina. Hiljem saad manuaalselt lisada või eemaldada meediafaile kaustas."</string>
     <string name="location">"Asukoht"</string>
@@ -361,7 +355,6 @@
     <string name="light">"LED valgus"</string>
     <string name="history">"Ajalugu"</string>
     <string name="remove_all">"Eemalda kõik"</string>
-    <string name="auto_delete_played_episode_from_playlists">"Automaatselt kustuta esitatud üksus esitusloendist"</string>
     <string name="new_episode_notification">"Uue episoodi teade"</string>
     <string name="download_on_charging">"Laadimisel allalaadimine"</string>
     <string name="start_downloading_only_when_battery_is_charging">"Alusta allalaadimist ainult siis, kui akut laetakse"</string>
@@ -391,7 +384,6 @@
     <string name="keep_latest_n_downloads">"Hoia uuemad %1$d allalaadimistest"</string>
     <string name="keep_all_downloads">"Hoia kõik allalaadimised"</string>
     <string name="playback_controls">"Taasesituse juhtimine"</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">"Taasesituse juhtimine (maksimaalselt kolm) teavitusel: "</string>
     <string name="hide_played_podcasts">"Peida mängitud taskuhäääling"</string>
     <string name="pause_downloads">"Allalaadimised ootele"</string>
     <string name="has_keywords_in_title">"On märksõnad pealkirjas"</string>
@@ -434,8 +426,8 @@
     <string name="export_downloads">"Ekspordi episood"</string>
     <string name="edit_episode_filter">"Redigeeri filtrit"</string>
     <string name="done">"Valmis"</string>
-    <string name="move_selections_to_top">"Liiguta valik(ud) üles"</string>
-    <string name="move_selections_to_bottom">"Liiguta valik(ud) alla"</string>
+    <string name="move_to_top">"Liiguta valik(ud) üles"</string>
+    <string name="move_to_bottom">"Liiguta valik(ud) alla"</string>
     <string name="downloaded">"Allalaetud"</string>
     <string name="dont_download_episode">"Ära lae episoodi"</string>
     <string name="match_all_keywords">"Sobima peavad kõik märksõnad"</string>
@@ -752,13 +744,6 @@
     <string name="playback_mode_repeat_episode">"Korda episoodi"</string>
     <string name="playback_mode_repeat_playlist">"Korda esitusloendit"</string>
     <string name="alarms">"Äratused"</string>
-    <string name="sunday">"Pühapäev"</string>
-    <string name="monday">"Esmaspäev"</string>
-    <string name="tuesday">"Teisipäev"</string>
-    <string name="wednesday">"Kolmapäev"</string>
-    <string name="thursday">"Neljapäev"</string>
-    <string name="friday">"Reede"</string>
-    <string name="saturday">"Laupäev"</string>
     <string name="no_alarms_found_">"Häireid ei leitud."</string>
     <string name="allow_to_download_at_any_time">"Luba igal ajal alla laadida"</string>
     <string name="allow_to_download_between_selected_time">"Laske valitud aja vahel alla laadida"</string>
@@ -955,7 +940,6 @@
     <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
     <string name="show_radio_station_title">Show station title</string>
     <string name="hide_radio_station_title">Hide station title</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
     <string name="not_in_downloads_list">Not in Downloads list</string>
     <string name="reversed_landscape">Reversed landscape</string>
     <string name="reset_sleep_timer">Reset sleep timer</string>
@@ -1067,8 +1051,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
     <string name="website">Website</string>
-    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
-    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
     <string name="auto_load_last_played_episode">Auto load last played episode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
@@ -1187,7 +1169,6 @@
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="ask_me_for_action">Ask me for action</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
@@ -1224,4 +1205,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

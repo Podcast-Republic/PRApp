@@ -139,10 +139,7 @@
     <string name="share">"Delen"</string>
     <string name="add_to_playlists">"Toevoegen aan afspeellijst"</string>
     <string name="end_editing_mode">"Einde bewerkingsmodus"</string>
-    <string name="download_selection_s_">"Download selectie(s)"</string>
-    <string name="add_selection_s_to_playlist">"Selectie(s) toevoegen aan afspeellijst"</string>
     <string name="set">"Instellen"</string>
-    <string name="remove_selection_s_from_download_list">"Verwijder selectie(s) van downloadlijst"</string>
     <string name="no_episode_selected">"Geen aflevering geselecteerd"</string>
     <string name="set_played">"Zet afgespeeld"</string>
     <string name="set_unplayed">"Zet niet afgespeeld"</string>
@@ -165,7 +162,6 @@
     <string name="playlists">"Afspeellijsten"</string>
     <string name="there_is_no_podcast_playing">"Er speelt nu geen show."</string>
     <string name="paused">"Gepauzeerd"</string>
-    <string name="stopped_on_error">"Gestopt op fout"</string>
     <string name="error_downloaded_file_not_found">"Fout: Gedownload bestand niet gevonden"</string>
     <string name="stopped">"Gestopt"</string>
     <string name="completed">"Voltooid"</string>
@@ -276,7 +272,6 @@
     <string name="search_episode_title">"Zoek afleveringstitel"</string>
     <string name="search_episodes">"Zoek aflevering"</string>
     <string name="widgets">Widgets</string>
-    <string name="background_transparency">"Doorzichtigheid achtergrond"</string>
     <string name="low">"Weinig"</string>
     <string name="high">"Veel"</string>
     <string name="gesture_sensitivity">"Veeg gevoeligheid"</string>
@@ -314,7 +309,6 @@
     <string name="backup_successful_s">"Backup voltooid: %1$s"</string>
     <string name="backup_failed_">"Backup mislukt!"</string>
     <string name="when_headset_bluetooth_disconnected">"Wanneer headset/Bluetooth wordt losgekoppeld"</string>
-    <string name="volume">"Volume"</string>
     <string name="add_a_virtual_podcast">"Toevoegen virtuele podcast"</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Selecteer een map op je apparaat als opslag voor een virtuele podcast. Elk mediabestand in de geselecteerde map word geïmporteerd als aflevering. Je kunt later handmatig mediabestanden toevoegen of verwijderen."</string>
     <string name="location">"Locatie"</string>
@@ -360,7 +354,6 @@
     <string name="light">"LED verlichting"</string>
     <string name="history">"Geschiedenis"</string>
     <string name="remove_all">"Verwijder alles"</string>
-    <string name="auto_delete_played_episode_from_playlists">"Verwijder gespeeld onderdeel automatisch uit afspeellijst"</string>
     <string name="new_episode_notification">"Melding nieuwe aflevering"</string>
     <string name="download_on_charging">"Download tijdens opladen"</string>
     <string name="start_downloading_only_when_battery_is_charging">"Begin alleen met downloaden wanneer batterij wordt opgeladen"</string>
@@ -390,7 +383,6 @@
     <string name="keep_latest_n_downloads">"Laatste %1$d aflevering(en)"</string>
     <string name="keep_all_downloads">"Bewaar allemaal"</string>
     <string name="playback_controls">"Afspeelregelaars"</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">"Afspeelregelaars (maximaal drie) in berichtenbalk: "</string>
     <string name="hide_played_podcasts">"Verberg afgespeelde podcast"</string>
     <string name="pause_downloads">"Pauzeer downloads"</string>
     <string name="has_keywords_in_title">"Heeft zoekwoorden in titel"</string>
@@ -433,8 +425,8 @@
     <string name="export_downloads">"Exporteer aflevering"</string>
     <string name="edit_episode_filter">"Bewerk filter"</string>
     <string name="done">"Voltooid"</string>
-    <string name="move_selections_to_top">"Verplaats selectie(s) naar boven"</string>
-    <string name="move_selections_to_bottom">"Verplaats selectie(s) naar beneden"</string>
+    <string name="move_to_top">"Verplaats selectie(s) naar boven"</string>
+    <string name="move_to_bottom">"Verplaats selectie(s) naar beneden"</string>
     <string name="downloaded">"Gedownload"</string>
     <string name="dont_download_episode">"Aflevering niet downloaden"</string>
     <string name="match_all_keywords">"Bevat alle zoekwoorden"</string>
@@ -749,13 +741,6 @@
     <string name="playback_mode_repeat_episode">"Herhaal aflevering"</string>
     <string name="playback_mode_repeat_playlist">"Herhaal afspeellijst"</string>
     <string name="alarms">"Alarmen"</string>
-    <string name="sunday">Zondag</string>
-    <string name="monday">Maandag</string>
-    <string name="tuesday">Dinsdag</string>
-    <string name="wednesday">Woensdag</string>
-    <string name="thursday">Donderdag</string>
-    <string name="friday">Vrijdag</string>
-    <string name="saturday">Zaterdag</string>
     <string name="no_alarms_found_">"Geen alarmen gevonden."</string>
     <string name="allow_to_download_at_any_time">"Sta toe om op elk moment te downloaden"</string>
     <string name="allow_to_download_between_selected_time">"Toestaan om te downloaden tussen de geselecteerde tijden"</string>
@@ -952,7 +937,6 @@
     <string name="maximum_rewind_time_d_seconds">Maximale terugspoeltijd: %d seconden.</string>
     <string name="show_radio_station_title">Toon station naam</string>
     <string name="hide_radio_station_title">Verberg station naam</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
     <string name="not_in_downloads_list">Niet in Downloads lijst</string>
     <string name="reversed_landscape">Omgedraaid landscape</string>
     <string name="reset_sleep_timer">Herstel slaaptimer</string>
@@ -1065,8 +1049,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
     <string name="website">Website</string>
-    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
-    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
     <string name="auto_load_last_played_episode">Auto load last played episode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
@@ -1185,7 +1167,6 @@
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="ask_me_for_action">Ask me for action</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
@@ -1222,4 +1203,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

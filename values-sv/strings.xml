@@ -139,10 +139,7 @@
     <string name="share">Dela</string>
     <string name="add_to_playlists">Lägg till i spellista</string>
     <string name="end_editing_mode">Redigerat färdigt</string>
-    <string name="download_selection_s_">Hämta valda</string>
-    <string name="add_selection_s_to_playlist">Lägg till val i spellista</string>
     <string name="set">Ställ in</string>
-    <string name="remove_selection_s_from_download_list">Ta bort vald(a) från listan med nedladdningar</string>
     <string name="no_episode_selected">Inget valt</string>
     <string name="set_played">Markera som spelad</string>
     <string name="set_unplayed">Markera som ospelad</string>
@@ -165,7 +162,6 @@
     <string name="playlists">Spellistor</string>
     <string name="there_is_no_podcast_playing">Inget spelas nu.</string>
     <string name="paused">Pausad</string>
-    <string name="stopped_on_error">Stoppades pga fel</string>
     <string name="error_downloaded_file_not_found">Fel: hittar inte hämtad fil</string>
     <string name="stopped">Stoppad</string>
     <string name="completed">Klar</string>
@@ -280,7 +276,6 @@
     <string name="search_episode_title">Sök avsnitt</string>
     <string name="search_episodes">Sök avsnitt</string>
     <string name="widgets">Widgets</string>
-    <string name="background_transparency">Genomskinlighet</string>
     <string name="low">Låg</string>
     <string name="high">Hög</string>
     <string name="gesture_sensitivity">Känslighet för gester</string>
@@ -322,7 +317,6 @@
     <string name="backup_failed_">Säkerhetskopiering misslyckades!</string>
     <string name="when_headset_bluetooth_disconnected">När headset/Bluetooth kopplas från</string>
 
-    <string name="volume">Volym</string>
     <string name="add_a_virtual_podcast">Lägg till virtuell podcast</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Skapa en "virtuell podcast" genom att markera en mapp på din enhet. Alla mediafiler som läggs i mappen importeras som ett nytt avsnitt. Du kan lägga till eller ta bort filer ur mappen senare.</string>
     <string name="location">Plats</string>
@@ -368,7 +362,6 @@
     <string name="vibrate">Vibrera</string>
     <string name="light">LED-lampa</string>
     <string name="remove_all">Ta bort alla</string>
-    <string name="auto_delete_played_episode_from_playlists">Radera spelade avsnitt automatiskt från spellistan</string>
     <string name="new_episode_notification">Ny episod aviseras</string>
     <string name="download_on_charging">Hämta vid batteriladdning</string>
     <string name="start_downloading_only_when_battery_is_charging">Hämta endast när batteriet laddas</string>
@@ -397,7 +390,6 @@
     <string name="keep_latest_n_downloads">Behåll senaste %1$d avsnitt</string>
     <string name="keep_all_downloads">Behåll alla avsnitt</string>
     <string name="playback_controls">Uppspelningsknappar</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Uppspelningsknappar i aviseringsfältet (max 3): </string>
     <string name="hide_played_podcasts">Dölj spelade avsnitt</string>
     <string name="pause_downloads">Pausa hämtning</string>
     <string name="has_keywords_in_title">Har sökord i titeln</string>
@@ -440,8 +432,8 @@
     <string name="export_downloads">Exportera avsnittet</string>
     <string name="edit_episode_filter">Anpassa filter</string>
     <string name="done">Klar</string>
-    <string name="move_selections_to_top">Flytta vald(a) överst</string>
-    <string name="move_selections_to_bottom">Flytta vald(a) nederst</string>
+    <string name="move_to_top">Flytta vald(a) överst</string>
+    <string name="move_to_bottom">Flytta vald(a) nederst</string>
     <string name="downloaded">Hämtat</string>
     <string name="dont_download_episode">Hämta inte avsnittet</string>
     <string name="match_all_keywords">Matcha alla sökord</string>
@@ -757,13 +749,6 @@
     <string name="playback_mode_repeat_episode">Repeat episode</string>
     <string name="playback_mode_repeat_playlist">Repeat playlist</string>
     <string name="alarms">Alarms</string>
-    <string name="sunday">Nedelja</string>
-    <string name="monday">Ponedeljek</string>
-    <string name="tuesday">Torek</string>
-    <string name="wednesday">Sreda</string>
-    <string name="thursday">Četrtek</string>
-    <string name="friday">Petek</string>
-    <string name="saturday">Sobota</string>
     <string name="no_alarms_found_">No alarms found.</string>
     <string name="allow_to_download_at_any_time">Allow to download at any time</string>
     <string name="allow_to_download_between_selected_time">Allow to download between selected time</string>
@@ -960,7 +945,6 @@
     <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
     <string name="show_radio_station_title">Show station title</string>
     <string name="hide_radio_station_title">Hide station title</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">If no repeating days are selected the alarm will only be fired once.</string>
     <string name="not_in_downloads_list">Not in Downloads list</string>
     <string name="reversed_landscape">Reversed landscape</string>
     <string name="reset_sleep_timer">Reset sleep timer</string>
@@ -1074,8 +1058,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
     <string name="website">Website</string>
-    <string name="allow_to_sort_playlist_manually">Allow to sort playlist manually.</string>
-    <string name="preview_descriptions_in_list">Preview descriptions in list.</string>
     <string name="auto_load_last_played_episode">Auto load last played episode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
@@ -1194,7 +1176,6 @@
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="ask_me_for_action">Ask me for action</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
@@ -1231,4 +1212,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

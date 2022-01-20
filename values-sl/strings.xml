@@ -147,10 +147,7 @@
     <string name="share">Deli</string>
     <string name="add_to_playlists">Dodaj seznamom</string>
     <string name="end_editing_mode">Končaj urejanje</string>
-    <string name="download_selection_s_">Prenesi izbrane</string>
-    <string name="add_selection_s_to_playlist">Dodaj izbrane na seznam</string>
     <string name="set">Nastavi</string>
-    <string name="remove_selection_s_from_download_list">Odstrani izbrane iz seznama prenosov</string>
     <string name="no_episode_selected">Izbrana ni nobena epizoda</string>
     <string name="set_played">Označi kot predvajane</string>
     <string name="set_unplayed">Označi kot nepredvajane</string>
@@ -173,7 +170,6 @@
     <string name="playlists">Seznami</string>
     <string name="there_is_no_podcast_playing">Podkast se ne predvaja!</string>
     <string name="paused">Začasno ustavljeno</string>
-    <string name="stopped_on_error">Ustavljeno zaradi napake</string>
     <string name="error_downloaded_file_not_found">Napaka: prenesena datoteka ni najdena.</string>
     <string name="stopped">Ustavljeno</string>
     <string name="completed">Dokončano</string>
@@ -283,7 +279,6 @@
     <string name="search_episode_title">Išči po naslovih epizod</string>
     <string name="search_episodes">Išči epizode</string>
     <string name="widgets">Pripomočki</string>
-    <string name="background_transparency">Prosojnost ozadja</string>
     <string name="low">Nizka</string>
     <string name="high">Visoka</string>
     <string name="gesture_sensitivity">Občutljivost za kretnje</string>
@@ -321,7 +316,6 @@
     <string name="backup_successful_s">Varnostno kopiranje je uspelo: %1$s</string>
     <string name="backup_failed_">Varnostno kopiranje ni uspelo!</string>
     <string name="when_headset_bluetooth_disconnected">Ob prekinitvi povezave s slušalkami/Bluetooth-om</string>
-    <string name="volume">Glasnost</string>
     <string name="add_a_virtual_podcast">Dodaj virtualni podkast</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Ustvarite odlagališče navideznih podkastov tako, da izberete mapo v svoji napravi. Vsaka predstavnostna datoteka v izbrani mapo bo uvožena kot epizoda. Pozneje lahko ročno dodate ali odstanite predstavnostne datoteke v mapi.</string>
     <string name="location">Lokacija</string>
@@ -367,7 +361,6 @@
     <string name="light">LED svetloba</string>
     <string name="history">Zgodovina</string>
     <string name="remove_all">Odstrani vse</string>
-    <string name="auto_delete_played_episode_from_playlists">Samodejno izbriši predvajane epizode iz seznamov.</string>
     <string name="new_episode_notification">Obvestilo nove epizode</string>
     <string name="download_on_charging">Prenesi med polnjenjem baterije</string>
     <string name="start_downloading_only_when_battery_is_charging">Začni prenašanje samo med polnjenjem baterije.</string>
@@ -396,7 +389,6 @@
     <string name="keep_latest_n_downloads">Ohrani zadnjih %1$d prenosov.</string>
     <string name="keep_all_downloads">Ohrani vse prenose</string>
     <string name="playback_controls">Možnosti upravljanja</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Izberite do 3 možnosti za prikaz upravljanja v skrčenem obvestilu in pri obvestilu v zaklenjenem zaslonu: </string>
     <string name="hide_played_podcasts">Skrij predvajane podkaste</string>
     <string name="pause_downloads">Začasno ustavi prenose</string>
     <string name="has_keywords_in_title">Ima ključne besede v naslovu</string>
@@ -439,8 +431,8 @@
     <string name="export_downloads">Izvozi prenose</string>
     <string name="edit_episode_filter">Uredi filtre za epizode</string>
     <string name="done">Narejeno</string>
-    <string name="move_selections_to_top">Premakni izbrane na začetek</string>
-    <string name="move_selections_to_bottom">Premakni izbrane na konec</string>
+    <string name="move_to_top">Premakni izbrane na začetek</string>
+    <string name="move_to_bottom">Premakni izbrane na konec</string>
     <string name="downloaded">Preneseno</string>
     <string name="dont_download_episode">Ne prenesi epizode</string>
     <string name="match_all_keywords">Upoštevaj vse ključne besede</string>
@@ -760,13 +752,6 @@
     <string name="playback_mode_repeat_episode">Ponovi epizodo</string>
     <string name="playback_mode_repeat_playlist">Ponovi seznam</string>
     <string name="alarms">Budilke</string>
-    <string name="sunday">Nedelja</string>
-    <string name="monday">Ponedeljek</string>
-    <string name="tuesday">Torek</string>
-    <string name="wednesday">Sreda</string>
-    <string name="thursday">Četrtek</string>
-    <string name="friday">Petek</string>
-    <string name="saturday">Sobota</string>
     <string name="no_alarms_found_">Ni najdenih budilk.</string>
     <string name="allow_to_download_at_any_time">Prenašanje dovoli kadarkoli.</string>
     <string name="allow_to_download_between_selected_time">Prenašanje dovoli samo v določenem času.</string>
@@ -963,7 +948,6 @@
     <string name="maximum_rewind_time_d_seconds">Najdaljši čas ponavljanja: %1$d sekund.</string>
     <string name="show_radio_station_title">Pokaži ime postaje</string>
     <string name="hide_radio_station_title">Skrij ime postaje</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">Če ni izbranih ponavljajočih se dni, se bo budilka sprožila samo enkrat.</string>
     <string name="not_in_downloads_list">Ni v seznamu prenosov</string>
     <string name="reversed_landscape">Obrnjeno ležeče</string>
     <string name="reset_sleep_timer">Ponastavi časovnik spanja</string>
@@ -1073,8 +1057,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Dovoli prenos starejših nepredvajanih epizod, če ni to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Dovoli prenos najnovejših nepredvajanih epizod, če ni bilo mogoče najti starejših nepredvajanih epizod.</string>
     <string name="website">Spletna stran</string>
-    <string name="allow_to_sort_playlist_manually">Dovoli ročno razvrščanje seznama.</string>
-    <string name="preview_descriptions_in_list">Predogled opisov na seznamu.</string>
     <string name="auto_load_last_played_episode">Samodejno nalaganje zadnje predvajane epizode</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Samodejno naloži zadnjo predvajano epizodo na seznamu predvajanja v \'Predvaja se\'.</string>
     <string name="delete_the_playlist_s">"Izbris seznamov: %s?"</string>
@@ -1191,7 +1173,6 @@
     <string name="moving_downloads_failed">Prenašanje prenosov je bilo neuspešno.</string>
     <string name="some_downloads_are_not_moved_to_s">Nekateri prenosi niso preneseni v: %s</string>
     <string name="html_notation">Zapis HTML</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="ask_me_for_action">Vprašaj me za dejanje</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">S tem boste izbrisali vse vaše trenutne statistike predvajanja.</string>
     <string name="reset">Ponastavi</string>
@@ -1223,4 +1204,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

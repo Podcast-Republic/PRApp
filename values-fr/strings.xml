@@ -140,10 +140,7 @@
     <string name="share">Partager</string>
     <string name="add_to_playlists">Ajouter à la liste de lecture</string>
     <string name="end_editing_mode">Sortir du mode d’édition</string>
-    <string name="download_selection_s_">Télécharger la sélection</string>
-    <string name="add_selection_s_to_playlist">Ajouter la sélection à la liste de lecture</string>
     <string name="set">Régler</string>
-    <string name="remove_selection_s_from_download_list">Supprimer la sélection de la liste des téléchargements</string>
     <string name="no_episode_selected">Aucun épisode choisi</string>
     <string name="set_played">Marquer lu</string>
     <string name="set_unplayed">Marquer non lu</string>
@@ -168,7 +165,6 @@
     <string name="there_is_no_podcast_playing">"Il n’y a pas de lecture en cours."</string>
     <!-- Or " téléchargé." -->
     <string name="paused">En pause</string>
-    <string name="stopped_on_error">Stoppé suite à une erreur</string>
     <string name="error_downloaded_file_not_found">Erreur : copie téléchargée non trouvée</string>
     <string name="stopped">Stoppé</string>
     <string name="completed">Complet</string>
@@ -281,7 +277,6 @@
     <string name="search_episode_title">"Chercher le titre de l'épisode"</string>
     <string name="search_episodes">"Rechercher parmi les épisodes"</string>
     <string name="widgets">Widgets</string>
-    <string name="background_transparency">Background transparency</string>
     <string name="low">Bas</string>
     <string name="high">Haut</string>
     <string name="gesture_sensitivity">Sensibilité aux gestes</string>
@@ -319,7 +314,6 @@
     <string name="backup_successful_s">La sauvegarde a réussi: %1$s</string>
     <string name="backup_failed_">La sauvegarde a échoué!</string>
     <string name="when_headset_bluetooth_disconnected">Lorsque le kit piéton/Bluetooth est déconnecté</string>
-    <string name="volume">Volume</string>
     <string name="add_a_virtual_podcast">Ajouter un podcast virtuel</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Créer un dépôt de podcast virtuel en sélectionnant un dossier sur votre appareil. Chaque fichier multimédia dans le dossier sélectionné sera importé comme un épisode. Vous pouvez ajouter ou supprimer manuellement des fichiers multimédia dans le dossier plus tard.</string>
     <string name="location">Emplacement</string>
@@ -364,7 +358,6 @@
     <string name="vibrate">Vibrer</string>
     <string name="light">LED</string>
     <string name="remove_all">Tout supprimer</string>
-    <string name="auto_delete_played_episode_from_playlists">Les épisodes lus sont supprimés automatiquement des listes de lecture</string>
     <string name="new_episode_notification">"Notification d'un nouvel épisode"</string>
     <string name="download_on_charging">Téléchargement pendant la charge</string>
     <string name="start_downloading_only_when_battery_is_charging">Ne lancer le téléchargement que pendant la charge de la batterie</string>
@@ -395,7 +388,6 @@
     <string name="keep_latest_n_downloads">%1$d derniers épisodes</string>
     <string name="keep_all_downloads">Tout conserver</string>
     <string name="playback_controls">Contrôles de la lecture</string>
-    <string name="display_up_to_three_controls_in_compact_lockscreen_notification_">Contrôles de la lecture (maximum 3) dans la notification: </string>
     <string name="hide_played_podcasts">Cacher les podcasts lus</string>
     <string name="pause_downloads">Suspendre le téléchargement</string>
     <string name="has_keywords_in_title">a des mots-clés dans le titre</string>
@@ -438,8 +430,8 @@
     <string name="export_downloads">"Exporter l'épisode"</string>
     <string name="edit_episode_filter">Modifier le filtre</string>
     <string name="done">Fait</string>
-    <string name="move_selections_to_top">Déplacer la sélection au début</string>
-    <string name="move_selections_to_bottom">Déplacer la sélection à la fin</string>
+    <string name="move_to_top">Déplacer la sélection au début</string>
+    <string name="move_to_bottom">Déplacer la sélection à la fin</string>
     <string name="downloaded">Téléchargés</string>
     <string name="dont_download_episode">"Ne pas télécharger l'épisode"</string>
     <string name="match_all_keywords">Correspondre à tous les mots-clés</string>
@@ -754,13 +746,6 @@
     <string name="playback_mode_repeat_episode">"Répéter l'épisode"</string>
     <string name="playback_mode_repeat_playlist">Répéter la playlist</string>
     <string name="alarms">Alarmes</string>
-    <string name="sunday">Dimanche</string>
-    <string name="monday">Lundi</string>
-    <string name="tuesday">Mardi</string>
-    <string name="wednesday">Mercredi</string>
-    <string name="thursday">Jeudi</string>
-    <string name="friday">Vendredi</string>
-    <string name="saturday">Samedi</string>
     <string name="no_alarms_found_">"Pas d'alarmes trouvées."</string>
     <string name="allow_to_download_at_any_time">Autoriser les téléchargements à toutes heures.</string>
     <string name="allow_to_download_between_selected_time">Autoriser les téléchargements à des horaires donnés.</string>
@@ -957,7 +942,6 @@
     <string name="maximum_rewind_time_d_seconds">Temps maximum de retour arrière : %d secondes .</string>
     <string name="show_radio_station_title">Afficher le nom de la station</string>
     <string name="hide_radio_station_title">Masquer le nom de la radio</string>
-    <string name="if_no_repeating_days_are_selected_the_alarm_will_only_be_fired_once">"Si la répétition de l'alarme n'est pas sélectionnée, celle-ci ne sonnera qu'une fois ."</string>
     <string name="not_in_downloads_list">Pas dans la liste de téléchargement</string>
     <string name="reversed_landscape">Paysage inversé</string>
     <string name="reset_sleep_timer">Réinitialiser le mode sommeil</string>
@@ -1071,8 +1055,6 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">"Autoriser le téléchargement d'anciens épisodes si aucun épisode récents non lu n'a été trouvé."</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">"Autoriser le téléchargement de nouveaux épisodes si aucun ancien épisode non lu n'a été trouvé."</string>
     <string name="website">Site web</string>
-    <string name="allow_to_sort_playlist_manually">Permet de trier la playlist manuellement.</string>
-    <string name="preview_descriptions_in_list">Prévisualiser les descriptions de la liste.</string>
     <string name="auto_load_last_played_episode">Chargement automatique du dernier épisode lu</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Chargez automatiquement le dernier épisode lu de la playlist dans \'lire maintenant \'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
@@ -1191,7 +1173,6 @@
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
-    <string name="media_buttons">Media buttons</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
     <string name="ask_me_for_action">Ask me for action</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">This will delete all of your current playback stats.</string>
@@ -1228,4 +1209,6 @@
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
+    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title_and_article">Search in title and article</string>
 </resources>

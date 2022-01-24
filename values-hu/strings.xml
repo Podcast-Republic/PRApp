@@ -1210,7 +1210,7 @@
     <string name="search_in_title">Keresés a címben</string>
     <string name="search_in_title_and_article">Keresés a címben és a cikkben</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
+    <string name="find_highlighted_text_as_youtube_channel_id">Kiemelt szöveg keresése csatorna azonosítóként.</string>
+    <string name="find_highlighted_text_as_youtube_playlist_id">Kiemelt szöveg keresése lejátszási lista azonosítójaként.</string>
 
 </resources>

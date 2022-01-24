@@ -1227,4 +1227,7 @@
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
     <string name="search_in_title">Search in title</string>
     <string name="search_in_title_and_article">Search in title and article</string>
+    <string name="youtube">YouTube</string>
+    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
+    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
 </resources>

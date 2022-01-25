@@ -989,7 +989,7 @@
     <string name="create_shortcut">Vytvoriť odkaz</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Povolí používať mobilné dáta a ignorovať šetrenie batérie pri sťahovaní epizód.</string>
     <string name="show_play_next_episode_station_button">Zobraziť tlačidlo Prehrať ďalšiu epizódu/stanicu.</string>
-    <string name="append_to_up_next">Pridať k Nasleduje</string>
+    <string name="append_to_up_next">Pripojiť k Nasleduje</string>
     <string name="only_include_episodes_with_user_notes">Zahrnúť len epizódy s poznámkami</string>
     <string name="description_preview">Náhľad popisu</string>
     <string name="d_lines_of_text">%d riadky</string>
@@ -1207,6 +1207,6 @@
     <string name="search_in_title">Hľadať v názve</string>
     <string name="search_in_title_and_article">Hľadať v názve a článku</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
+    <string name="find_highlighted_text_as_youtube_channel_id">Vyhľadať zvýraznený text ako ID kanála.</string>
+    <string name="find_highlighted_text_as_youtube_playlist_id">Vyhľadať zvýraznený text ako ID playlistu.</string>
 </resources>

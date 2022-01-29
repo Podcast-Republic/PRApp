@@ -1019,7 +1019,7 @@
     <string name="copy_files_to_download_directory">Zkopírovat soubory do stahovacího adresáře</string>
     <string name="move_files_to_download_directory">Přesunout soubory do stahovacího adresáře</string>
     <string name="greater_than_d_minutes">&gt; %1$d minut</string>
-    <string name="less__than_d_minutes">&lt; %1$d minut</string>
+    <string name="less_than_d_minutes">&lt; %1$d minut</string>
     <string name="jump_to_next_chapter">Skok na další kapitolu</string>
     <string name="you_haven_t_left_any_reviews_yet">Nemáte zatím žádná hodnocení.</string>
     <string name="true_crime">Opravdový zločin</string>
@@ -1206,4 +1206,7 @@
     <string name="youtube">YouTube</string>
     <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
     <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
+    <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
+    <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
 </resources>

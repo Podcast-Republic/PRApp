@@ -1209,7 +1209,7 @@
     <string name="youtube">YouTube</string>
     <string name="find_highlighted_text_as_youtube_channel_id">Vyhľadať zvýraznený text ako ID kanála.</string>
     <string name="find_highlighted_text_as_youtube_playlist_id">Vyhľadať zvýraznený text ako ID playlistu.</string>
-    <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
-    <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
+    <string name="no_wi_fi_update_podcast_once_with_mobile_data">Žiadne Wi-Fi - aktualizovať podcast raz pomocou mobilných dát?</string>
+    <string name="select_episodes_with_duration_between_d_and_d_minutes">Vybrať epizódy s dĺžkou od %1$d do %2$d minút.</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Vybrať epizódy s dĺžkou kratšou ako %1$d minút alebo dlhšou ako %2$d minút.</string>
 </resources>

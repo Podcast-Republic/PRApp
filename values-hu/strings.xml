@@ -1212,8 +1212,8 @@
     <string name="youtube">YouTube</string>
     <string name="find_highlighted_text_as_youtube_channel_id">Kiemelt szöveg keresése csatorna azonosítóként.</string>
     <string name="find_highlighted_text_as_youtube_playlist_id">Kiemelt szöveg keresése lejátszási lista azonosítójaként.</string>
-    <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
-    <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
+    <string name="no_wi_fi_update_podcast_once_with_mobile_data">Nincs Wi-Fi - Podcast frissítése csak most mobiladatokkal?</string>
+    <string name="select_episodes_with_duration_between_d_and_d_minutes">Válassza ki a %1$d és %2$d perc közötti időtartamú epizódokat.</string>
+    <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Válassza ki a %1$d percnél rövidebb vagy %2$d percnél hosszabb epizódokat.</string>
 
 </resources>

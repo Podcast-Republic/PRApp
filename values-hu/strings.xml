@@ -1215,8 +1215,8 @@
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Nincs Wi-Fi - Podcast frissítése csak most mobiladatokkal?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Válassza ki a %1$d és %2$d perc közötti időtartamú epizódokat.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Válassza ki a %1$d percnél rövidebb vagy %2$d percnél hosszabb epizódokat.</string>
-    <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
-    <string name="skip_the_chapter">Skip the chapter</string>
-    <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
+    <string name="chapter_s_will_be_skipped">A fejezet kihagyásra kerül: [%1$s]</string>
+    <string name="skip_the_chapter">Hagyja ki a fejezetet</string>
+    <string name="dont_skip_the_chapter">Ne hagyja ki a fejezetet</string>
 
 </resources>

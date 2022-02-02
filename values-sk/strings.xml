@@ -1212,4 +1212,7 @@
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Žiadne Wi-Fi - aktualizovať podcast raz pomocou mobilných dát?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Vybrať epizódy s dĺžkou od %1$d do %2$d minút.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Vybrať epizódy s dĺžkou kratšou ako %1$d minút alebo dlhšou ako %2$d minút.</string>
+    <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
+    <string name="skip_the_chapter">Skip the chapter</string>
+    <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
 </resources>

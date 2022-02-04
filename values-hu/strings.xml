@@ -208,7 +208,7 @@
     <string name="download_only_when_connected_to_wifi">Letöltés csak WiFi kapcsolaton</string>
     <string name="add_to_new_tag">Hozzáadás új címkéhez</string>
     <string name="enter_new_tag_name">Írja be az új címke nevét</string>
-    <string name="car_mode">Autó mód</string>
+    <string name="car_mode">Autós mód</string>
     <string name="update_artwork">Borító grafika frissítése</string>
     <string name="enter_new_artwork_url">Adjon meg egy új borító grafika URL címet</string>
     <string name="sleep_timer">Alvó üzemmód időzítő</string>
@@ -314,7 +314,7 @@
     <string name="location">Mappa helye</string>
     <string name="select_a_directory">Válasszon ki egy mappát a készüléken</string>
     <string name="data_wifi_usage">Adatforgalom és WiFi használat</string>
-    <string name="download_via_wifi_only">Letöltés csak WiFi-n keresztül</string>
+    <string name="download_via_wifi_only">Letöltés csak WiFi-n</string>
     <string name="feed_updates_via_wifi_only">Podcast frissítés csak WiFi-n</string>
     <string name="update_podcasts_only_when_connected_to_wifi">Csak WiFi-n keresztül frissülnek a podcastok</string>
     <string name="mark_all_as_played">Az összes jelölése lejátszottként</string>
@@ -346,7 +346,7 @@
     <string name="auto_backup_saved_to_">Automatikus mentés ide mentve: [ %1$s ]</string>
     <string name="download_removed">Letöltés eltávolítva</string>
     <string name="load_artworks_only_when_connected_to_wifi">Csak WiFi-n keresztül töltődnek be a borítóképek</string>
-    <string name="load_artwork_via_wifi_only">Borítóképek csak WiFi-n keresztül</string>
+    <string name="load_artwork_via_wifi_only">Borítóképek csak WiFi-n</string>
     <string name="when_pressing_an_episode_in_list">Amikor az epizódra kattint</string>
     <string name="start_playing">Mindig kezdje el játszani</string>
     <string name="display_episode_artwork">Borító grafika megjelenítése</string>
@@ -366,7 +366,7 @@
     <string name="also_remove_from_downloads_amp_playlists">Törölje a Letöltések közül és Lejátszólistákból is</string>
     <string name="remove_episode_only">Csak az epizód törlése</string>
     <string name="mark_episode_as_played">Epizód megjelölése lejátszottként</string>
-    <string name="mark_episode_as_played_if_more_than_has_been_played">Egy epizód megjelölése lejátszottként, ha több mint %1$d%%-a lejátszott</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">Egy epizód megjelölése lejátszottként, ha annak több mint %1$d%%-a lejátszott</string>
     <string name="download_episode">Epizód letöltése</string>
     <string name="start_downloading_when_episode_is_added_to_playlist">Induljon el a letöltés, ha egy epizódot hozzáad egy lejátszási listához</string>
     <string name="podcast_keep_download_limit_reached_">A podcastok száma elérte a letöltési limitet!</string>
@@ -463,8 +463,8 @@
     <string name="swipe_to_left_to_fast_rewind">Csúsztatás balra: visszatekerés</string>
     <string name="swipe_to_right_to_fast_forward">Csúsztatás jobbra: előretekerés</string>
     <string name="remove_subscription_to_">Leiratkozás erről: [ %1$s ]</string>
-    <string name="data_roaming">Adatforgalom</string>
-    <string name="allow_to_download_with_data_services_when_roaming">Roaming közben is engedje a letöltést</string>
+    <string name="data_roaming">Roaming</string>
+    <string name="allow_to_download_with_data_services_when_roaming">Roaming közben is engedélyezett a letöltés</string>
     <string name="up_next">Következő</string>
     <string name="episode_info">Epizód információ</string>
     <string name="no_more_episodes_to_play_from_playlist_s_">Nincs több epizód a lejátszási listán [ %1$s ]</string>
@@ -611,7 +611,7 @@
     <string name="no_user_notes_found">Nincsenek felhasználói jegyzetek.</string>
     <string name="no_episode_description_found">Nincs epizód leírás.</string>
     <string name="or">Vagy</string>
-    <string name="up_next_list_has_been_updated_to_play_from_s">A Következő lista frissült, hogy innen játsszon le: %s</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">A \'Következő\' lista frissült, hogy innen játsszon le: %s</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">Teljes szinkronizálás indítása. Ez hosszabb ideig is eltarthat.</string>
     <string name="buy_me_a_coffee_message">Ha szívesen használja a Podcast Republic alkalmazást, és szeretné támogatni a fejlesztést, hívjon meg egy csésze kávéra. Köszönöm!</string>
     <string name="maybe_later">Talán később</string>
@@ -782,7 +782,7 @@
     <string name="sign_up_privacy_and_terms_message"><![CDATA[A <em>Fiók létrehozása</em> gombra kattintva elfogadja <a href=\"https://podcastrepublic.net/privacy-terms/\">Feltételeinket</a> és elismeri, hogy elolvasta az <a href=\"https://podcastrepublic.net/privacy-terms/\">Adatvédelmi szabályzatunkat</a>.]]></string>
     <string name="sign_in_privacy_and_terms_message"><![CDATA[A <em>Bejelentkezés</em> lehetőségre kattintva elfogadja <a href=\"https://podcastrepublic.net/privacy-terms/\">Feltételeinket</a> és elismeri, hogy elolvasta az <a href=\"https://podcastrepublic.net/privacy-terms/\">Adatvédelmi szabályzatunkat</a>.]]></string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Az alvó üzemmód automatikus bekapcsolása, amikor a lejátszás elindul</string>
-    <string name="syncing_data_only_when_connected_to_wifi_network">Adatok szinkronizálása csak WiFi hálózathoz csatlakozva történik</string>
+    <string name="syncing_data_only_when_connected_to_wifi_network">Adatszinkronizálás csak akkor, ha WiFi-re csatlakozik</string>
     <string name="syncing_via_wifi_only">Szinkronizálás csak WiFi-n</string>
     <string name="total_downloaded_file_size_s">A letöltött fájlok teljes mérete: %s</string>
     <string name="featured">Kiemelt</string>
@@ -854,8 +854,8 @@
     <string name="click_on_the_tab_again_to_view_download_actions">Kattintson ismételten a fülre a letöltési műveletek megtekintéséhez</string>
     <string name="remember_volume_level">Emlékezés a hangerőszintre</string>
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Emlékezzen a legutóbbi hangerőszintre, és a lejátszás megkezdésekor állítsa vissza azt</string>
-    <string name="metered_network">\"Metered\" hálózat</string>
-    <string name="allow_to_download_over_metered_network">Letöltés \"metered\" hálózaton keresztül</string>
+    <string name="metered_network">Letöltés \"Metered\" hálózaton</string>
+    <string name="allow_to_download_over_metered_network">Letöltés engedélyezése \"metered\" hálózaton keresztül</string>
     <string name="remind_me_1_minute_less">Emlékeztető (1 perccel előtte)</string>
     <string name="unread_count">Újak száma</string>
     <string name="newest_unread">Legújabb olvasatlan</string>
@@ -890,7 +890,7 @@
     <string name="there_are_no_played_episodes_">Nincsenek lejátszott epizódok!</string>
     <string name="there_are_no_favorite_episodes_">Nincsenek kedvenc epizódok!</string>
     <string name="there_are_no_downloaded_episodes_">Nincsenek letöltött epizódok!</string>
-    <string name="start_playing_and_go_to_now_playing">Kezdje el a lejátszást, és ugrás a Most játszott lehetőségre</string>
+    <string name="start_playing_and_go_to_now_playing">Kezdje el a lejátszást, és ugrás a \'Következő\' lehetőségre</string>
     <string name="show_unplayed_counter">Nem lejátszott szám. megjelenítése</string>
     <string name="hide_unplayed_counter">Nem lejátszott szám. elrejtése</string>
     <string name="show_recent_counter">Legutóbbiak szám. megjelenítése</string>
@@ -933,7 +933,7 @@
     <string name="find_rss_feed">RSS hírcsatorna keresése</string>
     <string name="there_are_no_rss_feeds">Nincsenek RSS-hírcsatornák!</string>
     <string name="got_it">Mehet</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">Átrendezte a Következő listát. Ennek eredményeként az Következők nem lesznek szinkronizálva az éppen lejátszott epizódlistával vagy lejátszólistával.</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">Átrendezte a \'Következő\' listát. Ennek eredményeként a \'Következő\' lista nem lesz szinkronizálva az éppen lejátszott epizódlistával vagy lejátszólistával.</string>
     <string name="don_t_show_it_again">Legközelebb ne mutassa.</string>
     <string name="always_on">Always on (AOD)</string>
     <string name="always_on_amoled_black">Always on (AMOLED fekete)</string>
@@ -988,7 +988,7 @@
     <string name="create_shortcut">Indítóikon létrehozása</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Engedélyezi a mobiladat-használatot, és figyelmen kívül hagyja az akkura vonatkozó korlátozásokat az epizódok letöltésekor</string>
     <string name="show_play_next_episode_station_button">Következő epizód/állomás lejátszása gomb megjelenítése</string>
-    <string name="append_to_up_next">Hozzáadás a Következőkhöz</string>
+    <string name="append_to_up_next">Hozzáadás a \'Következőkhöz\'</string>
     <string name="only_include_episodes_with_user_notes">Csak felhasználói megjegyzéseket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
     <string name="d_lines_of_text">%d sor</string>
@@ -1054,13 +1054,13 @@
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Lehetővé teszi a legújabb nem lejátszott epizódok letöltését, ha nem található régebbi nem lejátszott epizód.</string>
     <string name="website">Weboldal</string>
     <string name="auto_load_last_played_episode">Legutóbb lejátszott epizód aut. betöltése</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \'Most lejátszott\' mappába</string>
+    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \'Következő\' mappába</string>
     <string name="delete_the_playlist_s">Törli ezt a lejátszólistát: %s?</string>
     <string name="delete_the_tag_s">Törli ezt a címkét: %s?</string>
     <string name="delete_the_episode_filter_s">Törli az epizód szűrőt: %s?</string>
     <string name="syncing_app_setting_changes_s">Alkalmazás beállításmódosítások szinkronizálása: %1$s.</string>
     <string name="syncing_app_setting_changes_">Alkalmazás beállításmódosítások szinkronizálása…</string>
-    <string name="sleep_after">Alvó üzemmód, miután</string>
+    <string name="sleep_after">Alvás bekapcsolása</string>
     <string name="sleep_at_time">Alvás időpontban</string>
     <string name="export_episode_list">Epizódlista exportálása</string>
     <string name="as_html_file">HTML fájlként</string>
@@ -1097,7 +1097,7 @@
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Elavult, a podcast feedben már nem szerepelő epizódok eltávolítása</string>
     <string name="mark_as_played">Lejátszottnak jelölés</string>
     <string name="swipe_left_action">Balra csúsztatás</string>
-    <string name="nothing_in_up_next">Üres a Következők lista.</string>
+    <string name="nothing_in_up_next">Üres a \'Következők\' lista.</string>
     <string name="syncing_article_changes_s">Cikkmódosítások szinkronizálása: %1$s.</string>
     <string name="syncing_added_tags_playlists_filters_d">Hozzáadott címkék/lejátszólisták/szűrők szinkronizálása: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Eltávolított címkék/lejátszólisták/szűrők szinkronizálása: %1$d.</string>
@@ -1114,7 +1114,7 @@
     <string name="new_article_notification">Értesítés új cikkekről</string>
     <string name="there_are_no_radio_stations_">Nincsenek rádióállomások!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_now_playling_list">A Most lejátszott lista megjelenítése</string>
+    <string name="display_now_playling_list">A \'Következő\' lista megjelenítése</string>
     <string name="display_podcasts_list">Podcastlista megjelenítése</string>
     <string name="display_playlists_list">Lejátszólisták megjelenítése</string>
     <string name="display_completed_downloads_list">Befejeződött letöltések megjelenítése</string>
@@ -1148,7 +1148,7 @@
     <string name="mark_all_next_articles_as_read">Minden következő cikk megjelölése olvasottként</string>
     <string name="use_legacy_media_notification_style">Régi média értesítési stílus használata</string>
     <string name="use_legacy_media_notification_style_before_android_11">Használjon régi médiaértesítési stílust Android 11 előtti rendszereken</string>
-    <string name="save_up_next_to">A Következők mentése…</string>
+    <string name="save_up_next_to">A \'Következők\' mentése…</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Megjelöli a [%1$s] epizódnál korábban megjelent összes epizódot nem lejátszottként?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Korábbi epizódok megjelölése nem lejátszottként</string>
     <string name="_s_kbps">%skbps</string>
@@ -1200,7 +1200,7 @@
     <string name="podcast_description_will_be_updated_after_refreshing_">A podcast leírása frissítés után módosul.</string>
     <string name="podcast_title_will_be_updated_after_refreshing_">A podcast címe frissítés után módosul.</string>
     <string name="podcast_publisher_will_be_updated_after_refreshing_">A Podcast kiadója frissítés után módosul.</string>
-    <string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Testreszabhatja a lejátszásvezérlőket összecsukott és kibontott értesítéseknél.</string>
+    <string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Lejátszásvezérlők testreszabása összecsukott és kibontott értesítések esetén</string>
     <string name="collapsed_notification_short_format">Kinyit</string>
     <string name="expanded_notification_short_format">Összecsuk</string>
     <string name="at_lease_one_playback_control_is_required">- Legalább egy lejátszásvezérlő szükséges.</string>

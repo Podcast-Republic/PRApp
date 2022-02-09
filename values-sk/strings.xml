@@ -1215,10 +1215,10 @@
     <string name="chapter_s_will_be_skipped">Kapitola [%1$s] bude preskočená!</string>
     <string name="skip_the_chapter">Preskočiť kapitolu</string>
     <string name="dont_skip_the_chapter">Nepreskakovať kapitolu</string>
-    <string name="podcast_title">Podcast title</string>
-    <string name="radio_station_name">Station name</string>
-    <string name="podcast_priority">Podcast priority</string>
-    <string name="group_by_podcast_priority">Group by podcast priority</string>
-    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
-    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
+    <string name="podcast_title">Nadpis podcastu</string>
+    <string name="radio_station_name">Názov stanice</string>
+    <string name="podcast_priority">Priorita podcastu</string>
+    <string name="group_by_podcast_priority">Zoskupiť podľa priority podcastu</string>
+    <string name="larger_number_has_higher_priority">Väčšie číslo má vyššiu prioritu.</string>
+    <string name="rotate_by_podcast_priority">Rotovať podľa priority podcastu</string>
 </resources>

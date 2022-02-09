@@ -942,8 +942,8 @@
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Pri obnovení prehrávania automaticky pretočiť dozadu %1$d až %2$d sekúnd</string>
     <string name="minimum_rewind_time_d_seconds">Minimálny čas pretočenia dozadu: %d sekúnd.</string>
     <string name="maximum_rewind_time_d_seconds">Maximálny čas pretočenia dozadu: %d sekúnd.</string>
-    <string name="show_radio_station_title">Zobraziť názov stanice</string>
-    <string name="hide_radio_station_title">Skryť názov stanice</string>
+    <string name="show_radio_station_name">Zobraziť názov stanice</string>
+    <string name="hide_radio_station_name">Skryť názov stanice</string>
     <string name="not_in_downloads_list">Nie je v zozname na stiahnutie</string>
     <string name="reversed_landscape">Na šírku obrátene</string>
     <string name="reset_sleep_timer">Vynulovať časovač vypnutia</string>
@@ -1215,4 +1215,10 @@
     <string name="chapter_s_will_be_skipped">Kapitola [%1$s] bude preskočená!</string>
     <string name="skip_the_chapter">Preskočiť kapitolu</string>
     <string name="dont_skip_the_chapter">Nepreskakovať kapitolu</string>
+    <string name="podcast_title">Podcast title</string>
+    <string name="radio_station_name">Station name</string>
+    <string name="podcast_priority">Podcast priority</string>
+    <string name="group_by_podcast_priority">Group by podcast priority</string>
+    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
+    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
 </resources>

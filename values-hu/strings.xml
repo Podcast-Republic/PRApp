@@ -941,8 +941,8 @@
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">%1$d - %2$d másodperc automatikus visszatekerése a lejátszás folytatásakor</string>
     <string name="minimum_rewind_time_d_seconds">Minimális visszatekerési idő: %d másodperc.</string>
     <string name="maximum_rewind_time_d_seconds">Maximális visszatekerési idő: %d másodperc.</string>
-    <string name="show_radio_station_title">Állomás nevének megjelenítése</string>
-    <string name="hide_radio_station_title">Állomás nevének elrejtése</string>
+    <string name="show_radio_station_name">Állomás nevének megjelenítése</string>
+    <string name="hide_radio_station_name">Állomás nevének elrejtése</string>
     <string name="not_in_downloads_list">Nincs a Letöltési listában</string>
     <string name="reversed_landscape">Fordított tájolás</string>
     <string name="reset_sleep_timer">Alvó üzemmód alaphelyzetbe</string>
@@ -1218,5 +1218,10 @@
     <string name="chapter_s_will_be_skipped">A fejezet kihagyásra kerül: [%1$s]</string>
     <string name="skip_the_chapter">Hagyja ki a fejezetet</string>
     <string name="dont_skip_the_chapter">Ne hagyja ki a fejezetet</string>
-
+    <string name="podcast_title">Podcast title</string>
+    <string name="radio_station_name">Station name</string>
+    <string name="podcast_priority">Podcast priority</string>
+    <string name="group_by_podcast_priority">Group by podcast priority</string>
+    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
+    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
 </resources>

@@ -937,8 +937,8 @@
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Automatically rewind %1$d to %2$d seconds when resuming the playback</string>
     <string name="minimum_rewind_time_d_seconds">Minimum rewind time: %d seconds.</string>
     <string name="maximum_rewind_time_d_seconds">Maximum rewind time: %d seconds.</string>
-    <string name="show_radio_station_title">Show station title</string>
-    <string name="hide_radio_station_title">Hide station title</string>
+    <string name="show_radio_station_name">Show station name</string>
+    <string name="hide_radio_station_name">Hide station name</string>
     <string name="not_in_downloads_list">Not in Downloads list</string>
     <string name="reversed_landscape">Reversed landscape</string>
     <string name="reset_sleep_timer">Reset sleep timer</string>
@@ -1214,4 +1214,10 @@
     <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
     <string name="skip_the_chapter">Skip the chapter</string>
     <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
+    <string name="podcast_title">Podcast title</string>
+    <string name="radio_station_name">Station name</string>
+    <string name="podcast_priority">Podcast priority</string>
+    <string name="group_by_podcast_priority">Group by podcast priority</string>
+    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
+    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
 </resources>

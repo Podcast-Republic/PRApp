@@ -935,8 +935,8 @@
     <string name="always_on_amoled_black">Vždy zapnuto (AMOLED černý)</string>
     <string name="minimum_rewind_time_d_seconds">Minimální čas přetočení: %d sekund.</string>
     <string name="maximum_rewind_time_d_seconds">Maximální čas přetočení: %d sekund.</string>
-    <string name="show_radio_station_title">Ukázat název stanice</string>
-    <string name="hide_radio_station_title">Skrýt název stanice</string>
+    <string name="show_radio_station_name">Ukázat název stanice</string>
+    <string name="hide_radio_station_name">Skrýt název stanice</string>
     <string name="not_in_downloads_list">Není v seznamu stahování</string>
     <string name="reversed_landscape">Na šířku obráceně</string>
     <string name="reset_sleep_timer">Resetovat časovač</string>
@@ -1212,4 +1212,10 @@
     <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
     <string name="skip_the_chapter">Skip the chapter</string>
     <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
+    <string name="podcast_title">Podcast title</string>
+    <string name="radio_station_name">Station name</string>
+    <string name="podcast_priority">Podcast priority</string>
+    <string name="group_by_podcast_priority">Group by podcast priority</string>
+    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
+    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
 </resources>

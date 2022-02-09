@@ -1218,10 +1218,10 @@
     <string name="chapter_s_will_be_skipped">A fejezet kihagyásra kerül: [%1$s]</string>
     <string name="skip_the_chapter">Hagyja ki a fejezetet</string>
     <string name="dont_skip_the_chapter">Ne hagyja ki a fejezetet</string>
-    <string name="podcast_title">Podcast title</string>
-    <string name="radio_station_name">Station name</string>
-    <string name="podcast_priority">Podcast priority</string>
-    <string name="group_by_podcast_priority">Group by podcast priority</string>
-    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
-    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
+    <string name="podcast_title">Podcast címe</string>
+    <string name="radio_station_name">Állomás neve</string>
+    <string name="podcast_priority">Podcast prioritás</string>
+    <string name="group_by_podcast_priority">Csoportosítás podcast prioritás szerint</string>
+    <string name="larger_number_has_higher_priority">A nagyobb érték magasabb prioritást eredményez.</string>
+    <string name="rotate_by_podcast_priority">Forgatás podcast prioritás szerint</string>
 </resources>

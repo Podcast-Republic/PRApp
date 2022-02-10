@@ -850,7 +850,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Запомнить уровень громкости из последнего прослушанного выпуска восстанавить его при воспроизведении.</string>
     <string name="metered_network">Лимитная сеть</string>
     <string name="allow_to_download_over_metered_network">Разрешить загрузку по лимитной сети.</string>
-    <string name="remind_me_1_minute_less">Напомнить (на 1 минуту меньше)</string>
+    <string name="remind_me_1_minute_less">Напомнить (на 1 минуту меньше)</string>
     <string name="unread_count">Счетчик непрочитанных</string>
     <string name="newest_unread">Новые непрочитанные</string>
     <string name="no_articles_selected_">Статьи не выбраны!</string>
@@ -1088,7 +1088,6 @@
     <string name="sleep_timer_is_on_">Таймер сна включен!</string>
     <string name="sleep_at_time">Уснуть в</string>
     <string name="sleep_after">Уснуть после</string>
-    <string name="show_radio_station_name">Показать название станции</string>
     <string name="set_sleep_timer_after_this_episode">Установите таймер сна после этого эпизода</string>
     <string name="select_backup_file_to_restore_from">Выберите файл резервной копии для восстановления</string>
     <string name="search_in_title_and_article">Поиск по названию и статье</string>
@@ -1152,7 +1151,6 @@
     <string name="ignore_articles_in_title">Игнорировать артикли в названии</string>
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Игнорируйте артикли (A, An или The) в названии подкаста при сортировке по названию.</string>
     <string name="html_notation">HTML-нотация</string>
-    <string name="hide_radio_station_name">Скрыть название станции</string>
     <string name="grid_spacing">Зазор между плиткой</string>
     <string name="follow_android_systems_dark_theme_setup">Следовать настройкам темной темы системы Android.</string>
     <string name="feed_title_can_not_be_empty_">Заголовок ленты не может быть пустым!</string>
@@ -1209,13 +1207,15 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Выбрать выпуски продолжительностью от %1$d до %2$d минут.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Выбрать выпуски продолжительностью менее %1$d или более %2$d минут.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Нет Wi-Fi подключения - Хотите обновить подкаст с помощью мобильного подключения единоразово?</string>
-    <string name="chapter_s_will_be_skipped">Глава [%1$s] будет пропущена!</string>
+    <string name="hide_radio_station_name">Скрыть название станции</string>
+    <string name="show_radio_station_name">Показать название станции</string>
     <string name="skip_the_chapter">Пропустить главу</string>
+    <string name="chapter_s_will_be_skipped">Глава [%1$s] будет пропущена!</string>
     <string name="dont_skip_the_chapter">Не пропускать главу</string>
-    <string name="podcast_title">Podcast title</string>
-    <string name="radio_station_name">Station name</string>
-    <string name="podcast_priority">Podcast priority</string>
-    <string name="group_by_podcast_priority">Group by podcast priority</string>
-    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
-    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
+    <string name="group_by_podcast_priority">Сгрупировать по приоритету</string>
+    <string name="podcast_title">Название подкаста</string>
+    <string name="podcast_priority">Приоритет подкаста</string>
+    <string name="radio_station_name">Название радиостанции</string>
+    <string name="larger_number_has_higher_priority">Чем больше, тем выше приоритет.</string>
+    <string name="rotate_by_podcast_priority">Ротация по приоритету подкаста</string>
 </resources>

@@ -1217,4 +1217,5 @@
     <string name="group_by_podcast_priority">Group by podcast priority</string>
     <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
     <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
+    <string name="grouping">Grouping</string>
 </resources>

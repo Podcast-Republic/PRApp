@@ -1221,4 +1221,5 @@
     <string name="group_by_podcast_priority">Zoskupiť podľa priority podcastu</string>
     <string name="larger_number_has_higher_priority">Väčšie číslo má vyššiu prioritu.</string>
     <string name="rotate_by_podcast_priority">Rotovať podľa priority podcastu</string>
+    <string name="grouping">Grouping</string>
 </resources>

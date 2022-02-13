@@ -1224,4 +1224,5 @@
     <string name="group_by_podcast_priority">Csoportosítás podcast prioritás szerint</string>
     <string name="larger_number_has_higher_priority">A nagyobb érték magasabb prioritást eredményez.</string>
     <string name="rotate_by_podcast_priority">Forgatás podcast prioritás szerint</string>
+    <string name="grouping">Grouping</string>
 </resources>

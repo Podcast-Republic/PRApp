@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one"><![CDATA[You\'ve listened: <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
-        <item quantity="few"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
-        <item quantity="other"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="one"><![CDATA[Vypočuli ste: <b>%1$d</b> epizódu, <b>%2$s</b>.]]></item>
+        <item quantity="few"><![CDATA[Vypočuli ste: <b>%1$d</b> epizódy, <b>%2$s</b>.]]></item>
+        <item quantity="other"><![CDATA[Vypočuli ste: <b>%1$d</b> epizód, <b>%2$s</b>.]]></item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d riadky</item>
+        <item quantity="one">%1$d riadok</item>
         <item quantity="few">%1$d riadky</item>
-        <item quantity="other">%1$d riadky</item>
+        <item quantity="other">%1$d riadkov</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Posledné epizódy: %1$d.</item>
-        <item quantity="few">Posledné epizódy: %1$d.</item>
-        <item quantity="other">Posledné epizódy: %1$d.</item>
+        <item quantity="one">Poslednú %1$d epizódu.</item>
+        <item quantity="few">Posledné %1$d epizódy.</item>
+        <item quantity="other">Posledných %1$d epizód.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Zobraziť posledné %d epizódy.</item>
+        <item quantity="one">Zobraziť poslednú %d epizódu.</item>
         <item quantity="few">Zobraziť posledné %d epizódy.</item>
-        <item quantity="other">Zobraziť posledné %d epizódy.</item>
+        <item quantity="other">Zobraziť posledných %d epizód.</item>
     </plurals>
 
     <plurals name="keep_latest_n_downloads">
-        <item quantity="one">Ponechať najnovšie stiahnutia: %1$d.</item>
-        <item quantity="few">Ponechať najnovšie stiahnutia: %1$d.</item>
-        <item quantity="other">Ponechať najnovšie stiahnutia: %1$d.</item>
+        <item quantity="one">Ponechať %1$d najnovšie stiahnutie.</item>
+        <item quantity="few">Ponechať %1$d najnovšie stiahnutia.</item>
+        <item quantity="other">Ponechať%1$d najnovších stiahnutí .</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Označiť všetky %d epizódy ako prehraté?</item>
-        <item quantity="few">Označiť všetky %d epizódy ako prehraté?</item>
-        <item quantity="other">Označiť všetky %d epizódy ako prehraté?</item>
+        <item quantity="one">Označiť %d epizódu ako prehratú?</item>
+        <item quantity="few">Označiť %d epizódy ako prehraté?</item>
+        <item quantity="other">Označiť všetkých %d epizód ako prehraté?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Označiť všetky epizódy (%d) ako neprehraté?</item>
-        <item quantity="few">Označiť všetky epizódy (%d) ako neprehraté?</item>
-        <item quantity="other">Označiť všetky epizódy (%d) ako neprehraté?</item>
+        <item quantity="one">Označiť %d epizódu ako neprehratú?</item>
+        <item quantity="few">Označiť %d epizódy ako neprehraté?</item>
+        <item quantity="other">Označiť všetkých %d epizód ako neprehraté?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Označiť všetky podcasty (%d) ako prehraté?</item>
-        <item quantity="few">Označiť všetky podcasty (%d) ako prehraté?</item>
-        <item quantity="other">Označiť všetky podcasty (%d) ako prehraté?</item>
+        <item quantity="one">Označiť %s podcast ako prehratý?</item>
+        <item quantity="few">Označiť %d podcasty ako prehraté?</item>
+        <item quantity="other">Označiť všetkých %d podcastov ako prehraté?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Označiť všetky kanály (%d) ako prečítané?</item>
-        <item quantity="few">Označiť všetky kanály (%d) ako prečítané?</item>
-        <item quantity="other">Označiť všetky kanály (%d) ako prečítané?</item>
+        <item quantity="one">Označiť %d kanál ako prečítaný?</item>
+        <item quantity="few">Označiť %d kanály ako prečítané?</item>
+        <item quantity="other">Označiť všetkých %d kanálov ako prečítané?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Označiť všetky články (%d) ako prečítané?</item>
-        <item quantity="few">Označiť všetky články (%d) ako prečítané?</item>
-        <item quantity="other">Označiť všetky články (%d) ako prečítané?</item>
+        <item quantity="one">Označiť %d článok ako prečítaný?</item>
+        <item quantity="few">Označiť %d články ako prečítané?</item>
+        <item quantity="other">Označiť všetkých %d článkov ako prečítané?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Počet novších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d.</item>
-        <item quantity="few">Počet novších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d.</item>
-        <item quantity="other">Počet novších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d.</item>
+        <item quantity="one">Automaticky stiahnuť %d novšiu a neprehratú epizódu z aktuálne prehrávaného podcastu.</item>
+        <item quantity="few">Automaticky stiahnuť až %d novšie a neprehraté epizódy z aktuálne prehrávaného podcastu.</item>
+        <item quantity="other">Automaticky stiahnuť až %d novších a neprehratých epizód z aktuálne prehrávaného podcastu.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Počet starších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d.</item>
-        <item quantity="few">Počet starších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d.</item>
-        <item quantity="other">Počet starších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d.</item>
+        <item quantity="one">Automaticky stiahnuť %d staršiu a neprehratú epizódu z aktuálne prehrávaného podcastu.</item>
+        <item quantity="few">Automaticky stiahnuť až %d staršie a neprehraté epizódy z aktuálne prehrávaného podcastu.</item>
+        <item quantity="other">Automaticky stiahnuť až %d starších a neprehratých epizód z aktuálne prehrávaného podcastu.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Po načítaní nových epizód automaticky stiahnuť najnovšie epizódy: %1$d.</item>
-        <item quantity="few">Po načítaní nových epizód automaticky stiahnuť najnovšie epizódy: %1$d.</item>
-        <item quantity="other">Po načítaní nových epizód automaticky stiahnuť najnovšie epizódy: %1$d.</item>
+        <item quantity="one">Automaticky stiahnuť %1$d najnovšiu epizódu po načítaní nových epizód.</item>
+        <item quantity="few">Automaticky stiahnuť až %1$d najnovšie epizódy po načítaní nových epizód.</item>
+        <item quantity="other">Automaticky stiahnuť až %1$d najnovších epizód po načítaní nových epizód.</item>
     </plurals>
 </resources>

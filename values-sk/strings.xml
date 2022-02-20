@@ -234,7 +234,6 @@
     <string name="remember_the_choice">Zapamätať si voľbu</string>
     <string name="when_deleting_a_download">Pri odstraňovaní sťahovania</string>
     <string name="all_episodes">Všetky epizódy</string>
-    <string name="latest_d_episodes">Posledné epizódy: %d</string>
     <string name="system_default">Predvolené systémom</string>
     <string name="every_one_hour">Každú hodinu</string>
     <string name="every_three_hours">Každé tri hodiny</string>
@@ -382,7 +381,6 @@
     <string name="dim_screen_but_keep_screen_responsive">Stmaviť obrazovku, ale ponechať ju v pohotovosti</string>
     <string name="chapters">Kapitoly</string>
     <string name="no_chapter_marks_found">Nenašli sa žiadne značky kapitol.</string>
-    <string name="keep_latest_n_downloads">Ponechať najnovšie stiahnutia: %1$d</string>
     <string name="keep_all_downloads">Ponechať všetky stiahnuté súbory</string>
     <string name="playback_controls">Ovládacie prvky prehrávania</string>
     <string name="hide_played_podcasts">Skryť prehraté podcasty</string>
@@ -684,7 +682,6 @@
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Keď sa obnovujú údaje, aplikáciu nezatvárajte. Po obnovení všetkých údajov sa aplikácia reštartuje.</string>
     <string name="playback_paused_on_muted_volume_">Prehrávanie bolo pozastavené pri stlmení hlasitosti!</string>
     <string name="number_of_episodes_to_auto_download">Počet epizód pre automatické sťahovanie</string>
-    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Po načítaní nových epizód automaticky stiahnuť najnovšie epizódy: %1$d</string>
     <string name="notify_when_new_episodes_are_available">Upozorniť, keď budú k dispozícii nové epizódy</string>
     <string name="com_parse_ui_progress_dialog_text">Načítava sa…</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Zabudli ste heslo</u></string>
@@ -794,7 +791,6 @@
     <string name="apply_to_all_radio_stations">Použiť na všetky rádiá</string>
     <string name="apply_to_current_radio_station">Použiť na aktuálne rádio</string>
     <string name="skip_silence">Preskočiť tiché pasáže</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Počet novších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d</string>
     <string name="smart_download">Inteligentné sťahovanie</string>
     <string name="download_anyway">Stiahnuť vždy</string>
     <string name="download_anyway_message">Ignorovať nastavenia Wi-Fi a batérie, stiahnuť epizódu s aktuálnym sieťovým pripojením! Môžu byť použité mobilné dáta a batéria. Pokračovať?</string>
@@ -862,7 +858,6 @@
     <string name="newest_unread">Najnovšie neprečítané</string>
     <string name="no_articles_selected_">Nie sú vybrané žiadne články!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Označiť všetky články ako prečítané?</string>
-    <string name="mark_all_d_articles_as_read">Označiť všetky články (%d) ako prečítané?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Označiť všetky články uverejnené skôr ako tento článok [%1$s] ako prečítané?</string>
     <string name="there_are_no_articles_">Nie sú žiadne články.</string>
     <string name="unreads_d">Neprečítané: %d</string>
@@ -927,10 +922,8 @@
     <string name="stats">Štatistika</string>
     <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Počúvali ste: <b>%1$d</b> episodes, <b>%2$s</b>]]></string>
     <string name="since_date">Od</string>
     <string name="reset_stats">Vynulovať štatistiku</string>
-    <string name="display_latest_d_episodes">Zobraziť posledné %d epizódy</string>
     <string name="find_rss_feed">Nájsť zdroj RSS</string>
     <string name="there_are_no_rss_feeds">Nie sú k dispozícii žiadne zdroje RSS!</string>
     <string name="got_it">Mám to</string>
@@ -981,7 +974,6 @@
     <string name="clear_the_recents_list_">Vymazať zoznam Nedávne?</string>
     <string name="clear_the_list">Vymazať zoznam</string>
     <string name="play_as_video">Prehrať ako video</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Počet starších a neprehratých epizód z aktuálne prehrávaného podcastu, ktoré budú automaticky sťahované: %d</string>
     <string name="select_all_below">Vyberať všetky nižšie</string>
     <string name="select_all_above">Vyberať všetky vyššie</string>
     <string name="ignore_articles_in_title">Ignorovať členy v názve</string>
@@ -992,7 +984,6 @@
     <string name="append_to_up_next">Pripojiť k Nasleduje</string>
     <string name="only_include_episodes_with_user_notes">Zahrnúť len epizódy s poznámkami</string>
     <string name="description_preview">Náhľad popisu</string>
-    <string name="d_lines_of_text">%d riadky</string>
     <string name="mark_current_playback_position">Pridať značku na aktuálnu pozíciu</string>
     <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">Vybrať obrázok pre odkaz</string>
@@ -1151,9 +1142,6 @@
     <string name="mark_all_as_played">Označiť všetko ako prehraté</string>
     <string name="mark_all_as_unplayed">Označiť všetko ako neprehraté</string>.
     <string name="mark_all_as_read">Označiť všetko ako prečítané</string>
-    <string name="mark_all_d_episodes_as_played">Označiť všetky %d epizódy ako prehraté?</string>
-    <string name="mark_all_d_episodes_as_unplayed">Označiť všetky epizódy (%d) ako neprehraté?</string>
-    <string name="mark_all_d_podcasts_as_played">Označiť všetky podcasty (%d) ako prehraté?</string>
     <string name="mark_all_episodes_from_s_as_played">Označiť všetky epizódy z [%s] ako prehraté? </string>
     <string name="mark_all_episodes_as_played">Označiť všetky epizódy ako prehraté</string>
     <string name="mark_all_podcasts_as_played">Označiť všetky podcasty ako prehraté</string>
@@ -1161,7 +1149,6 @@
     <string name="mark_all_articles_as_read">Označiť všetky články ako prečítané</string>
     <string name="mark_rss_feeds_as_read">Označiť zdroje ako prečítané</string>                                                                     
     <string name="mark_all_rss_feeds_as_read">Označiť všetky zdroje ako prečítané</string>
-    <string name="mark_all_d_rss_feeds_as_read">Označiť všetky kanály (%d) ako prečítané?</string>
     <string name="mark_episode_as_unplayed">Označiť epizódu ako neprehratú</string>
     <string name="mark_episode_as_played">Označiť epizódu ako prehratú</string>
     <string name="moving_downloads">Presun stiahnutých</string>

@@ -233,7 +233,6 @@
     <string name="remember_the_choice">Запомнить выбор</string>
     <string name="when_deleting_a_download">При удалении загрузки</string>
     <string name="all_episodes">Все выпуски</string>
-    <string name="latest_d_episodes">Последние %1$d выпусков</string>
     <string name="system_default">Значение по умолчанию</string>
     <string name="every_one_hour">Каждый час</string>
     <string name="every_three_hours">Каждые три часа</string>
@@ -378,7 +377,6 @@
     <string name="dim_screen_but_keep_screen_responsive">Погасить экран, но продолжать реагировать на прикосновения</string>
     <string name="chapters">Главы</string>
     <string name="no_chapter_marks_found">Главы отсутствуют!</string>
-    <string name="keep_latest_n_downloads">Последние %1$d выпуска(ов)</string>
     <string name="keep_all_downloads">Сохранить все</string>
     <string name="playback_controls">Кнопки воспроизведения</string>
     <string name="hide_played_podcasts">Скрыть прослушанные подкасты</string>
@@ -680,7 +678,6 @@
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Не закрывайте приложение, когда оно восстанавливает данные. Оно перезагрузится, когда все данные будут восстановлены."</string>
     <string name="playback_paused_on_muted_volume_">"Воспроизведение остановилось из-за отключенной громкости!"</string>
     <string name="number_of_episodes_to_auto_download">"Количество выпусков для автоматической загрузки"</string>
-    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Автоматически загружать до %1$d последних выпусков при получении новых выпусков"</string>
     <string name="notify_when_new_episodes_are_available">"Сообщать, когда доступны новые выпуски"</string>
     <string name="com_parse_ui_progress_dialog_text">"Загрузка…"</string>
     <string name="com_parse_ui_forgot_password_button_label">"Забыли пароль?"</string>
@@ -787,7 +784,6 @@
     <string name="apply_to_all_radio_stations">Применить ко всем радиостанциям</string>
     <string name="apply_to_current_radio_station">Применить к текущей радиостанции</string>
     <string name="skip_silence">Пропускать тишину</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Автоматическая загрузка до %1$d новых и непрослушанных выпусков из текущего подкаста</string>
     <string name="smart_download">Умная загрузка</string>
     <string name="download_anyway">Загрузить немедленно</string>
     <string name="download_anyway_message">Можно загрузить выпуск прямо сейчас с имеющимся сетевым соединением, невзирая на настройки Wi-Fi и батареи. Загрузка может потратить мобильный трафик и заряд батареи. Продолжить?</string>
@@ -855,7 +851,6 @@
     <string name="newest_unread">Новые непрочитанные</string>
     <string name="no_articles_selected_">Статьи не выбраны!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Отметить все статьи как прочитанные?</string>
-    <string name="mark_all_d_articles_as_read">Отметить все %d статей как прочитанные?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Отметить все статьи, опубликованные до этой статьи [%1$s], как прочитанные?</string>
     <string name="there_are_no_articles_">Здесь нет статей.</string>
     <string name="unreads_d">Непрочитано: %1$d</string>
@@ -912,9 +907,6 @@
     <string name="mark_all_as_played">Отметить все как прослушанные</string>
     <string name="mark_all_as_unplayed">Отметить всё как непрослушанные</string>
     <string name="mark_all_as_read">"Отметить всё как прочитанное"</string>
-    <string name="mark_all_d_episodes_as_played">Отметить все %d выпусков как прослушанные?</string>
-    <string name="mark_all_d_episodes_as_unplayed">Отметить все %d выпусков как непрослушанные?</string>
-    <string name="mark_all_d_podcasts_as_played">Отметить все %d подкасты как прослушанные?</string>
     <string name="mark_all_episodes_from_s_as_played">Отметить все выпуски с [%s] как прослушанные?</string>
     <string name="mark_all_episodes_as_played">Отметить все выпуски как прослушанные</string>
     <string name="mark_all_podcasts_as_played">Отметить все подкасты как прослушанные</string>
@@ -922,7 +914,6 @@
     <string name="mark_all_articles_as_read">Отметить все статьи как прочитанные</string>
     <string name="mark_rss_feeds_as_read">Отметить ленты как прочитанные</string>
     <string name="mark_all_rss_feeds_as_read">Отметить все ленты как прочитанные</string>
-    <string name="mark_all_d_rss_feeds_as_read">Отметить все %d ленты как прочитанные?</string>
     <string name="mark_episode_as_unplayed">Отметить выпуски как непрослушанные</string>
     <string name="mark_episode_as_played">Отметить выпуск как прослушанный</string>
     <string name="moving_downloads">Перемещение загрузок</string>
@@ -954,7 +945,6 @@
     <string name="delete_downloads">Удалить загрузки</string>
     <string name="stats">Статистика</string>
     <string name="reset_stats">Сброс статистики</string>
-    <string name="display_latest_d_episodes">Отобразить %1$d последних выпусков.</string>
     <string name="find_rss_feed">Найти RSS-ленту</string>
     <string name="hold_down_to_start_dragging">Удерживайте, чтобы перетащить</string>
     <string name="select_episodes_with_duration_greater_than_d_minutes">Отобрать выпуски продолжительностью более %1$d минут.</string>
@@ -967,7 +957,6 @@
     <string name="keep_download">Продолжить загрузку</string>
     <string name="time_saved_b_s_b"><![CDATA[Времени сэкономлено: <b>%1$s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Вы прослушали: <b>%1$s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Вы прослушали: <b>%1$d</b> выпусков, <b>%2$s</b>.]]></string>
     <string name="since_date">С</string>
     <string name="don_t_show_it_again">Больше не показывать</string>
     <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">Вы изменили порядок очереди воспроизведения. Как результат Очередь не будет синхронизирована со списком воспроизводимых выпусков или плейлистом.</string>
@@ -1098,7 +1087,6 @@
     <string name="save_backup_to">Сохранить резервную копию в</string>
     <string name="save_auto_backup_to">Сохранить автоматическую резервную копию в</string>
     <string name="save_image">Сохранить изображение</string>
-    <string name="d_lines_of_text">%1$d строк</string>
     <string name="_d_minutes">%1$d минут</string>
     <string name="account_already_exists_please_login_with_the_email_and_password_">Учетная запись уже существует, пожалуйста, войдите в систему с помощью электронной почты и пароля.</string>
     <string name="android_auto">Android Auto</string>
@@ -1122,7 +1110,6 @@
     <string name="as_html_file">как HTML</string>
     <string name="as_json_file">как JSON</string>
     <string name="at_lease_one_playback_control_is_required">" - Требуется по крайней мере один элемент управления воспроизведением."</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Автоматическая загрузка до %1$d старых и непрослушанных выпусков из текущего подкаста</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Автоматическая пауза таймера сна при приостановке воспроизведения.</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Автоматически перематывать на %1$d - %2$d секунд при возобновлении воспроизведения.</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Автоматическое включение таймера сна при начале воспроизведения в промежутке [%1$s -% 2$s].</string>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="you_ve_listened_b_d_s_b">
+        <item quantity="zero"><![CDATA[You\'ve listened: <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
+        <item quantity="one"><![CDATA[You\'ve listened: <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
+        <item quantity="two"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="few"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="many"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="other"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+    </plurals>
+
+    <plurals name="d_lines_of_text">
+        <item quantity="zero">%1$d line</item>
+        <item quantity="one">%1$d line</item>
+        <item quantity="two">%1$d lines</item>
+        <item quantity="few">%1$d lines</item>
+        <item quantity="many">%1$d lines</item>
+        <item quantity="other">%1$d lines</item>
+    </plurals>
+
+    <plurals name="latest_d_episodes">
+        <item quantity="zero">آخر %1$d حلقات</item>
+        <item quantity="one">آخر %1$d حلقات</item>
+        <item quantity="two">آخر %1$d حلقات</item>
+        <item quantity="few">آخر %1$d حلقات</item>
+        <item quantity="many">آخر %1$d حلقات</item>
+        <item quantity="other">آخر %1$d حلقات</item>
+    </plurals>
+
+    <plurals name="display_latest_d_episodes">
+        <item quantity="zero">Display latest %1$d episode.</item>
+        <item quantity="one">Display latest %1$d episode.</item>
+        <item quantity="two">Display latest %1$d episodes.</item>
+        <item quantity="few">Display latest %1$d episodes.</item>
+        <item quantity="many">Display latest %1$d episodes.</item>
+        <item quantity="other">Display latest %1$d episodes.</item>
+    </plurals>
+
+    <plurals name="keep_latest_n_downloads">
+        <item quantity="zero">أحدث %1$d حلقة (ات)</item>
+        <item quantity="one">أحدث %1$d حلقة (ات)</item>
+        <item quantity="two">أحدث %1$d حلقة (ات)</item>
+        <item quantity="few">أحدث %1$d حلقة (ات)</item>
+        <item quantity="many">أحدث %1$d حلقة (ات)</item>
+        <item quantity="other">أحدث %1$d حلقة (ات)</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_played">
+        <item quantity="zero">Mark %d episode as played?</item>
+        <item quantity="one">Mark %d episode as played?</item>
+        <item quantity="two">Mark all %d episodes as played?</item>
+        <item quantity="few">Mark all %d episodes as played?</item>
+        <item quantity="many">Mark all %d episodes as played?</item>
+        <item quantity="other">Mark all %d episodes as played?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_unplayed">
+        <item quantity="zero">Mark %d episode as unplayed?</item>
+        <item quantity="one">Mark %d episode as unplayed?</item>
+        <item quantity="two">Mark all %d episodes as unplayed?</item>
+        <item quantity="few">Mark all %d episodes as unplayed?</item>
+        <item quantity="many">Mark all %d episodes as unplayed?</item>
+        <item quantity="other">Mark all %d episodes as unplayed?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_podcasts_as_played">
+        <item quantity="zero">Mark %d podcast as played?</item>
+        <item quantity="one">Mark %d podcast as played?</item>
+        <item quantity="two">Mark all %d podcasts as played?</item>
+        <item quantity="few">Mark all %d podcasts as played?</item>
+        <item quantity="many">Mark all %d podcasts as played?</item>
+        <item quantity="other">Mark all %d podcasts as played?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_rss_feeds_as_read">
+        <item quantity="zero">Mark %d feed as read?</item>
+        <item quantity="one">Mark %d feed as read?</item>
+        <item quantity="two">Mark all %d feeds as read?</item>
+        <item quantity="few">Mark all %d feeds as read?</item>
+        <item quantity="many">Mark all %d feeds as read?</item>
+        <item quantity="other">Mark all %d feeds as read?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_read">
+        <item quantity="zero">Mark %1$d article as read?</item>
+        <item quantity="one">Mark %1$d article as read?</item>
+        <item quantity="two">Mark all %1$d articles as read?</item>
+        <item quantity="few">Mark all %1$d articles as read?</item>
+        <item quantity="many">Mark %1$d article as read?</item>
+        <item quantity="other">Mark all %1$d articles as read?</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="zero">Auto download up to %1$d newer and unplayed episode from current playing podcast.</item>
+        <item quantity="one">Auto download up to %1$d newer and unplayed episode from current playing podcast.</item>
+        <item quantity="two">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
+        <item quantity="few">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
+        <item quantity="many">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
+        <item quantity="other">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="zero">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
+        <item quantity="one">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
+        <item quantity="two">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="few">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="many">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="other">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+    </plurals>
+
+    <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
+        <item quantity="zero">Automatically download up to %1$d most recent episode when new episodes are retrieved.</item>
+        <item quantity="one">Automatically download up to %1$d most recent episode when new episodes are retrieved.</item>
+        <item quantity="two">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
+        <item quantity="few">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
+        <item quantity="many">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
+         <item quantity="other">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
+    </plurals>
+</resources>

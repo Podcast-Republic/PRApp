@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="you_ve_listened_b_d_s_b">
+        <item quantity="one"><![CDATA[Poslouchali jste: <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
+        <item quantity="few"><![CDATA[Poslouchali jste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="other"><![CDATA[Poslouchali jste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+    </plurals>
+
+    <plurals name="d_lines_of_text">
+        <item quantity="one">%1$d line</item>
+        <item quantity="few">%1$d řádků</item>
+        <item quantity="other">%1$d řádků</item>
+    </plurals>
+
+    <plurals name="latest_d_episodes">
+        <item quantity="one">%1$d nejnovější epizod.</item>
+        <item quantity="few">%1$d nejnovějších epizod.</item>
+        <item quantity="other">%1$d nejnovějších epizod.</item>
+    </plurals>
+
+    <plurals name="display_latest_d_episodes">
+        <item quantity="one">Zobrazí posledních %d epizod.</item>
+        <item quantity="few">Zobrazí posledních %d epizod.</item>
+        <item quantity="other">Zobrazí posledních %d epizod.</item>
+    </plurals>
+
+    <plurals name="keep_latest_n_downloads">
+        <item quantity="one">Zachovat nejnovější %1$d stažení.</item>
+        <item quantity="few">Zachovat nejnovějších %1$d stažení.</item>
+        <item quantity="other">Zachovat nejnovějších %1$d stažení.</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_played">
+        <item quantity="one">Označit všechny epizody %1$d jako přehrané?</item>
+        <item quantity="few">Označit všechny epizody %1$d jako přehrané?</item>
+        <item quantity="other">Označit všechny epizody %1$d jako přehrané?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_unplayed">
+        <item quantity="one">Označit všechny epizody %1$d jako nepřehrané?</item>
+        <item quantity="few">Označit všechny epizody %1$d jako nepřehrané?</item>
+        <item quantity="other">Označit všechny epizody %1$d jako nepřehrané?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_podcasts_as_played">
+        <item quantity="one">Označit všechny podcasty %1$d jako přehrané?</item>
+        <item quantity="few">Označit všechny podcasty %1$d jako přehrané?</item>
+        <item quantity="other">Označit všechny podcasty %1$d jako přehrané?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_rss_feeds_as_read">
+        <item quantity="one">Označit všechny kanály %1$d jako přečtené?</item>
+        <item quantity="few">Označit všechny kanály %1$d jako přečtené?</item>
+        <item quantity="other">Označit všechny kanály %1$d jako přečtené?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_read">
+        <item quantity="one">Označit vše %d jako přečtené?</item>
+        <item quantity="few">Označit vše %d jako přečtené?</item>
+        <item quantity="other">Označit vše %d jako přečtené?</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
+        <item quantity="few">Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
+        <item quantity="other">Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu.</item>
+        <item quantity="few">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu.</item>
+        <item quantity="other">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu.</item>
+    </plurals>
+
+    <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
+        <item quantity="one">Automaticky stahovat až %1$d nejnovějších při načtení nových epizod.</item>
+        <item quantity="few">Automaticky stahovat až %1$d nejnovějších při načtení nových epizod.</item>
+        <item quantity="other">Automaticky stahovat až %1$d nejnovějších při načtení nových epizod.</item>
+    </plurals>
+</resources>

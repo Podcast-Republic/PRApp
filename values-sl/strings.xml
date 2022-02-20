@@ -238,7 +238,6 @@
     <string name="remember_the_choice">Ohrani izbor</string>
     <string name="when_deleting_a_download">Ob izbrisu prenosa</string>
     <string name="all_episodes">Vse epizode</string>
-    <string name="latest_d_episodes">Zadnjih %1$d epizod</string>
     <string name="system_default">Sistemsko</string>
     <string name="every_one_hour">Vsako uro</string>
     <string name="every_three_hours">Vsake tri ure</string>
@@ -386,7 +385,6 @@
     <string name="dim_screen_but_keep_screen_responsive">Zatemni zaslon, vendar ga ohrani odzivnega.</string>
     <string name="chapters">Poglavja</string>
     <string name="no_chapter_marks_found">Ni najdenih označb za poglavja.</string>
-    <string name="keep_latest_n_downloads">Ohrani zadnjih %1$d prenosov.</string>
     <string name="keep_all_downloads">Ohrani vse prenose</string>
     <string name="playback_controls">Možnosti upravljanja</string>
     <string name="hide_played_podcasts">Skrij predvajane podkaste</string>
@@ -688,7 +686,6 @@
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Prosimo, ne zaprite aplikacije med obnavljanjem podatkoav. Aplikacija se bo ponovno zagnala, ko bodo vsi podatki obnovljeni.</string>
     <string name="playback_paused_on_muted_volume_">Ob pridušeni glasnosti se predvajanje začasno ustavi!</string>
     <string name="number_of_episodes_to_auto_download">Število epizod za samodejen prenos</string>
-    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</string>
     <string name="notify_when_new_episodes_are_available">Obvesti me, ko so na voljo nove epizode.</string>
     <string name="com_parse_ui_progress_dialog_text">Nalagam…</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Pozabljeno geslo</u></string>
@@ -798,7 +795,6 @@
     <string name="apply_to_all_radio_stations">Uporabi za vse radijske postaje</string>
     <string name="apply_to_current_radio_station">Uporabi za trenutno radijsko postajo</string>
     <string name="skip_silence">Preskoči tišino</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</string>
     <string name="smart_download">Pametni prenos</string>
     <string name="download_anyway">Prenesi vseeno</string>
     <string name="download_anyway_message">Prezri nastavitve za Wi-Fi omrežje in baterijo ter takoj prenesi epizodo preko trenutne povezave! To bo lahko vplivalo na uporabo prenosa podatkov in baterije. Nadaljujem?</string>
@@ -866,7 +862,6 @@
     <string name="newest_unread">Novi neprebrani</string>
     <string name="no_articles_selected_">Ni izbranih člankov!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Označi vse članke kot prebrane?</string>
-    <string name="mark_all_d_articles_as_read">Označi vseh %d člankov kot prebrani?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Označi vse članke objavljenje pred tem člankom [%1$s] kot prebrane?</string>
     <string name="there_are_no_articles_">Ni člankov.</string>
     <string name="unreads_d">Neprebranih: %1$d</string>
@@ -931,10 +926,8 @@
     <string name="stats">Statistika</string>
     <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%1$s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%1$s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></string>
     <string name="since_date">Od</string>
     <string name="reset_stats">Ponastavi statistiko</string>
-    <string name="display_latest_d_episodes">Prikaži zadnjih %1$d epizod.</string>
     <string name="find_rss_feed">Najdi RSS vir</string>
     <string name="there_are_no_rss_feeds">Ni RSS virov!</string>
     <string name="got_it">Razumem</string>
@@ -985,7 +978,6 @@
     <string name="clear_the_recents_list_">Počistim seznam nedavnih?</string>
     <string name="clear_the_list">Počisti seznam</string>
     <string name="play_as_video">Predvajaj kot video</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</string>
     <string name="select_all_below">Izberi vse spodaj</string>
     <string name="select_all_above">Izberi vse zgoraj</string>
     <string name="ignore_articles_in_title">Ne upoštevaj člankov v naslovu</string>
@@ -996,7 +988,6 @@
     <string name="append_to_up_next">Pripni v seznam Naslednji</string>
     <string name="only_include_episodes_with_user_notes">Vključi samo epizode z zapiski uporabnika.</string>
     <string name="description_preview">Predogled opisa</string>
-    <string name="d_lines_of_text">%1$d vrstice</string>
     <string name="mark_current_playback_position">Označi trenutni pooložaj predvajanja</string>
     <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">Izberi podobo za podobo bližnjice</string>
@@ -1155,9 +1146,6 @@
     <string name="mark_all_as_played">Označi vse kot predvajano</string>
     <string name="mark_all_as_unplayed">Označi vse kot nepredvajano</string>
     <string name="mark_all_as_read">Označi vse kot prebrano</string>
-    <string name="mark_all_d_episodes_as_played">Označim vse %d epizode kot predvajane?</string>
-    <string name="mark_all_d_episodes_as_unplayed">Označim vse %d epizode kot nepredvajane?</string>
-    <string name="mark_all_d_podcasts_as_played">Označim vse %d podkaste kot predvajane?</string>
     <string name="mark_all_episodes_from_s_as_played">Označim vse epizode od [%s] kot predvajane?</string>
     <string name="mark_all_episodes_as_played">Označi vse epizode kot predvajane</string>
     <string name="mark_all_podcasts_as_played">Označi vse podkaste kot predvajane</string>
@@ -1165,7 +1153,6 @@
     <string name="mark_all_articles_as_read">Označi vse članke kot prebrane</string>
     <string name="mark_rss_feeds_as_read">Označi vire kot prebrane</string>
     <string name="mark_all_rss_feeds_as_read">Označi vse vire kot prebrane</string>
-    <string name="mark_all_d_rss_feeds_as_read">Označi vseh %d virov kot prebranih?</string>
     <string name="mark_episode_as_unplayed">Označi epizode kot nepredvajane</string>
     <string name="mark_episode_as_played">Označi epizode kot predvajane</string>
     <string name="moving_downloads">Prenašam prenose</string>

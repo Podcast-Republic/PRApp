@@ -230,7 +230,6 @@
     <string name="remember_the_choice">"Ricorda la scelta"</string>
     <string name="when_deleting_a_download">"Quando si elimina un download"</string>
     <string name="all_episodes">"Tutti gli episodi"</string>
-    <string name="latest_d_episodes">"Ultimi %d episodi"</string>
     <string name="system_default">"Impostazioni predefinite di sistema"</string>
     <string name="every_one_hour">"Ogni ora"</string>
     <string name="every_three_hours">"Ogni tre ore"</string>
@@ -382,7 +381,6 @@
     <string name="dim_screen_but_keep_screen_responsive">"Dimensiona lo schermo, ma mantieni il responsive"</string>
     <string name="chapters">"Capitoli"</string>
     <string name="no_chapter_marks_found">"Non sono stati trovati segnalibri."</string>
-    <string name="keep_latest_n_downloads">"Mantieni gli ultimi %1$d download"</string>
     <string name="keep_all_downloads">"Mantieni tutti i download"</string>
     <string name="playback_controls">"Controlli di riproduzione"</string>
     <string name="hide_played_podcasts">"Nascondere il podcast riprodotto"</string>
@@ -687,7 +685,6 @@
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Non chiudere l'applicazione durante il ripristino dei dati. Si riavvierà automaticamente quando i dati saranno ripristinati."</string>
     <string name="playback_paused_on_muted_volume_">"La riproduzione è stata interrotta su un volume muto!"</string>
     <string name="number_of_episodes_to_auto_download">"Numero di episodi per il download automatico"</string>
-    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Scaricare automaticamente fino a %1$d episodi più recenti quando vengono recuperati nuovi episodi"</string>
     <string name="notify_when_new_episodes_are_available">"Notifica quando nuovi episodi sono disponibili"</string>
     <string name="com_parse_ui_progress_dialog_text">"Caricamento in corso…"</string>
     <string name="com_parse_ui_forgot_password_button_label">"Password dimenticata?"</string>
@@ -789,7 +786,6 @@
     <string name="apply_to_all_radio_stations">Applica a tutte le stazioni radio</string>
     <string name="apply_to_current_radio_station">Applica alla stazione radio corrente</string>
     <string name="skip_silence">Salta il silenzio</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Scarica in automatico fino a %d nuovi episodi non riprodotti del podcast in riproduzione</string>
     <string name="smart_download">Smart download</string>
     <string name="download_anyway">Scarica comunque</string>
     <string name="download_anyway_message">"Ignora le impostazioni di WiFi e batteria, scarica ora l'episodio con la connessione dati attuale! Questo potrebbe scaricare i tuoi dati mobili e la batteria. Continuare?"</string>
@@ -857,7 +853,6 @@
     <string name="newest_unread">"Ultimo non letto"</string>
     <string name="no_articles_selected_">"Nessun articolo selezionato!"</string>
     <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: segna tutti gli articoli come letti?"</string>
-    <string name="mark_all_d_articles_as_read">"Segna tutti gli %d articoli come letti?"</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">"Segna tutti gli articoli pubblicati prima di questo articolo [ %1$s ] come letti?"</string>
     <string name="there_are_no_articles_">"Non ci sono articoli"</string>
     <string name="unreads_d">"Non letti: %d"</string>
@@ -922,10 +917,8 @@
     <string name="stats">Statistiche</string>
     <string name="time_saved_b_s_b"><![CDATA[Tempo risparmiato: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Hai ascoltato: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Hai ascoltato: <b>%1$d</b> episodes, <b>%2$s</b>.]]></string>
     <string name="since_date">Dalla data</string>
     <string name="reset_stats">Resetta le statistiche</string>
-    <string name="display_latest_d_episodes">Visualizza gli ultini %d episodi</string>
     <string name="find_rss_feed">Trova RSS feed</string>
     <string name="there_are_no_rss_feeds">Non ci sono RSS feed!</string>
     <string name="got_it">Fatto</string>
@@ -976,7 +969,6 @@
     <string name="clear_the_recents_list_">Cancella la Lista recenti?</string>
     <string name="clear_the_list">Cancella la lista</string>
     <string name="play_as_video">Riproduci come video</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Dowload automatifo episodi non riprodotti più vecchi di %d dalla corrente playlist.</string>
     <string name="select_all_below">Seleziona tutte le voci sotto</string>
     <string name="select_all_above">Seleziona tutte le voci sopra</string>
     <string name="ignore_articles_in_title">"Ignora l'articolo nel titolo"</string>
@@ -987,7 +979,6 @@
     <string name="append_to_up_next">Aggiungi a Up Next</string>
     <string name="only_include_episodes_with_user_notes">Include solo episodi con note utilizzatore</string>
     <string name="description_preview">Anteproma della descrizione</string>
-    <string name="d_lines_of_text">%d righe</string>
     <string name="mark_current_playback_position">Segna la presente posizione di rirproduzione</string>
     <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">"Scegli un'immagine per l'icona della scorciatoria"</string>
@@ -1153,16 +1144,12 @@
     <string name="grid_spacing">Grid spacing</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
-    <string name="mark_all_d_episodes_as_played">Mark all %d episodes as played?</string>
-    <string name="mark_all_d_episodes_as_unplayed">Mark all %d episodes as unplayed?</string>
-    <string name="mark_all_d_podcasts_as_played">Mark all %d podcasts as played?</string>
     <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
     <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
     <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
     <string name="mark_podcasts_as_played">Mark podcasts as played</string>
     <string name="mark_all_articles_as_read">Mark all articles as read</string>
     <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
-    <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
     <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>

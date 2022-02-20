@@ -230,7 +230,6 @@
     <string name="remember_the_choice">"Zapamatovat volbu"</string>
     <string name="when_deleting_a_download">"Kdy odstranit ze stažených"</string>
     <string name="all_episodes">"Všechny epizody"</string>
-    <string name="latest_d_episodes">"%d nejnovějších epizod"</string>
     <string name="system_default">"Výchozí"</string>
     <string name="every_one_hour">"Každou hodinu"</string>
     <string name="every_three_hours">"Každé tři hodiny"</string>
@@ -380,7 +379,6 @@
     <string name="dim_screen_but_keep_screen_responsive">"Ztlumit obrazovku, ale nechat ji reagovat"</string>
     <string name="chapters">"Kapitoly"</string>
     <string name="no_chapter_marks_found">"Nebyly nalezeny žádné značky kapitol."</string>
-    <string name="keep_latest_n_downloads">"Zachovat nejnovější(ch) %1$d stažení"</string>
     <string name="keep_all_downloads">"Zachovat všechna stažení"</string>
     <string name="playback_controls">"Ovládací prvky přehrávače"</string>
     <string name="hide_played_podcasts">"Skrýt přehrané podcasty"</string>
@@ -685,7 +683,6 @@
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Nezavírejte aplikaci během obnovování dat. Sama se na konci procesu restartuje."</string>
     <string name="playback_paused_on_muted_volume_">"Přehrávání bylo pozastaveno při ztlumení hlasitosti!"</string>
     <string name="number_of_episodes_to_auto_download">"Počet epizod pro automatické stahování"</string>
-    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">"Automaticky stahovat až %1$d nejnovějších při načtení nových epizod"</string>
     <string name="notify_when_new_episodes_are_available">"Upozornit na nové epizody"</string>
     <string name="com_parse_ui_progress_dialog_text">"Načítání…"</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Zapomenuté heslo</u></string>
@@ -787,7 +784,6 @@
     <string name="apply_to_all_radio_stations">"Použít na všechny rozhlasové stanice"</string>
     <string name="apply_to_current_radio_station">"Použít na aktuální rozhlasovou stanici"</string>
     <string name="skip_silence">"Přeskočit ticho"</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">"Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu"</string>
     <string name="smart_download">"Chytré stahování"</string>
     <string name="download_anyway">"Přesto stáhnout"</string>
     <string name="download_anyway_message">"Ignorovat nastavení Wi-Fi a baterie a epizodu prostě teď rovnou stáhnout! Může vás stát data a baterii. Opravdu to chcete?"</string>
@@ -855,7 +851,6 @@
     <string name="newest_unread">"Nejnovější nepřečtené"</string>
     <string name="no_articles_selected_">"Žádné položky nevybrány!"</string>
     <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: označit vše jako přečtené?"</string>
-    <string name="mark_all_d_articles_as_read">"Označit vše %d jako přečtené?"</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">"Označit všechny položky publikované dříve než [ %1$s ] jako přečtené?"</string>
     <string name="there_are_no_articles_">"Neexistují žádné položky."</string>
     <string name="unreads_d">"Nepřečtených: %d"</string>
@@ -920,10 +915,8 @@
     <string name="stats">"Statistiky"</string>
     <string name="time_saved_b_s_b">"<![CDATA[Uložený čas: <b>%s</b>.]]>"</string>
     <string name="you_ve_listened_b_s_b">"<![CDATA[Poslouchali jste: <b>%s</b>.]]>"</string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Poslouchali jste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></string>
     <string name="since_date">"Od"</string>
     <string name="reset_stats">"Obnovit statistiky"</string>
-    <string name="display_latest_d_episodes">"Zobrazí posledních %d epizod"</string>
     <string name="find_rss_feed">"Najít RSS kanál"</string>
     <string name="there_are_no_rss_feeds">"Neexistují žádné RSS kanály!"</string>
     <string name="got_it">"Mám to"</string>
@@ -974,7 +967,6 @@
     <string name="clear_the_recents_list_">Vymazat seznam nedávných?</string>
     <string name="clear_the_list">Vymazat seznam</string>
     <string name="play_as_video">Přehrát jako video</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu</string>
     <string name="select_all_below">Označit všechno níže</string>
     <string name="select_all_above">Označit všechno výše</string>
     <string name="ignore_articles_in_title">Ignorovat členy v titulku</string>
@@ -985,7 +977,6 @@
     <string name="append_to_up_next">Připojit k dalšímu</string>
     <string name="only_include_episodes_with_user_notes">Zahrnout pouze epizody s poznámkou</string>
     <string name="description_preview">Náhled popisu</string>
-    <string name="d_lines_of_text">%d řádků</string>
     <string name="mark_current_playback_position">Označit pozici přehrávání</string>
     <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">Vybrat obrázek pro ikonu</string>
@@ -1151,16 +1142,12 @@
     <string name="grid_spacing">Rozteč mřížky</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> nemůže být použit pro stahování. Vyberte prosím adresář v interním úložišti nebo na SD kartě.]]></string>
     <string name="set_sleep_timer_after_this_episode">Po této epizodě zapnout časovač</string>
-    <string name="mark_all_d_episodes_as_played">Označit všechny epizody %d jako přehrané?</string>
-    <string name="mark_all_d_episodes_as_unplayed">Označit všechny epizody %d jako nepřehrané?</string>
-    <string name="mark_all_d_podcasts_as_played">Označit všechny podcasty %d jako přehrané?</string>
     <string name="mark_all_episodes_from_s_as_played">Označit všechny epizody z [%s] jako přehrané?</string>
     <string name="mark_all_episodes_as_played">Označit všechny epizody jako přehrané</string>
     <string name="mark_all_podcasts_as_played">Označit všechny podcasty jako přehrané</string>
     <string name="mark_podcasts_as_played">Označit podcasty jako přehrané</string>
     <string name="mark_all_articles_as_read">Označit všechny články jako přehrané</string>
     <string name="mark_all_rss_feeds_as_read">Označit všechny kanály jako přečtené</string>
-    <string name="mark_all_d_rss_feeds_as_read">Označit všechny kanály %d jako přečtené?</string>
     <string name="mark_episode_as_unplayed">Označit epizody jako nepřehrané</string>
     <string name="moving_downloads_failed">Přesun stažených souborů selhal</string>
     <string name="some_downloads_are_not_moved_to_s">Některé soubory nebyly přesunuty do: %s</string>

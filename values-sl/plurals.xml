@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="you_ve_listened_b_d_s_b">
+        <item quantity="one"><![CDATA[You\'ve listened: <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
+        <item quantity="two"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="few"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="other"><![CDATA[You\'ve listened: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+    </plurals>
+
+    <plurals name="d_lines_of_text">
+        <item quantity="one">%1$d vrstice</item>
+        <item quantity="two">%1$d vrstice</item>
+        <item quantity="few">%1$d vrstice</item>
+        <item quantity="other">%1$d vrstice</item>
+    </plurals>
+
+    <plurals name="latest_d_episodes">
+        <item quantity="one">Zadnjih %1$d epizod.</item>
+        <item quantity="two">Zadnjih %1$d epizod.</item>
+        <item quantity="few">Zadnjih %1$d epizod.</item>
+        <item quantity="other">Zadnjih %1$d epizod.</item>
+    </plurals>
+
+    <plurals name="display_latest_d_episodes">
+        <item quantity="one">Prikaži zadnjih %1$d epizod.</item>
+        <item quantity="two">Prikaži zadnjih %1$d epizod.</item>
+        <item quantity="few">Prikaži zadnjih %1$d epizod.</item>
+        <item quantity="other">Prikaži zadnjih %1$d epizod.</item>
+    </plurals>
+
+    <plurals name="keep_latest_n_downloads">
+        <item quantity="one">Ohrani zadnjih %1$d prenosov.</item>
+        <item quantity="two">Ohrani zadnjih %1$d prenosov.</item>
+        <item quantity="few">Ohrani zadnjih %1$d prenosov.</item>
+        <item quantity="other">Ohrani zadnjih %1$d prenosov.</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_played">
+        <item quantity="one">Označim vse %d epizode kot predvajane?</item>
+        <item quantity="two">Označim vse %d epizode kot predvajane?</item>
+        <item quantity="few">Označim vse %d epizode kot predvajane?</item>
+        <item quantity="other">Označim vse %d epizode kot predvajane?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_unplayed">
+        <item quantity="one">Označim vse %d epizode kot nepredvajane?</item>
+        <item quantity="two">Označim vse %d epizode kot nepredvajane?</item>
+        <item quantity="few">Označim vse %d epizode kot nepredvajane?</item>
+        <item quantity="other">Označim vse %d epizode kot nepredvajane?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_podcasts_as_played">
+        <item quantity="one">Označim vse %d podkaste kot predvajane?</item>
+        <item quantity="two">Označim vse %d podkaste kot predvajane?</item>
+        <item quantity="few">Označim vse %d podkaste kot predvajane?</item>
+        <item quantity="other">Označim vse %d podkaste kot predvajane?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_rss_feeds_as_read">
+        <item quantity="one">Označi vseh %d virov kot prebranih?</item>
+        <item quantity="two">Označi vseh %d virov kot prebranih?</item>
+        <item quantity="few">Označi vseh %d virov kot prebranih?</item>
+        <item quantity="other">Označi vseh %d virov kot prebranih?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_read">
+        <item quantity="one">Označi vseh %d člankov kot prebrani?</item>
+        <item quantity="two">Označi vseh %d člankov kot prebrani?</item>
+        <item quantity="few">Označi vseh %d člankov kot prebrani?</item>
+        <item quantity="other">Označi vseh %d člankov kot prebrani?</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="two">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="few">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="other">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="two">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="few">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="other">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+    </plurals>
+
+    <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
+        <item quantity="one">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</item>
+        <item quantity="two">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</item>
+        <item quantity="few">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</item>
+        <item quantity="other">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</item>
+    </plurals>
+</resources>

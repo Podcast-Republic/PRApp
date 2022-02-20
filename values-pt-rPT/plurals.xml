@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="you_ve_listened_b_d_s_b">
+        <item quantity="one"><![CDATA[Você ouviu: <b>%1$d</b> episódio, <b>%2$s</b>.]]></item>
+        <item quantity="other"><![CDATA[Você ouviu: <b>%1$d</b> episódios, <b>%2$s</b>.]]></item>
+    </plurals>
+
+    <plurals name="d_lines_of_text">
+        <item quantity="one">%1$d linha</item>
+        <item quantity="other">%1$d linhas</item>
+    </plurals>
+
+    <plurals name="latest_d_episodes">
+        <item quantity="one">Últimos %1$d episódio.</item>
+        <item quantity="other">Últimos %1$d episódios.</item>
+    </plurals>
+
+    <plurals name="display_latest_d_episodes">
+        <item quantity="one">Exibir %d episódio mais recentes.</item>
+        <item quantity="other">Exibir %d episódios mais recentes.</item>
+    </plurals>
+
+    <plurals name="keep_latest_n_downloads">
+        <item quantity="one">Último(s) %1$d download.</item>
+        <item quantity="other">Último(s) %1$d downloads.</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_played">
+        <item quantity="one">Mark %1$d episode as played?</item>
+        <item quantity="other">Mark all %1$d episodes as played?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_unplayed">
+        <item quantity="one">Mark %1$d episode as unplayed?</item>
+        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_podcasts_as_played">
+        <item quantity="one">Mark %1$d podcast as played?</item>
+        <item quantity="other">Mark all %1$d podcasts as played?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_rss_feeds_as_read">
+        <item quantity="one">Mark %1$d feed as read?</item>
+        <item quantity="other">Mark all %1$d feeds as read?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_read">
+        <item quantity="one">Marcar todos os %d artigo como lidos?</item>
+        <item quantity="other">Marcar todos os %d artigos como lidos?</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Descarregar automaticamente até %d episódio novos do podcast que está a tocar.</item>
+        <item quantity="other">Descarregar automaticamente até %d episódios novos do podcast que está a tocar.</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Download automático de até %d episódio mais antigos e não reproduzidos do podcast atualmente em reprodução.</item>
+        <item quantity="other">Download automático de até %d episódios mais antigos e não reproduzidos do podcast atualmente em reprodução.</item>
+    </plurals>
+
+    <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
+        <item quantity="one">Baixar automaticamente até %1$d episódio mais recentes quando novos episódios são procurados.</item>
+        <item quantity="other">Baixar automaticamente até %1$d episódios mais recentes quando novos episódios são procurados.</item>
+    </plurals>
+</resources>

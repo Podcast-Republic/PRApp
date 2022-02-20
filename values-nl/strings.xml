@@ -229,7 +229,6 @@
     <string name="remember_the_choice">"Keuze onthouden"</string>
     <string name="when_deleting_a_download">"Wanneer download verwijderen"</string>
     <string name="all_episodes">"Alle afleveringen"</string>
-    <string name="latest_d_episodes">"Laatste %d afleveringen"</string>
     <string name="system_default">"Standaard"</string>
     <string name="every_one_hour">"Ieder uur"</string>
     <string name="every_three_hours">"Iedere drie uur"</string>
@@ -380,7 +379,6 @@
     <string name="dim_screen_but_keep_screen_responsive">"Dim scherm, maar hou het scherm gevoelig voor aanraking"</string>
     <string name="chapters">"Hoofdstukken"</string>
     <string name="no_chapter_marks_found">"Geen hoofdstukmarkeringen gevonden!"</string>
-    <string name="keep_latest_n_downloads">"Laatste %1$d aflevering(en)"</string>
     <string name="keep_all_downloads">"Bewaar allemaal"</string>
     <string name="playback_controls">"Afspeelregelaars"</string>
     <string name="hide_played_podcasts">"Verberg afgespeelde podcast"</string>
@@ -685,7 +683,6 @@
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Sluit de app niet tijdens het terugzetten van gegevens. De app zal opnieuw opstarten wanneer alle gegevens zijn teruggezet.</string>
     <string name="playback_paused_on_muted_volume_">Afspelen gepauzeerd vanwege uitgezet geluid!</string>
     <string name="number_of_episodes_to_auto_download">Aantal afleveringen om automatisch te downloaden</string>
-    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">Automatisch de %1$d meest recente afleveringen downloaden wanneer nieuwe afleveringen zijn opgehaald</string>
     <string name="notify_when_new_episodes_are_available">Laat weten wanneer er nieuwe afleveringen beschikbaar zijn</string>
     <string name="com_parse_ui_progress_dialog_text">Aan het laden…</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Wachtwoord vergeten</u></string>
@@ -787,7 +784,6 @@
     <string name="apply_to_all_radio_stations">"Toepassen op alle radiozenders"</string>
     <string name="apply_to_current_radio_station">"Toepassen op huidige radiozender"</string>
     <string name="skip_silence">"Sla stilte over"</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">"Automatisch maximaal %d nieuwere en niet-afgespeelde afleveringen van de momenteel spelende podcast downloaden"</string>
     <string name="smart_download">"Slimme download"</string>
     <string name="download_anyway">"Toch downloaden"</string>
     <string name="download_anyway_message">"Negeer de WiFi- en batterij-instellingen, download de aflevering via de huidige netwerkverbinding! Dit kan je mobiele data kosten en batterij leegmaken. Doorgaan?"</string>
@@ -855,7 +851,6 @@
     <string name="newest_unread">"Nieuwste ongelezen"</string>
     <string name="no_articles_selected_">"Geen artikelen geselecteerd!"</string>
     <string name="_s_mark_all_articles_as_read_">"[ %1$s ]: markeer alle artikelen als gelezen?"</string>
-    <string name="mark_all_d_articles_as_read">"Markeer alle %d artikelen als gelezen?"</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">"Markeer alle artikelen die eerder dan dit artikel [%1$s] zijn gepubliceerd als gelezen?"</string>
     <string name="there_are_no_articles_">"Er zijn geen artikelen."</string>
     <string name="unreads_d">"Ongelezen: %d"</string>
@@ -920,10 +915,8 @@
     <string name="stats">Statistieken</string>
     <string name="time_saved_b_s_b"><![CDATA[Tijd bespaard: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Je luisterde: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Je luisterde: <b>%1$d</b> episodes, <b>%2$s</b>.]]></string>
     <string name="since_date">Sinds</string>
     <string name="reset_stats">Wis statistieken</string>
-    <string name="display_latest_d_episodes">Toon de laatste %d afleveringen</string>
     <string name="find_rss_feed">Vind RSS feed</string>
     <string name="there_are_no_rss_feeds">Er zijn geen RSS feeds!</string>
     <string name="got_it">Gevonden</string>
@@ -976,7 +969,6 @@
     <string name="clear_the_recents_list_">De recente afleveringenlijst wissen?</string>
     <string name="clear_the_list">Wis de lijst</string>
     <string name="play_as_video">Play as video</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Auto download up to %d older and unplayed episodes from current playing podcast</string>
     <string name="select_all_below">Select all below</string>
     <string name="select_all_above">Select all above</string>
     <string name="ignore_articles_in_title">Ignore articles in title</string>
@@ -987,7 +979,6 @@
     <string name="append_to_up_next">Append to Up next</string>
     <string name="only_include_episodes_with_user_notes">Only include episodes with user notes</string>
     <string name="description_preview">Description preview</string>
-    <string name="d_lines_of_text">%d lines</string>
     <string name="mark_current_playback_position">Mark current playback position</string>
     <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">Pick an image as the shortcut icon</string>
@@ -1153,16 +1144,12 @@
     <string name="grid_spacing">Grid spacing</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
-    <string name="mark_all_d_episodes_as_played">Mark all %d episodes as played?</string>
-    <string name="mark_all_d_episodes_as_unplayed">Mark all %d episodes as unplayed?</string>
-    <string name="mark_all_d_podcasts_as_played">Mark all %d podcasts as played?</string>
     <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
     <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
     <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
     <string name="mark_podcasts_as_played">Mark podcasts as played</string>
     <string name="mark_all_articles_as_read">Mark all articles as read</string>
     <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
-    <string name="mark_all_d_rss_feeds_as_read">Mark all %d feeds as read?</string>
     <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
     <string name="moving_downloads_failed">Moving downloads failed</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>

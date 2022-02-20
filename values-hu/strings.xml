@@ -229,7 +229,6 @@
     <string name="remember_the_choice">Emlékezzen erre a választásra</string>
     <string name="when_deleting_a_download">Amikor töröl egy letöltést</string>
     <string name="all_episodes">Minden epizód</string>
-    <string name="latest_d_episodes">Legújabb %d epizód</string>
     <string name="system_default">Rendszer alapbeállítás</string>
     <string name="every_one_hour">Óránként</string>
     <string name="every_three_hours">Három óránként</string>
@@ -381,7 +380,6 @@
     <string name="dim_screen_but_keep_screen_responsive">Alacsonyabb fényerő beállítása</string>
     <string name="chapters">Fejezetek</string>
     <string name="no_chapter_marks_found">Könyvjelzők nem találhatók.</string>
-    <string name="keep_latest_n_downloads">Tartsa meg a legújabb %1$d letöltést</string>
     <string name="keep_all_downloads">Az összes letöltés megtartása</string>
     <string name="playback_controls">Lejátszásvezérlők</string>
     <string name="hide_played_podcasts">Lejátszott podcastok elrejtése</string>
@@ -690,7 +688,6 @@
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Ne zárja be az alkalmazást adatok visszaállítása közben. Az összes adat visszaállítása után az alkalmazás újraindul.</string>
     <string name="playback_paused_on_muted_volume_">A lejátszás szünetel némított hang mellett!</string>
     <string name="number_of_episodes_to_auto_download">Automatikusan letöltendő epizódok száma</string>
-    <string name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">A legutóbbi %1$d epizód automatikus letöltése új epizódok lekérésekor</string>
     <string name="notify_when_new_episodes_are_available">Értesítés, ha új epizódok állnak rendelkezésre</string>
 
     <string name="com_parse_ui_progress_dialog_text">Betöltés…</string>
@@ -793,7 +790,6 @@
     <string name="apply_to_all_radio_stations">Használja az összes rádióállomásra</string>
     <string name="apply_to_current_radio_station">Használja az aktuális rádióállomásra</string>
     <string name="skip_silence">Csend átugrása</string>
-    <string name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">Max %d újabb és nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból</string>
     <string name="smart_download">Okos letöltés</string>
     <string name="download_anyway">Mindenképp töltse le</string>
     <string name="download_anyway_message">Hagyja figyelmen kívül a WiFi és az akkumulátor beállításokat, töltse le az epizódot az aktuális hálózati kapcsolattal most! Ez igénybe veheti mobiladat forgalmat és az akkumulátort merítheti. Folytatja?</string>
@@ -861,7 +857,6 @@
     <string name="newest_unread">Legújabb olvasatlan</string>
     <string name="no_articles_selected_">Nincsenek kiválasztott cikkek!</string>
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Megjelöl minden cikket olvasottként?</string>
-    <string name="mark_all_d_articles_as_read">Megjelöl %d cikket olvasottként?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Megjelöli olvasottként az e cikk [%1$s] előtt megjelent összes cikket?</string>
     <string name="there_are_no_articles_">Nincsenek cikkek.</string>
     <string name="unreads_d">Olvasatlan: %d</string>
@@ -926,10 +921,8 @@
     <string name="stats">Statisztika</string>
     <string name="time_saved_b_s_b"><![CDATA[Megtakarított idő: <b>%s</b>.]]></string>
     <string name="you_ve_listened_b_s_b"><![CDATA[Meghallgatva: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_d_s_b"><![CDATA[Meghallgatva: <b>%1$d</b> epizód, <b>%2$s</b>]]></string>
     <string name="since_date">Ettől a dátumtól</string>
     <string name="reset_stats">Statisztikák törlése</string>
-    <string name="display_latest_d_episodes">Legújabb %d epizód megjelenítése</string>
     <string name="find_rss_feed">RSS hírcsatorna keresése</string>
     <string name="there_are_no_rss_feeds">Nincsenek RSS-hírcsatornák!</string>
     <string name="got_it">Mehet</string>
@@ -980,7 +973,6 @@
     <string name="clear_the_recents_list_">Törli a Legutóbbiak listát?</string>
     <string name="clear_the_list">Lista törlése</string>
     <string name="play_as_video">Lejátszás videóként</string>
-    <string name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">Akár %d régebbi, még nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból</string>
     <string name="select_all_below">Összes lentebbi kiválasztása</string>
     <string name="select_all_above">Összes fentebbi kiválasztása</string>
     <string name="ignore_articles_in_title">Névelők figyelmen kívül hagyása</string>
@@ -991,7 +983,6 @@
     <string name="append_to_up_next">Hozzáadás a \'Következőkhöz\'</string>
     <string name="only_include_episodes_with_user_notes">Csak felhasználói megjegyzéseket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
-    <string name="d_lines_of_text">%d sor</string>
     <string name="mark_current_playback_position">Aktuális pozíció megjelölése</string>
     <string name="comma">, </string>
     <string name="pick_an_image_as_the_shortcut_icon">Kép választása a parancsikonhoz</string>
@@ -1157,16 +1148,12 @@
     <string name="grid_spacing">Rácstávolság</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[A <b>Letöltés</b> nem tudja használni a letöltési könyvtárat. Válasszon könyvtárat a belső tárhelyen vagy az SD-kártyán.]]></string>
     <string name="set_sleep_timer_after_this_episode">Alvó üzemmód bekapcsolása az epizód után</string>
-    <string name="mark_all_d_episodes_as_played">Megjelöli mind a %d epizódot lejátszottként?</string>
-    <string name="mark_all_d_episodes_as_unplayed">Megjelöli mind a %d epizódot nem lejátszottként?</string>
-    <string name="mark_all_d_podcasts_as_played">Megjelöli mind a %d podcastot lejátszottként?</string>
     <string name="mark_all_episodes_from_s_as_played">Megjelöli a [%s] összes epizódját lejátszottnak?</string>
     <string name="mark_all_episodes_as_played">Összes epizód megjelölése lejátszottként</string>
     <string name="mark_all_podcasts_as_played">Összes podcast megjelölése lejátszottként</string>
     <string name="mark_podcasts_as_played">Podcastok jelölése lejátszottként</string>
     <string name="mark_all_articles_as_read">Összes jelölése olvasottként</string>
     <string name="mark_all_rss_feeds_as_read">Összes jelölése olvasottként</string>
-    <string name="mark_all_d_rss_feeds_as_read">Megjelöli mind a %d hírcsatornát olvasottként?</string>
     <string name="mark_episode_as_unplayed">Epizód megjelölése nem lejátszottként</string>
     <string name="moving_downloads_failed">Letöltések áthelyezése nem sikerült</string>
     <string name="some_downloads_are_not_moved_to_s">Pár letöltés nem került át ide: %s</string>

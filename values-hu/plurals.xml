@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="you_ve_listened_b_d_s_b">
+        <item quantity="one"><![CDATA[Meghallgatva: <b>%1$d</b> epizód, <b>%2$s</b>]]></item>
+        <item quantity="other"><![CDATA[Meghallgatva: <b>%1$d</b> epizód, <b>%2$s</b>]]></item>
+    </plurals>
+
+    <plurals name="d_lines_of_text">
+        <item quantity="one">%1$d sor</item>
+        <item quantity="other">%1$d sor</item>
+    </plurals>
+
+    <plurals name="latest_d_episodes">
+        <item quantity="one">Legújabb %1$d epizód.</item>
+        <item quantity="other">Legújabb %1$d epizód.</item>
+    </plurals>
+
+    <plurals name="display_latest_d_episodes">
+        <item quantity="one">Legújabb %d epizód megjelenítése.</item>
+        <item quantity="other">Legújabb %d epizód megjelenítése.</item>
+    </plurals>
+
+    <plurals name="keep_latest_n_downloads">
+        <item quantity="one">Tartsa meg a legújabb %1$d letöltést.</item>
+        <item quantity="other">Tartsa meg a legújabb %1$d letöltést.</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_played">
+        <item quantity="one">Megjelöli mind a %1$d epizódot lejátszottként?</item>
+        <item quantity="other">Megjelöli mind a %1$d epizódot lejátszottként?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_unplayed">
+        <item quantity="one">Megjelöli mind a %1$d epizódot nem lejátszottként?</item>
+        <item quantity="other">Megjelöli mind a %1$d epizódot nem lejátszottként?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_podcasts_as_played">
+        <item quantity="one">Megjelöli mind a %1$d podcastot lejátszottként?</item>
+        <item quantity="other">Megjelöli mind a %1$d podcastot lejátszottként?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_rss_feeds_as_read">
+        <item quantity="one">Megjelöli mind a %1$d hírcsatornát olvasottként?</item>
+        <item quantity="other">Megjelöli mind a %1$d hírcsatornát olvasottként?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_read">
+        <item quantity="one">Megjelöl %d cikket olvasottként?</item>
+        <item quantity="other">Megjelöl %d cikket olvasottként?</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Max %d újabb és nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból.</item>
+        <item quantity="other">Max %d újabb és nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból.</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">Akár %d régebbi, még nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból.</item>
+        <item quantity="other">Akár %d régebbi, még nem lejátszott epizód automatikus letöltése az aktuálisan lejátszott podcastból.</item>
+    </plurals>
+
+    <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
+        <item quantity="one">A legutóbbi %1$d epizód automatikus letöltése új epizódok lekérésekor.</item>
+        <item quantity="other">A legutóbbi %1$d epizód automatikus letöltése új epizódok lekérésekor.</item>
+    </plurals>
+</resources>

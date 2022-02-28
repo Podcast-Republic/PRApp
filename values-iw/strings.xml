@@ -1207,4 +1207,6 @@
     <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
     <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
     <string name="grouping">Grouping</string>
+    <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
+    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Display chapter title and artwork in Now playing if chapter exists.</string>
 </resources>

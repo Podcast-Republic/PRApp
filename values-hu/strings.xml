@@ -1212,6 +1212,6 @@
     <string name="larger_number_has_higher_priority">A nagyobb érték magasabb prioritást eredményez.</string>
     <string name="rotate_by_podcast_priority">Forgatás podcast prioritás szerint</string>
     <string name="grouping">Csoportosítás</string>
-    <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
-    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Display chapter title and artwork in Now playing if chapter exists.</string>
+    <string name="display_chapter_title_and_artwork">Fejezetcím és borítókép megjelenítése</string>
+    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Fejezetcím és borítókép megjelenítése a Most lejátszottakban, ha vannak fejezetek.</string>
 </resources>

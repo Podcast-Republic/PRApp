@@ -1211,4 +1211,7 @@
     <string name="grouping">Zoskupovanie</string>
     <string name="display_chapter_title_and_artwork">Zobraziť názov kapitoly a obrázok</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Zobrazí názov kapitoly a obrázok v Teraz sa prehráva, ak kapitola existuje.</string>
+    <string name="skip_silence_level_mild">Mild</string>
+    <string name="skip_silence_level_moderate">Moderate</string>
+    <string name="skip_silence_level_strong">Strong</string>
 </resources>

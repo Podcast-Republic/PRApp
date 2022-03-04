@@ -1217,4 +1217,5 @@
     <string name="skip_silence_level_mild">Enyhe</string>
     <string name="skip_silence_level_moderate">Mérsékelt</string>
     <string name="skip_silence_level_strong">Erős</string>
+    <string name="subscribed_date">Subscribed date</string>
 </resources>

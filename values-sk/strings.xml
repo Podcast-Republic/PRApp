@@ -1214,4 +1214,5 @@
     <string name="skip_silence_level_mild">Mierna</string>
     <string name="skip_silence_level_moderate">Stredná</string>
     <string name="skip_silence_level_strong">Silná</string>
+    <string name="subscribed_date">Subscribed date</string>
 </resources>

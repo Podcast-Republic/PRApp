@@ -1222,4 +1222,5 @@
     <string name="skip_silence_level_mild">Mild</string>
     <string name="skip_silence_level_moderate">Moderate</string>
     <string name="skip_silence_level_strong">Strong</string>
+    <string name="subscribed_date">Subscribed date</string>
 </resources>

@@ -1214,8 +1214,7 @@
     <string name="grouping">Csoportosítás</string>
     <string name="display_chapter_title_and_artwork">Fejezetcím és borítókép megjelenítése</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Fejezetcím és borítókép megjelenítése a Most lejátszottakban, ha vannak fejezetek.</string>
-    <string name="skip_silence_level_mild">Enyhe</string>
-    <string name="skip_silence_level_moderate">Mérsékelt</string>
-    <string name="skip_silence_level_strong">Erős</string>
     <string name="subscribed_date">Előfizetés dátuma</string>
+    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Minimum silence duration to active removal: %.2fs.</string>
+    <string name="_2f_second_short_format">%.2fs</string>
 </resources>

@@ -1211,8 +1211,7 @@
     <string name="grouping">Zoskupovanie</string>
     <string name="display_chapter_title_and_artwork">Zobraziť názov kapitoly a obrázok</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Zobrazí názov kapitoly a obrázok v Teraz sa prehráva, ak kapitola existuje.</string>
-    <string name="skip_silence_level_mild">Mierna</string>
-    <string name="skip_silence_level_moderate">Stredná</string>
-    <string name="skip_silence_level_strong">Silná</string>
     <string name="subscribed_date">Dátum odberu</string>
+    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Minimum silence duration to active removal: %.2fs.</string>
+    <string name="_2f_second_short_format">%.2fs</string>
 </resources>

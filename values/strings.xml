@@ -1235,4 +1235,6 @@
     <string name="subscribed_date">Subscribed date</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Minimum silence duration to active removal: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
+    <string name="only_show_podcasts_having_new_release_after_the_selected_date">Only show podcasts having new release after the selected date.</string>
+    <string name="only_show_episodes_published_after_the_selected_date">Only show episodes published after the selected date.</string>
 </resources>

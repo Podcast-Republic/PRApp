@@ -1083,15 +1083,15 @@
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remover episódios obsoletos se eles não estiverem mais disponíveis no feed do podcast.</string>
     <string name="mark_as_played">Marcar como reproduzido</string>
     <string name="swipe_left_action">Ao deslizar para a esquerda</string>
-    <string name="nothing_in_up_next">Nothing in Up Next.</string>
-    <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
-    <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
-    <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
-    <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
-    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
-    <string name="adjust_playback_position">Adjust playback position</string>
-    <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
+    <string name="nothing_in_up_next">Não há nada para ser reproduzido a seguir.</string>
+    <string name="syncing_article_changes_s">A sincronizar mudanças de artigo: %1$s.</string>
+    <string name="syncing_added_tags_playlists_filters_d">A sincronizar tags adicionadas/playlists/filtros: %1$d.</string>
+    <string name="syncing_removed_tags_playlists_fiilters_d">A sincronizar tags removidas/playlists/filtros: %1$d.</string>
+    <string name="syncing_tag_playlist_filter_changes_">A sincronizar mudanças de tag/playlist/filtro…</string>
+    <string name="syncing_added_rss_feeds_d">A sincronizar feeds RSS adicionados: %1$d.</string>
+    <string name="syncing_removed_rss_feeds_d">A sincronizar feeds RSS removidos: %1$d.</string>
+    <string name="adjust_playback_position">Ajustar posição de reprodução</string>
+    <string name="allow_to_change_playback_position_from_notification_">Permitir mudar a posição de reprodução através da notificação.</string>
     <string name="zoom_image">Zoom image</string>
     <string name="mark_all_as_unplayed">Mark all as unplayed</string>
     <string name="default_playlist">Default playlist</string>
@@ -1212,4 +1212,6 @@
     <string name="subscribed_date">Subscribed date</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Minimum silence duration to active removal: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
+    <string name="only_show_podcasts_having_new_release_after_the_selected_date">Only show podcasts having new release after the selected date.</string>
+    <string name="only_show_episodes_published_after_the_selected_date">Only show episodes published after the selected date.</string>
 </resources>

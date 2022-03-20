@@ -1224,4 +1224,5 @@
     <string name="lock_timeline_bar_dragging">Lock timeline bar dragging</string>
     <string name="unlock_timeline_bar_dragging">Unlock timeline bar dragging</string>
     <string name="play_all_randomly">Play all randomly</string>
+    <string name="sort_by_relevance">Relevance</string>
 </resources>

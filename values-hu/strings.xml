@@ -1222,4 +1222,5 @@
     <string name="lock_timeline_bar_dragging">Az idővonalsáv húzásának zárolása</string>
     <string name="unlock_timeline_bar_dragging">Az idővonalsáv húzásának feloldása</string>
     <string name="play_all_randomly">Összes lejátszása véletlenszerűen</string>
+    <string name="sort_by_relevance">Relevance</string>
 </resources>

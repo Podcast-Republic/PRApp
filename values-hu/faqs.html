@@ -114,6 +114,7 @@
 			<li><a href="#q170909a">Mi az a Túlcsorduló (Overflow) menü?</a></li>
 			<li><a href="#q191025a">Miért nem frissül az alkalmazás, vagy miért nem fejezi be a lejátszást, amikor az alkalmazás háttérbe kerül vagy bezárják?</a></li>
 			<li><a href="#q200909a">Vezérelhető-e a lejátszás harmadik féltől származó alkalmazásokon, például a Taskeren vagy Macrodroidon keresztül?</a></li>
+			<li><a href="#q220422a">How to control the app using Intents with Tasker?</a></li>
 			<li><a href="#q201223a">Hogyan fér hozzá az alkalmazás az eszköz tárhelyéhez?</a></li>
 			<li><a href="#q201223b">Miért nem jelennek meg a podcast-információk Bluetoothon keresztül az autómban?</a></li>
 		</ul>
@@ -520,6 +521,39 @@ If you notice any bug in this app you can enable the <strong>Debug log</strong> 
    <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver
 	<p>&nbsp;</p>
 	
+	<a name="q220422a"></a><strong>How to control the app using Intents with Tasker?</strong><br />
+	The app exports various intents which you can use with third party apps such as Tasker.<br><br>
+	
+	<b>Exported intent actions</b>:
+	<ul>
+	<li>msa.app.action.view_playlist: open to <b>Playlists</b> tab. To open to a specific playlist list please provide "PlaylistName" parameter.</li>
+   <li>msa.app.action.view_downloading: open to <b>Downloads</b> > <b>Downloading</b> tab.</li>
+   <li>msa.app.action.view_download: open to <b>Downloads</b> > <b>Completed</b> tab.</li>
+   <li>msa.app.action.view_up_next: open to <b>Up next</b> list.</li>
+   <li>msa.app.action.view_episodes: open to <b>Episodes</b> tab. To open to a specific episodes filter list please provide "EpisodeFilterName" parameter.</li>
+   <li>msa.app.action.view_podcasts: open to <b>Subscriptions</b> > <b>Podcasts</b> tab.</li>
+   <li>msa.app.action.view_radios: open to <b>Subscriptions</b> > <b>Radios</b> tab.</li>
+   <li>msa.app.action.view_text_feeds: open to <b>Subscriptions</b> > <b>RSS feeds</b> tab.</li>
+   <li>msa.app.action.view_history_stats: open to <b>History & Stats</b> page.</li>
+   <li>msa.app.action.view_history: open to <b>History & Stats</b> > <b>History</b> tab.</li>
+   <li>msa.app.action.view_stats: open to <b>History & Stats</b> > <b>Stats</b> tab.</li>
+   <li>msa.app.action.view_car_mode: open to <b>Car mode</b> page.</li>
+   <li>msa.app.action.view_alarms: open to <b>Alarms</b> list.</li>
+   </ul>
+   
+  	For example, the following intent opens the <b>Audio</b> playlist:<br>
+  <b>	Intent action</b>: "msa.app.action.view_playlist"<br>
+  	<b>Intent data</b>: "PlaylistName" "Audio"<br>
+  	<b>Package name</b>: com.itunestoppodcastplayer.app.StartupActivity<br>
+  	<b>Component name</b>: com.itunestoppodcastplayer.app<br><br>
+
+	The following intent opens the <b>Recents</b> episodes filter:<br>
+  	<b>Intent action</b>: "msa.app.action.view_episodes"<br>
+  	<b>Intent data</b>: "EpisodeFilterName" "Recents"<br>
+  	<b>Package name</b>: com.itunestoppodcastplayer.app.StartupActivity<br>
+  	<b>Component name</b>: com.itunestoppodcastplayer.app
+  	<p>&nbsp;</p>
+  	
 	<a name="q201223a"></a><strong>Hogyan fér hozzá az alkalmazás az eszköz tárhelyéhez?</strong><br />
 	Android 4.4 introduces the <b>Storage Access Framework</b> (SAF) to secure user’s files. SAF allows users to grant the access permission to a single file or directory dynamically instead of granting the storage permission to the whole storage blankly during the app installation. 
 	This provides better privacy protection for users. User privacy is the #1 consideration of this app. Therefore, this app uses SAF when dealing with your storage. 

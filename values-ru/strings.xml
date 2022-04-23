@@ -1112,7 +1112,7 @@
     <string name="at_lease_one_playback_control_is_required">" - Требуется по крайней мере один элемент управления воспроизведением."</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Автоматическая пауза таймера сна при приостановке воспроизведения.</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Автоматически перематывать на %1$d - %2$d секунд при возобновлении воспроизведения.</string>
-    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Автоматическое включение таймера сна при начале воспроизведения в промежутке [%1$s -% 2$s].</string>
+    <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Автоматическое включение таймера сна при начале воспроизведения в промежутке [%1$s -%2$s].</string>
     <string name="auto_pause_sleep_timer">Авто-пауза</string>
     <string name="auto_start_sleep_timer">Авто-старт</string>
     <string name="bluetooth_auto_play_workaround">Обойти автовоспроизведение Bluetooth</string>
@@ -1217,4 +1217,6 @@
     <string name="unlock_timeline_bar_dragging">Unlock timeline bar dragging</string>
     <string name="play_all_randomly">Play all randomly</string>
     <string name="sort_by_relevance">Relevance</string>
+    <string name="use_podcast_genre_as_tag">Use podcast genre as tag</string>
+    <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Add podcast genre as a tag when tagging a podcast.</string>
 </resources>

@@ -1212,9 +1212,11 @@
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Minimum silence duration to active removal: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
     <string name="only_show_podcasts_having_new_release_after_the_selected_date">Only show podcasts having new release after the selected date.</string>
-    <string name="only_show_episodes_published_after_the_selected_date">Only show episodes published after the selected date.</string>
+    <string name="only_show_episodes_published_after_the_selected_date">Pouze podcasty s epizodami vydanými po datu.</string>
     <string name="lock_timeline_bar_dragging">Lock timeline bar dragging</string>
     <string name="unlock_timeline_bar_dragging">Unlock timeline bar dragging</string>
     <string name="play_all_randomly">Play all randomly</string>
     <string name="sort_by_relevance">Relevance</string>
+    <string name="use_podcast_genre_as_tag">Use podcast genre as tag</string>
+    <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Add podcast genre as a tag when tagging a podcast.</string>
 </resources>

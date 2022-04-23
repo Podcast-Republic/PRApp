@@ -1223,4 +1223,6 @@
     <string name="unlock_timeline_bar_dragging">Az idővonalsáv húzásának feloldása</string>
     <string name="play_all_randomly">Összes lejátszása véletlenszerűen</string>
     <string name="sort_by_relevance">Relevancia</string>
+    <string name="use_podcast_genre_as_tag">Use podcast genre as tag</string>
+    <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Add podcast genre as a tag when tagging a podcast.</string>
 </resources>

@@ -1222,4 +1222,6 @@
     <string name="sort_by_relevance">Relevantnosť</string>
     <string name="use_podcast_genre_as_tag">Použiť žáner podcastu ako tag</string>
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Pridať žáner podcastu ako tag pri tagovaní podcastu.</string>
+    <string name="filter_podcasts_by_tag">Filter podcasts by tag</string>
+    <string name="filter_podcasts_by_playlist">Filter podcasts by playlist</string>
 </resources>

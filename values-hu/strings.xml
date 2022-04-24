@@ -1225,4 +1225,6 @@
     <string name="sort_by_relevance">Relevancia</string>
     <string name="use_podcast_genre_as_tag">Használja a podcast műfaját címkeként</string>
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Podcast műfajának hozzáadása címkeként podcastok címkézésekor.</string>
+    <string name="filter_podcasts_by_tag">Filter podcasts by tag</string>
+    <string name="filter_podcasts_by_playlist">Filter podcasts by playlist</string>
 </resources>

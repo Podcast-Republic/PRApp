@@ -815,7 +815,7 @@
     <string name="paused_network_is_metered">"Pausiert: Getaktetes Netzwerk"</string>
     <string name="download_date">"Download-Datum"</string>
     <string name="create_an_episode_filter">"Episodenfilter erstellen"</string>
-    <string name="play_time">"Wiedergabedauer"</string>
+    <string name="play_time">"Dauer"</string>
     <string name="play_all_newer_episodes">"Wiedergabe aller neueren Episoden"</string>
     <string name="see_what_s_new_in_this_version_s">"Sieh, was in dieser Version neu ist: %s"</string>
     <string name="enabled_buttons_">"Aktivierte Schaltflächen: "</string>

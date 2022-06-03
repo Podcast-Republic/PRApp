@@ -1226,4 +1226,10 @@
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Add podcast genre as a tag when tagging a podcast.</string>
     <string name="filter_podcasts_by_tag">Filter podcasts by tag</string>
     <string name="filter_podcasts_by_playlist">Filter podcasts by playlist</string>
+    <string name="copy">Copy</string>
+    <string name="episode_description_has_been_copied_to_clipboard_">Episode description has been copied to clipboard.</string>
+    <string name="battery_optimizations">Battery optimizations</string>
+    <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Some of the app features can\'t work as designed due to battery optimizations. Please go to Android Settings to turn off battery optimizations for this app. Please checkout https://dontkillmyapp.com/ for more info.</string>
+    <string name="clear_history">Clear history</string>
+    <string name="no_results">No results</string>
 </resources>

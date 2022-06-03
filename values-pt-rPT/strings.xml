@@ -338,14 +338,14 @@
     <string name="video">"Vídeo"</string>
     <string name="account_and_syncing">"Sincronizar entre dispositivos"</string>
     <string name="playback_mode_shuffle">"Aleatório"</string>
-	<string name="update_on_charging">"Verificar actualização durante o carregamento"</string>
-	<string name="update_podcasts_only_when_battery_is_charging">"Verificar actualização dos podcasts apenas durante o carregamento da bateria"</string>
-	<string name="filename">"Nome do ficheiro"</string>
-	<string name="auto_backup_saved_to_">"Cópia de segurança automática guardada em [%1$s]"</string>
+    <string name="update_on_charging">"Verificar actualização durante o carregamento"</string>
+    <string name="update_podcasts_only_when_battery_is_charging">"Verificar actualização dos podcasts apenas durante o carregamento da bateria"</string>
+    <string name="filename">"Nome do ficheiro"</string>
+    <string name="auto_backup_saved_to_">"Cópia de segurança automática guardada em [%1$s]"</string>
     <string name="download_removed">"Transferência removida"</string>
-	<string name="load_artworks_only_when_connected_to_wifi">"Mostrar imagens apenas quando ligado via Wi-Fi"</string>
-	<string name="load_artwork_via_wifi_only">"Mostrar imagens apenas via Wi-Fi"</string>
-	<string name="when_pressing_an_episode_in_list">"Ao pressionar episódio na playlist"</string>
+    <string name="load_artworks_only_when_connected_to_wifi">"Mostrar imagens apenas quando ligado via Wi-Fi"</string>
+    <string name="load_artwork_via_wifi_only">"Mostrar imagens apenas via Wi-Fi"</string>
+    <string name="when_pressing_an_episode_in_list">"Ao pressionar episódio na playlist"</string>
     <string name="start_playing">"Iniciar sempre a reprodução"</string>
     <string name="display_episode_artwork">"Mostrar imagem do episódio"</string>
     <string name="ringtone">"Tom de toque"</string>
@@ -573,7 +573,7 @@
     <string name="buy_me_a_coffee">"Pague-me um café"</string>
     <string name="clear_the_play_history_">"Limpar o histórico de reprodução?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Quando uma transferência é removida por se atingir a quota de armazenamento de transferências ou o limite de transferências"</string>
-	<string name="keep_all">Manter todos</string>
+    <string name="keep_all">Manter todos</string>
     <string name="playlist">"Lista de reprodução"</string>
     <string name="category">"Categoria"</string>
     <string name="update_podcasts_when_app_is_starting">"Actualizar podcasts ao iniciar a aplicação"</string>
@@ -1222,4 +1222,10 @@
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Add podcast genre as a tag when tagging a podcast.</string>
     <string name="filter_podcasts_by_tag">Filter podcasts by tag</string>
     <string name="filter_podcasts_by_playlist">Filter podcasts by playlist</string>
+    <string name="copy">Copy</string>
+    <string name="episode_description_has_been_copied_to_clipboard_">Episode description has been copied to clipboard.</string>
+    <string name="battery_optimizations">Battery optimizations</string>
+    <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Some of the app features can\'t work as designed due to battery optimizations. Please go to Android Settings to turn off battery optimizations for this app. Please checkout https://dontkillmyapp.com/ for more info.</string>
+    <string name="clear_history">Clear history</string>
+    <string name="no_results">No results</string>
 </resources>

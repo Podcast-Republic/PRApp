@@ -26,23 +26,23 @@
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Mark %1$d episode as played?</item>
-        <item quantity="other">Mark all %1$d episodes as played?</item>
+        <item quantity="one">Marcar %1$d episódio como reproduzido?</item>
+        <item quantity="other">Marcar todos os %1$d episódios como reproduzidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Mark %1$d episode as unplayed?</item>
-        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+        <item quantity="one">Marcar %1$d episódio como não reproduzido?</item>
+        <item quantity="other">Marcar todos os %1$d episódios como não reproduzidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Mark %1$d podcast as played?</item>
-        <item quantity="other">Mark all %1$d podcasts as played?</item>
+        <item quantity="one">Marcar %1$d podcast como reproduzido?</item>
+        <item quantity="other">Marcar todos os %1$d podcasts como reproduzidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one">Marcar %1$d feed como lido?</item>
+        <item quantity="other">Marcar todos os %1$d feeds como lidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">

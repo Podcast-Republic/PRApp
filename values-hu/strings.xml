@@ -209,8 +209,8 @@
     <string name="add_to_new_tag">Hozzáadás új címkéhez</string>
     <string name="enter_new_tag_name">Írja be az új címke nevét</string>
     <string name="car_mode">Autós mód</string>
-    <string name="update_artwork">Borító grafika frissítése</string>
-    <string name="enter_new_artwork_url">Adjon meg egy új borító grafika URL címet</string>
+    <string name="update_artwork">Borítókép frissítése</string>
+    <string name="enter_new_artwork_url">Adjon meg egy új borítókép URL címet</string>
     <string name="sleep_timer">Alvó üzemmód időzítő</string>
     <string name="last_updated_s">Legutóbbi frissítés: %1$s</string>
     <string name="fast_forward">Gyors előretekerés</string>
@@ -348,7 +348,7 @@
     <string name="load_artwork_via_wifi_only">Borítóképek csak WiFi-n</string>
     <string name="when_pressing_an_episode_in_list">Amikor az epizódra kattint</string>
     <string name="start_playing">Mindig kezdje el játszani</string>
-    <string name="display_episode_artwork">Borító grafika megjelenítése</string>
+    <string name="display_episode_artwork">Borítókép megjelenítése</string>
     <string name="ringtone">Csengőhang</string>
     <string name="vibrate">Rezgés</string>
     <string name="light">LED világítás</string>
@@ -1056,11 +1056,11 @@
     <string name="export_episode_list">Epizódlista exportálása</string>
     <string name="as_html_file">HTML fájlként</string>
     <string name="as_json_file">JSON fájlként</string>
-    <string name="display_episode_artwork_retrieved_from_podcast_feed_">A podcast feedből lekért epizód grafika megjelenítése</string>
-    <string name="use_podcast_artwork_as_episode_artwork_">Használja a podcast grafikát epizód grafikaként.</string>
-    <string name="use_embedded_artwork">Beágyazott grafika használata</string>
-    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Elsődlegesen a letöltött podcast fájlból származó grafika használata</string>
-    <string name="display_episode_artwork_retrieved_from_media_file_">A médiafájlból letöltött epizód grafika megjelenítése.</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">A podcast feedből lekért epizódkép megjelenítése</string>
+    <string name="use_podcast_artwork_as_episode_artwork_">Használja a podcastképet epizód grafikaként.</string>
+    <string name="use_embedded_artwork">Beágyazott kép használata</string>
+    <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Elsődlegesen a letöltött podcast fájlból származó kép használata</string>
+    <string name="display_episode_artwork_retrieved_from_media_file_">A médiafájlból letöltött epizódkép megjelenítése.</string>
     <string name="not_tagged">Címke nélküliek</string>
     <string name="save_backup_to">Biztonsági másolat mentése ide</string>
     <string name="local_storage">Helyi tárolóeszköz</string>
@@ -1074,7 +1074,7 @@
     <string name="sunrise_time">Napkelte ideje</string>
     <string name="sunset_time">Napnyugta ideje</string>
     <string name="amoled_black">AMOLED fekete</string>
-    <string name="episode_artwork">Epizód grafika</string>
+    <string name="episode_artwork">Epizódkép</string>
     <string name="taag_radio_stations">Rádiók címkézése</string>
     <string name="tag_rss_feeds">Hírcsatornák címkézése</string>
     <string name="download_episode_if_duration_is_greater_than_d_minutes_">Epizód letöltése, ha az időtartama több mint %d perc.</string>
@@ -1233,10 +1233,10 @@
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Az alkalmazás egyes funkciói az akkumulátor optimalizálása miatt nem működnek a tervezett módon. Az Android-beállításokban kapcsolja ki az alkalmazás akkumulátor-optimalizálását. További információkért kérjük, tekintse meg a https://dontkillmyapp.com/ weboldalt.</string>
     <string name="clear_history">Előzmények törlése</string>
     <string name="no_results">Nincsenek találatok</string>
-    <string name="reset_all_settings_back_to_default_">Reset all settings back to default.</string>
-    <string name="this_will_reset_all_settings_back_to_default_continue_">This will reset all settings back to default. Continue?</string>
-    <string name="artwork">Artwork</string>
-    <string name="view_schedule_of_radio_station">View schedule of radio station</string>
-    <string name="schedule">Schedule</string>
-    <string name="loading_schedule_">Loading schedule…</string>
+    <string name="reset_all_settings_back_to_default_">Beállítások visszaállítása alapértelmezettre.</string>
+    <string name="this_will_reset_all_settings_back_to_default_continue_">Ez visszaállítja az összes beállítást az alapértelmezettre. Folytatja?</string>
+    <string name="artwork">Borítókép</string>
+    <string name="view_schedule_of_radio_station">A rádióállomás műsorrendjének megtekintése</string>
+    <string name="schedule">Műsorrend</string>
+    <string name="loading_schedule_">Műsorrend betöltése…</string>
 </resources>

@@ -1230,10 +1230,10 @@
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Niektoré funkcie aplikácie nemôžu fungovať tak, ako boli navrhnuté, kvôli optimalizácii batérie. Ak chcete vypnúť optimalizáciu batérie pre túto aplikáciu, prejdite do nastavení Androidu. Pre viac informácií si pozrite https://dontkillmyapp.com/.</string>
     <string name="clear_history">Vyčistiť históriu</string>
     <string name="no_results">Žiadne výsledky</string>
-    <string name="reset_all_settings_back_to_default_">Reset all settings back to default.</string>
-    <string name="this_will_reset_all_settings_back_to_default_continue_">This will reset all settings back to default. Continue?</string>
-    <string name="artwork">Artwork</string>
-    <string name="view_schedule_of_radio_station">View schedule of radio station</string>
-    <string name="schedule">Schedule</string>
-    <string name="loading_schedule_">Loading schedule…</string>
+    <string name="reset_all_settings_back_to_default_">Resetovať všetky nastavenia na predvolené hodnoty.</string>
+    <string name="this_will_reset_all_settings_back_to_default_continue_">Týmto sa resetujú všetky nastavenia na predvolené hodnoty. Pokračovať?</string>
+    <string name="artwork">Obrázok</string>
+    <string name="view_schedule_of_radio_station">Zobraziť program rádiovej stanice</string>
+    <string name="schedule">Program</string>
+    <string name="loading_schedule_">Načítava sa program…</string>
 </resources>

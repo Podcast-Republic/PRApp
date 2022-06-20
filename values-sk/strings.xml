@@ -1174,7 +1174,7 @@
     <string name="remove_all_episodes_above">Odstrániť všetky nad</string>
     <string name="remove_all_episodes_below">Odstrániť všetky pod</string>
     <string name="jump_to_previous_episode">Prejsť na predchádzajúcu epizódu</string>
-    <string name="jump_to_beginning">Prejsť na začiatok</string>
+    <string name="jump_to_the_beginning">Prejsť na začiatok</string>
     <string name="jump_to_previous_chapter">Prejsť na predchádzajúcu kapitolu</string>
     <string name="when_i_press_previous_button">Keď stlačím tlačidlo predchádzajúce</string>
     <string name="playback_mode_single_episode_load_next">Jedna epizóda (načítať ďalšiu)</string>
@@ -1230,4 +1230,10 @@
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Niektoré funkcie aplikácie nemôžu fungovať tak, ako boli navrhnuté, kvôli optimalizácii batérie. Ak chcete vypnúť optimalizáciu batérie pre túto aplikáciu, prejdite do nastavení Androidu. Pre viac informácií si pozrite https://dontkillmyapp.com/.</string>
     <string name="clear_history">Vyčistiť históriu</string>
     <string name="no_results">Žiadne výsledky</string>
+    <string name="reset_all_settings_back_to_default_">Reset all settings back to default.</string>
+    <string name="this_will_reset_all_settings_back_to_default_continue_">This will reset all settings back to default. Continue?</string>
+    <string name="artwork">Artwork</string>
+    <string name="view_schedule_of_radio_station">View schedule of radio station</string>
+    <string name="schedule">Schedule</string>
+    <string name="loading_schedule_">Loading schedule…</string>
 </resources>

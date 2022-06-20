@@ -97,7 +97,7 @@
     <string name="jump_to_the_end">Отметить прослушаным</string>
     <string name="jump_to_previous_episode">К предыдущему выпуску</string>
     <string name="jump_to_previous_chapter">К предыдущей главе</string>
-    <string name="jump_to_beginning">В начало</string>
+    <string name="jump_to_the_beginning">В начало</string>
     <string name="delete_download">Удалить загрузку</string>
     <string name="pause_download">Приостановить загрузку</string>
     <string name="resume_download">Возобновить загрузку</string>
@@ -1227,4 +1227,10 @@
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Some of the app features can\'t work as designed due to battery optimizations. Please go to Android Settings to turn off battery optimizations for this app. Please checkout https://dontkillmyapp.com/ for more info.</string>
     <string name="clear_history">Clear history</string>
     <string name="no_results">No results</string>
+    <string name="reset_all_settings_back_to_default_">Reset all settings back to default.</string>
+    <string name="this_will_reset_all_settings_back_to_default_continue_">This will reset all settings back to default. Continue?</string>
+    <string name="artwork">Artwork</string>
+    <string name="view_schedule_of_radio_station">View schedule of radio station</string>
+    <string name="schedule">Schedule</string>
+    <string name="loading_schedule_">Loading schedule…</string>
 </resources>

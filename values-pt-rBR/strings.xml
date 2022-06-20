@@ -1172,7 +1172,7 @@
     <string name="remove_all_episodes_above">Remover todos acima</string>
     <string name="remove_all_episodes_below">Remover todos abaixo</string>
     <string name="jump_to_previous_episode">Ir para o episódio anterior</string>
-    <string name="jump_to_beginning">Ir para o início</string>
+    <string name="jump_to_the_beginning">Ir para o início</string>
     <string name="jump_to_previous_chapter">Ir para o capítulo anterior</string>
     <string name="when_i_press_previous_button">Quando eu pressiono o botão Anterior</string>
     <string name="playback_mode_single_episode_load_next">Episódio único (carregar em seguida)</string>
@@ -1228,4 +1228,10 @@
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Alguns dos recursos do aplicativo não podem funcionar conforme projetado devido a otimizações de bateria. Acesse as Configurações do Android para desativar as otimizações de bateria para este aplicativo. Por favor, verifique https://dontkillmyapp.com/ para mais informações.</string>
     <string name="clear_history">Limpar histórico</string>
     <string name="no_results">Nenhum resultado</string>
+    <string name="reset_all_settings_back_to_default_">Reset all settings back to default.</string>
+    <string name="this_will_reset_all_settings_back_to_default_continue_">This will reset all settings back to default. Continue?</string>
+    <string name="artwork">Artwork</string>
+    <string name="view_schedule_of_radio_station">View schedule of radio station</string>
+    <string name="schedule">Schedule</string>
+    <string name="loading_schedule_">Loading schedule…</string>
 </resources>

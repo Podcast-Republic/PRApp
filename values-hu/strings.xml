@@ -1177,7 +1177,7 @@
     <string name="remove_all_episodes_above">Fentebbiek eltávolítása</string>
     <string name="remove_all_episodes_below">Lentebbiek eltávolítása</string>
     <string name="jump_to_previous_episode">Ugrás az előző epizódra</string>
-    <string name="jump_to_beginning">Ugrás az elejére</string>
+    <string name="jump_to_the_beginning">Ugrás az elejére</string>
     <string name="jump_to_previous_chapter">Ugrás az előző fejezetre</string>
     <string name="when_i_press_previous_button">Az Előző gomb megnyomásakor</string>
     <string name="playback_mode_single_episode_load_next">Egy epizód (következő betöltésével)</string>
@@ -1233,4 +1233,10 @@
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Az alkalmazás egyes funkciói az akkumulátor optimalizálása miatt nem működnek a tervezett módon. Az Android-beállításokban kapcsolja ki az alkalmazás akkumulátor-optimalizálását. További információkért kérjük, tekintse meg a https://dontkillmyapp.com/ weboldalt.</string>
     <string name="clear_history">Előzmények törlése</string>
     <string name="no_results">Nincsenek találatok</string>
+    <string name="reset_all_settings_back_to_default_">Reset all settings back to default.</string>
+    <string name="this_will_reset_all_settings_back_to_default_continue_">This will reset all settings back to default. Continue?</string>
+    <string name="artwork">Artwork</string>
+    <string name="view_schedule_of_radio_station">View schedule of radio station</string>
+    <string name="schedule">Schedule</string>
+    <string name="loading_schedule_">Loading schedule…</string>
 </resources>

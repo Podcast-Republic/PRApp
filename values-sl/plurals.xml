@@ -70,6 +70,13 @@
         <item quantity="other">Označi vseh %d člankov kot prebrani?</item>
     </plurals>
 
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="one">Mark %1$d article as unread?</item>
+        <item quantity="two">Mark all %1$d articles as unread?</item>
+        <item quantity="few">Mark all %1$d articles as unread?</item>
+        <item quantity="other">Mark all %1$d articles as unread?</item>
+    </plurals>
+
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>
         <item quantity="two">Samodejno prenesite do %1$d novejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>

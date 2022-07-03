@@ -50,6 +50,11 @@
         <item quantity="other">Märkige kõik %d artiklid loetuks?</item>
     </plurals>
 
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="one">Mark %1$d article as unread?</item>
+        <item quantity="other">Mark all %1$d articles as unread?</item>
+    </plurals>
+
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">Automaatne allalaadimine kuni %d uuematest ja mängimata episoodidest praegusest podcastist.</item>
         <item quantity="other">Automaatne allalaadimine kuni %d uuematest ja mängimata episoodidest praegusest podcastist.</item>

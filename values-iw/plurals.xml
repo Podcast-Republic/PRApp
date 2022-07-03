@@ -70,6 +70,13 @@
         <item quantity="other">לסמן את כל %d המאמרים כנקראים?</item>
     </plurals>
 
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="one">Mark %1$d article as unread?</item>
+        <item quantity="two">Mark all %1$d articles as unread?</item>
+        <item quantity="many">Mark all %1$d articles as unread?</item>
+        <item quantity="other">Mark all %1$d articles as unread?</item>
+    </plurals>
+
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">"הורדה אוטומטית של עד %d פרקים חדשים מהפרק שמתנגן כעת"</item>
         <item quantity="two">"הורדה אוטומטית של עד %d פרקים חדשים מהפרק שמתנגן כעת"</item>

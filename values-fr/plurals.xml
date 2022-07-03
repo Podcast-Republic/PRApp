@@ -2,66 +2,85 @@
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one"><![CDATA[Vous avez écouté : <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
+        <item quantity="many"><![CDATA[Vous avez écouté : <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
         <item quantity="other"><![CDATA[Vous avez écouté : <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
     </plurals>
 
     <plurals name="d_lines_of_text">
         <item quantity="one">%1$d ligne</item>
+        <item quantity="many">%1$d lignes</item>
         <item quantity="other">%1$d lignes</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
         <item quantity="one">Les %1$d derniers épisode.</item>
+        <item quantity="many">Les %1$d derniers épisodes.</item>
         <item quantity="other">Les %1$d derniers épisodes.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
         <item quantity="one">Afficher les derniers %d épisode.</item>
+        <item quantity="many">Afficher les derniers %d épisodes.</item>
         <item quantity="other">Afficher les derniers %d épisodes.</item>
     </plurals>
 
     <plurals name="keep_latest_n_downloads">
         <item quantity="one">%1$d derniers téléchargement.</item>
+        <item quantity="many">%1$d derniers téléchargements.</item>
         <item quantity="other">%1$d derniers téléchargements.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
         <item quantity="one">Mark %1$d episode as played ?</item>
+        <item quantity="many">Mark all %1$d episodes as played ?</item>
         <item quantity="other">Mark all %1$d episodes as played ?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
         <item quantity="one">Mark %1$d episode as unplayed ?</item>
+        <item quantity="many">Mark all %1$d episodes as unplayed ?</item>
         <item quantity="other">Mark all %1$d episodes as unplayed ?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
         <item quantity="one">Mark %1$d podcast as played ?</item>
+        <item quantity="many">Mark all %1$d podcasts as played ?</item>
         <item quantity="other">Mark all %1$d podcasts as played ?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
         <item quantity="one">Mark %1$d feed as read ?</item>
+        <item quantity="many">Mark all %1$d feeds as read ?</item>
         <item quantity="other">Mark all %1$d feeds as read ?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
         <item quantity="one">Marquer tous les %d articles comme lus ?</item>
+        <item quantity="many">Marquer tous les %d articles comme lus ?</item>
         <item quantity="other">Marquer tous les %d articles comme lus ?</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="one">Mark %1$d article as unread?</item>
+        <item quantity="many">Mark all %1$d articles as unread?</item>
+        <item quantity="other">Mark all %1$d articles as unread?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">"Téléchargements automatiques jusqu'aux %d épisode récents et non lus depuis celui en cours de lecture."</item>
+        <item quantity="many">"Téléchargements automatiques jusqu'aux %d épisodes récents et non lus depuis celui en cours de lecture."</item>
         <item quantity="other">"Téléchargements automatiques jusqu'aux %d épisodes récents et non lus depuis celui en cours de lecture."</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">"Téléchargement automatique jusqu’à %d d’épisode anciens et non lus à partir du podcast en cours de lecture."</item>
+        <item quantity="many">"Téléchargement automatique jusqu’à %d d’épisodes anciens et non lus à partir du podcast en cours de lecture."</item>
         <item quantity="other">"Téléchargement automatique jusqu’à %d d’épisodes anciens et non lus à partir du podcast en cours de lecture."</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
         <item quantity="one">Télécharger automatiquement jusqu’à %1$d les épisode les plus récents lorsque de nouveaux épisodes sont récupérés.</item>
+        <item quantity="many">Télécharger automatiquement jusqu’à %1$d les épisodes les plus récents lorsque de nouveaux épisodes sont récupérés.</item>
         <item quantity="other">Télécharger automatiquement jusqu’à %1$d les épisodes les plus récents lorsque de nouveaux épisodes sont récupérés.</item>
     </plurals>
 </resources>

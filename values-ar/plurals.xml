@@ -90,6 +90,15 @@
         <item quantity="other">Mark all %1$d articles as read?</item>
     </plurals>
 
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="zero">Mark %1$d article as unread?</item>
+        <item quantity="one">Mark %1$d article as unread?</item>
+        <item quantity="two">Mark all %1$d articles as unread?</item>
+        <item quantity="few">Mark all %1$d articles as unread?</item>
+        <item quantity="many">Mark %1$d article as unread?</item>
+        <item quantity="other">Mark all %1$d articles as unread?</item>
+    </plurals>
+
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="zero">Auto download up to %1$d newer and unplayed episode from current playing podcast.</item>
         <item quantity="one">Auto download up to %1$d newer and unplayed episode from current playing podcast.</item>

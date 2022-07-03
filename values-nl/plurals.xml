@@ -50,6 +50,11 @@
         <item quantity="other">Markeer alle %d artikelen als gelezen?</item>
     </plurals>
 
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="one">Mark %1$d article as unread?</item>
+        <item quantity="other">Mark all %1$d articles as unread?</item>
+    </plurals>
+
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">Automatisch maximaal %d nieuwere en niet-afgespeelde afleveringen van de momenteel spelende podcast downloaden.</item>
         <item quantity="other">Automatisch maximaal %d nieuwere en niet-afgespeelde afleveringen van de momenteel spelende podcast downloaden.</item>

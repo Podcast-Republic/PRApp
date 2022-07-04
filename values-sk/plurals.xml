@@ -71,10 +71,10 @@
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="few">Mark all %1$d articles as unread?</item>
-        <item quantity="many">Mark all %1$d articles as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">Označiť %1$d článok ako neprečítaný?</item>
+        <item quantity="few">Označiť all %1$d články ako neprečítané?</item>
+        <item quantity="many">Označiť all %1$d článkov ako neprečítaných?</item>
+        <item quantity="other">Označiť all %1$d článkov ako neprečítaných?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">

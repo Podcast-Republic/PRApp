@@ -1236,7 +1236,7 @@
     <string name="view_schedule_of_radio_station">Zobraziť program rádiovej stanice</string>
     <string name="schedule">Program</string>
     <string name="loading_schedule_">Načítava sa program…</string>
-    <string name="android_12_start_foreground_service_error_message">Android 12 doesn\'t allow to start playing while the app is in background. Please open the app to start playing or exclude this app from battery optimizations in Android Settings.</string>
-    <string name="mark_all_as_unread">Mark all as unread</string>
-    <string name="read_as_adj">Read</string>
+    <string name="android_12_start_foreground_service_error_message">Android 12 neumožňuje spustiť prehrávanie, keď je aplikácia na pozadí. Otvorte aplikáciu, aby sa začalo prehrávanie, alebo vylúčte túto aplikáciu z optimalizácie batérie v nastaveniach Androidu.</string>
+    <string name="mark_all_as_unread">Označiť všetko ako neprečítané</string>
+    <string name="read_as_adj">Prečítať</string>
 </resources>

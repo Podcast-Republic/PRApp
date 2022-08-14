@@ -105,7 +105,7 @@
     <string name="pause_download">Začasno ustavi prenos</string>
     <string name="resume_download">Nadaljuj prenos</string>
     <string name="delete">Izbriši</string>
-    <string name="now_playing">Zdaj se predvaja</string>
+    <string name="now_playing">Predvaja se</string>
     <string name="stop">Ustavi</string>
     <string name="pause">Začasno ustavi</string>
     <string name="favorite">Priljubljen(a)</string>
@@ -1210,7 +1210,7 @@
     <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
     <string name="grouping">Združevanje</string>
     <string name="display_chapter_title_and_artwork">Prikaži naslov poglavja in grafično podobo</string>
-    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Če poglavje obstaja, prikaži naslov poglavja in grafično podobo v seznamu Display chapter title and artwork in Now playing if chapter exists.</string>
+    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Če poglavje obstaja, prikaži naslov poglavja in grafično podobo v seznamu Predvaja se.</string>
     <string name="subscribed_date">Subscribed date</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Najkrajši čas trajanja tišine za aktivno odstranitev: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
@@ -1231,7 +1231,7 @@
     <string name="clear_history">Izbriši zgodovino</string>
     <string name="no_results">Ni rezultatov</string>
     <string name="reset_all_settings_back_to_default_">Ponastavi vse nastavitve na začetne nastavitve.</string>
-    <string name="this_will_reset_all_settings_back_to_default_continue_">To bo ponastavilo vse nastavitve na začetne anstavitve. Nadaljujem?</string>
+    <string name="this_will_reset_all_settings_back_to_default_continue_">To bo ponastavilo vse nastavitve na začetne nastavitve. Nadaljujem?</string>
     <string name="artwork">Grafična podoba</string>
     <string name="view_schedule_of_radio_station">Poglej urnik radijskih postaj</string>
     <string name="schedule">Urnik</string>

@@ -580,7 +580,7 @@
     <string name="save_to">Shrani v</string>
     <string name="buy_me_a_coffee">Plačaj nam kavo</string>
     <string name="clear_the_play_history_">Izbrišem zgodovino predvajanj?</string>
-    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">Ko je prenos odstranjen zaradi dosežene meje shranjenih prenosov.</string>
+    <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">Obvesti me, ko je prenos odstranjen zaradi dosežene meje shranjenih prenosov.</string>
     <string name="keep_all">Ohrani vse</string>
     <string name="playlist">Seznam</string>
     <string name="category">Kategorije</string>

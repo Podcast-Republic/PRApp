@@ -1094,7 +1094,7 @@
     <string name="adjust_playback_position">Prilagodi položaj predvajanja</string>
     <string name="allow_to_change_playback_position_from_notification_">Dovoli spremembe položaja predvajanja v obvestilih.</string>
     <string name="zoom_image">Približaj podobo</string>
-    <string name="default_playlist">Default playlist</string>
+    <string name="default_playlist">Privzeti seznam predvajanja</string>
     <string name="use_this_playlist_as_the_default_playlist">Uporabi ta seznam kot privzet seznam.</string>
     <string name="article_unique_criteria">Edinstvena merila članka</string>
     <string name="new_article_notification">Obvestilo za nov članek</string>
@@ -1207,11 +1207,11 @@
     <string name="podcast_priority">Prednost podkasta</string>
     <string name="group_by_podcast_priority">Združi podkaste po prednosti</string>
     <string name="larger_number_has_higher_priority">Višje število ima večjo prednost.</string>
-    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
+    <string name="rotate_by_podcast_priority">Kroži po prednostih podkastov</string>
     <string name="grouping">Združevanje</string>
     <string name="display_chapter_title_and_artwork">Prikaži naslov poglavja in grafično podobo</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Če poglavje obstaja, prikaži naslov poglavja in grafično podobo v seznamu Predvaja se.</string>
-    <string name="subscribed_date">Subscribed date</string>
+    <string name="subscribed_date">Datum naročitve na podkast</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Najkrajši čas trajanja tišine za aktivno odstranitev: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
     <string name="only_show_podcasts_having_new_release_after_the_selected_date">Prikaži samo podkaste, ki imajo nove objave po določenem datumu.</string>

@@ -1219,7 +1219,7 @@
     <string name="lock_timeline_bar_dragging">Zakleni vlečenje po vrstici časovne osi</string>
     <string name="unlock_timeline_bar_dragging">Odkleni vlečenje po vrstici časovne osi</string>
     <string name="play_all_randomly">Predvajaj naključno vse</string>
-    <string name="sort_by_relevance">Ustreznost</string>
+    <string name="sort_by_relevance">Razvrsti po ustreznosti</string>
     <string name="use_podcast_genre_as_tag">Uporabi žanr podkasta kot oznako</string>
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Pri označevanju podkasta dodajte zvrst podkasta kot oznako.</string>
     <string name="filter_podcasts_by_tag">Filtriraj podkaste po oznaki</string>

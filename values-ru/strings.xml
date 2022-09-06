@@ -147,7 +147,6 @@
     <string name="set">Установить</string>
     <string name="no_episode_selected">Не выбрано ни одного выпуска</string>
     <string name="set_played">Отметить как прослушанный</string>
-    <string name="set_unplayed">Отметить как непрослушанный</string>
     <string name="delete_episode">Удалить выпуск</string>
     <string name="One_episode_has_been_added_to_playlist">Один выпуск добавлен в плейлист</string>
     <string name="episodes_have_been_added_to_playlist">%1$d выпуск добавлен в плейлист</string>
@@ -901,6 +900,7 @@
     <string name="auto_load_last_played_episode">Автозагрузка последнего прослушанного выпуска</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Автозагрузка последнего прослушанного выпуска в плейлисте \'Вы слушаете\'.</string>
     <string name="mark_as_played">Отметить как прослушанное</string>
+    <string name="mark_as_unplayed">Отметить как непрослушанный</string>
     <string name="there_are_no_radio_stations_">Здесь нет радиостанций!</string>
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
@@ -1236,4 +1236,8 @@
     <string name="android_12_start_foreground_service_error_message">Android 12 doesn\'t allow to start playing while the app is in background. Please open the app to start playing or exclude this app from battery optimizations in Android Settings.</string>
     <string name="mark_all_as_unread">Mark all as unread</string>
     <string name="read_as_adj">Read</string>
+    <string name="delete_selected_articles_">Delete selected articles?</string>
+    <string name="reddit">Reddit</string>
+    <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
+    <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
 </resources>

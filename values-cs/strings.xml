@@ -143,7 +143,6 @@
     <string name="set">"Nastavit"</string>
     <string name="no_episode_selected">"Nebyla vybrána žádná epizoda"</string>
     <string name="set_played">"Označit jako přehrané"</string>
-    <string name="set_unplayed">"Označit jako nepřehrané"</string>
     <string name="delete_episode">"Vymazat epizodu"</string>
     <string name="One_episode_has_been_added_to_playlist">"Epizoda přidána do seznamu"</string>
     <string name="episodes_have_been_added_to_playlist">"Epizody %1$d byly přidány do seznamu"</string>
@@ -1081,6 +1080,7 @@
     <string name="remove_obsolete_episodes">Odstranit zastaralé epizody</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Odstranit zastaralé epizody, pokud už nejsou v kanálu podcastu.</string>
     <string name="mark_as_played">Označit jako přehrané</string>
+    <string name="mark_as_unplayed">"Označit jako nepřehrané"</string>
     <string name="swipe_left_action">Akce přejetí doleva</string>
     <string name="nothing_in_up_next">Nic v následujících.</string>
     <string name="syncing_article_changes_s">Synchronizuji změny v článku: %1$s.</string>
@@ -1236,4 +1236,8 @@
     <string name="android_12_start_foreground_service_error_message">Android 12 doesn\'t allow to start playing while the app is in background. Please open the app to start playing or exclude this app from battery optimizations in Android Settings.</string>
     <string name="mark_all_as_unread">Mark all as unread</string>
     <string name="read_as_adj">Read</string>
+    <string name="delete_selected_articles_">Delete selected articles?</string>
+    <string name="reddit">Reddit</string>
+    <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
+    <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
 </resources>

@@ -150,7 +150,6 @@
     <string name="set">Nastavi</string>
     <string name="no_episode_selected">Izbrana ni nobena epizoda</string>
     <string name="set_played">Označi kot predvajane</string>
-    <string name="set_unplayed">Označi kot nepredvajane</string>
     <string name="delete_episode">Izbriši epizodo</string>
     <string name="One_episode_has_been_added_to_playlist">Ena epizoda je bila dodana na seznam.</string>
     <string name="episodes_have_been_added_to_playlist">"%1$d epizod je bilo dodanih na seznam."</string>
@@ -1086,9 +1085,10 @@
     <string name="feed_title_can_not_be_empty_">Naslov vira ne sme biti prazen!</string>
     <string name="rss_feed_url_can_not_be_empty_">URL naslov RSS vira ne sme biti prazen!</string>
     <string name="no_rss_feeds_found_">Ni najdenih RSS virov!</string>
-   <string name="remove_obsolete_episodes">Odstrani zastarele epizode</string>
+    <string name="remove_obsolete_episodes">Odstrani zastarele epizode</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Odstrani zastarele epizode, ki niso več prisotne v viru podkasta.</string>
     <string name="mark_as_played">Označi kot predvajano</string>
+    <string name="mark_as_unplayed">Označi kot nepredvajane</string>
     <string name="swipe_left_action">Dejanje za podrsljaj v levo</string>
     <string name="nothing_in_up_next">Seznam Naslednji je prazen.</string>
     <string name="adjust_playback_position">Prilagodi položaj predvajanja</string>
@@ -1239,4 +1239,8 @@
     <string name="android_12_start_foreground_service_error_message">Android 12 ne dovoljuje predvajanja kadar je aplikacija v ozadju. Prosimo, zaženite aplikacijo za začetek predvajanja ali izključite to aplikacijo iz optimizacije baterije v Android nastavitvah.</string>
     <string name="mark_all_as_unread">Označi vse kot neprebrano</string>
     <string name="read_as_adj">Preberi</string>
+    <string name="delete_selected_articles_">Delete selected articles?</string>
+    <string name="reddit">Reddit</string>
+    <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
+    <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
 </resources>

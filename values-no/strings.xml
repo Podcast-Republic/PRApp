@@ -600,7 +600,6 @@
     <string name="set">Velg</string>
     <string name="set_played">Marker som avspilt</string>
     <string name="set_playlists">Velg spilleliste</string>
-    <string name="set_unplayed">Marker som ikke avspilt</string>
     <string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">Opprett en virtuell podcast for å spille musikk eller lydbøker på din enhet.</string>
     <string name="settings">Innstillinger</string>
     <string name="shake_device_to_control_playback">Rist enheten for å styre avspillingen</string>
@@ -1079,9 +1078,10 @@
     <string name="feed_title_can_not_be_empty_">Feed title can not be empty!</string>
     <string name="rss_feed_url_can_not_be_empty_">RSS feed URL can not be empty!</string>
     <string name="no_rss_feeds_found_">No RSS feeds found!</string>
-   <string name="remove_obsolete_episodes">Remove obsolete episodes</string>
+    <string name="remove_obsolete_episodes">Remove obsolete episodes</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remove obsolete episodes if they are no longer present in the podcast feed.</string>
-    <string name="mark_as_played">Mark as played</string>
+    <string name="mark_as_played">Marker som avspilt</string>
+    <string name="mark_as_unplayed">Marker som ikke avspilt</string>
     <string name="swipe_left_action">Swipe left action</string>
     <string name="nothing_in_up_next">Nothing in Up Next.</string>
     <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
@@ -1237,4 +1237,8 @@
     <string name="android_12_start_foreground_service_error_message">Android 12 doesn\'t allow to start playing while the app is in background. Please open the app to start playing or exclude this app from battery optimizations in Android Settings.</string>
     <string name="mark_all_as_unread">Mark all as unread</string>
     <string name="read_as_adj">Read</string>
+    <string name="delete_selected_articles_">Delete selected articles?</string>
+    <string name="reddit">Reddit</string>
+    <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
+    <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
 </resources>

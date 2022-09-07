@@ -1239,11 +1239,11 @@
     <string name="view_schedule_of_radio_station">A rádióállomás műsorrendjének megtekintése</string>
     <string name="schedule">Műsorrend</string>
     <string name="loading_schedule_">Műsorrend betöltése…</string>
-    <string name="android_12_start_foreground_service_error_message">Android 12 doesn\'t allow to start playing while the app is in background. Please open the app to start playing or exclude this app from battery optimizations in Android Settings.</string>
-    <string name="mark_all_as_unread">Mark all as unread</string>
-    <string name="read_as_adj">Read</string>
-    <string name="delete_selected_articles_">Delete selected articles?</string>
+    <string name="android_12_start_foreground_service_error_message">Az Android 12 nem teszi lehetővé a lejátszás elindítását, amíg az alkalmazás háttérben van. Nyissa meg az alkalmazást a lejátszás elindításához, vagy zárja ki ezt az alkalmazást az Android beállításaiban az akkumulátor optimalizálásából.</string>
+    <string name="mark_all_as_unread">Minden megjelölése olvashatatlannak</string>
+    <string name="read_as_adj">Olvasás</string>
+    <string name="delete_selected_articles_">Kijelölt cikkek törlése?</string>
     <string name="reddit">Reddit</string>
-    <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
-    <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
+    <string name="allow_the_app_to_create_detailed_app_log_">Részletes alkalmazásnapló létrehozásának engedélyezése.</string>
+    <string name="send_a_bug_report_with_app_log_">Hibajelentés küldése alkalmazás naplóval együtt.</string>
 </resources>

@@ -1239,8 +1239,8 @@
     <string name="android_12_start_foreground_service_error_message">Android 12 neumožňuje spustiť prehrávanie, keď je aplikácia na pozadí. Otvorte aplikáciu, aby sa začalo prehrávanie, alebo vylúčte túto aplikáciu z optimalizácie batérie v nastaveniach Androidu.</string>
     <string name="mark_all_as_unread">Označiť všetko ako neprečítané</string>
     <string name="read_as_adj">Prečítať</string>
-    <string name="delete_selected_articles_">Delete selected articles?</string>
+    <string name="delete_selected_articles_">Odstrániť vybrané články?</string>
     <string name="reddit">Reddit</string>
-    <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
-    <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
+    <string name="allow_the_app_to_create_detailed_app_log_">Povoliť aplikácii vytvoriť podrobný denník aplikácie.</string>
+    <string name="send_a_bug_report_with_app_log_">Odoslať hlásenie o chybe s denníkom aplikácie.</string>
 </resources>

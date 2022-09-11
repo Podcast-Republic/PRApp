@@ -1,98 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one"><![CDATA[Вы прослушали: <b>%1$d</b> выпусков, <b>%2$s</b>.]]></item>
-        <item quantity="few"><![CDATA[Вы прослушали: <b>%1$d</b> выпусков, <b>%2$s</b>.]]></item>
+        <item quantity="one"><![CDATA[Вы прослушали: <b>%1$d</b> выпуск, <b>%2$s</b>.]]></item>
+        <item quantity="few"><![CDATA[Вы прослушали: <b>%1$d</b> выпуска, <b>%2$s</b>.]]></item>
         <item quantity="many"><![CDATA[Вы прослушали: <b>%1$d</b> выпусков, <b>%2$s</b>.]]></item>
         <item quantity="other"><![CDATA[Вы прослушали: <b>%1$d</b> выпусков, <b>%2$s</b>.]]></item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d строк</item>
-        <item quantity="few">%1$d строк</item>
+        <item quantity="one">%1$d строка</item>
+        <item quantity="few">%1$d строки</item>
         <item quantity="many">%1$d строк</item>
         <item quantity="other">%1$d строк</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Последние %1$d выпусков.</item>
-        <item quantity="few">Последние %1$d выпусков.</item>
+        <item quantity="one">Последние %1$d выпуск.</item>
+        <item quantity="few">Последние %1$d выпуска.</item>
         <item quantity="many">Последние %1$d выпусков.</item>
         <item quantity="other">Последние %1$d выпусков.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Отобразить %1$d последних выпусков.</item>
-        <item quantity="few">Отобразить %1$d последних выпусков.</item>
+        <item quantity="one">Отобразить %1$d последний выпуск.</item>
+        <item quantity="few">Отобразить %1$d последних выпуска.</item>
         <item quantity="many">Отобразить %1$d последних выпусков.</item>
         <item quantity="other">Отобразить %1$d последних выпусков.</item>
     </plurals>
 
     <plurals name="keep_latest_n_downloads">
-        <item quantity="one">Последние %1$d выпуска.</item>
-        <item quantity="few">Последние %1$d выпускаов.</item>
-        <item quantity="many">Последние %1$d выпускаов.</item>
-        <item quantity="other">Последние %1$d выпускаов.</item>
+        <item quantity="one">Последний %1$d выпуск.</item>
+        <item quantity="few">Последние %1$d выпуска.</item>
+        <item quantity="many">Последние %1$d выпусков.</item>
+        <item quantity="other">Последние %1$d выпусков.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Отметить все %d выпусков как прослушанные?</item>
-        <item quantity="few">Отметить все %d выпусков как прослушанные?</item>
-        <item quantity="many">Отметить все %d выпусков как прослушанные?</item>
-        <item quantity="other">Отметить все %d выпусков как прослушанные?</item>
+        <item quantity="one">Отметить %1$d выпуск как прослушанный?</item>
+        <item quantity="few">Отметить все %1$d выпуска как прослушанные?</item>
+        <item quantity="many">Отметить все %1$d выпусков как прослушанные?</item>
+        <item quantity="other">Отметить все %1$d выпусков как прослушанные?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Отметить все %d выпусков как непрослушанные?</item>
-        <item quantity="few">Отметить все %d выпусков как непрослушанные?</item>
-        <item quantity="many">Отметить все %d выпусков как непрослушанные?</item>
-        <item quantity="other">Отметить все %d выпусков как непрослушанные?</item>
+        <item quantity="one">Отметить %1$d выпуск как непрослушанный?</item>
+        <item quantity="few">Отметить все %1$d выпуска как непрослушанные?</item>
+        <item quantity="many">Отметить все %1$d выпусков как непрослушанные?</item>
+        <item quantity="other">Отметить все %1$d выпусков как непрослушанные?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Отметить все %d подкасты как прослушанные?</item>
-        <item quantity="few">Отметить все %d подкасты как прослушанные?</item>
-        <item quantity="many">Отметить все %d подкасты как прослушанные?</item>
-        <item quantity="other">Отметить все %d подкасты как прослушанные?</item>
+        <item quantity="one">Отметить %1$d подкаст как прослушанный?</item>
+        <item quantity="few">Отметить все %1$d подкаста как прослушанные?</item>
+        <item quantity="many">Отметить все %1$d подкасты как прослушанные?</item>
+        <item quantity="other">Отметить все %1$d подкасты как прослушанные?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Отметить все %d ленты как прочитанные?</item>
-        <item quantity="few">Отметить все %d ленты как прочитанные?</item>
-        <item quantity="many">Отметить все %d ленты как прочитанные?</item>
-        <item quantity="other">Отметить все %d ленты как прочитанные?</item>
+        <item quantity="one">Отметить %1$d ленту как прочитанную?</item>
+        <item quantity="few">Отметить все %1$d ленты как прочитанные?</item>
+        <item quantity="many">Отметить все %1$d лент как прочитанные?</item>
+        <item quantity="other">Отметить все %1$d ленты как прочитанные?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Отметить все %d статей как прочитанные?</item>
-        <item quantity="few">Отметить все %d статей как прочитанные?</item>
-        <item quantity="many">Отметить все %d статей как прочитанные?</item>
-        <item quantity="other">Отметить все %d статей как прочитанные?</item>
+        <item quantity="one">Отметить %1$d статью как прочитанную?</item>
+        <item quantity="few">Отметить все %1$d статьи как прочитанные?</item>
+        <item quantity="many">Отметить все %1$d статей как прочитанные?</item>
+        <item quantity="other">Отметить все %1$d статей как прочитанные?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="few">Mark all %1$d articles as unread?</item>
-        <item quantity="many">Mark all %1$d articles as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">Отметить %1$d статью как непрочитанную?</item>
+        <item quantity="few">Отметить все %1$d статьи как непрочитанные?</item>
+        <item quantity="many">Отметить все %1$d статей как непрочитанные?</item>
+        <item quantity="other">Отметить все %1$d статей как непрочитанные?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Автоматическая загрузка до %1$d новых и непрослушанных выпусков из текущего подкаста.</item>
+        <item quantity="one">Автоматическая загрузка %1$d новый и непрослушанный выпуск из текущего подкаста.</item>
         <item quantity="few">Автоматическая загрузка до %1$d новых и непрослушанных выпусков из текущего подкаста.</item>
         <item quantity="many">Автоматическая загрузка до %1$d новых и непрослушанных выпусков из текущего подкаста.</item>
         <item quantity="other">Автоматическая загрузка до %1$d новых и непрослушанных выпусков из текущего подкаста.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Автоматическая загрузка до %1$d старых и непрослушанных выпусков из текущего подкаста.</item>
+        <item quantity="one">Автоматическая загрузка %1$d старый и непрослушанный выпуск из текущего подкаста.</item>
         <item quantity="few">Автоматическая загрузка до %1$d старых и непрослушанных выпусков из текущего подкаста.</item>
         <item quantity="many">Автоматическая загрузка до %1$d старых и непрослушанных выпусков из текущего подкаста.</item>
         <item quantity="other">Автоматическая загрузка до %1$d старых и непрослушанных выпусков из текущего подкаста.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Автоматически загружать до %1$d последних выпусков при получении новых выпусков.</item>
+        <item quantity="one">Автоматически загружать %1$d последний выпуск при получении новых выпусков.</item>
         <item quantity="few">Автоматически загружать до %1$d последних выпусков при получении новых выпусков.</item>
         <item quantity="many">Автоматически загружать до %1$d последних выпусков при получении новых выпусков.</item>
         <item quantity="other">Автоматически загружать до %1$d последних выпусков при получении новых выпусков.</item>

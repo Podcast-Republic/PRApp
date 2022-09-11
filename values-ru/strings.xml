@@ -1223,12 +1223,9 @@
     <string name="allow_the_app_to_create_detailed_app_log_">Разрешить приложению создавать подробный журнал.</string>
     <string name="subscribed_date">Дата подписки</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Минимальная продолжительность молчания для активного удаления: %.2fs.</string>
-    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Минимальная продолжительность молчания для активного удаления: %.2fs.</string>
     <string name="only_show_podcasts_having_new_release_after_the_selected_date">Показывать только подкасты с новым выпуском после выбранной даты.</string>
     <string name="only_show_episodes_published_after_the_selected_date">Показывать только выпуски вышедшие после выбранной даты.</string>
-    <string name="only_show_episodes_published_after_the_selected_date">Показывать только подкасты с новым выпуском после выбранной даты.</string>
     <string name="lock_timeline_bar_dragging">Блокировка панели временной шкалы</string>
-    <string name="lock_timeline_bar_dragging">Б</string>
     <string name="schedule">Расписание</string>
     <string name="loading_schedule_">Загружаем расписание...</string>
     <string name="mark_all_as_unread">Пометить всё как непрочитпное</string>
@@ -1237,7 +1234,6 @@
     <string name="use_podcast_genre_as_tag">Использовать жанр подкаста как тег</string>
     <string name="play_all_randomly">Воспроизвести всё вразнобой</string>
     <string name="sort_by_relevance">Актуальность</string>
-    <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Некоторые функции приложения могут работать не так, как задумано, из-за оптимизации работы батареи. Пожалуйста, перейдите в настройки Android, чтобы отключить оптимизацию заряда батареи для этого приложения. Пожалуйста, проверьте https://dontkillmyapp.com / для получения дополнительной информации.</string>
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Некоторые функции приложения могут работать не так, как задумано, из-за оптимизации работы батареи. Пожалуйста, перейдите в настройки Android, чтобы отключить оптимизацию заряда батареи для этого приложения. Пожалуйста, проверьте https://dontkillmyapp.com / для получения дополнительной информации.</string>
     <string name="this_will_reset_all_settings_back_to_default_continue_">Это приведет к возврату всех настроек к значениям по умолчанию. Продолжать?</string>
     <string name="view_schedule_of_radio_station">Просмотр расписания радиостанции</string>

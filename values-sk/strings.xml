@@ -926,7 +926,7 @@
     <string name="find_rss_feed">Nájsť zdroj RSS</string>
     <string name="there_are_no_rss_feeds">Nie sú k dispozícii žiadne zdroje RSS!</string>
     <string name="got_it">Mám to</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_synced_with_the_currently_playing_episode_list_or_playlist">Zmenili ste poradie zoznamu Nasleduje. V dôsledku toho nebude zoznam Nasleduje synchronizovaný s aktuálne prehrávaným zoznamom epizód alebo playlistom.</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">Zmenili ste poradie zoznamu Nasleduje. V dôsledku toho nebude zoznam Nasleduje synchronizovaný s aktuálne prehrávaným zoznamom epizód alebo playlistom.</string>
     <string name="don_t_show_it_again">Už viac nezobrazovať</string>
     <string name="always_on">Vždy zapnutý</string>
     <string name="always_on_amoled_black">Vždy zapnutý (čierna AMOLED)</string>
@@ -1243,4 +1243,8 @@
     <string name="reddit">Reddit</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Povoliť aplikácii vytvoriť podrobný denník aplikácie.</string>
     <string name="send_a_bug_report_with_app_log_">Odoslať hlásenie o chybe s denníkom aplikácie.</string>
+    <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up Next is not updated to currently playing episode list or playlist.</string>
+    <string name="update_up_next_automatically">Update Up next automatically</string>
+    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
 </resources>

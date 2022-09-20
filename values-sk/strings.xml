@@ -1246,5 +1246,5 @@
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Zastaviť aktualizovanie zoznamu Nasleduje pre aktuálne prehrávaný zoznam epizód alebo playlist?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Zoznam Nasleduje sa neaktualizuje pre aktuálny zoznam epizód alebo playlist.</string>
     <string name="update_up_next_automatically">Automaticky aktualizovať zoznam Nasleduje</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Automaticky aktualizovať zoznam Nasleduje, keď sa zmení alebo aktualizuje aktuálne prehrávaný zoznam epizód alebo zoznam skladieb.</string>
+    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Automaticky aktualizovať zoznam Nasleduje, keď sa zmení alebo aktualizuje aktuálne prehrávaný zoznam epizód alebo playlist.</string>
 </resources>

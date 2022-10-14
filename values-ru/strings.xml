@@ -1243,5 +1243,7 @@
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Перестать обновлять очередь воспроизведения из текущего списка выпусков или плейлиста?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Очередь воспроизведения не обновляется из текущего списка выпусков или плейлиса.</string>
     <string name="update_up_next_automatically">Обновлять очередь воспроизведения автоматически</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_"Обновление очереди воспроизведения при изменении или обновлении списка выпусков или плейлиста.</string>
+    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Обновление очереди воспроизведения при изменении или обновлении списка выпусков или плейлиста.</string>
+    <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>
+    <string name="play_pause_triple_click">Play/Pause triple click</string>
 </resources>

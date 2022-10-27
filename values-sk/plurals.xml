@@ -99,9 +99,9 @@
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="few">Display maximum %1$d lines of title.</item>
-        <item quantity="many">Display maximum %1$d lines of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Zobraziť maximálne %1$d riadok nadpisu.</item>
+        <item quantity="few">Zobraziť maximálne %1$d riadky nadpisu.</item>
+        <item quantity="many">Zobraziť maximálne %1$d riadkov nadpisu.</item>
+        <item quantity="other">Zobraziť maximálne %1$d riadkov nadpisu.</item>
     </plurals>
 </resources>

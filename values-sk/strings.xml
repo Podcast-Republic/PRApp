@@ -1249,6 +1249,6 @@
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Automaticky aktualizovať zoznam Nasleduje, keď sa zmení alebo aktualizuje aktuálne prehrávaný zoznam epizód alebo playlist.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Ak RSS zdroj vyžaduje overenie, zadajte nižšie používateľské meno a heslo. Ak sa overenie nevyžaduje, nechajte ich prázdne.</string>
     <string name="play_pause_triple_click">Trojitým poklepaním Prehrať/Pozastaviť</string>
-    <string name="title_display">Title display</string>
-    <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="title_display">Zobrazenie nadpisu</string>
+    <string name="rotate_by_priority">Rotovať podľa priority</string>
 </resources>

@@ -1210,7 +1210,7 @@
     <string name="podcast_priority">Podcast prioritás</string>
     <string name="group_by_podcast_priority">Csoportosítás podcast prioritás szerint</string>
     <string name="larger_number_has_higher_priority">A nagyobb érték magasabb prioritást eredményez.</string>
-    <string name="rotate_by_podcast_priority">Forgatás podcast prioritás szerint</string>
+    <string name="rotate_by_podcast_and_priority">Forgatás podcast prioritás szerint</string>
     <string name="grouping">Csoportosítás</string>
     <string name="display_chapter_title_and_artwork">Fejezetcím és borítókép megjelenítése</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Fejezetcím és borítókép megjelenítése a Most lejátszottakban, ha vannak fejezetek.</string>
@@ -1252,4 +1252,6 @@
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Adja meg a felhasználónevet és a jelszót, ha az RSS hírfolyam hitelesítést igényel. Hagyja üresen, ha nincs szükség erre.</string>
     <string name="play_pause_triple_click">Tripla kattintás Lejátszás/Szünet</string>
+    <string name="title_display">Title display</string>
+    <string name="rotate_by_priority">Rotate by priority</string>
 </resources>

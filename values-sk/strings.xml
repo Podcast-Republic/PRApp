@@ -1207,7 +1207,7 @@
     <string name="podcast_priority">Priorita podcastu</string>
     <string name="group_by_podcast_priority">Zoskupiť podľa priority podcastu</string>
     <string name="larger_number_has_higher_priority">Väčšie číslo má vyššiu prioritu.</string>
-    <string name="rotate_by_podcast_priority">Rotovať podľa priority podcastu</string>
+    <string name="rotate_by_podcast_and_priority">Rotovať podľa priority podcastu</string>
     <string name="grouping">Zoskupovanie</string>
     <string name="display_chapter_title_and_artwork">Zobraziť názov kapitoly a obrázok</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Zobrazí názov kapitoly a obrázok v Teraz sa prehráva, ak kapitola existuje.</string>
@@ -1249,4 +1249,6 @@
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Automaticky aktualizovať zoznam Nasleduje, keď sa zmení alebo aktualizuje aktuálne prehrávaný zoznam epizód alebo playlist.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Ak RSS zdroj vyžaduje overenie, zadajte nižšie používateľské meno a heslo. Ak sa overenie nevyžaduje, nechajte ich prázdne.</string>
     <string name="play_pause_triple_click">Trojitým poklepaním Prehrať/Pozastaviť</string>
+    <string name="title_display">Title display</string>
+    <string name="rotate_by_priority">Rotate by priority</string>
 </resources>

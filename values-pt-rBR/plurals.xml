@@ -69,4 +69,9 @@
         <item quantity="one">Baixar automaticamente até %1$d episódio mais recentes quando novos episódios são procurados.</item>
         <item quantity="other">Baixar automaticamente até %1$d episódios mais recentes quando novos episódios são procurados.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

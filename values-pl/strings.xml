@@ -1209,7 +1209,7 @@
     <string name="podcast_priority">Podcast priority</string>
     <string name="group_by_podcast_priority">Group by podcast priority</string>
     <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
-    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
+    <string name="rotate_by_podcast_and_priority">Rotate by podcast &amp; priority</string>
     <string name="grouping">Grouping</string>
     <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Display chapter title and artwork in Now playing if chapter exists.</string>
@@ -1251,4 +1251,6 @@
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>
     <string name="play_pause_triple_click">Play/Pause triple click</string>
+    <string name="title_display">Title display</string>
+    <string name="rotate_by_priority">Rotate by priority</string>
 </resources>

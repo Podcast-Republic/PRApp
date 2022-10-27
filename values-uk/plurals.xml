@@ -97,4 +97,11 @@
         <item quantity="many">Автоматично завантажувати до останніх епізодів %1$d коли завантажуються нові епізоди.</item>
         <item quantity="other">Автоматично завантажувати до останніх епізодів %1$d коли завантажуються нові епізоди.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="few">Display maximum %1$d lines of title.</item>
+        <item quantity="many">Display maximum %1$d lines of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

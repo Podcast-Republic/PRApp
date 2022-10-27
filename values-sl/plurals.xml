@@ -97,4 +97,11 @@
         <item quantity="few">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejše epizode.</item>
         <item quantity="other">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="two">Display maximum %1$d lines of title.</item>
+        <item quantity="few">Display maximum %1$d lines of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

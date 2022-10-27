@@ -636,9 +636,9 @@
     <string name="sign_up">Sign up</string>
     <string name="download_state_idle">Waiting for download to start.</string>
     <string name="download_state_fetching_url">Looking for resources to download.</string>
-    <string name="download_state_connecting">Connecting</string>
-    <string name="download_state_downloading">Downloading</string>
-    <string name="download_state_completed">Finished</string>
+    <string name="download_state_connecting">Connecting.</string>
+    <string name="download_state_downloading">Downloading.</string>
+    <string name="download_state_completed">Finished.</string>
     <string name="download_state_paused_network_unavailable">Paused: waiting for network.</string>
     <string name="download_state_failed_incorrect_file_received">Failed: incorrect file received.</string>
     <string name="download_state_paused_by_request">Download paused</string>
@@ -650,8 +650,8 @@
     <string name="download_state_paused_need_battery_charging">Paused: waiting for battery charging.</string>
     <string name="download_state_failed_fetching_url">Failed: URL could not be found.</string>
     <string name="download_state_failed_sdcard_full">Failed: insufficient space.</string>
-    <string name="download_state_failed_cancelled">Cancelled</string>
-    <string name="download_state_failed">Failed</string>
+    <string name="download_state_failed_cancelled">Cancelled.</string>
+    <string name="download_state_failed">Failed.</string>
     <string name="download_state_failed_storage_is_not_accessible">Failed: storage is not accessible.</string>
     <string name="error_storage_is_not_accessible">Error: storage is not accessible.</string>
     <string name="invalid_opml_file_selected_">Invalid opml file selected!</string>
@@ -923,7 +923,7 @@
     <string name="mark_as_unread">Mark as unread</string>
     <string name="article_url">Article URL</string>
     <string name="summary">Summary</string>
-    <string name="download_state_paused_battery_low">Paused: battery low</string>
+    <string name="download_state_paused_battery_low">Paused: battery low.</string>
     <string name="select_episodes_with_duration_greater_than_d_minutes">Select episodes with duration greater than %1$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes">Select episodes with duration less than %1$d minutes.</string>
     <string name="short_time_unit_format_minute">Min</string>
@@ -1228,7 +1228,7 @@
     <string name="podcast_priority">Podcast priority</string>
     <string name="group_by_podcast_priority">Group by podcast priority</string>
     <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
-    <string name="rotate_by_podcast_priority">Rotate by podcast priority</string>
+    <string name="rotate_by_podcast_and_priority">Rotate by podcast &amp; priority</string>
     <string name="grouping">Grouping</string>
     <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Display chapter title and artwork in Now playing if chapter exists.</string>
@@ -1270,4 +1270,6 @@
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>
     <string name="play_pause_triple_click">Play/Pause triple click</string>
+    <string name="title_display">Title display</string>
+    <string name="rotate_by_priority">Rotate by priority</string>
 </resources>

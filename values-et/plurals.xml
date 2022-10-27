@@ -69,4 +69,9 @@
         <item quantity="one">Uute episoodide allalaadimisel laadige automaatselt alla kuni %1$d viimast episoodi.</item>
         <item quantity="other">Uute episoodide allalaadimisel laadige automaatselt alla kuni %1$d viimast episoodi.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

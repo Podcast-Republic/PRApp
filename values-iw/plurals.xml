@@ -97,4 +97,11 @@
         <item quantity="many">"כאשר פרקים חדשים זמינים, הורד באופן אוטומטי את %1$d הפרקים החדשים ביותר"</item>
         <item quantity="other">"כאשר פרקים חדשים זמינים, הורד באופן אוטומטי את %1$d הפרקים החדשים ביותר"</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="two">Display maximum %1$d lines of title.</item>
+        <item quantity="many">Display maximum %1$d lines of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

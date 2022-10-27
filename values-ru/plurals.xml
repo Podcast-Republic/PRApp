@@ -97,4 +97,11 @@
         <item quantity="many">Автоматически загружать до %1$d последних выпусков при получении новых выпусков.</item>
         <item quantity="other">Автоматически загружать до %1$d последних выпусков при получении новых выпусков.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="few">Display maximum %1$d lines of title.</item>
+        <item quantity="many">Display maximum %1$d lines of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

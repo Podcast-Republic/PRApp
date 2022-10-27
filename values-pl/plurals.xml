@@ -97,4 +97,11 @@
         <item quantity="many">Automatycznie pobieraj do %1$d ostatnich odcinków, gdy sprawdzane są nowe odcinki.</item>
         <item quantity="other">Automatycznie pobieraj do %1$d ostatnich odcinków, gdy sprawdzane są nowe odcinki.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="few">Display maximum %1$d lines of title.</item>
+        <item quantity="many">Display maximum %1$d lines of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

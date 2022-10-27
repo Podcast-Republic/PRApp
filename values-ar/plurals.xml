@@ -125,4 +125,13 @@
         <item quantity="many">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
          <item quantity="other">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="zero">Display maximum %1$d line of title.</item>
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="two">Display maximum %1$d lines of title.</item>
+        <item quantity="few">Display maximum %1$d lines of title.</item>
+        <item quantity="many">Display maximum %1$d lines of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

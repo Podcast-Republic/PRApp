@@ -69,4 +69,9 @@
         <item quantity="one">Laster automatisk ned inntil %1$d av de siste episodene, når nye episoder er gjort tilgjengelig.</item>
         <item quantity="other">Laster automatisk ned inntil %1$d av de siste episodene, når nye episoder er gjort tilgjengelig.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

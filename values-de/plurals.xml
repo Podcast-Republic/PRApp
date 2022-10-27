@@ -69,4 +69,9 @@
         <item quantity="one">Automatischer Download von bis zu %1$d jüngsten Episoden, wenn neue Episoden abgerufen werden.</item>
         <item quantity="other">Automatischer Download von bis zu %1$d jüngsten Episoden, wenn neue Episoden abgerufen werden.</item>
     </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="other">Display maximum %1$d lines of title.</item>
+    </plurals>
 </resources>

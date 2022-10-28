@@ -216,8 +216,8 @@
     <string name="fast_rewind">Gyors visszatekerés</string>
     <string name="play_pause">Lejátszás / Szünet</string>
     <string name="none">Nincs</string>
-    <string name="sort_asc">Rendezés növekvő sorrendbe</string>
-    <string name="sort_desc">Rendezés csökkenő sorrendbe</string>
+    <string name="sort_asc">Növekvő sorrend</string>
+    <string name="sort_desc">Csökkenő sorrend</string>
     <string name="undo_delete">Törlés visszavonása</string>
     <string name="language">Nyelv</string>
     <string name="equalizer">Hangszínszabályzó (EQ)</string>

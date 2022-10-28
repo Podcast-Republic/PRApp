@@ -51,8 +51,8 @@
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">Megjelöli a cikket olvasatlannak?</item>
+        <item quantity="other">Megjelöl %1$d cikket olvasatlannak?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
@@ -71,7 +71,7 @@
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Egy sor címként megjelenítése.</item>
+        <item quantity="other">Maximum %1$d sor címként megjelenítése.</item>
     </plurals>
 </resources>

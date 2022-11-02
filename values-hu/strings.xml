@@ -531,7 +531,7 @@
     <string name="delete_the_download">Letöltések törlése</string>
     <string name="keep_the_download">Tartsa meg a letöltést</string>
     <string name="shake_your_device">A készülék megrázása</string>
-    <string name="shake_device_to_control_playback">Műveletek a készülék megrázására</string>
+    <string name="shake_device_to_control_playback">Rázási műveletek</string>
     <string name="sensitivity">Érzékenység</string>
     <string name="gestures">Kézmozdulatok</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
@@ -959,7 +959,7 @@
     <string name="remove_played_episode">Lejátszott epizód eltávolítása</string>
     <string name="remove_the_episode_from_playlist_after_being_played">Lejátszás után távolítsa el az epizódot a lejátszási listáról</string>
     <string name="apply_this_change_to_all_playlist_">Alkalmazza ezt a módosítást az összes lejátszólistára?</string>
-    <string name="overwrite_volume_mute_state">Hangerőnémítás állapotának felülírása</string>
+    <string name="overwrite_volume_mute_state">Hangerőnémítás felülírása</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Engedélyezze a hangerőnémítás állapotának felülírását, és állítsa vissza a legutóbbi lejátszás hangerejét</string>
     <string name="starting_podcast_update_checking">Podcast frissítések ellenőrzésének indítása.</string>
     <string name="_d_minutes">%1$d perc</string>
@@ -1193,7 +1193,7 @@
     <string name="at_lease_one_playback_control_is_required">- Legalább egy lejátszásvezérlő szükséges.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Az összecsukott értesítésnek legfeljebb három lejátszási vezérlője lehet.</string>
     <string name="save_image">Kép mentése</string>
-    <string name="view_or_edit_playlist_setup_">Lejátszólista beállítások megtekintése vagy szerkesztése.</string>
+    <string name="view_or_edit_playlist_setup_">Lejátszólista beállítások megtekintése vagy szerkesztése</string>
     <string name="search_in_title">Keresés a címben</string>
     <string name="search_in_title_and_article">Keresés a címben és a cikkben</string>
     <string name="youtube">YouTube</string>
@@ -1213,7 +1213,7 @@
     <string name="rotate_by_podcast_and_priority">Forgatás podcast prioritás szerint</string>
     <string name="grouping">Csoportosítás</string>
     <string name="display_chapter_title_and_artwork">Fejezetcím és borítókép</string>
-    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Fejezetcím és borítókép megjelenítése a Most lejátszottakban, ha vannak fejezetek.</string>
+    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Fejezetcím és borítókép megjelenítése a Most lejátszottakban, ha vannak fejezetek</string>
     <string name="subscribed_date">Előfizetés dátuma</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Csend minimális időtartama az aktív eltávolításig: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
@@ -1233,7 +1233,7 @@
     <string name="some_of_the_app_features_cant_work_as_designed_due_to_battery_optimizations_please_go_to_android_settings_to_turn_off_battery_optimizations_for_this_app_please_checkout_https_dontkillmyapp_com_for_more_info">Az alkalmazás egyes funkciói az akkumulátor optimalizálása miatt nem működnek a tervezett módon. Az Android-beállításokban kapcsolja ki az alkalmazás akkumulátor-optimalizálását. További információkért kérjük, tekintse meg a https://dontkillmyapp.com/ weboldalt.</string>
     <string name="clear_history">Előzmények törlése</string>
     <string name="no_results">Nincsenek találatok</string>
-    <string name="reset_all_settings_back_to_default_">Beállítások visszaállítása alapértelmezettre.</string>
+    <string name="reset_all_settings_back_to_default_">Beállítások visszaállítása alapértelmezettre</string>
     <string name="this_will_reset_all_settings_back_to_default_continue_">Ez visszaállítja az összes beállítást az alapértelmezettre. Folytatja?</string>
     <string name="artwork">Borítókép</string>
     <string name="view_schedule_of_radio_station">A rádióállomás műsorrendjének megtekintése</string>
@@ -1244,12 +1244,12 @@
     <string name="read_as_adj">Olvasás</string>
     <string name="delete_selected_articles_">Kijelölt cikkek törlése?</string>
     <string name="reddit">Reddit</string>
-    <string name="allow_the_app_to_create_detailed_app_log_">Részletes alkalmazásnapló létrehozásának engedélyezése.</string>
-    <string name="send_a_bug_report_with_app_log_">Hibajelentés küldése alkalmazás naplóval együtt.</string>
+    <string name="allow_the_app_to_create_detailed_app_log_">Részletes alkalmazásnapló létrehozásának engedélyezése</string>
+    <string name="send_a_bug_report_with_app_log_">Hibajelentés küldése alkalmazás naplóval együtt</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">A KÖvetkezők frissítésének leállítása a jelenleg lejátszott epizódlista vagy lejátszási lista mellett?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Az Up Next nem frissül a jelenleg lejátszott epizódok listáján vagy lejátszási listáján.</string>
     <string name="update_up_next_automatically">A következők automatikus frisssítése</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A következők automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszási lista megváltozik vagy frissül.</string>
+    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A következők automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszási lista megváltozik vagy frissül</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Adja meg a felhasználónevet és a jelszót, ha az RSS hírfolyam hitelesítést igényel. Hagyja üresen, ha nincs szükség erre.</string>
     <string name="play_pause_triple_click">Tripla kattintás Lejátszás/Szünet</string>
     <string name="title_display">Cím megjelenése</string>

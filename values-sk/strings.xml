@@ -1251,6 +1251,6 @@
     <string name="play_pause_triple_click">Trojitým poklepaním Prehrať/Pozastaviť</string>
     <string name="title_display">Zobrazenie nadpisu</string>
     <string name="rotate_by_priority">Rotovať podľa priority</string>
-    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
-    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Ak chcete pridať podcastový zdroj, kliknite na tlačidlo nižšie.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Pokračujte, ak chcete pridať textový alebo blogový zdroj RSS</string>
 </resources>

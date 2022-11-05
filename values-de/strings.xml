@@ -222,7 +222,7 @@
     <string name="language">"Sprache"</string>
     <string name="equalizer">"Equalizer"</string>
     <string name="sort">"Sortieren"</string>
-    <string name="continue_">"Weiter…"</string>
+    <string name="continue_">"Weiter"</string>
     <string name="delete_from_playlists">"In Playlisten löschen"</string>
     <string name="keep_in_playlists">"In Playlisten behalten"</string>
     <string name="remember_the_choice">"Auswahl merken"</string>
@@ -845,7 +845,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Zuletzt gespielten Lautstärkepegel merken und beim Start der Wiedergabe wiederherstellen."</string>
     <string name="metered_network">"Getaktetes Netzwerk"</string>
     <string name="allow_to_download_over_metered_network">"Herunterladen über ein getaktetes Netzwerk erlauben"</string>
-    <string name="remind_me_1_minute_less">"Erinnere mich (1 Minute weniger)"</string>
+    <string name="remind_me_1_minute_left">"Erinnere mich (1 Minute weniger)"</string>
     <string name="unread_count">"Anzahl ungelesene"</string>
     <string name="newest_unread">"Neueste ungelesene"</string>
     <string name="no_articles_selected_">"Keine Elemente ausgewählt!"</string>
@@ -884,7 +884,7 @@
     <string name="show_recent_counter">"Zähler zuletzt gespielt anzeigen"</string>
     <string name="hide_recent_counter">"Zähler zuletzt gespielt verbergen"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Kein Radiosender gefunden. Bitte drücke den Button (+), um einen Radiosender hinzuzufügen."</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"Kein RSS-Feed gefunden. Bitte drücke den Button (+), um einen RSS-Feed hinzuzufügen."</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"Kein RSS-Feed gefunden. Bitte drücke den Button (+), um einen RSS-Feed hinzuzufügen."</string>
     <string name="tag_radios">"Radiosender taggen"</string>
     <string name="episode">"Episode"</string>
     <string name="edit_mode">"Bearbeitungsmodus"</string>
@@ -944,7 +944,7 @@
     <string name="search_in_subscribed_podcasts">"Suche in abonnierten Podcasts"</string>
     <string name="search_by_podcast_title">"Suche nach Podcast-Titel"</string>
     <string name="search_by_podcast_publisher">"Suche nach Podcast-Herausgeber"</string>
-    <string name="fade_audio_out_2_minutes_less">"Audio ausblenden (2 Minuten weniger)"</string>
+    <string name="fade_audio_out_2_minutes_left">"Audio ausblenden (2 Minuten weniger)"</string>
     <string name="keep_all_articles">"Bewahren Sie alle Artikel auf"</string>
     <string name="keep_articles">"Artikel aufbewahren"</string>
     <string name="keep_articles_from_last_d_days">"Bewahren Sie Artikel aus den letzten %d Tagen auf"</string>
@@ -1250,4 +1250,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

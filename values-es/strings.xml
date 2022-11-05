@@ -845,7 +845,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Recordar el último nivel del volumen de reproducción y restaurarlo al iniciar la reproducción"</string>
     <string name="metered_network">"Red limitada"</string>
     <string name="allow_to_download_over_metered_network">"Permitir descargar a través de una red limitada"</string>
-    <string name="remind_me_1_minute_less">"Recordármelo (menos de 1 minuto)"</string>
+    <string name="remind_me_1_minute_left">"Recordármelo (menos de 1 minuto)"</string>
     <string name="unread_count">"Contador de no leídos"</string>
     <string name="newest_unread">"No leídos más recientes"</string>
     <string name="no_articles_selected_">"¡Ningún artículo seleccionado!"</string>
@@ -884,7 +884,7 @@
     <string name="show_recent_counter">"Mostrar contadores de no recientes"</string>
     <string name="hide_recent_counter">"Ocultar contadores no recientes"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"No se han encontrado emisoras de radio. Presione el botón Agregar (+) para agregar una emisora de radio."</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"No se han encontrado feeds de RSS. Presione el botón Agregar (+) para agregar un feed."</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"No se han encontrado feeds de RSS. Presione el botón Agregar (+) para agregar un feed."</string>
     <string name="tag_radios">"Etiquetar radios"</string>
     <string name="episode">"Episodio"</string>
     <string name="edit_mode">"Modo de edición"</string>
@@ -942,7 +942,7 @@
     <string name="search_in_subscribed_podcasts">"Buscar en los podcasts suscritos"</string>
     <string name="search_by_podcast_title">"Buscar por título del podcast"</string>
     <string name="search_by_podcast_publisher">"Búsqueda por editor del podcast"</string>
-    <string name="fade_audio_out_2_minutes_less">"Salida de audio atenuada (2 minutos menos)"</string>
+    <string name="fade_audio_out_2_minutes_left">"Salida de audio atenuada (2 minutos menos)"</string>
     <string name="keep_all_articles">"Mantener todos los artículos"</string>
     <string name="keep_articles">"Mantener artículos"</string>
     <string name="keep_articles_from_last_d_days">"Guardar los artículos de los últimos %d días"</string>
@@ -1247,4 +1247,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

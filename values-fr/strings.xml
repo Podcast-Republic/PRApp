@@ -850,7 +850,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Se souvenir du dernier niveau de volume et le rétablir au démarrage de la lecture.</string>
     <string name="metered_network">Réseau mobile</string>
     <string name="allow_to_download_over_metered_network">Autoriser le téléchargement sur réseau mobile.</string>
-    <string name="remind_me_1_minute_less">Me le rappeler (moins de 1 minute)</string>
+    <string name="remind_me_1_minute_left">Me le rappeler (moins de 1 minute)</string>
     <string name="unread_count">Compte non lu</string>
     <string name="newest_unread">Plus récent non lu</string>
     <string name="no_articles_selected_">Aucun article selectionné !</string>
@@ -889,7 +889,7 @@
     <string name="show_recent_counter">Afficher la liste récents</string>
     <string name="hide_recent_counter">Masquer la liste récents</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Pas de station de radio trouvée. Appuyez sur le bouton ajouter (+) pour ajouter une station de radio.</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Pas de flux RSS trouvé. Appuyez sur le bouton ajouter (+) pour ajouter un flux.</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Pas de flux RSS trouvé. Appuyez sur le bouton ajouter (+) pour ajouter un flux.</string>
     <string name="tag_radios">Radios marquées</string>
     <string name="episode">Episode</string>
     <string name="edit_mode">Mode édition</string>
@@ -950,7 +950,7 @@
     <string name="search_in_subscribed_podcasts">Recherche dans les abonnements</string>
     <string name="search_by_podcast_title">Recherche par titre de podcast</string>
     <string name="search_by_podcast_publisher">Recherche par éditeur de podcast</string>
-    <string name="fade_audio_out_2_minutes_less">Fondu audio (moins de 2 minutes)</string>
+    <string name="fade_audio_out_2_minutes_left">Fondu audio (moins de 2 minutes)</string>
     <string name="keep_all_articles">Conserver tous les articles</string>
     <string name="keep_articles">Conserver les articles</string>
     <string name="keep_articles_from_last_d_days">Conserver les articles des %d derniers jours.</string>
@@ -1256,4 +1256,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

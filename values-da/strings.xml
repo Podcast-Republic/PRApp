@@ -847,7 +847,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Husk lydstyrken og fortsæt med denne, når afspilningen genoptages"</string>
     <string name="metered_network">"Forbrugsbaseret netværk"</string>
     <string name="allow_to_download_over_metered_network">"Tillad download via forbrugsbaseret netværk"</string>
-    <string name="remind_me_1_minute_less">"Påmind mig (1 minut tilbage)"</string>
+    <string name="remind_me_1_minute_left">"Påmind mig (1 minut tilbage)"</string>
     <string name="unread_count">"Antal ulæste"</string>
     <string name="newest_unread">"Seneste ulæste"</string>
     <string name="no_articles_selected_">"Ingen valgt"</string>
@@ -886,7 +886,7 @@
     <string name="show_recent_counter">Vis tæller for seneste</string>
     <string name="hide_recent_counter">Skjul tæller for seneste</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Der blev ikke fundet nogen radiostationer. Tryk tilføj (+) for at tilføje en radiostation.</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Der blev ikke fundet nogen RSS-feeds. Tryk tilføj (+) for at tilføje et feed</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Der blev ikke fundet nogen RSS-feeds. Tryk tilføj (+) for at tilføje et feed</string>
     <string name="tag_radios">Tag radioer</string>
     <string name="episode">Afsnit</string>
     <string name="edit_mode">Redigeringstilstand</string>
@@ -945,7 +945,7 @@
     <string name="search_in_subscribed_podcasts">Søg i podcasts du abonnerer på</string>
     <string name="search_by_podcast_title">Søg efter podcasttitel</string>
     <string name="search_by_podcast_publisher">Søg efter podcastudgiver</string>
-    <string name="fade_audio_out_2_minutes_less">Fade lyden ud (2 minutter mindre)</string>
+    <string name="fade_audio_out_2_minutes_left">Fade lyden ud (2 minutter mindre)</string>
     <string name="keep_all_articles">Vis alle artikler</string>
     <string name="keep_articles">Vis artikler</string>
     <string name="keep_articles_from_last_d_days">Behold artikler fra de seneste %d dage</string>
@@ -1251,4 +1251,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

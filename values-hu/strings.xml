@@ -851,7 +851,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Emlékezzen a legutóbbi hangerőszintre, és a lejátszás megkezdésekor állítsa vissza azt</string>
     <string name="metered_network">Letöltés \"Metered\" hálózaton</string>
     <string name="allow_to_download_over_metered_network">Letöltés engedélyezése \"metered\" hálózaton keresztül</string>
-    <string name="remind_me_1_minute_less">Emlékeztető (1 perccel előtte)</string>
+    <string name="remind_me_1_minute_left">Emlékeztető (1 perccel előtte)</string>
     <string name="unread_count">Újak száma</string>
     <string name="newest_unread">Legújabb olvasatlan</string>
     <string name="no_articles_selected_">Nincsenek kiválasztott cikkek!</string>
@@ -890,7 +890,7 @@
     <string name="show_recent_counter">Legutóbbiak szám. megjelenítése</string>
     <string name="hide_recent_counter">Legutóbbiak szám. elrejtése</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nem találhatóak rádióállomások. Hozzáadáshoz nyomja meg a Hozzáadás (+) gombot.</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Nem találhatóak RSS hírcsatornák. Hozzáadáshoz nyomja meg a Hozzáadás (+) gombot.</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Nem találhatóak RSS hírcsatornák. Hozzáadáshoz nyomja meg a Hozzáadás (+) gombot.</string>
     <string name="tag_radios">Rádió címkék</string>
     <string name="episode">Epizód</string>
     <string name="edit_mode">Szerkesztés mód</string>
@@ -948,7 +948,7 @@
     <string name="search_in_subscribed_podcasts">Keresés az előfizetett podcastokban</string>
     <string name="search_by_podcast_title">Keresés podcast címe szerint</string>
     <string name="search_by_podcast_publisher">Keresés podcast-kiadó szerint</string>
-    <string name="fade_audio_out_2_minutes_less">Lehalkítás (2 perccel előtte)</string>
+    <string name="fade_audio_out_2_minutes_left">Lehalkítás (2 perccel előtte)</string>
     <string name="keep_all_articles">Tartsa meg az összes cikket</string>
     <string name="keep_articles">Tartsa meg a cikkeket</string>
     <string name="keep_articles_from_last_d_days">Az elmúlt %d nap cikkeinek megőrzése</string>
@@ -1254,4 +1254,6 @@
     <string name="play_pause_triple_click">Tripla kattintás Lejátszás/Szünet</string>
     <string name="title_display">Cím megjelenése</string>
     <string name="rotate_by_priority">Forgatás prioritás szerint</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

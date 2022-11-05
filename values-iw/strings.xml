@@ -845,7 +845,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"זכור את עוצמת הקול האחרונה שנוגנה ושחזר אותה בהפעלה"</string>
     <string name="metered_network">"רשת נמדדת"</string>
     <string name="allow_to_download_over_metered_network">"אפשר להוריד דרך רשת נמדדת"</string>
-    <string name="remind_me_1_minute_less">"הזכר לי (דקה אחת פחות)"</string>
+    <string name="remind_me_1_minute_left">"הזכר לי (דקה אחת פחות)"</string>
     <string name="unread_count">"ספירה שלא נקראה"</string>
     <string name="newest_unread">"הכי חדשים שלא נקראו"</string>
     <string name="no_articles_selected_">"לא נבחרו מאמרים!"</string>
@@ -884,7 +884,7 @@
     <string name="show_recent_counter">"הצג מונים של טרם אחרונים"</string>
     <string name="hide_recent_counter">"הסתר מונים של טרם אחרונים"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"לא נמצאו תחנות רדיו. לחץ על הלחצן הוסף (+) כדי להוסיף תחנת רדיו."</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"לא נמצאו עדכוני RSS. לחץ על הלחצן הוסף (+) כדי להוסיף."</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"לא נמצאו עדכוני RSS. לחץ על הלחצן הוסף (+) כדי להוסיף."</string>
     <string name="tag_radios">"תג רדיו"</string>
     <string name="episode">"פרק"</string>
     <string name="edit_mode">"מצב עריכה"</string>
@@ -943,7 +943,7 @@
     <string name="search_in_subscribed_podcasts">Search in subscribed podcasts</string>
     <string name="search_by_podcast_title">Search by podcast title</string>
     <string name="search_by_podcast_publisher">Search by podcast publisher</string>
-    <string name="fade_audio_out_2_minutes_less">Fade audio out (2 minutes less)</string>
+    <string name="fade_audio_out_2_minutes_left">Fade audio out (2 minutes left)</string>
     <string name="keep_all_articles">Keep all articles</string>
     <string name="keep_articles">Keep articles</string>
     <string name="keep_articles_from_last_d_days">Keep articles from last %d days</string>
@@ -1249,4 +1249,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

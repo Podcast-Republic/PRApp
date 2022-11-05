@@ -852,7 +852,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Zapamätať si poslednú hranú úroveň hlasitosti a obnoviť ju pri prehrávaní</string>
     <string name="metered_network">Spoplatnená sieť</string>
     <string name="allow_to_download_over_metered_network">Povoliť sťahovanie cez spoplatnenú sieť</string>
-    <string name="remind_me_1_minute_less">Pripomenúť (menej ako 1 minútu)</string>
+    <string name="remind_me_1_minute_left">Pripomenúť (menej ako 1 minútu)</string>
     <string name="unread_count">Počet neprečítaných</string>
     <string name="newest_unread">Najnovšie neprečítané</string>
     <string name="no_articles_selected_">Nie sú vybrané žiadne články!</string>
@@ -891,7 +891,7 @@
     <string name="show_recent_counter">Zobraziť počítadlá posledné</string>
     <string name="hide_recent_counter">Skryť počítadlá posledné</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nenašli sa žiadne rádiá. Stlačením tlačidla Pridať (+) pridáte rádio.</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Nenašli sa žiadne zdroje RSS. Stlačením tlačidla Pridať (+) pridáte zdroj.</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Nenašli sa žiadne zdroje RSS. Stlačením tlačidla Pridať (+) pridáte zdroj.</string>
     <string name="tag_radios">Tagy rádií</string>
     <string name="episode">Epizóda</string>
     <string name="edit_mode">Režim úprav</string>
@@ -949,7 +949,7 @@
     <string name="search_in_subscribed_podcasts">Hľadať vo všetkých odoberaných podcastoch</string>
     <string name="search_by_podcast_title">Hľadať v názve podcastu</string>
     <string name="search_by_podcast_publisher">Hľadať v názve vydavateľa</string>
-    <string name="fade_audio_out_2_minutes_less">Zoslabenie zvuku (menej ako 2 minúty)</string>
+    <string name="fade_audio_out_2_minutes_left">Zoslabenie zvuku (menej ako 2 minúty)</string>
     <string name="keep_all_articles">Ponechať všetky články</string>
     <string name="keep_articles">Ponechať články</string>
     <string name="keep_articles_from_last_d_days">Ponechať články za posledných %d dní</string>
@@ -1251,4 +1251,6 @@
     <string name="play_pause_triple_click">Trojitým poklepaním Prehrať/Pozastaviť</string>
     <string name="title_display">Zobrazenie nadpisu</string>
     <string name="rotate_by_priority">Rotovať podľa priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

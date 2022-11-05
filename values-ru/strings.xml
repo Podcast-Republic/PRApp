@@ -845,7 +845,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Запомнить уровень громкости из последнего прослушанного выпуска восстанавить его при воспроизведении.</string>
     <string name="metered_network">Лимитная сеть</string>
     <string name="allow_to_download_over_metered_network">Разрешить загрузку по лимитной сети.</string>
-    <string name="remind_me_1_minute_less">Напомнить (на 1 минуту меньше)</string>
+    <string name="remind_me_1_minute_left">Напомнить (на 1 минуту меньше)</string>
     <string name="unread_count">Счетчик непрочитанных</string>
     <string name="newest_unread">Новые непрочитанные</string>
     <string name="no_articles_selected_">Статьи не выбраны!</string>
@@ -927,7 +927,7 @@
     <string name="playback_mode_repeat_episode">Повторить выпуск</string>
     <string name="episode">Выпуск</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Радиостанций не найдено. Нажмите кнопку Добавить (+), чтобы добавить радиостанцию.</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">RSS-ленты не найдены. Нажмите кнопку Добавить (+), чтобы добавить ленту.</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">RSS-ленты не найдены. Нажмите кнопку Добавить (+), чтобы добавить ленту.</string>
     <string name="no_rss_feeds_selected_">Не выбраны RSS-ленты!</string>
     <string name="no_rss_feeds_found_">Не найдено RSS-лент!</string>
     <string name="no_radio_stations_selected_">Радиостанции не выбраны!</string>
@@ -1142,7 +1142,7 @@
     <string name="follow_android_systems_dark_theme_setup">Следовать настройкам темной темы системы Android.</string>
     <string name="feed_title_can_not_be_empty_">Заголовок ленты не может быть пустым!</string>
     <string name="extract_from_metadata">Извлечь из метаданных</string>
-    <string name="fade_audio_out_2_minutes_less">Затухание звука (меньше 2 минут)</string>
+    <string name="fade_audio_out_2_minutes_left">Затухание звука (меньше 2 минут)</string>
     <string name="export_episode_list">Экспорт списка выпусков</string>
     <string name="expanded_notification_short_format">Развернутое</string>
     <string name="error_start_time_and_end_time_can_not_be_same_">Ошибка: \"Время начала\" и \"Время окончания\" не могут быть одинаковыми!</string>
@@ -1248,4 +1248,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

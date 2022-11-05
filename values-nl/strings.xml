@@ -845,7 +845,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Onthoud het laatst afgespeelde volumeniveau en herstel het bij het starten van het afspelen"</string>
     <string name="metered_network">"Gemeten netwerk"</string>
     <string name="allow_to_download_over_metered_network">"Sta toe om over een gemeten netwerk te downloaden"</string>
-    <string name="remind_me_1_minute_less">"Herinner me eraan (1 minuut minder)"</string>
+    <string name="remind_me_1_minute_left">"Herinner me eraan (1 minuut minder)"</string>
     <string name="unread_count">"Aantal ongelezen"</string>
     <string name="newest_unread">"Nieuwste ongelezen"</string>
     <string name="no_articles_selected_">"Geen artikelen geselecteerd!"</string>
@@ -884,7 +884,7 @@
     <string name="show_recent_counter">"Toon recente tellers"</string>
     <string name="hide_recent_counter">"Recente tellers verbergen"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Geen radiozenders gevonden. Druk op de knop Toevoegen (+) om een radiozender toe te voegen."</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">"Geen RSS-feeds gevonden. Druk op de knop Toevoegen (+) om een feed toe te voegen."</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"Geen RSS-feeds gevonden. Druk op de knop Toevoegen (+) om een feed toe te voegen."</string>
     <string name="tag_radios">"Tag radio's"</string>
     <string name="episode">"Aflevering"</string>
     <string name="edit_mode">"Bewerkingsmodus"</string>
@@ -944,7 +944,7 @@
     <string name="search_in_subscribed_podcasts">Zoek in alle geabonneerde podcasts</string>
     <string name="search_by_podcast_title">Zoek op podcast titel</string>
     <string name="search_by_podcast_publisher">Zoek op podcast uitgever</string>
-    <string name="fade_audio_out_2_minutes_less">Audio fade out (2 minuten korter)</string>
+    <string name="fade_audio_out_2_minutes_left">Audio fade out (2 minuten korter)</string>
     <string name="keep_all_articles">Bewaar alle artikelen</string>
     <string name="keep_articles">Bewaar artikelen</string>
     <string name="keep_articles_from_last_d_days">Bewaar artikelen van de laatste %d dagen</string>
@@ -1250,4 +1250,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

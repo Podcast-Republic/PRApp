@@ -856,7 +856,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Zapomni si zadnji nivo glasnosti in ga uporabi ob začetku predvajanja.</string>
     <string name="metered_network">Merjeno omrežje</string>
     <string name="allow_to_download_over_metered_network">Dovoli prenose preko merjenega omrežja.</string>
-    <string name="remind_me_1_minute_less">Opomni me (1 minuto prej)</string>
+    <string name="remind_me_1_minute_left">Opomni me (1 minuto prej)</string>
     <string name="unread_count">Število neprebranih</string>
     <string name="newest_unread">Novi neprebrani</string>
     <string name="no_articles_selected_">Ni izbranih člankov!</string>
@@ -895,7 +895,7 @@
     <string name="show_recent_counter">Prikaži števec nedavnih</string>
     <string name="hide_recent_counter">Skrij števec nedavnih</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nobena radijska postaja ni najdena. Dotakni se možnosti Dodaj (+) , da dodaš radijsko postajo.</string>
-    <string name="no_rss_feeds_found_press_the_add_button_to_add_a_feed">Ni najdenih RSS virov. Dotakni se možnosti Dodaj (+) da dodaš vir.</string>
+    <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Ni najdenih RSS virov. Dotakni se možnosti Dodaj (+) da dodaš vir.</string>
     <string name="tag_radios">Izberi radijske postaje</string>
     <string name="episode">Epizode</string>
     <string name="edit_mode">Način za urejanje</string>
@@ -953,7 +953,7 @@
     <string name="search_in_subscribed_podcasts">Išči po vseh naročenih podkastih</string>
     <string name="search_by_podcast_title">Išči po naslovu podkasta</string>
     <string name="search_by_podcast_publisher">Išči po založniku podkasta</string>
-    <string name="fade_audio_out_2_minutes_less">Postopoma znižaj glasnost (2 minuti)</string>
+    <string name="fade_audio_out_2_minutes_left">Postopoma znižaj glasnost (2 minuti)</string>
     <string name="keep_all_articles">Ohrani vse članke</string>
     <string name="keep_articles">Ohrani članke</string>
     <string name="keep_articles_from_last_d_days">Ohrani članke zadnjih %1$d dni.</string>
@@ -1251,4 +1251,6 @@
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
     <string name="rotate_by_priority">Rotate by priority</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
 </resources>

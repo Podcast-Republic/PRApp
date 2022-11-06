@@ -1254,6 +1254,6 @@
     <string name="play_pause_triple_click">Tripla kattintás Lejátszás/Szünet</string>
     <string name="title_display">Cím megjelenése</string>
     <string name="rotate_by_priority">Forgatás prioritás szerint</string>
-    <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
-    <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Kattintson az alábbi gombra, ha podcast hírfolyamot ad hozzá</string>
+    <string name="continue_if_adding_a_text_or_blog_rss_feed">Folytassa, ha szöveges vagy blog RSS hírfolyamot ad hozzá</string>
 </resources>

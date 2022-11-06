@@ -99,9 +99,9 @@
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="few">Display maximum %1$d lines of title.</item>
-        <item quantity="many">Display maximum %1$d lines of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Отобразить не более %1$d строки заголовка.</item>
+        <item quantity="few">Отобразить не более %1$d строк заголовка.</item>
+        <item quantity="many">Отобразить не более %1$d строк заголовка.</item>
+        <item quantity="other">Отобразить не более %1$d строк заголовка.</item>
     </plurals>
 </resources>

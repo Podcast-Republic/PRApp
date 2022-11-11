@@ -1258,4 +1258,6 @@
     <string name="rotate_by_priority">Rotate by priority</string>
     <string name="click_the_button_blow_if_adding_a_podcast_feed">Click the button below if adding a podcast feed.</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
+    <string name="close_app_when_moving_to_background">Close app when moving to background</string>
+    <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
 </resources>

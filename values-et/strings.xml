@@ -76,6 +76,7 @@
         <item>Šveits </item>
         <item>Taiwan </item>
         <item>Tadžikistanis </item>
+        <item>Tansaania</item>
         <item>Tai </item>
         <item>Tuneesia </item>
         <item>Türgi </item>
@@ -864,8 +865,8 @@
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">"WiFi-ühendus pole saadaval. RSS-voo uuendamise kontrollimise tühistamine."</string>
     <string name="add_rss_feeds">"Lisage RSS-vooge"</string>
     <string name="search_rss_feeds">"Otsi RSS-vooge"</string>
-    <string name="reset_feed">"Lähtestage kanal"</string>
-    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">"Lähtestage sööt hävitab vahemällu salvestatud andmed ja taastab RSS-voogust!"</string>
+    <string name="reset_articles">"Lähtestage kanal"</string>
+    <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">"Lähtestage sööt hävitab vahemällu salvestatud andmed ja taastab RSS-voogust!"</string>
     <string name="mark_all_previous_articles_as_read">"Märkige kõik eelmised artiklid loetuks"</string>
     <string name="unread">"Lugemata"</string>
     <string name="rss_feeds">"RSS-kanalid"</string>
@@ -1254,4 +1255,5 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
 </resources>

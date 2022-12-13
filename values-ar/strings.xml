@@ -77,6 +77,7 @@
         <item>     سويسرا</item>
         <item>    تايوان</item>
         <item>   طاجيكستان</item>
+        <item>تنزانيا</item>
         <item>     تايلاند</item>
         <item>     تونس</item>
         <item>      "تركيا"</item>
@@ -864,8 +865,8 @@
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">Wi-Fi is not available. Cancelling RSS feed update checking.</string>
     <string name="add_rss_feeds">Add RSS feeds</string>
     <string name="search_rss_feeds">Search RSS feeds</string>
-    <string name="reset_feed">Reset feed</string>
-    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">Reset feed will discard cached data and rebuild from the RSS feed!</string>
+    <string name="reset_articles">Reset articles</string>
+    <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">Reset articles will discard cached articles and rebuild from the RSS feed!</string>
     <string name="mark_all_previous_articles_as_read">Mark all previous articles as read</string>
     <string name="unread">Unread</string>
     <string name="rss_feeds">RSS feeds</string>
@@ -1253,4 +1254,5 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
 </resources>

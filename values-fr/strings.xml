@@ -77,6 +77,7 @@
         <item>Suisse </item>
         <item>Taiwan </item>
         <item>Tadjikistan </item>
+        <item>Tanzanie</item>
         <item>Thaïlande </item>
         <item>Tunisie </item>
         <item>Turquie </item>
@@ -868,8 +869,8 @@
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">WIFI non disponible. Annulation de la vérification de la mise à jour du flux RSS.</string>
     <string name="add_rss_feeds">Ajouter flux RSS</string>
     <string name="search_rss_feeds">Chercher flux RSS</string>
-    <string name="reset_feed">Réinitialiser le flux</string>
-    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">Réinitialiser le flux supprime les données en cache et recommence à partir du flux RSS !</string>
+    <string name="reset_articles">Réinitialiser le flux</string>
+    <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">Réinitialiser le flux supprime les données en cache et recommence à partir du flux RSS !</string>
     <string name="mark_all_previous_articles_as_read">Marquer tous les articles précédents comme lus</string>
     <string name="unread">Non lu</string>
     <string name="rss_feeds">Flux RSS</string>
@@ -1260,4 +1261,5 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Continue if adding a text or blog RSS feed</string>
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
 </resources>

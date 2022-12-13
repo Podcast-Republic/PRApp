@@ -80,6 +80,7 @@
         <item>Švajčiarsko</item>
         <item>Taiwan</item>
         <item>Tadžikistan</item>
+        <item>Tanzánia</item>
         <item>Thajsko</item>
         <item>Tunisko</item>
         <item>Turecko</item>
@@ -870,8 +871,8 @@
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">Wi-Fi nie je k dispozícii. Ruší sa aktualizácia zdroja RSS.</string>
     <string name="add_rss_feeds">Pridať zdroje RSS</string>
     <string name="search_rss_feeds">Vyhľadať zdroje RSS</string>
-    <string name="reset_feed">Obnoviť zdroj</string>
-    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">Reset zdroja odstráni dáta z cache a obnoví ich zo zdroja RSS!</string>
+    <string name="reset_articles">Obnoviť zdroj</string>
+    <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">Reset zdroja odstráni dáta z cache a obnoví ich zo zdroja RSS!</string>
     <string name="mark_all_previous_articles_as_read">Označiť všetky predchádzajúce články ako prečítané</string>
     <string name="unread">Neprečítané</string>
     <string name="rss_feeds">Zdroje RSS</string>
@@ -1255,4 +1256,5 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Pokračujte, ak chcete pridať textový alebo blogový zdroj RSS</string>
     <string name="close_app_when_moving_to_background">Zavrieť aplikáciu pri prechode na pozadie</string>
     <string name="close_background_app_message">Zavrieť aplikáciu pri prechode na pozadie. Podcasty na pozadí môžete prehrávať aj po zatvorení aplikácie. Po opätovnom prepnutí aplikácie do popredia sa však nemusí dať prejsť na tú istú obrazovku.</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
 </resources>

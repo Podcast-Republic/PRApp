@@ -76,6 +76,7 @@
         <item>Svájc</item>
         <item>Tajvan</item>
         <item>Tadzsikisztán</item>
+        <item>Tanzánia</item>
         <item>Thaiföld</item>
         <item>Tunézia</item>
         <item>Törökország</item>
@@ -869,8 +870,8 @@
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">WiFi nem elérhető. Az RSS-hírcsatorna frissítések ellenőrzésének megszakítása.</string>
     <string name="add_rss_feeds">RSS-hírcsatornák hozzáadása</string>
     <string name="search_rss_feeds">RSS-hírcsatornák keresése</string>
-    <string name="reset_feed">Hírcsatorna alaphelyzetbe</string>
-    <string name="reset_feed_will_discard_cached_data_and_rebuild_from_the_rss_feed_">A hírcsatorna alaphelyzetbe állítása törli a gyorsítótárazott adatokat, és újraépíti azt az RSS hírcsatornából!</string>
+    <string name="reset_articles">Hírcsatorna alaphelyzetbe</string>
+    <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">A hírcsatorna alaphelyzetbe állítása törli a gyorsítótárazott adatokat, és újraépíti azt az RSS hírcsatornából!</string>
     <string name="mark_all_previous_articles_as_read">Minden korábbi cikk megjelölése olvasottként</string>
     <string name="unread">Olvasatlan</string>
     <string name="rss_feeds">RSS hírcsatornák</string>
@@ -1258,4 +1259,5 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Folytassa, ha szöveges vagy blog RSS hírfolyamot ad hozzá</string>
     <string name="close_app_when_moving_to_background">Alkalmazás bezárása háttérbe helyezéskor</string>
     <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
 </resources>

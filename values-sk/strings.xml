@@ -1256,5 +1256,5 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Pokračujte, ak chcete pridať textový alebo blogový zdroj RSS</string>
     <string name="close_app_when_moving_to_background">Zavrieť aplikáciu pri prechode na pozadie</string>
     <string name="close_background_app_message">Zavrieť aplikáciu pri prechode na pozadie. Podcasty na pozadí môžete prehrávať aj po zatvorení aplikácie. Po opätovnom prepnutí aplikácie do popredia sa však nemusí dať prejsť na tú istú obrazovku.</string>
-    <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Pri načítaní nových epizód z podcastu</string>
 </resources>

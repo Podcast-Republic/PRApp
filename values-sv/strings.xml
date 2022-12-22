@@ -1265,4 +1265,7 @@
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
+    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
+    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
+    <string name="date_added">Date added</string>
 </resources>

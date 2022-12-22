@@ -367,7 +367,7 @@
     <string name="mark_episode_as_played">Epizód megjelölése lejátszottként</string>
     <string name="mark_episode_as_played_if_more_than_has_been_played">Egy epizód megjelölése lejátszottként, ha annak több mint %1$d%%-a lejátszott</string>
     <string name="download_episode">Epizód letöltése</string>
-    <string name="start_downloading_when_episode_is_added_to_playlist">Induljon el a letöltés, ha egy epizódot hozzáad egy lejátszási listához</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">Induljon el a letöltés, ha egy epizódot hozzáad egy lejátszólistához</string>
     <string name="podcast_keep_download_limit_reached_">A podcastok száma elérte a letöltési limitet!</string>
     <string name="auto_download_filter">Automatikus letöltés szűrő</string>
     <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">Epizódcímek szűrése az automata letöltésekhez. Először be kell állítani az automatikus letöltést.</string>
@@ -465,7 +465,7 @@
     <string name="allow_to_download_with_data_services_when_roaming">Roaming közben is engedélyezett a letöltés</string>
     <string name="up_next">Következő</string>
     <string name="episode_info">Epizód információ</string>
-    <string name="no_more_episodes_to_play_from_playlist_s_">Nincs több epizód a lejátszási listán [ %1$s ]</string>
+    <string name="no_more_episodes_to_play_from_playlist_s_">Nincs több epizód a lejátszólistán [ %1$s ]</string>
     <string name="apply_this_change_to_all_podcasts_">Alkalmazza ezt a változtatást az összes podcastra?</string>
     <string name="grid_size">Ikonrács mérete</string>
     <string name="play_pause_double_click">Lejátszás / Szünet dupla kattintással</string>
@@ -584,7 +584,7 @@
     <string name="can_not_cast_youtube_videos_to_chromecast_">YouTube videókat nem tud Chromecast-ra küldeni!</string>
     <string name="add_a_playlist">Lejátszólista hozzáadása</string>
     <string name="add_to_tag">Címke hozzáadása</string>
-    <string name="add_to_default_playlists">Hozzáadás az alapértelmezett lejátszási listákhoz</string>
+    <string name="add_to_default_playlists">Hozzáadás az alapértelmezett lejátszólistákhoz</string>
     <string name="add_to_selected_playlists">Hozzáadás adott listákhoz</string>
     <string name="delete_selected_episodes_">Törli a kiválasztott epizódokat?</string>
     <string name="you_have_no_completed_downloads">Nincsenek befejezett letöltések.</string>
@@ -958,7 +958,7 @@
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Lejátszás után törölje a virtuális podcast fájlt a tárhelyről</string>
     <string name="play_all">Összes lejátszása</string>
     <string name="remove_played_episode">Lejátszott epizód eltávolítása</string>
-    <string name="remove_the_episode_from_playlist_after_being_played">Lejátszás után távolítsa el az epizódot a lejátszási listáról</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">Lejátszás után távolítsa el az epizódot a lejátszólistáról</string>
     <string name="apply_this_change_to_all_playlist_">Alkalmazza ezt a módosítást az összes lejátszólistára?</string>
     <string name="overwrite_volume_mute_state">Hangerőnémítás felülírása</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Engedélyezze a hangerőnémítás állapotának felülírását, és állítsa vissza a legutóbbi lejátszás hangerejét</string>
@@ -1199,7 +1199,7 @@
     <string name="search_in_title_and_article">Keresés a címben és a cikkben</string>
     <string name="youtube">YouTube</string>
     <string name="find_highlighted_text_as_youtube_channel_id">Kiemelt szöveg keresése csatorna azonosítóként.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Kiemelt szöveg keresése lejátszási lista azonosítójaként.</string>
+    <string name="find_highlighted_text_as_youtube_playlist_id">Kiemelt szöveg keresése lejátszólista azonosítójaként.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Nincs Wi-Fi - Podcast frissítése csak most mobiladatokkal?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Válassza ki a %1$d és %2$d perc közötti időtartamú epizódokat.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Válassza ki a %1$d percnél rövidebb vagy %2$d percnél hosszabb epizódokat.</string>
@@ -1247,10 +1247,10 @@
     <string name="reddit">Reddit</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Részletes alkalmazásnapló létrehozásának engedélyezése</string>
     <string name="send_a_bug_report_with_app_log_">Hibajelentés küldése alkalmazás naplóval együtt</string>
-    <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">A \'Következők\' frissítésének leállítása a jelenleg lejátszott epizódlista vagy lejátszási lista mellett?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">A \'Következők\' nem frissül a jelenleg lejátszott epizódok listáján vagy lejátszási listáján.</string>
+    <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">A \'Következők\' frissítésének leállítása a jelenleg lejátszott epizódlista vagy lejátszólista mellett?</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">A \'Következők\' nem frissül a jelenleg lejátszott epizódok vagy lejátszólistán.</string>
     <string name="update_up_next_automatically">\'Következők\' aut. frissítése</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A \'Következők\' automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszási lista megváltozik vagy frissül</string>
+    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A \'Következők\' automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszólista megváltozik vagy frissül</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Adja meg a felhasználónevet és a jelszót, ha az RSS hírfolyam hitelesítést igényel. Hagyja üresen, ha nincs szükség erre.</string>
     <string name="play_pause_triple_click">Tripla kattintás Lejátszás/Szünet</string>
     <string name="title_display">Cím megjelenése</string>
@@ -1260,7 +1260,7 @@
     <string name="close_app_when_moving_to_background">Alkalmazás bezárása háttérbe helyezéskor</string>
     <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
-    <string name="date_added">Date added</string>
+    <string name="add_all_d_episodes_to_up_next_">Az összes (%1$d) epizód hozzáadása a \'Következő\' listához?</string>
+    <string name="add_all_d_episodes_to_playlist_">Az összes (%1$d) epizód hozzáadása a lejátszólistához?</string>
+    <string name="date_added">Dátum hozzáadva</string>
 </resources>

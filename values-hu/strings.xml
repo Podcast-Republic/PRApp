@@ -900,7 +900,7 @@
     <string name="hide_empty_feeds">Üres hírcsatornák elrejtése</string>
     <string name="tag_feeds">Hírcsatorna címkék</string>
     <string name="open_in_browser">Megnyitás böngészőben</string>
-    <string name="mark_as_unread">Nem lejátszottnak jelölés</string>
+    <string name="mark_as_unread">Olvasatlannak jelölés</string>
     <string name="article_url">Cikk URL</string>
     <string name="summary">Összegzés</string>
     <string name="download_state_paused_battery_low">Szünet: alacsony akkuszint</string>

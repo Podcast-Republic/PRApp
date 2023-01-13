@@ -1251,10 +1251,10 @@
     <string name="rotate_by_priority">Чередовать по приоритету</string>
     <string name="click_the_button_blow_if_adding_a_podcast_feed">Нажмите кнопку ниже, если добавляете ленту подкастов.</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Продолжить при добавлении текстового или RSS-канала блога</string>
-    <string name="close_app_when_moving_to_background">Close app when moving to background</string>
-    <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
-    <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
-    <string name="date_added">Date added</string>
+    <string name="close_app_when_moving_to_background">Закрыть приложение при переходе в фоновый режим</string>
+    <string name="close_background_app_message">Закрыть приложение при переходе в фоновый режим.  Вы по-прежнему можете воспроизводить подкасты в фоновом режиме, когда приложение закрыто.  Однако вы, возможно, не сможете вернуться к тому же экрану, когда снова выведете приложение на передний план.</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Когда новые выпуски извлекаются из ленты подкастов</string>
+    <string name="add_all_d_episodes_to_up_next_">Добавить все выпуски (%1$d) в список "На очереди"?</string>
+    <string name="add_all_d_episodes_to_playlist_">Добавить все выпуски (%1$d) в плейлист?</string>
+    <string name="date_added">Дата добавления</string>
 </resources>

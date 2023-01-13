@@ -102,7 +102,7 @@
     <string name="stop">Stop</string>
     <string name="pause">Szünet</string>
     <string name="favorite">Kedvenc</string>
-    <string name="favorites">Kedvencek</string>
+    <string name="favorites">Kedveltek</string>
     <string name="whats_new">Újdonságok</string>
     <string name="more">Tovább</string>
     <string name="unplayed">Lejátszandók</string>
@@ -810,7 +810,7 @@
     <string name="report_inappropriate_review">Nem megfelelő vélemény bejelentése</string>
     <string name="reviews">Vélemények</string>
     <string name="submit">Beküldés</string>
-    <string name="deleted">Törölve</string>
+    <string name="deleted">Törölt</string>
     <string name="file_size">Fájlméret</string>
     <string name="play_next">Lejátszás következőként</string>
     <string name="are_you_sure_to_clear_the_play_queue_">Biztosan törli a lejátszási sort?</string>
@@ -1242,7 +1242,7 @@
     <string name="loading_schedule_">Műsorrend betöltése…</string>
     <string name="android_12_start_foreground_service_error_message">Az Android 12 nem teszi lehetővé a lejátszás elindítását, amíg az alkalmazás háttérben van. Nyissa meg az alkalmazást a lejátszás elindításához, vagy zárja ki ezt az alkalmazást az Android beállításaiban az akkumulátor optimalizálásából.</string>
     <string name="mark_all_as_unread">Minden megjelölése olvashatatlannak</string>
-    <string name="read_as_adj">Olvasás</string>
+    <string name="read_as_adj">Olvasott</string>
     <string name="delete_selected_articles_">Kijelölt cikkek törlése?</string>
     <string name="reddit">Reddit</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Részletes alkalmazásnapló létrehozásának engedélyezése</string>

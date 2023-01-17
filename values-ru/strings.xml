@@ -559,7 +559,7 @@
     <string name="syncing_started">Синхронизируется</string>
     <string name="account_logged_in_s"><![CDATA[Вы вошли: <i>%1$s</i>]]></string>
     <string name="sync_subscriptions_and_episode_playback_progress">Синхронизировать данные о подписках и прослушанных выпусках</string>
-    <string name="schedule_auto_backup_every_d_days">Делать автоматический бэкап каждый(е) %1$d день(дня)</string>
+    <string name="schedule_auto_backup_every_d_days">Делать автоматический бэкап каждый(е) %1$d дней(дня)</string>
     <string name="keep_most_recent_d_auto_backups">Сохранять %1$d популярных автобэкапа</string>
     <string name="save_auto_backup_to_s">Сохранить авторезервную копию в: %1$s</string>
     <string name="enable_auto_backup_of_app_settings_and_database">Включить автосохранение настроек и базы данных приложения</string>
@@ -864,8 +864,8 @@
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">Wi-Fi недоступен. Отмена проверки обновлений RSS-ленты.</string>
     <string name="add_rss_feeds">Добавить RSS-ленты</string>
     <string name="search_rss_feeds">Поиск RSS-лент</string>
-    <string name="reset_articles">Сброс канала</string>
-    <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">Сброс канала удалит кэшированные данные и восстановит их из RSS-ленты!</string>
+    <string name="reset_articles">Сброс статей</string>
+    <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">Сброс статей удалит кэшированные данные и восстановит их из RSS-ленты!</string>
     <string name="mark_all_previous_articles_as_read">Отметить все предыдущие статьи как прочитанные</string>
     <string name="unread">Непрочитано</string>
     <string name="rss_feeds">RSS-ленты</string>
@@ -1002,7 +1002,7 @@
     <string name="add_tags_to_rss_feed">Добавление тегов к RSS-ленте</string>
     <string name="podcast_artwork">Обложка подкаста</string>
     <string name="ok">Ок</string>
-    <string name="stream">Транслировать</string>
+    <string name="stream">Трансляция</string>
     <string name="stream_podcasts_via_wifi_only">Транслировать подкаст по Wi-Fi</string>
     <string name="stream_radios_via_wifi_only">Транслировать радио по Wi-Fi</string>
     <string name="review_wifi_only_prompt_message">Знаете ли вы, что приложение использует Wi-Fi только по умолчанию? Вы можете отключить Wi-Fi только, если у вас есть быстрое подключение передачи данных. Вы хотите просмотреть настройки Wi-Fi прямо сейчас?</string>
@@ -1254,7 +1254,7 @@
     <string name="close_app_when_moving_to_background">Закрыть приложение при переходе в фоновый режим</string>
     <string name="close_background_app_message">Закрыть приложение при переходе в фоновый режим.  Вы по-прежнему можете воспроизводить подкасты в фоновом режиме, когда приложение закрыто.  Однако вы, возможно, не сможете вернуться к тому же экрану, когда снова выведете приложение на передний план.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Когда новые выпуски извлекаются из ленты подкастов</string>
-    <string name="add_all_d_episodes_to_up_next_">Добавить все выпуски (%1$d) в список "На очереди"?</string>
+    <string name="add_all_d_episodes_to_up_next_">Добавить все выпуски (%1$d) в очередь?</string>
     <string name="add_all_d_episodes_to_playlist_">Добавить все выпуски (%1$d) в плейлист?</string>
     <string name="date_added">Дата добавления</string>
 </resources>

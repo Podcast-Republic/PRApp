@@ -1258,4 +1258,6 @@
     <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
     <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
     <string name="date_added">Date added</string>
+    <string name="dynamic_colors">Dynamic colors</string>
+    <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>
 </resources>

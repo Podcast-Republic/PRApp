@@ -1260,6 +1260,6 @@
     <string name="add_all_d_episodes_to_up_next_">Pridať všetky epizódy (%1$d) do zoznamu Nasleduje?</string>
     <string name="add_all_d_episodes_to_playlist_">Pridať všetky epizódy (%1$d) do playlistu?</string>
     <string name="date_added">Dátum pridania</string>
-    <string name="dynamic_colors">Dynamic colors</string>
-    <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>
+    <string name="dynamic_colors">Dynamické farby</string>
+    <string name="apply_the_color_theme_based_on_your_wallpaper_">Použiť farebný motív podľa pozadia.</string>
 </resources>

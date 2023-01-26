@@ -1258,4 +1258,5 @@
     <string name="date_added">Date added</string>
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>
+    <string name="loading_">Loading…</string>
 </resources>

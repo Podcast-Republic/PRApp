@@ -810,7 +810,7 @@
     <string name="report_inappropriate_review">Nem megfelelő vélemény bejelentése</string>
     <string name="reviews">Vélemények</string>
     <string name="submit">Beküldés</string>
-    <string name="deleted">Törölt</string>
+    <string name="deleted">Törölve</string>
     <string name="file_size">Fájlméret</string>
     <string name="play_next">Lejátszás következőként</string>
     <string name="are_you_sure_to_clear_the_play_queue_">Biztosan törli a lejátszási sort?</string>
@@ -859,13 +859,13 @@
     <string name="_s_mark_all_articles_as_read_">[%1$s]: Megjelöl minden cikket olvasottként?</string>
     <string name="mark_all_articles_published_before_this_article_s_as_read_">Megjelöli olvasottként az e cikk [%1$s] előtt megjelent összes cikket?</string>
     <string name="there_are_no_articles_">Nincsenek cikkek.</string>
-    <string name="unreads_d">Új: %d</string>
+    <string name="unreads_d">Olvasatlan: %d</string>
     <string name="total_articles_d">Összes cikk: %d</string>
     <string name="rss_feed_url">RSS hírcsatorna URL</string>
     <string name="check_rss_feed_update">RSS-hírcsatorna frissítések ellenőrzése</string>
     <string name="_is_not_found_add_this_rss_feed_">[%1$s] nem található. Hozzáadja az RSS-hírcsatornát URL alapján?</string>
     <string name="add_a_rss_feed_by_url">RSS-hírcsatorna hozzáadása URL alapján</string>
-    <string name="mark_as_read">Olvasottnak jelölés</string>
+    <string name="mark_as_read">Hallgatottnak jelölés</string>
     <string name="new_articles_available">Új RSS cikkek érhetők el</string>
     <string name="wifi_is_not_available_cancelling_rss_feed_update_checking_">WiFi nem elérhető. Az RSS-hírcsatorna frissítések ellenőrzésének megszakítása.</string>
     <string name="add_rss_feeds">RSS-hírcsatornák hozzáadása</string>
@@ -873,7 +873,7 @@
     <string name="reset_articles">Hírcsatorna alaphelyzetbe</string>
     <string name="reset_articles_will_discard_cached_articles_and_rebuild_from_the_rss_feed_">A hírcsatorna alaphelyzetbe állítása törli a gyorsítótárazott adatokat, és újraépíti azt az RSS hírcsatornából!</string>
     <string name="mark_all_previous_articles_as_read">Minden korábbi cikk megjelölése olvasottként</string>
-    <string name="unread">Új</string>
+    <string name="unread">Olvasatlan</string>
     <string name="rss_feeds">RSS hírcsatornák</string>
     <string name="review_submitted_">Vélemény beküldve.</string>
     <string name="add_radio_stations">Rádióállomások hozzáadása</string>
@@ -900,7 +900,7 @@
     <string name="hide_empty_feeds">Üres hírcsatornák elrejtése</string>
     <string name="tag_feeds">Hírcsatorna címkék</string>
     <string name="open_in_browser">Megnyitás böngészőben</string>
-    <string name="mark_as_unread">Újnak jelölés</string>
+    <string name="mark_as_unread">Olvasatlannak jelölés</string>
     <string name="article_url">Cikk URL</string>
     <string name="summary">Összegzés</string>
     <string name="download_state_paused_battery_low">Szünet: alacsony akkuszint</string>
@@ -1242,7 +1242,7 @@
     <string name="loading_schedule_">Műsorrend betöltése…</string>
     <string name="android_12_start_foreground_service_error_message">Az Android 12 nem teszi lehetővé a lejátszás elindítását, amíg az alkalmazás háttérben van. Nyissa meg az alkalmazást a lejátszás elindításához, vagy zárja ki ezt az alkalmazást az Android beállításaiban az akkumulátor optimalizálásából.</string>
     <string name="mark_all_as_unread">Minden megjelölése olvashatatlannak</string>
-    <string name="read_as_adj">Olvasott</string>
+    <string name="read_as_adj">Olvasás</string>
     <string name="delete_selected_articles_">Kijelölt cikkek törlése?</string>
     <string name="reddit">Reddit</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Részletes alkalmazásnapló létrehozásának engedélyezése</string>
@@ -1263,6 +1263,7 @@
     <string name="add_all_d_episodes_to_up_next_">Az összes (%1$d) epizód hozzáadása a \'Következő\' listához?</string>
     <string name="add_all_d_episodes_to_playlist_">Az összes (%1$d) epizód hozzáadása a lejátszólistához?</string>
     <string name="date_added">Dátum hozzáadva</string>
-    <string name="dynamic_colors">Dinamikus színek</string>
-    <string name="apply_the_color_theme_based_on_your_wallpaper_">Színtéma alkalmazása a háttérkép alapján.</string>
+    <string name="dynamic_colors">Dynamic colors</string>
+    <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>
+    <string name="loading_">Loading…</string>
 </resources>

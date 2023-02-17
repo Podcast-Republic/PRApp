@@ -118,15 +118,15 @@
     <string name="education">Educação</string>
     <string name="government">Governo &amp; Organizações</string>
     <string name="health_fitness">Saúde</string>
-    <string name="kids">Infantil &amp; Família</string>
+    <string name="kids_family">Infantil &amp; Família</string>
     <string name="music">Música</string>
     <string name="news">Notícias &amp; Política</string>
-    <string name="region">Religião &amp; Espiritualidade</string>
+    <string name="region_spirituality">Religião &amp; Espiritualidade</string>
     <string name="science">Ciência &amp; Medicina</string>
-    <string name="society">Cultura &amp; Sociedade</string>
+    <string name="society_culture">Cultura &amp; Sociedade</string>
     <string name="sports">Esportes &amp; Diversão</string>
     <string name="tech">Tecnologia</string>
-    <string name="tv">TV &amp; Filmes</string>
+    <string name="tv_film">TV &amp; Filmes</string>
     <string name="title">Título</string>
     <string name="provider">Fornecedor</string>
     <string name="image_url">URL da imagem</string>
@@ -197,7 +197,7 @@
     <string name="user_interface">Interface do usuário</string>
     <string name="show_descriptions">Mostrar descrição</string>
     <string name="update_on_start">Atualizar ao abrir</string>
-    <string name="media_player">Media Player</string>
+    <string name="media_player">Media player</string>
     <string name="download_location">Local do download</string>
     <string name="change_log">Log de alterações</string>
     <string name="view_what_s_new_in_this_version">Ver o que há de novo nesta versão</string>
@@ -1243,7 +1243,7 @@
     <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up Next is not updated to currently playing episode list or playlist.</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up next is not updated to currently playing episode list or playlist.</string>
     <string name="update_up_next_automatically">Update Up next automatically</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>

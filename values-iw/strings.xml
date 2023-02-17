@@ -119,15 +119,15 @@
     <string name="education">"השכלה"</string>
     <string name="government">"ממשלה וארגונים"</string>
     <string name="health_fitness">"בריאות"</string>
-    <string name="kids">"ילדים ומשפחה"</string>
+    <string name="kids_family">"ילדים ומשפחה"</string>
     <string name="music">"מוסיקה"</string>
     <string name="news">"חדשות ופוליטיקה"</string>
-    <string name="region">"דת ורוחניות"</string>
+    <string name="region_spirituality">"דת ורוחניות"</string>
     <string name="science">"מדע ורפואה"</string>
-    <string name="society">"חברה ותרבות"</string>
+    <string name="society_culture">"חברה ותרבות"</string>
     <string name="sports">"ספורט ונופש"</string>
     <string name="tech">"טכנולוגיה"</string>
-    <string name="tv">"טלוויזיה וקולנוע"</string>
+    <string name="tv_film">"טלוויזיה וקולנוע"</string>
     <string name="title">"כותרת"</string>
     <string name="provider">"ספק:"</string>
     <string name="image_url">"כתובת אתר של תמונה:"</string>
@@ -921,7 +921,7 @@
     <string name="find_rss_feed">Find RSS feed</string>
     <string name="there_are_no_rss_feeds">There are no RSS feeds!</string>
     <string name="got_it">Got it</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up Next list. As a result the Up Next will not be synced with the currently playing episode list or playlist.</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up next list. As a result the Up next will not be synced with the currently playing episode list or playlist.</string>
     <string name="don_t_show_it_again">Don\'t show it again</string>
     <string name="always_on">Always on</string>
     <string name="always_on_amoled_black">Always on (AMOLED black)</string>
@@ -1084,7 +1084,7 @@
     <string name="mark_as_played">"הגדר כהושמע"</string>
     <string name="mark_as_unplayed">"הגדר כלא הושמע"</string>
     <string name="swipe_left_action">Swipe left action</string>
-    <string name="nothing_in_up_next">Nothing in Up Next.</string>
+    <string name="nothing_in_up_next">Nothing in Up next.</string>
     <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
     <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
@@ -1243,7 +1243,7 @@
     <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up Next is not updated to currently playing episode list or playlist.</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up next is not updated to currently playing episode list or playlist.</string>
     <string name="update_up_next_automatically">Update Up next automatically</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>

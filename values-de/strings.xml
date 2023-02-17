@@ -118,15 +118,15 @@
     <string name="education">"Bildung"</string>
     <string name="government">"Regierung &amp; NGOs"</string>
     <string name="health_fitness">"Gesundheit"</string>
-    <string name="kids">"Familie &amp; Kinder"</string>
+    <string name="kids_family">"Familie &amp; Kinder"</string>
     <string name="music">"Musik"</string>
     <string name="news">"Nachrichten &amp; Politik"</string>
-    <string name="region">"Religion &amp; Spiritualität"</string>
+    <string name="region_spirituality">"Religion &amp; Spiritualität"</string>
     <string name="science">"Wissenschaft &amp; Medizin"</string>
-    <string name="society">"Gesellschaft &amp; Kultur"</string>
+    <string name="society_culture">"Gesellschaft &amp; Kultur"</string>
     <string name="sports">"Sport &amp; Freizeit"</string>
     <string name="tech">"Technologie"</string>
-    <string name="tv">"TV &amp; Film"</string>
+    <string name="tv_film">"TV &amp; film"</string>
     <string name="title">"Titel"</string>
     <string name="provider">"Anbieter"</string>
     <string name="image_url">"Bild-URL"</string>
@@ -197,7 +197,7 @@
     <string name="user_interface">"Benutzeroberfläche"</string>
     <string name="show_descriptions">"Beschreibung anzeigen"</string>
     <string name="update_on_start">"Beim Start aktualisieren"</string>
-    <string name="media_player">"Media Player"</string>
+    <string name="media_player">"Media player"</string>
     <string name="download_location">"Download-Verzeichnis"</string>
     <string name="change_log">"Änderungsprotokoll"</string>
     <string name="view_what_s_new_in_this_version">"Neu in dieser Version"</string>
@@ -920,7 +920,7 @@
     <string name="find_rss_feed">"RSS-Feed suchen"</string>
     <string name="there_are_no_rss_feeds">"Es gibt keine RSS-Feeds!"</string>
     <string name="got_it">"Verstanden"</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Sie haben die Liste \"Nach oben\" neu angeordnet. Infolgedessen wird Up Next nicht mit der aktuell wiedergegebenen Episodenliste oder Wiedergabeliste synchronisiert."</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Sie haben die Liste \"Nach oben\" neu angeordnet. Infolgedessen wird Up next nicht mit der aktuell wiedergegebenen Episodenliste oder Wiedergabeliste synchronisiert."</string>
     <string name="don_t_show_it_again">"Zeig es nicht noch einmal"</string>
     <string name="always_on">"Immer auf"</string>
     <string name="always_on_amoled_black">"Immer an (AMOLED schwarz)"</string>
@@ -1085,7 +1085,7 @@
     <string name="mark_as_played">"Als gespielt markieren"</string>
     <string name="mark_as_unplayed">"Als ungespielt markieren"</string>
     <string name="swipe_left_action">Swipe left action</string>
-    <string name="nothing_in_up_next">Nothing in Up Next.</string>
+    <string name="nothing_in_up_next">Nothing in Up next.</string>
     <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
     <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
@@ -1244,7 +1244,7 @@
     <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up Next is not updated to currently playing episode list or playlist.</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up next is not updated to currently playing episode list or playlist.</string>
     <string name="update_up_next_automatically">Update Up next automatically</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>

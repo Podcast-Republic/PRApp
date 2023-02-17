@@ -119,15 +119,15 @@
     <string name="education">"Istruzione"</string>
     <string name="government">"Governo e organizzazioni"</string>
     <string name="health_fitness">"Salute"</string>
-    <string name="kids">"Bambini &amp; Famiglia"</string>
+    <string name="kids_family">"Bambini &amp; Famiglia"</string>
     <string name="music">"Musica"</string>
     <string name="news">"Attualità &amp; Politica"</string>
-    <string name="region">"Religione &amp; spiritualità"</string>
+    <string name="region_spirituality">"Religione &amp; spiritualità"</string>
     <string name="science">"Scienza &amp; medicina"</string>
-    <string name="society">"Società &amp; cultura"</string>
+    <string name="society_culture">"Società &amp; cultura"</string>
     <string name="sports">"Sport &amp; tempo libero"</string>
     <string name="tech">"Tecnologia"</string>
-    <string name="tv">"TV &amp; film"</string>
+    <string name="tv_film">"TV &amp; film"</string>
     <string name="title">"Titolo"</string>
     <string name="provider">"Provider"</string>
     <string name="image_url">"Indirizzo immagine"</string>
@@ -198,7 +198,7 @@
     <string name="user_interface">"Interfaccia utente"</string>
     <string name="show_descriptions">"Visualizza descrizione"</string>
     <string name="update_on_start">"Aggiorna all'avvio"</string>
-    <string name="media_player">"Media Player"</string>
+    <string name="media_player">"Media player"</string>
     <string name="download_location">"Cartella di download"</string>
     <string name="change_log">"Change log"</string>
     <string name="view_what_s_new_in_this_version">"Novità di questa versione"</string>
@@ -922,7 +922,7 @@
     <string name="find_rss_feed">Trova RSS feed</string>
     <string name="there_are_no_rss_feeds">Non ci sono RSS feed!</string>
     <string name="got_it">Fatto</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Hai ripristinato la lista Up Next. La lista Up Nexxt non verrà sincronizzata con l'episodio in riproduzione o la playlist."</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Hai ripristinato la lista Up next. La lista Up Nexxt non verrà sincronizzata con l'episodio in riproduzione o la playlist."</string>
     <string name="don_t_show_it_again">Non mostrarlo nuovamente</string>
     <string name="always_on">Sempre acceso</string>
     <string name="always_on_amoled_black">Sempre acceso (AMOLED black)</string>
@@ -976,7 +976,7 @@
     <string name="create_shortcut">Crea scorciatoia</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">"Permetti l'utilizzo della connessione dati mobile e ignora le restrizioni della batteria quando scarichi degli episodi."</string>
     <string name="show_play_next_episode_station_button">Mostra il tasto riproduci prossimo episodio/stazione.</string>
-    <string name="append_to_up_next">Aggiungi a Up Next</string>
+    <string name="append_to_up_next">Aggiungi a Up next</string>
     <string name="only_include_episodes_with_user_notes">Include solo episodi con note utilizzatore</string>
     <string name="description_preview">Anteproma della descrizione</string>
     <string name="mark_current_playback_position">Segna la presente posizione di rirproduzione</string>
@@ -1085,7 +1085,7 @@
     <string name="mark_as_played">Segna come riprodotto</string>
     <string name="mark_as_unplayed">Imposta come da riprodurre</string>
     <string name="swipe_left_action">Scorri a sinistra</string>
-    <string name="nothing_in_up_next">Niente in Up Next.</string>
+    <string name="nothing_in_up_next">Niente in Up next.</string>
     <string name="syncing_article_changes_s">Sincronizza le modifiche degli elementi: %1$s.</string>
     <string name="syncing_added_tags_playlists_filters_d">Sincronizza tag/plailyst/filtri aggiunti: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Sincronizza tag/plailyst/filtri rimossi: %1$d.</string>
@@ -1244,7 +1244,7 @@
     <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up Next is not updated to currently playing episode list or playlist.</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up next is not updated to currently playing episode list or playlist.</string>
     <string name="update_up_next_automatically">Update Up next automatically</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>

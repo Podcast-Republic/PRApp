@@ -118,15 +118,15 @@
     <string name="education">"Opleiding"</string>
     <string name="government">"Overheid &amp; Organisaties"</string>
     <string name="health_fitness">"Gezondheidszorg"</string>
-    <string name="kids">"Kinderen &amp; Familie"</string>
+    <string name="kids_family">"Kinderen &amp; Familie"</string>
     <string name="music">"Muziek"</string>
     <string name="news">"Nieuws &amp; Politiek"</string>
-    <string name="region">"Religie &amp; Spiritualiteit"</string>
+    <string name="region_spirituality">"Religie &amp; Spiritualiteit"</string>
     <string name="science">"Wetenschap &amp; Geneeskunde"</string>
-    <string name="society">"Maatschappij &amp; Cultuur"</string>
+    <string name="society_culture">"Maatschappij &amp; Cultuur"</string>
     <string name="sports">"Sport &amp; Recreatie"</string>
     <string name="tech">"Technologie"</string>
-    <string name="tv">"TV &amp; Film"</string>
+    <string name="tv_film">"TV &amp; film"</string>
     <string name="title">"Titel"</string>
     <string name="provider">"Aanbieder"</string>
     <string name="image_url">"Afbeeldings-URL"</string>
@@ -298,7 +298,7 @@
     <string name="edit">"Bewerken"</string>
     <string name="time_display_minute_short_format">"min"</string>
     <string name="keep_screen_on">"Scherm aanhouden"</string>
-    <string name="backup_restore">"Backup &amp; Restore"</string>
+    <string name="backup_restore">"Backup &amp; restore"</string>
     <string name="backup">"Back-up"</string>
     <string name="restore_settings_database">"Klik hier om instellingen &amp; database te herstellen"</string>
     <string name="restore">"Restore"</string>
@@ -1085,7 +1085,7 @@
     <string name="mark_as_played">"Zet afgespeeld"</string>
     <string name="mark_as_unplayed">"Zet niet afgespeeld"</string>
     <string name="swipe_left_action">Swipe left action</string>
-    <string name="nothing_in_up_next">Nothing in Up Next.</string>
+    <string name="nothing_in_up_next">Nothing in Up next.</string>
     <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
     <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
@@ -1244,7 +1244,7 @@
     <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up Next is not updated to currently playing episode list or playlist.</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up next is not updated to currently playing episode list or playlist.</string>
     <string name="update_up_next_automatically">Update Up next automatically</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>

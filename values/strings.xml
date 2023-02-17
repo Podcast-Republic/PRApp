@@ -125,16 +125,16 @@
     <string name="comedy">Comedy</string>
     <string name="education">Education</string>
     <string name="government">Government</string>
-    <string name="health_fitness">Health &amp; Fitness</string>
-    <string name="kids">Kids &amp; Family</string>
+    <string name="health_fitness">Health &amp; fitness</string>
+    <string name="kids_family">Kids &amp; family</string>
     <string name="music">Music</string>
     <string name="news">News</string>
-    <string name="region">Religion &amp; Spirituality</string>
+    <string name="region_spirituality">Religion &amp; spirituality</string>
     <string name="science">Science</string>
-    <string name="society">Society &amp; Culture</string>
+    <string name="society_culture">Society &amp; culture</string>
     <string name="sports">Sports</string>
     <string name="tech">Technology</string>
-    <string name="tv">TV &amp; Film</string>
+    <string name="tv_film">TV &amp; film</string>
     <string name="title">Title</string>
     <string name="provider">Provider</string>
     <string name="image_url">Image URL</string>
@@ -203,10 +203,10 @@
     <string name="when_i_press_next_button">When I press Next button</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
     <string name="background_play">Background play</string>
-    <string name="user_interface">User Interface</string>
+    <string name="user_interface">User interface</string>
     <string name="show_descriptions">Show descriptions</string>
     <string name="update_on_start">Update on start</string>
-    <string name="media_player">Media Player</string>
+    <string name="media_player">Media player</string>
     <string name="download_location">Download location</string>
     <string name="change_log">Change log</string>
     <string name="view_what_s_new_in_this_version">View what\'s new in this version.</string>
@@ -217,7 +217,7 @@
     <string name="download_only_when_connected_to_wifi">Download only when connected to Wi-Fi.</string>
     <string name="add_to_new_tag">Add To New Tag</string>
     <string name="enter_new_tag_name">Enter new tag name</string>
-    <string name="car_mode">Car Mode</string>
+    <string name="car_mode">Car mode</string>
     <string name="update_artwork">Update artwork</string>
     <string name="enter_new_artwork_url">Enter a new artwork URL</string>
     <string name="sleep_timer">Sleep timer</string>
@@ -324,7 +324,7 @@
     <string name="edit">Edit</string>
     <string name="time_display_minute_short_format">min</string>
     <string name="keep_screen_on">Keep screen on</string>
-    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="backup_restore">Backup &amp; restore</string>
     <string name="backup">Backup</string>
     <string name="restore_settings_database">Click to restore settings &amp; database.</string>
     <string name="restore">Restore</string>
@@ -338,7 +338,7 @@
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Create a virtual podcast repository by selecting a directory on your device. Each media file in the selected directory will be imported as episode. You can manually add or remove media files into the directory later.</string>
     <string name="location">Location</string>
     <string name="select_a_directory">Select a directory</string>
-    <string name="data_wifi_usage">Data &amp; Wi-Fi Usage</string>
+    <string name="data_wifi_usage">Data &amp; Wi-Fi usage</string>
     <string name="download_via_wifi_only">Download via Wi-Fi only</string>
     <string name="feed_updates_via_wifi_only">Update podcasts via Wi-Fi only</string>
     <string name="update_podcasts_only_when_connected_to_wifi">Update podcasts only when connected to Wi-Fi.</string>
@@ -362,7 +362,7 @@
     <string name="auto_detect">Auto detect</string>
     <string name="audio">Audio</string>
     <string name="video">Video</string>
-    <string name="account_and_syncing">Account &amp; Syncing</string>
+    <string name="account_and_syncing">Account &amp; syncing</string>
 	<string name="update_on_charging">Update on charging</string>
 	<string name="update_podcasts_only_when_battery_is_charging">Update podcasts only when battery is charging.</string>
 	<string name="filename">Filename</string>
@@ -486,7 +486,7 @@
     <string name="remove_subscription_to_">"Remove subscription to: [%1$s]."</string>
     <string name="data_roaming">Data roaming</string>
     <string name="allow_to_download_with_data_services_when_roaming">Allow to download with data services when roaming.</string>
-    <string name="up_next">Up Next</string>
+    <string name="up_next">Up next</string>
     <string name="episode_info">Episode Info</string>
     <string name="no_more_episodes_to_play_from_playlist_s_">No more episodes to play from playlist [%1$s].</string>
     <string name="apply_this_change_to_all_podcasts_">Apply this change to all podcasts?</string>
@@ -630,7 +630,7 @@
     <string name="no_user_notes_found">No user notes found.</string>
     <string name="no_episode_description_found">No episode description found.</string>
     <string name="or">Or</string>
-    <string name="up_next_list_has_been_updated_to_play_from_s">Up Next list has been updated to play from: %1$s.</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">Up next list has been updated to play from: %1$s.</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">Do a full syncing. Will take much longer to finish.</string>
     <string name="buy_me_a_coffee_message">If you enjoy using Podcast Republic app and you would like to support the development, you can buy me a cup of coffee. Thanks!</string>
     <string name="maybe_later">Maybe later</string>
@@ -934,7 +934,7 @@
     <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Allow to stream podcasts only when Wi-Fi is connected.</string>
     <string name="stream_radios_via_wifi_only">Stream radios via Wi-Fi only</string>
     <string name="allow_to_stream_radios_only_when_wifi_is_connected">Allow to stream radios only when Wi-Fi is connected.</string>
-    <string name="history_and_stats">History &amp; Stats</string>
+    <string name="history_and_stats">History &amp; stats</string>
     <string name="delete_downloads">Delete downloads</string>
     <string name="keep_download">Keep download</string>
     <string name="delete_episodes">Delete episodes</string>
@@ -946,7 +946,7 @@
     <string name="find_rss_feed">Find RSS feed</string>
     <string name="there_are_no_rss_feeds">There are no RSS feeds!</string>
     <string name="got_it">Got it</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up Next list. As a result the Up Next will not be synced with the currently playing episode list or playlist.</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">You\'ve reordered the Up next list. As a result the Up next will not be synced with the currently playing episode list or playlist.</string>
     <string name="don_t_show_it_again">Don\'t show it again</string>
     <string name="always_on">Always on</string>
     <string name="always_on_amoled_black">Always on (AMOLED black)</string>
@@ -1106,7 +1106,7 @@
     <string name="mark_as_played">Mark as played</string>
     <string name="mark_as_unplayed">Mark as unplayed</string>
     <string name="swipe_left_action">Swipe left action</string>
-    <string name="nothing_in_up_next">Nothing in Up Next.</string>
+    <string name="nothing_in_up_next">Nothing in Up next.</string>
     <string name="adjust_playback_position">Adjust playback position</string>
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
@@ -1266,7 +1266,7 @@
     <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up Next is not updated to currently playing episode list or playlist.</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up next is not updated to currently playing episode list or playlist.</string>
     <string name="update_up_next_automatically">Update Up next automatically</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>

@@ -1263,10 +1263,10 @@
     <string name="dynamic_colors">Dynamické farby</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Použiť farebný motív podľa pozadia.</string>
     <string name="loading_">Načítava sa…</string>
-    <string name="virtual_podcast">Virtual podcast</string>
-    <string name="chart">Chart</string>
-    <string name="other">Other</string>
-    <string name="play_time_by_tag">Play time by tag</string>
-    <string name="play_time_by_genre">Play time by genre</string>
-    <string name="play_time_by_media_type">Play time by media type</string>
+    <string name="virtual_podcast">Virtuálny podcast</string>
+    <string name="chart">Graf</string>
+    <string name="other">Iné</string>
+    <string name="play_time_by_tag">Čas prehrávania podľa tagu</string>
+    <string name="play_time_by_genre">Čas prehrávania podľa žánru</string>
+    <string name="play_time_by_media_type">Čas prehrávania podľa typu média</string>
 </resources>

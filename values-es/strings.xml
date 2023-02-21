@@ -1259,4 +1259,10 @@
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>
     <string name="loading_">Loading…</string>
+    <string name="virtual_podcast">Virtual podcast</string>
+    <string name="chart">Chart</string>
+    <string name="other">Other</string>
+    <string name="play_time_by_tag">Play time by tag</string>
+    <string name="play_time_by_genre">Play time by genre</string>
+    <string name="play_time_by_media_type">Play time by media type</string>
 </resources>

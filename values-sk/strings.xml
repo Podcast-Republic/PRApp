@@ -1270,7 +1270,7 @@
     <string name="play_time_by_tag">Čas prehrávania podľa tagu</string>
     <string name="play_time_by_genre">Čas prehrávania podľa žánru</string>
     <string name="play_time_by_media_type">Čas prehrávania podľa typu média</string>
-    <string name="article_text_margin">Article text margin</string>
-    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
-    <string name="default_margin_size">Default</string>
+    <string name="article_text_margin">Okraje textu článku</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Okraje textu pri čítaní na šírku.</string>
+    <string name="default_margin_size">Predvolené</string>
 </resources>

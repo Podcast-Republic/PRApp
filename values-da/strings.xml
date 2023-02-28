@@ -182,6 +182,7 @@
     <string name="publishing_date">"Udgivelsesdato"</string>
     <string name="sort_manually">"Manuelt"</string>
     <string name="update_podcasts">"Opdater podcasts"</string>
+    <string name="update_podcast">"Opdater podcast"</string>
     <string name="sort_by">"Sorter efter…"</string>
     <string name="last_updated_time">"Senest opdaterede"</string>
     <string name="most_recent_count">"Antal seneste afsnit"</string>
@@ -1269,4 +1270,7 @@
     <string name="play_time_by_tag">Play time by tag</string>
     <string name="play_time_by_genre">Play time by genre</string>
     <string name="play_time_by_media_type">Play time by media type</string>
+    <string name="article_text_margin">Article text margin</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
+    <string name="default_margin_size">Default</string>
 </resources>

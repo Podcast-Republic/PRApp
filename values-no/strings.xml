@@ -114,6 +114,7 @@
     <string name="One_episode_has_been_added_to_downloads">En episode er blitt lagt til nedlastinger</string>
     <string name="One_episode_has_been_added_to_playlist">En episode er lagt til i spillelisten</string>
     <string name="update_podcasts">Frekvens på oppdatering av podcaster</string>
+    <string name="update_podcast">Frekvens på oppdatering av podcaster</string>
     <string name="_auto_backup_location"> Plassering for automatisk sikkerhetskopi</string>
     <string name="_download_location"> Plassering av nedlastinger</string>
     <string name="_is_not_found_add_this_podcast_">[%1$s] ble ikke funnet. Legge til podcasten via URL?</string>
@@ -1267,4 +1268,7 @@
     <string name="play_time_by_tag">Play time by tag</string>
     <string name="play_time_by_genre">Play time by genre</string>
     <string name="play_time_by_media_type">Play time by media type</string>
+    <string name="article_text_margin">Article text margin</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
+    <string name="default_margin_size">Default</string>
 </resources>

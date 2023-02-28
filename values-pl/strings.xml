@@ -181,6 +181,7 @@
     <string name="publishing_date">Data publikacji</string>
     <string name="sort_manually">Ręcznie</string>
     <string name="update_podcasts">Aktualizuj</string>
+    <string name="update_podcast">Aktualizuj</string>
     <string name="sort_by">Sortuj według…</string>
     <string name="last_updated_time">Ostatnia aktualizacja</string>
     <string name="most_recent_count">Najnowszych</string>
@@ -1271,4 +1272,7 @@
     <string name="play_time_by_tag">Play time by tag</string>
     <string name="play_time_by_genre">Play time by genre</string>
     <string name="play_time_by_media_type">Play time by media type</string>
+    <string name="article_text_margin">Article text margin</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
+    <string name="default_margin_size">Default</string>
 </resources>

@@ -185,6 +185,7 @@
     <string name="publishing_date">Дате публикации</string>
     <string name="sort_manually">Ручная</string>
     <string name="update_podcasts">Проверить обновления</string>
+    <string name="update_podcast">Проверить обновления</string>
     <string name="sort_by">Сортировать по …</string>
     <string name="last_updated_time">Времени последнего обновления</string>
     <string name="most_recent_count">Счетчику</string>
@@ -1064,8 +1065,8 @@
     <string name="view_unplayed_episodes">Просмотр невоспроизведенных выпусков</string>
     <string name="website">Вебсайт</string>
     <string name="zoom_image">Масштабировать изображение</string>
-    <string name="syncing_rss_feeds_">Синхронизация RSS-лент...</string>
-    <string name="syncing_articles_">Синхронизация статей...</string>
+    <string name="syncing_rss_feeds_">Синхронизация RSS-лент…</string>
+    <string name="syncing_articles_">Синхронизация статей…</string>
     <string name="swipe_left_action">Свайп влево</string>
     <string name="episode_artwork">Обложка выпуска</string>
     <string name="this_will_delete_all_of_your_current_playback_stats_">Это приведет к удалению всего вашего текущего статуса воспроизведения.</string>
@@ -1164,7 +1165,7 @@
     <string name="show_play_next_episode_station_button">Показать кнопку \"Воспроизвести следующим\"</string>
     <string name="append_to_up_next">Добавить в очередь</string>
     <string name="nothing_in_up_next">Очередь пуста</string>
-    <string name="save_up_next_to">Сохранить Очередь в...</string>
+    <string name="save_up_next_to">Сохранить Очередь в…</string>
     <string name="playback_speed_shortcuts">Преднастройки скорости</string>
     <string name="retrieve_full_article">Выгрузить полную статью</string>
     <string name="adjust_playback_position">Отрегулировать положение воспроизведения</string>
@@ -1228,7 +1229,7 @@
     <string name="only_show_episodes_published_after_the_selected_date">Показывать только выпуски вышедшие после выбранной даты.</string>
     <string name="lock_timeline_bar_dragging">Блокировка панели временной шкалы</string>
     <string name="schedule">Расписание</string>
-    <string name="loading_schedule_">Загружаем расписание...</string>
+    <string name="loading_schedule_">Загружаем расписание…</string>
     <string name="mark_all_as_unread">Пометить всё как непрочитпное</string>
     <string name="read_as_adj">Читать</string>
     <string name="send_a_bug_report_with_app_log_">Отправьте сообщение об ошибке вместе с журналом.</string>
@@ -1257,13 +1258,16 @@
     <string name="add_all_d_episodes_to_up_next_">Добавить все выпуски (%1$d) в очередь?</string>
     <string name="add_all_d_episodes_to_playlist_">Добавить все выпуски (%1$d) в плейлист?</string>
     <string name="date_added">Дата добавления</string>
-    <string name="dynamic_colors">Dynamic colors</string>
-    <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>
-    <string name="loading_">Loading…</string>
-    <string name="virtual_podcast">Virtual podcast</string>
-    <string name="chart">Chart</string>
-    <string name="other">Other</string>
-    <string name="play_time_by_tag">Play time by tag</string>
-    <string name="play_time_by_genre">Play time by genre</string>
-    <string name="play_time_by_media_type">Play time by media type</string>
+    <string name="dynamic_colors">Динамические цвета</string>
+    <string name="apply_the_color_theme_based_on_your_wallpaper_">Примените цветовую тему на основе ваших обоев.</string>
+    <string name="loading_">Загружается…</string>
+    <string name="virtual_podcast">Виртуальный подкаст</string>
+    <string name="chart">Диаграмма</string>
+    <string name="other">Другое</string>
+    <string name="play_time_by_tag">Время воспроизведения по тегам</string>
+    <string name="play_time_by_genre">Время воспроизведения по жанрам</string>
+    <string name="play_time_by_media_type">Время воспроизведения по типу мультимедиа</string>
+    <string name="article_text_margin">Article text margin</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
+    <string name="default_margin_size">Default</string>
 </resources>

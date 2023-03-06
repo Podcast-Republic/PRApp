@@ -1273,5 +1273,5 @@
     <string name="article_text_margin">Okraje textu článku</string>
     <string name="text_margin_when_reading_in_landscape_mode_">Okraje textu pri čítaní na šírku.</string>
     <string name="default_margin_size">Predvolené</string>
-    <string name="popularity">Popularity</string>
+    <string name="popularity">Popularita</string>
 </resources>

@@ -1270,4 +1270,5 @@
     <string name="article_text_margin">Article text margin</string>
     <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
     <string name="default_margin_size">Default</string>
+    <string name="popularity">Popularity</string>
 </resources>

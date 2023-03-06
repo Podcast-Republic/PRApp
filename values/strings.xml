@@ -1210,7 +1210,7 @@
     <string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Customize playback controls on collapsed and expanded notifications.</string>
     <string name="collapsed_notification_short_format">Collapsed</string>
     <string name="expanded_notification_short_format">Expanded</string>
-    <string name="at_lease_one_playback_control_is_required">- At lease one playback control is required.</string>
+    <string name="at_lease_one_playback_control_is_required">- At least one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
     <string name="save_image">Save image</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
@@ -1294,4 +1294,5 @@
     <string name="article_text_margin">Article text margin</string>
     <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
     <string name="default_margin_size">Default</string>
+    <string name="popularity">Popularity</string>
 </resources>

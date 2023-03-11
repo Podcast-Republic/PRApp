@@ -1273,5 +1273,7 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
     <string name="default_margin_size">Default</string>
     <string name="popularity">Popularity</string>
+    <string name="display_up_next_list">Display Up next list</string>
+    <string name="browse_up_next">Browse Up next</string>
 </resources>
 

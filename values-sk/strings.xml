@@ -1274,6 +1274,6 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Okraje textu pri čítaní na šírku.</string>
     <string name="default_margin_size">Predvolené</string>
     <string name="popularity">Popularita</string>
-    <string name="display_up_next_list">Display Up next list</string>
-    <string name="browse_up_next">Browse Up next</string>
+    <string name="display_up_next_list">Zobraziť zoznam Nasleduje</string>
+    <string name="browse_up_next">Prehliadať zoznam Nasleduje</string>
 </resources>

@@ -144,9 +144,9 @@
     <string name="no_episode_selected">"Ningún episodio seleccionado"</string>
     <string name="set_played">"Marcar como reproducido"</string>
     <string name="delete_episode">"Eliminar episodio"</string>
-    <string name="One_episode_has_been_added_to_playlist">"Se ha agregado un episodio a la lista de reproducción"</string>
+    <string name="one_episode_has_been_added_to_playlist">"Se ha agregado un episodio a la lista de reproducción"</string>
     <string name="episodes_have_been_added_to_playlist">"Se agregaron %1$d episodios a la lista de reproducción"</string>
-    <string name="One_episode_has_been_added_to_downloads">"Se ha agregado un episodio a las descargas"</string>
+    <string name="one_episode_has_been_added_to_downloads">"Se ha agregado un episodio a las descargas"</string>
     <string name="episodes_have_been_added_to_downloads">"Se agregaron %1$d episodios a las descargas"</string>
     <string name="download_episode_not_found">"Episodio descargado no encontrado"</string>
     <string name="yes">"Sí"</string>
@@ -441,7 +441,7 @@
     <string name="resume_downloads">"Reanudar las descargas"</string>
     <string name="clear_playlist">"Borrar lista de reproducción"</string>
     <string name="clear_current_playlist_">"¿Borrar lista de reproducción actual?"</string>
-    <string name="enter_playlist_name">"Añadir el nombre de la lista de reproducción"</string>
+    <string name="enter_new_playlist_name">"Añadir el nombre de la lista de reproducción"</string>
     <string name="podcast_exported_to_">"Podcast exportado a: [%1$s]"</string>
     <string name="search_not_found">"Búsqueda no encontrada"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] no se encuentra. ¿Agregar este podcast por URL?"</string>
@@ -491,6 +491,7 @@
     <string name="import_from_opml_file">"Importar OPML"</string>
     <string name="export_to_opml_file">"Exportar OPML"</string>
     <string name="episodes">"Episodios"</string>
+    <string name="episodes_and_count">"Episodios: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">"El episodio [%1$s] aún se está descargando. No se puede reproducir."</string>
     <string name="error_episode_still_downloading">"Error: El episodio aún se está descargando"</string>
     <string name="disabled">"Desactivado"</string>
@@ -734,7 +735,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"¡No podrás volver a iniciar sesión en esta cuenta! ¿Continuar para eliminar la cuenta?"</string>
     <string name="download_completed">"Descarga completada"</string>
     <string name="notify_when_an_episode_has_been_downloaded">"Notificar cuando un episodio ha sido descargado"</string>
-    <string name="night_mode">"Modo nocturno"</string>
+    <string name="dark_theme">"Modo nocturno"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Cambiar automáticamente entre tema claro (día) y tema oscuro (noche) según la hora del día"</string>
     <string name="playback_mode_repeat_episode">"Repetir el episodio"</string>
     <string name="playback_mode_repeat_playlist">"Repetir la lista de reproducción"</string>
@@ -778,7 +779,7 @@
     <string name="syncing_via_wifi_only">"Sincronización sólo a través de Wi-Fi"</string>
     <string name="total_downloaded_file_size_s">"Tamaño total del archivo descargado: %s"</string>
     <string name="featured">"Destacado"</string>
-    <string name="polular">"Popular"</string>
+    <string name="popular">"Popular"</string>
     <string name="select_episodes_from_today">"Seleccionar los episodios de hoy"</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Hemos detectado un cierre inesperado en la aplicación. ¿Le gustaría enviar el informe de ese cierre para que podamos solucionar el problema?"</string>
     <string name="generating_bug_report_">"Generando informe de errores…"</string>
@@ -816,6 +817,7 @@
     <string name="download_date">"Fecha de descarga"</string>
     <string name="create_an_episode_filter">"Crear filtro de episodio"</string>
     <string name="play_time">"Tiempo de reproducción"</string>
+    <string name="play_time_display">"Tiempo de reproducción: %1$s"</string>
     <string name="recently_played">"Recientemente reproducido"</string>
     <string name="play_all_newer_episodes">"Reproducir todos los episodios recientes"</string>
     <string name="see_what_s_new_in_this_version_s">"Ver las novedades de esta versión: %s"</string>
@@ -881,10 +883,10 @@
     <string name="there_are_no_favorite_episodes_">"¡No hay episodios favoritos!"</string>
     <string name="there_are_no_downloaded_episodes_">"¡No hay episodios descargados!"</string>
     <string name="start_playing_and_go_to_now_playing">"Comenzar la reproducción e ir a la pantalla de reproducción"</string>
-    <string name="show_unplayed_counter">"Mostrar contadores de no reproducidos"</string>
-    <string name="hide_unplayed_counter">"Ocultar contadores no reproducidos"</string>
-    <string name="show_recent_counter">"Mostrar contadores de no recientes"</string>
-    <string name="hide_recent_counter">"Ocultar contadores no recientes"</string>
+    <string name="show_unplayed_count">"Mostrar contadores de no reproducidos"</string>
+    <string name="hide_unplayed_count">"Ocultar contadores no reproducidos"</string>
+    <string name="show_recent_count">"Mostrar contadores de no recientes"</string>
+    <string name="hide_recent_count">"Ocultar contadores no recientes"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"No se han encontrado emisoras de radio. Presione el botón Agregar (+) para agregar una emisora de radio."</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"No se han encontrado feeds de RSS. Presione el botón Agregar (+) para agregar un feed."</string>
     <string name="tag_radios">"Etiquetar radios"</string>
@@ -987,7 +989,7 @@
     <string name="pin_to_top">Mantener en la parte superior</string>
     <string name="unpin_from_top">Quitar de la parte superior</string>
     <string name="only_include_episodes_with_user_chapters">Solo incluir episodios con capitulos de usuarios</string>
-    <string name="add_tags_to_podcasts">Añadir Tags al podcast</string>
+    <string name="add_tags_to_podcast">Añadir Tags al podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Añadir nuevos episodios automaticamente a las Playlist seleccionadas.</string>
     <string name="podcast_artwork">Artwork del Podcast</string>
     <string name="rss_feed_artwork">Artwork del canal RSS</string>
@@ -1121,7 +1123,7 @@
     <string name="article_publishing_date">Fecha de publicación del artículo</string>
     <string name="article_guid">GUID de artículo</string>
     <string name="article_title">Título del artículo</string>
-    <string name="follow_android_systems_dark_theme_setup">Siga la configuración del tema oscuro del sistema Android.</string>
+    <string name="follow_os_systems_dark_theme_setup">Siga la configuración del tema oscuro del sistema Android.</string>
     <string name="background_color">Color de fondo</string>
     <string name="current_color">Color actual</string>
     <string name="text_color">Color del texto</string>
@@ -1198,8 +1200,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Seleccione episodios con una duración entre %1$d y %2$d minutos.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Seleccione episodios con una duración inferior a %1$d minutos o superior a %2$d minutos.</string>
     <string name="chapter_s_will_be_skipped">¡Se saltará el capítulo [%1$s]!</string>
-    <string name="skip_the_chapter">Saltar el capítulo</string>
-    <string name="dont_skip_the_chapter">No te saltes el capítulo</string>
+    <string name="skip_this_chapter">Saltar el capítulo</string>
+    <string name="dont_skip_this_chapter">No te saltes el capítulo</string>
     <string name="podcast_title">Título del podcast</string>
     <string name="radio_station_name">Nombre de la estación</string>
     <string name="podcast_priority">Prioridad de podcast</string>
@@ -1266,10 +1268,16 @@
     <string name="play_time_by_tag">Tiempo de reproducción por etiqueta</string>
     <string name="play_time_by_genre">Tiempo de reproducción por género</string>
     <string name="play_time_by_media_type">Tiempo de reproducción por tipo de medio</string>
-    <string name="article_text_margin">Article text margin</string>
-    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
-    <string name="default_margin_size">Default</string>
-    <string name="popularity">Popularity</string>
-    <string name="display_up_next_list">Display Up next list</string>
-    <string name="browse_up_next">Browse Up next</string>
+    <string name="article_text_margin">Margen del texto del artículo</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Margen de texto al leer en modo horizontal.</string>
+    <string name="default_margin_size">Predeterminado</string>
+    <string name="popularity">Popularidad</string>
+    <string name="display_up_next_list">Mostrar la siguiente lista</string>
+    <string name="browse_up_next">Explorar a continuación</string>
+    <string name="add_notes">Añadir notas</string>
+    <string name="display_options">Opciones de visualización</string>
+    <string name="there_are_no_unread_articles_">No hay artículos sin leer.</string>
+    <string name="there_are_no_read_articles_">No hay artículos leídos.</string>
+    <string name="there_are_no_favorite_articles_">No hay artículos favoritos.</string>
+    <string name="there_are_no_deleted_articles_">No hay artículos eliminados.</string>
 </resources>

@@ -144,9 +144,9 @@
     <string name="no_episode_selected">"Geen aflevering geselecteerd"</string>
     <string name="set_played">"Zet afgespeeld"</string>
     <string name="delete_episode">"Verwijder aflevering"</string>
-    <string name="One_episode_has_been_added_to_playlist">"Eén aflevering toegevoegd aan afspeellijst"</string>
+    <string name="one_episode_has_been_added_to_playlist">"Eén aflevering toegevoegd aan afspeellijst"</string>
     <string name="episodes_have_been_added_to_playlist">"%1$d afleveringen toegevoegd aan afspeellijst"</string>
-    <string name="One_episode_has_been_added_to_downloads">"Eén aflevering toegevoegd aan downloads"</string>
+    <string name="one_episode_has_been_added_to_downloads">"Eén aflevering toegevoegd aan downloads"</string>
     <string name="episodes_have_been_added_to_downloads">"%1$d afleveringen toegevoegd aan downloads"</string>
     <string name="download_episode_not_found">"Gedownloade aflevering niet gevonden"</string>
     <string name="yes">"Ja"</string>
@@ -441,7 +441,7 @@
     <string name="resume_downloads">"Downloaden hervatten"</string>
     <string name="clear_playlist">"Leegmaken afspeellijst"</string>
     <string name="clear_current_playlist_">"Leegmaken huidige afspeellijst?"</string>
-    <string name="enter_playlist_name">"Naam afspeellijst"</string>
+    <string name="enter_new_playlist_name">"Naam afspeellijst"</string>
     <string name="podcast_exported_to_">"Podcast geëxporteerd naar: [%1$s]"</string>
     <string name="search_not_found">"Zoekterm niet gevonden"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] niet gevonden. Voeg deze podcast toe via URL?"</string>
@@ -491,6 +491,7 @@
     <string name="import_from_opml_file">"Importeer OPML"</string>
     <string name="export_to_opml_file">"Exporteer OPML"</string>
     <string name="episodes">"Afleveringen"</string>
+    <string name="episodes_and_count">"Afleveringen: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">"Aflevering [%1$s] download nog steeds. Kan het niet afspelen."</string>
     <string name="error_episode_still_downloading">"Fout: aflevering download nog steeds"</string>
     <string name="disabled">"Uitgeschakeld"</string>
@@ -734,7 +735,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Je zult niet meer op dit account kunnen inloggen! Doorgaan met verwijderen van dit account?</string>
     <string name="download_completed">Download afgerond</string>
     <string name="notify_when_an_episode_has_been_downloaded">Meld het wanneer een aflevering is gedownload</string>
-    <string name="night_mode">"Nachtstand"</string>
+    <string name="dark_theme">"Nachtstand"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Schakelt automatisch tussen licht thema (dag) en donker thema (nacht) op basis van het tijdstip van de dag"</string>
     <string name="playback_mode_repeat_episode">"Herhaal aflevering"</string>
     <string name="playback_mode_repeat_playlist">"Herhaal afspeellijst"</string>
@@ -778,7 +779,7 @@
     <string name="syncing_via_wifi_only">"Alleen synchroniseren via WiFi"</string>
     <string name="total_downloaded_file_size_s">"Totale gedownloade bestandsgrootte: %s"</string>
     <string name="featured">"Uitgelicht"</string>
-    <string name="polular">"Populair"</string>
+    <string name="popular">"Populair"</string>
     <string name="select_episodes_from_today">"Selecteer afleveringen vanaf vandaag"</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"We hebben eerder een crash in de app gedetecteerd. Wil je het crashrapport verzenden zodat we het probleem kunnen oplossen?"</string>
     <string name="generating_bug_report_">"Foutrapport genereren …"</string>
@@ -816,6 +817,7 @@
     <string name="download_date">"Downloaddatum"</string>
     <string name="create_an_episode_filter">"Maak afleveringsfilter"</string>
     <string name="play_time">"Speeltijd"</string>
+    <string name="play_time_display">"Speeltijd: %1$s"</string>
     <string name="recently_played">"Recent gespeeld"</string>
     <string name="play_all_newer_episodes">"Speel alle nieuwere afleveringen"</string>
     <string name="see_what_s_new_in_this_version_s">"Bekijk wat er nieuw is in deze versie: %s"</string>
@@ -881,10 +883,10 @@
     <string name="there_are_no_favorite_episodes_">"Er zijn geen favoriete afleveringen!"</string>
     <string name="there_are_no_downloaded_episodes_">"Er zijn geen gedownloade afleveringen!"</string>
     <string name="start_playing_and_go_to_now_playing">"Begin met spelen en ga naar Nu spelen"</string>
-    <string name="show_unplayed_counter">"Toon ongespeelde tellers"</string>
-    <string name="hide_unplayed_counter">"Ongespeelde tellers verbergen"</string>
-    <string name="show_recent_counter">"Toon recente tellers"</string>
-    <string name="hide_recent_counter">"Recente tellers verbergen"</string>
+    <string name="show_unplayed_count">"Toon ongespeelde tellers"</string>
+    <string name="hide_unplayed_count">"Ongespeelde tellers verbergen"</string>
+    <string name="show_recent_count">"Toon recente tellers"</string>
+    <string name="hide_recent_count">"Recente tellers verbergen"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Geen radiozenders gevonden. Druk op de knop Toevoegen (+) om een radiozender toe te voegen."</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"Geen RSS-feeds gevonden. Druk op de knop Toevoegen (+) om een feed toe te voegen."</string>
     <string name="tag_radios">"Tag radio's"</string>
@@ -990,7 +992,7 @@
     <string name="pin_to_top">Pin bovenaan vast</string>
     <string name="unpin_from_top">Maak pin los</string>
     <string name="only_include_episodes_with_user_chapters">Enkel afleveringen met gebruikershoofdstukken</string>
-    <string name="add_tags_to_podcasts">Voeg tags toe aan podcast</string>
+    <string name="add_tags_to_podcast">Voeg tags toe aan podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Voeg nieuwe afleveringen automatisch toe aan geselecteerde afspeellijsten.</string>
     <string name="podcast_artwork">Podcast artwork</string>
     <string name="rss_feed_artwork">RSS-feed artwork</string>
@@ -1124,7 +1126,7 @@
     <string name="article_publishing_date">Article publishing date</string>
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
-    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="follow_os_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
     <string name="background_color">Background color</string>
     <string name="current_color">Current color</string>
     <string name="text_color">Text color</string>
@@ -1201,8 +1203,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
     <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
-    <string name="skip_the_chapter">Skip the chapter</string>
-    <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
+    <string name="skip_this_chapter">Skip this chapter</string>
+    <string name="dont_skip_this_chapter">Don\'t skip this chapter</string>
     <string name="podcast_title">Podcast title</string>
     <string name="radio_station_name">Station name</string>
     <string name="podcast_priority">Podcast priority</string>
@@ -1275,4 +1277,10 @@
     <string name="popularity">Popularity</string>
     <string name="display_up_next_list">Display Up next list</string>
     <string name="browse_up_next">Browse Up next</string>
+    <string name="add_notes">Add notes</string>
+    <string name="display_options">Display options</string>
+    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
+    <string name="there_are_no_read_articles_">There are no read articles.</string>
+    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
+    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
 </resources>

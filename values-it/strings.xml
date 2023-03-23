@@ -145,9 +145,9 @@
     <string name="no_episode_selected">"Nessun episodio selezionato"</string>
     <string name="set_played">"Imposta come riprodotto"</string>
     <string name="delete_episode">"Elimina episodio"</string>
-    <string name="One_episode_has_been_added_to_playlist">"Un episodio è stato aggiunto alla playlist"</string>
+    <string name="one_episode_has_been_added_to_playlist">"Un episodio è stato aggiunto alla playlist"</string>
     <string name="episodes_have_been_added_to_playlist">"%1$d episodi sono stati aggiunti alla playlist"</string>
-    <string name="One_episode_has_been_added_to_downloads">"Un episodio è stato aggiunto ai download"</string>
+    <string name="one_episode_has_been_added_to_downloads">"Un episodio è stato aggiunto ai download"</string>
     <string name="episodes_have_been_added_to_downloads">"%1$d episodi sono stati aggiunti ai download"</string>
     <string name="download_episode_not_found">"Episodio scaricato non trovato"</string>
     <string name="yes">"Si"</string>
@@ -443,7 +443,7 @@
     <string name="resume_downloads">"Riprendi i download"</string>
     <string name="clear_playlist">"Cancella playlist"</string>
     <string name="clear_current_playlist_">"Cancellare la playlist corrente?"</string>
-    <string name="enter_playlist_name">"Inserire il nome della playlist"</string>
+    <string name="enter_new_playlist_name">"Inserire il nome della playlist"</string>
     <string name="podcast_exported_to_">"Podcast esportato in: [%1$s]"</string>
     <string name="search_not_found">"Ricerca non trovata"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] non trovato. Aggiungi questo podcast inserendo l'URL?"</string>
@@ -493,6 +493,7 @@
     <string name="import_from_opml_file">"Importa OPML"</string>
     <string name="export_to_opml_file">"Esporta OPML"</string>
     <string name="episodes">"Episodi"</string>
+    <string name="episodes_and_count">"Episodi: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">"L'episodio [%1$s] è ancora in download. Impossibile riprodurre."</string>
     <string name="error_episode_still_downloading">"Errore: episodio ancora in download"</string>
     <string name="disabled">"Disabilitato"</string>
@@ -736,7 +737,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Non potrai più accedere a questo account! Sei sicuro di volerlo eliminare?</string>
     <string name="download_completed">Download completato</string>
     <string name="notify_when_an_episode_has_been_downloaded">Notificami quando un episodio è stato scaricato.</string>
-    <string name="night_mode">Modalità notturna</string>
+    <string name="dark_theme">Modalità notturna</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Passa automaticamente dal tema chiaro (giorno) a quello scuro (notte) in base all'orario."</string>
     <string name="playback_mode_repeat_episode">"Ripeti l'episodio"</string>
     <string name="playback_mode_repeat_playlist">Ripeti la playlist</string>
@@ -780,7 +781,7 @@
     <string name="syncing_via_wifi_only">Sincronizza solo in WiFi</string>
     <string name="total_downloaded_file_size_s">Dimensione totale file scaricato: %s</string>
     <string name="featured">In evidenza</string>
-    <string name="polular">Popolare</string>
+    <string name="popular">Popolare</string>
     <string name="select_episodes_from_today">Seleziona episodi da oggi</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Abbiamo individuato un precedente crash dell'app. Vuoi inviarci il report del crash così possiamo correggere il problema?"</string>
     <string name="generating_bug_report_">Sto generando il report del bug…</string>
@@ -818,6 +819,7 @@
     <string name="download_date">"Data di download"</string>
     <string name="create_an_episode_filter">"Crea un filtro episodi"</string>
     <string name="play_time">"Tempo di riproduzione"</string>
+    <string name="play_time_display">"Tempo di riproduzione: %1$s"</string>
     <string name="recently_played">"Riprodotto recentemente"</string>
     <string name="play_all_newer_episodes">"Riproduci tutti gli episodi più recenti"</string>
     <string name="see_what_s_new_in_this_version_s">"Guarda le novità di questa versione: %s"</string>
@@ -883,10 +885,10 @@
     <string name="there_are_no_favorite_episodes_">"Non ci sono episodi preferiti!"</string>
     <string name="there_are_no_downloaded_episodes_">"Non ci sono episodi scaricati!"</string>
     <string name="start_playing_and_go_to_now_playing">"Inizia e vai su In Riproduzione"</string>
-    <string name="show_unplayed_counter">"Mostra contatori non ascoltati"</string>
-    <string name="hide_unplayed_counter">"Nascondi contatori non ascoltati"</string>
-    <string name="show_recent_counter">"Mostra contatori non recenti"</string>
-    <string name="hide_recent_counter">"Nascondi contatori non recenti"</string>
+    <string name="show_unplayed_count">"Mostra contatori non ascoltati"</string>
+    <string name="hide_unplayed_count">"Nascondi contatori non ascoltati"</string>
+    <string name="show_recent_count">"Mostra contatori non recenti"</string>
+    <string name="hide_recent_count">"Nascondi contatori non recenti"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"Nessuna stazione radio trovata. Premere il pulsante Aggiungi (+) per aggiungere una stazione radio."</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"Nessun feed RSS trovato. Premi il pulsante Aggiungi (+) per aggiungere un feed."</string>
     <string name="tag_radios">"Tag radio"</string>
@@ -990,7 +992,7 @@
     <string name="pin_to_top">Fissa in alto</string>
     <string name="unpin_from_top">Annulla fissa in alto</string>
     <string name="only_include_episodes_with_user_chapters">Includi solo episodi con capitoli utilizzatore</string>
-    <string name="add_tags_to_podcasts">Aggiung etichetta al podcast</string>
+    <string name="add_tags_to_podcast">Aggiung etichetta al podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Aggiungi automaticamente gli episodi selezionati alla playlist.</string>
     <string name="podcast_artwork">Immagine podcast</string>
     <string name="rss_feed_artwork">RSS feed artwork</string>
@@ -1124,7 +1126,7 @@
     <string name="article_publishing_date">Article publishing date</string>
     <string name="article_guid">"GUID dell'articolo"</string>
     <string name="article_title">"Titolo dell'articolo"</string>
-    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="follow_os_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
     <string name="background_color">Colore dello sfondo</string>
     <string name="current_color">Colore attuale</string>
     <string name="text_color">Colore del testo</string>
@@ -1201,8 +1203,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Seleziona episodi con durata compresa tra %1$d e %2$d minuti.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Seleziona episodi con durata inferiore a %1$d minuti o superiore a %2$d minuti.</string>
     <string name="chapter_s_will_be_skipped">Il capitolo [%1$s] verrà saltato!</string>
-    <string name="skip_the_chapter">Salta il capitolo</string>
-    <string name="dont_skip_the_chapter">Non saltare il capitolo</string>
+    <string name="skip_this_chapter">Salta il capitolo</string>
+    <string name="dont_skip_this_chapter">Non saltare il capitolo</string>
     <string name="podcast_title">Titolo del podcast</string>
     <string name="radio_station_name">Nome della stazione</string>
     <string name="podcast_priority">Priorità podcast</string>
@@ -1269,10 +1271,16 @@
     <string name="play_time_by_tag">Tempo di riproduzione per tag</string>
     <string name="play_time_by_genre">Tempo di riproduzione per genere</string>
     <string name="play_time_by_media_type">Tempo di riproduzione per tipo di media</string>
-    <string name="article_text_margin">Article text margin</string>
-    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
-    <string name="default_margin_size">Default</string>
-    <string name="popularity">Popularity</string>
-    <string name="display_up_next_list">Display Up next list</string>
-    <string name="browse_up_next">Browse Up next</string>
+    <string name="article_text_margin">"Margine del testo dell'articolo"</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Margine del testo durante la lettura in modalità orizzontale.</string>
+    <string name="default_margin_size">Predefinito</string>
+    <string name="popularity">Popolarità</string>
+    <string name="display_up_next_list">Visualizza lista successiva</string>
+    <string name="browse_up_next">Sfoglia avanti</string>
+    <string name="add_notes">Aggiungi note</string>
+    <string name="display_options">Opzioni di visualizzazione</string>
+    <string name="there_are_no_unread_articles_">Non ci sono articoli non letti.</string>
+    <string name="there_are_no_read_articles_">Non ci sono articoli letti.</string>
+    <string name="there_are_no_favorite_articles_">Non ci sono articoli preferiti.</string>
+    <string name="there_are_no_deleted_articles_">Non ci sono articoli eliminati.</string>
 </resources>

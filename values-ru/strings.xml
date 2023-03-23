@@ -149,9 +149,9 @@
     <string name="no_episode_selected">Не выбрано ни одного выпуска</string>
     <string name="set_played">Отметить как прослушанный</string>
     <string name="delete_episode">Удалить выпуск</string>
-    <string name="One_episode_has_been_added_to_playlist">Один выпуск добавлен в плейлист</string>
+    <string name="one_episode_has_been_added_to_playlist">Один выпуск добавлен в плейлист</string>
     <string name="episodes_have_been_added_to_playlist">%1$d выпуск добавлен в плейлист</string>
-    <string name="One_episode_has_been_added_to_downloads">Один выпуск добавлен к списку загрузок</string>
+    <string name="one_episode_has_been_added_to_downloads">Один выпуск добавлен к списку загрузок</string>
     <string name="episodes_have_been_added_to_downloads">%1$d выпуск добавлен к списку загрузок</string>
     <string name="download_episode_not_found">Загруженный выпуск не найден!</string>
     <string name="yes">Да</string>
@@ -439,7 +439,7 @@
     <string name="resume_downloads">Возобновить загрузки</string>
     <string name="clear_playlist">Очистить плейлист</string>
     <string name="clear_current_playlist_">Очистить текущий плейлист?</string>
-    <string name="enter_playlist_name">Введите имя плейлиста</string>
+    <string name="enter_new_playlist_name">Введите имя плейлиста</string>
     <string name="podcast_exported_to_">"Подкаст выгружен в: [%1$s]"</string>
     <string name="search_not_found">Не найдено</string>
     <string name="_is_not_found_add_this_podcast_">[%1$s] не найден. Добавить подкаст по URL?</string>
@@ -489,6 +489,7 @@
     <string name="import_from_opml_file">Импорт OPML</string>
     <string name="export_to_opml_file">Зкспорт OPML</string>
     <string name="episodes">Выпуски</string>
+    <string name="episodes_and_count">"Выпуски: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">Невозможно воспроизвести сейчас. Выпуск  [%1$s] все еще загружается.</string>
     <string name="error_episode_still_downloading">Ошибка: выпуск все еще загружается</string>
     <string name="disabled">Отключен</string>
@@ -736,7 +737,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"Вы не сможете снова войти в эту учетную запись! Продолжить удаление учетной записи?"</string>
     <string name="download_completed">"Загрузка завершена"</string>
     <string name="notify_when_an_episode_has_been_downloaded">"Уведомлять, когда выпуск загружен"</string>
-    <string name="night_mode">"Ночной режим"</string>
+    <string name="dark_theme">"Ночной режим"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Автоматическое переключение между светлой темой (днём) и темной темой (ночью), в зависимости от времени суток"</string>
     <string name="alarms">Будильник</string>
     <string name="no_alarms_found_">Будильники не найдены.</string>
@@ -778,7 +779,7 @@
     <string name="syncing_via_wifi_only">Синхронизировать по Wi-Fi</string>
     <string name="total_downloaded_file_size_s">Общий размер загруженных файлов: %1$s</string>
     <string name="featured">Рекомендуемое</string>
-    <string name="polular">Популярное</string>
+    <string name="popular">Популярное</string>
     <string name="select_episodes_from_today">За сегодня</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Мы обнаружили сбой в приложении! Отправить отчёт, чтобы мы могли решить эту проблему?"</string>
     <string name="generating_bug_report_">Создание отчета об ошибке…</string>
@@ -816,6 +817,7 @@
     <string name="download_date">Дате загрузки</string>
     <string name="create_an_episode_filter">Создать фильтр выпусков</string>
     <string name="play_time">Общее время</string>
+    <string name="play_time_display">"Общее время: %1$s"</string>
     <string name="recently_played">Недавно слушали</string>
     <string name="play_all_newer_episodes">Воспроизвести всё новее этого</string>
     <string name="see_what_s_new_in_this_version_s">Что нового в этой версии: %1$s</string>
@@ -881,10 +883,10 @@
     <string name="there_are_no_favorite_episodes_">Здесь нет избранных выпусков!</string>
     <string name="there_are_no_downloaded_episodes_">Здесь нет загруженных выпусков!</string>
     <string name="start_playing_and_go_to_now_playing">Воспроизвести и перейти в раздел \'Вы слушаете\'</string>
-    <string name="show_unplayed_counter">Показать счетчик непрослушанных</string>
-    <string name="hide_unplayed_counter">Скрыть счетчик непрослушанных</string>
-    <string name="show_recent_counter">Показать счетчик последних</string>
-    <string name="hide_recent_counter">Скрыть счетчик последних</string>
+    <string name="show_unplayed_count">Показать счетчик непрослушанных</string>
+    <string name="hide_unplayed_count">Скрыть счетчик непрослушанных</string>
+    <string name="show_recent_count">Показать счетчик последних</string>
+    <string name="hide_recent_count">Скрыть счетчик последних</string>
     <string name="there_are_no_rss_feeds">Здесь нет RSS лент!</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Удалить файл виртуального подкаста из хранилища после воспроизведения.</string>
     <string name="play_all">Воспроизвести всё</string>
@@ -1042,7 +1044,7 @@
     <string name="tag_rss_feeds">Тегировать ленты</string>
     <string name="id3_tag_album_cd_track">ID3 Tag (Album - CD track)</string>
     <string name="delete_the_tag_s">Удалить тег: %s?</string>
-    <string name="add_tags_to_podcasts">Добавление тегов к подкасту</string>
+    <string name="add_tags_to_podcast">Добавление тегов к подкасту</string>
     <string name="not_tagged">Без тегов</string>
     <string name="youtube">YouTube</string>
     <string name="some_downloads_are_not_moved_to_s">Некоторые загрузки не перемещены: %s</string>
@@ -1141,7 +1143,7 @@
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Игнорируйте артикли (A, An или The) в названии подкаста при сортировке по названию.</string>
     <string name="html_notation">HTML-нотация</string>
     <string name="grid_spacing">Зазор между плиткой</string>
-    <string name="follow_android_systems_dark_theme_setup">Следовать настройкам темной темы системы Android.</string>
+    <string name="follow_os_systems_dark_theme_setup">Следовать настройкам темной темы системы Android.</string>
     <string name="feed_title_can_not_be_empty_">Заголовок ленты не может быть пустым!</string>
     <string name="extract_from_metadata">Извлечь из метаданных</string>
     <string name="fade_audio_out_2_minutes_left">Затухание звука (осталось 2 минуты)</string>
@@ -1198,9 +1200,9 @@
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Нет Wi-Fi подключения - Хотите обновить подкаст с помощью мобильного подключения единоразово?</string>
     <string name="hide_radio_station_name">Скрыть название станции</string>
     <string name="show_radio_station_name">Показать название станции</string>
-    <string name="skip_the_chapter">Пропустить главу</string>
+    <string name="skip_this_chapter">Пропустить главу</string>
     <string name="chapter_s_will_be_skipped">Глава [%1$s] будет пропущена!</string>
-    <string name="dont_skip_the_chapter">Не пропускать главу</string>
+    <string name="dont_skip_this_chapter">Не пропускать главу</string>
     <string name="group_by_podcast_priority">Сгрупировать по приоритету</string>
     <string name="podcast_title">Название подкаста</string>
     <string name="podcast_priority">Приоритет подкаста</string>
@@ -1267,10 +1269,16 @@
     <string name="play_time_by_tag">Время воспроизведения по тегам</string>
     <string name="play_time_by_genre">Время воспроизведения по жанрам</string>
     <string name="play_time_by_media_type">Время воспроизведения по типу мультимедиа</string>
-    <string name="article_text_margin">Article text margin</string>
-    <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
-    <string name="default_margin_size">Default</string>
-    <string name="popularity">Popularity</string>
-    <string name="display_up_next_list">Display Up next list</string>
-    <string name="browse_up_next">Browse Up next</string>
+    <string name="article_text_margin">поле текста статьи</string>
+    <string name="text_margin_when_reading_in_landscape_mode_">Поле текста при чтении в альбомной ориентации.</string>
+    <string name="default_margin_size">По умолчанию</string>
+    <string name="popularity">Популярность</string>
+    <string name="display_up_next_list">Отображать следующий список</string>
+    <string name="browse_up_next">Просмотреть дальше</string>
+    <string name="add_notes">Добавить заметки</string>
+    <string name="display_options">Параметры отображения</string>
+    <string name="there_are_no_unread_articles_">Нет непрочитанных статей.</string>
+    <string name="there_are_no_read_articles_">Нет прочитанных статей.</string>
+    <string name="there_are_no_favorite_articles_">Нет избранных статей.</string>
+    <string name="there_are_no_deleted_articles_">Удаленных статей нет.</string>
 </resources>

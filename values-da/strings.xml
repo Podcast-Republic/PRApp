@@ -145,9 +145,9 @@
     <string name="no_episode_selected">"Ingen afsnit valgt"</string>
     <string name="set_played">"Marker som afspillet"</string>
     <string name="delete_episode">"Slet afsnit"</string>
-    <string name="One_episode_has_been_added_to_playlist">"En afsnit er blevet tilføjet til playlisten"</string>
+    <string name="one_episode_has_been_added_to_playlist">"En afsnit er blevet tilføjet til playlisten"</string>
     <string name="episodes_have_been_added_to_playlist">"%1$d afsnit er blevet tilføjet til playlisten"</string>
-    <string name="One_episode_has_been_added_to_downloads">"En afsnit er blevet tilføjet til downloads"</string>
+    <string name="one_episode_has_been_added_to_downloads">"En afsnit er blevet tilføjet til downloads"</string>
     <string name="episodes_have_been_added_to_downloads">"%1$d afsnit er blevet tilføjet til downloads"</string>
     <string name="download_episode_not_found">"Det downloadede afsnit blev ikke fundet"</string>
     <string name="yes">"Ja"</string>
@@ -443,7 +443,7 @@
     <string name="resume_downloads">"Genoptag downloads"</string>
     <string name="clear_playlist">"Ryd playliste"</string>
     <string name="clear_current_playlist_">"Ryd nuværende playliste?"</string>
-    <string name="enter_playlist_name">"Indtast navn på playliste"</string>
+    <string name="enter_new_playlist_name">"Indtast navn på playliste"</string>
     <string name="podcast_exported_to_">"Podcast eksporteret til: [ %1$s ]"</string>
     <string name="search_not_found">"Søgningen gav inget resultat"</string>
     <string name="_is_not_found_add_this_podcast_">"[ %1$s ] blev ikke fundet. Tilføj podcasten via URL?"</string>
@@ -493,6 +493,7 @@
     <string name="import_from_opml_file">"Importer OPML"</string>
     <string name="export_to_opml_file">"Eksporter OPML"</string>
     <string name="episodes">"Afsnit"</string>
+    <string name="episodes_and_count">"Afsnit: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">"Afsnit [ %1$s ] downloades stadig. Kan ikke afspilles"</string>
     <string name="error_episode_still_downloading">"Fejl: Afsnit downloades stadig"</string>
     <string name="disabled">"Deaktiveret"</string>
@@ -736,7 +737,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Du vil ikke kunne logge ind med denne konto igen. Vil du fortsætte med at slette kontoen?</string>
     <string name="download_completed">Download fuldført</string>
     <string name="notify_when_an_episode_has_been_downloaded">Vis notifikation når et afsnit er downloadet</string>
-    <string name="night_mode">Nat-tilstand</string>
+    <string name="dark_theme">Nat-tilstand</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Skift automatisk mellem lyst tema (dag) og mørkt tema (nat) alt efter tidspunkt på dagen</string>
     <string name="playback_mode_repeat_episode">Genafspil afsnit</string>
     <string name="playback_mode_repeat_playlist">Genafspil playliste</string>
@@ -780,7 +781,7 @@
     <string name="syncing_via_wifi_only">"Synkroniser kun via Wi-Fi"</string>
     <string name="total_downloaded_file_size_s">"Downloadede filstørrelse i alt: %s"</string>
     <string name="featured">"Udvalgte"</string>
-    <string name="polular">"Populære"</string>
+    <string name="popular">"Populære"</string>
     <string name="select_episodes_from_today">"Vælg afsnit fra i dag"</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Vi har registreret, at appen gik ned. Vil du sende fejlrapporten, så vi kan løse problemet?"</string>
     <string name="generating_bug_report_">"Genererer fejlrapport …"</string>
@@ -818,6 +819,7 @@
     <string name="download_date">Downloaddato</string>
     <string name="create_an_episode_filter">Opret afsnitsfilter</string>
     <string name="play_time">Spilletid i alt</string>
+    <string name="play_time_display">"Spilletid i alt: %1$s"</string>
     <string name="recently_played">Senest afspillede</string>
     <string name="play_all_newer_episodes">Afspil alle nyere afsnit</string>
     <string name="see_what_s_new_in_this_version_s">"Se nyt i denne version: %s"</string>
@@ -883,10 +885,10 @@
     <string name="there_are_no_favorite_episodes_">"Der er ingen favoritafsnit"</string>
     <string name="there_are_no_downloaded_episodes_">"Der er ingen downloadede afsnit"</string>
     <string name="start_playing_and_go_to_now_playing">Start afspilning og gå til den aktuelle afspilning</string>
-    <string name="show_unplayed_counter">Vis tæller for uafspillede</string>
-    <string name="hide_unplayed_counter">Skjul tæller for uafspillede</string>
-    <string name="show_recent_counter">Vis tæller for seneste</string>
-    <string name="hide_recent_counter">Skjul tæller for seneste</string>
+    <string name="show_unplayed_count">Vis tæller for uafspillede</string>
+    <string name="hide_unplayed_count">Skjul tæller for uafspillede</string>
+    <string name="show_recent_count">Vis tæller for seneste</string>
+    <string name="hide_recent_count">Skjul tæller for seneste</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Der blev ikke fundet nogen radiostationer. Tryk tilføj (+) for at tilføje en radiostation.</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Der blev ikke fundet nogen RSS-feeds. Tryk tilføj (+) for at tilføje et feed</string>
     <string name="tag_radios">Tag radioer</string>
@@ -991,7 +993,7 @@
     <string name="pin_to_top">Lås til toppen</string>
     <string name="unpin_from_top">Frigør fra toppen</string>
     <string name="only_include_episodes_with_user_chapters">Inkluder kun afsnit med brugerkapitler</string>
-    <string name="add_tags_to_podcasts">Tilføj tags til podcast</string>
+    <string name="add_tags_to_podcast">Tilføj tags til podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Tilføj automatisk nye afsnit til valgte playlister.</string>
     <string name="podcast_artwork">Podcast artwork</string>
     <string name="rss_feed_artwork">RSS-feed artwork</string>
@@ -1125,7 +1127,7 @@
     <string name="article_publishing_date">Article publishing date</string>
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
-    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="follow_os_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
     <string name="background_color">Background color</string>
     <string name="current_color">Current color</string>
     <string name="text_color">Text color</string>
@@ -1202,8 +1204,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
     <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
-    <string name="skip_the_chapter">Skip the chapter</string>
-    <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
+    <string name="skip_this_chapter">Skip this chapter</string>
+    <string name="dont_skip_this_chapter">Don\'t skip this chapter</string>
     <string name="podcast_title">Podcast title</string>
     <string name="radio_station_name">Station name</string>
     <string name="podcast_priority">Podcast priority</string>
@@ -1276,4 +1278,10 @@
     <string name="popularity">Popularity</string>
     <string name="display_up_next_list">Display Up next list</string>
     <string name="browse_up_next">Browse Up next</string>
+    <string name="add_notes">Add notes</string>
+    <string name="display_options">Display options</string>
+    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
+    <string name="there_are_no_read_articles_">There are no read articles.</string>
+    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
+    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
 </resources>

@@ -145,9 +145,9 @@
     <string name="no_episode_selected">"לא נבחר פרק"</string>
     <string name="set_played">"הגדר כהושמע"</string>
     <string name="delete_episode">"מחק פרק"</string>
-    <string name="One_episode_has_been_added_to_playlist">"פרק אחד נוסף לרשימת ההשמעה"</string>
+    <string name="one_episode_has_been_added_to_playlist">"פרק אחד נוסף לרשימת ההשמעה"</string>
     <string name="episodes_have_been_added_to_playlist">"%1$d פרקים נוספו לרשימת ההשמעה"</string>
-    <string name="One_episode_has_been_added_to_downloads">"פרק אחד נוסף להורדות"</string>
+    <string name="one_episode_has_been_added_to_downloads">"פרק אחד נוסף להורדות"</string>
     <string name="episodes_have_been_added_to_downloads">"%1$d פרקים נוספו להורדות"</string>
     <string name="download_episode_not_found">"פרק שהורד לא נמצא"</string>
     <string name="yes">"כן"</string>
@@ -442,7 +442,7 @@
     <string name="resume_downloads">"המשך הורדות"</string>
     <string name="clear_playlist">"נקה רשימת השמעה"</string>
     <string name="clear_current_playlist_">"נקה רשימת השמעה נוכחית?"</string>
-    <string name="enter_playlist_name">"הזן את שם רשימת ההשמעה"</string>
+    <string name="enter_new_playlist_name">"הזן את שם רשימת ההשמעה"</string>
     <string name="podcast_exported_to_">"פודקסאט מיוצא ל: [ %1$s ]"</string>
     <string name="search_not_found">"חיפוש לא נמצא"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] לא נמצא. להוסיף פודקאסט זה באמצעות כתובת האתר (URL)?"</string>
@@ -492,6 +492,7 @@
     <string name="import_from_opml_file">"ייבא OPML "</string>
     <string name="export_to_opml_file">"ייצא OPML "</string>
     <string name="episodes">"פרקים"</string>
+    <string name="episodes_and_count">"פרקים: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">"פרק [ %1$s ] עדיין יורד. לא ניתן לנגן כעת."</string>
     <string name="error_episode_still_downloading">"שגיאה: פרק עדיין יורד"</string>
     <string name="disabled">"לא פעיל"</string>
@@ -734,7 +735,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"לא תוכל להתחבר שוב לחשבון זה! להמשיך למחוק את החשבון?"</string>
     <string name="download_completed">"ההורדה הושלמה"</string>
     <string name="notify_when_an_episode_has_been_downloaded">"הצג התראה בעת הורדת פרק"</string>
-    <string name="night_mode">"מצב לילה"</string>
+    <string name="dark_theme">"מצב לילה"</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"החלפה אוטומטית בין ערכת נושא בהירה (יום) לבין ערכת נושא נושא כהה (לילה) בהתבסס על השעה ביום"</string>
     <string name="playback_mode_repeat_episode">"חזור על הפרק"</string>
     <string name="playback_mode_repeat_playlist">"חזור על רשימת השמעה"</string>
@@ -778,7 +779,7 @@
     <string name="syncing_via_wifi_only">"מסנכרן באמצעות WiFi בלבד"</string>
     <string name="total_downloaded_file_size_s">"סה\"כ גודל הקבצים שהורדו: %s"</string>
     <string name="featured">"מומלצים"</string>
-    <string name="polular">"פופולרי"</string>
+    <string name="popular">"פופולרי"</string>
     <string name="select_episodes_from_today">"בחר פרקים מהיום"</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"זיהינו בעבר קריסה באפליקציה. האם ברצונך לשלוח את דוח הקריסה כדי שנוכל לתקן את הבעיה?"</string>
     <string name="generating_bug_report_">"יוצר דוח באגים …"</string>
@@ -816,6 +817,7 @@
     <string name="download_date">"תאריך הורדה"</string>
     <string name="create_an_episode_filter">"יצירת מסנן פרק"</string>
     <string name="play_time">"זמן ניגון"</string>
+    <string name="play_time_display">"זמן ניגון: %1$s"</string>
     <string name="recently_played">"נוגן לאחרונה"</string>
     <string name="play_all_newer_episodes">"נגן את כל הפרקים החדשים יותר"</string>
     <string name="see_what_s_new_in_this_version_s">"ראה מה חדש בגירסה זו: %s"</string>
@@ -881,10 +883,10 @@
     <string name="there_are_no_favorite_episodes_">"אין פרקים מועדפים!"</string>
     <string name="there_are_no_downloaded_episodes_">"אין פרקים שהורדו!"</string>
     <string name="start_playing_and_go_to_now_playing">"התחל לנגן ועבור אל נגן עכשיו"</string>
-    <string name="show_unplayed_counter">"הצג מונים של טרם הופעלו"</string>
-    <string name="hide_unplayed_counter">"הסתר מונים של טרם הופעלו"</string>
-    <string name="show_recent_counter">"הצג מונים של טרם אחרונים"</string>
-    <string name="hide_recent_counter">"הסתר מונים של טרם אחרונים"</string>
+    <string name="show_unplayed_count">"הצג מונים של טרם הופעלו"</string>
+    <string name="hide_unplayed_count">"הסתר מונים של טרם הופעלו"</string>
+    <string name="show_recent_count">"הצג מונים של טרם אחרונים"</string>
+    <string name="hide_recent_count">"הסתר מונים של טרם אחרונים"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"לא נמצאו תחנות רדיו. לחץ על הלחצן הוסף (+) כדי להוסיף תחנת רדיו."</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"לא נמצאו עדכוני RSS. לחץ על הלחצן הוסף (+) כדי להוסיף."</string>
     <string name="tag_radios">"תג רדיו"</string>
@@ -966,7 +968,7 @@
     <string name="has_duration">Has duration</string>
     <string name="filter_episode_title">Filter episode title</string>
     <string name="filter_episode_duration">Filter episode duration</string>
-    <string name="clear_the_recents_list_">Clear the Recents list?</string>
+    <string name="clear_the_recents_list_">Remove all episodes in the Recents list?</string>
     <string name="clear_the_list">Clear the list</string>
     <string name="play_as_video">Play as video</string>
     <string name="select_all_below">Select all below</string>
@@ -989,7 +991,7 @@
     <string name="pin_to_top">Pin to top</string>
     <string name="unpin_from_top">Unpin from top</string>
     <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
-    <string name="add_tags_to_podcasts">Add tags to podcast</string>
+    <string name="add_tags_to_podcast">Add tags to podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
     <string name="podcast_artwork">Podcast artwork</string>
     <string name="rss_feed_artwork">RSS feed artwork</string>
@@ -1123,7 +1125,7 @@
     <string name="article_publishing_date">Article publishing date</string>
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
-    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="follow_os_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
     <string name="background_color">Background color</string>
     <string name="current_color">Current color</string>
     <string name="text_color">Text color</string>
@@ -1200,8 +1202,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
     <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
-    <string name="skip_the_chapter">Skip the chapter</string>
-    <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
+    <string name="skip_this_chapter">Skip this chapter</string>
+    <string name="dont_skip_this_chapter">Don\'t skip this chapter</string>
     <string name="podcast_title">Podcast title</string>
     <string name="radio_station_name">Station name</string>
     <string name="podcast_priority">Podcast priority</string>
@@ -1274,4 +1276,10 @@
     <string name="popularity">Popularity</string>
     <string name="display_up_next_list">Display Up next list</string>
     <string name="browse_up_next">Browse Up next</string>
+    <string name="add_notes">Add notes</string>
+    <string name="display_options">Display options</string>
+    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
+    <string name="there_are_no_read_articles_">There are no read articles.</string>
+    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
+    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
 </resources>

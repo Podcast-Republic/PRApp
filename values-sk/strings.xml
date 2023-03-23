@@ -149,9 +149,9 @@
     <string name="no_episode_selected">Nie je vybratá žiadna epizóda</string>
     <string name="set_played">Označiť ako prehraté</string>
     <string name="delete_episode">Odstrániť epizódu</string>
-    <string name="One_episode_has_been_added_to_playlist">Do playlistu bola pridaná jedna epizóda</string>
+    <string name="one_episode_has_been_added_to_playlist">Do playlistu bola pridaná jedna epizóda</string>
     <string name="episodes_have_been_added_to_playlist">Do playlistu boli pridané epizódy: "%1$d"</string>
-    <string name="One_episode_has_been_added_to_downloads">Na stiahnutie bola pridaná jedna epizóda</string>
+    <string name="one_episode_has_been_added_to_downloads">Na stiahnutie bola pridaná jedna epizóda</string>
     <string name="episodes_have_been_added_to_downloads">Na stiahnutie boli pridané epizódy: "%1$d"</string>
     <string name="download_episode_not_found">Stiahnutá epizóda sa nenašla</string>
     <string name="yes">Áno</string>
@@ -443,7 +443,7 @@
     <string name="resume_downloads">Pokračovať v sťahovaní</string>
     <string name="clear_playlist">Vymazať playlist</string>
     <string name="clear_current_playlist_">Vymazať aktuálny playlist?</string>
-    <string name="enter_playlist_name">Zadajte názov playlistu</string>
+    <string name="enter_new_playlist_name">Zadajte názov playlistu</string>
     <string name="podcast_exported_to_">"Podcast exportovaný do: [%1$s]"</string>
     <string name="search_not_found">Nič sa nenašlo</string>
     <string name="_is_not_found_add_this_podcast_">"Výraz [%1$s] nebol nájdený. Chcete pridať tento podcast podľa URL adresy?"</string>
@@ -493,6 +493,7 @@
     <string name="import_from_opml_file">Importovať OPML</string>
     <string name="export_to_opml_file">Exportovať OPML</string>
     <string name="episodes">Epizódy</string>
+    <string name="episodes_and_count">"Epizódy: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">Epizóda [%1$s] sa stále sťahuje. Nedá sa prehrať.</string>
     <string name="error_episode_still_downloading">Chyba: epizóda sa stále sťahuje</string>
     <string name="disabled">Zakázané</string>
@@ -741,7 +742,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Nebudete sa môcť znova prihlásiť do tohto účtu! Chcete pokračovať v odstraňovaní účtu?</string>
     <string name="download_completed">Sťahovanie bolo dokončené</string>
     <string name="notify_when_an_episode_has_been_downloaded">Upozorniť na stiahnutie epizódy</string>
-    <string name="night_mode">Nočný režim</string>
+    <string name="dark_theme">Nočný režim</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Automaticky prepínať medzi svetlým (deň) a tmavým (noc) režimom na základe času</string>
     <string name="playback_mode_repeat_episode">Opakovať epizódu</string>
     <string name="playback_mode_repeat_playlist">Opakovať playlist</string>
@@ -785,7 +786,7 @@
     <string name="syncing_via_wifi_only">Synchronizovať iba cez Wi-Fi</string>
     <string name="total_downloaded_file_size_s">Celkom stiahnuté: %s</string>
     <string name="featured">Odporúčané</string>
-    <string name="polular">Populárne</string>
+    <string name="popular">Populárne</string>
     <string name="select_episodes_from_today">Vybrať epizódy od dnes</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Zaznamenali sme zlyhanie aplikácie. Chcete poslať správu o zlyhaní, aby sme mohli problém vyriešiť?"</string>
     <string name="generating_bug_report_">Generuje sa hlásenie o chybe…</string>
@@ -823,6 +824,7 @@
     <string name="download_date">Dátum sťahovania</string>
     <string name="create_an_episode_filter">Vytvoriť filter epizódy</string>
     <string name="play_time">Čas prehrávania</string>
+    <string name="play_time_display">"Čas prehrávania: %1$s"</string>
     <string name="recently_played">Naposledy prehraté</string>
     <string name="play_all_newer_episodes">Prehrať všetky novšie epizódy</string>
     <string name="see_what_s_new_in_this_version_s">Pozrite sa čo je nové v tejto verzii: %s</string>
@@ -888,10 +890,10 @@
     <string name="there_are_no_favorite_episodes_">Nie sú žiadne obľúbené epizódy!</string>
     <string name="there_are_no_downloaded_episodes_">Nie sú žiadne stiahnuté epizódy!</string>
     <string name="start_playing_and_go_to_now_playing">Spustiť prehrávanie a prejsť na Teraz sa prehráva</string>
-    <string name="show_unplayed_counter">Zobraziť počítadlá neprehraté</string>
-    <string name="hide_unplayed_counter">Skryť počítadlá neprehraté</string>
-    <string name="show_recent_counter">Zobraziť počítadlá posledné</string>
-    <string name="hide_recent_counter">Skryť počítadlá posledné</string>
+    <string name="show_unplayed_count">Zobraziť počítadlá neprehraté</string>
+    <string name="hide_unplayed_count">Skryť počítadlá neprehraté</string>
+    <string name="show_recent_count">Zobraziť počítadlá posledné</string>
+    <string name="hide_recent_count">Skryť počítadlá posledné</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nenašli sa žiadne rádiá. Stlačením tlačidla Pridať (+) pridáte rádio.</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Nenašli sa žiadne zdroje RSS. Stlačením tlačidla Pridať (+) pridáte zdroj.</string>
     <string name="tag_radios">Tagy rádií</string>
@@ -995,7 +997,7 @@
     <string name="pin_to_top">Pripnúť navrch</string>
     <string name="unpin_from_top">Odopnúť z vrchu</string>
     <string name="only_include_episodes_with_user_chapters">Zahrnúť iba epizódy s používateľskými kapitolami</string>
-    <string name="add_tags_to_podcasts">Pridať tagy k podcastu</string>
+    <string name="add_tags_to_podcast">Pridať tagy k podcastu</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Automaticky pridať nové epizódy do vybraných playlistov.</string>
     <string name="podcast_artwork">Obrázok podcastu</string>
     <string name="rss_feed_artwork">Obrázok zdroja RSS</string>
@@ -1119,7 +1121,7 @@
     <string name="article_publishing_date">Dátum uverejnenia článku</string>
     <string name="article_guid">GUID článku</string>
     <string name="article_title">Nadpis článku</string>
-    <string name="follow_android_systems_dark_theme_setup">Podľa nastavenia tmavej témy v Androide.</string>
+    <string name="follow_os_systems_dark_theme_setup">Podľa nastavenia tmavej témy v Androide.</string>
     <string name="background_color">Farba pozadia</string>
     <string name="current_color">Aktuálna farba</string>
     <string name="text_color">Farba textu</string>
@@ -1202,8 +1204,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Vybrať epizódy s dĺžkou od %1$d do %2$d minút.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Vybrať epizódy s dĺžkou kratšou ako %1$d minút alebo dlhšou ako %2$d minút.</string>
     <string name="chapter_s_will_be_skipped">Kapitola [%1$s] bude preskočená!</string>
-    <string name="skip_the_chapter">Preskočiť kapitolu</string>
-    <string name="dont_skip_the_chapter">Nepreskakovať kapitolu</string>
+    <string name="skip_this_chapter">Preskočiť kapitolu</string>
+    <string name="dont_skip_this_chapter">Nepreskakovať kapitolu</string>
     <string name="podcast_title">Nadpis podcastu</string>
     <string name="radio_station_name">Názov stanice</string>
     <string name="podcast_priority">Priorita podcastu</string>
@@ -1276,4 +1278,10 @@
     <string name="popularity">Popularita</string>
     <string name="display_up_next_list">Zobraziť zoznam Nasleduje</string>
     <string name="browse_up_next">Prehliadať zoznam Nasleduje</string>
+    <string name="add_notes">Add notes</string>
+    <string name="display_options">Display options</string>
+    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
+    <string name="there_are_no_read_articles_">There are no read articles.</string>
+    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
+    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
 </resources>

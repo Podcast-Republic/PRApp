@@ -144,9 +144,9 @@
     <string name="no_episode_selected">Nincs epizód kijelölve</string>
     <string name="set_played">Lejátszottnak jelölés</string>
     <string name="delete_episode">Epizód törlése</string>
-    <string name="One_episode_has_been_added_to_playlist">Egy epizód hozzáadva a lejátszólistához</string>
+    <string name="one_episode_has_been_added_to_playlist">Egy epizód hozzáadva a lejátszólistához</string>
     <string name="episodes_have_been_added_to_playlist">%1$d epizód hozzáadva a lejátszólistához</string>
-    <string name="One_episode_has_been_added_to_downloads">Egy epizód hozzáadva a Letöltésekhez</string>
+    <string name="one_episode_has_been_added_to_downloads">Egy epizód hozzáadva a Letöltésekhez</string>
     <string name="episodes_have_been_added_to_downloads">%1$d epizód hozzáadva a Letöltésekhez</string>
     <string name="download_episode_not_found">A letöltött epizód nem található</string>
     <string name="yes">Igen</string>
@@ -442,7 +442,7 @@
     <string name="resume_downloads">Letöltések folytatása</string>
     <string name="clear_playlist">Lejátszólista törlése</string>
     <string name="clear_current_playlist_">Aktuális lejátszólista törlése?</string>
-    <string name="enter_playlist_name">Írja be a lista nevét</string>
+    <string name="enter_new_playlist_name">Írja be a lista nevét</string>
     <string name="podcast_exported_to_">A podcast exportálva ide: [ %1$s ]</string>
     <string name="search_not_found">A keresés nem talált eredményt</string>
     <string name="_is_not_found_add_this_podcast_">[ %1$s ] nem található. Hozzáadja ezt a podcastot URL címként?</string>
@@ -492,6 +492,7 @@
     <string name="import_from_opml_file">Importálás OPML fájlból</string>
     <string name="export_to_opml_file">Exportálás OPML fájlba</string>
     <string name="episodes">Epizódok</string>
+    <string name="episodes_and_count">"Epizódok: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">[ %1$s ] epizód még töltődik. Nem lehet lejátszani.</string>
     <string name="error_episode_still_downloading">Hiba: epizód még letöltés alatt</string>
     <string name="disabled">Letiltva</string>
@@ -740,7 +741,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">Nem fog tudni újra bejelentkezni ebbe a fiókba! Folytatja a fiók törlését?</string>
     <string name="download_completed">Letöltés befejeződött</string>
     <string name="notify_when_an_episode_has_been_downloaded">Értesítés epizód letöltéséről</string>
-    <string name="night_mode">Éjszakai mód</string>
+    <string name="dark_theme">Éjszakai mód</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Napszaktól függő váltás a világos (nappali) és a sötét (éjszakai) témák között</string>
     <string name="playback_mode_repeat_episode">Epizód ismétlése</string>
     <string name="playback_mode_repeat_playlist">Lejátszólista ismétlése</string>
@@ -784,7 +785,7 @@
     <string name="syncing_via_wifi_only">Szinkronizálás csak WiFi-n</string>
     <string name="total_downloaded_file_size_s">A letöltött fájlok teljes mérete: %s</string>
     <string name="featured">Kiemelt</string>
-    <string name="polular">Népszerű</string>
+    <string name="popular">Népszerű</string>
     <string name="select_episodes_from_today">Válasszon epizódokat a mai napiakból</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">Korábban már észleltünk összeomlást az alkalmazásban. Szeretne elküldeni egy hibajelentést, hogy megoldhassuk a problémát??</string>
     <string name="generating_bug_report_">Hibajelentés generálása…</string>
@@ -822,6 +823,7 @@
     <string name="download_date">Letöltés dátuma</string>
     <string name="create_an_episode_filter">Epizódszűrő létrehozása</string>
     <string name="play_time">Időtartam</string>
+    <string name="play_time_display">"Időtartam: %1$s"</string>
     <string name="recently_played">Nemrég lejátszott</string>
     <string name="play_all_newer_episodes">Az összes újabb epizód lejátszása</string>
     <string name="see_what_s_new_in_this_version_s">Tekintse meg, mik az újdonságok ebben a verzióban: %s</string>
@@ -887,10 +889,10 @@
     <string name="there_are_no_favorite_episodes_">Nincsenek kedvenc epizódok!</string>
     <string name="there_are_no_downloaded_episodes_">Nincsenek letöltött epizódok!</string>
     <string name="start_playing_and_go_to_now_playing">Kezdje el a lejátszást, és ugrás a \'Következő\' lehetőségre</string>
-    <string name="show_unplayed_counter">Nem lejátszott szám. megjelenítése</string>
-    <string name="hide_unplayed_counter">Nem lejátszott szám. elrejtése</string>
-    <string name="show_recent_counter">Legutóbbiak szám. megjelenítése</string>
-    <string name="hide_recent_counter">Legutóbbiak szám. elrejtése</string>
+    <string name="show_unplayed_count">Nem lejátszott szám. megjelenítése</string>
+    <string name="hide_unplayed_count">Nem lejátszott szám. elrejtése</string>
+    <string name="show_recent_count">Legutóbbiak szám. megjelenítése</string>
+    <string name="hide_recent_count">Legutóbbiak szám. elrejtése</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nem találhatóak rádióállomások. Hozzáadáshoz nyomja meg a Hozzáadás (+) gombot.</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Nem találhatóak RSS hírcsatornák. Hozzáadáshoz nyomja meg a Hozzáadás (+) gombot.</string>
     <string name="tag_radios">Rádió címkék</string>
@@ -994,7 +996,7 @@
     <string name="pin_to_top">Kitűzés felülre</string>
     <string name="unpin_from_top">Kitűzés eltávolítása</string>
     <string name="only_include_episodes_with_user_chapters">Csak felhasználói fejezetekkel rendelkező epizódokat tartalmazzon</string>
-    <string name="add_tags_to_podcasts">Címkék hozzáadása a podcasthoz</string>
+    <string name="add_tags_to_podcast">Címkék hozzáadása a podcasthoz</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Új epizódok automatikus hozzáadása a megadott lejátszólistákhoz</string>
     <string name="podcast_artwork">Podcast grafika</string>
     <string name="rss_feed_artwork">RSS hírcsatorna grafika</string>
@@ -1128,7 +1130,7 @@
     <string name="article_publishing_date">Cikk megjelenési dátuma</string>
     <string name="article_guid">Cikk GUID</string>
     <string name="article_title">Cikk címe</string>
-    <string name="follow_android_systems_dark_theme_setup">Az Android rendszer sötét témára vonatkozó beállításának követése</string>
+    <string name="follow_os_systems_dark_theme_setup">Az Android rendszer sötét témára vonatkozó beállításának követése</string>
     <string name="background_color">Háttérszín</string>
     <string name="current_color">Aktuális szín</string>
     <string name="text_color">Szövegszín</string>
@@ -1205,8 +1207,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Válassza ki a %1$d és %2$d perc közötti időtartamú epizódokat.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Válassza ki a %1$d percnél rövidebb vagy %2$d percnél hosszabb epizódokat.</string>
     <string name="chapter_s_will_be_skipped">A fejezet kihagyásra kerül: [%1$s]</string>
-    <string name="skip_the_chapter">Hagyja ki a fejezetet</string>
-    <string name="dont_skip_the_chapter">Ne hagyja ki a fejezetet</string>
+    <string name="skip_this_chapter">Hagyja ki a fejezetet</string>
+    <string name="dont_skip_this_chapter">Ne hagyja ki a fejezetet</string>
     <string name="podcast_title">Podcast címe</string>
     <string name="radio_station_name">Állomás neve</string>
     <string name="podcast_priority">Podcast prioritás</string>
@@ -1279,4 +1281,10 @@
     <string name="popularity">Popularity</string>
     <string name="display_up_next_list">Display Up next list</string>
     <string name="browse_up_next">Browse Up next</string>
+    <string name="add_notes">Add notes</string>
+    <string name="display_options">Display options</string>
+    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
+    <string name="there_are_no_read_articles_">There are no read articles.</string>
+    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
+    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
 </resources>

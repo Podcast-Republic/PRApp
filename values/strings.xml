@@ -152,9 +152,9 @@
     <string name="no_episode_selected">No episode selected</string>
     <string name="set_played">Set played</string>
     <string name="delete_episode">Delete episode</string>
-    <string name="One_episode_has_been_added_to_playlist">One episode has been added to playlist.</string>
+    <string name="one_episode_has_been_added_to_playlist">One episode has been added to playlist.</string>
     <string name="episodes_have_been_added_to_playlist">"%1$d episodes have been added to playlist."</string>
-    <string name="One_episode_has_been_added_to_downloads">One episode has been added to downloads.</string>
+    <string name="one_episode_has_been_added_to_downloads">One episode has been added to downloads.</string>
     <string name="episodes_have_been_added_to_downloads">"%1$d episodes have been added to downloads."</string>
     <string name="download_episode_not_found">Downloaded episode not found!</string>
     <string name="yes">Yes</string>
@@ -465,7 +465,7 @@
     <string name="resume_downloads">Resume downloads</string>
     <string name="clear_playlist">Clear playlist</string>
     <string name="clear_current_playlist_">Clear current playlist?</string>
-    <string name="enter_playlist_name">Enter playlist name</string>
+    <string name="enter_new_playlist_name">Enter new playlist name</string>
     <string name="podcast_exported_to_">"Podcast exported to: [%1$s]"</string>
     <string name="search_not_found">Search Not Found</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] is not found. Add this podcast by URL?"</string>
@@ -515,6 +515,7 @@
     <string name="import_from_opml_file">Import from OPML file</string>
     <string name="export_to_opml_file">Export to OPML file</string>
     <string name="episodes">Episodes</string>
+    <string name="episodes_and_count">"Episodes: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">Episode [%1$s] is still downloading. Can not play it.</string>
     <string name="error_episode_still_downloading">Error: episode still downloading.</string>
     <string name="disabled">Disabled</string>
@@ -763,7 +764,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">You won\'t be able to login this account again! Continue to delete account?</string>
     <string name="download_completed">Download completed</string>
     <string name="notify_when_an_episode_has_been_downloaded">Notify when an episode has been downloaded.</string>
-    <string name="night_mode">Night mode</string>
+    <string name="dark_theme">Dark theme</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Switching between light theme (day) and dark theme (night) based on the time of day.</string>
     <string name="alarms">Alarms</string>
     <string name="no_alarms_found_">No alarms found.</string>
@@ -805,7 +806,7 @@
     <string name="syncing_via_wifi_only">Syncing via Wi-Fi only</string>
     <string name="total_downloaded_file_size_s">Total downloaded file size: %1$s.</string>
     <string name="featured">Featured</string>
-    <string name="polular">Popular</string>
+    <string name="popular">Popular</string>
     <string name="select_episodes_from_today">Select episodes from today</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"We\'ve detected a crash in the app before. Would you like to send the crash report so we can fix the problem?"</string>
     <string name="generating_bug_report_">Generating bug report…</string>
@@ -843,6 +844,7 @@
     <string name="download_date">Download date</string>
     <string name="create_an_episode_filter">Create an episode filter</string>
     <string name="play_time">Play time</string>
+    <string name="play_time_display">"Play time: %1$s"</string>
     <string name="recently_played">Recently played</string>
     <string name="play_all_newer_episodes">Play all newer episodes</string>
     <string name="see_what_s_new_in_this_version_s">See what\'s new in this version: %1$s.</string>
@@ -908,10 +910,10 @@
     <string name="there_are_no_favorite_episodes_">There are no favorite episodes!</string>
     <string name="there_are_no_downloaded_episodes_">There are no downloaded episodes!</string>
     <string name="start_playing_and_go_to_now_playing">Start playing and go to Now Playing</string>
-    <string name="show_unplayed_counter">Show unplayed counter</string>
-    <string name="hide_unplayed_counter">Hide unplayed counter</string>
-    <string name="show_recent_counter">Show recent counter</string>
-    <string name="hide_recent_counter">Hide recent counter</string>
+    <string name="show_unplayed_count">Show unplayed count</string>
+    <string name="hide_unplayed_count">Hide unplayed count</string>
+    <string name="show_recent_count">Show recent count</string>
+    <string name="hide_recent_count">Hide recent count</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">No radio stations found. Press the Add (+) button to add a radio station.</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">No text RSS feeds found. Press the Add (+) button to add a feed.</string>
     <string name="tag_radios">Tag radios</string>
@@ -991,7 +993,7 @@
     <string name="has_duration">Has duration</string>
     <string name="filter_episode_title">Filter episode title</string>
     <string name="filter_episode_duration">Filter episode duration</string>
-    <string name="clear_the_recents_list_">Clear the Recents list?</string>
+    <string name="clear_the_recents_list_">Remove all episodes in the Recents list?</string>
     <string name="clear_the_list">Clear the list</string>
     <string name="play_as_video">Play as video</string>
     <string name="select_all_below">Select all below</string>
@@ -1014,7 +1016,7 @@
     <string name="pin_to_top">Pin to top</string>
     <string name="unpin_from_top">Unpin from top</string>
     <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters.</string>
-    <string name="add_tags_to_podcasts">Add tags to podcast</string>
+    <string name="add_tags_to_podcast">Add tags to podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
     <string name="podcast_artwork">Podcast artwork</string>
     <string name="rss_feed_artwork">RSS feed artwork</string>
@@ -1138,7 +1140,7 @@
     <string name="article_publishing_date">Article publishing date</string>
     <string name="article_guid">Article GUID</string>
     <string name="article_title">Article title</string>
-    <string name="follow_android_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
+    <string name="follow_os_systems_dark_theme_setup">Follow Android system\'s dark theme setup.</string>
     <string name="background_color">Background color</string>
     <string name="current_color">Current color</string>
     <string name="text_color">Text color</string>
@@ -1223,8 +1225,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
     <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
-    <string name="skip_the_chapter">Skip the chapter</string>
-    <string name="dont_skip_the_chapter">Don\'t skip the chapter</string>
+    <string name="skip_this_chapter">Skip this chapter</string>
+    <string name="dont_skip_this_chapter">Don\'t skip this chapter</string>
     <string name="podcast_title">Podcast title</string>
     <string name="radio_station_name">Station name</string>
     <string name="podcast_priority">Podcast priority</string>
@@ -1297,4 +1299,10 @@
     <string name="popularity">Popularity</string>
     <string name="display_up_next_list">Display Up next list</string>
     <string name="browse_up_next">Browse Up next</string>
+    <string name="add_notes">Add notes</string>
+    <string name="display_options">Display options</string>
+    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
+    <string name="there_are_no_read_articles_">There are no read articles.</string>
+    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
+    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
 </resources>

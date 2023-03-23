@@ -152,9 +152,9 @@
     <string name="no_episode_selected">Izbrana ni nobena epizoda</string>
     <string name="set_played">Označi kot predvajane</string>
     <string name="delete_episode">Izbriši epizodo</string>
-    <string name="One_episode_has_been_added_to_playlist">Ena epizoda je bila dodana na seznam.</string>
+    <string name="one_episode_has_been_added_to_playlist">Ena epizoda je bila dodana na seznam.</string>
     <string name="episodes_have_been_added_to_playlist">"%1$d epizod je bilo dodanih na seznam."</string>
-    <string name="One_episode_has_been_added_to_downloads">Ena epizoda je bila dodana prenesenim.</string>
+    <string name="one_episode_has_been_added_to_downloads">Ena epizoda je bila dodana prenesenim.</string>
     <string name="episodes_have_been_added_to_downloads">"%1$d epizod je bilo dodanih prenesenim."</string>
     <string name="download_episode_not_found">Prenesena epizoda ni najdena!</string>
     <string name="yes">Da</string>
@@ -447,7 +447,7 @@
     <string name="resume_downloads">Nadaljuj prenose</string>
     <string name="clear_playlist">Počisti seznam</string>
     <string name="clear_current_playlist_">Počisti trenutni seznam?</string>
-    <string name="enter_playlist_name">Vnesi ime seznama</string>
+    <string name="enter_new_playlist_name">Vnesi ime seznama</string>
     <string name="podcast_exported_to_">"Podkast izvožen v: [%1$s]"</string>
     <string name="search_not_found">Iskanje ni bilo uspešno</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] ni bil najden. Dodaj ta podkast preko URL naslova?"</string>
@@ -497,6 +497,7 @@
     <string name="import_from_opml_file">Uvozi iz OPML datoteke</string>
     <string name="export_to_opml_file">Izvozi v OPML datoteko</string>
     <string name="episodes">Epizode</string>
+    <string name="episodes_and_count">"Epizode: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">Epizoda [%1$s] se še prenaša. Predvajanje ni mogoče.</string>
     <string name="error_episode_still_downloading">Napaka: epizoda se še prenaša.</string>
     <string name="disabled">Onemogočeno</string>
@@ -745,7 +746,7 @@
     <string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">V ta račun se ne boste mogli znova prijaviti! Želite dokončno izbrisati račun?</string>
     <string name="download_completed">Prenos končan</string>
     <string name="notify_when_an_episode_has_been_downloaded">Obvesti me, ko bo epizoda prenesena.</string>
-    <string name="night_mode">Nočni način</string>
+    <string name="dark_theme">Nočni način</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Preklopi med svetlim (dan) in temnim (noč) načinom glede na trenutno uro.</string>
     <string name="playback_mode_repeat_episode">Ponovi epizodo</string>
     <string name="playback_mode_repeat_playlist">Ponovi seznam</string>
@@ -789,7 +790,7 @@
     <string name="syncing_via_wifi_only">Sinhroniziranje preko omrežja Wi-Fi</string>
     <string name="total_downloaded_file_size_s">Skupna velikost prenesene datoteke: %1$s.</string>
     <string name="featured">Izpostavljeno</string>
-    <string name="polular">Popularno</string>
+    <string name="popular">Popularno</string>
     <string name="select_episodes_from_today">Izberi današnje epizode</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Zaznali smo zrušitev aplikacije. Ali želite poslati poročilo o zrušitvi, da lahko odpravimo težavo?</string>
     <string name="generating_bug_report_">Izdelava poročila o hroščih…</string>
@@ -827,6 +828,7 @@
     <string name="download_date">Datum prenosa</string>
     <string name="create_an_episode_filter">Ustvari filter epizod</string>
     <string name="play_time">Čas predvajanja</string>
+    <string name="play_time_display">"Čas predvajanja: %1$s"</string>
     <string name="recently_played">Zadnje predvajano</string>
     <string name="play_all_newer_episodes">Predvajaj vse nove epizode</string>
     <string name="see_what_s_new_in_this_version_s">Poglej kaj je novega v tej verziji: %1$s.</string>
@@ -892,10 +894,10 @@
     <string name="there_are_no_favorite_episodes_">Ni priljubljenih epizod!</string>
     <string name="there_are_no_downloaded_episodes_">Ni prenesenih epizod!</string>
     <string name="start_playing_and_go_to_now_playing">Začni predvajanje in pojdi na seznam Predvaja se</string>
-    <string name="show_unplayed_counter">Prikaži števec nepredvajanih</string>
-    <string name="hide_unplayed_counter">Skrij števec nepredvajanih</string>
-    <string name="show_recent_counter">Prikaži števec nedavnih</string>
-    <string name="hide_recent_counter">Skrij števec nedavnih</string>
+    <string name="show_unplayed_count">Prikaži števec nepredvajanih</string>
+    <string name="hide_unplayed_count">Skrij števec nepredvajanih</string>
+    <string name="show_recent_count">Prikaži števec nedavnih</string>
+    <string name="hide_recent_count">Skrij števec nedavnih</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">Nobena radijska postaja ni najdena. Dotakni se možnosti Dodaj (+) , da dodaš radijsko postajo.</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">Ni najdenih RSS virov. Dotakni se možnosti Dodaj (+) da dodaš vir.</string>
     <string name="tag_radios">Izberi radijske postaje</string>
@@ -999,7 +1001,7 @@
     <string name="pin_to_top">Pripni na vrh</string>
     <string name="unpin_from_top">Odpni iz vrha</string>
     <string name="only_include_episodes_with_user_chapters">Vključi samo epizode z poglavji uporabnika.</string>
-    <string name="add_tags_to_podcasts">Dodaj oznake podkastu</string>
+    <string name="add_tags_to_podcast">Dodaj oznake podkastu</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Samodejno dodaj nove epizode izbranim seznamom.</string>
     <string name="podcast_artwork">Grafična podoba podkasta</string>
     <string name="rss_feed_artwork">Grafična podoba RSS vira</string>
@@ -1123,7 +1125,7 @@
     <string name="article_publishing_date">Datum objave članka</string>
     <string name="article_guid">GUID članka</string>
     <string name="article_title">Naslov članka</string>
-    <string name="follow_android_systems_dark_theme_setup">Upoštevaj Android sistemske nastavitve temne teme.</string>
+    <string name="follow_os_systems_dark_theme_setup">Upoštevaj Android sistemske nastavitve temne teme.</string>
     <string name="background_color">Barva ozadja</string>
     <string name="current_color">Trenutna barva</string>
     <string name="text_color">Barva teksta</string>
@@ -1202,8 +1204,8 @@
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Izberi epizode, ki trajajo med %1$d in %2$d minutami.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Izberi epizode, ki trajajo manj od %1$d minut ali več od %2$d minut.</string>
     <string name="chapter_s_will_be_skipped">Poglavje [%1$s] bo preskočeno!</string>
-    <string name="skip_the_chapter">Preskoči poglavje</string>
-    <string name="dont_skip_the_chapter">Ne preskoči poglavja</string>
+    <string name="skip_this_chapter">Preskoči poglavje</string>
+    <string name="dont_skip_this_chapter">Ne preskoči poglavja</string>
     <string name="podcast_title">Naslov podkasta</string>
     <string name="radio_station_name">Ime radijske postaje</string>
     <string name="podcast_priority">Prednost podkasta</string>
@@ -1276,4 +1278,10 @@
     <string name="popularity">Popularity</string>
     <string name="display_up_next_list">Display Up next list</string>
     <string name="browse_up_next">Browse Up next</string>
+    <string name="add_notes">Add notes</string>
+    <string name="display_options">Display options</string>
+    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
+    <string name="there_are_no_read_articles_">There are no read articles.</string>
+    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
+    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
 </resources>

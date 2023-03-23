@@ -1278,10 +1278,10 @@
     <string name="popularity">Popularita</string>
     <string name="display_up_next_list">Zobraziť zoznam Nasleduje</string>
     <string name="browse_up_next">Prehliadať zoznam Nasleduje</string>
-    <string name="add_notes">Add notes</string>
-    <string name="display_options">Display options</string>
-    <string name="there_are_no_unread_articles_">There are no unread articles.</string>
-    <string name="there_are_no_read_articles_">There are no read articles.</string>
-    <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
-    <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
+    <string name="add_notes">Pridať poznámky</string>
+    <string name="display_options">Možnosti zobrazenia</string>
+    <string name="there_are_no_unread_articles_">Nie sú tu žiadne neprečítané články.</string>
+    <string name="there_are_no_read_articles_">Nie sú tu žiadne prečítané články.</string>
+    <string name="there_are_no_favorite_articles_">Nie sú tu žiadne obľúbené články.</string>
+    <string name="there_are_no_deleted_articles_">Nie sú tu žiadne odstránené články.</string>
 </resources>

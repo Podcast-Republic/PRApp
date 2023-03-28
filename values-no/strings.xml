@@ -1282,4 +1282,9 @@
     <string name="there_are_no_read_articles_">There are no read articles.</string>
     <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
     <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
+    <string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Alarms may not get fired at the scheduled time. Please go to Android Settings to exclude this app from battery optimizations.</string>
+    <string name="open_android_settings">Open Android Settings</string>
+    <string name="include_episode">Include episode</string>
+    <string name="exclude_episode">Exclude episode</string>
+    <string name="exclude_episodes_matching_the_keywords_">Exclude episodes matching the keywords.</string>
 </resources>

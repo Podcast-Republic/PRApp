@@ -380,7 +380,7 @@
     <string name="subscribe_on_podcast_republic">A Podcast Republic-on való előfizetés</string>
     <string name="dim_screen_but_keep_screen_responsive">Alacsonyabb fényerő beállítása</string>
     <string name="chapters">Fejezetek</string>
-    <string name="no_chapter_marks_found">Könyvjelzők nem találhatók.</string>
+    <string name="no_chapter_marks_found">Nincsenek könyvjelzők.</string>
     <string name="keep_all_downloads">Az összes letöltés megtartása</string>
     <string name="playback_controls">Lejátszásvezérlők</string>
     <string name="hide_played_podcasts">Lejátszott podcastok elrejtése</string>
@@ -984,7 +984,7 @@
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Engedélyezi a mobiladat-használatot, és figyelmen kívül hagyja az akkura vonatkozó korlátozásokat az epizódok letöltésekor</string>
     <string name="show_play_next_episode_station_button">Következő epizód/állomás lejátszása gomb megjelenítése</string>
     <string name="append_to_up_next">Hozzáadás a \'Következőkhöz\'</string>
-    <string name="only_include_episodes_with_user_notes">Csak felhasználói megjegyzéseket tartalmazó epizódokat tartalmazzon</string>
+    <string name="only_include_episodes_with_user_notes">Csak felhasználói jegyzeteket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
     <string name="mark_current_playback_position">Aktuális pozíció megjelölése</string>
     <string name="comma">, </string>
@@ -1281,7 +1281,7 @@
     <string name="popularity">Népszerűség</string>
     <string name="display_up_next_list">Következő lista megjelenítése</string>
     <string name="browse_up_next">Következő  lista böngészése</string>
-    <string name="add_notes">Megjegyzések hozzáadása</string>
+    <string name="add_notes">Jegyzetek hozzáadása</string>
     <string name="display_options">Megjelenítési opciók</string>
     <string name="there_are_no_unread_articles_">Nincsenek olvasatlan cikkek.</string>
     <string name="there_are_no_read_articles_">Nincsenek elolvasott cikkek.</string>

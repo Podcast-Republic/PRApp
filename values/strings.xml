@@ -152,10 +152,6 @@
     <string name="no_episode_selected">No episode selected</string>
     <string name="set_played">Set played</string>
     <string name="delete_episode">Delete episode</string>
-    <string name="one_episode_has_been_added_to_playlist">One episode has been added to playlist.</string>
-    <string name="episodes_have_been_added_to_playlist">"%1$d episodes have been added to playlist."</string>
-    <string name="one_episode_has_been_added_to_downloads">One episode has been added to downloads.</string>
-    <string name="episodes_have_been_added_to_downloads">"%1$d episodes have been added to downloads."</string>
     <string name="download_episode_not_found">Downloaded episode not found!</string>
     <string name="yes">Yes</string>
     <string name="ok">OK</string>
@@ -406,7 +402,7 @@
     <string name="no_chapter_marks_found">No chapter marks found.</string>
     <string name="keep_all_downloads">Keep all downloads</string>
     <string name="playback_controls">Playback controls</string>
-    <string name="hide_played_podcasts">Hide played podcasts</string>
+    <string name="hide_empty_podcasts">Hide empty podcasts</string>
     <string name="pause_downloads">Pause downloads</string>
     <string name="has_keywords_in_title">Has keywords in title</string>
     <string name="previous">Previous</string>
@@ -731,9 +727,9 @@
     <string name="com_parse_ui_login_help_email_sent">Please check your email for instructions on how to access your account.</string>
     <string name="connecting_">Connecting…</string>
     <string name="syncing_episode_changes_s">Syncing episode changes: %1$s.</string>
-    <string name="syncing_added_radio_stations_d">Syncing added radio stations: %1$d.</string>
+    <string name="syncing_changed_radio_stations_d">Syncing changed radio stations: %1$d.</string>
     <string name="syncing_removed_radio_stations_d">Syncing removed radio stations:: %1$d.</string>
-    <string name="syncing_added_podcasts_d">Syncing added podcasts: %1$d.</string>
+    <string name="syncing_changed_podcasts_d">Syncing changed podcasts: %1$d.</string>
     <string name="syncing_removed_podcasts_d">Syncing removed podcasts: %1$d.</string>
     <string name="syncing_episode_changes_">Syncing episode changes…</string>
     <string name="syncing_radio_station_changes_">Syncing radio station changes…</string>
@@ -744,7 +740,7 @@
     <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
-    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
+    <string name="syncing_changed_rss_feeds_d">Syncing changed RSS feeds: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
     <string name="syncing">Syncing</string>
     <string name="current_playlist">Current playlist</string>
@@ -837,7 +833,7 @@
     <string name="file_size">File size</string>
     <string name="play_next">Play next</string>
     <string name="are_you_sure_to_clear_the_play_queue_">Are you sure to clear the play queue?</string>
-    <string name="clear">Clear</string>
+    <string name="clear_search">Clear</string>
     <string name="remaining_time">Remaining time</string>
     <string name="elapsed_time">Elapsed time</string>
     <string name="paused_network_is_metered">Paused: network is metered.</string>
@@ -1311,4 +1307,13 @@
     <string name="exclude_episode">Exclude episode</string>
     <string name="include_episodes_matching_the_keywords_">Include episodes matching the keywords.</string>
     <string name="exclude_episodes_matching_the_keywords_">Exclude episodes matching the keywords.</string>
+    <string name="clear_list">Clear list</string>
+    <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
+    <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
+    <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
+    <string name="show_empty_podcasts">Show empty podcasts</string>
+    <string name="show_empty_feeds">Show empty feeds</string>
+    <string name="login_failed">Login failed</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
 </resources>

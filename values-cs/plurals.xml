@@ -104,4 +104,18 @@
         <item quantity="many">Display maximum %1$d lines of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">Epizoda přidána do seznamu.</item>
+        <item quantity="few">"Epizody %1$d byly přidány do seznamu."</item>
+        <item quantity="many">"Epizody %1$d byly přidány do seznamu."</item>
+        <item quantity="other">"Epizody %1$d byly přidány do seznamu."</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">"Epizoda přidána ke staženým."</item>
+        <item quantity="few">"Ke stahování byly přidány epizody %1$d."</item>
+        <item quantity="many">"Ke stahování byly přidány epizody %1$d."</item>
+        <item quantity="other">"Ke stahování byly přidány epizody %1$d."</item>
+    </plurals>
 </resources>

@@ -145,10 +145,6 @@
     <string name="no_episode_selected">"לא נבחר פרק"</string>
     <string name="set_played">"הגדר כהושמע"</string>
     <string name="delete_episode">"מחק פרק"</string>
-    <string name="one_episode_has_been_added_to_playlist">"פרק אחד נוסף לרשימת ההשמעה"</string>
-    <string name="episodes_have_been_added_to_playlist">"%1$d פרקים נוספו לרשימת ההשמעה"</string>
-    <string name="one_episode_has_been_added_to_downloads">"פרק אחד נוסף להורדות"</string>
-    <string name="episodes_have_been_added_to_downloads">"%1$d פרקים נוספו להורדות"</string>
     <string name="download_episode_not_found">"פרק שהורד לא נמצא"</string>
     <string name="yes">"כן"</string>
     <string name="ok">"בסדר"</string>
@@ -383,7 +379,7 @@
     <string name="no_chapter_marks_found">"לא נמצאו פרקים מסומנים!"</string>
     <string name="keep_all_downloads">"שמור את כל ההורדות"</string>
     <string name="playback_controls">"כפתורי שמע"</string>
-    <string name="hide_played_podcasts">"הסתר פודקאסט מושמע"</string>
+    <string name="hide_empty_podcasts">"הסתר פודקאסט מושמע"</string>
     <string name="pause_downloads">"השהה הורדות"</string>
     <string name="has_keywords_in_title">"יש מילות מפתח בכותרת"</string>
     <string name="previous">"הקודם"</string>
@@ -710,9 +706,9 @@
     <string name="com_parse_ui_login_help_email_sent">"בדוק את הדוא\"ל שלך לקבלת הוראות גישה לחשבון שלך"</string>
     <string name="connecting_">"מתחבר"</string>
     <string name="syncing_episode_changes_s">"מסנכרן שינויים בפרק: %s"</string>
-    <string name="syncing_added_radio_stations_d">"מסנכרן מינויי רדיו נוספים: %d"</string>
+    <string name="syncing_changed_radio_stations_d">"מסנכרן מינויי רדיו נוספים: %d"</string>
     <string name="syncing_removed_radio_stations_d">"סנכרון מינויי רדיו שהוסרו: %d"</string>
-    <string name="syncing_added_podcasts_d">"מסנכרן מינויי פודקאסט שנוספו: %d"</string>
+    <string name="syncing_changed_podcasts_d">"מסנכרן מינויי פודקאסט שנוספו: %d"</string>
     <string name="syncing_removed_podcasts_d">"מסנכרן מינויי פודקאסט שהוסרו: %d"</string>
     <string name="syncing_episode_changes_">"מסנכרן שינויים בפרק …"</string>
     <string name="syncing_radio_station_changes_">"מסנכרן שינויים במנוי רדיו …"</string>
@@ -810,7 +806,7 @@
     <string name="file_size">"גודל הקובץ"</string>
     <string name="play_next">"הבא"</string>
     <string name="are_you_sure_to_clear_the_play_queue_">"האם אתה בטוח שברצונך לנקות את רשימת ההשמעה?"</string>
-    <string name="clear">"נקה"</string>
+    <string name="clear_search">"נקה"</string>
     <string name="remaining_time">"זמן שנותר"</string>
     <string name="elapsed_time">"הזמן שחלף"</string>
     <string name="paused_network_is_metered">"מושהה: הרשת מטופלת"</string>
@@ -1092,7 +1088,7 @@
     <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
-    <string name="syncing_added_rss_feeds_d">Syncing added RSS feeds: %1$d.</string>
+    <string name="syncing_changed_rss_feeds_d">Syncing changed RSS feeds: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
     <string name="adjust_playback_position">Adjust playback position</string>
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
@@ -1288,4 +1284,13 @@
     <string name="exclude_episode">Exclude episode</string>
     <string name="include_episodes_matching_the_keywords_">Include episodes matching the keywords.</string>
     <string name="exclude_episodes_matching_the_keywords_">Exclude episodes matching the keywords.</string>
+    <string name="clear_list">Clear list</string>
+    <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
+    <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
+    <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
+    <string name="show_empty_podcasts">Show empty podcasts</string>
+    <string name="show_empty_feeds">Show empty feeds</string>
+    <string name="login_failed">Login failed</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
 </resources>

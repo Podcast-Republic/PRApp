@@ -74,4 +74,15 @@
         <item quantity="one">Display maximum %1$d line of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">"Eén aflevering toegevoegd aan afspeellijst."</item>
+        <item quantity="other">"%1$d afleveringen toegevoegd aan afspeellijst."</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">"Eén aflevering toegevoegd aan downloads."</item>
+        <item quantity="other">"%1$d afleveringen toegevoegd aan downloads."</item>
+    </plurals>
+
 </resources>

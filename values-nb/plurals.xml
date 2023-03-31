@@ -74,4 +74,15 @@
         <item quantity="one">Display maximum %1$d line of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">En episode er lagt til i spillelisten.</item>
+        <item quantity="other">%1$d-episodene er lagt til spillelisten.</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">En episode er blitt lagt til nedlastinger.</item>
+        <item quantity="other">%1$d-episodene er lagt til nedlasting.</item>
+    </plurals>
+
 </resources>

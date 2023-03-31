@@ -104,4 +104,18 @@
         <item quantity="many">Display maximum %1$d lines of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">"פרק אחד נוסף לרשימת ההשמעה"</item>
+        <item quantity="two">"%1$d פרקים נוספו לרשימת ההשמעה"</item>
+        <item quantity="many">"%1$d פרקים נוספו לרשימת ההשמעה"</item>
+        <item quantity="other">"%1$d פרקים נוספו לרשימת ההשמעה"</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">"פרק אחד נוסף להורדות"</item>
+        <item quantity="two">"%1$d פרקים נוספו להורדות"</item>
+        <item quantity="many">"%1$d פרקים נוספו להורדות"</item>
+        <item quantity="other">"%1$d פרקים נוספו להורדות"</item>
+    </plurals>
 </resources>

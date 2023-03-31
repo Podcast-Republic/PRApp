@@ -104,4 +104,19 @@
         <item quantity="many">Display maximum %1$d lines of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">Один епізод був доданий до списку відтворення."</item>
+        <item quantity="few">"%1$d епізоди були додані до списку відтворення."</item>
+        <item quantity="many">"%1$d епізоди були додані до списку відтворення."</item>
+        <item quantity="other">"%1$d епізоди були додані до списку відтворення."</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">"Один епізод був доданий до завантажень."</item>
+        <item quantity="few">"%1$d епізодів були додані до завантажень."</item>
+        <item quantity="many">"%1$d епізодів були додані до завантажень."</item>
+        <item quantity="other">"%1$d епізодів були додані до завантажень."</item>
+    </plurals>
+
 </resources>

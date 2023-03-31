@@ -149,10 +149,6 @@
     <string name="no_episode_selected">Nie je vybratá žiadna epizóda</string>
     <string name="set_played">Označiť ako prehraté</string>
     <string name="delete_episode">Odstrániť epizódu</string>
-    <string name="one_episode_has_been_added_to_playlist">Do playlistu bola pridaná jedna epizóda</string>
-    <string name="episodes_have_been_added_to_playlist">Do playlistu boli pridané epizódy: "%1$d"</string>
-    <string name="one_episode_has_been_added_to_downloads">Na stiahnutie bola pridaná jedna epizóda</string>
-    <string name="episodes_have_been_added_to_downloads">Na stiahnutie boli pridané epizódy: "%1$d"</string>
     <string name="download_episode_not_found">Stiahnutá epizóda sa nenašla</string>
     <string name="yes">Áno</string>
     <string name="ok">OK</string>
@@ -384,7 +380,7 @@
     <string name="no_chapter_marks_found">Nenašli sa žiadne značky kapitol.</string>
     <string name="keep_all_downloads">Ponechať všetky stiahnuté súbory</string>
     <string name="playback_controls">Ovládacie prvky prehrávania</string>
-    <string name="hide_played_podcasts">Skryť prehraté podcasty</string>
+    <string name="hide_empty_podcasts">Skryť prehraté podcasty</string>
     <string name="pause_downloads">Pozastaviť sťahovanie</string>
     <string name="has_keywords_in_title">Obsahuje kľúčové slová v názve</string>
     <string name="previous">Predchádzajúca</string>
@@ -709,9 +705,9 @@
     <string name="com_parse_ui_login_help_email_sent">Pokyny ako získať prístup k svojmu účtu nájdete v emaili</string>
     <string name="connecting_">Pripája sa…</string>
     <string name="syncing_episode_changes_s">Synchronizujú sa zmeny epizód: %s</string>
-    <string name="syncing_added_radio_stations_d">Synchronizácia pridaných odberov rádia: %d</string>
+    <string name="syncing_changed_radio_stations_d">Synchronizácia pridaných odberov rádia: %d</string>
     <string name="syncing_removed_radio_stations_d">Synchronizácia odstránených odberov rádia: %d</string>
-    <string name="syncing_added_podcasts_d">Synchronizácia pridaných odberov podcastov: %d</string>
+    <string name="syncing_changed_podcasts_d">Synchronizácia pridaných odberov podcastov: %d</string>
     <string name="syncing_removed_podcasts_d">Synchronizácia odstránených odberov podcastov: %d</string>
     <string name="syncing_episode_changes_">Synchronizujú sa zmeny epizód…</string>
     <string name="syncing_radio_station_changes_">Synchronizujú sa zmeny odberov rádia…</string>
@@ -722,7 +718,7 @@
     <string name="syncing_added_tags_playlists_filters_d">Synchronizujú sa pridané tagy/playlisty/filtre: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Synchronizujú sa odstránené tagy/playlisty/filtre: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Synchronizujú sa zmeny tagov/playlistov/filtrov…</string>
-    <string name="syncing_added_rss_feeds_d">Synchronizujú sa pridané RSS zdroje: %1$d.</string>
+    <string name="syncing_changed_rss_feeds_d">Synchronizujú sa pridané RSS zdroje: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Synchronizujú sa odstránené RSS zdroje: %1$d.</string>
     <string name="syncing">Synchronizácia</string>
     <string name="current_playlist">Aktuálny playlist</string>
@@ -817,7 +813,7 @@
     <string name="file_size">Veľkosť súboru</string>
     <string name="play_next">Prehrať ďalšiu</string>
     <string name="are_you_sure_to_clear_the_play_queue_">Naozaj chcete vymazať front prehrávania?</string>
-    <string name="clear">Vymazať</string>
+    <string name="clear_search">Vymazať</string>
     <string name="remaining_time">Zostávajúci čas</string>
     <string name="elapsed_time">Uplynulý čas</string>
     <string name="paused_network_is_metered">Pozastavené: spoplatnená sieť</string>
@@ -1290,4 +1286,13 @@
     <string name="exclude_episode">Vylúčiť epizódu</string>
     <string name="include_episodes_matching_the_keywords_">Zahrnúť epizódy zodpovedajúce kľúčovým slovám.</string>
     <string name="exclude_episodes_matching_the_keywords_">Vylúčiť epizódy zodpovedajúce kľúčovým slovám.</string>
+    <string name="clear_list">Clear list</string>
+    <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
+    <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
+    <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
+    <string name="show_empty_podcasts">Show empty podcasts</string>
+    <string name="show_empty_feeds">Show empty feeds</string>
+    <string name="login_failed">Login failed</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
 </resources>

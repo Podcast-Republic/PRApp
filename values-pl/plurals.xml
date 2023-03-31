@@ -104,4 +104,19 @@
         <item quantity="many">Display maximum %1$d lines of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">Odcinek dodany do playlisty.</item>
+        <item quantity="few">"%1$d odcinków dodanych do playlisty."</item>
+        <item quantity="many">"%1$d odcinków dodanych do playlisty."</item>
+        <item quantity="other">"%1$d odcinków dodanych do playlisty."</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">Odcinek dodany do pobrania.</item>
+        <item quantity="few">"%1$d odcinków dodanych do pobrania."</item>
+        <item quantity="many">"%1$d odcinków dodanych do pobrania."</item>
+        <item quantity="other">"%1$d odcinków dodanych do pobrania."</item>
+    </plurals>
+
 </resources>

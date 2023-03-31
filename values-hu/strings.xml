@@ -144,10 +144,6 @@
     <string name="no_episode_selected">Nincs epizód kijelölve</string>
     <string name="set_played">Lejátszottnak jelölés</string>
     <string name="delete_episode">Epizód törlése</string>
-    <string name="one_episode_has_been_added_to_playlist">Egy epizód hozzáadva a lejátszólistához</string>
-    <string name="episodes_have_been_added_to_playlist">%1$d epizód hozzáadva a lejátszólistához</string>
-    <string name="one_episode_has_been_added_to_downloads">Egy epizód hozzáadva a Letöltésekhez</string>
-    <string name="episodes_have_been_added_to_downloads">%1$d epizód hozzáadva a Letöltésekhez</string>
     <string name="download_episode_not_found">A letöltött epizód nem található</string>
     <string name="yes">Igen</string>
     <string name="ok">RENDBEN</string>
@@ -383,7 +379,7 @@
     <string name="no_chapter_marks_found">Nincsenek könyvjelzők.</string>
     <string name="keep_all_downloads">Az összes letöltés megtartása</string>
     <string name="playback_controls">Lejátszásvezérlők</string>
-    <string name="hide_played_podcasts">Lejátszott podcastok elrejtése</string>
+    <string name="hide_empty_podcasts">Lejátszott podcastok elrejtése</string>
     <string name="pause_downloads">Letöltések szüneteltetése</string>
     <string name="has_keywords_in_title">Címben szereplő kulcsszavak</string>
     <string name="previous">Előző</string>
@@ -716,9 +712,9 @@
     <string name="com_parse_ui_login_help_email_sent">Ellenőrizze e-mailjét a fiókhoz való hozzáféréssel kapcsolatos utasításokért</string>
     <string name="connecting_">Kapcsolódás…</string>
     <string name="syncing_episode_changes_s">Epizódok szinkronizálása: %s</string>
-    <string name="syncing_added_radio_stations_d">Hozzáadott rádióállomások szinkronizálása: %d</string>
+    <string name="syncing_changed_radio_stations_d">Hozzáadott rádióállomások szinkronizálása: %d</string>
     <string name="syncing_removed_radio_stations_d">Törölt rádióállomások szinkronizálása: %d</string>
-    <string name="syncing_added_podcasts_d">Hozzáadott podcastok szinkronizálása: %d</string>
+    <string name="syncing_changed_podcasts_d">Hozzáadott podcastok szinkronizálása: %d</string>
     <string name="syncing_removed_podcasts_d">Törölt podcastok szinkronizálása: %d</string>
     <string name="syncing_episode_changes_">Epizódok szinkronizálása…</string>
     <string name="syncing_radio_station_changes_">Rádióállomások szinkronizálása…</string>
@@ -816,7 +812,7 @@
     <string name="file_size">Fájlméret</string>
     <string name="play_next">Lejátszás következőként</string>
     <string name="are_you_sure_to_clear_the_play_queue_">Biztosan törli a lejátszási sort?</string>
-    <string name="clear">Törlés</string>
+    <string name="clear_search">Törlés</string>
     <string name="remaining_time">Hátralévő idő</string>
     <string name="elapsed_time">Eltelt idő</string>
     <string name="paused_network_is_metered">Szünet: a hálózat \"metered\"</string>
@@ -1097,7 +1093,7 @@
     <string name="syncing_added_tags_playlists_filters_d">Hozzáadott címkék/lejátszólisták/szűrők szinkronizálása: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Eltávolított címkék/lejátszólisták/szűrők szinkronizálása: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Címke/lejátszólista/szűrő változások szinkronizálása…</string>
-    <string name="syncing_added_rss_feeds_d">Hozzáadott RSS-hírcsatornák szinkronizálása: %1$d.</string>
+    <string name="syncing_changed_rss_feeds_d">Hozzáadott RSS-hírcsatornák szinkronizálása: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Eltávolított RSS-hírcsatornák szinkronizálása: %1$d.</string>
     <string name="adjust_playback_position">Lejátszási pozíció beállítása</string>
     <string name="allow_to_change_playback_position_from_notification_">Lejátszási pozíció módosításának engedélyezése értesítésből</string>
@@ -1293,4 +1289,13 @@
     <string name="exclude_episode">Epizód kizárása</string>
     <string name="include_episodes_matching_the_keywords_">Tartalmazza a kulcsszavaknak megfelelő epizódokat.</string>
     <string name="exclude_episodes_matching_the_keywords_">A kulcsszavaknak megfelelő epizódok kizárása.</string>
+    <string name="clear_list">Clear list</string>
+    <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
+    <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
+    <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
+    <string name="show_empty_podcasts">Show empty podcasts</string>
+    <string name="show_empty_feeds">Show empty feeds</string>
+    <string name="login_failed">Login failed</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
 </resources>

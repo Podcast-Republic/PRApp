@@ -152,10 +152,6 @@
     <string name="no_episode_selected">Izbrana ni nobena epizoda</string>
     <string name="set_played">Označi kot predvajane</string>
     <string name="delete_episode">Izbriši epizodo</string>
-    <string name="one_episode_has_been_added_to_playlist">Ena epizoda je bila dodana na seznam.</string>
-    <string name="episodes_have_been_added_to_playlist">"%1$d epizod je bilo dodanih na seznam."</string>
-    <string name="one_episode_has_been_added_to_downloads">Ena epizoda je bila dodana prenesenim.</string>
-    <string name="episodes_have_been_added_to_downloads">"%1$d epizod je bilo dodanih prenesenim."</string>
     <string name="download_episode_not_found">Prenesena epizoda ni najdena!</string>
     <string name="yes">Da</string>
     <string name="ok">Potrdi</string>
@@ -388,7 +384,7 @@
     <string name="no_chapter_marks_found">Ni najdenih označb za poglavja.</string>
     <string name="keep_all_downloads">Ohrani vse prenose</string>
     <string name="playback_controls">Možnosti upravljanja</string>
-    <string name="hide_played_podcasts">Skrij predvajane podkaste</string>
+    <string name="hide_empty_podcasts">Skrij predvajane podkaste</string>
     <string name="pause_downloads">Začasno ustavi prenose</string>
     <string name="has_keywords_in_title">Ima ključne besede v naslovu</string>
     <string name="previous">Prejšnja</string>
@@ -713,9 +709,9 @@
     <string name="com_parse_ui_login_help_email_sent">Prosimo, poglejte epošto za navodila kako dostopati do vašega uporabniškega računa.</string>
     <string name="connecting_">Povezujem…</string>
     <string name="syncing_episode_changes_s">Sinhroniziram spremembe epizod: %1$s.</string>
-    <string name="syncing_added_radio_stations_d">Sinhroniziram dodane radijske postaje: %1$d.</string>
+    <string name="syncing_changed_radio_stations_d">Sinhroniziram dodane radijske postaje: %1$d.</string>
     <string name="syncing_removed_radio_stations_d">Sinhroniziram odstranjene radijske postaje:: %1$d.</string>
-    <string name="syncing_added_podcasts_d">Sinhroniziram dodane podkaste: %1$d.</string>
+    <string name="syncing_changed_podcasts_d">Sinhroniziram dodane podkaste: %1$d.</string>
     <string name="syncing_removed_podcasts_d">Sinhroniziram odstranjene podkaste: %1$d.</string>
     <string name="syncing_episode_changes_">Sinhroniziram spremembe epizod…</string>
     <string name="syncing_radio_station_changes_">Sinhroniziram spremembe radijskih postaj…</string>
@@ -726,7 +722,7 @@
     <string name="syncing_added_tags_playlists_filters_d">Sinhroniziram dodane oznake/sezname/filtre: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Sinhroniziram odstranjene oznake/sezname/filtre: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Sinhroniziram spremembe oznak/seznamov/filtrov …</string>
-    <string name="syncing_added_rss_feeds_d">Sihroniziram dodane RSS vire: %1$d.</string>
+    <string name="syncing_changed_rss_feeds_d">Sihroniziram dodane RSS vire: %1$d.</string>
     <string name="syncing_removed_rss_feeds_d">Sinhroniziram odstranjene RSS vire: %1$d.</string>
     <string name="syncing">Sinhroniziram</string>
     <string name="current_playlist">Trenutni seznam</string>
@@ -821,7 +817,7 @@
     <string name="file_size">Velikost datoteke</string>
     <string name="play_next">Predvajaj naslednjo</string>
     <string name="are_you_sure_to_clear_the_play_queue_">Ali ste prepričani, da počistim čakalno vrsto za predvajanje?</string>
-    <string name="clear">Počisti</string>
+    <string name="clear_search">Počisti</string>
     <string name="remaining_time">Preostali čas</string>
     <string name="elapsed_time">Pretekel čas</string>
     <string name="paused_network_is_metered">Začasno ustavljeno: omrežje je omejeno.</string>
@@ -1290,4 +1286,13 @@
     <string name="exclude_episode">Exclude episode</string>
     <string name="include_episodes_matching_the_keywords_">Include episodes matching the keywords.</string>
     <string name="exclude_episodes_matching_the_keywords_">Exclude episodes matching the keywords.</string>
+    <string name="clear_list">Clear list</string>
+    <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
+    <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
+    <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
+    <string name="show_empty_podcasts">Show empty podcasts</string>
+    <string name="show_empty_feeds">Show empty feeds</string>
+    <string name="login_failed">Login failed</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
 </resources>

@@ -134,4 +134,22 @@
         <item quantity="many">Display maximum %1$d lines of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="zero">No episode have been added to playlist.</item>
+        <item quantity="one">"تم إضافة حلقة واحدة الى قائمة التشغيل"</item>
+        <item quantity="two">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
+        <item quantity="few">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
+        <item quantity="many">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
+        <item quantity="other">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="zero">No episode have been added to downloads.</item>
+        <item quantity="one">"تم إضافة حلقة الى قائمة التشغيل"</item>
+        <item quantity="two">"%d حلقات تم اضافتها إلى التنزيلات"</item>
+        <item quantity="few">"%d حلقات تم اضافتها إلى التنزيلات"</item>
+        <item quantity="many">"%d حلقات تم اضافتها إلى التنزيلات"</item>
+        <item quantity="other">"%d حلقات تم اضافتها إلى التنزيلات"</item>
+    </plurals>
 </resources>

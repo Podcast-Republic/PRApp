@@ -74,4 +74,15 @@
         <item quantity="one">Display maximum %1$d line of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">"Um episódio foi adicionado à playlist."</item>
+        <item quantity="other">"%1$d episódios foram adicionados à playlist."</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">"Um episódio foi adicionado às transferências."</item>
+        <item quantity="other">"%1$d episódios foram adicionados às transferências."</item>
+    </plurals>
+
 </resources>

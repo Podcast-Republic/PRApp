@@ -104,4 +104,19 @@
         <item quantity="many">Zobraziť maximálne %1$d riadkov nadpisu.</item>
         <item quantity="other">Zobraziť maximálne %1$d riadkov nadpisu.</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">Do playlistu bola pridaná jedna epizóda.</item>
+        <item quantity="few">"Do playlistu boli pridané epizódy: %1$d."</item>
+        <item quantity="many">"Do playlistu boli pridané epizódy: %1$d."</item>
+        <item quantity="other">"Do playlistu boli pridané epizódy: %1$d."</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">Na stiahnutie bola pridaná jedna epizóda.</item>
+        <item quantity="few">"Na stiahnutie boli pridané epizódy: %1$d."</item>
+        <item quantity="many">"Na stiahnutie boli pridané epizódy: %1$d."</item>
+        <item quantity="other">"Na stiahnutie boli pridané epizódy: %1$d."</item>
+    </plurals>
+
 </resources>

@@ -74,4 +74,15 @@
         <item quantity="one">Egy sor címként megjelenítése</item>
         <item quantity="other">Maximum %1$d sor címként megjelenítése</item>
     </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlist">
+        <item quantity="one">Egy epizód hozzáadva a lejátszólistához.</item>
+        <item quantity="other">%1$d epizód hozzáadva a lejátszólistához.</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">Egy epizód hozzáadva a Letöltésekhez.</item>
+        <item quantity="other">%1$d epizód hozzáadva a Letöltésekhez.</item>
+    </plurals>
+
 </resources>

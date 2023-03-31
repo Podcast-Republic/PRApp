@@ -414,7 +414,7 @@
     <string name="download_status">Letöltés állapota</string>
     <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel</string>
     <string name="continue_on_error">Folytatás hiba esetén</string>
-    <string name="downloading">Letöltődik</string>
+    <string name="downloading">Letöltődő</string>
     <string name="failed">Sikertelen</string>
     <string name="select_all">Összes kiválasztása</string>
     <string name="export_download">Letöltés exportálása</string>
@@ -1289,13 +1289,13 @@
     <string name="exclude_episode">Epizód kizárása</string>
     <string name="include_episodes_matching_the_keywords_">Tartalmazza a kulcsszavaknak megfelelő epizódokat.</string>
     <string name="exclude_episodes_matching_the_keywords_">A kulcsszavaknak megfelelő epizódok kizárása.</string>
-    <string name="clear_list">Clear list</string>
-    <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
-    <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
-    <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
-    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
-    <string name="show_empty_podcasts">Show empty podcasts</string>
-    <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
-    <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
+    <string name="clear_list">Lista törlése</string>
+    <string name="podcast_has_no_default_playlists_message">Ez a podcast nincs alapértelmezett lejátszási listához rendelve. Az alapértelmezett lejátszási lista beállítását a podcast beállításaiban módosíthatja..</string>
+    <string name="no_wi_fi_update_feed_once_with_mobile_data">Nincs Wi-Fi kapcsolat - Frissíti a hírfolyamot mobil kapcsolaton keresztül?</string>
+    <string name="mark_all_previous_articles_as_unread">Korábbi cikkek megjelölése nem olvasottnak</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_unread_">A [%1$s] cikk előtt megjelent összes cikk megjelölése nem olvasottnak?</string>
+    <string name="show_empty_podcasts">Üres podcastok megjelenítése</string>
+    <string name="show_empty_feeds">Üres hírfolyamok megjelenítése</string>
+    <string name="login_failed">Sikertelen bejelentkezés</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
 </resources>

@@ -265,7 +265,6 @@
     <string name="theme">Téma</string>
     <string name="skip_beginning">Ugrás az epizód elején</string>
     <string name="time_display_second_short_format">mp</string>
-    <string name="search_episode_title">Epizódcím keresése</string>
     <string name="search_episodes">Epizódok keresése</string>
     <string name="widgets">Modulok (Widgets)</string>
     <string name="low">Alacsony</string>
@@ -354,7 +353,7 @@
     <string name="new_episode_notification">Értesítés új epizód esetén</string>
     <string name="download_on_charging">Letöltés csak töltéskor</string>
     <string name="start_downloading_only_when_battery_is_charging">Csak akkor kezdjen el letölteni, ha az akkumulátor töltődik</string>
-    <string name="add_a_youtube_podcast">YouTube podcast hozzáadása </string>
+    <string name="add_a_youtube_podcast">YouTube podcast hozzáadása</string>
     <string name="channels">Csatornák</string>
     <string name="channel_id">Csatorna ID</string>
     <string name="playlist_id">Lista azonosítója (ID)</string>
@@ -558,7 +557,7 @@
     <string name="sign_in">Bejelentkezés</string>
     <string name="sign_out">Kijelentkezés</string>
     <string name="syncing_started">A szinkronizálás elkezdődött</string>
-    <string name="account_logged_in_s"><![CDATA[Bejelentkezve: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s">"Bejelentkezve: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Előfizetések és lejátszási adatok szinkronizálása</string>
     <string name="schedule_auto_backup_every_d_days">Automatikus mentés minden %1$d. nap után</string>
     <string name="keep_most_recent_d_auto_backups">Tartsa meg az utolsó %1$d automatikus mentést</string>
@@ -617,22 +616,22 @@
     <string name="download_state_fetching_url">Források keresése a letöltéshez</string>
     <string name="download_state_connecting">Kapcsolódás…</string>
     <string name="download_state_downloading">Letöltés…</string>
-    <string name="download_state_completed">Kész</string>
-    <string name="download_state_paused_network_unavailable">Szünet: várakozás a hálózatra</string>
+    <string name="download_state_completed">Kész.</string>
+    <string name="download_state_paused_network_unavailable">Szünet: várakozás a hálózatra.</string>
     <string name="download_state_failed_incorrect_file_received">Sikertelen: hibás fájl érkezett.</string>
-    <string name="download_state_paused_by_request">Letöltés szünetel</string>
-    <string name="download_state_paused_wifi_unavailable">Szünet: WiFi nem elérhető</string>
-    <string name="download_state_paused_wifi_disabled">Szünet: WiFi le van tiltva</string>
-    <string name="download_state_paused_roaming">Szünet: Roamingon van</string>
-    <string name="download_state_paused_waiting_to_retry">Szünet: újrapróbálkozásra vár</string>
-    <string name="download_state_paused_sdcard_unavailable">Szünet: nincs külső tároló</string>
-    <string name="download_state_paused_need_battery_charging">Szünet: várakozás akkumulátor töltésre</string>
-    <string name="download_state_failed_fetching_url">Sikertelen: URL nem található</string>
-    <string name="download_state_failed_sdcard_full">Sikertelen: nincs elegendő tárhely</string>
-    <string name="download_state_failed_cancelled">Törölve</string>
-    <string name="download_state_failed">Sikertelen</string>
-    <string name="download_state_failed_storage_is_not_accessible">Sikertelen: tároló nem elérhető</string>
-    <string name="error_storage_is_not_accessible">Tároló nem elérhető</string>
+    <string name="download_state_paused_by_request">Letöltés szünetel.</string>
+    <string name="download_state_paused_wifi_unavailable">Szünet: WiFi nem elérhető.</string>
+    <string name="download_state_paused_wifi_disabled">Szünet: WiFi le van tiltva.</string>
+    <string name="download_state_paused_roaming">Szünet: Roamingon van.</string>
+    <string name="download_state_paused_waiting_to_retry">Szünet: újrapróbálkozásra vár.</string>
+    <string name="download_state_paused_sdcard_unavailable">Szünet: nincs külső tároló.</string>
+    <string name="download_state_paused_need_battery_charging">Szünet: várakozás akkumulátor töltésre.</string>
+    <string name="download_state_failed_fetching_url">Sikertelen: URL nem található.</string>
+    <string name="download_state_failed_sdcard_full">Sikertelen: nincs elegendő tárhely.</string>
+    <string name="download_state_failed_cancelled">Törölve.</string>
+    <string name="download_state_failed">Sikertelen.</string>
+    <string name="download_state_failed_storage_is_not_accessible">Sikertelen: tároló nem elérhető.</string>
+    <string name="error_storage_is_not_accessible">Tároló nem elérhető.</string>
     <string name="moving_downloads">Letöltések mozgatása</string>
     <string name="moving_download_from_1s_to_2s">Letöltések mozgatása innen [ %1$s ] ide [ %2$s ].</string>
     <string name="invalid_opml_file_selected_">Érvénytelen OPML fájl kiválasztás!</string>
@@ -705,7 +704,6 @@
     <string name="com_parse_ui_email_taken_toast">Az e-mail cím már foglalt, állítsa vissza jelszavát</string>
     <string name="com_parse_ui_signup_failed_unknown_toast">Nem sikerült regisztrálni, próbálja újra később</string>
     <string name="com_parse_ui_login_help_instructions">Adja meg e-mail címét a jelszó visszaállításához</string>
-    <string name="com_parse_ui_login_help_email_input_hint">Email</string>
     <string name="com_parse_ui_login_help_submit_button_label">Beküldés</string>
     <string name="com_parse_ui_login_help_login_again_button_label">Vissza a bejelentkezéshez</string>
     <string name="com_parse_ui_login_help_submit_failed_unknown">Nem sikerült a jelszó visszaállítás, próbálja újra</string>
@@ -713,17 +711,13 @@
     <string name="connecting_">Kapcsolódás…</string>
     <string name="syncing_episode_changes_s">Epizódok szinkronizálása: %s</string>
     <string name="syncing_changed_radio_stations_d">Hozzáadott rádióállomások szinkronizálása: %d</string>
-    <string name="syncing_removed_radio_stations_d">Törölt rádióállomások szinkronizálása: %d</string>
     <string name="syncing_changed_podcasts_d">Hozzáadott podcastok szinkronizálása: %d</string>
-    <string name="syncing_removed_podcasts_d">Törölt podcastok szinkronizálása: %d</string>
     <string name="syncing_episode_changes_">Epizódok szinkronizálása…</string>
     <string name="syncing_radio_station_changes_">Rádióállomások szinkronizálása…</string>
     <string name="syncing_podcast_changes_">Podcastok szinkronizálása…</string>
     <string name="syncing">Szinkronizálás</string>
-    <string name="current_playlist">Aktuális lejátszólista</string>
     <string name="continue_to_next_playlist">A következő lejátszólista</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
-    <string name="disable_manual_sorting">Manuális rendezés letiltása</string>
     <string name="enable_manual_sorting">Manuális rendezés engedélyezése</string>
     <string name="open">Megnyitás</string>
     <string name="newest_unplayed">Legújabb nem lejátszott</string>
@@ -773,9 +767,9 @@
     <string name="turn_off_alarms">Riasztás ki</string>
     <string name="play_as_audio_only">Lejátszás csak hangként</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Letöltések eltávolítása a leiratkozott podcastból: [%1$s]?</string>
-    <string name="report_bug_privacy_message"><![CDATA[A <em>Hiba bejelentése</em> lehetőségre kattintva elfogadja <a href=\"https://podcastrepublic.net/privacy-terms/\">Feltételeinket</a> és elismeri, hogy elolvasta az <a href=\"https://podcastrepublic.net/privacy-terms/\">Adatvédelmi szabályzatunkat</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[A <em>Fiók létrehozása</em> gombra kattintva elfogadja <a href=\"https://podcastrepublic.net/privacy-terms/\">Feltételeinket</a> és elismeri, hogy elolvasta az <a href=\"https://podcastrepublic.net/privacy-terms/\">Adatvédelmi szabályzatunkat</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[A <em>Bejelentkezés</em> lehetőségre kattintva elfogadja <a href=\"https://podcastrepublic.net/privacy-terms/\">Feltételeinket</a> és elismeri, hogy elolvasta az <a href=\"https://podcastrepublic.net/privacy-terms/\">Adatvédelmi szabályzatunkat</a>.]]></string>
+    <string name="report_bug_privacy_message">"A 'Hiba bejelentése' lehetőségre kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat."</string>
+    <string name="sign_up_privacy_and_terms_message">"A 'Fiók létrehozása' gombra kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat."</string>
+    <string name="sign_in_privacy_and_terms_message">"A 'Bejelentkezés' lehetőségre kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Az alvó üzemmód automatikus bekapcsolása, amikor a lejátszás elindul</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Adatszinkronizálás csak akkor, ha WiFi-re csatlakozik</string>
     <string name="syncing_via_wifi_only">Szinkronizálás csak WiFi-n</string>
@@ -918,8 +912,8 @@
     <string name="delete_episodes">Epizódok törlése</string>
     <string name="playback_mode_priority">Prioritásos mód</string>
     <string name="stats">Statisztika</string>
-    <string name="time_saved_b_s_b"><![CDATA[Megtakarított idő: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Meghallgatva: <b>%s</b>.]]></string>
+    <string name="time_saved_b_s_b">"Megtakarított idő: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"Meghallgatva: %1$s."</string>
     <string name="since_date">Ettől a dátumtól</string>
     <string name="reset_stats">Statisztikák törlése</string>
     <string name="find_rss_feed">RSS hírcsatorna keresése</string>
@@ -983,14 +977,12 @@
     <string name="only_include_episodes_with_user_notes">Csak felhasználói jegyzeteket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
     <string name="mark_current_playback_position">Aktuális pozíció megjelölése</string>
-    <string name="comma">, </string>
+    <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">Kép választása a parancsikonhoz</string>
     <string name="use_default_icon">Alapértelmezett ikon használata</string>
     <string name="syncing_articles_">Cikkek szinkronizálása…</string>
     <string name="syncing_rss_feeds_">RSS-hírcsatornák szinkronizálása…</string>
     <string name="download_priority">Letöltés prioritás</string>
-    <string name="pin_to_top">Kitűzés felülre</string>
-    <string name="unpin_from_top">Kitűzés eltávolítása</string>
     <string name="only_include_episodes_with_user_chapters">Csak felhasználói fejezetekkel rendelkező epizódokat tartalmazzon</string>
     <string name="add_tags_to_podcast">Címkék hozzáadása a podcasthoz</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Új epizódok automatikus hozzáadása a megadott lejátszólistákhoz</string>
@@ -1033,7 +1025,7 @@
     <string name="auto_start_sleep_timer">Automatikus indítás</string>
     <string name="auto_pause_sleep_timer">Automatikus szünet</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Az alvó üzemmód automatikus szüneteltetése, amikor a lejátszás szünetel</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Az alvó üzemmód automatikus bekapcsolása, ha elkezd lejátszani a megadott [%1$s - %2$s] időpontok között</string>
     <string name="schedule_sleep_time">Alvó üzemmód ütemezése</string>
@@ -1094,7 +1086,6 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Eltávolított címkék/lejátszólisták/szűrők szinkronizálása: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Címke/lejátszólista/szűrő változások szinkronizálása…</string>
     <string name="syncing_changed_rss_feeds_d">Hozzáadott RSS-hírcsatornák szinkronizálása: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Eltávolított RSS-hírcsatornák szinkronizálása: %1$d.</string>
     <string name="adjust_playback_position">Lejátszási pozíció beállítása</string>
     <string name="allow_to_change_playback_position_from_notification_">Lejátszási pozíció módosításának engedélyezése értesítésből</string>
     <string name="zoom_image">Kép nagyítása</string>
@@ -1105,7 +1096,6 @@
     <string name="new_article_notification">Értesítés új cikkekről</string>
     <string name="there_are_no_radio_stations_">Nincsenek rádióállomások!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_now_playling_list">A \'Következő\' lista megjelenítése</string>
     <string name="display_podcasts_list">Podcastlista megjelenítése</string>
     <string name="display_playlists_list">Lejátszólisták megjelenítése</string>
     <string name="display_completed_downloads_list">Befejeződött letöltések megjelenítése</string>
@@ -1126,7 +1116,7 @@
     <string name="article_publishing_date">Cikk megjelenési dátuma</string>
     <string name="article_guid">Cikk GUID</string>
     <string name="article_title">Cikk címe</string>
-    <string name="follow_os_systems_dark_theme_setup">Az Android rendszer sötét témára vonatkozó beállításának követése</string>
+    <string name="follow_os_systems_dark_theme_setup">A rendszer sötét témára vonatkozó beállításának követése</string>
     <string name="background_color">Háttérszín</string>
     <string name="current_color">Aktuális szín</string>
     <string name="text_color">Szövegszín</string>
@@ -1146,7 +1136,7 @@
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Alapértelmezett fejezetcím formátum</string>
     <string name="grid_spacing">Rácstávolság</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[A <b>Letöltés</b> nem tudja használni a letöltési könyvtárat. Válasszon könyvtárat a belső tárhelyen vagy az SD-kártyán.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"A <b>Letöltés</b> nem tudja használni a letöltési könyvtárat. Válasszon könyvtárat a belső tárhelyen vagy az SD-kártyán."</string>
     <string name="set_sleep_timer_after_this_episode">Alvó üzemmód bekapcsolása az epizód után</string>
     <string name="mark_all_episodes_from_s_as_played">Megjelöli a [%s] összes epizódját lejátszottnak?</string>
     <string name="mark_all_episodes_as_played">Összes epizód megjelölése lejátszottként</string>
@@ -1209,7 +1199,6 @@
     <string name="radio_station_name">Állomás neve</string>
     <string name="podcast_priority">Podcast prioritás</string>
     <string name="group_by_podcast_priority">Csoportosítás podcast prioritás szerint</string>
-    <string name="larger_number_has_higher_priority">A nagyobb érték magasabb prioritást eredményez.</string>
     <string name="rotate_by_podcast_and_priority">Forgatás podcast prioritás szerint</string>
     <string name="grouping">Csoportosítás</string>
     <string name="display_chapter_title_and_artwork">Fejezetcím és borítókép</string>
@@ -1298,4 +1287,5 @@
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="login_failed">Sikertelen bejelentkezés</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>

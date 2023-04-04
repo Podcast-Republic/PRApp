@@ -189,7 +189,7 @@
     <string name="total_unplayed_count">Antall ikke avspilte</string>
     <string name="can_not_cast_youtube_videos_to_chromecast_">Kan dessverre ikke caste YouTube-videoer til ChromeCast (prøv YouTube-appen)!</string>
     <string name="can_not_play_ps">Kan ikke spille av: %1$s</string>
-    <string name="can_not_play_the_downloaded_file"> Kunne ikke spille av den nedlastede filen </string>
+    <string name="can_not_play_the_downloaded_file"> Kunne ikke spille av den nedlastede filen</string>
     <string name="can_not_play_the_local_file">Kunne ikke spille av den lokale filen</string>
     <string name="cancel">Avbryt</string>
     <string name="car_mode">Kjøremodus</string>
@@ -216,7 +216,6 @@
     <string name="com_parse_ui_email_taken_toast">E-mailadressen er allerede tatt, nullstill  passordet ditt i stedet.</string>
     <string name="com_parse_ui_forgot_password_button_label"><u>Glemte passordet</u></string>
     <string name="com_parse_ui_invalid_email_toast">E-mailadressen er ugyldig - prøv igjen</string>
-    <string name="com_parse_ui_login_help_email_input_hint">E-mail</string>
     <string name="com_parse_ui_login_help_email_sent">Vennligst sjekk e-mailen din for opplysninger om hvordan du får adgang til kontoen din</string>
     <string name="com_parse_ui_login_help_instructions">Skriv inn e-mailen din for informasjon  om hvordan du skal få tilgang til kontoen din.</string>
     <string name="com_parse_ui_login_help_login_again_button_label">Tilbake til innlogging</string>
@@ -248,7 +247,6 @@
     <string name="create_a_backup_of_app_settings_and_database">Oppretter sikkerhetskopi av appinnstillinger og database.</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Du kan lage et virtuelt podcast-lager ved å velge en mappe på din enhet. Mediefilene i mappen vil bli importert som episoder. Du kan velge å legge til eller fjerne mediefiler fra mappen senere.</string>
     <string name="creating_backup_">Oppretter sikkerhetskopi …</string>
-    <string name="current_playlist">Aktuell spilleliste</string>
     <string name="data_roaming">Dataroaming</string>
     <string name="data_wifi_usage">Data- og Wi-Fi-forbruk</string>
     <string name="debug_log">Debug-log</string>
@@ -262,7 +260,6 @@
     <string name="description_of_podcast">Beskrivelse av podcast</string>
     <string name="dim_screen">Demp skjermbelysning</string>
     <string name="dim_screen_but_keep_screen_responsive">Demper skjermbelysningen, men lar skjermen være aktiv og mottakelig for trykk.</string>
-    <string name="disable_manual_sorting">Deaktiver manuell sortering</string>
     <string name="disabled">Deaktivert</string>
     <string name="display">Vis</string>
     <string name="display_artwork_on_lock_screen_when_playing">Viser avspillerkontroller med bilde på låseskjermen under avspilling.</string>
@@ -578,7 +575,6 @@
     <string name="screen_orientation">Skjermretning</string>
     <string name="screen_size">Skjermstørrelse</string>
     <string name="search">Søk</string>
-    <string name="search_episode_title">Søk episode</string>
     <string name="search_episodes">Søk i episoder</string>
     <string name="search_not_found">Søket ga intet resultat</string>
     <string name="search_podcasts">Søk i podcaster</string>
@@ -654,8 +650,6 @@
     <string name="syncing_episode_changes_s">Synkroniserer episodeendringer: %s</string>
     <string name="syncing_podcast_changes_">Synkroniserer endringer av podcastabonnement …</string>
     <string name="syncing_radio_station_changes_">Synkroniserer endringer av radioabonnement …</string>
-    <string name="syncing_removed_podcasts_d">Synkroniserer slettede podcastabonnement: %d</string>
-    <string name="syncing_removed_radio_stations_d">Synkroniserer slettede radioabonnement: %d</string>
     <string name="syncing_started">Synkroniserer</string>
     <string name="system_default">System default</string>
     <string name="tag">Etikett</string>
@@ -766,9 +760,9 @@
     <string name="turn_off_alarms">Turn off alarms</string>
     <string name="play_as_audio_only">Play as audio only</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Remove downloads from unsubscribed podcast: [%1$s]?</string>
-    <string name="report_bug_privacy_message"><![CDATA[By clicking <em>Report a bug</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[By clicking <em>Create account</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[By clicking <em>Sign in</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="report_bug_privacy_message">"By clicking 'Report a bug', you agree to our Terms and that you have read our Privacy Policy."</string>
+    <string name="sign_up_privacy_and_terms_message">"By clicking 'Create account', you agree to our Terms and that you have read our Privacy Policy."</string>
+    <string name="sign_in_privacy_and_terms_message">"By clicking 'Sign in', you agree to our Terms and that you have read our Privacy Policy."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Automatically turn on sleep timer when playback starts.</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Syncing data only when connected to WiFi network</string>
     <string name="syncing_via_wifi_only">Syncing via WiFi only</string>
@@ -911,8 +905,8 @@
     <string name="delete_episodes">Delete episodes</string>
     <string name="playback_mode_priority">Priority mode</string>
     <string name="stats">Stats</string>
-    <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>.]]></string>
+    <string name="time_saved_b_s_b">"Time saved: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"You\'ve listened: %1$s."</string>
     <string name="since_date">Since</string>
     <string name="reset_stats">Reset stats</string>
     <string name="find_rss_feed">Find RSS feed</string>
@@ -984,8 +978,6 @@
     <string name="syncing_articles_">Syncing articles…</string>
     <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
     <string name="download_priority">Download priority</string>
-    <string name="pin_to_top">Pin to top</string>
-    <string name="unpin_from_top">Unpin from top</string>
     <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
     <string name="add_tags_to_podcast">Add tags to podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
@@ -1028,7 +1020,7 @@
     <string name="auto_start_sleep_timer">Auto start</string>
     <string name="auto_pause_sleep_timer">Auto pause</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automatically turn on sleep timer when start playing between the selected time [%1$s - %2$s].</string>
     <string name="schedule_sleep_time">Schedule sleep time</string>
@@ -1089,7 +1081,6 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
     <string name="syncing_changed_rss_feeds_d">Syncing changed RSS feeds: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
     <string name="adjust_playback_position">Adjust playback position</string>
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
@@ -1100,7 +1091,6 @@
     <string name="new_article_notification">New article notification</string>
     <string name="there_are_no_radio_stations_">There are no radio stations!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_now_playling_list">Display now playing list.</string>
     <string name="display_podcasts_list">Display podcasts list.</string>
     <string name="display_playlists_list">Display playlists list.</string>
     <string name="display_completed_downloads_list">Display completed downloads list.</string>
@@ -1141,7 +1131,7 @@
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Use default chapter title.</string>
     <string name="grid_spacing">Grid spacing</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' can not be used as download directory. Please select a directory on internal storage or SD card."</string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
     <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
     <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
@@ -1204,7 +1194,6 @@
     <string name="radio_station_name">Station name</string>
     <string name="podcast_priority">Podcast priority</string>
     <string name="group_by_podcast_priority">Group by podcast priority</string>
-    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
     <string name="rotate_by_podcast_and_priority">Rotate by podcast &amp; priority</string>
     <string name="grouping">Grouping</string>
     <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
@@ -1293,4 +1282,5 @@
     <string name="show_empty_feeds">Show empty feeds</string>
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>

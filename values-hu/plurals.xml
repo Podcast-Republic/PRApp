@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one"><![CDATA[Meghallgatva: <b>%1$d</b> epizód, <b>%2$s</b>]]></item>
-        <item quantity="other"><![CDATA[Meghallgatva: <b>%1$d</b> epizód, <b>%2$s</b>]]></item>
+        <item quantity="one">"Meghallgatva: %1$d epizód, %2$s"</item>
+        <item quantity="other">"Meghallgatva: %1$d epizód, %2$s"</item>
     </plurals>
 
     <plurals name="d_lines_of_text">

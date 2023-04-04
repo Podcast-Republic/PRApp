@@ -265,7 +265,6 @@
     <string name="theme">Motyw</string>
     <string name="skip_beginning">Pomiń początek</string>
     <string name="time_display_second_short_format">sek</string>
-    <string name="search_episode_title">Wyszukaj tytuł odcinka</string>
     <string name="search_episodes">Szukaj odcinka</string>
     <string name="widgets">Widgets</string>
     <string name="low">Niska</string>
@@ -555,7 +554,7 @@
     <string name="sign_in">Zaloguj się</string>
     <string name="sign_out">Wyloguj się</string>
     <string name="syncing_started">Synchronizacja rozpoczęta</string>
-    <string name="account_logged_in_s"><![CDATA[Zalogowany użytkownik: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s">"Zalogowany użytkownik: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synchronizacja subskrypcji i postępu odtwarzania</string>
     <string name="schedule_auto_backup_every_d_days">Kopia automatyczna co %1$d dni</string>
     <string name="keep_most_recent_d_auto_backups">Zachowaj ostatnie %1$d kopii automatycznych</string>
@@ -699,7 +698,6 @@
     <string name="com_parse_ui_email_taken_toast">"E-mail jest już zajęty, zamiast tego zresetuj hasło"</string>
     <string name="com_parse_ui_signup_failed_unknown_toast">"Nie można się zarejestrować, spróbuj ponownie później"</string>
     <string name="com_parse_ui_login_help_instructions">"Wpisz swój adres e-mail, aby odzyskać hasło"</string>
-    <string name="com_parse_ui_login_help_email_input_hint">"E-mail"</string>
     <string name="com_parse_ui_login_help_submit_button_label">"Zatwierdź"</string>
     <string name="com_parse_ui_login_help_login_again_button_label">"Powrót do logowania"</string>
     <string name="com_parse_ui_login_help_submit_failed_unknown">"Nie można zażądać zresetowania hasła, spróbuj ponownie"</string>
@@ -707,17 +705,13 @@
     <string name="connecting_">"Łączenie…"</string>
     <string name="syncing_episode_changes_s">"Synchronizacja zmian odcinka: %s"</string>
     <string name="syncing_changed_radio_stations_d">"Synchronizowanie dodanych subskrypcji radiowych: %d"</string>
-    <string name="syncing_removed_radio_stations_d">"Synchronizowanie usuniętych subskrypcji radiowych: %d"</string>
     <string name="syncing_changed_podcasts_d">"Synchronizowanie dodanych subskrypcji podcastów: %d"</string>
-    <string name="syncing_removed_podcasts_d">"Synchronizowanie usuniętych subskrypcji podcastów: %d"</string>
     <string name="syncing_episode_changes_">"Synchronizowanie zmian odcinków…"</string>
     <string name="syncing_radio_station_changes_">"Synchronizowanie zmian subskrypcji radiowych…"</string>
     <string name="syncing_podcast_changes_">"Synchronizowanie zmian subskrypcji podcastów…"</string>
     <string name="syncing">"Synchronizacja"</string>
-    <string name="current_playlist">"Aktualna playlista"</string>
     <string name="continue_to_next_playlist">"Przejdź do następnej playlisty"</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Kontynuuj odtwarzanie następnej playlisty po odtworzeniu wszystkich odcinków na bieżącej playliście"</string>
-    <string name="disable_manual_sorting">"Wyłącz sortowanie ręczne"</string>
     <string name="enable_manual_sorting">"Włącz sortowanie ręczne"</string>
     <string name="open">"Otwórz"</string>
     <string name="newest_unplayed">"Najnowszy nieodtwarzany"</string>
@@ -769,9 +763,9 @@
     <string name="turn_off_alarms">"Wyłącz alarmy"</string>
     <string name="play_as_audio_only">"Odtwarzaj tylko jako dźwięk"</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">"Usunąć pobrane pliki z niesubskrybowanego podcastu: [ %1$s ]?"</string>
-    <string name="report_bug_privacy_message"><![CDATA[Klikając <em>Zgłoś błąd</em> akceptujesz nasze <a href=\"https://podcastrepublic.net/privacy-terms/\">warunki</a> i potwierdzasz przeczytanie naszej <a href=\"https://podcastrepublic.net/privacy-terms/\">polityki prywatności</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[Klikając <em>Utwórz konto</em> akceptujesz nasze <a href=\"https://podcastrepublic.net/privacy-terms/\">warunki</a> i potwierdzasz przeczytanie naszej <a href=\"https://podcastrepublic.net/privacy-terms/\">polityki prywatności</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[Klikając <em>Zaloguj się</em> akceptujesz nasze <a href=\"https://podcastrepublic.net/privacy-terms/\">warunki</a> i potwierdzasz przeczytanie naszej <a href=\"https://podcastrepublic.net/privacy-terms/\">polityki prywatności</a>.]]></string>
+    <string name="report_bug_privacy_message">"Klikając 'Zgłoś błąd' akceptujesz nasze warunki i potwierdzasz przeczytanie naszej polityki prywatności."</string>
+    <string name="sign_up_privacy_and_terms_message">"Klikając 'Utwórz konto' akceptujesz nasze warunki i potwierdzasz przeczytanie naszej polityki prywatności."</string>
+    <string name="sign_in_privacy_and_terms_message">"Klikając 'Zaloguj się' akceptujesz nasze warunki i potwierdzasz przeczytanie naszej polityki prywatności."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">"Włącz odmierzanie czasu po rozpoczęciu odtwarzania"</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">"Synchronizowanie danych tylko po podłączeniu do sieci WiFi"</string>
     <string name="syncing_via_wifi_only">"Synchronizacja tylko przez WiFi"</string>
@@ -914,8 +908,8 @@
     <string name="delete_episodes">"Usuń odcinki"</string>
     <string name="playback_mode_priority">"Tryb priorytetu"</string>
     <string name="stats">"Statystyki"</string>
-    <string name="time_saved_b_s_b"><![CDATA[Czas zapisanych nagrań: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Wysłuchałeś: <b>%s</b>.]]></string>
+    <string name="time_saved_b_s_b">"Czas zapisanych nagrań: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"Wysłuchałeś: %1$s."</string>
     <string name="since_date">"Od"</string>
     <string name="reset_stats">"Zresetuj statystyki"</string>
     <string name="find_rss_feed">"Znajdź kanał RSS"</string>
@@ -988,8 +982,6 @@
     <string name="syncing_articles_">Syncing articles…</string>
     <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
     <string name="download_priority">Download priority</string>
-    <string name="pin_to_top">Pin to top</string>
-    <string name="unpin_from_top">Unpin from top</string>
     <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
     <string name="add_tags_to_podcast">Add tags to podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
@@ -1032,7 +1024,7 @@
     <string name="auto_start_sleep_timer">Auto start</string>
     <string name="auto_pause_sleep_timer">Auto pause</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automatically turn on sleep timer when start playing between the selected time [%1$s - %2$s].</string>
     <string name="schedule_sleep_time">Schedule sleep time</string>
@@ -1093,7 +1085,6 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
     <string name="syncing_changed_rss_feeds_d">Syncing changed RSS feeds: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
     <string name="adjust_playback_position">Adjust playback position</string>
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
@@ -1104,7 +1095,6 @@
     <string name="new_article_notification">New article notification</string>
     <string name="there_are_no_radio_stations_">There are no radio stations!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_now_playling_list">Display now playing list.</string>
     <string name="display_podcasts_list">Display podcasts list.</string>
     <string name="display_playlists_list">Display playlists list.</string>
     <string name="display_completed_downloads_list">Display completed downloads list.</string>
@@ -1145,7 +1135,7 @@
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Use default chapter title.</string>
     <string name="grid_spacing">Grid spacing</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' can not be used as download directory. Please select a directory on internal storage or SD card."</string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
     <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
     <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
@@ -1208,7 +1198,6 @@
     <string name="radio_station_name">Station name</string>
     <string name="podcast_priority">Podcast priority</string>
     <string name="group_by_podcast_priority">Group by podcast priority</string>
-    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
     <string name="rotate_by_podcast_and_priority">Rotate by podcast &amp; priority</string>
     <string name="grouping">Grouping</string>
     <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
@@ -1297,4 +1286,5 @@
     <string name="show_empty_feeds">Show empty feeds</string>
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>

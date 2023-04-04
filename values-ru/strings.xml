@@ -224,7 +224,7 @@
     <string name="language">Язык</string>
     <string name="equalizer">Эквалайзер</string>
     <string name="sort">Сортировка</string>
-    <string name="continue_">Продолжить </string>
+    <string name="continue_">Продолжить</string>
     <string name="delete_from_playlists">Удалить из плейлиста</string>
     <string name="keep_in_playlists">Оставить в плейлисте</string>
     <string name="remember_the_choice">Запомнить выбор</string>
@@ -267,7 +267,6 @@
     <string name="theme">Тема</string>
     <string name="skip_beginning">Пропускать в начале</string>
     <string name="time_display_second_short_format">сек.</string>
-    <string name="search_episode_title">Искать выпуск по названию</string>
     <string name="search_episodes">Искать выпуски</string>
     <string name="widgets">Виджеты</string>
     <string name="low">Ниже</string>
@@ -555,7 +554,7 @@
     <string name="sign_in">Войти</string>
     <string name="sign_out">Выйти</string>
     <string name="syncing_started">Синхронизируется</string>
-    <string name="account_logged_in_s"><![CDATA[Вы вошли: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s">"Вы вошли: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Синхронизировать данные о подписках и прослушанных выпусках</string>
     <string name="schedule_auto_backup_every_d_days">Делать автоматический бэкап каждый(е) %1$d дней(дня)</string>
     <string name="keep_most_recent_d_auto_backups">Сохранять %1$d популярных автобэкапа</string>
@@ -694,7 +693,6 @@
     <string name="com_parse_ui_email_taken_toast">"Электронная почта уже сделана, вместо этого, пожалуйста, сбросьте свой пароль"</string>
     <string name="com_parse_ui_signup_failed_unknown_toast">"Не удалось зарегистрироваться, повторите попытку позже."</string>
     <string name="com_parse_ui_login_help_instructions">"Введите свой адрес электронной почты, чтобы восстановить пароль."</string>
-    <string name="com_parse_ui_login_help_email_input_hint">"Эл.почта"</string>
     <string name="com_parse_ui_login_help_submit_button_label">"Отправить"</string>
     <string name="com_parse_ui_login_help_login_again_button_label">"Войти"</string>
     <string name="com_parse_ui_login_help_submit_failed_unknown">"Не удалось запросить сброс пароля, повторите попытку."</string>
@@ -702,9 +700,7 @@
     <string name="connecting_">"Соединение…"</string>
     <string name="syncing_episode_changes_s">"Синхронизация изменений выпусков: %1$s"</string>
     <string name="syncing_changed_radio_stations_d">"Синхронизация добавленных радиоподписок: %1$d"</string>
-    <string name="syncing_removed_radio_stations_d">"Синхронизация удаленных радиозаписей: %1$d"</string>
     <string name="syncing_changed_podcasts_d">"Синхронизация добавленных подкастов: %1$d"</string>
-    <string name="syncing_removed_podcasts_d">"Синхронизация удаленных подкастов: %1$d"</string>
     <string name="syncing_episode_changes_">"Синхронизация изменений выпусков …"</string>
     <string name="syncing_radio_station_changes_">"Синхронизация изменений подписки на радио …"</string>
     <string name="syncing_podcast_changes_">"Синхронизация изменений подписки подкаста…"</string>
@@ -715,11 +711,8 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Синхронизация удаленных тегов/плейлистов/фильтров: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Синхронизация изменений тегов/плейлистов/фильтров…</string>
     <string name="syncing_changed_rss_feeds_d">Синхронизация добавленных RSS-лент: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Синхронизация удаленных RSS-лент: %1$d.</string>
     <string name="syncing">"Синхронизации"</string>
-    <string name="current_playlist">Текущий плейлист</string>
     <string name="continue_to_next_playlist">"Перейти к следующему плейлисту"</string>
-    <string name="disable_manual_sorting">"Отключить ручную сортировку"</string>
     <string name="enable_manual_sorting">"Включить ручную сортировку"</string>
     <string name="open">"Открыть"</string>
     <string name="newest_unplayed">Новейшим непрослушанным</string>
@@ -767,9 +760,9 @@
     <string name="turn_off_alarms">Выключить будильники</string>
     <string name="play_as_audio_only">Играть только аудио</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Удалить из загрузок записи удалённых подкастов: [%1$s]?</string>
-    <string name="report_bug_privacy_message"><![CDATA[Сообщая об ошибке, Вы соглашаетесь с нашими <a href=\"https://podcastrepublic.net/privacy-terms/\">Условиями</a> и подтверждаете, что прочитали <a href=\"https://podcastrepublic.net/privacy-terms/\">Политику Конфиденциальности</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[Создавая аккаунт, Вы соглашаетесь с нашими <a href=\"https://podcastrepublic.net/privacy-terms/\">Условиями</a> и подтверждаете, что прочитали <a href=\"https://podcastrepublic.net/privacy-terms/\">Политику Конфиденциальности</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[Авторизируясь, Вы соглашаетесь с нашими <a href=\"https://podcastrepublic.net/privacy-terms/\">Условиями</a> и подтверждаете, что прочитали <a href=\"https://podcastrepublic.net/privacy-terms/\">Политику Конфиденциальности</a>.]]></string>
+    <string name="report_bug_privacy_message">"Сообщая об ошибке, Вы соглашаетесь с нашими Условиями и подтверждаете, что прочитали Политику Конфиденциальности."</string>
+    <string name="sign_up_privacy_and_terms_message">"Создавая аккаунт, Вы соглашаетесь с нашими Условиями и подтверждаете, что прочитали Политику Конфиденциальности."</string>
+    <string name="sign_in_privacy_and_terms_message">"Авторизируясь, Вы соглашаетесь с нашими Условиями и подтверждаете, что прочитали Политику Конфиденциальности."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Включить таймер, при запуске воспроизведения</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Синхронизировать данные только при Wi-Fi подключении</string>
     <string name="syncing_via_wifi_only">Синхронизировать по Wi-Fi</string>
@@ -894,7 +887,7 @@
     <string name="_1s_2s_n">%1$s: %2$s\n</string>
     <string name="_1s_2d_kbs_n">%1$s: %2$dKB/s\n</string>
     <string name="delete_played_episode">Удалить прослушанный выпуск</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
     <string name="auto_load_last_played_episode">Автозагрузка последнего прослушанного выпуска</string>
@@ -955,8 +948,8 @@
     <string name="article_url">URL статьи</string>
     <string name="swipe_right_action">Свайп вправо</string>
     <string name="keep_download">Продолжить загрузку</string>
-    <string name="time_saved_b_s_b"><![CDATA[Времени сэкономлено: <b>%1$s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Вы прослушали: <b>%1$s</b>.]]></string>
+    <string name="time_saved_b_s_b">"Времени сэкономлено: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"Вы прослушали: %1$s."</string>
     <string name="since_date">С</string>
     <string name="don_t_show_it_again">Больше не показывать</string>
     <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">Вы изменили порядок очереди воспроизведения. Как результат Очередь не будет синхронизирована со списком воспроизводимых выпусков или плейлистом.</string>
@@ -995,8 +988,6 @@
     <string name="background_color">Цвет фона</string>
     <string name="text_color">Цвет текста</string>
     <string name="current_color">Текущий цвет</string>
-    <string name="pin_to_top">Закрепить сверху</string>
-    <string name="unpin_from_top">Открепить сверху</string>
     <string name="rss_feed_artwork">Обложка RSS-ленты</string>
     <string name="add_tags_to_rss_feed">Добавление тегов к RSS-ленте</string>
     <string name="podcast_artwork">Обложка подкаста</string>
@@ -1031,7 +1022,7 @@
     <string name="retrieve_full_article_via_wifi_only">Полная версия статьи по Wi-Fi</string>
     <string name="use_wifi_only">Использовать только Wi-Fi</string>
     <string name="when_updating_rss_feeds_retrieve_full_article_only_if_connected_to_wifi">При обновлении RSS-лент полная статья будет загружена только при  Wi-Fi подключении.</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> не может использоваться в качестве каталога загрузки. Пожалуйста, выберите каталог на внутреннем хранилище или SD-карте.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' не может использоваться в качестве каталога загрузки. Пожалуйста, выберите каталог на внутреннем хранилище или SD-карте."</string>
     <string name="remove_all_episodes_above">Удалить все выше</string>
     <string name="remove_all_episodes_below">Удалить все ниже</string>
     <string name="tag_radios">Тегировать радиостанции</string>
@@ -1183,7 +1174,6 @@
     <string name="playback_mode_single_episode_load_next">Отдельный выпуск (загрузить следующий)</string>
     <string name="display_playlists_list">Отобразить список плейлистов.</string>
     <string name="display_radio_stations_list">Отобразить список радиостанций.</string>
-    <string name="display_now_playling_list">Отобразить список воспроизведения.</string>
     <string name="posted">Опубликовано</string>
     <string name="preview_notes">Предпросмотр заметок</string>
     <string name="preview_user_notes_in_list">Предпросмотр пользовательских заметок в списке.</string>
@@ -1203,7 +1193,6 @@
     <string name="podcast_title">Название подкаста</string>
     <string name="podcast_priority">Приоритет подкаста</string>
     <string name="radio_station_name">Название радиостанции</string>
-    <string name="larger_number_has_higher_priority">Чем больше, тем выше приоритет.</string>
     <string name="rotate_by_podcast_and_priority">Ротация по приоритету и подкастам</string>
     <string name="grouping">Группировка</string>
     <string name="display_chapter_title_and_artwork">Отображение названия главы и обложки</string>
@@ -1292,4 +1281,5 @@
     <string name="show_empty_feeds">Show empty feeds</string>
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>

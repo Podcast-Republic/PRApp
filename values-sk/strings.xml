@@ -268,7 +268,6 @@
     <string name="theme">Motív</string>
     <string name="skip_beginning">Preskočiť začiatok</string>
     <string name="time_display_second_short_format">sek.</string>
-    <string name="search_episode_title">Vyhľadať názov epizódy</string>
     <string name="search_episodes">Hľadať epizódy</string>
     <string name="widgets">Miniaplikácia</string>
     <string name="low">Nízka</string>
@@ -559,7 +558,7 @@
     <string name="sign_in">Prihlásiť sa</string>
     <string name="sign_out">Odhlásiť sa</string>
     <string name="syncing_started">Synchronizácia sa začala</string>
-    <string name="account_logged_in_s"><![CDATA[Prihlásený účet: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s">"Prihlásený účet: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synchronizácia odberov a priebehu prehrávania epizód</string>
     <string name="schedule_auto_backup_every_d_days">Naplánovať automatické zálohovanie každých %1$d dní</string>
     <string name="keep_most_recent_d_auto_backups">Ponechať najnovšie %1$d automatické zálohy</string>
@@ -698,7 +697,6 @@
     <string name="com_parse_ui_email_taken_toast">E-mail je už použitý, namiesto toho obnovte svoje heslo</string>
     <string name="com_parse_ui_signup_failed_unknown_toast">Nepodarilo sa zaregistrovať, skúste to znova neskôr</string>
     <string name="com_parse_ui_login_help_instructions">Ak chcete obnoviť svoje heslo, zadajte svoj e-mail</string>
-    <string name="com_parse_ui_login_help_email_input_hint">E-mail</string>
     <string name="com_parse_ui_login_help_submit_button_label">Odoslať</string>
     <string name="com_parse_ui_login_help_login_again_button_label">Späť na prihlásenie</string>
     <string name="com_parse_ui_login_help_submit_failed_unknown">Požiadavka na obnovenie hesla zlyhala, skúste to znova</string>
@@ -706,9 +704,7 @@
     <string name="connecting_">Pripája sa…</string>
     <string name="syncing_episode_changes_s">Synchronizujú sa zmeny epizód: %s</string>
     <string name="syncing_changed_radio_stations_d">Synchronizácia pridaných odberov rádia: %d</string>
-    <string name="syncing_removed_radio_stations_d">Synchronizácia odstránených odberov rádia: %d</string>
     <string name="syncing_changed_podcasts_d">Synchronizácia pridaných odberov podcastov: %d</string>
-    <string name="syncing_removed_podcasts_d">Synchronizácia odstránených odberov podcastov: %d</string>
     <string name="syncing_episode_changes_">Synchronizujú sa zmeny epizód…</string>
     <string name="syncing_radio_station_changes_">Synchronizujú sa zmeny odberov rádia…</string>
     <string name="syncing_podcast_changes_">Synchronizujú zmeny odberov podcastov…</string>
@@ -719,12 +715,9 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Synchronizujú sa odstránené tagy/playlisty/filtre: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Synchronizujú sa zmeny tagov/playlistov/filtrov…</string>
     <string name="syncing_changed_rss_feeds_d">Synchronizujú sa pridané RSS zdroje: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Synchronizujú sa odstránené RSS zdroje: %1$d.</string>
     <string name="syncing">Synchronizácia</string>
-    <string name="current_playlist">Aktuálny playlist</string>
     <string name="continue_to_next_playlist">Pokračovať na ďalší playlist</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Po prehratí všetkých epizód v aktuálnom playliste pokračovať v prehrávaní nasledujúceho playlistu</string>
-    <string name="disable_manual_sorting">Zakázať manuálne zoradenie</string>
     <string name="enable_manual_sorting">Povoliť manuálne zoradenie</string>
     <string name="open">Otvoriť</string>
     <string name="newest_unplayed">Najnovšie neprehraté</string>
@@ -774,9 +767,9 @@
     <string name="turn_off_alarms">Vypnúť budíky</string>
     <string name="play_as_audio_only">Prehrať iba ako zvuk</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Odstrániť stiahnuté z neodoberaného podcastu: [%1$s]?</string>
-    <string name="report_bug_privacy_message"><![CDATA[Kliknutím na <em>Nahlásiť chybu</em> vyjadrujete súhlas s našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Zmluvnými podmienkami</a> a že ste si prečítali naše <a href=\"https://podcastrepublic.net/privacy-terms/\">Zásady ochrany osobných údajov</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[Kliknutím na <em>Vytvoriť účet</em> vyjadrujete súhlas s našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Zmluvnými podmienkami</a> a že ste si prečítali naše <a href=\"https: //podcastrepublic.net/privacy-terms/\">Zásady ochrany osobných údajov</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[Kliknutím na <em>Prihlásiť sa</em> vyjadrujete súhlas s našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Zmluvnými podmienkami</a> a že ste si prečítali naše <a href=\"https: //podcastrepublic.net/privacy-terms/\">Zásady ochrany osobných údajov</a>.]]></string>
+    <string name="report_bug_privacy_message">"Kliknutím na 'Nahlásiť chybu' vyjadrujete súhlas s našimi Zmluvnými podmienkami a že ste si prečítali naše Zásady ochrany osobných údajov."</string>
+    <string name="sign_up_privacy_and_terms_message">"Kliknutím na 'Vytvoriť účet' vyjadrujete súhlas s našimi Zmluvnými podmienkami a že ste si prečítali naše Zásady ochrany osobných údajov."</string>
+    <string name="sign_in_privacy_and_terms_message">"Kliknutím na 'Prihlásiť sa' vyjadrujete súhlas s našimi Zmluvnými podmienkami a že ste si prečítali naše Zásady ochrany osobných údajov."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Po spustení prehrávania zapnúť časovač</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Synchronizovať údaje iba pri pripojení k sieti Wi-Fi</string>
     <string name="syncing_via_wifi_only">Synchronizovať iba cez Wi-Fi</string>
@@ -919,8 +912,8 @@
     <string name="delete_episodes">Odstrániť epizódy</string>
     <string name="playback_mode_priority">Prioritný režim</string>
     <string name="stats">Štatistika</string>
-    <string name="time_saved_b_s_b"><![CDATA[Ušetrený čas: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Počúvali ste: <b>%s</b>]]></string>
+    <string name="time_saved_b_s_b">"Ušetrený čas: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"Počúvali ste: %1$s"</string>
     <string name="since_date">Od</string>
     <string name="reset_stats">Vynulovať štatistiku</string>
     <string name="find_rss_feed">Nájsť zdroj RSS</string>
@@ -990,8 +983,6 @@
     <string name="syncing_articles_">Synchronizujú sa články…</string>
     <string name="syncing_rss_feeds_">Synchronizujú sa zdroje RSS…</string>
     <string name="download_priority">Priorita sťahovania</string>
-    <string name="pin_to_top">Pripnúť navrch</string>
-    <string name="unpin_from_top">Odopnúť z vrchu</string>
     <string name="only_include_episodes_with_user_chapters">Zahrnúť iba epizódy s používateľskými kapitolami</string>
     <string name="add_tags_to_podcast">Pridať tagy k podcastu</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Automaticky pridať nové epizódy do vybraných playlistov.</string>
@@ -1033,7 +1024,7 @@
     <string name="auto_start_sleep_timer">Automatické spustenie</string>
     <string name="auto_pause_sleep_timer">Automatické pozastavenie</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automaticky pozastaviť časovač vypnutia, ak je pozastavené prehrávanie.</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automaticky spustiť časovač vypnutia, ak sa prehráva vo zvolenom čase [%1$s - %2$s].</string>
     <string name="schedule_sleep_time">Naplánovať čas vypnutia</string>
@@ -1096,7 +1087,6 @@
     <string name="new_article_notification">Upozornenie na nový článok</string>
     <string name="there_are_no_radio_stations_">Nie sú tu žiadne rádiá!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_now_playling_list">Zobraziť zoznam teraz prehrávaného.</string>
     <string name="display_podcasts_list">Zobraziť zoznam podcastov.</string>
     <string name="display_playlists_list">Zobraziť zoznam playlistov.</string>
     <string name="display_completed_downloads_list">Zobraziť zoznam dokončených sťahovaní.</string>
@@ -1137,12 +1127,12 @@
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Použiť predvolený názov kapitoly.</string>
     <string name="grid_spacing">Rozstup medzi mriežkami</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> nemožno použiť ako priečinok na sťahovanie. Vyberte priečinok v internej pamäti alebo na SD karte.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' nemožno použiť ako priečinok na sťahovanie. Vyberte priečinok v internej pamäti alebo na SD karte."</string>
     <string name="set_sleep_timer_after_this_episode">Nastaviť časovač vypnutia po tejto epizóde</string>
     <string name="mark_all_as_played">Označiť všetko ako prehraté</string>
     <string name="mark_all_as_unplayed">Označiť všetko ako neprehraté</string>.
     <string name="mark_all_as_read">Označiť všetko ako prečítané</string>
-    <string name="mark_all_episodes_from_s_as_played">Označiť všetky epizódy z [%s] ako prehraté? </string>
+    <string name="mark_all_episodes_from_s_as_played">Označiť všetky epizódy z [%s] ako prehraté?</string>
     <string name="mark_all_episodes_as_played">Označiť všetky epizódy ako prehraté</string>
     <string name="mark_all_podcasts_as_played">Označiť všetky podcasty ako prehraté</string>
     <string name="mark_podcasts_as_played">Označiť podcasty ako prehraté</string>.
@@ -1206,7 +1196,6 @@
     <string name="radio_station_name">Názov stanice</string>
     <string name="podcast_priority">Priorita podcastu</string>
     <string name="group_by_podcast_priority">Zoskupiť podľa priority podcastu</string>
-    <string name="larger_number_has_higher_priority">Väčšie číslo má vyššiu prioritu.</string>
     <string name="rotate_by_podcast_and_priority">Rotovať podľa priority podcastu</string>
     <string name="grouping">Zoskupovanie</string>
     <string name="display_chapter_title_and_artwork">Zobraziť názov kapitoly a obrázok</string>
@@ -1295,4 +1284,5 @@
     <string name="show_empty_feeds">Zobraziť prázdne zdroje</string>
     <string name="login_failed">Prihlásenie zlyhalo</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Vyberte jazyk, ktorý chcete v aplikácii používať.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>

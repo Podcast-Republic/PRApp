@@ -264,7 +264,6 @@
     <string name="theme">"Tema"</string>
     <string name="skip_beginning">"Omitir el comienzo"</string>
     <string name="time_display_second_short_format">"s"</string>
-    <string name="search_episode_title">"Buscar título del episodio"</string>
     <string name="search_episodes">"Buscar episodios"</string>
     <string name="widgets">"Widgets"</string>
     <string name="low">"Bajo"</string>
@@ -556,7 +555,7 @@
     <string name="sign_in">"Iniciar sesión"</string>
     <string name="sign_out">"Cerrar sesión"</string>
     <string name="syncing_started">"Sincronización iniciada"</string>
-    <string name="account_logged_in_s"><![CDATA[Cuenta conectada: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s">"Cuenta conectada: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Sincronizar suscripción y progreso de reproducción de episodios"</string>
     <string name="schedule_auto_backup_every_d_days">"Programar la copia de seguridad automática cada %1$d días"</string>
     <string name="keep_most_recent_d_auto_backups">"Mantener las %1$d copias de seguridad automáticas más recientes"</string>
@@ -699,7 +698,6 @@
     <string name="com_parse_ui_email_taken_toast">"El correo electrónico ya está en uso. Por favor, intente restableciendo su contraseña"</string>
     <string name="com_parse_ui_signup_failed_unknown_toast">"No se ha podido registrar. Por favor, inténtelo de nuevo más adelante"</string>
     <string name="com_parse_ui_login_help_instructions">"Introduzca su correo electrónico para recuperar su contraseña"</string>
-    <string name="com_parse_ui_login_help_email_input_hint">"Correo electrónico"</string>
     <string name="com_parse_ui_login_help_submit_button_label">"Enviar"</string>
     <string name="com_parse_ui_login_help_login_again_button_label">"Volver a inicio de sesión"</string>
     <string name="com_parse_ui_login_help_submit_failed_unknown">"Fallo al solicitar restablecimiento de la contraseña. Por favor, inténtelo de nuevo"</string>
@@ -707,17 +705,13 @@
     <string name="connecting_">"Conectando…"</string>
     <string name="syncing_episode_changes_s">"Sincronizando cambios en los episodios: %s"</string>
     <string name="syncing_changed_radio_stations_d">"Sincronizando las suscripciones de radios agregadas: %d"</string>
-    <string name="syncing_removed_radio_stations_d">"Sincronizando las suscripciones de radios eliminadas: %d"</string>
     <string name="syncing_changed_podcasts_d">"Sincronizando las suscripciones de podcasts agregadas: %d"</string>
-    <string name="syncing_removed_podcasts_d">"Sincronizando las suscripciones de podcast eliminadas: %d"</string>
     <string name="syncing_episode_changes_">"Sincronizando los cambios en los episodios…"</string>
     <string name="syncing_radio_station_changes_">"Sincronizando los cambios en las suscripciones de radios…"</string>
     <string name="syncing_podcast_changes_">"Sincronizando los cambios en las suscripciones de podcasts…"</string>
     <string name="syncing">"Sincronizando"</string>
-    <string name="current_playlist">"Lista de reproducción actual"</string>
     <string name="continue_to_next_playlist">"Continuar a la siguiente lista de reproducción"</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Continúa reproduciendo la siguiente lista de reproducción después de que todos los episodios se hayan reproducido en la lista de reproducción actual"</string>
-    <string name="disable_manual_sorting">"Desactivar la clasificación manual"</string>
     <string name="enable_manual_sorting">"Habilitar clasificación manual"</string>
     <string name="open">"Abrir"</string>
     <string name="newest_unplayed">"El más nuevo sin reproducir"</string>
@@ -767,9 +761,9 @@
     <string name="turn_off_alarms">"Apagar las alarmas"</string>
     <string name="play_as_audio_only">"Reproducir sólo el audio"</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">"¿Eliminar las descargas del podcast desuscrito: [%1$s]?"</string>
-    <string name="report_bug_privacy_message"><![CDATA[Al tocar en <em>Informar de un error</em>, usted acepta nuestros <a href=\"https://podcastrepublic.net/privacy-terms/\">Términos</a> y que ha leído nuestra <a href=\"https://podcastrepublic.net/privacy-terms/\">Política de privacidad</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[Al hacer clic en <em>Crear cuenta</em>, acepta nuestros <a href=\"https://podcastrepublic.net/privacy-terms/\">Términos</a> y que ha leído nuestra <a href=\"https://podcastrepublic.net/privacy-terms/\">Política de privacidad</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[Al tocar en <em>Iniciar sesión</em>, usted acepta nuestros <a href=\"https://podcastrepublic.net/privacy-terms/\">Términos</a> y que ha leído nuestra <a href=\"https://podcastrepublic.net/privacy-terms/\">Política de privacidad</a>.]]></string>
+    <string name="report_bug_privacy_message">"Al tocar en 'Informar de un error', usted acepta nuestros Términos y que ha leído nuestra Política de privacidad."</string>
+    <string name="sign_up_privacy_and_terms_message">"Al hacer clic en 'Crear cuenta', acepta nuestros Términos y que ha leído nuestra Política de privacidad."</string>
+    <string name="sign_in_privacy_and_terms_message">"Al tocar en 'Iniciar sesión', usted acepta nuestros Términos y que ha leído nuestra Política de privacidad."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">"Activar el temporizador cuando comience la reproducción"</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">"Sincronizar datos sólo cuando esté conectado a una red Wi-Fi"</string>
     <string name="syncing_via_wifi_only">"Sincronización sólo a través de Wi-Fi"</string>
@@ -912,8 +906,8 @@
     <string name="delete_episodes">"Eliminar episodios"</string>
     <string name="playback_mode_priority">"Modo de prioridad"</string>
     <string name="stats">"Estadísticas"</string>
-    <string name="time_saved_b_s_b"><![CDATA[Tiempo ahorrado: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[Has escuchado: <b>%s</b>.]]></string>
+    <string name="time_saved_b_s_b">"Tiempo ahorrado: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"Has escuchado: %1$s."</string>
     <string name="since_date">"Desde"</string>
     <string name="reset_stats">"Restablecer estadísticas"</string>
     <string name="find_rss_feed">"Encuentra el feed de RSS"</string>
@@ -982,8 +976,6 @@
     <string name="syncing_articles_">Sincronizando articulos…</string>
     <string name="syncing_rss_feeds_">Sincronizando los canales RSS…</string>
     <string name="download_priority">Prioridad de descarga</string>
-    <string name="pin_to_top">Mantener en la parte superior</string>
-    <string name="unpin_from_top">Quitar de la parte superior</string>
     <string name="only_include_episodes_with_user_chapters">Solo incluir episodios con capitulos de usuarios</string>
     <string name="add_tags_to_podcast">Añadir Tags al podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Añadir nuevos episodios automaticamente a las Playlist seleccionadas.</string>
@@ -1026,7 +1018,7 @@
     <string name="auto_start_sleep_timer">Auto inicio</string>
     <string name="auto_pause_sleep_timer">Pausa automática</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Pausar automáticamente el temporizador nocturno si la reproducción se encuentran en pausa.</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Activa automáticamente el temporizador de suspensión cuando comienza a jugar entre el tiempo seleccionado [%1$s - %2$s].</string>
     <string name="schedule_sleep_time">Programar hora de dormir</string>
@@ -1087,7 +1079,6 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Sincronizando etiquetas/listas de reproducción/filtros eliminados: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Sincronizando cambios de etiqueta/lista de reproducción/filtro…</string>
     <string name="syncing_changed_rss_feeds_d">Sincronizando fuentes RSS agregadas: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Sincronizando fuentes RSS eliminadas: %1$d.</string>
     <string name="adjust_playback_position">Ajustar posición de reproducción</string>
     <string name="allow_to_change_playback_position_from_notification_">Permitir cambiar la posición de reproducción desde la notificación.</string>
     <string name="zoom_image">Ampliar imagen</string>
@@ -1098,7 +1089,6 @@
     <string name="new_article_notification">Notificación de nuevo artículo</string>
     <string name="there_are_no_radio_stations_">¡No hay estaciones de radio!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_now_playling_list">Mostrar lista de reproducción actual.</string>
     <string name="display_podcasts_list">Mostrar lista de podcasts.</string>
     <string name="display_playlists_list">Mostrar lista de listas de reproducción.</string>
     <string name="display_completed_downloads_list">Mostrar la lista de descargas completadas.</string>
@@ -1139,7 +1129,7 @@
     <string name="_1s_kbps_2s">%1$skbps%2$s</string>
     <string name="use_default_chapter_title">Usar título de capítulo predeterminado.</string>
     <string name="grid_spacing">Espaciado de cuadrícula</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> no se puede usar como directorio de descarga. Seleccione un directorio en el almacenamiento interno o en la tarjeta SD.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' no se puede usar como directorio de descarga. Seleccione un directorio en el almacenamiento interno o en la tarjeta SD."</string>
     <string name="set_sleep_timer_after_this_episode">Establecer temporizador de suspensión después de este episodio</string>
     <string name="mark_all_episodes_from_s_as_played">¿Marcar todos los episodios de [%s] como reproducidos?</string>
     <string name="mark_all_episodes_as_played">Marcar todos los episodios como reproducidos</string>
@@ -1202,7 +1192,6 @@
     <string name="radio_station_name">Nombre de la estación</string>
     <string name="podcast_priority">Prioridad de podcast</string>
     <string name="group_by_podcast_priority">Agrupar por prioridad de podcast</string>
-    <string name="larger_number_has_higher_priority">Un número más grande tiene mayor prioridad.</string>
     <string name="rotate_by_podcast_and_priority">Rotar por podcast &amp; prioridad</string>
     <string name="grouping">Agrupación</string>
     <string name="display_chapter_title_and_artwork">Mostrar el título del capítulo y las ilustraciones</string>
@@ -1291,4 +1280,5 @@
     <string name="show_empty_feeds">Show empty feeds</string>
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>

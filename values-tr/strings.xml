@@ -265,7 +265,6 @@
     <string name="theme">Tema</string>
     <string name="skip_beginning">Başlangıcı atla</string>
     <string name="time_display_second_short_format">sec</string>
-    <string name="search_episode_title">Bölüm başlığını ara</string>
     <string name="search_episodes">Bölümleri ara</string>
     <string name="widgets">Widgets</string>
     <string name="low">Düşük</string>
@@ -557,7 +556,7 @@
     <string name="sign_in">Giriş</string>
     <string name="sign_out">Çıkış</string>
     <string name="syncing_started">Senkronize başladı</string>
-    <string name="account_logged_in_s"><![CDATA[Hesap girişi yapıldı: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s">"Hesap girişi yapıldı: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Aboneliği ve bölüm oynatma ilerlemesini senkronize edin</string>
     <string name="schedule_auto_backup_every_d_days">Her gün %1$d otomatik yedekleme planlayın.</string>
     <string name="keep_most_recent_d_auto_backups">En son %1$d otomatik yedeklemeleri sakla</string>
@@ -701,7 +700,6 @@
     <string name="com_parse_ui_email_taken_toast">Email is already taken, please reset your password instead</string>
     <string name="com_parse_ui_signup_failed_unknown_toast">Could not sign up, please try again later</string>
     <string name="com_parse_ui_login_help_instructions">Enter your email to recover your password</string>
-    <string name="com_parse_ui_login_help_email_input_hint">Email</string>
     <string name="com_parse_ui_login_help_submit_button_label">Submit</string>
     <string name="com_parse_ui_login_help_login_again_button_label">Back to Login</string>
     <string name="com_parse_ui_login_help_submit_failed_unknown">Failed to request password reset, please try again</string>
@@ -709,17 +707,13 @@
     <string name="connecting_">Connecting…</string>
     <string name="syncing_episode_changes_s">Syncing episode changes: %s</string>
     <string name="syncing_changed_radio_stations_d">Syncing changed radio stations: %d</string>
-    <string name="syncing_removed_radio_stations_d">Syncing removed radio stations:: %d</string>
     <string name="syncing_changed_podcasts_d">Syncing changed podcasts: %d</string>
-    <string name="syncing_removed_podcasts_d">Syncing removed podcasts: %d</string>
     <string name="syncing_episode_changes_">Syncing episode changes…</string>
     <string name="syncing_radio_station_changes_">Syncing radio station changes…</string>
     <string name="syncing_podcast_changes_">Syncing podcast changes…</string>
     <string name="syncing">Syncing</string>
-    <string name="current_playlist">Current playlist</string>
     <string name="continue_to_next_playlist">Continue to next playlist</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Continue to play next playlist after all episodes have been played in current playlist</string>
-    <string name="disable_manual_sorting">Disable manual sorting</string>
     <string name="enable_manual_sorting">Enable manual sorting</string>
     <string name="open">Open</string>
     <string name="newest_unplayed">Newest unplayed</string>
@@ -769,9 +763,9 @@
     <string name="turn_off_alarms">Turn off alarms</string>
     <string name="play_as_audio_only">Play as audio only</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Remove downloads from unsubscribed podcast: [%1$s]?</string>
-    <string name="report_bug_privacy_message"><![CDATA[By clicking <em>Report a bug</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[By clicking <em>Create account</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[By clicking <em>Sign in</em>, you agree to our <a href=\"https://podcastrepublic.net/privacy-terms/\">Terms</a> and that you have read our <a href=\"https://podcastrepublic.net/privacy-terms/\">Privacy Policy</a>.]]></string>
+    <string name="report_bug_privacy_message">"By clicking 'Report a bug', you agree to our Terms and that you have read our Privacy Policy."</string>
+    <string name="sign_up_privacy_and_terms_message">"By clicking 'Create account', you agree to our Terms and that you have read our Privacy Policy."</string>
+    <string name="sign_in_privacy_and_terms_message">"By clicking 'Sign in', you agree to our Terms and that you have read our Privacy Policy."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Automatically turn on sleep timer when playback starts.</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Syncing data only when connected to WiFi network</string>
     <string name="syncing_via_wifi_only">Syncing via WiFi only</string>
@@ -914,8 +908,8 @@
     <string name="delete_episodes">Delete episodes</string>
     <string name="playback_mode_priority">Priority mode</string>
     <string name="stats">Stats</string>
-    <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%s</b>.]]></string>
+    <string name="time_saved_b_s_b">"Time saved: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"You\'ve listened: %1$s."</string>
     <string name="since_date">Since</string>
     <string name="reset_stats">Reset stats</string>
     <string name="find_rss_feed">Find RSS feed</string>
@@ -985,8 +979,6 @@
     <string name="syncing_articles_">Syncing articles…</string>
     <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
     <string name="download_priority">Download priority</string>
-    <string name="pin_to_top">Pin to top</string>
-    <string name="unpin_from_top">Unpin from top</string>
     <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
     <string name="add_tags_to_podcast">Add tags to podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
@@ -1029,7 +1021,7 @@
     <string name="auto_start_sleep_timer">Auto start</string>
     <string name="auto_pause_sleep_timer">Auto pause</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Automatically pause sleep timer when playback is paused.</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Automatically turn on sleep timer when start playing between the selected time [%1$s - %2$s].</string>
     <string name="schedule_sleep_time">Schedule sleep time</string>
@@ -1090,7 +1082,6 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Syncing removed tags/playlists/filters: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Syncing tag/playlist/filter changes…</string>
     <string name="syncing_changed_rss_feeds_d">Syncing changed RSS feeds: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Syncing removed RSS feeds: %1$d.</string>
     <string name="adjust_playback_position">Adjust playback position</string>
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
@@ -1101,7 +1092,6 @@
     <string name="new_article_notification">New article notification</string>
     <string name="there_are_no_radio_stations_">There are no radio stations!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_now_playling_list">Display now playing list.</string>
     <string name="display_podcasts_list">Display podcasts list.</string>
     <string name="display_playlists_list">Display playlists list.</string>
     <string name="display_completed_downloads_list">Display completed downloads list.</string>
@@ -1142,7 +1132,7 @@
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Use default chapter title.</string>
     <string name="grid_spacing">Grid spacing</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' can not be used as download directory. Please select a directory on internal storage or SD card."</string>
     <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
     <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
     <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
@@ -1205,7 +1195,6 @@
     <string name="radio_station_name">Station name</string>
     <string name="podcast_priority">Podcast priority</string>
     <string name="group_by_podcast_priority">Group by podcast priority</string>
-    <string name="larger_number_has_higher_priority">Larger number has higher priority.</string>
     <string name="rotate_by_podcast_and_priority">Rotate by podcast &amp; priority</string>
     <string name="grouping">Grouping</string>
     <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
@@ -1294,5 +1283,6 @@
     <string name="show_empty_feeds">Show empty feeds</string>
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>
 

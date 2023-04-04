@@ -272,7 +272,6 @@
     <string name="theme">Tema</string>
     <string name="skip_beginning">Preskoči začetek</string>
     <string name="time_display_second_short_format">sek</string>
-    <string name="search_episode_title">Išči po naslovih epizod</string>
     <string name="search_episodes">Išči epizode</string>
     <string name="widgets">Pripomočki</string>
     <string name="low">Nizka</string>
@@ -563,7 +562,7 @@
     <string name="sign_in">Vpis</string>
     <string name="sign_out">Izpis</string>
     <string name="syncing_started">Sinhroniziranje se je začelo</string>
-    <string name="account_logged_in_s"><![CDATA[Vpisani ste v uporabniški račun: <i>%1$s</i>]]></string>
+    <string name="account_logged_in_s">"Vpisani ste v uporabniški račun: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Sinhroniziraj naročnine in napredek predvajanja epizod.</string>
     <string name="schedule_auto_backup_every_d_days">Varnostno kopiraj vsakih %1$d dni.</string>
     <string name="keep_most_recent_d_auto_backups">Ohrani zadnje %1$d varnostne kopije.</string>
@@ -702,7 +701,6 @@
     <string name="com_parse_ui_email_taken_toast">Enaslov je že zaseden. Prosimo, ponastavite geslo.</string>
     <string name="com_parse_ui_signup_failed_unknown_toast">Prijava trenutno ni mogoča. Prosimo, poskusite kasneje.</string>
     <string name="com_parse_ui_login_help_instructions">Vnesite vaš enaslov za obnovitev vašega gesla</string>
-    <string name="com_parse_ui_login_help_email_input_hint">Epošta</string>
     <string name="com_parse_ui_login_help_submit_button_label">Pošlji</string>
     <string name="com_parse_ui_login_help_login_again_button_label">Nazaj na prijavo</string>
     <string name="com_parse_ui_login_help_submit_failed_unknown">Zahteva za ponastavitev gesla je bila neuspešna. Prosimo, poskusite ponovno.</string>
@@ -710,9 +708,7 @@
     <string name="connecting_">Povezujem…</string>
     <string name="syncing_episode_changes_s">Sinhroniziram spremembe epizod: %1$s.</string>
     <string name="syncing_changed_radio_stations_d">Sinhroniziram dodane radijske postaje: %1$d.</string>
-    <string name="syncing_removed_radio_stations_d">Sinhroniziram odstranjene radijske postaje:: %1$d.</string>
     <string name="syncing_changed_podcasts_d">Sinhroniziram dodane podkaste: %1$d.</string>
-    <string name="syncing_removed_podcasts_d">Sinhroniziram odstranjene podkaste: %1$d.</string>
     <string name="syncing_episode_changes_">Sinhroniziram spremembe epizod…</string>
     <string name="syncing_radio_station_changes_">Sinhroniziram spremembe radijskih postaj…</string>
     <string name="syncing_podcast_changes_">Sinhroniziram spremembe podkastov…</string>
@@ -723,12 +719,9 @@
     <string name="syncing_removed_tags_playlists_fiilters_d">Sinhroniziram odstranjene oznake/sezname/filtre: %1$d.</string>
     <string name="syncing_tag_playlist_filter_changes_">Sinhroniziram spremembe oznak/seznamov/filtrov …</string>
     <string name="syncing_changed_rss_feeds_d">Sihroniziram dodane RSS vire: %1$d.</string>
-    <string name="syncing_removed_rss_feeds_d">Sinhroniziram odstranjene RSS vire: %1$d.</string>
     <string name="syncing">Sinhroniziram</string>
-    <string name="current_playlist">Trenutni seznam</string>
     <string name="continue_to_next_playlist">Nadaljuj z naslednjim seznamom</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Nadaljuj z predvajanjem naslednjega seznama, ko so bile predvajanje vse epizode trenutnega seznama.</string>
-    <string name="disable_manual_sorting">Onemogoči ročno razvrščanje</string>
     <string name="enable_manual_sorting">Omogoči ročno razvrščanje</string>
     <string name="open">Open</string>
     <string name="newest_unplayed">Najnovejše nepredvajane</string>
@@ -778,9 +771,9 @@
     <string name="turn_off_alarms">Izklopi budilko</string>
     <string name="play_as_audio_only">Predvajaj samo zvok</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Odstrani prenose odjavljenega podkasta: [%1$s]?</string>
-    <string name="report_bug_privacy_message"><![CDATA[Z dotikom možnosti <em>Prijavi hrošča</em> potrjujete, da se strinjate z našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Pogoji uporabe</a> in da ste prebrali našo <a href=\"https://podcastrepublic.net/privacy-terms/\">Politiko zasebnosti</a>.]]></string>
-    <string name="sign_up_privacy_and_terms_message"><![CDATA[Z dotikom možnosti <em>Ustvari uporabniški račun</em> potrjujete. da se strinjate z našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Pogoji uporabe</a> in da ste prebrali našo <a href=\"https://podcastrepublic.net/privacy-terms/\">Politiko zasebnosti</a>.]]></string>
-    <string name="sign_in_privacy_and_terms_message"><![CDATA[Z dotikom možnosti <em>Sign in</em> potrjujete. da se strinjate z našimi <a href=\"https://podcastrepublic.net/privacy-terms/\">Pogoji uporabe</a> in da ste prebrali našo <a href=\"https://podcastrepublic.net/privacy-terms/\">Politiko zasebnosti</a>.]]></string>
+    <string name="report_bug_privacy_message">"Z dotikom možnosti 'Prijavi hrošča' potrjujete, da se strinjate z našimi Pogoji uporabe in da ste prebrali našo Politiko zasebnosti."</string>
+    <string name="sign_up_privacy_and_terms_message">"Z dotikom možnosti 'Ustvari uporabniški račun' potrjujete. da se strinjate z našimi Pogoji uporabe in da ste prebrali našo Politiko zasebnosti."</string>
+    <string name="sign_in_privacy_and_terms_message">"Z dotikom možnosti 'Sign in' potrjujete. da se strinjate z našimi Pogoji uporabe in da ste prebrali našo Politiko zasebnosti."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Samodejno vklopi časovnik, ko se začne predvajanje.</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Sihroniziraj podatke samo kadar je naprava povezana z Wi-Fi omrežjem.</string>
     <string name="syncing_via_wifi_only">Sinhroniziranje preko omrežja Wi-Fi</string>
@@ -923,8 +916,8 @@
     <string name="delete_episodes">Izbriši epizode</string>
     <string name="playback_mode_priority">Prednostni način</string>
     <string name="stats">Statistika</string>
-    <string name="time_saved_b_s_b"><![CDATA[Time saved: <b>%1$s</b>.]]></string>
-    <string name="you_ve_listened_b_s_b"><![CDATA[You\'ve listened: <b>%1$s</b>.]]></string>
+    <string name="time_saved_b_s_b">"Time saved: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"You\'ve listened: %1$s."</string>
     <string name="since_date">Od</string>
     <string name="reset_stats">Ponastavi statistiko</string>
     <string name="find_rss_feed">Najdi RSS vir</string>
@@ -994,8 +987,6 @@
     <string name="syncing_articles_">Sinhroniziram članke…</string>
     <string name="syncing_rss_feeds_">Sinhroniziram RSS vire…</string>
     <string name="download_priority">Prednostni prenos</string>
-    <string name="pin_to_top">Pripni na vrh</string>
-    <string name="unpin_from_top">Odpni iz vrha</string>
     <string name="only_include_episodes_with_user_chapters">Vključi samo epizode z poglavji uporabnika.</string>
     <string name="add_tags_to_podcast">Dodaj oznake podkastu</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Samodejno dodaj nove epizode izbranim seznamom.</string>
@@ -1037,7 +1028,7 @@
     <string name="auto_start_sleep_timer">Samodejno začni</string>
     <string name="auto_pause_sleep_timer">Samodejno začasno ustavi</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Samodejno začasno ustavi časovnik, ko je predvajanje začasno ustavljeno.</string>
-    <string name="str1_to_str2"><![CDATA[%1$s -> %2$s]]></string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Samodejno vklopi časovnik, če se predvajanje začne med določenim časom [%1$s - %2$s].</string>
     <string name="schedule_sleep_time">Nastavi čas počitka</string>
@@ -1100,7 +1091,6 @@
     <string name="new_article_notification">Obvestilo za nov članek</string>
     <string name="there_are_no_radio_stations_">Ni nobene radijske postaje!</string>
     <string name="android_auto">Android Avto</string>
-    <string name="display_now_playling_list">Prikaži seznam Predvaja se.</string>
     <string name="display_podcasts_list">Prikaži seznam podkastov.</string>
     <string name="display_playlists_list">Prikaži sezname.</string>
     <string name="display_completed_downloads_list">Prikaži seznam dokončanih prenosov.</string>
@@ -1141,7 +1131,7 @@
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Uporabi privzet naslov poglavja.</string>
     <string name="grid_spacing">Razmik v mreži</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"><![CDATA[<b>Downloads</b> can not be used as download directory. Please select a directory on internal storage or SD card.]]></string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' can not be used as download directory. Please select a directory on internal storage or SD card."</string>
     <string name="set_sleep_timer_after_this_episode">Nastavi časovnik po tej epizodi</string>
     <string name="mark_all_as_played">Označi vse kot predvajano</string>
     <string name="mark_all_as_unplayed">Označi vse kot nepredvajano</string>
@@ -1206,7 +1196,6 @@
     <string name="radio_station_name">Ime radijske postaje</string>
     <string name="podcast_priority">Prednost podkasta</string>
     <string name="group_by_podcast_priority">Združi podkaste po prednosti</string>
-    <string name="larger_number_has_higher_priority">Višje število ima večjo prednost.</string>
     <string name="rotate_by_podcast_and_priority">Kroži po prednostih podkastov</string>
     <string name="grouping">Združevanje</string>
     <string name="display_chapter_title_and_artwork">Prikaži naslov poglavja in grafično podobo</string>
@@ -1295,4 +1284,5 @@
     <string name="show_empty_feeds">Show empty feeds</string>
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
+    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
 </resources>

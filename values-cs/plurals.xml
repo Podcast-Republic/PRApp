@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one"><![CDATA[Poslouchali jste: <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
-        <item quantity="few"><![CDATA[Poslouchali jste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
-        <item quantity="many"><![CDATA[Poslouchali jste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
-        <item quantity="other"><![CDATA[Poslouchali jste: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="one">"Poslouchali jste: %1$d episode, %2$s."</item>
+        <item quantity="few">"Poslouchali jste: %1$d episodes, %2$s."</item>
+        <item quantity="many">"Poslouchali jste: %1$d episodes, %2$s."</item>
+        <item quantity="other">"Poslouchali jste: %1$d episodes, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">

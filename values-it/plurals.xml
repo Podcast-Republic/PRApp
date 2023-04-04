@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one"><![CDATA[Hai ascoltato: <b>%1$d</b> episode, <b>%2$s</b>.]]></item>
-        <item quantity="other"><![CDATA[Hai ascoltato: <b>%1$d</b> episodes, <b>%2$s</b>.]]></item>
+        <item quantity="one">"Hai ascoltato: %1$d episode, %2$s."</item>
+        <item quantity="other">"Hai ascoltato: %1$d episodes, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">

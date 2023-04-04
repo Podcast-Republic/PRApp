@@ -616,7 +616,7 @@
     <string name="download_state_idle">Várakozás a letöltés megkezdésére</string>
     <string name="download_state_fetching_url">Források keresése a letöltéshez</string>
     <string name="download_state_connecting">Kapcsolódás…</string>
-    <string name="download_state_downloading">Letöltés</string>
+    <string name="download_state_downloading">Letöltés…</string>
     <string name="download_state_completed">Kész</string>
     <string name="download_state_paused_network_unavailable">Szünet: várakozás a hálózatra</string>
     <string name="download_state_failed_incorrect_file_received">Sikertelen: hibás fájl érkezett.</string>
@@ -896,7 +896,7 @@
     <string name="edit_mode">Szerkesztés mód</string>
     <string name="no_radio_stations_selected_">Nincsenek kiválasztott rádióállomások!</string>
     <string name="no_rss_feeds_selected_">Nincsenek kiválasztott RSS-hírcsatornák!</string>
-    <string name="hide_empty_feeds">Üres hírcsatornák elrejtése</string>
+    <string name="hide_empty_feeds">Olvasott hírcsatornák elrejtése</string>
     <string name="tag_feeds">Hírcsatorna címkék</string>
     <string name="open_in_browser">Megnyitás böngészőben</string>
     <string name="mark_as_unread">Olvasatlannak jelölés</string>
@@ -1294,8 +1294,8 @@
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Nincs Wi-Fi kapcsolat - Frissíti a hírfolyamot mobil kapcsolaton keresztül?</string>
     <string name="mark_all_previous_articles_as_unread">Korábbi cikkek megjelölése nem olvasottnak</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">A [%1$s] cikk előtt megjelent összes cikk megjelölése nem olvasottnak?</string>
-    <string name="show_empty_podcasts">Üres podcastok megjelenítése</string>
-    <string name="show_empty_feeds">Üres hírfolyamok megjelenítése</string>
+    <string name="show_empty_podcasts">Meghallgatott podcastok megjelenítése</string>
+    <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="login_failed">Sikertelen bejelentkezés</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
 </resources>

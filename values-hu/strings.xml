@@ -1287,5 +1287,5 @@
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="login_failed">Sikertelen bejelentkezés</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
-    <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="term_and_privacy_policy">"Feltételek &amp; Adatvédelmi szabályzat"</string>
 </resources>

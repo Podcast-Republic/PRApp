@@ -167,7 +167,7 @@
     <string name="tag">"Etikett"</string>
     <string name="updating">"wird aktualisiert"</string>
     <string name="preparing">"Vorbereitung…"</string>
-    <string name="error_no_wifi">"Fehler: Kein WLAN"</string>
+    <string name="error_no_wifi">"Fehler: Kein WLAN."</string>
     <string name="auto_download">"Automatischer Download"</string>
     <string name="playing">"Aktuelle Wiedergabe"</string>
     <string name="subscriptions">"Abonnements"</string>
@@ -496,7 +496,7 @@
     <string name="radio_stations">"Radiosender"</string>
     <string name="radios">"Radios"</string>
     <string name="stations">"Sender"</string>
-    <string name="connection_failed">"Verbindung gescheitert"</string>
+    <string name="connection_failed">"Verbindung gescheitert."</string>
     <string name="search_stations">"Sendersuche"</string>
     <string name="add_a_station_by_url">"Sender per URL hinzufügen"</string>
     <string name="radio_stream_url_is_required_">"URL des Radiostreams ist erforderlich!"</string>
@@ -1284,4 +1284,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

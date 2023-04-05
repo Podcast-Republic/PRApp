@@ -162,12 +162,12 @@
     <string name="stopped">Megállított</string>
     <string name="completed">Befejezett</string>
     <string name="export_completed_s">Export befejeződött: %1$s</string>
-    <string name="import_completed">Import befejeződött</string>
+    <string name="import_completed">Import befejeződött.</string>
     <string name="no_wifi_available">WiFi nem áll rendelkezésre!</string>
     <string name="tag">Címke</string>
     <string name="updating">Frissítés…</string>
     <string name="preparing">Előkészítés</string>
-    <string name="error_no_wifi">Hiba: Nincs WiFi kapcsolat</string>
+    <string name="error_no_wifi">Hiba: Nincs WiFi kapcsolat.</string>
     <string name="auto_download">Automatikus letöltés</string>
     <string name="playing">Most játszott</string>
     <string name="subscriptions">Előfizetések</string>
@@ -487,7 +487,7 @@
     <string name="import_from_opml_file">Importálás OPML fájlból</string>
     <string name="export_to_opml_file">Exportálás OPML fájlba</string>
     <string name="episodes">Epizódok</string>
-    <string name="episodes_and_count">Epizódok: %d</string>
+    <string name="episodes_and_count">"Epizódok: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">[ %1$s ] epizód még töltődik. Nem lehet lejátszani.</string>
     <string name="error_episode_still_downloading">Hiba: epizód még letöltés alatt</string>
     <string name="disabled">Letiltva</string>
@@ -496,7 +496,7 @@
     <string name="radio_stations">Rádióállomások</string>
     <string name="radios">Rádiók</string>
     <string name="stations">Állomások</string>
-    <string name="connection_failed">Kapcsolódás nem sikerült</string>
+    <string name="connection_failed">Kapcsolódás nem sikerült.</string>
     <string name="search_stations">Állomások keresése</string>
     <string name="add_a_station_by_url">Állomás hozzáadása URL címmel</string>
     <string name="radio_stream_url_is_required_">Rádió URL cím szükséges!</string>
@@ -557,7 +557,7 @@
     <string name="sign_in">Bejelentkezés</string>
     <string name="sign_out">Kijelentkezés</string>
     <string name="syncing_started">A szinkronizálás elkezdődött</string>
-    <string name="account_logged_in_s">Bejelentkezve: %1$s</string>
+    <string name="account_logged_in_s">"Bejelentkezve: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Előfizetések és lejátszási adatok szinkronizálása</string>
     <string name="schedule_auto_backup_every_d_days">Automatikus mentés minden %1$d. nap után</string>
     <string name="keep_most_recent_d_auto_backups">Tartsa meg az utolsó %1$d automatikus mentést</string>
@@ -688,7 +688,7 @@
     <string name="notify_when_new_episodes_are_available">Értesítés, ha új epizódok állnak rendelkezésre</string>
 
     <string name="com_parse_ui_progress_dialog_text">Betöltés…</string>
-    <string name="com_parse_ui_forgot_password_button_label"><u>Elfelejtett jelszó</u></string>
+    <string name="com_parse_ui_forgot_password_button_label">Elfelejtett jelszó</string>
     <string name="com_parse_ui_email_input_hint">Email</string>
     <string name="com_parse_ui_confirm_password_input_hint">Jelszó ismételten</string>
     <string name="com_parse_ui_create_account_button_label">Fiók létrehozása</string>
@@ -767,9 +767,9 @@
     <string name="turn_off_alarms">Riasztás ki</string>
     <string name="play_as_audio_only">Lejátszás csak hangként</string>
     <string name="remove_downloads_from_unsubscribed_podcast_s_">Letöltések eltávolítása a leiratkozott podcastból: [%1$s]?</string>
-    <string name="report_bug_privacy_message">A 'Hiba bejelentése' lehetőségre kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat.</string>
-    <string name="sign_up_privacy_and_terms_message">A 'Fiók létrehozása' gombra kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat.</string>
-    <string name="sign_in_privacy_and_terms_message">A 'Bejelentkezés' lehetőségre kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat.</string>
+    <string name="report_bug_privacy_message">"A 'Hiba bejelentése' lehetőségre kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat."</string>
+    <string name="sign_up_privacy_and_terms_message">"A 'Fiók létrehozása' gombra kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat."</string>
+    <string name="sign_in_privacy_and_terms_message">"A 'Bejelentkezés' lehetőségre kattintva elfogadja Feltételeinket és elismeri, hogy elolvasta az Adatvédelmi szabályzatunkat."</string>
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Az alvó üzemmód automatikus bekapcsolása, amikor a lejátszás elindul</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Adatszinkronizálás csak akkor, ha WiFi-re csatlakozik</string>
     <string name="syncing_via_wifi_only">Szinkronizálás csak WiFi-n</string>
@@ -813,7 +813,7 @@
     <string name="download_date">Letöltés dátuma</string>
     <string name="create_an_episode_filter">Epizódszűrő létrehozása</string>
     <string name="play_time">Időtartam</string>
-    <string name="play_time_display">Időtartam: %1$s</string>
+    <string name="play_time_display">"Időtartam: %1$s"</string>
     <string name="recently_played">Nemrég lejátszott</string>
     <string name="play_all_newer_episodes">Az összes újabb epizód lejátszása</string>
     <string name="see_what_s_new_in_this_version_s">Tekintse meg, mik az újdonságok ebben a verzióban: %s</string>
@@ -912,8 +912,8 @@
     <string name="delete_episodes">Epizódok törlése</string>
     <string name="playback_mode_priority">Prioritásos mód</string>
     <string name="stats">Statisztika</string>
-    <string name="time_saved_b_s_b">Megtakarított idő: %1$s.</string>
-    <string name="you_ve_listened_b_s_b">Meghallgatva: %1$s.</string>
+    <string name="time_saved_b_s_b">"Megtakarított idő: %1$s."</string>
+    <string name="you_ve_listened_b_s_b">"Meghallgatva: %1$s."</string>
     <string name="since_date">Ettől a dátumtól</string>
     <string name="reset_stats">Statisztikák törlése</string>
     <string name="find_rss_feed">RSS hírcsatorna keresése</string>
@@ -977,7 +977,7 @@
     <string name="only_include_episodes_with_user_notes">Csak felhasználói jegyzeteket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
     <string name="mark_current_playback_position">Aktuális pozíció megjelölése</string>
-    <string name="comma">, </string>
+    <string name="comma">", "</string>
     <string name="pick_an_image_as_the_shortcut_icon">Kép választása a parancsikonhoz</string>
     <string name="use_default_icon">Alapértelmezett ikon használata</string>
     <string name="syncing_articles_">Cikkek szinkronizálása…</string>
@@ -1025,7 +1025,7 @@
     <string name="auto_start_sleep_timer">Automatikus indítás</string>
     <string name="auto_pause_sleep_timer">Automatikus szünet</string>
     <string name="automatically_pause_sleep_timer_when_playback_is_paused">Az alvó üzemmód automatikus szüneteltetése, amikor a lejátszás szünetel</string>
-    <string name="str1_to_str2">%1$s -> %2$s</string>
+    <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="automatically_turn_on_sleep_timer_when_start_playing_between_the_selected_time_1s_to_2s_">Az alvó üzemmód automatikus bekapcsolása, ha elkezd lejátszani a megadott [%1$s - %2$s] időpontok között</string>
     <string name="schedule_sleep_time">Alvó üzemmód ütemezése</string>
@@ -1136,7 +1136,7 @@
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
     <string name="use_default_chapter_title">Alapértelmezett fejezetcím formátum</string>
     <string name="grid_spacing">Rácstávolság</string>
-    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">A <b>Letöltés</b> nem tudja használni a letöltési könyvtárat. Válasszon könyvtárat a belső tárhelyen vagy az SD-kártyán.</string>
+    <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"A <b>Letöltés</b> nem tudja használni a letöltési könyvtárat. Válasszon könyvtárat a belső tárhelyen vagy az SD-kártyán."</string>
     <string name="set_sleep_timer_after_this_episode">Alvó üzemmód bekapcsolása az epizód után</string>
     <string name="mark_all_episodes_from_s_as_played">Megjelöli a [%s] összes epizódját lejátszottnak?</string>
     <string name="mark_all_episodes_as_played">Összes epizód megjelölése lejátszottként</string>
@@ -1287,5 +1287,6 @@
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="login_failed">Sikertelen bejelentkezés</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
-    <string name="term_and_privacy_policy">Feltételek &amp; Adatvédelmi szabályzat</string>
+    <string name="term_and_privacy_policy">"Feltételek &amp; Adatvédelmi szabályzat"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

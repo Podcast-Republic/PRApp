@@ -163,12 +163,12 @@
     <string name="stopped">"Fermato"</string>
     <string name="completed">"Completato"</string>
     <string name="export_completed_s">"Esportazione completata: %1$s"</string>
-    <string name="import_completed">"Importazione completata"</string>
+    <string name="import_completed">"Importazione completata."</string>
     <string name="no_wifi_available">"Connessione Wi-Fi non disponibile!"</string>
     <string name="tag">"Tag"</string>
     <string name="updating">"Aggiornamento in corso…"</string>
     <string name="preparing">"In preparazione…"</string>
-    <string name="error_no_wifi">"Errore: nessuna connessione Wi-Fi"</string>
+    <string name="error_no_wifi">"Errore: nessuna connessione Wi-Fi."</string>
     <string name="auto_download">"Download automatico"</string>
     <string name="playing">"In riproduzione"</string>
     <string name="subscriptions">"Sottoscrizioni"</string>
@@ -497,7 +497,7 @@
     <string name="radio_stations">"Stazioni radio"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Stazioni"</string>
-    <string name="connection_failed">"Connessione non riuscita"</string>
+    <string name="connection_failed">"Connessione non riuscita."</string>
     <string name="search_stations">"Ricerca stazioni radio"</string>
     <string name="add_a_station_by_url">"Aggiungi stazione per URL"</string>
     <string name="radio_stream_url_is_required_">"L'URL per lo stream audio è obbligatorio!"</string>
@@ -1284,4 +1284,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

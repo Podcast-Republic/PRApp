@@ -214,7 +214,7 @@
     <string name="com_parse_ui_create_account_button_label">Opprett konto</string>
     <string name="com_parse_ui_email_input_hint">E-mail</string>
     <string name="com_parse_ui_email_taken_toast">E-mailadressen er allerede tatt, nullstill  passordet ditt i stedet.</string>
-    <string name="com_parse_ui_forgot_password_button_label"><u>Glemte passordet</u></string>
+    <string name="com_parse_ui_forgot_password_button_label">Glemte passordet</string>
     <string name="com_parse_ui_invalid_email_toast">E-mailadressen er ugyldig - prøv igjen</string>
     <string name="com_parse_ui_login_help_email_sent">Vennligst sjekk e-mailen din for opplysninger om hvordan du får adgang til kontoen din</string>
     <string name="com_parse_ui_login_help_instructions">Skriv inn e-mailen din for informasjon  om hvordan du skal få tilgang til kontoen din.</string>
@@ -236,7 +236,7 @@
     <string name="completed">Ferdig</string>
     <string name="completed_downloads">Ferdig</string>
     <string name="connecting_">Oppretter forbindelse …</string>
-    <string name="connection_failed">Tilkobling mislyktes</string>
+    <string name="connection_failed">Tilkobling mislyktes.</string>
     <string name="continue_">Fortsett</string>
     <string name="continue_on_error">Fortsett ved feil</string>
     <string name="continue_to_next_playlist">Fortsett til neste spilleliste</string>
@@ -342,7 +342,7 @@
     <string name="erase_data_and_restore_from_backup_">Slette data og tilbakeføre fra sikkerhetskopi?</string>
     <string name="error_downloaded_file_not_found">Feil: finner ikke nedlastet fil.</string>
     <string name="error_episode_still_downloading">Feil: episoden lastes fremdeles ned.</string>
-    <string name="error_no_wifi">Feil: ingen Wi-Fi</string>
+    <string name="error_no_wifi">Feil: ingen Wi-Fi.</string>
     <string name="every_day">Daglig</string>
     <string name="every_half_day">To ganger om dagen</string>
     <string name="every_one_hour">Hver time</string>
@@ -394,7 +394,7 @@
     <string name="http">HTTP</string>
     <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">Hvis et bilde ikke er spesifisert, vil et vilkårlig bilde fra mappen med den virtuelle podcasten bli brukt som standardbilde.</string>
     <string name="image_url">Link til bilde</string>
-    <string name="import_completed">Importen er gjennomført</string>
+    <string name="import_completed">Importen er gjennomført.</string>
     <string name="import_export_opml">Importer/eksporter OPML</string>
     <string name="import_from_opml_file">Importer OPML</string>
     <string name="import_sub_directory">Importer undermappe</string>
@@ -1282,4 +1282,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

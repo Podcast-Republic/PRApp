@@ -162,12 +162,12 @@
     <string name="stopped">Zatrzymano</string>
     <string name="completed">Ukończone</string>
     <string name="export_completed_s">Eksportowanie zakończone: %1$s</string>
-    <string name="import_completed">Importowanie zakończone</string>
+    <string name="import_completed">Importowanie zakończone.</string>
     <string name="no_wifi_available">Nie połączono z siecią Wi-Fi!</string>
     <string name="tag">Tag</string>
     <string name="updating">Aktualizuję</string>
     <string name="preparing">Przygotowuję…</string>
-    <string name="error_no_wifi">Błąd: Brak Wi-Fi</string>
+    <string name="error_no_wifi">Błąd: Brak Wi-Fi.</string>
     <string name="auto_download">Pobieraj automatycznie</string>
     <string name="playing">Odtwarzam</string>
     <string name="subscriptions">Subskrypcje</string>
@@ -494,7 +494,7 @@
     <string name="radio_stations">Stacje radiowe</string>
     <string name="radios">Radia</string>
     <string name="stations">Stacje</string>
-    <string name="connection_failed">Połączenie nieudane</string>
+    <string name="connection_failed">Połączenie nieudane.</string>
     <string name="search_stations">Szukaj stacji</string>
     <string name="add_a_station_by_url">Dodaj adres URL stacji</string>
     <string name="radio_stream_url_is_required_">Wymagany jest adres streamingu stacji!</string>
@@ -1287,4 +1287,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

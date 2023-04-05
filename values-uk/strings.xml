@@ -162,12 +162,12 @@
     <string name="stopped">"Зупинено"</string>
     <string name="completed">"Завершено"</string>
     <string name="export_completed_s">"Експорт завершено: %1$s"</string>
-    <string name="import_completed">"Імпорт завершено"</string>
+    <string name="import_completed">"Імпорт завершено."</string>
     <string name="no_wifi_available">"Wi-Fi не доступний!"</string>
     <string name="tag">"Тег"</string>
     <string name="updating">"Оновлюю…"</string>
     <string name="preparing">"Підготовка…"</string>
-    <string name="error_no_wifi">"Помилка: нема доступу до Wi-Fi"</string>
+    <string name="error_no_wifi">"Помилка: нема доступу до Wi-Fi."</string>
     <string name="auto_download">"Автоматичне завантаження"</string>
     <string name="playing">"Зараз грає"</string>
     <string name="subscriptions">"Підписки"</string>
@@ -496,7 +496,7 @@
     <string name="radio_stations">"Радіостанції"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Станції"</string>
-    <string name="connection_failed">"Не вдалося під'єднатися"</string>
+    <string name="connection_failed">"Не вдалося під'єднатися."</string>
     <string name="search_stations">"Пошук станцій"</string>
     <string name="add_a_station_by_url">"Додати станцію за URL-адресою"</string>
     <string name="radio_stream_url_is_required_">"Потрібен URL-адрес потокового радіо"</string>
@@ -1283,4 +1283,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

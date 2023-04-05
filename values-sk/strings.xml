@@ -167,12 +167,12 @@
     <string name="stopped">Zastavené</string>
     <string name="completed">Dokončené</string>
     <string name="export_completed_s">Export bol dokončený: %1$s</string>
-    <string name="import_completed">Import bol dokončený</string>
+    <string name="import_completed">Import bol dokončený.</string>
     <string name="no_wifi_available">K dispozícii nie je žiadne pripojenie Wi-Fi!</string>
     <string name="tag">Tag</string>
     <string name="updating">Aktualizuje sa</string>
     <string name="preparing">Pripravuje sa…</string>
-    <string name="error_no_wifi">Chyba: Žiadne Wi-Fi</string>
+    <string name="error_no_wifi">Chyba: Žiadne Wi-Fi.</string>
     <string name="auto_download">Automatické sťahovanie</string>
     <string name="playing">Prehrávanie</string>
     <string name="subscriptions">Odbery</string>
@@ -497,7 +497,7 @@
     <string name="radio_stations">Rádiá</string>
     <string name="radios">Rádiá</string>
     <string name="stations">Stanice</string>
-    <string name="connection_failed">Pripojenie zlyhalo</string>
+    <string name="connection_failed">Pripojenie zlyhalo.</string>
     <string name="search_stations">Vyhľadávanie staníc</string>
     <string name="add_a_station_by_url">Pridať stanicu podľa URL adresy</string>
     <string name="radio_stream_url_is_required_">Vyžaduje sa URL adresa streamu rádia!</string>
@@ -681,7 +681,7 @@
     <string name="number_of_episodes_to_auto_download">Počet epizód pre automatické sťahovanie</string>
     <string name="notify_when_new_episodes_are_available">Upozorniť, keď budú k dispozícii nové epizódy</string>
     <string name="com_parse_ui_progress_dialog_text">Načítava sa…</string>
-    <string name="com_parse_ui_forgot_password_button_label"><u>Zabudli ste heslo</u></string>
+    <string name="com_parse_ui_forgot_password_button_label">Zabudli ste heslo</string>
     <string name="com_parse_ui_email_input_hint">E-mail</string>
     <string name="com_parse_ui_confirm_password_input_hint">Znovu zadajte heslo</string>
     <string name="com_parse_ui_create_account_button_label">Vytvoriť účet</string>
@@ -1285,4 +1285,5 @@
     <string name="login_failed">Prihlásenie zlyhalo</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Vyberte jazyk, ktorý chcete v aplikácii používať.</string>
     <string name="term_and_privacy_policy">"Podmienky a zásady ochrany osobných údajov"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

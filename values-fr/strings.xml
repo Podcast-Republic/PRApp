@@ -166,12 +166,12 @@
     <string name="completed">Complet</string>
     <!-- Plural: Complets -->
     <string name="export_completed_s">Export réussi: %1$s</string>
-    <string name="import_completed">Import réussi</string>
+    <string name="import_completed">Import réussi.</string>
     <string name="no_wifi_available">Pas de Wi-Fi disponible !</string>
     <string name="tag">Etiquette</string>
     <string name="updating">Mise à jour en cours</string>
     <string name="preparing">Préparation…</string>
-    <string name="error_no_wifi">Erreur : Pas de Wi-Fi</string>
+    <string name="error_no_wifi">Erreur : Pas de Wi-Fi.</string>
     <string name="auto_download">Téléchargement auto</string>
     <string name="playing">En cours / FAQs</string>
     <string name="subscriptions">Abonnements</string>
@@ -500,7 +500,7 @@
     <string name="radio_stations">Stations radio</string>
     <string name="radios">Radios</string>
     <string name="stations">Stations</string>
-    <string name="connection_failed">La connection a echoué</string>
+    <string name="connection_failed">La connection a echoué.</string>
     <string name="search_stations">Rechercher parmi les stations</string>
     <string name="add_a_station_by_url">Définir une station (par URL)</string>
     <string name="radio_stream_url_is_required_">"L'URL du flux radio est requis !"</string>
@@ -687,7 +687,7 @@
     <string name="number_of_episodes_to_auto_download">"Nombre d'épisodes à télécharger automatiquement"</string>
     <string name="notify_when_new_episodes_are_available">Notifier lorsque de nouveaux épisodes sont disponibles</string>
     <string name="com_parse_ui_progress_dialog_text">Chargement…</string>
-    <string name="com_parse_ui_forgot_password_button_label"><u>Mot de passe oublié</u></string>
+    <string name="com_parse_ui_forgot_password_button_label">Mot de passe oublié</string>
     <string name="com_parse_ui_email_input_hint">Adresse Mail</string>
     <string name="com_parse_ui_confirm_password_input_hint">Saisir de nouveau le mot de passe</string>
     <string name="com_parse_ui_create_account_button_label">Créer un compte</string>
@@ -1290,4 +1290,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

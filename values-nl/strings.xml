@@ -162,12 +162,12 @@
     <string name="stopped">"Gestopt"</string>
     <string name="completed">"Voltooid"</string>
     <string name="export_completed_s">"Exporteren voltooid: %1$s"</string>
-    <string name="import_completed">"Importeren voltooid"</string>
+    <string name="import_completed">"Importeren voltooid."</string>
     <string name="no_wifi_available">"Geen wifi beschikbaar!"</string>
     <string name="tag">"Tag"</string>
     <string name="updating">"Aan het bijwerken"</string>
     <string name="preparing">"Voorbereiden…"</string>
-    <string name="error_no_wifi">"Fout: Geen wifi"</string>
+    <string name="error_no_wifi">"Fout: Geen wifi."</string>
     <string name="auto_download">"Automatisch downloaden"</string>
     <string name="playing">"Speelt nu"</string>
     <string name="subscriptions">"Abonnementen"</string>
@@ -495,7 +495,7 @@
     <string name="radio_stations">"Radiozenders"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Zenders"</string>
-    <string name="connection_failed">"Verbinding mislukt"</string>
+    <string name="connection_failed">"Verbinding mislukt."</string>
     <string name="search_stations">"Zoek zender"</string>
     <string name="add_a_station_by_url">"Zender toevoegen via URL"</string>
     <string name="radio_stream_url_is_required_">"Radiozender stream URL is verplicht!"</string>
@@ -682,7 +682,7 @@
     <string name="number_of_episodes_to_auto_download">Aantal afleveringen om automatisch te downloaden</string>
     <string name="notify_when_new_episodes_are_available">Laat weten wanneer er nieuwe afleveringen beschikbaar zijn</string>
     <string name="com_parse_ui_progress_dialog_text">Aan het laden…</string>
-    <string name="com_parse_ui_forgot_password_button_label"><u>Wachtwoord vergeten</u></string>
+    <string name="com_parse_ui_forgot_password_button_label">Wachtwoord vergeten</string>
     <string name="com_parse_ui_email_input_hint">E-mail</string>
     <string name="com_parse_ui_confirm_password_input_hint">Nogmaals wachtwoord ingeven</string>
     <string name="com_parse_ui_create_account_button_label">Account aanmaken</string>
@@ -1284,4 +1284,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

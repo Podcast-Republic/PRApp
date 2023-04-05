@@ -163,12 +163,12 @@
     <string name="stopped">"Stoppet"</string>
     <string name="completed">"Hentet indhold"</string>
     <string name="export_completed_s">"Eksporten er gennemført: %1$s"</string>
-    <string name="import_completed">"Importen er gennemført"</string>
+    <string name="import_completed">"Importen er gennemført."</string>
     <string name="no_wifi_available">"Ingen Wi-Fi tilgængelig"</string>
     <string name="tag">"tag"</string>
     <string name="updating">"Opdaterer"</string>
     <string name="preparing">"Forbereder …"</string>
-    <string name="error_no_wifi">"Fejl: Ingen Wi-Fi"</string>
+    <string name="error_no_wifi">"Fejl: Ingen Wi-Fi."</string>
     <string name="auto_download">"Automatisk download"</string>
     <string name="playing">"Afspiller"</string>
     <string name="subscriptions">"Abonnementer"</string>
@@ -497,7 +497,7 @@
     <string name="radio_stations">"Radiostationer"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Stationer"</string>
-    <string name="connection_failed">"Forbindelsen mislykkedes"</string>
+    <string name="connection_failed">"Forbindelsen mislykkedes."</string>
     <string name="search_stations">"Søg stationer"</string>
     <string name="add_a_station_by_url">"Tilføj station via link"</string>
     <string name="radio_stream_url_is_required_">"Det er nødvendigt med link til radiostream"</string>
@@ -682,9 +682,8 @@
     <string name="playback_paused_on_muted_volume_">Afspilning er på pause, når lyden er slået fra!</string>
     <string name="number_of_episodes_to_auto_download">Antal episoder der downloades automatisk</string>
     <string name="notify_when_new_episodes_are_available">Vis notifikation når nye afsnit er tilgængelige</string>
-
     <string name="com_parse_ui_progress_dialog_text">"Indlæser…"</string>
-    <string name="com_parse_ui_forgot_password_button_label">"<u>Glemt adgangskode</u>"</string>
+    <string name="com_parse_ui_forgot_password_button_label">"Glemt adgangskode"</string>
     <string name="com_parse_ui_email_input_hint">"E-mail"</string>
     <string name="com_parse_ui_confirm_password_input_hint">"Gentag adgangskode"</string>
     <string name="com_parse_ui_create_account_button_label">"Opret konto"</string>
@@ -1285,4 +1284,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

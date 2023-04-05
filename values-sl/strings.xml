@@ -170,12 +170,12 @@
     <string name="stopped">Ustavljeno</string>
     <string name="completed">Dokončano</string>
     <string name="export_completed_s">Izvoz dokončan: %1$s</string>
-    <string name="import_completed">Vnos dokončan</string>
+    <string name="import_completed">Vnos dokončan.</string>
     <string name="no_wifi_available">Ni razpoložljivega Wi-Fi omrežja!</string>
     <string name="tag">Označba</string>
     <string name="updating">Posodabljam</string>
     <string name="preparing">Pripravljam…</string>
-    <string name="error_no_wifi">Napaka: Ni Wi-Fi povezave</string>
+    <string name="error_no_wifi">Napaka: Ni Wi-Fi povezave.</string>
     <string name="auto_download">Samodejni prenos</string>
     <string name="playing">Predvaja se</string>
     <string name="subscriptions">Naročnine</string>
@@ -501,7 +501,7 @@
     <string name="radio_stations">Radijske postaje</string>
     <string name="radios">Radiji</string>
     <string name="stations">Postaje</string>
-    <string name="connection_failed">Povezava ni uspela</string>
+    <string name="connection_failed">Povezava ni uspela.</string>
     <string name="search_stations">Išči postaje</string>
     <string name="add_a_station_by_url">Dodaj postajo z URL naslovom</string>
     <string name="radio_stream_url_is_required_">Zahtevan je URL naslov za pretakanje vsebin radijske postaje!</string>
@@ -685,7 +685,7 @@
     <string name="number_of_episodes_to_auto_download">Število epizod za samodejen prenos</string>
     <string name="notify_when_new_episodes_are_available">Obvesti me, ko so na voljo nove epizode.</string>
     <string name="com_parse_ui_progress_dialog_text">Nalagam…</string>
-    <string name="com_parse_ui_forgot_password_button_label"><u>Pozabljeno geslo</u></string>
+    <string name="com_parse_ui_forgot_password_button_label">Pozabljeno geslo</string>
     <string name="com_parse_ui_email_input_hint">Enaslov</string>
     <string name="com_parse_ui_confirm_password_input_hint">Ponovno vnesi geslo</string>
     <string name="com_parse_ui_create_account_button_label">Ustvari uporabniški račun</string>
@@ -1285,4 +1285,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

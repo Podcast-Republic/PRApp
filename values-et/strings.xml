@@ -162,12 +162,12 @@
     <string name="stopped">"Peatatud"</string>
     <string name="completed">"Lõpetatud"</string>
     <string name="export_completed_s">"Eksport valmis: %1$s"</string>
-    <string name="import_completed">"Import lõpetatud"</string>
+    <string name="import_completed">"Import lõpetatud."</string>
     <string name="no_wifi_available">"Wi-Fi pole saadaval!"</string>
     <string name="tag">"Silt"</string>
     <string name="updating">"Uuendamine"</string>
     <string name="preparing">"Valmistumine…"</string>
-    <string name="error_no_wifi">"Viga: Wi-Fi pole saadaval"</string>
+    <string name="error_no_wifi">"Viga: Wi-Fi pole saadaval."</string>
     <string name="auto_download">"Automaatne allalaadimine"</string>
     <string name="playing">"Mängib"</string>
     <string name="subscriptions">"Tellimused"</string>
@@ -496,7 +496,7 @@
     <string name="radio_stations">"Raadiojaamad"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Jaamad"</string>
-    <string name="connection_failed">"Ühendus ebaõnnestus"</string>
+    <string name="connection_failed">"Ühendus ebaõnnestus."</string>
     <string name="search_stations">"Otsi jaama"</string>
     <string name="add_a_station_by_url">"Lisa jaama URL aadress"</string>
     <string name="radio_stream_url_is_required_">"Raadio striimi URL aadress on vajalik!"</string>
@@ -1284,4 +1284,5 @@
     <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
+    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
 </resources>

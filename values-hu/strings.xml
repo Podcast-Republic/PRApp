@@ -411,7 +411,7 @@
     <string name="playing_state">Lejátszási állapot</string>
     <string name="only_include_favorited_episodes">Csak kedvenc epizódokat tartalmazzon</string>
     <string name="download_status">Letöltés állapota</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel.</string>
     <string name="continue_on_error">Folytatás hiba esetén</string>
     <string name="downloading">Letöltődő</string>
     <string name="failed">Sikertelen</string>
@@ -717,7 +717,7 @@
     <string name="syncing_podcast_changes_">Podcastok szinkronizálása…</string>
     <string name="syncing">Szinkronizálás</string>
     <string name="continue_to_next_playlist">A következő lejátszólista</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta.</string>
     <string name="enable_manual_sorting">Manuális rendezés engedélyezése</string>
     <string name="open">Megnyitás</string>
     <string name="newest_unplayed">Legújabb nem lejátszott</string>
@@ -930,7 +930,7 @@
     <string name="show_radio_station_name">Állomás nevének megjelenítése</string>
     <string name="hide_radio_station_name">Állomás nevének elrejtése</string>
     <string name="not_in_downloads_list">Nincs a Letöltési listában</string>
-    <string name="reversed_landscape">Fordított tájolás</string>
+    <string name="reverse_landscape_screen_display_mode">Fordított tájolás</string>
     <string name="reset_sleep_timer">Alvó üzemmód alaphelyzetbe</string>
     <string name="toggle_playback_speed_on_off">Lejátszási sebesség átkapcsolása ki/be</string>
     <string name="there_are_no_episodes_with_notes_">Nincsenek jegyzetekkel ellátott epizódok!</string>
@@ -1289,4 +1289,10 @@
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
     <string name="term_and_privacy_policy">"Feltételek és Adatvédelmi szabályzat"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
+    <string name="play_previous_episode_or_station">Play previous episode/station</string>
+    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
+    <string name="play_next_episode_station">Play next episode/station</string>
+    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size_s">Cache size: %1$s.</string>
 </resources>

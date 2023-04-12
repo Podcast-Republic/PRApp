@@ -949,7 +949,7 @@
     <string name="show_radio_station_name">Show station name</string>
     <string name="hide_radio_station_name">Hide station name</string>
     <string name="not_in_downloads_list">Not in Downloads list</string>
-    <string name="reversed_landscape">Reversed landscape</string>
+    <string name="reverse_landscape_screen_display_mode">Reverse landscape</string>
     <string name="reset_sleep_timer">Reset sleep timer</string>
     <string name="toggle_playback_speed_on_off">Toggle playback speed on/off</string>
     <string name="there_are_no_episodes_with_notes_">There are no episodes with notes!</string>
@@ -1307,4 +1307,10 @@
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
+    <string name="play_previous_episode_or_station">Play previous episode/station</string>
+    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
+    <string name="play_next_episode_station">Play next episode/station</string>
+    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size_s">Cache size: %1$s.</string>
 </resources>

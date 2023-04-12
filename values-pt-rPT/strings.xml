@@ -409,7 +409,7 @@
     <string name="playing_state">"Estado da reprodução"</string>
     <string name="only_include_favorited_episodes">"Incluir apenas episódios favoritos"</string>
     <string name="download_status">"Estado da transferência"</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Passar para o episódio seguinte quando ocorre um erro de reprodução"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Passar para o episódio seguinte quando ocorre um erro de reprodução."</string>
     <string name="continue_on_error">"Continuar em caso de erro"</string>
     <string name="downloading">"A transferir"</string>
     <string name="failed">"Falhou"</string>
@@ -710,7 +710,7 @@
     <string name="syncing_podcast_changes_">"Sincronizando alterações em assinaturas de podcasts…"</string>
     <string name="syncing">"Sincronizando"</string>
     <string name="continue_to_next_playlist">"Continuar com a próxima playlist"</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Continuar reproduzindo a próxima lista de reprodução após finalizar o último episódio da lista atual"</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Continuar reproduzindo a próxima lista de reprodução após finalizar o último episódio da lista atual."</string>
     <string name="enable_manual_sorting">"Habilitar ordenação manual"</string>
     <string name="open">"Aberto"</string>
     <string name="newest_unplayed">"Mais novo não reproduzido"</string>
@@ -923,7 +923,7 @@
     <string name="show_radio_station_name">"Mostrar título da estação"</string>
     <string name="hide_radio_station_name">"Ocultar título da estação"</string>
     <string name="not_in_downloads_list">"Não está na lista de downloads"</string>
-    <string name="reversed_landscape">"Paisagem invertida"</string>
+    <string name="reverse_landscape_screen_display_mode">"Paisagem invertida"</string>
     <string name="reset_sleep_timer">"Resetar temporizador"</string>
     <string name="toggle_playback_speed_on_off">"Ativar/desativar a velocidade de reprodução"</string>
     <string name="http">"HTTP"</string>
@@ -1285,4 +1285,10 @@
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="add_tags_to_rss_feed">Add tags to RSS feed</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
+    <string name="play_previous_episode_or_station">Play previous episode/station</string>
+    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
+    <string name="play_next_episode_station">Play next episode/station</string>
+    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size_s">Cache size: %1$s.</string>
 </resources>

@@ -411,7 +411,7 @@
     <string name="playing_state">"Wiedergabestatus"</string>
     <string name="only_include_favorited_episodes">"Nur Favoriten-Episoden"</string>
     <string name="download_status">"Download-Status"</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Nächste Episode abspielen, wenn Wiedergabefehler auftritt"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Nächste Episode abspielen, wenn Wiedergabefehler auftritt."</string>
     <string name="continue_on_error">"Bei Fehler fortfahren"</string>
     <string name="downloading">"Download läuft"</string>
     <string name="failed">"Gescheitert"</string>
@@ -924,7 +924,7 @@
     <string name="show_radio_station_name">"Sendertitel anzeigen"</string>
     <string name="hide_radio_station_name">"Sendertitel ausblenden"</string>
     <string name="not_in_downloads_list">"Nicht in der Downloads-Liste"</string>
-    <string name="reversed_landscape">"Querformat Überkopf"</string>
+    <string name="reverse_landscape_screen_display_mode">"Querformat Überkopf"</string>
     <string name="reset_sleep_timer">"Sleep-Timer zurücksetzen"</string>
     <string name="toggle_playback_speed_on_off">"Ein- / Ausschalten der Wiedergabegeschwindigkeit"</string>
     <string name="app_name">"Podcast Republic"</string>
@@ -1285,4 +1285,10 @@
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
+    <string name="play_previous_episode_or_station">Play previous episode/station</string>
+    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
+    <string name="play_next_episode_station">Play next episode/station</string>
+    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size_s">Cache size: %1$s.</string>
 </resources>

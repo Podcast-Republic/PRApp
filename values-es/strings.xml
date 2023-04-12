@@ -410,7 +410,7 @@
     <string name="playing_state">"Estado de reproducción"</string>
     <string name="only_include_favorited_episodes">"Incluir sólo episodios favoritos"</string>
     <string name="download_status">"Estado de la descarga"</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Continuar reproduciendo el siguiente episodio cuando ocurra un error de reproducción"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Continuar reproduciendo el siguiente episodio cuando ocurra un error de reproducción."</string>
     <string name="continue_on_error">"Continuar cuando ocurra un error"</string>
     <string name="downloading">"Descargando"</string>
     <string name="failed">"Fallado"</string>
@@ -711,7 +711,7 @@
     <string name="syncing_podcast_changes_">"Sincronizando los cambios en las suscripciones de podcasts…"</string>
     <string name="syncing">"Sincronizando"</string>
     <string name="continue_to_next_playlist">"Continuar a la siguiente lista de reproducción"</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Continúa reproduciendo la siguiente lista de reproducción después de que todos los episodios se hayan reproducido en la lista de reproducción actual"</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Continúa reproduciendo la siguiente lista de reproducción después de que todos los episodios se hayan reproducido en la lista de reproducción actual."</string>
     <string name="enable_manual_sorting">"Habilitar clasificación manual"</string>
     <string name="open">"Abrir"</string>
     <string name="newest_unplayed">"El más nuevo sin reproducir"</string>
@@ -924,7 +924,7 @@
     <string name="show_radio_station_name">"Mostrar título de la emisora"</string>
     <string name="hide_radio_station_name">"Ocultar título de emisora"</string>
     <string name="not_in_downloads_list">"No en la lista de descargas"</string>
-    <string name="reversed_landscape">"Horizontal invertido"</string>
+    <string name="reverse_landscape_screen_display_mode">"Horizontal invertido"</string>
     <string name="reset_sleep_timer">"Restablecer temporizador de sueño"</string>
     <string name="toggle_playback_speed_on_off">"Activar/desactivar la velocidad de reproducción"</string>
     <string name="there_are_no_episodes_with_notes_">"¡No hay episodios con notas!"</string>
@@ -1283,4 +1283,10 @@
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="play_as_video">Play as video</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
+    <string name="play_previous_episode_or_station">Play previous episode/station</string>
+    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
+    <string name="play_next_episode_station">Play next episode/station</string>
+    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size_s">Cache size: %1$s.</string>
 </resources>

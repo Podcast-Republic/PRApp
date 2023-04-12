@@ -410,7 +410,7 @@
     <string name="playing_state">"Afspeelstatus"</string>
     <string name="only_include_favorited_episodes">"Laat alleen favoriete afleveringen zien"</string>
     <string name="download_status">"Status Download"</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Ga door naar de volgende aflevering wanneer een afspeelfout optreedt"</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">"Ga door naar de volgende aflevering wanneer een afspeelfout optreedt."</string>
     <string name="continue_on_error">"Doorgaan bij fout"</string>
     <string name="downloading">"Aan het downloaden"</string>
     <string name="failed">"Mislukt"</string>
@@ -711,7 +711,7 @@
     <string name="syncing_podcast_changes_">Synchroniseren van podcast abonnement veranderingen…</string>
     <string name="syncing">Synchroniseren</string>
     <string name="continue_to_next_playlist">Ga door met de volgende afspeellijst</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Speel de volgende afspeellijst wanneer alle afleveringen in de huidige afspeellijst zijn gespeeld</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Speel de volgende afspeellijst wanneer alle afleveringen in de huidige afspeellijst zijn gespeeld.</string>
     <string name="enable_manual_sorting">Aanzetten handmatig sorteren</string>
     <string name="open">Open</string>
     <string name="newest_unplayed">Nieuwste niet-gespeelde</string>
@@ -924,7 +924,7 @@
     <string name="show_radio_station_name">Toon station naam</string>
     <string name="hide_radio_station_name">Verberg station naam</string>
     <string name="not_in_downloads_list">Niet in Downloads lijst</string>
-    <string name="reversed_landscape">Omgedraaid landscape</string>
+    <string name="reverse_landscape_screen_display_mode">Omgedraaid landscape</string>
     <string name="reset_sleep_timer">Herstel slaaptimer</string>
     <string name="toggle_playback_speed_on_off">Schakel afspeelsnelheid aan/uit</string>
     <string name="http">HTTP</string>
@@ -1285,4 +1285,10 @@
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
+    <string name="play_previous_episode_or_station">Play previous episode/station</string>
+    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
+    <string name="play_next_episode_station">Play next episode/station</string>
+    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size_s">Cache size: %1$s.</string>
 </resources>

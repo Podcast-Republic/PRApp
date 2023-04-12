@@ -412,7 +412,7 @@
     <string name="playing_state">Stav prehrávania</string>
     <string name="only_include_favorited_episodes">Zahrnúť iba obľúbené epizódy</string>
     <string name="download_status">Stav sťahovania</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ak sa vyskytne chyba prehrávania, pokračovať v prehrávaní ďalšej epizódy</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ak sa vyskytne chyba prehrávania, pokračovať v prehrávaní ďalšej epizódy.</string>
     <string name="continue_on_error">Pokračovať pri chybe</string>
     <string name="downloading">Sťahovanie</string>
     <string name="failed">Zlyhalo</string>
@@ -717,7 +717,7 @@
     <string name="syncing_changed_rss_feeds_d">Synchronizujú sa pridané RSS zdroje: %1$d.</string>
     <string name="syncing">Synchronizácia</string>
     <string name="continue_to_next_playlist">Pokračovať na ďalší playlist</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Po prehratí všetkých epizód v aktuálnom playliste pokračovať v prehrávaní nasledujúceho playlistu</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Po prehratí všetkých epizód v aktuálnom playliste pokračovať v prehrávaní nasledujúceho playlistu.</string>
     <string name="enable_manual_sorting">Povoliť manuálne zoradenie</string>
     <string name="open">Otvoriť</string>
     <string name="newest_unplayed">Najnovšie neprehraté</string>
@@ -930,7 +930,7 @@
     <string name="show_radio_station_name">Zobraziť názov stanice</string>
     <string name="hide_radio_station_name">Skryť názov stanice</string>
     <string name="not_in_downloads_list">Nie je v zozname na stiahnutie</string>
-    <string name="reversed_landscape">Na šírku obrátene</string>
+    <string name="reverse_landscape_screen_display_mode">Na šírku obrátene</string>
     <string name="reset_sleep_timer">Vynulovať časovač vypnutia</string>
     <string name="toggle_playback_speed_on_off">Zapnúť/Vypnúť rýchlosť prehrávania</string>
     <string name="there_are_no_episodes_with_notes_">Nie sú žiadne epizódy s poznámkami!</string>
@@ -1286,4 +1286,10 @@
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Vyberte jazyk, ktorý chcete v aplikácii používať.</string>
     <string name="term_and_privacy_policy">"Podmienky a zásady ochrany osobných údajov"</string>
     <string name="import_from_opml_file_failed_s">Import zo súboru OPML zlyhal: %1$s.</string>
+    <string name="play_previous_episode_or_station">Play previous episode/station</string>
+    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
+    <string name="play_next_episode_station">Play next episode/station</string>
+    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size_s">Cache size: %1$s.</string>
 </resources>

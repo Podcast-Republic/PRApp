@@ -1287,9 +1287,9 @@
     <string name="term_and_privacy_policy">"Podmienky a zásady ochrany osobných údajov"</string>
     <string name="import_from_opml_file_failed_s">Import zo súboru OPML zlyhal: %1$s.</string>
     <string name="play_previous_episode_or_station">Play previous episode/station</string>
-    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
-    <string name="play_next_episode_station">Play next episode/station</string>
-    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
-    <string name="clear_cache">Clear cache</string>
-    <string name="cache_size_s">Cache size: %1$s.</string>
+    <string name="show_play_previous_episode_station_button_">Zobraziť tlačidlo Prehrať predchádzajúcu epizódu/stanicu.</string>
+    <string name="play_next_episode_station">Zobraziť tlačidlo Prehrať nasledujúcu epizódu/stanicu</string>
+    <string name="reverse_portrait_screen_display_mode">Na výšku obrátene</string>
+    <string name="clear_cache">Vymazať vyrovnávaciu pamäť</string>
+    <string name="cache_size_s">Vyrovnávacia pamäť: %1$s.</string>
 </resources>

@@ -1289,10 +1289,10 @@
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
     <string name="term_and_privacy_policy">"Feltételek és Adatvédelmi szabályzat"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
-    <string name="play_previous_episode_or_station">Play previous episode/station</string>
-    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
-    <string name="play_next_episode_station">Play next episode/station</string>
-    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
-    <string name="clear_cache">Clear cache</string>
-    <string name="cache_size_s">Cache size: %1$s.</string>
+    <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
+    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
+    <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
+    <string name="reverse_portrait_screen_display_mode">Fordított fekvő</string>
+    <string name="clear_cache">Gyorsítótár törlése</string>
+    <string name="cache_size_s">Gyorsítótár mérete: %1$s.</string>
 </resources>

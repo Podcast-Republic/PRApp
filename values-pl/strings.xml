@@ -1294,4 +1294,5 @@
     <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
     <string name="clear_cache">Clear cache</string>
     <string name="cache_size_s">Cache size: %1$s.</string>
+    <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
 </resources>

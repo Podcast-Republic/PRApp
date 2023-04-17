@@ -1292,4 +1292,5 @@
     <string name="reverse_portrait_screen_display_mode">Na výšku obrátene</string>
     <string name="clear_cache">Vymazať vyrovnávaciu pamäť</string>
     <string name="cache_size_s">Vyrovnávacia pamäť: %1$s.</string>
+    <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
 </resources>

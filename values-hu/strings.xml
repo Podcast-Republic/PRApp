@@ -1295,5 +1295,5 @@
     <string name="reverse_portrait_screen_display_mode">Fordított fekvő</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
     <string name="cache_size_s">Gyorsítótár mérete: %1$s.</string>
-    <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
+    <string name="follow_android_system_s_orientation">Kövesse az Android rendszer orientációját</string>
 </resources>

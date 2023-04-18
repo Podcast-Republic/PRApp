@@ -773,7 +773,7 @@
     <string name="automatically_turn_on_sleep_timer_when_playback_starts">Az alvó üzemmód automatikus bekapcsolása, amikor a lejátszás elindul</string>
     <string name="syncing_data_only_when_connected_to_wifi_network">Adatszinkronizálás csak akkor, ha WiFi-re csatlakozik</string>
     <string name="syncing_via_wifi_only">Szinkronizálás csak WiFi-n</string>
-    <string name="total_downloaded_file_size_s">A letöltött fájlok teljes mérete: %s</string>
+    <string name="total_downloaded_file_size_s">A letöltött fájlok összmérete: %s</string>
     <string name="featured">Kiemelt</string>
     <string name="popular">Népszerű</string>
     <string name="select_episodes_from_today">Válasszon epizódokat a mai napiakból</string>
@@ -1287,7 +1287,7 @@
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="login_failed">Sikertelen bejelentkezés</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
-    <string name="term_and_privacy_policy">"Feltételek és Adatvédelmi szabályzat"</string>
+    <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
     <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>

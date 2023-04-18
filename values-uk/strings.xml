@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="country_list">
-        <item> Албанія </item>
-        <item> Алжир </item>
-        <item> Ангола </item>
-        <item> Ангілла </item>
-        <item> Аргентина </item>
-        <item> Armenia </item>
-        <item> Австралія </item>
-        <item> Австрія </item>
-        <item> Azerbaijan </item>
-        <item> Багамські острови </item>
-        <item> Бахрейн </item>
-        <item> Бельгія </item>
-        <item> Болівія </item>
-        <item> Бразилія </item>
-        <item> Камбоджа </item>
-        <item> Канада </item>
-        <item> Чилі </item>
-        <item> Китай </item>
-        <item> Колумбія </item>
-        <item> Коста-Рика </item>
-        <item> Хорватія </item>
-        <item> Кіпр </item>
-        <item> Чеська Республіка </item>
-        <item> Данія </item>
-        <item> Еквадор </item>
-        <item> Єгипет </item>
-        <item> Фінляндія </item>
-        <item> Франція </item>
-        <item> Німеччина </item>
-        <item> Греція </item>
-        <item> Гонконг </item>
-        <item> Угорщина </item>
-        <item> Ісландія </item>
-        <item> Індія </item>
-        <item> Індонезія </item>
-        <item> Ірландія </item>
-        <item> Ізраїль </item>
-        <item> Італія </item>
-        <item> Ямайка </item>
-        <item> Японія </item>
-        <item> Йорданія </item>
-        <item> Казахстан </item>
-        <item> Кенія </item>
-        <item> Корея </item>
-        <item> Кувейт </item>
-        <item> Киргизстан </item>
-        <item> Латвія </item>
-        <item> Литва </item>
-        <item> Люксембург </item>
-        <item> Макао </item>
-        <item> Малайзія </item>
-        <item> Мексика </item>
-        <item> Монголія </item>
-        <item> Нідерланди </item>
-        <item> Нова Зеландія </item>
-        <item> Норвегія </item>
-        <item> Пакистан </item>
-        <item> Перу </item>
-        <item> Філіппіни </item>
-        <item> Польща </item>
-        <item> Португалія </item>
-        <item> Катар </item>
-        <item> Румунія </item>
-        <item> Росія </item>
-        <item> Саудівська Аравія </item>
-        <item> Сербія </item>
-        <item> Сингапур </item>
-        <item> Словаччина </item>
-        <item> Словенія </item>
-        <item> Південна Африка </item>
-        <item> Іспанія </item>
-        <item> Шрі-Ланка </item>
-        <item> Швеція </item>
-        <item> Швейцарія </item>
-        <item> Тайвань </item>
-        <item> Таджикистан </item>
+        <item>Албанія</item>
+        <item>Алжир</item>
+        <item>Ангола</item>
+        <item>Ангілья</item>
+        <item>Аргентина</item>
+        <item>Вірменія</item>
+        <item>Австралія</item>
+        <item>Австрія</item>
+        <item>Азербайджан</item>
+        <item>Багамські острови</item>
+        <item>Бахрейн</item>
+        <item>Бельгія</item>
+        <item>Болівія</item>
+        <item>Бразилія</item>
+        <item>Камбоджа</item>
+        <item>Канада</item>
+        <item>Чилі</item>
+        <item>Китай</item>
+        <item>Колумбія</item>
+        <item>Коста-Рика</item>
+        <item>Хорватія</item>
+        <item>Кіпр</item>
+        <item>Чеська Республіка</item>
+        <item>Данія</item>
+        <item>Еквадор</item>
+        <item>Єгипет</item>
+        <item>Фінляндія</item>
+        <item>Франція</item>
+        <item>Німеччина</item>
+        <item>Греція</item>
+        <item>Гонконг</item>
+        <item>Угорщина</item>
+        <item>Ісландія</item>
+        <item>Індія</item>
+        <item>Індонезія</item>
+        <item>Ірландія</item>
+        <item>Ізраїль</item>
+        <item>Італія</item>
+        <item>Ямайка</item>
+        <item>Японія</item>
+        <item>Йорданія</item>
+        <item>Казахстан</item>
+        <item>Кенія</item>
+        <item>Корея</item>
+        <item>Кувейт</item>
+        <item>Киргизстан</item>
+        <item>Латвія</item>
+        <item>Литва</item>
+        <item>Люксембург</item>
+        <item>Макао</item>
+        <item>Малайзія</item>
+        <item>Мексика</item>
+        <item>Монголія</item>
+        <item>Нідерланди</item>
+        <item>Нова Зеландія</item>
+        <item>Норвегія</item>
+        <item>Пакистан</item>
+        <item>Перу</item>
+        <item>Філіппіни</item>
+        <item>Польща</item>
+        <item>Португалія</item>
+        <item>Катар</item>
+        <item>Румунія</item>
+        <item>Росія</item>
+        <item>Саудівська Аравія</item>
+        <item>Сербія</item>
+        <item>Сингапур</item>
+        <item>Словаччина</item>
+        <item>Словенія</item>
+        <item>Південна Африка</item>
+        <item>Іспанія</item>
+        <item>Шрі-Ланка</item>
+        <item>Швеція</item>
+        <item>Швейцарія</item>
+        <item>Тайвань</item>
+        <item>Таджикистан</item>
         <item>Танзанія</item>
-        <item> Тайланд </item>
-        <item> Туніс </item>
-        <item> Туреччина </item>
-        <item> Україна </item>
-        <item> "Об'єднані Арабські Емірати" </item>
-        <item> Велика Британія </item>
-        <item> США </item>
-        <item> Венесуела </item>
-        <item> "В'єтнам" </item>
+        <item>Тайланд</item>
+        <item>Туніс</item>
+        <item>Туреччина</item>
+        <item>Україна</item>
+        <item>"Об'єднані Арабські Емірати"</item>
+        <item>Велика Британія</item>
+        <item>США</item>
+        <item>Венесуела</item>
+        <item>"В'єтнам"</item>
     </string-array>
     <string name="app_name">"Podcast Republic"</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Автоматичне видалення зіграного елемента зі списку завантажень"</string>
@@ -209,7 +209,7 @@
     <string name="update_artwork">"Оновити ілюстрацію"</string>
     <string name="enter_new_artwork_url">"Введіть нову URL-адресу для ілюстрації"</string>
     <string name="sleep_timer">"Таймер сну"</string>
-    <string name="last_updated_s">"Останнє оновлення: %1$s"</string>
+    <string name="last_updated_s">"Останній епізод опубліковано: %1$s"</string>
     <string name="fast_forward">"Перемотати вперед"</string>
     <string name="fast_rewind">"Швидке перемотування назад"</string>
     <string name="play_pause">"Відтворення / Пауза"</string>
@@ -312,7 +312,7 @@
     <string name="download_via_wifi_only">"Завантажити лише через Wi-Fi"</string>
     <string name="feed_updates_via_wifi_only">"Оновити подкасти через Wi-Fi"</string>
     <string name="update_podcasts_only_when_connected_to_wifi">"Оновити подкасти тільки під час підключення до Wi-Fi"</string>
-    <string name="mark_all_as_played">"Позначити все, як зігране"</string>
+    <string name="mark_all_as_played">"Позначити всі, як прослухані"</string>
     <string name="playback_mode">"Режим відтворення"</string>
     <string name="display_on_lock_screen">"Показувати на екрані блокування"</string>
     <string name="display_artwork_on_lock_screen_when_playing">"Показувати ілюстрацію на заблокованому екрані під час програвання"</string>
@@ -360,8 +360,8 @@
     <string name="when_deleting_an_episode">"При видаленні епізоду"</string>
     <string name="also_remove_from_downloads_amp_playlists">"Також видалити із завантажень і списків відтворення"</string>
     <string name="remove_episode_only">"Видалити лише епізод"</string>
-    <string name="mark_episode_as_played">"Позначити епізод як відтворений"</string>
-    <string name="mark_episode_as_played_if_more_than_has_been_played">"Позначити епізод як відтворений, якщо відтворено понад %1$d %%"</string>
+    <string name="mark_episode_as_played">"Позначити епізод як прослуханий"</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">"Позначити епізод як прослуханий, якщо відтворено понад %1$d %%"</string>
     <string name="download_episode">"Завантажити епізод"</string>
     <string name="start_downloading_when_episode_is_added_to_playlist">"Почати завантаження відразу після додавання його до списку відтворення"</string>
     <string name="podcast_keep_download_limit_reached_">"Подкаст на збереження ліміту завантаження досягнуто!"</string>
@@ -374,8 +374,8 @@
     <string name="failed_downloads">"Не вдалося"</string>
     <string name="subscribe_on_podcast_republic">"Підпишіться на Podcast Republic"</string>
     <string name="dim_screen_but_keep_screen_responsive">"Погасити екран, але зберігати його чутливим"</string>
-    <string name="chapters">"Глави"</string>
-    <string name="no_chapter_marks_found">"Жодних знаків розділу не знайдено."</string>
+    <string name="chapters">"Розділи"</string>
+    <string name="no_chapter_marks_found">"Жодних розділів не знайдено"</string>
     <string name="keep_all_downloads">"Зберігати всі завантаження"</string>
     <string name="playback_controls">"Кнопки відтворення"</string>
     <string name="hide_empty_podcasts">"Сховати відтворені подкасти"</string>
@@ -404,7 +404,7 @@
     <string name="browse_top_charts">"Переглянути кращі канали"</string>
     <string name="after_x_minutes">"У %1$d хвилинах"</string>
     <string name="after_current_episode_ends">"Коли поточний епізод закінчується"</string>
-    <string name="add_a_chapter">"Додати мітку до розділу"</string>
+    <string name="add_a_chapter">"Додати розділ"</string>
     <string name="time">"Час"</string>
     <string name="filter_name">"Фільтрувати ім'я"</string>
     <string name="podcasts">"Подкасти"</string>
@@ -456,10 +456,10 @@
     <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх і зіграти наступне у списку"</string>
     <string name="swipe_to_left_to_fast_rewind">"Свайпнути вліво, щоб перемотати назад"</string>
     <string name="swipe_to_right_to_fast_forward">"Свайпнути праворуч, щоб перемотати вперед"</string>
-    <string name="remove_subscription_to_">"Видалити підписку на: [ %1$s ]?"</string>
+    <string name="remove_subscription_to_">"Відписатися від [ %1$s ]?"</string>
     <string name="data_roaming">"Роумінг даних"</string>
     <string name="allow_to_download_with_data_services_when_roaming">"Дозволити завантажувати дані через роумінг"</string>
-    <string name="up_next">"Вгору Далі"</string>
+    <string name="up_next">"Список відтворення"</string>
     <string name="episode_info">"Інформація про епізод"</string>
     <string name="no_more_episodes_to_play_from_playlist_s_">"Немає більше епізодів для відтворення зі списку відтворення [ %1$s ]"</string>
     <string name="apply_this_change_to_all_podcasts_">"Застосувати цю зміну до всіх подкастів?"</string>
@@ -504,7 +504,7 @@
     <string name="_is_not_found_add_this_station_">"[ %1$s ] не знайдено. Додати цю станцію за URL-адресою?"</string>
     <string name="debug_log">"Детальний журнал"</string>
     <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">"Якщо жодного зображення не вказано, будь-який файл зображення, знайдений у віртуальній папці подкастів, буде використовуватися як зображення за замовчуванням."</string>
-    <string name="select">"Виберіть"</string>
+    <string name="select">"Вибрати"</string>
     <string name="no_schedule_available">"Немає розкладу"</string>
     <string name="browse_by_subscriptions">"Переглянути по підписках"</string>
     <string name="browse_by_radio_stations">"Переглянути по радіостанціях"</string>
@@ -592,22 +592,22 @@
     <string name="mark_all_as_read">"Позначити все як прочитане"</string>
     <string name="not_in_use">"Не використовується"</string>
     <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Потягніть вниз список епізодів, щоб розпочати перевірку оновлення подкастів"</string>
-    <string name="mark_all_previous_episodes_as_played">"Позначте всі попередні епізоди, які було відтворено"</string>
+    <string name="mark_all_previous_episodes_as_played">"Позначити всі попередні епізоди, як прослухані"</string>
     <string name="remove_favorite">"Видалити улюблене"</string>
-    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Позначити всі епізоди, опубліковані раніше, ніж цей епізод [ %1$s ], які грали?"</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Позначити всі епізоди, опубліковані раніше, ніж цей епізод [ %1$s ], які прослухані?"</string>
     <string name="exporting">"Експортую"</string>
     <string name="extend_s_minutes">"Додати %1$d хвилину"</string>
     <string name="pick_a_time">"Виберіть час"</string>
     <string name="updating_podcasts">"Оновлення подкастів"</string>
     <string name="skip_ending">"Пропустити закінчення"</string>
-    <string name="skip_the_beginning_d_seconds">"Пропустити початок %d секунд"</string>
-    <string name="skip_the_ending_d_seconds">"Пропустити закінчення %d секунд"</string>
-    <string name="no_user_notes_found">"Ніяких користувацьких приміток не знайдено."</string>
+    <string name="skip_the_beginning_d_seconds">"Пропустити початкові %d секунд"</string>
+    <string name="skip_the_ending_d_seconds">"Пропустити кінцеві %d секунд"</string>
+    <string name="no_user_notes_found">"Ніяких користувацьких нотаток не знайдено"</string>
     <string name="no_episode_description_found">"Не знайдено ніякого опису до епізоду."</string>
     <string name="or">"Або "</string>
     <string name="up_next_list_has_been_updated_to_play_from_s">"Наступний список був оновлений для відтворення з: %s"</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Зробіть повну синхронізацію. Триватиме довше, ніж зазвичай."</string>
-    <string name="buy_me_a_coffee_message">"Якщо вам подобається користуватися програмою Podcast Republic, і ви хочете підтримати розробку, ви можете придбати чашку кави. Дякую!"</string>
+    <string name="buy_me_a_coffee_message">"Якщо вам подобається користуватися програмою Podcast Republic, і ви хочете підтримати розробку, ви можете придбати мені чашку кави. Дякую!"</string>
     <string name="maybe_later">"Можливо пізніше"</string>
     <string name="sign_up">"Зареєструватися"</string>
     <string name="download_state_idle">"Очікую початку завантаження"</string>
@@ -677,7 +677,7 @@
     <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">"Наступні файли знаходяться в каталозі завантажень, але не пов'язані з будь-якими завантаженнями. Ви можете видалити їх, натиснувши кнопку \"Очистити\"."</string>
     <string name="tags">"Теги"</string>
     <string name="casting">"Беруть участь"</string>
-    <string name="chapter_d">"Глава # %d"</string>
+    <string name="chapter_d">"Розділ # %d"</string>
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Будь ласка, не закривайте додаток, коли він відновлює дані. Після перезавантаження всі дані буде відновлено."</string>
     <string name="playback_paused_on_muted_volume_">"Звук вимкнено… відтворення призупинено!"</string>
     <string name="number_of_episodes_to_auto_download">"Кількість епізодів для автоматичного завантаження"</string>
@@ -747,8 +747,8 @@
     <string name="show_played_date">Показувати дату відтворення</string>
     <string name="edit_radio_station">Редагувати радіо станції</string>
     <string name="subscribed">Підписані</string>
-    <string name="edit_chapter">Редагувати главу</string>
-    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">Неможливо редагувати цю главу. Редагуються тільки глави додані користувачем.</string>
+    <string name="edit_chapter">Редагувати розділ</string>
+    <string name="can_not_edit_this_chapter_only_user_added_chapters_are_editable_">Неможливо редагувати цей розділ. Редагуються тільки розділи, додані користувачем.</string>
     <string name="import_downloads">Імпортувати завантаження</string>
     <string name="import_downloads_from_selected_directory_this_operation_will_only_import_podcast_files_which_are_downloaded_by_this_app_before">Імпортувати завантаження з вибраного каталогу. Ця операція імпортує тільки файли, завантажені цією програмою раніше.</string>
     <string name="available_free_space_s">Наявне порожнє місце: %s</string>
@@ -780,7 +780,7 @@
     <string name="smart_download">Розумна загрузка</string>
     <string name="download_anyway">Загрузити будь-що</string>
     <string name="download_anyway_message">Ігнорувати налаштування акумулятора та WiFi, завантажити епізод с поточної мережі зараз!</string>
-    <string name="play_all_from_old_to_new">Грати все від старіших до нових</string>
+    <string name="play_all_from_old_to_new">Відтворити все від старіших до нових</string>
     <string name="delete_all_immediately"> Негайно все видалити</string>
     <string name="deleted_downloads_will_be_removed_after_24_hours_">Видалені завантаження будуть вилучені після 24 годин.</string>
     <string name="delete_immediately">Вилучити нагайно</string>
@@ -799,7 +799,7 @@
     <string name="submit">Відправити</string>
     <string name="deleted">Видалений</string>
     <string name="file_size">Pозміром файлу</string>
-    <string name="play_next">Відтворити наступний</string>
+    <string name="play_next">Відтворити наступним</string>
     <string name="are_you_sure_to_clear_the_play_queue_">Ви певні, що хочете очистити чергу відтворення?</string>
     <string name="clear_search">Очистити</string>
     <string name="remaining_time">Remaining time</string>
@@ -807,20 +807,20 @@
     <string name="paused_network_is_metered">Paused: network is metered</string>
     <string name="download_date">Download date</string>
     <string name="create_an_episode_filter">Create an episode filter</string>
-    <string name="play_time">Play time</string>
-    <string name="play_time_display">"Play time: %1$s"</string>
-    <string name="recently_played">Recently played</string>
-    <string name="play_all_newer_episodes">Play all newer episodes</string>
+    <string name="play_time">Тривалість</string>
+    <string name="play_time_display">"Тривалість: %1$s"</string>
+    <string name="recently_played">Недавно прослухані</string>
+    <string name="play_all_newer_episodes">Відтворити всі новіші епізоди</string>
     <string name="see_what_s_new_in_this_version_s">See what\'s new in this version: %s</string>
     <string name="enabled_buttons_">Enabled buttons:</string>
     <string name="bottom_navigation_bar">Bottom navigation bar</string>
     <string name="play_bar">Play bar</string>
     <string name="can_not_edit_default_episode_filter_">Can not edit default episode filter!</string>
-    <string name="playlist_name">Playlist name</string>
-    <string name="priority">Priority</string>
-    <string name="higher_priority_playlist_will_be_played_first_">Higher priority playlist will be played first.</string>
-    <string name="view_podcast">View</string>
-    <string name="stream_all">Stream all</string>
+    <string name="playlist_name">Нізва списку відтворення</string>
+    <string name="priority">Пріоритет</string>
+    <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з більшим пріоритетом буде відтворений раніше.</string>
+    <string name="view_podcast">Вид</string>
+    <string name="stream_all">Програти без завантаження всі</string>
     <string name="view_all_your_playlists">View all your playlists</string>
     <string name="click_on_the_tab_again_to_view_all_your_playlists">Click on the tab again to view all your playlists</string>
     <string name="edit_playlist">Edit playlist</string>
@@ -832,11 +832,11 @@
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Click on the tab again to view all your episode filters</string>
     <string name="stop_playing_when_time_is_up">Stop playing when time is up</string>
     <string name="sleep_timer_fired_stop_playing_">Sleep timer fired, stop playing!</string>
-    <string name="play_all_from_new_to_old">Play all from new to old</string>
-    <string name="smart_update">Smart update</string>
+    <string name="play_all_from_new_to_old">Прослухати всі посинаючи з нових</string>
+    <string name="smart_update">Розумне оновлення</string>
     <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Check for new episodes after completing the newest episode in the podcast</string>
     <string name="click_on_the_tab_again_to_view_download_actions">Click on the tab again to view download actions</string>
-    <string name="remember_volume_level">Remember volume level</string>
+    <string name="remember_volume_level">"Запам'ятати рівень гучності"</string>
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">Remember last played volume level and restore to it on playback starts</string>
     <string name="metered_network">Metered network</string>
     <string name="allow_to_download_over_metered_network">Allow to download over metered network</string>
@@ -881,8 +881,8 @@
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">No radio stations found. Press the Add (+) button to add a radio station.</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">No text RSS feeds found. Press the Add (+) button to add a feed.</string>
     <string name="tag_radios">Tag radios</string>
-    <string name="episode">Episode</string>
-    <string name="edit_mode">Edit mode</string>
+    <string name="episode">Епізод</string>
+    <string name="edit_mode">Режим масового редагування</string>
     <string name="no_radio_stations_selected_">No radio stations selected!</string>
     <string name="no_rss_feeds_selected_">No RSS feeds selected!</string>
     <string name="hide_empty_feeds">Hide empty feeds</string>
@@ -896,7 +896,7 @@
     <string name="select_episodes_with_duration_less_than_d_minutes">Select episodes with duration less than %d minutes</string>
     <string name="short_time_unit_format_minute">Min</string>
     <string name="hold_down_to_start_dragging">Hold down to start dragging</string>
-    <string name="swipe_right_action">Swipe right action</string>
+    <string name="swipe_right_action">Дія на свайп вправо</string>
     <string name="stream_podcasts_via_wifi_only">Stream podcasts via Wi-Fi only</string>
     <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Allow to stream podcasts only when Wi-Fi is connected</string>
     <string name="stream_radios_via_wifi_only">Stream radios via Wi-Fi only</string>
@@ -906,7 +906,7 @@
     <string name="keep_download">Keep download</string>
     <string name="delete_episodes">Delete episodes</string>
     <string name="playback_mode_priority">Priority mode</string>
-    <string name="stats">Stats</string>
+    <string name="stats">Статистика</string>
     <string name="time_saved_b_s_b">"Time saved: %1$s."</string>
     <string name="you_ve_listened_b_s_b">"You\'ve listened: %1$s."</string>
     <string name="since_date">Since</string>
@@ -944,31 +944,31 @@
     <string name="pref_download_location_select_prompt_message">You will be redirected to Android file manager. Please select a directory on internal storage or SD card to be used as the download location.</string>
     <string name="review_wifi_only_prompt_message">Do you know this app uses WiFi only by default? You can turn off WiFi only if you have fast data connection. Do you want to review the WiFi only settings now?</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Delete virtual podcast file from storage after being played</string>
-    <string name="play_all">Play all</string>
+    <string name="play_all">Відтворити всі</string>
     <string name="remove_played_episode">Remove played episode</string>
     <string name="remove_the_episode_from_playlist_after_being_played">Remove the episode from playlist after being played</string>
-    <string name="apply_this_change_to_all_playlist_">Apply this change to all playlists?</string>
+    <string name="apply_this_change_to_all_playlist_">Встановити це для всіх плейлистів?</string>
     <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
     <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
-    <string name="_d_minutes">%1$d minutes</string>
-    <string name="time_unit_minutes">Minutes</string>
-    <string name="greater_than">Greater than</string>
-    <string name="less_than">Less than</string>
-    <string name="has_duration">Has duration</string>
+    <string name="_d_minutes">%1$d хвилин</string>
+    <string name="time_unit_minutes">Хвилини</string>
+    <string name="greater_than">Більше ніж</string>
+    <string name="less_than">Менше ніж</string>
+    <string name="has_duration">Має довжину</string>
     <string name="filter_episode_title">Filter episode title</string>
     <string name="filter_episode_duration">Filter episode duration</string>
     <string name="clear_the_recents_list_">Remove all episodes in the Recents list?</string>
-    <string name="clear_the_list">Clear the list</string>
+    <string name="clear_the_list">Очистити список</string>
     <string name="play_as_video">Play as video</string>
-    <string name="select_all_below">Select all below</string>
-    <string name="select_all_above">Select all above</string>
+    <string name="select_all_below">Вибрати всі, що знаходяться нижче</string>
+    <string name="select_all_above">Вибрати всі, що знаходяться вище</string>
     <string name="ignore_articles_in_title">Ignore articles in title</string>
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignore articles (A, An, or The) in podcast title when sorting by title</string>
-    <string name="create_shortcut">Create shortcut</string>
+    <string name="create_shortcut">Створити ярлик</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Allow to use mobile data and ignore battery restrictions when downloading episodes.</string>
     <string name="show_play_next_episode_station_button">Show Play next episode/station button.</string>
-    <string name="append_to_up_next">Append to Up next</string>
+    <string name="append_to_up_next">Додати в кінець черги</string>
     <string name="only_include_episodes_with_user_notes">Only include episodes with user notes</string>
     <string name="description_preview">Description preview</string>
     <string name="mark_current_playback_position">Mark current playback position</string>
@@ -977,11 +977,11 @@
     <string name="use_default_icon">Use default icon</string>
     <string name="syncing_articles_">Syncing articles…</string>
     <string name="syncing_rss_feeds_">Syncing RSS feeds…</string>
-    <string name="download_priority">Download priority</string>
+    <string name="download_priority">Пріоритет завантаження</string>
     <string name="only_include_episodes_with_user_chapters">Only include episodes with user chapters</string>
     <string name="add_tags_to_podcast">Add tags to podcast</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Add new episodes to selected playlists automatically.</string>
-    <string name="podcast_artwork">Podcast artwork</string>
+    <string name="podcast_artwork">Обкладинка подкасту</string>
     <string name="rss_feed_artwork">RSS feed artwork</string>
     <string name="add_tags_to_rss_feed">Add tags to RSS feed</string>
     <string name="_1s_2s_n">%1$s: %2$s\n</string>
@@ -1003,7 +1003,7 @@
     <string name="move_files_to_download_directory">Move files to download directory</string>
     <string name="greater_than_d_minutes">&gt; %1$d minutes</string>
     <string name="less_than_d_minutes">&lt; %1$d minutes</string>
-    <string name="jump_to_next_chapter">Jump to next chapter</string>
+    <string name="jump_to_next_chapter">Перейти до наступного розділу</string>
     <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
     <string name="true_crime">True crime</string>
     <string name="leisure">Leisure</string>
@@ -1039,9 +1039,9 @@
     <string name="syncing_app_setting_changes_">Syncing app Setting changes…</string>
     <string name="sleep_after">Sleep after</string>
     <string name="sleep_at_time">Sleep at time</string>
-    <string name="export_episode_list">Export episode list</string>
-    <string name="as_html_file">as HTML file</string>
-    <string name="as_json_file">as JSON file</string>
+    <string name="export_episode_list">Експортувати перелік епізодів</string>
+    <string name="as_html_file">як HTML файл</string>
+    <string name="as_json_file">як JSON файл</string>
     <string name="display_episode_artwork_retrieved_from_podcast_feed_">Display episode artwork retrieved from podcast feed.</string>
     <string name="use_podcast_artwork_as_episode_artwork_">Use podcast artwork as episode artwork.</string>
     <string name="use_embedded_artwork">Use embedded artwork</string>
@@ -1072,9 +1072,9 @@
     <string name="no_rss_feeds_found_">No RSS feeds found!</string>
     <string name="remove_obsolete_episodes">Remove obsolete episodes</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Remove obsolete episodes if they are no longer present in the podcast feed.</string>
-    <string name="mark_as_played">"Помітити як зігране"</string>
-    <string name="mark_as_unplayed">"Помітити як не зігране"</string>
-    <string name="swipe_left_action">Swipe left action</string>
+    <string name="mark_as_played">"Помітити як прослуханий"</string>
+    <string name="mark_as_unplayed">"Помітити як не прослуханий"</string>
+    <string name="swipe_left_action">Дія на свайп вліво</string>
     <string name="nothing_in_up_next">Nothing in Up next.</string>
     <string name="syncing_article_changes_s">Syncing article changes: %1$s.</string>
     <string name="syncing_added_tags_playlists_filters_d">Syncing added tags/playlists/filters: %1$d.</string>
@@ -1084,9 +1084,9 @@
     <string name="adjust_playback_position">Adjust playback position</string>
     <string name="allow_to_change_playback_position_from_notification_">Allow to change playback position from notification.</string>
     <string name="zoom_image">Zoom image</string>
-    <string name="mark_all_as_unplayed">Mark all as unplayed</string>
-    <string name="default_playlist">Default playlist</string>
-    <string name="use_this_playlist_as_the_default_playlist">Use this playlist as the default playlist.</string>
+    <string name="mark_all_as_unplayed">Позначити як не прослуханий</string>
+    <string name="default_playlist">Список відтворення за замовчуванням</string>
+    <string name="use_this_playlist_as_the_default_playlist">Використати цей список відтворення як список відтворення за замовчуванням.</string>
     <string name="article_unique_criteria">Article unique criteria</string>
     <string name="new_article_notification">New article notification</string>
     <string name="there_are_no_radio_stations_">There are no radio stations!</string>
@@ -1125,22 +1125,22 @@
     <string name="use_legacy_media_notification_style">Use legacy media notification style</string>
     <string name="use_legacy_media_notification_style_before_android_11">Use legacy media notification style before Android 11.</string>
     <string name="save_up_next_to">Save Up next to…</string>
-    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Mark all episodes published earlier than this episode [%1$s] as unplayed?</string>
-    <string name="mark_all_previous_episodes_as_unplayed">Mark all previous episodes as unplayed</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Позначити всі епізоди, опубліковані раніше, ніж цей епізод [%1$s], як не прослухані?</string>
+    <string name="mark_all_previous_episodes_as_unplayed">Позначити всі попередні епізоди як прослухані</string>
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
-    <string name="use_default_chapter_title">Use default chapter title.</string>
+    <string name="use_default_chapter_title">Використати назву розділу за замовчуванням.</string>
     <string name="grid_spacing">Grid spacing</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">"'Downloads' can not be used as download directory. Please select a directory on internal storage or SD card."</string>
-    <string name="set_sleep_timer_after_this_episode">Set sleep timer after this episode</string>
-    <string name="mark_all_episodes_from_s_as_played">Mark all episodes from [%s] as played?</string>
-    <string name="mark_all_episodes_as_played">Mark all episodes as played</string>
-    <string name="mark_all_podcasts_as_played">Mark all podcasts as played</string>
-    <string name="mark_podcasts_as_played">Mark podcasts as played</string>
+    <string name="set_sleep_timer_after_this_episode">Встановити таймер сну після цього епізоду</string>
+    <string name="mark_all_episodes_from_s_as_played">Позначити всі епізоди подкасту [%s] як прослухані?</string>
+    <string name="mark_all_episodes_as_played">Позначити всі епізоди як прослухані</string>
+    <string name="mark_all_podcasts_as_played">Позначити всі подкасти як прослухані</string>
+    <string name="mark_podcasts_as_played">Позначити подкасти як прослухані</string>
     <string name="mark_all_articles_as_read">Mark all articles as read</string>
     <string name="mark_all_rss_feeds_as_read">Mark all feeds as read</string>
-    <string name="mark_episode_as_unplayed">Mark episode as unplayed</string>
-    <string name="moving_downloads_failed">Moving downloads failed</string>
+    <string name="mark_episode_as_unplayed">Позначити епізод як не прослуханий</string>
+    <string name="moving_downloads_failed">Не вдалось перемістити завантаження</string>
     <string name="some_downloads_are_not_moved_to_s">Some downloads are not move to: %s</string>
     <string name="html_notation">HTML notation</string>
     <string name="mark_rss_feeds_as_read">Mark feeds as read</string>
@@ -1152,20 +1152,20 @@
     <string name="time_unit_minute_single_letter_format">M</string>
     <string name="time_unit_second_single_letter_format">S</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%ds</string>
-    <string name="playback_speed_shortcuts">Quick speeds</string>
+    <string name="playback_speed_shortcuts">Швидкий вибір швидкостей</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Move all files from [%1$s] to the new download directory [%2$s]?</string>
     <string name="article_text_size">Article text size</string>
     <string name="apply_this_change_to_all_rss_feeds">Apply this change to all RSS feeds?</string>
     <string name="update_rss_feeds">Update RSS Feeds</string>
     <string name="updating_podcast_d1_d2">Updating podcast - %1$d/%2$d</string>
     <string name="updating_rss_feed_d1_d2">Updating RSS feed - %1$d/%2$d</string>
-    <string name="remove_all_episodes_above">Remove all above</string>
-    <string name="remove_all_episodes_below">Remove all below</string>
-    <string name="jump_to_previous_episode">Jump to previous episode</string>
-    <string name="jump_to_the_beginning">Jump to the beginning</string>
-    <string name="jump_to_previous_chapter">Jump to previous chapter</string>
+    <string name="remove_all_episodes_above">Видалити всі, що знаходяться вище</string>
+    <string name="remove_all_episodes_below">Видалити всі, що знаходяться нижче</string>
+    <string name="jump_to_previous_episode">Перейти до попереднього епізоду</string>
+    <string name="jump_to_the_beginning">Перейти до початку</string>
+    <string name="jump_to_previous_chapter">Перейти до попереднього розділу</string>
     <string name="when_i_press_previous_button">When I press Previous button</string>
-    <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
+    <string name="playback_mode_single_episode_load_next">Один епізод (приготувати наступний для відтворення)</string>
     <string name="schedule_as_verb">Schedule</string>
     <string name="schedule_a_date">Schedule a date</string>
     <string name="fund_this_podcast">Fund this Podcast</string>
@@ -1177,9 +1177,9 @@
     <string name="expanded_notification_short_format">Expanded</string>
     <string name="at_lease_one_playback_control_is_required">- At least one playback control is required.</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Collapsed notification can have up to three playback controls.</string>
-    <string name="save_image">Save image</string>
+    <string name="save_image">Зберегти зображення</string>
     <string name="view_or_edit_playlist_setup_">View or edit playlist setup.</string>
-    <string name="search_in_title">Search in title</string>
+    <string name="search_in_title">Пошук за назвою</string>
     <string name="search_in_title_and_article">Search in title and article</string>
     <string name="youtube">YouTube</string>
     <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
@@ -1187,25 +1187,25 @@
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
-    <string name="chapter_s_will_be_skipped">Chapter [%1$s] will be skipped!</string>
-    <string name="skip_this_chapter">Skip this chapter</string>
-    <string name="dont_skip_this_chapter">Don\'t skip this chapter</string>
-    <string name="podcast_title">Podcast title</string>
-    <string name="radio_station_name">Station name</string>
-    <string name="podcast_priority">Podcast priority</string>
-    <string name="group_by_podcast_priority">Group by podcast priority</string>
+    <string name="chapter_s_will_be_skipped">Розділ [%1$s] буде пропущено!</string>
+    <string name="skip_this_chapter">Пропустити цей розділ</string>
+    <string name="dont_skip_this_chapter">Не пропускати цей розіл</string>
+    <string name="podcast_title">Назва подкасту</string>
+    <string name="radio_station_name">Назва радіостанції</string>
+    <string name="podcast_priority">Пріоритет подкасту</string>
+    <string name="group_by_podcast_priority">Групувати за пріоритетом подкасту</string>
     <string name="rotate_by_podcast_and_priority">Rotate by podcast &amp; priority</string>
-    <string name="grouping">Grouping</string>
-    <string name="display_chapter_title_and_artwork">Display chapter title and artwork</string>
+    <string name="grouping">Групування</string>
+    <string name="display_chapter_title_and_artwork">Показати назву та обкладинку розділу</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Display chapter title and artwork in Now playing if chapter exists.</string>
-    <string name="subscribed_date">Subscribed date</string>
+    <string name="subscribed_date">Дата підписки</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Minimum silence duration to active removal: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
     <string name="only_show_podcasts_having_new_release_after_the_selected_date">Only show podcasts having new release after the selected date.</string>
     <string name="only_show_episodes_published_after_the_selected_date">Only show episodes published after the selected date.</string>
     <string name="lock_timeline_bar_dragging">Lock timeline bar dragging</string>
     <string name="unlock_timeline_bar_dragging">Unlock timeline bar dragging</string>
-    <string name="play_all_randomly">Play all randomly</string>
+    <string name="play_all_randomly">Відтворити всі в довільному порядку</string>
     <string name="sort_by_relevance">Relevance</string>
     <string name="use_podcast_genre_as_tag">Use podcast genre as tag</string>
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Add podcast genre as a tag when tagging a podcast.</string>
@@ -1261,8 +1261,8 @@
     <string name="popularity">Popularity</string>
     <string name="display_up_next_list">Display Up next list</string>
     <string name="browse_up_next">Browse Up next</string>
-    <string name="add_notes">Add notes</string>
-    <string name="display_options">Display options</string>
+    <string name="add_notes">Додати нотатки</string>
+    <string name="display_options">Параменти перегляду</string>
     <string name="there_are_no_unread_articles_">There are no unread articles.</string>
     <string name="there_are_no_read_articles_">There are no read articles.</string>
     <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>

@@ -1267,7 +1267,7 @@
     <string name="there_are_no_read_articles_">There are no read articles.</string>
     <string name="there_are_no_favorite_articles_">There are no favorite articles.</string>
     <string name="there_are_no_deleted_articles_">There are no deleted articles.</string>
-    <string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Будильникии можуть не спрацювати в запланований час. Будь ласка, перейдіть до налаштувань Android, щоб виключити цю програму з оптимізації акумулятора.</string>
+    <string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Будильники можуть не спрацювати в запланований час. Будь ласка, перейдіть до налаштувань Android, щоб виключити цю програму з оптимізації акумулятора.</string>
     <string name="open_android_settings">Відкрити налаштування Android</string>
     <string name="include_episode">Включити епізод</string>
     <string name="exclude_episode">Виключити епізод</string>

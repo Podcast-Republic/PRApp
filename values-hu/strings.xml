@@ -1246,7 +1246,7 @@
     <string name="click_the_button_blow_if_adding_a_podcast_feed">Kattintson az alábbi gombra, ha podcast hírfolyamot ad hozzá</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Folytassa, ha szöveges vagy blog RSS hírfolyamot ad hozzá</string>
     <string name="close_app_when_moving_to_background">Alk. bezárása háttérbe helyezéskor</string>
-    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
+    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
     <string name="add_all_d_episodes_to_up_next_">Az összes (%1$d) epizód hozzáadása a \'Következő\' listához?</string>
     <string name="add_all_d_episodes_to_playlist_">Az összes (%1$d) epizód hozzáadása a lejátszólistához?</string>

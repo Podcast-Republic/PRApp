@@ -930,7 +930,7 @@
     <string name="show_radio_station_name">Állomás nevének megjelenítése</string>
     <string name="hide_radio_station_name">Állomás nevének elrejtése</string>
     <string name="not_in_downloads_list">Nincs a Letöltési listában</string>
-    <string name="reverse_landscape_screen_display_mode">Fordított tájolás</string>
+    <string name="reverse_landscape_screen_display_mode">Fordított fektetett</string>
     <string name="reset_sleep_timer">Alvó üzemmód alaphelyzetbe</string>
     <string name="toggle_playback_speed_on_off">Lejátszási sebesség átkapcsolása ki/be</string>
     <string name="there_are_no_episodes_with_notes_">Nincsenek jegyzetekkel ellátott epizódok!</string>

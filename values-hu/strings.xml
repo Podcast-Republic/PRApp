@@ -878,7 +878,7 @@
     <string name="there_are_no_played_episodes_">Nincsenek lejátszott epizódok!</string>
     <string name="there_are_no_favorite_episodes_">Nincsenek kedvenc epizódok!</string>
     <string name="there_are_no_downloaded_episodes_">Nincsenek letöltött epizódok!</string>
-    <string name="start_playing_and_go_to_now_playing">Kezdje el a lejátszást, és ugorjon a \'Következő\' lehetőségre</string>
+    <string name="start_playing_and_go_to_now_playing">Kezdje el a lejátszást, és ugorjon a \'Következő\' listára</string>
     <string name="show_unplayed_count">Nem lejátszott szám. megjelenítése</string>
     <string name="hide_unplayed_count">Nem lejátszott szám. elrejtése</string>
     <string name="show_recent_count">Legutóbbiak szám. megjelenítése</string>
@@ -930,7 +930,7 @@
     <string name="show_radio_station_name">Állomás nevének megjelenítése</string>
     <string name="hide_radio_station_name">Állomás nevének elrejtése</string>
     <string name="not_in_downloads_list">Nincs a Letöltési listában</string>
-    <string name="reverse_landscape_screen_display_mode">Fordított tájolás</string>
+    <string name="reverse_landscape_screen_display_mode">Fordított fektetett</string>
     <string name="reset_sleep_timer">Alvó üzemmód alaphelyzetbe</string>
     <string name="toggle_playback_speed_on_off">Lejátszási sebesség átkapcsolása ki/be</string>
     <string name="there_are_no_episodes_with_notes_">Nincsenek jegyzetekkel ellátott epizódok!</string>
@@ -973,7 +973,7 @@
     <string name="create_shortcut">Indítóikon létrehozása</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Engedélyezi a mobiladat-használatot, és figyelmen kívül hagyja az akkura vonatkozó korlátozásokat az epizódok letöltésekor</string>
     <string name="show_play_next_episode_station_button">Következő epizód/állomás lejátszása gomb megjelenítése</string>
-    <string name="append_to_up_next">Hozzáadás a \'Következőkhöz\'</string>
+    <string name="append_to_up_next">Hozzáadás a \'Következő\' listához</string>
     <string name="only_include_episodes_with_user_notes">Csak felhasználói jegyzeteket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
     <string name="mark_current_playback_position">Aktuális pozíció megjelölése</string>
@@ -1036,7 +1036,7 @@
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Lehetővé teszi a legújabb nem lejátszott epizódok letöltését, ha nem található régebbi nem lejátszott epizód.</string>
     <string name="website">Weboldal</string>
     <string name="auto_load_last_played_episode">Legutóbbi epizód aut. betöltése</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \'Következő\' mappába</string>
+    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \'Következő\' listába</string>
     <string name="delete_the_playlist_s">Törli ezt a lejátszólistát: %s?</string>
     <string name="delete_the_tag_s">Törli ezt a címkét: %s?</string>
     <string name="delete_the_episode_filter_s">Törli az epizód szűrőt: %s?</string>
@@ -1080,7 +1080,7 @@
     <string name="mark_as_played">Lejátszottnak jelölés</string>
     <string name="mark_as_unplayed">Nem lejátszottnak jelölés</string>
     <string name="swipe_left_action">Balra csúsztatás</string>
-    <string name="nothing_in_up_next">Üres a \'Következők\' lista.</string>
+    <string name="nothing_in_up_next">Üres a \'Következő\' lista.</string>
     <string name="syncing_article_changes_s">Cikkmódosítások szinkronizálása: %1$s.</string>
     <string name="syncing_added_tags_playlists_filters_d">Hozzáadott címkék/lejátszólisták/szűrők szinkronizálása: %1$d.</string>
     <string name="syncing_removed_tags_playlists_fiilters_d">Eltávolított címkék/lejátszólisták/szűrők szinkronizálása: %1$d.</string>
@@ -1129,7 +1129,7 @@
     <string name="mark_all_next_articles_as_read">Minden következő cikk megjelölése olvasottként</string>
     <string name="use_legacy_media_notification_style">Régi média értesítési stílus</string>
     <string name="use_legacy_media_notification_style_before_android_11">Használja a régi médiaértesítési stílust Android 11 előtti rendszereken</string>
-    <string name="save_up_next_to">A \'Következők\' mentése…</string>
+    <string name="save_up_next_to">A \'Következő\' lista mentése…</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Megjelöli a [%1$s] epizódnál korábban megjelent összes epizódot nem lejátszottként?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Korábbi epizódok megjelölése nem lejátszottként</string>
     <string name="_s_kbps">%skbps</string>
@@ -1235,10 +1235,10 @@
     <string name="reddit">Reddit</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Részletes alkalmazásnapló létrehozásának engedélyezése</string>
     <string name="send_a_bug_report_with_app_log_">Hibajelentés küldése alkalmazás naplóval együtt</string>
-    <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">A \'Következők\' frissítésének leállítása a jelenleg lejátszott epizódlista vagy lejátszólista mellett?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">A \'Következők\' nem frissül a jelenleg lejátszott epizódok vagy lejátszólistán.</string>
-    <string name="update_up_next_automatically">\'Következők\' aut. frissítése</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A \'Következők\' automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszólista megváltozik vagy frissül</string>
+    <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">A \'Következő\' lista frissítésének leállítása a jelenleg lejátszott epizódlista vagy lejátszólista mellett?</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">A \'Következő\' lista nem frissül a jelenleg lejátszott epizódok vagy lejátszólistán.</string>
+    <string name="update_up_next_automatically">\'Következő\' lista aut. frissítése</string>
+    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A \'Következő\' lista automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszólista megváltozik vagy frissül</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Adja meg a felhasználónevet és a jelszót, ha az RSS hírfolyam hitelesítést igényel. Hagyja üresen, ha nincs szükség erre.</string>
     <string name="play_pause_triple_click">Tripla kattintás Lejátszás/Szünet</string>
     <string name="title_display">Cím megjelenése</string>
@@ -1264,8 +1264,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Szöveg margója fektetett kijelző módban.</string>
     <string name="default_margin_size">Alapértelmezés</string>
     <string name="popularity">Népszerűség</string>
-    <string name="display_up_next_list">Következő lista megjelenítése</string>
-    <string name="browse_up_next">Következő  lista böngészése</string>
+    <string name="display_up_next_list">A \'Következő\' lista megjelenítése</string>
+    <string name="browse_up_next">\'Következő\' lista böngészése</string>
     <string name="add_notes">Jegyzet hozzáadása</string>
     <string name="display_options">Megjelenítési opciók</string>
     <string name="there_are_no_unread_articles_">Nincsenek olvasatlan cikkek.</string>

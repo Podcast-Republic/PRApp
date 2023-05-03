@@ -200,7 +200,7 @@
     <string name="view_what_s_new_in_this_version">Újdonságok ebben a verzióban</string>
     <string name="version">Verzió</string>
     <string name="about">Névjegy</string>
-    <string name="action_s">Művelet: %1$s.</string>
+    <string name="action_s">Művelet: %1$s</string>
     <string name="action">Művelet</string>
     <string name="download_only_when_connected_to_wifi">Letöltés csak WiFi kapcsolaton</string>
     <string name="add_to_new_tag">Hozzáadás új címkéhez</string>
@@ -620,8 +620,8 @@
     <string name="download_state_paused_network_unavailable">Szünet: várakozás a hálózatra.</string>
     <string name="download_state_failed_incorrect_file_received">Sikertelen: hibás fájl érkezett.</string>
     <string name="download_state_paused_by_request">A letöltés szünetel.</string>
-    <string name="download_state_paused_wifi_unavailable">Szünet: WiFi nem elérhető.</string>
-    <string name="download_state_paused_wifi_disabled">Szünet: WiFi le van tiltva.</string>
+    <string name="download_state_paused_wifi_unavailable">Szünet: a WiFi nem elérhető.</string>
+    <string name="download_state_paused_wifi_disabled">Szünet: a WiFi le van tiltva.</string>
     <string name="download_state_paused_roaming">Szünet: Roamingon van.</string>
     <string name="download_state_paused_waiting_to_retry">Szünet: újrapróbálkozásra vár.</string>
     <string name="download_state_paused_sdcard_unavailable">Szünet: nincs külső tároló.</string>
@@ -920,7 +920,7 @@
     <string name="there_are_no_rss_feeds">Nincsenek RSS-hírcsatornák!</string>
     <string name="got_it">Mehet</string>
     <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">Átrendezte a \'Következő\' listát. Ennek eredményeként a \'Következő\' lista nem lesz szinkronizálva az éppen lejátszott epizódlistával vagy lejátszólistával.</string>
-    <string name="don_t_show_it_again">Legközelebb ne mutassa.</string>
+    <string name="don_t_show_it_again">Legközelebb ne mutassa</string>
     <string name="always_on">Always on (AOD)</string>
     <string name="always_on_amoled_black">Always on (AMOLED fekete)</string>
     <string name="smart_rewind_on_resuming">Okos visszatekerés folytatáskor</string>
@@ -1246,7 +1246,7 @@
     <string name="click_the_button_blow_if_adding_a_podcast_feed">Kattintson az alábbi gombra, ha podcast hírfolyamot ad hozzá</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Folytassa, ha szöveges vagy blog RSS hírfolyamot ad hozzá</string>
     <string name="close_app_when_moving_to_background">Alk. bezárása háttérbe helyezéskor</string>
-    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
+    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
     <string name="add_all_d_episodes_to_up_next_">Az összes (%1$d) epizód hozzáadása a \'Következő\' listához?</string>
     <string name="add_all_d_episodes_to_playlist_">Az összes (%1$d) epizód hozzáadása a lejátszólistához?</string>
@@ -1288,12 +1288,12 @@
     <string name="login_failed">Sikertelen bejelentkezés</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet</string>
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
-    <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
+    <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
     <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
     <string name="reverse_portrait_screen_display_mode">Fordított fekvő</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
-    <string name="cache_size_s">Gyorsítótár mérete: %1$s.</string>
+    <string name="cache_size_s">Gyorsítótár mérete: %1$s</string>
     <string name="follow_android_system_s_orientation">Kövesse az Android rendszer orientációját</string>
 </resources>

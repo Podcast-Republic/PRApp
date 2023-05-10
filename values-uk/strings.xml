@@ -137,7 +137,7 @@
     <string name="description_of_podcast">"Опис подкасту"</string>
     <string name="description">"Опис"</string>
     <string name="play">"Слухати"</string>
-    <string name="share">"Поділитися"</string>
+    <string name="share">"Ділитися"</string>
     <string name="add_to_playlists">"Додати в список відтворення"</string>
     <string name="end_editing_mode">"Завершити редагування"</string>
     <string name="set">"Підтвердити"</string>
@@ -573,7 +573,7 @@
     <string name="clear_the_play_history_">"Очистити історію відтворення?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Сповіщати коли завантаження видалено через квоту пам'яті на завантаження або коли досягнуто обмеження щодо кількості завантажень"</string>
     <string name="keep_all">"Зберегти все"</string>
-    <string name="playlist">"Плейлист"</string>
+    <string name="playlist">"Плейліст"</string>
     <string name="category">"Категорія"</string>
     <string name="update_podcasts_when_app_is_starting">"Оновити подкасти при запуску додатка"</string>
     <string name="unknown_station">"Невідома станція"</string>
@@ -1291,6 +1291,6 @@
     <string name="clear_cache">Очистити кеш</string>
     <string name="cache_size_s">Розмір кешу: %1$s.</string>
     <string name="follow_android_system_s_orientation">Керуватися орієнтацією операційної системи</string>
-    <string name="update_avatar">Update avatar</string>
-    <string name="update_username">Update username</string>
+    <string name="update_avatar">Оновити аватар</string>
+    <string name="update_username">"Оновити ім'я користувача"</string>
 </resources>

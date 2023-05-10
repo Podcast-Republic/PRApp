@@ -1298,4 +1298,6 @@
     <string name="clear_cache">Clear cache</string>
     <string name="cache_size_s">Cache size: %1$s.</string>
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
+    <string name="update_avatar">Update avatar</string>
+    <string name="update_username">Update username</string>
 </resources>

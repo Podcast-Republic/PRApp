@@ -335,7 +335,7 @@
     <string name="video">"Відео"</string>
     <string name="account_and_syncing">"Аккаунт і синхронізація"</string>
     <string name="playback_mode_shuffle">"Довільний"</string>
-    <string name="update_on_charging">"Оновлювати під час зарядки "</string>
+    <string name="update_on_charging">"Оновлювати під час зарядки"</string>
     <string name="update_podcasts_only_when_battery_is_charging">"Оновлювати подкасти лише під час зарядки акумулятора"</string>
     <string name="filename">"Iменем файла"</string>
     <string name="auto_backup_saved_to_">"Автоматичне резервне копіювання збережено в папці %1$s"</string>
@@ -583,7 +583,7 @@
     <string name="add_to_default_playlists">"Додати до списків відтворення за замовчанням"</string>
     <string name="add_to_selected_playlists">"Додати до вибраних списків відтворення"</string>
     <string name="delete_selected_episodes_">"Видалити вибрані епізоди?"</string>
-    <string name="you_have_no_completed_downloads">"У вас немає завершених завантажень"</string>
+    <string name="you_have_no_completed_downloads">"У вас немає завершених завантажень."</string>
     <string name="you_have_no_pending_downloads">"У вас немає епізодів, що завантажуються"</string>
     <string name="all_good_">"Все добре ☺"</string>
     <string name="there_are_no_episodes_in_this_playlist">"У цьому списку відтворення немає епізодів."</string>
@@ -604,7 +604,7 @@
     <string name="skip_the_ending_d_seconds">"Пропустити кінцеві %d секунд"</string>
     <string name="no_user_notes_found">"Жодних користувацьких нотаток не знайдено"</string>
     <string name="no_episode_description_found">"Не знайдено жодного опису до епізоду."</string>
-    <string name="or">"Або "</string>
+    <string name="or">"Або"</string>
     <string name="up_next_list_has_been_updated_to_play_from_s">"Черга була оновлена для відтворення починаючи з: %s"</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Зробіть повну синхронізацію. Вона триватиме довше, ніж зазвичай."</string>
     <string name="buy_me_a_coffee_message">"Якщо вам подобається користуватися програмою Podcast Republic, і ви хочете підтримати розробку, ви можете придбати мені чашку кави. Дякую!"</string>
@@ -834,12 +834,12 @@
     <string name="sleep_timer_fired_stop_playing_">Таймер сну спрацював, програвання припинено!</string>
     <string name="play_all_from_new_to_old">Слухати всі починаючи з нових</string>
     <string name="smart_update">Розумне оновлення</string>
-    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Перевірити наявність нових епізодів після завершення найновішого у подкасті</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Перевірити наявність нових епізодів після завершення найновішого у подкасті.</string>
     <string name="click_on_the_tab_again_to_view_download_actions">Натисніть вкладку ще раз, щоб переглянути дії для завантаження</string>
     <string name="remember_volume_level">"Запам'ятати рівень гучності"</string>
-    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Запам'ятати рівень гучності під час останнього відтворення та відновити його при початку відтворення"</string>
+    <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Запам'ятати рівень гучності під час останнього відтворення та відновити його при початку відтворення."</string>
     <string name="metered_network">Мережа з обмеженим трафіком</string>
-    <string name="allow_to_download_over_metered_network">Дозволити завантажувати через мережу з обмеженим обсягом трафіку</string>
+    <string name="allow_to_download_over_metered_network">Дозволити завантажувати через мережу з обмеженим обсягом трафіку.</string>
     <string name="remind_me_1_minute_left">Нагадати (залишилася 1 хвилина)</string>
     <string name="unread_count">Кількість непрочитаних</string>
     <string name="newest_unread">Найновіші непрочитані</string>
@@ -898,9 +898,9 @@
     <string name="hold_down_to_start_dragging">Утримуйте, щоб почати перетягування</string>
     <string name="swipe_right_action">Дія на свайп вправо</string>
     <string name="stream_podcasts_via_wifi_only">Потокове передавання подкастів лише через Wi-Fi</string>
-    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Дозволити потокову передачу подкастів лише за підключення до Wi-Fi</string>
+    <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Дозволити потокову передачу подкастів лише за підключення до Wi-Fi.</string>
     <string name="stream_radios_via_wifi_only">Потокове радіо лише через Wi-Fi</string>
-    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Дозволити трансляцію радіо, лише коли увімкнено Wi-Fi</string>
+    <string name="allow_to_stream_radios_only_when_wifi_is_connected">Дозволити трансляцію радіо, лише коли увімкнено Wi-Fi.</string>
     <string name="history_and_stats">Історія та статистика</string>
     <string name="delete_downloads">Видалити завантаження</string>
     <string name="keep_download">Залишити завантаженим</string>
@@ -1291,4 +1291,6 @@
     <string name="clear_cache">Очистити кеш</string>
     <string name="cache_size_s">Розмір кешу: %1$s.</string>
     <string name="follow_android_system_s_orientation">Керуватися орієнтацією операційної системи</string>
+    <string name="update_avatar">Update avatar</string>
+    <string name="update_username">Update username</string>
 </resources>

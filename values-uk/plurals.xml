@@ -106,7 +106,7 @@
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlist">
-        <item quantity="one">Один епізод був доданий до списку відтворення."</item>
+        <item quantity="one">"Один епізод був доданий до списку відтворення."</item>
         <item quantity="few">"%1$d епізоди були додані до списку відтворення."</item>
         <item quantity="many">"%1$d епізодів були додані до списку відтворення."</item>
         <item quantity="other">"%1$d епізодів були додані до списку відтворення."</item>

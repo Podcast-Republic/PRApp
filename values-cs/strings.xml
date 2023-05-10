@@ -150,7 +150,7 @@
     <string name="ok">"OK"</string>
     <string name="no">"Ne"</string>
     <string name="close">"Zavřít"</string>
-    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Stažená epizoda [ %1$s ] nebyla nalezena. \ NCo byste chtěli udělat?"</string>
+    <string name="downloaded_episode_s_not_found_what_would_you_like_to_do">"Stažená epizoda [ %1$s ] nebyla nalezena. \nCo byste chtěli udělat?"</string>
     <string name="episode_downloading">"Stahuji"</string>
     <string name="subscribe">"Přihlásit odběr"</string>
     <string name="unsubscribe">"Odhlásit odběr"</string>
@@ -1290,4 +1290,6 @@
     <string name="clear_cache">Clear cache</string>
     <string name="cache_size_s">Cache size: %1$s.</string>
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
+    <string name="update_avatar">Update avatar</string>
+    <string name="update_username">Update username</string>
 </resources>

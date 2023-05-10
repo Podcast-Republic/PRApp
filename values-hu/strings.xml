@@ -200,7 +200,7 @@
     <string name="view_what_s_new_in_this_version">Újdonságok ebben a verzióban</string>
     <string name="version">Verzió</string>
     <string name="about">Névjegy</string>
-    <string name="action_s">Művelet: %1$s</string>
+    <string name="action_s">Művelet: %1$s.</string>
     <string name="action">Művelet</string>
     <string name="download_only_when_connected_to_wifi">Letöltés csak WiFi kapcsolaton</string>
     <string name="add_to_new_tag">Hozzáadás új címkéhez</string>
@@ -411,7 +411,7 @@
     <string name="playing_state">Lejátszási állapot</string>
     <string name="only_include_favorited_episodes">Csak kedvenc epizódokat tartalmazzon</string>
     <string name="download_status">Letöltés állapota</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel.</string>
     <string name="continue_on_error">Folytatás hiba esetén</string>
     <string name="downloading">Letöltődő</string>
     <string name="failed">Sikertelen</string>
@@ -717,7 +717,7 @@
     <string name="syncing_podcast_changes_">Podcastok szinkronizálása…</string>
     <string name="syncing">Szinkronizálás</string>
     <string name="continue_to_next_playlist">A következő lejátszólista</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta.</string>
     <string name="enable_manual_sorting">Manuális rendezés engedélyezése</string>
     <string name="open">Megnyitás</string>
     <string name="newest_unplayed">Legújabb nem lejátszott</string>
@@ -920,7 +920,7 @@
     <string name="there_are_no_rss_feeds">Nincsenek RSS-hírcsatornák!</string>
     <string name="got_it">Mehet</string>
     <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">Átrendezte a \'Következő\' listát. Ennek eredményeként a \'Következő\' lista nem lesz szinkronizálva az éppen lejátszott epizódlistával vagy lejátszólistával.</string>
-    <string name="don_t_show_it_again">Legközelebb ne mutassa</string>
+    <string name="don_t_show_it_again">Legközelebb ne mutassa.</string>
     <string name="always_on">Always on (AOD)</string>
     <string name="always_on_amoled_black">Always on (AMOLED fekete)</string>
     <string name="smart_rewind_on_resuming">Okos visszatekerés folytatáskor</string>
@@ -1051,7 +1051,7 @@
     <string name="use_podcast_artwork_as_episode_artwork_">Használja a podcastképet epizód grafikaként.</string>
     <string name="use_embedded_artwork">Beágyazott kép használata</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Elsődlegesen a letöltött podcast fájlból származó kép használata</string>
-    <string name="display_episode_artwork_retrieved_from_media_file_">A médiafájlból letöltött epizódkép megjelenítése</string>
+    <string name="display_episode_artwork_retrieved_from_media_file_">A médiafájlból letöltött epizódkép megjelenítése.</string>
     <string name="not_tagged">Címke nélküliek</string>
     <string name="save_backup_to">Biztonsági másolat mentése ide</string>
     <string name="local_storage">Helyi tárolóeszköz</string>
@@ -1206,8 +1206,8 @@
     <string name="subscribed_date">Előfizetés dátuma</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Csend minimális időtartama az aktív eltávolításig: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
-    <string name="only_show_podcasts_having_new_release_after_the_selected_date">Csak a kiválasztott dátum után megjelent podcastok megjelenítése</string>
-    <string name="only_show_episodes_published_after_the_selected_date">Csak a kiválasztott dátum után megjelent epizódok megjelenítése</string>
+    <string name="only_show_podcasts_having_new_release_after_the_selected_date">Csak a kiválasztott dátum után megjelent podcastok megjelenítése.</string>
+    <string name="only_show_episodes_published_after_the_selected_date">Csak a kiválasztott dátum után megjelent epizódok megjelenítése.</string>
     <string name="lock_timeline_bar_dragging">Az idővonalsáv húzásának zárolása</string>
     <string name="unlock_timeline_bar_dragging">Az idővonalsáv húzásának feloldása</string>
     <string name="play_all_randomly">Összes lejátszása véletlenszerűen</string>
@@ -1246,13 +1246,13 @@
     <string name="click_the_button_blow_if_adding_a_podcast_feed">Kattintson az alábbi gombra, ha podcast hírfolyamot ad hozzá</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Folytassa, ha szöveges vagy blog RSS hírfolyamot ad hozzá</string>
     <string name="close_app_when_moving_to_background">Alk. bezárása háttérbe helyezéskor</string>
-    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza</string>
+    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
     <string name="add_all_d_episodes_to_up_next_">Az összes (%1$d) epizód hozzáadása a \'Következő\' listához?</string>
     <string name="add_all_d_episodes_to_playlist_">Az összes (%1$d) epizód hozzáadása a lejátszólistához?</string>
     <string name="date_added">Dátum hozzáadva</string>
     <string name="dynamic_colors">Dinamikus színek</string>
-    <string name="apply_the_color_theme_based_on_your_wallpaper_">Színtéma alkalmazása a háttérkép alapján</string>
+    <string name="apply_the_color_theme_based_on_your_wallpaper_">Színtéma alkalmazása a háttérkép alapján.</string>
     <string name="loading_">Betöltés…</string>
     <string name="virtual_podcast">Virtuális podcast</string>
     <string name="chart">Diagram</string>
@@ -1286,14 +1286,16 @@
     <string name="show_empty_podcasts">Meghallgatott podcastok megjelenítése</string>
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="login_failed">Sikertelen bejelentkezés</string>
-    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
-    <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s</string>
+    <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
-    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése</string>
+    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
     <string name="reverse_portrait_screen_display_mode">Fordított fekvő</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
-    <string name="cache_size_s">Gyorsítótár mérete: %1$s</string>
+    <string name="cache_size_s">Gyorsítótár mérete: %1$s.</string>
     <string name="follow_android_system_s_orientation">Kövesse az Android rendszer orientációját</string>
+    <string name="update_avatar">Update avatar</string>
+    <string name="update_username">Update username</string>
 </resources>

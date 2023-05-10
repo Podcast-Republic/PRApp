@@ -1293,4 +1293,6 @@
     <string name="clear_cache">Vymazať vyrovnávaciu pamäť</string>
     <string name="cache_size_s">Vyrovnávacia pamäť: %1$s.</string>
     <string name="follow_android_system_s_orientation">Podľa nastavenia Androidu</string>
+    <string name="update_avatar">Update avatar</string>
+    <string name="update_username">Update username</string>
 </resources>

@@ -544,7 +544,7 @@
     <string name="audio_loudness_boost">"Підвищення гучності звуку"</string>
     <string name="apply_to_all_podcasts">"Застосувати для всіх подкастів"</string>
     <string name="audio_effects_and_equalizer">"Звукові ефекти та еквалайзер"</string>
-    <string name="episode_info_short">"Інформація про серію (коротка)"</string>
+    <string name="episode_info_short">"Інформація про епізод (коротка)"</string>
     <string name="episode_info_full">"Інформація про епізод (повна)"</string>
     <string name="twitter">"Twitter"</string>
     <string name="storage_usage">"Використання пам'яті"</string>

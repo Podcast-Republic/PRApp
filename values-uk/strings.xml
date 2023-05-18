@@ -1042,7 +1042,7 @@
     <string name="export_episode_list">Експортувати перелік епізодів</string>
     <string name="as_html_file">як HTML-файл</string>
     <string name="as_json_file">як JSON-файл</string>
-    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Показувати обкладинку подкасту, отриману зі стрічки подкасту</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Показувати обкладинку подкасту, отриману з його каналу</string>
     <string name="use_podcast_artwork_as_episode_artwork_">Використовувати обкладинку подкасту як обкладинку епізоду</string>
     <string name="use_embedded_artwork">Використовувати вбудовану обкладинку</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Надавати перевагу використанню обкладинки, отриманої із завантаженого файлу подкасту</string>
@@ -1242,7 +1242,7 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Продовжуйте, якщо додаєте RSS-канал тексту чи блогу</string>
     <string name="close_app_when_moving_to_background">Закрити програму під час переходу у фоновий режим</string>
     <string name="close_background_app_message">Закрити програму під час переходу у фоновий режим. Ви зможете відтворювати подкасти у фоновому режимі, коли програму закрито. Однак ви не зможете перейти на той самий екран, коли знову відкриєте програму.</string>
-    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Коли нові епізоди завантажуються зі стрічки подкастів</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Коли нові епізоди завантажуються з каналу подкасту</string>
     <string name="add_all_d_episodes_to_up_next_">Додати всі %1$d епізодів до черги?</string>
     <string name="add_all_d_episodes_to_playlist_">Додати всі %1$d епізодів до списку відтворення?</string>
     <string name="date_added">Дата додання</string>

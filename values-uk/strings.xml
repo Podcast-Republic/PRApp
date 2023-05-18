@@ -1210,7 +1210,7 @@
     <string name="use_podcast_genre_as_tag">Використовувати жанр подкасту як тег</string>
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Додати жанр подкасту як тег</string>
     <string name="filter_podcasts_by_tag">Фільтрувати подкасти за тегом</string>
-    <string name="filter_podcasts_by_playlist">Фільтрувати подкасти за списком відтворення</string>
+    <string name="filter_podcasts_by_playlist">Фільтрувати подкасти за плейлистом</string>
     <string name="copy">Копіювати</string>
     <string name="episode_description_has_been_copied_to_clipboard_">Опис епізоду скопійовано в буфер обміну.</string>
     <string name="battery_optimizations">Оптимізація батареї</string>

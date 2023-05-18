@@ -305,7 +305,7 @@
     <string name="backup_failed_">"Не вдалося створити резервну копію!"</string>
     <string name="when_headset_bluetooth_disconnected">"Коли гарнітуру / Bluetooth від'єднано"</string>
     <string name="add_a_virtual_podcast">"Додати віртуальний подкаст"</string>
-    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Створіть віртуальний репозиторій подкастів, вибравши папку на своєму пристрої. Кожен мультимедійний файл у вибраній папці буде імпортовано як епізод. Ви можете пізніше вручну додати або видалити мультимедійні файли в папку."</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Створіть віртуальний репозиторій подкасту, вибравши папку на своєму пристрої. Кожен мультимедійний файл у вибраній папці буде імпортовано як епізод. Ви можете пізніше вручну додати або видалити мультимедійні файли в папку."</string>
     <string name="location">"Місцезнаходження"</string>
     <string name="select_a_directory">"Виберіть папку на своєму пристрої"</string>
     <string name="data_wifi_usage">"Мобільні дані та Wi-Fi"</string>
@@ -452,7 +452,7 @@
     <string name="edit_notes">"Редагувати нотатки"</string>
     <string name="generated_by_s_app">"Створено програмою %1$s"</string>
     <string name="auto_backup">"Автоматичне резервне копіювання"</string>
-    <string name="double_tap_to_play_or_pause">"Торкніться двічі, щоб розпочати або призупинити"</string>
+    <string name="double_tap_to_play_or_pause">"Торкнутися двічі, щоб розпочати або призупинити"</string>
     <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх, щоб зіграти наступне у списку"</string>
     <string name="swipe_to_left_to_fast_rewind">"Свайпнути вліво, щоб перемотати назад"</string>
     <string name="swipe_to_right_to_fast_forward">"Свайпнути праворуч, щоб перемотати вперед"</string>
@@ -469,7 +469,7 @@
     <string name="duration">Тривалістю</string>
     <string name="browse_downloads">"Переглянути завантаження"</string>
     <string name="browse_by_playlist">"Переглянути список відтворення"</string>
-    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Скидання епізодів призведе до скидання кеш-епізодів та перебудовування епізодів із каналу подкастів."</string>
+    <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Скидання епізодів призведе до видалення кешу епізодів та перебудовування переліку епізодів із каналу подкасту."</string>
     <string name="right_hand_operation">"Керування правою рукою"</string>
     <string name="open_menu_drawer_on_the_right_side">"Меню буде з правого боку"</string>
     <string name="go_to_podcast">"Перейти в подкаст"</string>
@@ -503,7 +503,7 @@
     <string name="radio_title_is_required_">"Назва станції обов'язкова!"</string>
     <string name="_is_not_found_add_this_station_">"«%1$s» не знайдено. Додати цю станцію за URL-адресою?"</string>
     <string name="debug_log">"Детальний журнал"</string>
-    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">"Якщо жодного зображення не вказано, будь-який файл зображення, знайдений у віртуальній папці подкастів, буде використовуватися як зображення за замовчуванням."</string>
+    <string name="if_no_image_specified_any_image_file_found_in_the_virtual_podcast_directory_will_be_used_as_the_default_artwork">"Якщо жодного зображення не вказано, будь-який файл зображення, знайдений у віртуальній папці подкасту, буде використовуватися як зображення за замовчуванням."</string>
     <string name="select">"Вибрати"</string>
     <string name="no_schedule_available">"Немає розкладу"</string>
     <string name="browse_by_subscriptions">"Переглянути по підписках"</string>
@@ -544,7 +544,7 @@
     <string name="audio_loudness_boost">"Підвищення гучності звуку"</string>
     <string name="apply_to_all_podcasts">"Застосувати для всіх подкастів"</string>
     <string name="audio_effects_and_equalizer">"Звукові ефекти та еквалайзер"</string>
-    <string name="episode_info_short">"Інформація про серію (коротка)"</string>
+    <string name="episode_info_short">"Інформація про епізод (коротка)"</string>
     <string name="episode_info_full">"Інформація про епізод (повна)"</string>
     <string name="twitter">"Twitter"</string>
     <string name="storage_usage">"Використання пам'яті"</string>
@@ -564,8 +564,8 @@
     <string name="enable_auto_backup_of_app_settings_and_database">"Увімкнути автоматичне резервне копіювання налаштувань додатка та бази даних"</string>
     <string name="schedule_backup">"Запланувати резервне копіювання"</string>
     <string name="backups_to_keep">"Резервні копії для збереження"</string>
-    <string name="import_subscriptions_from_an_opml_file">"Імпортувати підписки з файлу OPML"</string>
-    <string name="export_subscriptions_to_an_opml_file">"Експортувати підписки у файл OPML"</string>
+    <string name="import_subscriptions_from_an_opml_file">"Імпортувати підписки з OPML-файлу"</string>
+    <string name="export_subscriptions_to_an_opml_file">"Експортувати підписки в OPML-файл"</string>
     <string name="create_a_backup_of_app_settings_and_database">"Створіть резервну копію налаштувань додатка та бази даних"</string>
     <string name="restore_app_settings_and_database_from_selected_backup">"Відновити налаштування додатка та бази даних з вибраної резервної копії"</string>
     <string name="save_to">"Зберегти до"</string>
@@ -632,7 +632,7 @@
     <string name="error_storage_is_not_accessible">"Cховище недоступне"</string>
     <string name="moving_downloads">"Переміщую завантаження"</string>
     <string name="moving_download_from_1s_to_2s">"Переміщую завантаження з «%1$s» до «%2$s»."</string>
-    <string name="invalid_opml_file_selected_">"Вибрано неправильний файл OPML!"</string>
+    <string name="invalid_opml_file_selected_">"Вибрано неправильний OPML-файл!"</string>
     <string name="podcast_title_can_not_be_empty_">"Назва подкасту не може бути порожньою!"</string>
     <string name="podcast_url_can_not_be_empty_">"URL-адреса подкасту не може бути порожньою!"</string>
     <string name="show_podcast_title">"Показати назву подкасту"</string>
@@ -840,7 +840,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Запам'ятати рівень гучності під час останнього відтворення та відновити його при початку відтворення."</string>
     <string name="metered_network">Мережа з обмеженим трафіком</string>
     <string name="allow_to_download_over_metered_network">Дозволити завантажувати через мережу з обмеженим обсягом трафіку.</string>
-    <string name="remind_me_1_minute_left">Нагадати (залишилася 1 хвилина)</string>
+    <string name="remind_me_1_minute_left">Нагадати (за 1 хвилину)</string>
     <string name="unread_count">Кількість непрочитаних</string>
     <string name="newest_unread">Найновіші непрочитані</string>
     <string name="no_articles_selected_">Не вибрано жодної статті!</string>
@@ -897,7 +897,7 @@
     <string name="short_time_unit_format_minute">хв</string>
     <string name="hold_down_to_start_dragging">Утримуйте, щоб почати перетягування</string>
     <string name="swipe_right_action">Дія на свайп вправо</string>
-    <string name="stream_podcasts_via_wifi_only">Потокове передавання подкастів лише через Wi-Fi</string>
+    <string name="stream_podcasts_via_wifi_only">Стрімінг подкастів лише через Wi-Fi</string>
     <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Дозволити потокову передачу подкастів лише за підключення до Wi-Fi.</string>
     <string name="stream_radios_via_wifi_only">Потокове радіо лише через Wi-Fi</string>
     <string name="allow_to_stream_radios_only_when_wifi_is_connected">Дозволити трансляцію радіо, лише коли увімкнено Wi-Fi.</string>
@@ -937,7 +937,7 @@
     <string name="search_in_subscribed_podcasts">Шукайте в подкастах, на які ви підписалися</string>
     <string name="search_by_podcast_title">Пошук за назвою подкасту</string>
     <string name="search_by_podcast_publisher">Пошук за видавцем подкасту</string>
-    <string name="fade_audio_out_2_minutes_left">Згасання гучності аудіо (залишилося 2 хвилини)</string>
+    <string name="fade_audio_out_2_minutes_left">Зменшення гучності звуку (за 2 хвилини)</string>
     <string name="keep_all_articles">Зберегти всі статті</string>
     <string name="keep_articles">Зберегти статті</string>
     <string name="keep_articles_from_last_d_days">Зберігати статті за останні %d днів</string>
@@ -1042,7 +1042,7 @@
     <string name="export_episode_list">Експортувати перелік епізодів</string>
     <string name="as_html_file">як HTML-файл</string>
     <string name="as_json_file">як JSON-файл</string>
-    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Показувати обкладинку подкасту, отриману зі стрічки подкасту</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Показувати обкладинку подкасту, отриману з його каналу</string>
     <string name="use_podcast_artwork_as_episode_artwork_">Використовувати обкладинку подкасту як обкладинку епізоду</string>
     <string name="use_embedded_artwork">Використовувати вбудовану обкладинку</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Надавати перевагу використанню обкладинки, отриманої із завантаженого файлу подкасту</string>
@@ -1071,7 +1071,7 @@
     <string name="rss_feed_url_can_not_be_empty_">URL-адреса RSS-каналу не може бути порожньою!</string>
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>
     <string name="remove_obsolete_episodes">Видалити застарілі епізоди</string>
-    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видалити застарілі епізоди, якщо вони більше не присутні в стрічці подкастів</string>
+    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видалити застарілі епізоди, якщо вони більше не присутні в каналі подкасту</string>
     <string name="mark_as_played">"Відмітити як прослуханий"</string>
     <string name="mark_as_unplayed">"Відмітити як непрослуханий"</string>
     <string name="swipe_left_action">Дія на свайп вліво</string>
@@ -1210,7 +1210,7 @@
     <string name="use_podcast_genre_as_tag">Використовувати жанр подкасту як тег</string>
     <string name="add_podcast_genre_as_a_tag_when_tagging_a_podcast_">Додати жанр подкасту як тег</string>
     <string name="filter_podcasts_by_tag">Фільтрувати подкасти за тегом</string>
-    <string name="filter_podcasts_by_playlist">Фільтрувати подкасти за списком відтворення</string>
+    <string name="filter_podcasts_by_playlist">Фільтрувати подкасти за плейлистом</string>
     <string name="copy">Копіювати</string>
     <string name="episode_description_has_been_copied_to_clipboard_">Опис епізоду скопійовано в буфер обміну.</string>
     <string name="battery_optimizations">Оптимізація батареї</string>
@@ -1238,11 +1238,11 @@
     <string name="play_pause_triple_click">Відтворення / Пауза подтрійним натисканням</string>
     <string name="title_display">Відображення назви</string>
     <string name="rotate_by_priority">Чергувати за пріоритетом подкасту</string>
-    <string name="click_the_button_blow_if_adding_a_podcast_feed">Натисніть кнопку нижче, якщо хочете додати канал подкастів.</string>
+    <string name="click_the_button_blow_if_adding_a_podcast_feed">Натисніть кнопку нижче, якщо хочете додати канал подкасту.</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Продовжуйте, якщо додаєте RSS-канал тексту чи блогу</string>
     <string name="close_app_when_moving_to_background">Закрити програму під час переходу у фоновий режим</string>
     <string name="close_background_app_message">Закрити програму під час переходу у фоновий режим. Ви зможете відтворювати подкасти у фоновому режимі, коли програму закрито. Однак ви не зможете перейти на той самий екран, коли знову відкриєте програму.</string>
-    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Коли нові епізоди завантажуються зі стрічки подкастів</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Коли нові епізоди завантажуються з каналу подкасту</string>
     <string name="add_all_d_episodes_to_up_next_">Додати всі %1$d епізодів до черги?</string>
     <string name="add_all_d_episodes_to_playlist_">Додати всі %1$d епізодів до списку відтворення?</string>
     <string name="date_added">Дата додання</string>
@@ -1283,7 +1283,7 @@
     <string name="login_failed">Не вдалося увійти</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Виберіть мову, що буде використовуватись в додатку.</string>
     <string name="term_and_privacy_policy">"Терміни та політика конфіденційності"</string>
-    <string name="import_from_opml_file_failed_s">Імпорт з файлу OPML не вдався: %1$s.</string>
+    <string name="import_from_opml_file_failed_s">Імпорт з OPML-файлу не вдався: %1$s.</string>
     <string name="play_previous_episode_or_station">Слухати попередній епізод/станцію</string>
     <string name="show_play_previous_episode_station_button_">Показувати кнопку відтворення попереднього епізоду/станції.</string>
     <string name="play_next_episode_station">Слухати наступний епізод/станцію</string>

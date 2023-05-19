@@ -596,7 +596,7 @@
     <string name="remove_favorite">"Видалити з улюблених"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Позначити всі епізоди, опубліковані раніше, ніж цей епізод (%1$s), які прослухані?"</string>
     <string name="exporting">"Експортую"</string>
-    <string name="extend_s_minutes">"Додати %1$d хвилину"</string>
+    <string name="extend_s_minutes">"Додати %1$d хвилин"</string>
     <string name="pick_a_time">"Виберіть час"</string>
     <string name="updating_podcasts">"Оновлення подкастів"</string>
     <string name="skip_ending">"Пропустити закінчення"</string>

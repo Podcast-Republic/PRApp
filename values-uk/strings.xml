@@ -187,7 +187,7 @@
     <string name="remove">"Видалити"</string>
     <string name="redownload">"Завантажити повторно"</string>
     <string name="download_all">"Завантажити все"</string>
-    <string name="download_all_d_episodes">"Завантажити всі %1$d епізоди?"</string>
+    <string name="download_all_d_episodes">"Завантажити всі %1$d епізодів?"</string>
     <string name="display">"Показувати"</string>
     <string name="when_i_press_next_button">"Коли я натискаю кнопку «Пропустити»"</string>
     <string name="background_play">"Фонове програвання"</string>

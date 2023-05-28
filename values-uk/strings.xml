@@ -422,7 +422,7 @@
     <string name="done">"Готово"</string>
     <string name="move_to_top">"Перемістити наверх"</string>
     <string name="move_to_bottom">"Перемістити донизу"</string>
-    <string name="downloaded">"Завантажено"</string>
+    <string name="downloaded">"Завантажені"</string>
     <string name="dont_download_episode">"Не завантажувати епізод"</string>
     <string name="match_all_keywords">"Кожне з ключових слів"</string>
     <string name="match_any_of_the_keywords">"Будь-яке з ключових слів"</string>

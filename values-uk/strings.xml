@@ -276,7 +276,7 @@
     <string name="playback_mode_playlist">"Почерговий"</string>
     <string name="playback_mode_single_episode">"Один епізод"</string>
     <string name="s_has_been_added_to_subscription">"%1$s було додано до підписок"</string>
-    <string name="audio_not_started_yet">"Звучання ще не розпочато!"</string>
+    <string name="audio_not_started_yet">"Відтворення ще не розпочато!"</string>
     <string name="manage_playlists">"Керування списками відтворення"</string>
     <string name="download">"Завантажити"</string>
     <string name="fast_forward_time">"Тривалість перемотування вперед"</string>
@@ -355,8 +355,8 @@
     <string name="start_downloading_only_when_battery_is_charging">"Почати завантаження лише коли апарат знаходиться на зарядці"</string>
     <string name="add_a_youtube_podcast">"Додати YouTube-подкаст"</string>
     <string name="channels">"Канали"</string>
-    <string name="channel_id">"Ідентифікатор каналу (ID)"</string>
-    <string name="playlist_id">"Ідентифікатор списку відтворення (ID)"</string>
+    <string name="channel_id">"Ідентифікатор каналу"</string>
+    <string name="playlist_id">"Ідентифікатор списку відтворення"</string>
     <string name="when_deleting_an_episode">"При видаленні епізоду"</string>
     <string name="also_remove_from_downloads_amp_playlists">"Також видалити із завантажень і списків відтворення"</string>
     <string name="remove_episode_only">"Лише видалити епізод"</string>
@@ -364,7 +364,7 @@
     <string name="mark_episode_as_played_if_more_than_has_been_played">"Позначити епізод як прослуханий, якщо відтворено понад %1$d %%"</string>
     <string name="download_episode">"Завантажити епізод"</string>
     <string name="start_downloading_when_episode_is_added_to_playlist">"Почати завантаження відразу після додавання його до списку відтворення"</string>
-    <string name="podcast_keep_download_limit_reached_">"Подкаст на збереження ліміту завантаження досягнуто!"</string>
+    <string name="podcast_keep_download_limit_reached_">"Досягнуто ліміту кількості подкастів, що можливо завантажити!"</string>
     <string name="auto_download_filter">"Автофільтр завантаження"</string>
     <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Фільтрувати заголовки епізодів для автоматичного завантаження. Потрібно спочатку ввімкнути опцію автоматичного завантаження."</string>
     <string name="keep_favorite_episodes">"Залишати улюблені епізоди"</string>
@@ -400,8 +400,8 @@
     <string name="dim_screen">"Погасити екран"</string>
     <string name="keep_screen_always_on">"Тримати екран завжди увімкненим"</string>
     <string name="completed_downloads">"Завершені"</string>
-    <string name="top_charts">"Топ чарти"</string>
-    <string name="browse_top_charts">"Переглянути кращі канали"</string>
+    <string name="top_charts">"Найпопулярніші подкасти"</string>
+    <string name="browse_top_charts">"Переглянути найпопулярніші подкасти"</string>
     <string name="after_x_minutes">"Через %1$d хвилин"</string>
     <string name="after_current_episode_ends">"Коли поточний епізод закінчується"</string>
     <string name="add_a_chapter">"Додати розділ"</string>
@@ -417,7 +417,7 @@
     <string name="failed">"Не вдалося"</string>
     <string name="select_all">"Вибрати всі"</string>
     <string name="export_download">"Експортувати епізод"</string>
-    <string name="export_downloads">"Експортувати епізод"</string>
+    <string name="export_downloads">"Експортувати епізоди"</string>
     <string name="edit_episode_filter">"Редагувати фільтр епізодів"</string>
     <string name="done">"Готово"</string>
     <string name="move_to_top">"Перемістити наверх"</string>
@@ -439,7 +439,7 @@
     <string name="clear_current_playlist_">"Очистити поточний список відтворення?"</string>
     <string name="enter_new_playlist_name">"Введіть назву списка відтворення"</string>
     <string name="podcast_exported_to_">"Подкаст експортується в «%1$s»"</string>
-    <string name="search_not_found">"Пошук не знайдено"</string>
+    <string name="search_not_found">"Пошук нічого не знайшов"</string>
     <string name="_is_not_found_add_this_podcast_">"«%1$s» не знайдено. Додати цей подкаст за URL-адресою?"</string>
     <string name="episode_publishing_date">"Дата публікації епізоду"</string>
     <string name="episode_guid">"GUID епізоду"</string>
@@ -454,7 +454,7 @@
     <string name="auto_backup">"Автоматичне резервне копіювання"</string>
     <string name="double_tap_to_play_or_pause">"Торкнутися двічі, щоб розпочати або призупинити"</string>
     <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх, щоб зіграти наступне у списку"</string>
-    <string name="swipe_to_left_to_fast_rewind">"Свайпнути вліво, щоб перемотати назад"</string>
+    <string name="swipe_to_left_to_fast_rewind">"Свайпнути ліворуч, щоб перемотати назад"</string>
     <string name="swipe_to_right_to_fast_forward">"Свайпнути праворуч, щоб перемотати вперед"</string>
     <string name="remove_subscription_to_">"Відписатися від «%1$s»?"</string>
     <string name="data_roaming">"Роумінг даних"</string>
@@ -471,7 +471,7 @@
     <string name="browse_by_playlist">"Переглянути список відтворення"</string>
     <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Скидання епізодів призведе до видалення кешу епізодів та перебудовування переліку епізодів із каналу подкасту."</string>
     <string name="right_hand_operation">"Керування правою рукою"</string>
-    <string name="open_menu_drawer_on_the_right_side">"Меню буде з правого боку"</string>
+    <string name="open_menu_drawer_on_the_right_side">"Відкривати панель меню з правого боку"</string>
     <string name="go_to_podcast">"Перейти в подкаст"</string>
     <string name="there_are_no_podcasts_">"Немає подкастів!"</string>
     <string name="no_podcasts_selected">"Не вибрано жодного подкасту"</string>
@@ -557,7 +557,7 @@
     <string name="sign_out">"Вийти з акаунту"</string>
     <string name="syncing_started">"Початок синхронізації"</string>
     <string name="account_logged_in_s">""Вхід у систему: %1$s"</string>
-    <string name="sync_subscriptions_and_episode_playback_progress">"Підписка на синхронізацію та прогрес відтворення епізодів"</string>
+    <string name="sync_subscriptions_and_episode_playback_progress">"Синхронізація підписок та прогресу відтворення епізодів"</string>
     <string name="schedule_auto_backup_every_d_days">"Автоматичне резервне копіювання через кожні %1$d днів"</string>
     <string name="keep_most_recent_d_auto_backups">"Зберігати останні %1$d резервні копії"</string>
     <string name="save_auto_backup_to_s">"Автоматичне резервне копіювання зберегти до: %1$s"</string>
@@ -589,7 +589,7 @@
     <string name="there_are_no_episodes_in_this_playlist">"У цьому списку відтворення немає епізодів."</string>
     <string name="no_play_history_found">"Немає історії відтворення."</string>
     <string name="set_playlists">"Додати в списки відтворення"</string>
-    <string name="mark_all_as_read">"Позначити все як прочитане"</string>
+    <string name="mark_all_as_read">"Позначити всі як прочитані"</string>
     <string name="not_in_use">"Не використовується"</string>
     <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Потягніть список епізодів донизу, щоб розпочати перевірку оновлення епізодів"</string>
     <string name="mark_all_previous_episodes_as_played">"Позначити всі попередні епізоди, як прослухані"</string>
@@ -658,7 +658,7 @@
     <string name="click_to_adjust_playback_speed">"Натисніть, щоб налаштувати швидкість відтворення"</string>
     <string name="click_to_set_up_sleep_timer">"Натисніть, щоб налаштувати таймер сну"</string>
     <string name="click_to_select_playback_mode">"Натисніть, щоб вибрати режим відтворення"</string>
-    <string name="percetage_value">"%d%%"</string>
+    <string name="percetage_value">"%d% %"</string>
     <string name="select_episodes">"Виберіть епізоди"</string>
     <string name="select_episodes_from_last_d_days">"Виберіть епізоди за останні %d днів"</string>
     <string name="select_episodes_from_all_dates">"Виберіть епізоди за всі дати"</string>
@@ -669,11 +669,11 @@
     <string name="unfinished_less_than_100_played">Не завершено (відтворено &lt; 100%)</string>
     <string name="finished_100_played">"Прослухано (відтворено 100%)"</string>
     <string name="restore_defaults">"Відновити значення за замовчуванням"</string>
-    <string name="at_least_one_episode_filter_is_required_">"Необхідно принаймні один фільтр епізодів!"</string>
+    <string name="at_least_one_episode_filter_is_required_">"Необхідна наявність принаймні одного фільтру епізодів!"</string>
     <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">"Наступні каталоги недоступні. Будь ласка, скиньте налаштування. \n%s"</string>
     <string name="_download_location">"- Знаходження завантажень"</string>
     <string name="_auto_backup_location">"- Автоматичне резервне копіювання"</string>
-    <string name="clean_up">"Почистити"</string>
+    <string name="clean_up">"Очистити"</string>
     <string name="the_following_files_are_found_in_the_download_directory_but_not_linked_to_any_downloads_you_can_remove_them_by_pressing_the_clean_up_button_">"Наступні файли знаходяться в каталозі завантажень, але не пов'язані з будь-якими завантаженнями. Ви можете видалити їх, натиснувши кнопку \"Очистити\"."</string>
     <string name="tags">"Теги"</string>
     <string name="casting">"Беруть участь"</string>

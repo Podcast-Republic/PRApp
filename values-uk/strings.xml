@@ -1030,7 +1030,7 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Дозволити завантажувати найстаріші невідтворені епізоди, якщо не знайдено нових невідтворених епізодів.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Дозволити завантажувати найновіші невідтворені епізоди, якщо не знайдено старіших невідтворених епізодів.</string>
     <string name="website">Вебсайт</string>
-    <string name="auto_load_last_played_episode">Автоприготування останнього прослуханого епізоду</string>
+    <string name="auto_load_last_played_episode">Автоприготування до відтворення останнього відтворюваного епізоду</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">При відкритті списку відтворення автоматично додати в програвач останній відтворюваний з нього епізод.</string>
     <string name="delete_the_playlist_s">"Видалити список відтворення: %s?"</string>
     <string name="delete_the_tag_s">"Видалити тег: %s?"</string>

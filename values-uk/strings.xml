@@ -510,8 +510,8 @@
     <string name="browse_by_radio_stations">"Переглянути по радіостанціях"</string>
     <string name="wifi_is_not_available_cancelling_podcast_update_checking_">"Wi-Fi недоступний. Скасовую провірку оновлення подкасту."</string>
     <string name="pull_to_refresh">"Потягніть, щоб оновити"</string>
-    <string name="pull_down_the_playlist_to_start_podcast_update_checking">"Потягніть список відтворення донизу, щоб розпочати оновлення подкастів"</string>
-    <string name="pull_down_download_list_to_start_podcast_update_checking">"Потягніть список завантажень донизу, щоб розпочати оновлення подкастів"</string>
+    <string name="pull_down_the_playlist_to_start_podcast_update_checking">"Потягніть список відтворення донизу, щоб розпочати перевірку оновлення подкастів"</string>
+    <string name="pull_down_download_list_to_start_podcast_update_checking">"Потягніть список завантажень донизу, щоб розпочати перевірку оновлення подкастів"</string>
     <string name="auto_rotate_screen">"Автоповорот екрана"</string>
     <string name="screen_orientation">"Орієнтація екрана"</string>
     <string name="portrait">"Портретна"</string>
@@ -523,7 +523,7 @@
     <string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
     <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
     <string name="percent_played">"%1$d %% відтворено"</string>
-    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">"Потягніть список подкастів донизу, щоб розпочати оновлення подкастів"</string>
+    <string name="pull_down_podcasts_list_to_start_podcast_update_checking">"Потягніть список подкастів донизу, щоб розпочати перевірку оновлення подкастів"</string>
     <string name="actions">"Дії"</string>
     <string name="when_an_episode_is_100_played">"Коли епізод відтворено на 100%"</string>
     <string name="delete_the_download">"Видалити завантаження"</string>

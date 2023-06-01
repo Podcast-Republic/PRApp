@@ -605,7 +605,7 @@
     <string name="no_user_notes_found">"Жодних користувацьких нотаток не знайдено"</string>
     <string name="no_episode_description_found">"Не знайдено жодного опису до епізоду."</string>
     <string name="or">"Або"</string>
-    <string name="up_next_list_has_been_updated_to_play_from_s">"Черга була оновлена для відтворення починаючи з: %s"</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">"Черга була оновлена, буде відтворюватись: %s"</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Зробіть повну синхронізацію. Вона триватиме довше, ніж зазвичай."</string>
     <string name="buy_me_a_coffee_message">"Якщо вам подобається користуватися програмою Podcast Republic, і ви хочете підтримати розробку, ви можете придбати мені чашку кави. Дякую!"</string>
     <string name="maybe_later">"Можливо пізніше"</string>

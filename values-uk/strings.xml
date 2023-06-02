@@ -137,7 +137,7 @@
     <string name="description_of_podcast">"Опис подкасту"</string>
     <string name="description">"Опис"</string>
     <string name="play">"Слухати"</string>
-    <string name="share">"Ділитися"</string>
+    <string name="share">"Поділитися"</string>
     <string name="add_to_playlists">"Додати в список відтворення"</string>
     <string name="end_editing_mode">"Завершити редагування"</string>
     <string name="set">"Підтвердити"</string>
@@ -372,7 +372,7 @@
     <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"Підкаталог знайдено. Створити новий віртуальний подкаст для кожного підкаталогу?"</string>
     <string name="import_sub_directory">"Імпортувати підкаталог"</string>
     <string name="failed_downloads">"Не вдалося"</string>
-    <string name="subscribe_on_podcast_republic">"Підпишіться на Podcast Republic"</string>
+    <string name="subscribe_on_podcast_republic">"Підпишіться в Podcast Republic"</string>
     <string name="dim_screen_but_keep_screen_responsive">"Погасити екран, але зберігати його чутливим"</string>
     <string name="chapters">"Розділи"</string>
     <string name="no_chapter_marks_found">"Жодних розділів не знайдено"</string>
@@ -573,7 +573,7 @@
     <string name="clear_the_play_history_">"Очистити історію відтворення?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Сповіщати коли завантаження видалено через квоту пам'яті на завантаження або коли досягнуто обмеження щодо кількості завантажень"</string>
     <string name="keep_all">"Зберегти все"</string>
-    <string name="playlist">"Плейліст"</string>
+    <string name="playlist">"Плейлист"</string>
     <string name="category">"Категорія"</string>
     <string name="update_podcasts_when_app_is_starting">"Оновити подкасти при запуску додатка"</string>
     <string name="unknown_station">"Невідома станція"</string>

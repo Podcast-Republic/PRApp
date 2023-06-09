@@ -204,7 +204,7 @@
     <string name="action">"Дія"</string>
     <string name="download_only_when_connected_to_wifi">"Завантажувати лише через Wi-Fi"</string>
     <string name="add_to_new_tag">"Додати до нового тегу"</string>
-    <string name="enter_new_tag_name">"Введіть нове ім'я тегу"</string>
+    <string name="enter_new_tag_name">"Введіть назву нового тегу"</string>
     <string name="car_mode">"Режим «В автомобілі»"</string>
     <string name="update_artwork">"Оновити обкладинку"</string>
     <string name="enter_new_artwork_url">"Введіть нову URL-адресу для обкладинки"</string>

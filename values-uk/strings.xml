@@ -1117,7 +1117,7 @@
     <string name="text_color">Колір тексту</string>
     <string name="unread_articles">Непрочитані статті</string>
     <string name="bluetooth_auto_play_workaround">Обійти автовідтворення через Bluetooth</string>
-    <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Не починати відтворення, коли увімкнено Bluetooth. Щоб дізнатися більше, ознайомтеся з частими питаннями.</string>
+    <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Не починати відтворення при підключенні до Bluetooth-пристрою. Щоб дізнатися більше, ознайомтеся з частими питаннями.</string>
     <string name="rss_feeds_in_widget">RSS-канали у віджеті</string>
     <string name="show_selected_rss_feeds_in_widget_s">Відображати вибрані RSS-канали у віджеті: %s</string>
     <string name="mark_all_articles_published_after_this_article_s_as_read_">Позначити всі статті, опубліковані після цієї статті (%1$s), як прочитані?</string>

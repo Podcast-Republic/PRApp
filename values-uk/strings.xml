@@ -83,8 +83,8 @@
         <item>Туреччина</item>
         <item>Україна</item>
         <item>"Об'єднані Арабські Емірати"</item>
-        <item>Велика Британія</item>
-        <item>США</item>
+        <item>Сполучене Королівство</item>
+        <item>Сполучені Штати Америки</item>
         <item>Венесуела</item>
         <item>"В'єтнам"</item>
     </string-array>
@@ -204,7 +204,7 @@
     <string name="action">"Дія"</string>
     <string name="download_only_when_connected_to_wifi">"Завантажувати лише через Wi-Fi"</string>
     <string name="add_to_new_tag">"Додати до нового тегу"</string>
-    <string name="enter_new_tag_name">"Введіть нове ім'я тегу"</string>
+    <string name="enter_new_tag_name">"Введіть назву нового тегу"</string>
     <string name="car_mode">"Режим «В автомобілі»"</string>
     <string name="update_artwork">"Оновити обкладинку"</string>
     <string name="enter_new_artwork_url">"Введіть нову URL-адресу для обкладинки"</string>
@@ -1117,7 +1117,7 @@
     <string name="text_color">Колір тексту</string>
     <string name="unread_articles">Непрочитані статті</string>
     <string name="bluetooth_auto_play_workaround">Обійти автовідтворення через Bluetooth</string>
-    <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Не починати відтворення, коли увімкнено Bluetooth. Щоб дізнатися більше, ознайомтеся з частими питаннями.</string>
+    <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Не починати відтворення при підключенні до Bluetooth-пристрою. Щоб дізнатися більше, ознайомтеся з частими питаннями.</string>
     <string name="rss_feeds_in_widget">RSS-канали у віджеті</string>
     <string name="show_selected_rss_feeds_in_widget_s">Відображати вибрані RSS-канали у віджеті: %s</string>
     <string name="mark_all_articles_published_after_this_article_s_as_read_">Позначити всі статті, опубліковані після цієї статті (%1$s), як прочитані?</string>

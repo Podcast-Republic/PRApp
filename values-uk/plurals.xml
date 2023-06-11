@@ -43,10 +43,10 @@
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Позначити %1$d епізод як не прослуханий?</item>
-        <item quantity="few">Позначити всі ці %1$d епізоди як не прослухані?</item>
-        <item quantity="many">Позначити всі ці %1$d епізодів як не прослухані?</item>
-        <item quantity="other">Позначити всі ці %1$d епізодів як не прослухані?</item>
+        <item quantity="one">Позначити %1$d епізод як непрослуханий?</item>
+        <item quantity="few">Позначити всі ці %1$d епізоди як непрослухані?</item>
+        <item quantity="many">Позначити всі ці %1$d епізодів як непрослухані?</item>
+        <item quantity="other">Позначити всі ці %1$d епізодів як непрослухані?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
@@ -57,10 +57,10 @@
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="few">Mark all %1$d feeds as read?</item>
-        <item quantity="many">Mark all %1$d feeds as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one">Позначити %1$d канал як прочитаний?</item>
+        <item quantity="few">Позначити всі ці %1$d канали як прочитані?</item>
+        <item quantity="many">Позначити всі ці %1$d каналів як прочитані?</item>
+        <item quantity="other">Позначити всі ці %1$d каналів як прочитані?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
@@ -71,49 +71,49 @@
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Позначити %1$d статтю як не прочитану?</item>
-        <item quantity="few">Позначити всі ці %1$d статті як не прочитані?</item>
-        <item quantity="many">Позначити всі ці %1$d статтей як не прочитані?</item>
-        <item quantity="other">Позначити всі ці %1$d статтей як не прочитані?</item>
+        <item quantity="one">Позначити %1$d статтю як непрочитану?</item>
+        <item quantity="few">Позначити всі ці %1$d статті як непрочитані?</item>
+        <item quantity="many">Позначити всі ці %1$d статтей як непрочитані?</item>
+        <item quantity="other">Позначити всі ці %1$d статтей як непрочитані?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Автоматично завантажувати %1$d новий та не відтворений епізод з поточного подкасту.</item>
-        <item quantity="few">Автоматично завантажувати до %1$d нових та не відтворених епізодів з поточного подкасту.</item>
-        <item quantity="many">Автоматично завантажувати до %1$d нових та не відтворених епізодів з поточного подкасту.</item>
-        <item quantity="other">Автоматично завантажувати до %1$d нових та не відтворених епізодів з поточного подкасту.</item>
+        <item quantity="one">Автоматично завантажувати до %1$d нового та непрослуханого епізоду з поточного подкасту.</item>
+        <item quantity="few">Автоматично завантажувати до %1$d нових та непрослуханих епізодів з поточного подкасту.</item>
+        <item quantity="many">Автоматично завантажувати до %1$d нових та непрослуханих епізодів з поточного подкасту.</item>
+        <item quantity="other">Автоматично завантажувати до %1$d нових та непрослуханих епізодів з поточного подкасту.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Автоматично завантажувати %1$d старий та не відтворений епізод з поточного подкасту.</item>
-        <item quantity="few">Автоматично завантажувати до %1$d старих та не відтворених епізодів з поточного подкасту.</item>
-        <item quantity="many">Автоматично завантажувати до %1$d старих та не відтворених епізодів з поточного подкасту.</item>
-        <item quantity="other">Автоматично завантажувати до %1$d старих та не відтворених епізодів з поточного подкасту.</item>
+        <item quantity="one">Автоматично завантажувати до %1$d старого та непрослуханого епізоду з поточного подкасту.</item>
+        <item quantity="few">Автоматично завантажувати до %1$d старих та непрослуханих епізодів з поточного подкасту.</item>
+        <item quantity="many">Автоматично завантажувати до %1$d старих та непрослуханих епізодів з поточного подкасту.</item>
+        <item quantity="other">Автоматично завантажувати до %1$d старих та непрослуханих епізодів з поточного подкасту.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Автоматично завантажувати %1$d останній епізод при отриманні новіх епізодів.</item>
+        <item quantity="one">Автоматично завантажувати до %1$d останнього епізоду при отриманні новіх епізодів.</item>
         <item quantity="few">Автоматично завантажувати до %1$d останніх епізодів при отриманні новіх епізодів.</item>
         <item quantity="many">Автоматично завантажувати до %1$d останніх епізодів при отриманні новіх епізодів.</item>
         <item quantity="other">Автоматично завантажувати до %1$d останніх епізодів при отриманні новіх епізодів.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Показувати %1$d рядок назви.</item>
+        <item quantity="one">Показувати не більше %1$d рядку назви.</item>
         <item quantity="few">Показувати не більше %1$d рядків назви.</item>
         <item quantity="many">Показувати не більше %1$d рядків назви.</item>
         <item quantity="other">Показувати не більше %1$d рядків назви.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlist">
-        <item quantity="one">"Один епізод був доданий до списку відтворення."</item>
+        <item quantity="one">"%1$d епізод був доданий до списку відтворення."</item>
         <item quantity="few">"%1$d епізоди були додані до списку відтворення."</item>
         <item quantity="many">"%1$d епізодів були додані до списку відтворення."</item>
         <item quantity="other">"%1$d епізодів були додані до списку відтворення."</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">"Один епізод був доданий до завантажень."</item>
+        <item quantity="one">"%1$d епізод був доданий до завантажень."</item>
         <item quantity="few">"%1$d епізоди були додані до завантажень."</item>
         <item quantity="many">"%1$d епізодів були додані до завантажень."</item>
         <item quantity="other">"%1$d епізодів були додані до завантажень."</item>

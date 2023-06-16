@@ -142,7 +142,7 @@
     <string name="end_editing_mode">"Завершити редагування"</string>
     <string name="set">"Підтвердити"</string>
     <string name="no_episode_selected">"Не вибрано жодного епізоду"</string>
-    <string name="set_played">"Відмітити як зігране"</string>
+    <string name="set_played">"Позначити прослуханим"</string>
     <string name="delete_episode">"Видалити епізод"</string>
     <string name="download_episode_not_found">"Завантажений епізод не знайдено"</string>
     <string name="yes">"Так"</string>
@@ -378,7 +378,7 @@
     <string name="no_chapter_marks_found">"Жодних розділів не знайдено"</string>
     <string name="keep_all_downloads">"Зберігати всі завантаження"</string>
     <string name="playback_controls">"Кнопки відтворення"</string>
-    <string name="hide_empty_podcasts">"Сховати прослухані подкасти"</string>
+    <string name="hide_empty_podcasts">"Сховати порожні подкасти"</string>
     <string name="pause_downloads">"Призупинити завантаження"</string>
     <string name="has_keywords_in_title">"Має ключові слова у назві"</string>
     <string name="previous">"Повернутись"</string>
@@ -453,7 +453,7 @@
     <string name="generated_by_s_app">"Створено програмою %1$s"</string>
     <string name="auto_backup">"Автоматичне резервне копіювання"</string>
     <string name="double_tap_to_play_or_pause">"Торкнутися двічі, щоб розпочати або призупинити"</string>
-    <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх, щоб зіграти наступне у списку"</string>
+    <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх, щоб відтворити наступний за списком"</string>
     <string name="swipe_to_left_to_fast_rewind">"Свайпнути ліворуч, щоб перемотати назад"</string>
     <string name="swipe_to_right_to_fast_forward">"Свайпнути праворуч, щоб перемотати вперед"</string>
     <string name="remove_subscription_to_">"Відписатися від «%1$s»?"</string>
@@ -1278,7 +1278,7 @@
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Відсутній Wi-Fi. Оновити канал через мобільний інтернет один раз?</string>
     <string name="mark_all_previous_articles_as_unread">Позначити всі попередні статті як непрочитані</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Позначити всі статті, опубліковані до цієї статті (%1$s), як непрочитані?</string>
-    <string name="show_empty_podcasts">Показувати порожні подкасти</string>
+    <string name="show_empty_podcasts">Показати порожні подкасти</string>
     <string name="show_empty_feeds">Показати порожні канали</string>
     <string name="login_failed">Не вдалося увійти</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Виберіть мову, що буде використовуватись в додатку.</string>

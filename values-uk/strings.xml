@@ -516,7 +516,7 @@
     <string name="screen_orientation">"Орієнтація екрана"</string>
     <string name="portrait">"Портретна"</string>
     <string name="landscape">"Альбомна"</string>
-    <string name="drag_the_handler_to_sort_manually">"Перемкніть тумблер справа, щоб відсортувати вручну"</string>
+    <string name="drag_the_handler_to_sort_manually">"Перетягніть за відповідну кнопку, щоб відсортувати вручну"</string>
     <string name="streaming">"Йде стрім"</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Введіть ім'я користувача та пароль нижче, якщо ваш подкаст вимагає аутентифікації. Залиште їх порожніми, якщо жодної аутентифікації не потрібно."</string>
     <string name="can_not_play_ps">"Неможливо відтворити: %1$s"</string>

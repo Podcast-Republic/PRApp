@@ -361,7 +361,7 @@
     <string name="also_remove_from_downloads_amp_playlists">"Також видалити із завантажень і списків відтворення"</string>
     <string name="remove_episode_only">"Лише видалити епізод"</string>
     <string name="mark_episode_as_played">"Позначити епізод як прослуханий"</string>
-    <string name="mark_episode_as_played_if_more_than_has_been_played">"Позначити епізод як прослуханий, якщо відтворено понад %1$d %%"</string>
+    <string name="mark_episode_as_played_if_more_than_has_been_played">"Позначити епізод як прослуханий, якщо відтворено понад %1$d%%"</string>
     <string name="download_episode">"Завантажити епізод"</string>
     <string name="start_downloading_when_episode_is_added_to_playlist">"Почати завантаження відразу після додавання його до списку відтворення"</string>
     <string name="podcast_keep_download_limit_reached_">"Досягнуто ліміту кількості подкастів, що можливо завантажити!"</string>
@@ -887,7 +887,7 @@
     <string name="hide_empty_feeds">Приховати порожні канали</string>
     <string name="tag_feeds">Додати теги каналам</string>
     <string name="open_in_browser">Відкрити в браузері</string>
-    <string name="mark_as_unread">Відзначити як непрочитану</string>
+    <string name="mark_as_unread">Позначити як непрочитану</string>
     <string name="article_url">URL-адреса статті</string>
     <string name="summary">Короткий зміст</string>
     <string name="download_state_paused_battery_low">Призупинено: заряд батареї низький</string>
@@ -929,7 +929,7 @@
     <string name="toggle_playback_speed_on_off">Увімкнути/вимкнути швидкість відтворення</string>
     <string name="there_are_no_episodes_with_notes_">Немає жодного епізоду з нотатками!</string>
     <string name="there_are_no_deleted_episodes_">Немає жодного видаленого епізоду!</string>
-    <string name="mark_as_favorite">Відмітити улюбленим</string>
+    <string name="mark_as_favorite">Позначити улюбленим</string>
     <string name="remove_favorite_mark">Видалити позначку улюбленого</string>
     <string name="rotate_by_podcasts">Чергувати за подкастами</string>
     <string name="search_in_all_podcasts">Шукати в усіх подкастах</string>
@@ -1071,8 +1071,8 @@
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>
     <string name="remove_obsolete_episodes">Видалити застарілі епізоди</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видалити застарілі епізоди, якщо вони більше не присутні в каналі подкасту.</string>
-    <string name="mark_as_played">"Відмітити як прослуханий"</string>
-    <string name="mark_as_unplayed">"Відмітити як непрослуханий"</string>
+    <string name="mark_as_played">"Позначити як прослуханий"</string>
+    <string name="mark_as_unplayed">"Позначити як непрослуханий"</string>
     <string name="swipe_left_action">Дія на свайп вліво</string>
     <string name="nothing_in_up_next">В черзі нічого немає</string>
     <string name="syncing_article_changes_s">Синхронізація змін до статті: %1$s.</string>
@@ -1083,7 +1083,7 @@
     <string name="adjust_playback_position">Зміна позиції відтворення</string>
     <string name="allow_to_change_playback_position_from_notification_">Дозволити змінювати позицію відтворення зі сповіщення.</string>
     <string name="zoom_image">Збільшити зображення</string>
-    <string name="mark_all_as_unplayed">Позначити як непрослуханий</string>
+    <string name="mark_all_as_unplayed">Позначити всі як непрослухані</string>
     <string name="default_playlist">Список відтворення за замовчуванням</string>
     <string name="use_this_playlist_as_the_default_playlist">Використати цей список відтворення як список відтворення за замовчуванням.</string>
     <string name="article_unique_criteria">Критерій унікальності статті</string>

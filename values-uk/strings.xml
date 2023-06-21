@@ -403,7 +403,7 @@
     <string name="top_charts">"Найпопулярніші подкасти"</string>
     <string name="browse_top_charts">"Переглянути найпопулярніші подкасти"</string>
     <string name="after_x_minutes">"Через %1$d хвилин"</string>
-    <string name="after_current_episode_ends">"Коли поточний епізод закінчується"</string>
+    <string name="after_current_episode_ends">"Після закінчення поточного епізоду"</string>
     <string name="add_a_chapter">"Додати розділ"</string>
     <string name="time">"Час"</string>
     <string name="filter_name">"Назва фільтру"</string>

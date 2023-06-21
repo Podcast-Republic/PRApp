@@ -91,7 +91,7 @@
 
     <string name="app_name">Podcast Republic</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Автоматически удалять прослушанное из списка загрузок</string>
-    <string name="pref_downloadLocation">Загрузить подкаст в:</string>
+    <string name="pref_downloadLocation">"Загрузить подкаст в: "</string>
     <string name="downloads">Загрузки</string>
     <string name="jump_to_next_episode">К следующему выпуску</string>
     <string name="jump_to_next_chapter">К следующей главе</string>
@@ -554,7 +554,6 @@
     <string name="sign_in">Войти</string>
     <string name="sign_out">Выйти</string>
     <string name="syncing_started">Синхронизируется</string>
-    <string name="account_logged_in_s">"Вы вошли: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Синхронизировать данные о подписках и прослушанных выпусках</string>
     <string name="schedule_auto_backup_every_d_days">Делать автоматический бэкап каждый(е) %1$d дней(дня)</string>
     <string name="keep_most_recent_d_auto_backups">Сохранять %1$d популярных автобэкапа</string>
@@ -810,7 +809,7 @@
     <string name="recently_played">Недавно слушали</string>
     <string name="play_all_newer_episodes">Воспроизвести всё новее этого</string>
     <string name="see_what_s_new_in_this_version_s">Что нового в этой версии: %1$s</string>
-    <string name="enabled_buttons_">Показывать кнопки:</string>
+    <string name="enabled_buttons_">"Показывать кнопки: "</string>
     <string name="bottom_navigation_bar">Панель навигации</string>
     <string name="play_bar">Мини-плейер</string>
     <string name="can_not_edit_default_episode_filter_">Изменить стандартный фильтр нельзя!</string>
@@ -1292,4 +1291,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

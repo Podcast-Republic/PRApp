@@ -94,7 +94,7 @@
 
     <string name="app_name">Podcast Republic</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Automaticky odstrániť prehrané položky zo zoznamu sťahovaných súborov</string>
-    <string name="pref_downloadLocation">Stiahnuť podcast do:</string>
+    <string name="pref_downloadLocation">"Stiahnuť podcast do: "</string>
     <string name="downloads">Sťahovanie</string>
     <string name="jump_to_next_episode">Pamätať si aktuálnu pozíciu prehrávania</string>
     <string name="jump_to_next_chapter">Prejsť na ďalšiu kapitolu</string>                                                                     
@@ -558,7 +558,6 @@
     <string name="sign_in">Prihlásiť sa</string>
     <string name="sign_out">Odhlásiť sa</string>
     <string name="syncing_started">Synchronizácia sa začala</string>
-    <string name="account_logged_in_s">"Prihlásený účet: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synchronizácia odberov a priebehu prehrávania epizód</string>
     <string name="schedule_auto_backup_every_d_days">Naplánovať automatické zálohovanie každých %1$d dní</string>
     <string name="keep_most_recent_d_auto_backups">Ponechať najnovšie %1$d automatické zálohy</string>
@@ -817,7 +816,7 @@
     <string name="recently_played">Naposledy prehraté</string>
     <string name="play_all_newer_episodes">Prehrať všetky novšie epizódy</string>
     <string name="see_what_s_new_in_this_version_s">Pozrite sa čo je nové v tejto verzii: %s</string>
-    <string name="enabled_buttons_">Povolené tlačidlá:</string>
+    <string name="enabled_buttons_">"Povolené tlačidlá: "</string>
     <string name="bottom_navigation_bar">Spodný navigačný panel</string>
     <string name="play_bar">Panel prehrávania</string>
     <string name="can_not_edit_default_episode_filter_">Nie je možné upraviť predvolený filter epizód!</string>
@@ -1295,4 +1294,5 @@
     <string name="follow_android_system_s_orientation">Podľa nastavenia Androidu</string>
     <string name="update_avatar">Aktualizovať avatar</string>
     <string name="update_username">Aktualizovať používateľské meno</string>
+    <string name="options">Options</string>
 </resources>

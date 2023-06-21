@@ -90,7 +90,7 @@
 
     <string name="app_name">"Podcast Republic"</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Automaatselt kustuta mängitud üksus allalaadimise nimekirjast"</string>
-    <string name="pref_downloadLocation">"Lae taskuhääling:"</string>
+    <string name="pref_downloadLocation">"Lae taskuhääling: "</string>
     <string name="downloads">"Allalaadimised"</string>
     <string name="jump_to_next_episode">"Jäta hetkene taasesituse positsioon meelde"</string>
     <string name="jump_to_the_end">"Märgi lõpetatuks"</string>
@@ -557,7 +557,6 @@
     <string name="sign_in">"Sisene"</string>
     <string name="sign_out">"Logi välja"</string>
     <string name="syncing_started">"Sünkroniseerimine alustatud"</string>
-    <string name="account_logged_in_s">"Konto sisse logitud: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Sünkroniseerimise tellimus ja episoodi taasesituse progress"</string>
     <string name="schedule_auto_backup_every_d_days">"Planeeri automaatne varundamine iga %1$d päeva järelt"</string>
     <string name="keep_most_recent_d_auto_backups">"Hoia viimased %1$d automaatsed varukoopiad"</string>
@@ -812,7 +811,7 @@
     <string name="recently_played">"Hiljuti mängitud"</string>
     <string name="play_all_newer_episodes">"Esita kõik uuemad episoodid"</string>
     <string name="see_what_s_new_in_this_version_s">"Vaadake, mis on selles versioonis uus: %s"</string>
-    <string name="enabled_buttons_">"Lubatud nupud:"</string>
+    <string name="enabled_buttons_">"Lubatud nupud: "</string>
     <string name="bottom_navigation_bar">"Alumine navigeerimisriba"</string>
     <string name="play_bar">"Esita baar"</string>
     <string name="can_not_edit_default_episode_filter_">"Vaikimisi episoodi filtrit ei saa muuta!"</string>
@@ -1294,4 +1293,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

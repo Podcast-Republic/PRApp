@@ -91,7 +91,7 @@
 
     <string name="app_name">"Podcast Republic"</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Automaticky odstranit přehranou položku ze seznamu stažených"</string>
-    <string name="pref_downloadLocation">"Stáhnout podcast do:"</string>
+    <string name="pref_downloadLocation">"Stáhnout podcast do: "</string>
     <string name="downloads">"Stažené"</string>
     <string name="jump_to_next_episode">"Pamatovat si aktuální pozici přehrávání"</string>
     <string name="jump_to_the_end">"Označit jako přehrané"</string>
@@ -555,7 +555,6 @@
     <string name="sign_in">"Přihlásit se"</string>
     <string name="sign_out">"Odhlásit se"</string>
     <string name="syncing_started">"Synchronizace začala"</string>
-    <string name="account_logged_in_s">"Přihlášený účet: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Umožní synchronizaci odběrů a stavu přehrání epizod"</string>
     <string name="schedule_auto_backup_every_d_days">"Naplánovat automatické zálohování každých %1$d dnů"</string>
     <string name="keep_most_recent_d_auto_backups">"Udržovat nejnovější %1$d automatické zálohy"</string>
@@ -811,7 +810,7 @@
     <string name="recently_played">"Nedávno přehráno"</string>
     <string name="play_all_newer_episodes">"Přehrát všechny novější epizody"</string>
     <string name="see_what_s_new_in_this_version_s">"Co je nového v této verzi: %s"</string>
-    <string name="enabled_buttons_">"Povolená tlačítka:"</string>
+    <string name="enabled_buttons_">"Povolená tlačítka: "</string>
     <string name="bottom_navigation_bar">"Dolní navigační panel"</string>
     <string name="play_bar">"Panel přehravače"</string>
     <string name="can_not_edit_default_episode_filter_">"Výchozí filtr epizody nelze upravit!"</string>
@@ -1292,4 +1291,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

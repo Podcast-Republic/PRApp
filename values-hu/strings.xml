@@ -90,7 +90,7 @@
 
     <string name="app_name">Podcast Republic</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Lejátszott elemek automatikus törlése a letöltésekből</string>
-    <string name="pref_downloadLocation">Letöltési mappa: </string>
+    <string name="pref_downloadLocation">"Letöltési mappa: "</string>
     <string name="downloads">Letöltések</string>
     <string name="jump_to_next_episode">Emlékezzen a lejátszás aktuális pozíciójára</string>
     <string name="jump_to_the_end">Meghallgatottnak jelölés</string>
@@ -200,7 +200,7 @@
     <string name="view_what_s_new_in_this_version">Újdonságok ebben a verzióban</string>
     <string name="version">Verzió</string>
     <string name="about">Névjegy</string>
-    <string name="action_s">Művelet: %1$s </string>
+    <string name="action_s">Művelet: %1$s.</string>
     <string name="action">Művelet</string>
     <string name="download_only_when_connected_to_wifi">Letöltés csak WiFi kapcsolaton</string>
     <string name="add_to_new_tag">Hozzáadás új címkéhez</string>
@@ -411,7 +411,7 @@
     <string name="playing_state">Lejátszási állapot</string>
     <string name="only_include_favorited_episodes">Csak kedvenc epizódokat tartalmazzon</string>
     <string name="download_status">Letöltés állapota</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel.</string>
     <string name="continue_on_error">Folytatás hiba esetén</string>
     <string name="downloading">Letöltődő</string>
     <string name="failed">Sikertelen</string>
@@ -426,10 +426,10 @@
     <string name="dont_download_episode">Ne töltse le az epizódot</string>
     <string name="match_all_keywords">Az összes kulcsszó egyezzen</string>
     <string name="match_any_of_the_keywords">Bármely kulcsszó egyezhet</string>
-    <string name="download_episode_if_matching_all_keywords_s">Töltse le az epizódot, ha az összes kulcsszó egyezik: %1$s</string>
-    <string name="download_episode_if_matching_any_of_the_keywords_s">Töltse le az epizódot, ha bármelyik kulcsszó egyezik: %1$s</string>
-    <string name="dont_download_episode_if_matching_all_keywords_s">Ne töltse le az epizódot, ha az összes kulcsszó egyezik: %1$s</string>
-    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">Ne töltse le az epizódot, ha bármely kulcsszó egyezik: %1$s</string>
+    <string name="download_episode_if_matching_all_keywords_s">Töltse le az epizódot, ha az összes kulcsszó egyezik: %1$s.</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_s">Töltse le az epizódot, ha bármelyik kulcsszó egyezik: %1$s.</string>
+    <string name="dont_download_episode_if_matching_all_keywords_s">Ne töltse le az epizódot, ha az összes kulcsszó egyezik: %1$s.</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">Ne töltse le az epizódot, ha bármely kulcsszó egyezik: %1$s.</string>
     <string name="keywords">Kulcsszavak</string>
     <string name="enter_keywords">Adjon meg kulcsszavakat</string>
     <string name="restoring_">Visszaállítás…</string>
@@ -557,7 +557,6 @@
     <string name="sign_in">Bejelentkezés</string>
     <string name="sign_out">Kijelentkezés</string>
     <string name="syncing_started">A szinkronizálás elkezdődött</string>
-    <string name="account_logged_in_s">"Bejelentkezve: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Előfizetések és lejátszási adatok szinkronizálása</string>
     <string name="schedule_auto_backup_every_d_days">Automatikus mentés minden %1$d. nap után</string>
     <string name="keep_most_recent_d_auto_backups">Tartsa meg az utolsó %1$d automatikus mentést</string>
@@ -817,7 +816,7 @@
     <string name="recently_played">Nemrég lejátszott</string>
     <string name="play_all_newer_episodes">Az összes újabb epizód lejátszása</string>
     <string name="see_what_s_new_in_this_version_s">Tekintse meg, mik az újdonságok ebben a verzióban: %s</string>
-    <string name="enabled_buttons_">Engedélyezett gombok: </string>
+    <string name="enabled_buttons_">"Engedélyezett gombok: "</string>
     <string name="bottom_navigation_bar">Alsó navigációs sáv</string>
     <string name="play_bar">Lejátszósáv</string>
     <string name="can_not_edit_default_episode_filter_">Az alapértelmezett epizódszűrő nem szerkeszthető!</string>
@@ -1246,13 +1245,13 @@
     <string name="click_the_button_blow_if_adding_a_podcast_feed">Kattintson az alábbi gombra, ha podcast hírfolyamot ad hozzá</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Folytassa, ha szöveges vagy blog RSS hírfolyamot ad hozzá</string>
     <string name="close_app_when_moving_to_background">Alk. bezárása háttérbe helyezéskor</string>
-    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza</string>
+    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
     <string name="add_all_d_episodes_to_up_next_">Az összes (%1$d) epizód hozzáadása a \'Következő\' listához?</string>
     <string name="add_all_d_episodes_to_playlist_">Az összes (%1$d) epizód hozzáadása a lejátszólistához?</string>
     <string name="date_added">Dátum hozzáadva</string>
     <string name="dynamic_colors">Dinamikus színek</string>
-    <string name="apply_the_color_theme_based_on_your_wallpaper_">Színtéma alkalmazása a háttérkép alapján</string>
+    <string name="apply_the_color_theme_based_on_your_wallpaper_">Színtéma alkalmazása a háttérkép alapján.</string>
     <string name="loading_">Betöltés…</string>
     <string name="virtual_podcast">Virtuális podcast</string>
     <string name="chart">Diagram</string>
@@ -1286,16 +1285,17 @@
     <string name="show_empty_podcasts">Meghallgatott podcastok megjelenítése</string>
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="login_failed">Sikertelen bejelentkezés</string>
-    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
-    <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s</string>
+    <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
     <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
     <string name="reverse_portrait_screen_display_mode">Fordított fekvő</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
-    <string name="cache_size_s">Gyorsítótár mérete: %1$s </string>
+    <string name="cache_size_s">Gyorsítótár mérete: %1$s.</string>
     <string name="follow_android_system_s_orientation">Kövesse az Android rendszer orientációját</string>
     <string name="update_avatar">Avatar frissítése</string>
     <string name="update_username">Felhasználónév frissítése</string>
+    <string name="options">Options</string>
 </resources>

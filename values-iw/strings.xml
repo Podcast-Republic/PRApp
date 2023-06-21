@@ -556,7 +556,6 @@
     <string name="sign_in">"התחבר"</string>
     <string name="sign_out">"התנתק"</string>
     <string name="syncing_started">"הסנכרון החל"</string>
-    <string name="account_logged_in_s">"חשבון מחובר: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"התקדמות הרשמה והשמעת הפרק"</string>
     <string name="schedule_auto_backup_every_d_days">"תזמן גיבוי אוטומטי בכל %1$d ימים"</string>
     <string name="keep_most_recent_d_auto_backups">"שמור %1$d גיבויים אוטומטיים אחרונים"</string>
@@ -1294,4 +1293,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

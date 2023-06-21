@@ -90,7 +90,7 @@
     </string-array>
 
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Verwijder gespeelde items automatisch van downloadlijst"</string>
-    <string name="pref_downloadLocation">"Download podcast naar:"</string>
+    <string name="pref_downloadLocation">"Download podcast naar: "</string>
     <string name="downloads">"Downloads"</string>
     <string name="jump_to_next_episode">"Onthoud huidige afspeelpositie"</string>
     <string name="jump_to_the_end">"Markeer als voltooid"</string>
@@ -555,7 +555,6 @@
     <string name="sign_in">Inloggen</string>
     <string name="sign_out">Uitloggen</string>
     <string name="syncing_started">Synchronisatie begonnen</string>
-    <string name="account_logged_in_s">"Account ingelogd: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synchroniseer afspeelvoortgang abonnementen en afleveringen</string>
     <string name="schedule_auto_backup_every_d_days">Inplannen automatische backup elke %1$d dagen</string>
     <string name="keep_most_recent_d_auto_backups">Bewaar de %1$d meest recente automatische backups</string>
@@ -811,7 +810,7 @@
     <string name="recently_played">"Recent gespeeld"</string>
     <string name="play_all_newer_episodes">"Speel alle nieuwere afleveringen"</string>
     <string name="see_what_s_new_in_this_version_s">"Bekijk wat er nieuw is in deze versie: %s"</string>
-    <string name="enabled_buttons_">"Ingeschakelde knoppen:"</string>
+    <string name="enabled_buttons_">"Ingeschakelde knoppen: "</string>
     <string name="bottom_navigation_bar">"Onderste navigatiebalk"</string>
     <string name="play_bar">"Afspeelbalk"</string>
     <string name="can_not_edit_default_episode_filter_">"Kan standaardafleveringsfilter niet bewerken!"</string>
@@ -1294,4 +1293,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

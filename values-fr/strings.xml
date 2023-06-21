@@ -90,7 +90,7 @@
     </string-array>
 
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Les épisodes lus sont supprimés automatiquement de la liste de téléchargement.</string>
-    <string name="pref_downloadLocation">Télécharger les podcasts dans :</string>
+    <string name="pref_downloadLocation">"Télécharger les podcasts dans : "</string>
     <string name="downloads">Téléchargés</string>
     <string name="jump_to_next_episode">Se souvenir de la position dans la lecture en cours</string>
     <string name="jump_to_the_end">Marquer complet</string>
@@ -560,7 +560,6 @@
     <string name="sign_in">Login</string>
     <string name="sign_out">Logout</string>
     <string name="syncing_started">La synchronisation a commencé</string>
-    <string name="account_logged_in_s">"Connexion établie: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Progrès de la synchronisation et de la lecture de l'épisode"</string>
     <string name="schedule_auto_backup_every_d_days">Programmer la sauvegarde automatique tous les %1$d jours</string>
     <string name="keep_most_recent_d_auto_backups">Conserver les %1$d dernières sauvegardes automatiques</string>
@@ -816,7 +815,7 @@
     <string name="recently_played">Récement lu</string>
     <string name="play_all_newer_episodes">Lire tous les épisodes récents</string>
     <string name="see_what_s_new_in_this_version_s">Voir les nouveautés de la version : %s.</string>
-    <string name="enabled_buttons_">Boutons activés :</string>
+    <string name="enabled_buttons_">"Boutons activés : "</string>
     <string name="bottom_navigation_bar">Barre de navigation</string>
     <string name="play_bar">Barre de lecture</string>
     <string name="can_not_edit_default_episode_filter_">"Impossible de modifier le filtre d'épisode par défaut !"</string>
@@ -1300,4 +1299,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

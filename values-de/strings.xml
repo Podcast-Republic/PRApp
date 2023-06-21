@@ -556,7 +556,6 @@
     <string name="sign_in">"Anmelden"</string>
     <string name="sign_out">"Abmelden"</string>
     <string name="syncing_started">"Synchronisierung gestartet"</string>
-   <string name="account_logged_in_s">"Konto angemeldet: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Abonnements und Wiedergabe-Status der Episoden synchronisieren"</string>
     <string name="schedule_auto_backup_every_d_days">"Automatisches Backup alle %1$d Tage festlegen"</string>
     <string name="keep_most_recent_d_auto_backups">"Die letzten %1$d automatischen Backups behalten"</string>
@@ -1294,4 +1293,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

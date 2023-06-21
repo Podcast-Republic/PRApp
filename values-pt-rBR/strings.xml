@@ -90,7 +90,7 @@
     </string-array>
 
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Excluir automaticamente os episódios já reproduzidos da lista de downloads</string>
-    <string name="pref_downloadLocation">Baixar podcast para:</string>
+    <string name="pref_downloadLocation">"Baixar podcast para: "</string>
     <string name="downloads">Downloads</string>
     <string name="jump_to_next_episode">Lembrar a posição de reprodução</string>
     <string name="jump_to_the_end">Marcar como reproduzido</string>
@@ -554,7 +554,6 @@
     <string name="sign_in">"Iniciar sessão"</string>
     <string name="sign_out">"Terminar sessão"</string>
     <string name="syncing_started">"Sincronização iniciada"</string>
-    <string name="account_logged_in_s">"Conta com sessão iniciada: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Sincronizar assinaturas e progresso da reprodução do episódio"</string>
     <string name="schedule_auto_backup_every_d_days">"Agende a cópia de segurança automática a cada %1$d dias"</string>
     <string name="keep_most_recent_d_auto_backups">"Mantenha as %1$d cópias de segurança automáticas mais recentes."</string>
@@ -810,7 +809,7 @@
     <string name="recently_played">Recentemente tocado</string>
     <string name="play_all_newer_episodes">Tocar todos os episódios mais recentes</string>
     <string name="see_what_s_new_in_this_version_s">Ver o que há novo nesta versão: %s</string>
-    <string name="enabled_buttons_">Botões ativados:</string>
+    <string name="enabled_buttons_">"Botões ativados: "</string>
     <string name="bottom_navigation_bar">Barra de navegação ao fundo</string>
     <string name="play_bar">Barra de reprodução</string>
     <string name="can_not_edit_default_episode_filter_">Não é possivel editar o filtro de episódios predefinido!</string>
@@ -1294,4 +1293,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

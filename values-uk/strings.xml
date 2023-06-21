@@ -556,7 +556,6 @@
     <string name="sign_in">"Увійти"</string>
     <string name="sign_out">"Вийти з акаунту"</string>
     <string name="syncing_started">"Початок синхронізації"</string>
-    <string name="account_logged_in_s">""Вхід у систему: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Синхронізація підписок та прогресу відтворення епізодів"</string>
     <string name="schedule_auto_backup_every_d_days">"Автоматичне резервне копіювання через кожні %1$d днів"</string>
     <string name="keep_most_recent_d_auto_backups">"Зберігати останні %1$d резервні копії"</string>
@@ -658,7 +657,7 @@
     <string name="click_to_adjust_playback_speed">"Натисніть, щоб налаштувати швидкість відтворення"</string>
     <string name="click_to_set_up_sleep_timer">"Натисніть, щоб налаштувати таймер сну"</string>
     <string name="click_to_select_playback_mode">"Натисніть, щоб вибрати режим відтворення"</string>
-    <string name="percetage_value">"%d% %"</string>
+    <string name="percetage_value">"%1$d %%"</string>
     <string name="select_episodes">"Виберіть епізоди"</string>
     <string name="select_episodes_from_last_d_days">"Виберіть епізоди за останні %d днів"</string>
     <string name="select_episodes_from_all_dates">"Виберіть епізоди за всі дати"</string>
@@ -812,7 +811,7 @@
     <string name="recently_played">Нещодавно прослухані</string>
     <string name="play_all_newer_episodes">Слухати всі новіші епізоди</string>
     <string name="see_what_s_new_in_this_version_s">Що нового в цій версії: %s</string>
-    <string name="enabled_buttons_">Показувати кнопки: </string>
+    <string name="enabled_buttons_">"Показувати кнопки: "</string>
     <string name="bottom_navigation_bar">Нижня навігаційна панель</string>
     <string name="play_bar">Панель відтворення</string>
     <string name="can_not_edit_default_episode_filter_">Не можливо видалити фільтр епізодів за замовчуванням!</string>
@@ -1042,7 +1041,7 @@
     <string name="export_episode_list">Експортувати перелік епізодів</string>
     <string name="as_html_file">як HTML-файл</string>
     <string name="as_json_file">як JSON-файл</string>
-    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Показувати обкладинку подкасту, отриману з його каналу</string>
+    <string name="display_episode_artwork_retrieved_from_podcast_feed_">Показувати обкладинку подкасту, отриману з його каналу.</string>
     <string name="use_podcast_artwork_as_episode_artwork_">Використовувати обкладинку подкасту як обкладинку епізоду</string>
     <string name="use_embedded_artwork">Використовувати вбудовану обкладинку</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Надавати перевагу використанню обкладинки, отриманої із завантаженого файлу подкасту</string>
@@ -1071,7 +1070,7 @@
     <string name="rss_feed_url_can_not_be_empty_">URL-адреса RSS-каналу не може бути порожньою!</string>
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>
     <string name="remove_obsolete_episodes">Видалити застарілі епізоди</string>
-    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видалити застарілі епізоди, якщо вони більше не присутні в каналі подкасту</string>
+    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видалити застарілі епізоди, якщо вони більше не присутні в каналі подкасту.</string>
     <string name="mark_as_played">"Відмітити як прослуханий"</string>
     <string name="mark_as_unplayed">"Відмітити як непрослуханий"</string>
     <string name="swipe_left_action">Дія на свайп вліво</string>
@@ -1293,4 +1292,5 @@
     <string name="follow_android_system_s_orientation">Керуватися орієнтацією операційної системи</string>
     <string name="update_avatar">Оновити аватар</string>
     <string name="update_username">"Оновити ім'я користувача"</string>
+    <string name="options">Options</string>
 </resources>

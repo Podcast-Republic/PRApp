@@ -90,7 +90,7 @@
     </string-array>
 
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">Radera spelade avsnitt automatiskt från nedladdningslistan</string>
-    <string name="pref_downloadLocation">Spara till:</string>
+    <string name="pref_downloadLocation">"Spara till: "</string>
     <string name="downloads">Sparade</string>
     <string name="jump_to_next_episode">Spara aktuell tidpunkt</string>
     <string name="jump_to_the_end">Markera som färdigspelad</string>
@@ -562,7 +562,6 @@
     <string name="sign_in">Login</string>
     <string name="sign_out">Logout</string>
     <string name="syncing_started">Synk påbörjad</string>
-    <string name="account_logged_in_s">"Account logged in: %1$s"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synka prenumerationer och uppspelningsposition</string>
     <string name="schedule_auto_backup_every_d_days">Schemalägg backup var %1$d dag</string>
     <string name="keep_most_recent_d_auto_backups">Behåll de senaste %1$d automatiska backuperna</string>
@@ -819,7 +818,7 @@
     <string name="recently_played">Recently played</string>
     <string name="play_all_newer_episodes">Play all newer episodes</string>
     <string name="see_what_s_new_in_this_version_s">See what\'s new in this version: %s</string>
-    <string name="enabled_buttons_">Enabled buttons:</string>
+    <string name="enabled_buttons_">"Enabled buttons: "</string>
     <string name="bottom_navigation_bar">Bottom navigation bar</string>
     <string name="play_bar">Play bar</string>
     <string name="can_not_edit_default_episode_filter_">Can not edit default episode filter!</string>
@@ -1303,4 +1302,5 @@
     <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
+    <string name="options">Options</string>
 </resources>

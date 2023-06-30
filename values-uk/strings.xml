@@ -740,7 +740,7 @@
     <string name="last_played_time">Час останнього відтворення</string>
     <string name="display_unplayed_episodes_on_top">Показувати невідтворені епізоди зверху</string>
     <string name="text_size">Розмір тексту</string>
-    <string name="this_is_the_text_size_zoomed_to_d_">Це розмір тексту, збільшений до %d%%.</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">Це розмір тексту, масштабований до %d%%.</string>
     <string name="_d_seconds">%d секунд</string>
     <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">Продовжити видаляти вибрані віртуальні файли подкастів зі сховища?</string>
     <string name="show_played_date">Показувати дату відтворення</string>

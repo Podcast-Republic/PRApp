@@ -192,8 +192,8 @@
     <string name="download_all">Загрузить все</string>
     <string name="download_all_d_episodes">Загрузить все %1$d выпуски?</string>
     <string name="display">Экран</string>
-    <string name="when_i_press_next_button">При нажатии "Следующий"</string>
-    <string name="when_i_press_previous_button">При нажатии "Предыдущий"</string>
+    <string name="when_i_press_the_next_button">При нажатии "Следующий"</string>
+    <string name="when_i_press_the_previous_button">При нажатии "Предыдущий"</string>
     <string name="background_play">Фоновое воспроизведение</string>
     <string name="user_interface">Интерфейс пользователя</string>
     <string name="show_descriptions">Показать описание</string>
@@ -1292,4 +1292,6 @@
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
     <string name="options">Options</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

@@ -194,7 +194,7 @@
     <string name="download_all">Stiahnuť všetko</string>
     <string name="download_all_d_episodes">Stiahnuť všetky epizódy: %1$d?</string>
     <string name="display">Zobraziť</string>
-    <string name="when_i_press_next_button">Keď stlačím preskočiť</string>
+    <string name="when_i_press_the_next_button">Keď stlačím preskočiť</string>
     <string name="background_play">Prehrať na pozadí</string>
     <string name="user_interface">Používateľské rozhranie</string>
     <string name="show_descriptions">Zobraziť popis</string>
@@ -1165,7 +1165,7 @@
     <string name="jump_to_previous_episode">Prejsť na predchádzajúcu epizódu</string>
     <string name="jump_to_the_beginning">Prejsť na začiatok</string>
     <string name="jump_to_previous_chapter">Prejsť na predchádzajúcu kapitolu</string>
-    <string name="when_i_press_previous_button">Keď stlačím tlačidlo predchádzajúce</string>
+    <string name="when_i_press_the_previous_button">Keď stlačím tlačidlo predchádzajúce</string>
     <string name="playback_mode_single_episode_load_next">Jedna epizóda (načítať ďalšiu)</string>
     <string name="schedule_as_verb">Naplánovať</string>
     <string name="schedule_a_date">Vyberte dátum</string>
@@ -1295,4 +1295,6 @@
     <string name="update_avatar">Aktualizovať avatar</string>
     <string name="update_username">Aktualizovať používateľské meno</string>
     <string name="options">Možnosti</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

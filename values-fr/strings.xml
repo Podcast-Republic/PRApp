@@ -193,7 +193,7 @@
     <string name="download_all">"Tout télécharger"</string>
     <string name="download_all_d_episodes">Télécharger tous les %1$d épisodes ?</string>
     <string name="display">Affichage</string>
-    <string name="when_i_press_next_button">"Quand j’appuie sur suivant"</string>
+    <string name="when_i_press_the_next_button">"Quand j’appuie sur suivant"</string>
     <string name="background_play">"Lecture à l’arrière-plan"</string>
     <string name="user_interface">Interface utilisateur</string>
     <string name="show_descriptions">Montrer la description</string>
@@ -1170,7 +1170,7 @@
     <string name="jump_to_previous_episode">Aller à l\'épisode précédent</string>
     <string name="jump_to_the_beginning">Aller au début</string>
     <string name="jump_to_previous_chapter">Aller au chapitre précédent</string>
-    <string name="when_i_press_previous_button">Quand j\'appuie sur le bouton précédent</string>
+    <string name="when_i_press_the_previous_button">Quand j\'appuie sur le bouton précédent</string>
     <string name="playback_mode_single_episode_load_next">Épisode unique (chargez ensuite)</string>
     <string name="schedule_as_verb">Programme</string>
     <string name="schedule_a_date">Planifier une date</string>
@@ -1300,4 +1300,6 @@
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
     <string name="options">Options</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

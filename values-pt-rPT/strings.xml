@@ -189,7 +189,7 @@
     <string name="download_all">"Transferir tudo"</string>
     <string name="download_all_d_episodes">"Transferir todos os %1$d episódios?"</string>
     <string name="display">"Mostrar"</string>
-    <string name="when_i_press_next_button">"Ao pressionar saltar"</string>
+    <string name="when_i_press_the_next_button">"Ao pressionar saltar"</string>
     <string name="background_play">"Reprodução em segundo plano"</string>
     <string name="user_interface">"Interface do utilizador"</string>
     <string name="show_descriptions">"Mostrar a descrição"</string>
@@ -1163,7 +1163,7 @@
     <string name="jump_to_previous_episode">Ir para o episódio anterior</string>
     <string name="jump_to_the_beginning">Ir para o início</string>
     <string name="jump_to_previous_chapter">Ir para o capítulo anterior</string>
-    <string name="when_i_press_previous_button">Quando eu pressiono o botão Anterior</string>
+    <string name="when_i_press_the_previous_button">Quando eu pressiono o botão Anterior</string>
     <string name="playback_mode_single_episode_load_next">Episódio único (carregar em seguida)</string>
     <string name="schedule_as_verb">Programação</string>
     <string name="schedule_a_date">Agende uma data</string>
@@ -1294,4 +1294,6 @@
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
     <string name="options">Options</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

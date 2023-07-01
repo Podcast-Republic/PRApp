@@ -75,7 +75,7 @@
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
+    <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">"Eén aflevering toegevoegd aan afspeellijst."</item>
         <item quantity="other">"%1$d afleveringen toegevoegd aan afspeellijst."</item>
     </plurals>

@@ -75,7 +75,7 @@
         <item quantity="other">Maximum %1$d sor címként megjelenítése</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
+    <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">Egy epizód hozzáadva a lejátszólistához.</item>
         <item quantity="other">%1$d epizód hozzáadva a lejátszólistához.</item>
     </plurals>

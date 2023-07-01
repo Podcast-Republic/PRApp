@@ -105,7 +105,7 @@
         <item quantity="other">Zobraziť maximálne %1$d riadkov nadpisu.</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
+    <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">Do playlistu bola pridaná jedna epizóda.</item>
         <item quantity="few">"Do playlistu boli pridané epizódy: %1$d."</item>
         <item quantity="many">"Do playlistu boli pridané epizódy: %1$d."</item>

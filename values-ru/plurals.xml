@@ -105,7 +105,7 @@
         <item quantity="other">Отобразить не более %1$d строк заголовка.</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
+    <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">Один выпуск добавлен в плейлист.</item>
         <item quantity="few">%1$d выпуск добавлен в плейлист.</item>
         <item quantity="many">%1$d выпуск добавлен в плейлист.</item>

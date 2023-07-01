@@ -105,7 +105,7 @@
         <item quantity="other">Показувати не більше %1$d рядків назви.</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
+    <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">"%1$d епізод був доданий до списку відтворення."</item>
         <item quantity="few">"%1$d епізоди були додані до списку відтворення."</item>
         <item quantity="many">"%1$d епізодів були додані до списку відтворення."</item>

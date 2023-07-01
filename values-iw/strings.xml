@@ -190,7 +190,7 @@
     <string name="download_all">"הורד הכל"</string>
     <string name="download_all_d_episodes">"הורד את כל %1$d הפרקים?"</string>
     <string name="display">"תצוגה"</string>
-    <string name="when_i_press_next_button">"בעת לחיצה על דלג"</string>
+    <string name="when_i_press_the_next_button">"בעת לחיצה על דלג"</string>
     <string name="background_play">"הפעלה ברקע"</string>
     <string name="user_interface">"ממשק משתמש"</string>
     <string name="show_descriptions">"תיאור ההצגה"</string>
@@ -1163,7 +1163,7 @@
     <string name="jump_to_previous_episode">Jump to previous episode</string>
     <string name="jump_to_the_beginning">Jump to the beginning</string>
     <string name="jump_to_previous_chapter">Jump to previous chapter</string>
-    <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="when_i_press_the_previous_button">When I press the Previous button</string>
     <string name="playback_mode_single_episode_load_next">Single episode (load next)</string>
     <string name="schedule_as_verb">Schedule</string>
     <string name="schedule_a_date">Schedule a date</string>
@@ -1294,4 +1294,6 @@
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
     <string name="options">Options</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

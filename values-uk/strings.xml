@@ -740,7 +740,7 @@
     <string name="last_played_time">Час останнього відтворення</string>
     <string name="display_unplayed_episodes_on_top">Показувати невідтворені епізоди зверху</string>
     <string name="text_size">Розмір тексту</string>
-    <string name="this_is_the_text_size_zoomed_to_d_">Це розмір тексту, збільшений до %d%%.</string>
+    <string name="this_is_the_text_size_zoomed_to_d_">Це розмір тексту, масштабований до %d%%.</string>
     <string name="_d_seconds">%d секунд</string>
     <string name="continue_to_delete_the_selected_virtual_podcast_files_from_your_storage_">Продовжити видаляти вибрані віртуальні файли подкастів зі сховища?</string>
     <string name="show_played_date">Показувати дату відтворення</string>
@@ -1293,6 +1293,6 @@
     <string name="update_avatar">Оновити аватар</string>
     <string name="update_username">"Оновити ім'я користувача"</string>
     <string name="options">Опції</string>
-    <string name="display_the_stream_label">Display the Stream label</string>
-    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
+    <string name="display_the_stream_label">Показувати позначку «Стрім»</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Показувати позначку «Стрім» у разі, якщо епізод не завантажений.</string>
 </resources>

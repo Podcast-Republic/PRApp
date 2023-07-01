@@ -190,7 +190,7 @@
     <string name="download_all">"Stáhnout vše"</string>
     <string name="download_all_d_episodes">"Stahovat všechny epizody %1$d ?"</string>
     <string name="display">"Zobrazit"</string>
-    <string name="when_i_press_next_button">"Když stisknu přeskočit"</string>
+    <string name="when_i_press_the_next_button">"Když stisknu přeskočit"</string>
     <string name="background_play">"Přehrávání na pozadí"</string>
     <string name="user_interface">"Uživatelské rozhraní"</string>
     <string name="show_descriptions">"Ukázat popis"</string>
@@ -1162,7 +1162,7 @@
     <string name="jump_to_previous_episode">Skočit na předchozí epizodu</string>
     <string name="jump_to_the_beginning">Skočit na začátek</string>
     <string name="jump_to_previous_chapter">Skočit na předchozí kapitolu</string>
-    <string name="when_i_press_previous_button">Když stisknu tlačítko předchozí</string>
+    <string name="when_i_press_the_previous_button">Když stisknu tlačítko předchozí</string>
     <string name="playback_mode_single_episode_load_next">Jedna epizoda (načíst další)</string>
     <string name="schedule_as_verb">Plán</string>
     <string name="schedule_a_date">Naplánujte si datum</string>
@@ -1292,4 +1292,6 @@
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
     <string name="options">Options</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

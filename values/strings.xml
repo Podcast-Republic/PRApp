@@ -197,8 +197,8 @@
     <string name="download_all">Download all</string>
     <string name="download_all_d_episodes">Download all %1$d episodes?</string>
     <string name="display">Display</string>
-    <string name="when_i_press_next_button">When I press Next button</string>
-    <string name="when_i_press_previous_button">When I press Previous button</string>
+    <string name="when_i_press_the_next_button">When I press the Next button</string>
+    <string name="when_i_press_the_previous_button">When I press the Previous button</string>
     <string name="background_play">Background play</string>
     <string name="user_interface">User interface</string>
     <string name="show_descriptions">Show descriptions</string>
@@ -1316,4 +1316,6 @@
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
     <string name="options">Options</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

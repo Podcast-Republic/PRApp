@@ -189,7 +189,7 @@
     <string name="download_all">Az összes letöltése</string>
     <string name="download_all_d_episodes">Az összes letöltése %1$d ?</string>
     <string name="display">Megjelenés</string>
-    <string name="when_i_press_next_button">Skip (ugrás) megnyomása esetén</string>
+    <string name="when_i_press_the_next_button">Skip (ugrás) megnyomása esetén</string>
     <string name="background_play">Lejátszás háttérben</string>
     <string name="user_interface">Felhasználói felület</string>
     <string name="show_descriptions">Leírások megjelenítése</string>
@@ -1168,7 +1168,7 @@
     <string name="jump_to_previous_episode">Ugrás az előző epizódra</string>
     <string name="jump_to_the_beginning">Ugrás az elejére</string>
     <string name="jump_to_previous_chapter">Ugrás az előző fejezetre</string>
-    <string name="when_i_press_previous_button">Az Előző gomb megnyomásakor</string>
+    <string name="when_i_press_the_previous_button">Az Előző gomb megnyomásakor</string>
     <string name="playback_mode_single_episode_load_next">Egy epizód (következő betöltésével)</string>
     <string name="schedule_as_verb">Időzítés</string>
     <string name="schedule_a_date">Időzítés dátumra</string>
@@ -1297,5 +1297,7 @@
     <string name="follow_android_system_s_orientation">Kövesse az Android rendszer orientációját</string>
     <string name="update_avatar">Avatar frissítése</string>
     <string name="update_username">Felhasználónév frissítése</string>
-    <string name="options">Options</string>
+    <string name="options">Beállítások</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

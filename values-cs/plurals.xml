@@ -105,7 +105,7 @@
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
+    <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">Epizoda přidána do seznamu.</item>
         <item quantity="few">"Epizody %1$d byly přidány do seznamu."</item>
         <item quantity="many">"Epizody %1$d byly přidány do seznamu."</item>

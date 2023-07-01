@@ -135,8 +135,8 @@
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
-        <item quantity="zero">No episode have been added to playlist.</item>
+    <plurals name="episodes_have_been_added_to_playlists">
+        <item quantity="zero">No episode have been added to playlists.</item>
         <item quantity="one">"تم إضافة حلقة واحدة الى قائمة التشغيل"</item>
         <item quantity="two">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
         <item quantity="few">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>

@@ -197,8 +197,8 @@
     <string name="download_all">Prenesi vse</string>
     <string name="download_all_d_episodes">Prenos vseh %1$d epizod?</string>
     <string name="display">Zaslon</string>
-    <string name="when_i_press_next_button">Ob dotiku možnosti Naslednji</string>
-    <string name="when_i_press_previous_button">Ob dotiku možnosti Prejšnji</string>
+    <string name="when_i_press_the_next_button">Ob dotiku možnosti Naslednji</string>
+    <string name="when_i_press_the_previous_button">Ob dotiku možnosti Prejšnji</string>
     <string name="background_play">Predvajanje v ozadju</string>
     <string name="user_interface">Uporabniški vmesnik</string>
     <string name="show_descriptions">Pokaži opise</string>
@@ -1295,4 +1295,6 @@
     <string name="update_avatar">Update avatar</string>
     <string name="update_username">Update username</string>
     <string name="options">Options</string>
+    <string name="display_the_stream_label">Display the Stream label</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
 </resources>

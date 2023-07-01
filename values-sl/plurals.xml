@@ -105,7 +105,7 @@
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
 
-    <plurals name="episodes_have_been_added_to_playlist">
+    <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">Ena epizoda je bila dodana na seznam.</item>
         <item quantity="two">"%1$d epizod je bilo dodanih na seznam."</item>
         <item quantity="few">"%1$d epizod je bilo dodanih na seznam."</item>

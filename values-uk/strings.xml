@@ -1293,6 +1293,6 @@
     <string name="update_avatar">Оновити аватар</string>
     <string name="update_username">"Оновити ім'я користувача"</string>
     <string name="options">Опції</string>
-    <string name="display_the_stream_label">Display the Stream label</string>
-    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
+    <string name="display_the_stream_label">Показувати позначку «Стрім»</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Показувати позначку «Стрім» у разі, якщо епізод не завантажений.</string>
 </resources>

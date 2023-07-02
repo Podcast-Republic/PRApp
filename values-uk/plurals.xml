@@ -66,15 +66,15 @@
     <plurals name="mark_all_d_articles_as_read">
         <item quantity="one">Позначити %1$d статтю як прочитану?</item>
         <item quantity="few">Позначити всі ці %1$d статті як прочитані?</item>
-        <item quantity="many">Позначити всі ці %1$d статтей як прочитані?</item>
-        <item quantity="other">Позначити всі ці %1$d статтей як прочитані?</item>
+        <item quantity="many">Позначити всі ці %1$d статей як прочитані?</item>
+        <item quantity="other">Позначити всі ці %1$d статей як прочитані?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
         <item quantity="one">Позначити %1$d статтю як непрочитану?</item>
         <item quantity="few">Позначити всі ці %1$d статті як непрочитані?</item>
-        <item quantity="many">Позначити всі ці %1$d статтей як непрочитані?</item>
-        <item quantity="other">Позначити всі ці %1$d статтей як непрочитані?</item>
+        <item quantity="many">Позначити всі ці %1$d статей як непрочитані?</item>
+        <item quantity="other">Позначити всі ці %1$d статей як непрочитані?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">

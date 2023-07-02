@@ -1273,7 +1273,7 @@
     <string name="include_episodes_matching_the_keywords_">Включити епізоди, що відповідають ключовим словам.</string>
     <string name="exclude_episodes_matching_the_keywords_">Виключити епізоди, що відповідають ключовим словам.</string>
     <string name="clear_list">Очистити список</string>
-    <string name="podcast_has_no_default_playlists_message">Цей подкаст не має стандартних списків відтворення. Перейдіть до налаштувань подкасту, щоб налаштувати списки відтворення за замовчуванням.</string>
+    <string name="podcast_has_no_default_playlists_message">Цей подкаст не має стандартних плейлистів. Перейдіть до налаштувань подкасту, щоб встановити їх.</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Відсутній Wi-Fi. Оновити канал через мобільний інтернет один раз?</string>
     <string name="mark_all_previous_articles_as_unread">Позначити всі попередні статті як непрочитані</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Позначити всі статті, опубліковані до цієї статті (%1$s), як непрочитані?</string>

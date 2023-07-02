@@ -492,7 +492,7 @@
     <string name="error_episode_still_downloading">"Помилка: епізод все ще завантажується"</string>
     <string name="disabled">"Вимкнено"</string>
     <string name="click_to_open_full_screen_player_view">"Натисніть, щоб відкрити вікно повноекранного перегляду"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Зберігайте останні %1$d завантажень для кожного подкасту"</string>
+    <string name="keep_latest_x_downloads_for_each_podcast">"Зберігати %1$d останніх завантажень для кожного подкасту"</string>
     <string name="radio_stations">"Радіостанції"</string>
     <string name="radios">Радіо</string>
     <string name="stations">"Станції"</string>
@@ -557,9 +557,9 @@
     <string name="sign_out">"Вийти з акаунту"</string>
     <string name="syncing_started">"Початок синхронізації"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Синхронізація підписок та прогресу відтворення епізодів"</string>
-    <string name="schedule_auto_backup_every_d_days">"Автоматичне резервне копіювання через кожні %1$d днів"</string>
-    <string name="keep_most_recent_d_auto_backups">"Зберігати останні %1$d резервні копії"</string>
-    <string name="save_auto_backup_to_s">"Автоматичне резервне копіювання зберегти до: %1$s"</string>
+    <string name="schedule_auto_backup_every_d_days">"Запланувати автоматичне резервне копіювання через кожні %1$d днів"</string>
+    <string name="keep_most_recent_d_auto_backups">"Зберігати %1$d останніх резервних копій"</string>
+    <string name="save_auto_backup_to_s">"Автоматичне резервне копіювання зберегти в: %1$s"</string>
     <string name="enable_auto_backup_of_app_settings_and_database">"Увімкнути автоматичне резервне копіювання налаштувань додатка та бази даних"</string>
     <string name="schedule_backup">"Запланувати резервне копіювання"</string>
     <string name="backups_to_keep">"Резервні копії для збереження"</string>

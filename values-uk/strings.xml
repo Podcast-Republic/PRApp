@@ -108,7 +108,7 @@
     <string name="unplayed">"Непрослухані"</string>
     <string name="played">"Прослухані"</string>
     <string name="country_text">"Країна / регіон"</string>
-    <string name="organize_podcasts">"Організуйте подкасти"</string>
+    <string name="organize_podcasts">"Організувати подкасти"</string>
     <string name="add_podcasts">"Додати подкаст"</string>
     <string name="add_a_podcast_by_url">"Додати подкаст за URL-адресою"</string>
     <string name="all">"Всі"</string>
@@ -493,7 +493,7 @@
     <string name="disabled">"Вимкнено"</string>
     <string name="click_to_open_full_screen_player_view">"Натисніть, щоб відкрити вікно повноекранного перегляду"</string>
     <string name="keep_the_latest_x_downloads_for_each_podcast_">"Зберігати %1$d останніх завантажень для кожного подкасту"</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Зберігати %1$d останніх завантажень для кожного подкасту"</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Зберігати %1$d останніх завантажень цього подкасту"</string>
     <string name="radio_stations">"Радіостанції"</string>
     <string name="radios">Радіо</string>
     <string name="stations">"Станції"</string>
@@ -639,7 +639,7 @@
     <string name="hide_podcast_title">"Сховати назву подкасту"</string>
     <string name="no_download_directory_prompt_message">"Ви ще не налаштували каталог завантаження подкасту. Налаштувати зараз?"</string>
     <string name="at_least_one_playlist_is_required_">"Необхідна наявність хоча б одного списку відтворення!"</string>
-    <string name="manage_tags">"Керування тегами"</string>
+    <string name="manage_tags">"Керувати тегами"</string>
     <string name="episode_filters">"Фільтри для епізодів"</string>
     <string name="manage_episode_filters">"Управління фільтрами для епізодів"</string>
     <string name="episode_filter">"Фільтр для епізодів"</string>

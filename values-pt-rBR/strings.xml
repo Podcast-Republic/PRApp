@@ -490,7 +490,8 @@
     <string name="error_episode_still_downloading">"Erro: download ainda em andamento."</string>
     <string name="disabled">"Desativado"</string>
     <string name="click_to_open_full_screen_player_view">"Puxe para cima para abrir o player em tela inteira!"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Mantenha os últimos %1$d downloads para cada podcast"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Mantenha os últimos %1$d downloads para cada podcast."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Mantenha os últimos %1$d downloads para cada podcast."</string>
     <string name="radio_stations">"Estações de rádio"</string>
     <string name="radios">Rádios</string>
     <string name="stations">"Estações"</string>

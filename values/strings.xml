@@ -515,7 +515,8 @@
     <string name="error_episode_still_downloading">Error: episode still downloading.</string>
     <string name="disabled">Disabled</string>
     <string name="click_to_open_full_screen_player_view">Click to open full screen player view.</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">Keep latest %1$d downloads for each podcast.</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">Keep the latest %1$d downloads for each podcast.</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">Keep the latest %1$d downloads of this podcast.</string>
     <string name="radio_stations">Radio stations</string>
     <string name="radios">Radios</string>
     <string name="stations">Stations</string>

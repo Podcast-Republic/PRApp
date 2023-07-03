@@ -490,7 +490,8 @@
     <string name="error_episode_still_downloading">"Erro: episódio ainda em transferência."</string>
     <string name="disabled">"Desactivado"</string>
     <string name="click_to_open_full_screen_player_view">"Puxe-me para cima para abrir o leitor de ecrã inteiro!"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Mantenha as últimas %1$d transferências para cada podcast"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Mantenha as últimas %1$d transferências para cada podcast."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Mantenha as últimas %1$d transferências para cada podcast."</string>
     <string name="radio_stations">"Estações de rádio"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Estações"</string>

@@ -492,7 +492,8 @@
     <string name="error_episode_still_downloading">Hata: bölüm yine de indiriliyor</string>
     <string name="disabled">Devre dışı</string>
     <string name="click_to_open_full_screen_player_view">Tam ekran oynatma açmak için yukarı çekin!</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">Her bir podcast için en son %1$d indirmeyi sakla</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">Her bir podcast için en son %1$d indirmeyi sakla.</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">Her bir podcast için en son %1$d indirmeyi sakla.</string>
     <string name="radio_stations">Radyo istasyonları</string>
     <string name="radios">Radios</string>
     <string name="stations">İstasyonlar</string>

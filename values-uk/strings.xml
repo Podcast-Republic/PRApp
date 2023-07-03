@@ -492,7 +492,8 @@
     <string name="error_episode_still_downloading">"Помилка: епізод все ще завантажується"</string>
     <string name="disabled">"Вимкнено"</string>
     <string name="click_to_open_full_screen_player_view">"Натисніть, щоб відкрити вікно повноекранного перегляду"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Зберігати %1$d останніх завантажень для кожного подкасту"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Зберігати %1$d останніх завантажень для кожного подкасту"</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Зберігати %1$d останніх завантажень для кожного подкасту"</string>
     <string name="radio_stations">"Радіостанції"</string>
     <string name="radios">Радіо</string>
     <string name="stations">"Станції"</string>

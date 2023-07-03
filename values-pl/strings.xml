@@ -490,7 +490,8 @@
     <string name="error_episode_still_downloading">Błąd: odcinek ciągle jest pobierany</string>
     <string name="disabled">Wyłączone</string>
     <string name="click_to_open_full_screen_player_view">Kliknij, aby wyświetlić pełnoekranowy odtwarzacz</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">Zachowaj ostatnie %1$d pobranych odcinków każdego podcastu</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">Zachowaj ostatnie %1$d pobranych odcinków każdego podcastu.</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">Zachowaj ostatnie %1$d pobranych odcinków każdego podcastu.</string>
     <string name="radio_stations">Stacje radiowe</string>
     <string name="radios">Radia</string>
     <string name="stations">Stacje</string>

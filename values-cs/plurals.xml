@@ -28,13 +28,6 @@
         <item quantity="other">Zobrazí posledních %d epizod.</item>
     </plurals>
 
-    <plurals name="keep_latest_n_downloads">
-        <item quantity="one">Zachovat nejnovější %1$d stažení.</item>
-        <item quantity="few">Zachovat nejnovějších %1$d stažení.</item>
-        <item quantity="many">Zachovat nejnovějších %1$d stažení.</item>
-        <item quantity="other">Zachovat nejnovějších %1$d stažení.</item>
-    </plurals>
-
     <plurals name="mark_all_d_episodes_as_played">
         <item quantity="one">Označit všechny epizody %1$d jako přehrané?</item>
         <item quantity="few">Označit všechny epizody %1$d jako přehrané?</item>

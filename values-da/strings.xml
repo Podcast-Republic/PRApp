@@ -493,7 +493,8 @@
     <string name="error_episode_still_downloading">"Fejl: Afsnit downloades stadig"</string>
     <string name="disabled">"Deaktiveret"</string>
     <string name="click_to_open_full_screen_player_view">"Klik for at vise afspilleren i fuld skærm"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Behold de seneste %1$d downloads for hver podcast"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Behold de seneste %1$d downloads for hver podcast."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Behold de seneste %1$d downloads for hver podcast."</string>
     <string name="radio_stations">"Radiostationer"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Stationer"</string>

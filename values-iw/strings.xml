@@ -492,7 +492,8 @@
     <string name="error_episode_still_downloading">"שגיאה: פרק עדיין יורד"</string>
     <string name="disabled">"לא פעיל"</string>
     <string name="click_to_open_full_screen_player_view">"גרור אותי למעלה בכדי לפתוח נגן במסך מלא!"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"שמור %1$d הורדות אחרונות בכל פודקאסט"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"שמור %1$d הורדות אחרונות בכל פודקאסט"</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"שמור %1$d הורדות אחרונות בכל פודקאסט"</string>
     <string name="radio_stations">"תחנות רדיו"</string>
     <string name="radios">"רדיו"</string>
     <string name="stations">"תחנות"</string>

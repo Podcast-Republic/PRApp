@@ -406,7 +406,8 @@
     <string name="keep_downloads">Velg antall nedlastinger å beholde</string>
     <string name="keep_favorite_episodes">Behold favoritter</string>
     <string name="keep_in_playlists">Behold i spillelister</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">Behold de %1$d siste nedlastingene for hver podcast</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">Behold de %1$d siste nedlastingene for hver podcast.</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">Behold de %1$d siste nedlastingene for hver podcast.</string>
     <string name="keep_most_recent_d_auto_backups">Behold de %1$d siste automatiske sikkerhetskopiene</string>
     <string name="keep_playing">Spill av som normalt</string>
     <string name="keep_screen_always_on">Holder skjermen påslått hele tiden.</string>

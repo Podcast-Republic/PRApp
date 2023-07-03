@@ -24,12 +24,6 @@
         <item quantity="other">Afficher les derniers %d épisodes.</item>
     </plurals>
 
-    <plurals name="keep_latest_n_downloads">
-        <item quantity="one">%1$d derniers téléchargement.</item>
-        <item quantity="many">%1$d derniers téléchargements.</item>
-        <item quantity="other">%1$d derniers téléchargements.</item>
-    </plurals>
-
     <plurals name="mark_all_d_episodes_as_played">
         <item quantity="one">Mark %1$d episode as played ?</item>
         <item quantity="many">Mark all %1$d episodes as played ?</item>

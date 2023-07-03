@@ -491,7 +491,8 @@
     <string name="error_episode_still_downloading">"Error: El episodio aún se está descargando"</string>
     <string name="disabled">"Desactivado"</string>
     <string name="click_to_open_full_screen_player_view">"Tocar para abrir la vista del reproductor a pantalla completa"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Mantener las últimas %1$d descargas para cada podcast"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Mantener las últimas %1$d descargas para cada podcast."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Mantener las últimas %1$d descargas para cada podcast."</string>
     <string name="radio_stations">"Emisoras de radio"</string>
     <string name="radios">"Radios"</string>
     <string name="stations">"Emisoras"</string>

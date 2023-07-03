@@ -492,7 +492,8 @@
     <string name="error_episode_still_downloading">"Viga: episood allalaadimisel"</string>
     <string name="disabled">"Keelatud"</string>
     <string name="click_to_open_full_screen_player_view">"Tõmba mind üles, et avada täisekraanil mängija!"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</string>
     <string name="radio_stations">"Raadiojaamad"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Jaamad"</string>

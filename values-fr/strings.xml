@@ -496,7 +496,8 @@
     <string name="error_episode_still_downloading">"Erreur: l'épisode est toujours en cours de chargement"</string>
     <string name="disabled">Désactivé</string>
     <string name="click_to_open_full_screen_player_view">Faites moi glisser vers le haut pour ouvrir le lecteur en plein écran!</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">Garder les %1$d derniers épisodes de chaque podcast</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">Garder les %1$d derniers épisodes de chaque podcast.</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">Garder les %1$d derniers épisodes de chaque podcast.</string>
     <string name="radio_stations">Stations radio</string>
     <string name="radios">Radios</string>
     <string name="stations">Stations</string>

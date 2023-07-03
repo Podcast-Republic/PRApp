@@ -491,7 +491,8 @@
     <string name="error_episode_still_downloading">"Fout: aflevering download nog steeds"</string>
     <string name="disabled">"Uitgeschakeld"</string>
     <string name="click_to_open_full_screen_player_view">"Trek me omhoog om de full-screen speler te openen!"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Bewaar de laatste %1$d downloads voor elke podcast"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Bewaar de laatste %1$d downloads voor elke podcast."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Bewaar de laatste %1$d downloads voor elke podcast."</string>
     <string name="radio_stations">"Radiozenders"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Zenders"</string>

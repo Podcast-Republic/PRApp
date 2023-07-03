@@ -492,7 +492,8 @@
     <string name="error_episode_still_downloading">"Fehler: Episode wird noch heruntergeladen"</string>
     <string name="disabled">"Deaktiviert"</string>
     <string name="click_to_open_full_screen_player_view">"Hier klicken, um Vollbild-Modus zu aktivieren!"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Behalte die letzten %1$d Downloads pro Podcast"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Behalte die letzten %1$d Downloads pro Podcast."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Behalte die letzten %1$d Downloads pro Podcast."</string>
     <string name="radio_stations">"Radiosender"</string>
     <string name="radios">"Radios"</string>
     <string name="stations">"Sender"</string>

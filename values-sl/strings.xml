@@ -497,7 +497,8 @@
     <string name="error_episode_still_downloading">Napaka: epizoda se še prenaša.</string>
     <string name="disabled">Onemogočeno</string>
     <string name="click_to_open_full_screen_player_view">Dotakni se, da se odpre celozaslonski prikaz predvajalnika.</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">Ohrani zadnjih %1$d prenosov vsakega podkasta.</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">Ohrani zadnjih %1$d prenosov vsakega podkasta.</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">Ohrani zadnjih %1$d prenosov vsakega podkasta.</string>
     <string name="radio_stations">Radijske postaje</string>
     <string name="radios">Radiji</string>
     <string name="stations">Postaje</string>

@@ -2,86 +2,97 @@
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one">"Você ouviu: %1$d episódio, %2$s."</item>
+        <item quantity="many">"Você ouviu: %1$d episódios, %2$s."</item>
         <item quantity="other">"Você ouviu: %1$d episódios, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
         <item quantity="one">%1$d linha</item>
+        <item quantity="many">%1$d linhas</item>
         <item quantity="other">%1$d linhas</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
         <item quantity="one">Últimos %1$d episódio.</item>
+        <item quantity="many">Últimos %1$d episódios.</item>
         <item quantity="other">Últimos %1$d episódios.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
         <item quantity="one">Exibir %d episódio mais recentes.</item>
+        <item quantity="many">Exibir %d episódios mais recentes.</item>
         <item quantity="other">Exibir %d episódios mais recentes.</item>
-    </plurals>
-
-    <plurals name="keep_latest_n_downloads">
-        <item quantity="one">Último(s) %1$d download.</item>
-        <item quantity="other">Último(s) %1$d downloads.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
         <item quantity="one">Marcar %1$d episódio como reproduzido?</item>
+        <item quantity="many">Marcar todos os %1$d episódios como reproduzidos?</item>
         <item quantity="other">Marcar todos os %1$d episódios como reproduzidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
         <item quantity="one">Marcar %1$d episódio como não reproduzido?</item>
+        <item quantity="many">Marcar todos os %1$d episódios como não reproduzidos?</item>
         <item quantity="other">Marcar todos os %1$d episódios como não reproduzidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
         <item quantity="one">Marcar %1$d podcast como reproduzido?</item>
+        <item quantity="many">Marcar todos os %1$d podcasts como reproduzidos?</item>
         <item quantity="other">Marcar todos os %1$d podcasts como reproduzidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
         <item quantity="one">Marcar %1$d feed como lido?</item>
+        <item quantity="many">Marcar todos os %1$d feeds como lidos?</item>
         <item quantity="other">Marcar todos os %1$d feeds como lidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
         <item quantity="one">Marcar todos os %d artigo como lidos?</item>
+        <item quantity="many">Marcar todos os %d artigos como lidos?</item>
         <item quantity="other">Marcar todos os %d artigos como lidos?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
         <item quantity="one">Mark %1$d article as unread?</item>
+        <item quantity="many">Mark all %1$d articles as unread?</item>
         <item quantity="other">Mark all %1$d articles as unread?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">Baixar automaticamente até %d episódio novos do podcast que está a tocar.</item>
+        <item quantity="many">Baixar automaticamente até %d episódios novos do podcast que está a tocar.</item>
         <item quantity="other">Baixar automaticamente até %d episódios novos do podcast que está a tocar.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
         <item quantity="one">Download automático de até %d episódio mais antigos e não reproduzidos do podcast atualmente em reprodução.</item>
+        <item quantity="many">Download automático de até %d episódios mais antigos e não reproduzidos do podcast atualmente em reprodução.</item>
         <item quantity="other">Download automático de até %d episódios mais antigos e não reproduzidos do podcast atualmente em reprodução.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
         <item quantity="one">Baixar automaticamente até %1$d episódio mais recentes quando novos episódios são procurados.</item>
+        <item quantity="many">Baixar automaticamente até %1$d episódios mais recentes quando novos episódios são procurados.</item>
         <item quantity="other">Baixar automaticamente até %1$d episódios mais recentes quando novos episódios são procurados.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
         <item quantity="one">Display maximum %1$d line of title.</item>
+        <item quantity="many">Display maximum %1$d lines of title.</item>
         <item quantity="other">Display maximum %1$d lines of title.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">Um item foi adicionado à playlist.</item>
+        <item quantity="many">"%1$d itens foram adicionados à playlist."</item>
         <item quantity="other">"%1$d itens foram adicionados à playlist."</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
         <item quantity="one">Um item foi adicionado aos downloads.</item>
+        <item quantity="many">"%1$d itens foram adicionados aos downloads."</item>
         <item quantity="other">"%1$d itens foram adicionados aos downloads."</item>
     </plurals>
 

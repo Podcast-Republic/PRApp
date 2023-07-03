@@ -491,7 +491,8 @@
     <string name="error_episode_still_downloading">"Chyba: epizoda se stahuje"</string>
     <string name="disabled">"Zakázáno"</string>
     <string name="click_to_open_full_screen_player_view">"Klepnutím otevřete zobrazení přehrávače na celou obrazovku"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"Udržovat nejnovějších %1$d stahování pro každý podcast"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Udržovat nejnovějších %1$d stahování pro každý podcast."</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Udržovat nejnovějších %1$d stahování pro každý podcast."</string>
     <string name="radio_stations">"Rozhlasové stanice"</string>
     <string name="radios">"Rádio"</string>
     <string name="stations">"Stanice"</string>

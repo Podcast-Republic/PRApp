@@ -492,7 +492,8 @@
     <string name="error_episode_still_downloading">"خطأ: الحلقة لا تزال في مرحلة التنزيل"</string>
     <string name="disabled">"معطل"</string>
     <string name="click_to_open_full_screen_player_view">"سحب للأعلى لفتح التشغيل ملء الشاشة!"</string>
-    <string name="keep_latest_x_downloads_for_each_podcast">"حافظ على أحدث %d التنزيلات لكل بودكاست"</string>
+    <string name="keep_the_latest_x_downloads_for_each_podcast_">"حافظ على أحدث %d التنزيلات لكل بودكاست"</string>
+    <string name="keep_the_latest_x_downloads_of_this_podcast_">"حافظ على أحدث %d التنزيلات لكل بودكاست"</string>
     <string name="radio_stations">"محطه إذاعيه"</string>
     <string name="radios">Radios</string>
     <string name="stations">"محطات"</string>

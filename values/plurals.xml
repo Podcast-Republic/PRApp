@@ -20,11 +20,6 @@
         <item quantity="other">Display latest %1$d episodes.</item>
     </plurals>
 
-    <plurals name="keep_latest_n_downloads">
-        <item quantity="one">Keep latest %1$d download.</item>
-        <item quantity="other">Keep latest %1$d downloads.</item>
-    </plurals>
-
     <plurals name="mark_all_d_episodes_as_played">
         <item quantity="one">Mark %1$d episode as played?</item>
         <item quantity="other">Mark all %1$d episodes as played?</item>

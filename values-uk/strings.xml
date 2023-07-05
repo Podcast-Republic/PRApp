@@ -1152,7 +1152,7 @@
     <string name="time_unit_minute_single_letter_format">Х</string>
     <string name="time_unit_second_single_letter_format">С</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%d с.</string>
-    <string name="playback_speed_shortcuts">Швидкий вибір швидкостей</string>
+    <string name="playback_speed_shortcuts">Збережені швидкості</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Перемістити усі файли з «%1$s» до нового каталогу завантажень «%2$s»?</string>
     <string name="article_text_size">Розмір тексту в статтях</string>
     <string name="apply_this_change_to_all_rss_feeds">Застосувати цю зміну до всіх RSS-каналів?</string>

@@ -188,7 +188,6 @@
     <string name="remove">"הסרה"</string>
     <string name="redownload">"הורדה מחדש"</string>
     <string name="download_all">"הורד הכל"</string>
-    <string name="download_all_d_episodes">"הורד את כל %1$d הפרקים?"</string>
     <string name="display">"תצוגה"</string>
     <string name="when_i_press_the_next_button">"בעת לחיצה על דלג"</string>
     <string name="background_play">"הפעלה ברקע"</string>
@@ -402,7 +401,6 @@
     <string name="completed_downloads">"הושלם"</string>
     <string name="top_charts">"מומלצים"</string>
     <string name="browse_top_charts">"עיין במומלצים"</string>
-    <string name="after_x_minutes">"בעוד %1$d דקות"</string>
     <string name="after_current_episode_ends">"בסיום הפרק הנוכחי"</string>
     <string name="add_a_chapter">"הוסף סימניית פרק"</string>
     <string name="time">"זמן"</string>
@@ -492,8 +490,6 @@
     <string name="error_episode_still_downloading">"שגיאה: פרק עדיין יורד"</string>
     <string name="disabled">"לא פעיל"</string>
     <string name="click_to_open_full_screen_player_view">"גרור אותי למעלה בכדי לפתוח נגן במסך מלא!"</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">"שמור %1$d הורדות אחרונות בכל פודקאסט"</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">"שמור %1$d הורדות אחרונות בכל פודקאסט"</string>
     <string name="radio_stations">"תחנות רדיו"</string>
     <string name="radios">"רדיו"</string>
     <string name="stations">"תחנות"</string>
@@ -558,8 +554,6 @@
     <string name="sign_out">"התנתק"</string>
     <string name="syncing_started">"הסנכרון החל"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"התקדמות הרשמה והשמעת הפרק"</string>
-    <string name="schedule_auto_backup_every_d_days">"תזמן גיבוי אוטומטי בכל %1$d ימים"</string>
-    <string name="keep_most_recent_d_auto_backups">"שמור %1$d גיבויים אוטומטיים אחרונים"</string>
     <string name="save_auto_backup_to_s">"שמור גיבוי אוטומטי ל: %1$s"</string>
     <string name="enable_auto_backup_of_app_settings_and_database">"אפשר גיבוי אוטומטי של הגדרות האפליקציה ומסד הנתונים"</string>
     <string name="schedule_backup">"גבה לוח זמנים"</string>
@@ -595,7 +589,6 @@
     <string name="remove_favorite">"הסר ממועדפים"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"סמן את כל הפרקים שפורסמו קודם לפרק זה [ %1$s ] כפי כנוגנו?"</string>
     <string name="exporting">"ייצוא"</string>
-    <string name="extend_s_minutes">"הוסף %1$d דקות"</string>
     <string name="pick_a_time">"בחר מועד"</string>
     <string name="updating_podcasts">"מעדכן פודקאסטים"</string>
     <string name="skip_ending">"דלג על סוף הפרק"</string>
@@ -951,8 +944,6 @@
     <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
     <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
-    <string name="_d_minutes">%1$d minutes</string>
-    <string name="time_unit_minutes">"דקות"</string>
     <string name="greater_than">"יותר מאשר"</string>
     <string name="less_than">"פחות מאשר"</string>
     <string name="has_duration">Has duration</string>
@@ -1001,8 +992,6 @@
     <string name="delete_played_episode">Delete played episode</string>
     <string name="copy_files_to_download_directory">Copy files to download directory</string>
     <string name="move_files_to_download_directory">Move files to download directory</string>
-    <string name="greater_than_d_minutes">&gt; %1$d minutes</string>
-    <string name="less_than_d_minutes">&lt; %1$d minutes</string>
     <string name="jump_to_next_chapter">Jump to next chapter</string>
     <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
     <string name="true_crime">True crime</string>
@@ -1243,8 +1232,6 @@
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
     <string name="date_added">Date added</string>
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>

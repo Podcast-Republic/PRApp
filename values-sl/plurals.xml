@@ -112,4 +112,88 @@
         <item quantity="other">"%1$d epizod je bilo dodanih prenesenim."</item>
     </plurals>
 
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Varnostno kopiraj vsakih %1$d dni."</item>
+        <item quantity="two">"Varnostno kopiraj vsakih %1$d dni."</item>
+        <item quantity="few">"Varnostno kopiraj vsakih %1$d dni."</item>
+        <item quantity="other">"Varnostno kopiraj vsakih %1$d dni."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Ohrani zadnje %1$d varnostne kopije."</item>
+        <item quantity="two">"Ohrani zadnje %1$d varnostne kopije."</item>
+        <item quantity="few">"Ohrani zadnje %1$d varnostne kopije."</item>
+        <item quantity="other">"Ohrani zadnje %1$d varnostne kopije."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d minut"</item>
+        <item quantity="two">"%1$d minut"</item>
+        <item quantity="few">"%1$d minut"</item>
+        <item quantity="other">"%1$d minut"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d minut."</item>
+        <item quantity="two">"&gt; %1$d minut."</item>
+        <item quantity="few">"&gt; %1$d minut."</item>
+        <item quantity="other">"&gt; %1$d minut."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d minut."</item>
+        <item quantity="two">"&lt; %1$d minut."</item>
+        <item quantity="few">"&lt; %1$d minut."</item>
+        <item quantity="other">"&lt; %1$d minut."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"Po %1$d minutah"</item>
+        <item quantity="two">"Po %1$d minutah"</item>
+        <item quantity="few">"Po %1$d minutah"</item>
+        <item quantity="other">"Po %1$d minutah"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Podaljšaj za %1$d minut"</item>
+        <item quantity="two">"Podaljšaj za %1$d minut"</item>
+        <item quantity="few">"Podaljšaj za %1$d minut"</item>
+        <item quantity="other">"Podaljšaj za %1$d minut"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Prenos vseh %1$d epizod?"</item>
+        <item quantity="two">"Prenos vseh %1$d epizod?"</item>
+        <item quantity="few">"Prenos vseh %1$d epizod?"</item>
+        <item quantity="other">"Prenos vseh %1$d epizod?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Add one episode to Up next?"</item>
+        <item quantity="two">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="few">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Add one episode to playlist?"</item>
+        <item quantity="two">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="few">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="two">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="few">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="other">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="two">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="few">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="other">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+    </plurals>
+
 </resources>

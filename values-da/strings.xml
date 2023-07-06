@@ -188,7 +188,6 @@
     <string name="remove">"Fjern"</string>
     <string name="redownload">"Download igen"</string>
     <string name="download_all">"Download alle"</string>
-    <string name="download_all_d_episodes">"Download alle afsnit %1$d ?"</string>
     <string name="display">"Vis"</string>
     <string name="when_i_press_the_next_button">"Ved tryk på \"skip &gt;|\""</string>
     <string name="background_play">"Spil i baggrunden"</string>
@@ -403,7 +402,6 @@
     <string name="completed_downloads">"Fuldførte"</string>
     <string name="top_charts">"Toplister"</string>
     <string name="browse_top_charts">"Gennemse toplister"</string>
-    <string name="after_x_minutes">"Om %1$d minutter"</string>
     <string name="after_current_episode_ends">"Når det aktuelle afsnit slutter"</string>
     <string name="add_a_chapter">"Tilføj kapitelinddeling"</string>
     <string name="time">"Tid"</string>
@@ -493,8 +491,6 @@
     <string name="error_episode_still_downloading">"Fejl: Afsnit downloades stadig"</string>
     <string name="disabled">"Deaktiveret"</string>
     <string name="click_to_open_full_screen_player_view">"Klik for at vise afspilleren i fuld skærm"</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Behold de seneste %1$d downloads for hver podcast."</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Behold de seneste %1$d downloads for hver podcast."</string>
     <string name="radio_stations">"Radiostationer"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Stationer"</string>
@@ -559,8 +555,6 @@
     <string name="sign_out">"Log ud"</string>
     <string name="syncing_started">"Synkroniserer"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Synkroniser abonnementer og afspilningstid"</string>
-    <string name="schedule_auto_backup_every_d_days">"Planlæg automatisk backup hver %1$d dag"</string>
-    <string name="keep_most_recent_d_auto_backups">"Behold de seneste %1$d backups"</string>
     <string name="save_auto_backup_to_s">"Gem automatisk backup til: %1$s"</string>
     <string name="enable_auto_backup_of_app_settings_and_database">"Aktivér automatisk backup af appindstillinger og database"</string>
     <string name="schedule_backup">"Planlæg backup"</string>
@@ -597,7 +591,6 @@
     <string name="remove_favorite">"Fjern favorit"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Marker alle afsnit udgivet tidligere end dette afsnit [ %1$s ] som afspillet?"</string>
     <string name="exporting">"Eksporterer…"</string>
-    <string name="extend_s_minutes">"Tilføj %1$d minutter"</string>
     <string name="pick_a_time">"Vælg et tidspunkt"</string>
     <string name="updating_podcasts">"Opdaterer podcasts"</string>
     <string name="skip_ending">"Spring over afslutningen"</string>
@@ -952,8 +945,6 @@
     <string name="overwrite_volume_mute_state">Tilsidesæt lydløs tilstand</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Tillad at tilsidesætte lydløs tilstand og vend tilbage til seneste lydniveau</string>
     <string name="starting_podcast_update_checking">Checker for podcast-opdateringer</string>
-    <string name="_d_minutes">%d minutter</string>
-    <string name="time_unit_minutes">Minutter</string>
     <string name="greater_than">Større end</string>
     <string name="less_than">mindre end</string>
     <string name="has_duration">har varigheden</string>
@@ -1002,8 +993,6 @@
     <string name="delete_played_episode">Slet afspillet afsnit</string>
     <string name="copy_files_to_download_directory">Kopier filer til downloadbiblioteket</string>
     <string name="move_files_to_download_directory">Flyt filer til downloadbiblioteket</string>
-    <string name="greater_than_d_minutes">&gt; %1$d minutter</string>
-    <string name="less_than_d_minutes">&lt; %1$d minutter</string>
     <string name="jump_to_next_chapter">Spring til næste kapitel</string>
     <string name="you_haven_t_left_any_reviews_yet">Du har ikke skrevet nogen anmeldelser endnu.</string>
     <string name="true_crime">True crime</string>
@@ -1244,8 +1233,6 @@
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
     <string name="date_added">Date added</string>
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>

@@ -96,4 +96,76 @@
         <item quantity="other">"%1$d itens foram adicionados aos downloads."</item>
     </plurals>
 
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Agende a cópia de segurança automática a cada %1$d dias."</item>
+        <item quantity="many">"Agende a cópia de segurança automática a cada %1$d dias."</item>
+        <item quantity="other">"Agende a cópia de segurança automática a cada %1$d dias."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Mantenha as %1$d cópias de segurança automáticas mais recentes."</item>
+        <item quantity="many">"Mantenha as %1$d cópias de segurança automáticas mais recentes."</item>
+        <item quantity="other">"Mantenha as %1$d cópias de segurança automáticas mais recentes."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d minuto"</item>
+        <item quantity="many">"%1$d minutos"</item>
+        <item quantity="other">"%1$d minutos"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d minuto."</item>
+        <item quantity="many">"&gt; %1$d minutos."</item>
+        <item quantity="other">"&gt; %1$d minutos."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d minuto."</item>
+        <item quantity="many">"&lt; %1$d minutos."</item>
+        <item quantity="other">"&lt; %1$d minutos."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"Em %1$d minuto"</item>
+        <item quantity="many">"Em %1$d minutos"</item>
+        <item quantity="other">"Em %1$d minutos"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Adicionar %1$d minuto"</item>
+        <item quantity="many">"Adicionar %1$d minutos"</item>
+        <item quantity="other">"Adicionar %1$d minutos"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Baixar todos os %1$d episódios?"</item>
+        <item quantity="many">"Baixar todos os %1$d episódios?"</item>
+        <item quantity="other">"Baixar todos os %1$d episódios?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Adicionar todos os %1$d episódios a Up next?"</item>
+        <item quantity="many">"Adicionar todos os %1$d episódios a Up next?"</item>
+        <item quantity="other">"Adicionar todos os %1$d episódios a Up next?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Adicionar todos os %1$d episódios à lista de reprodução?"</item>
+        <item quantity="many">"Adicionar todos os %1$d episódios à lista de reprodução?"</item>
+        <item quantity="other">"Adicionar todos os %1$d episódios à lista de reprodução?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Mantenha as últimas %1$d downloads para cada podcast."</item>
+        <item quantity="many">"Mantenha as últimas %1$d downloads para cada podcast."</item>
+        <item quantity="other">"Mantenha as últimas %1$d downloads para cada podcast."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Mantenha as últimas %1$d downloads para cada podcast."</item>
+        <item quantity="many">"Mantenha as últimas %1$d downloads para cada podcast."</item>
+        <item quantity="other">"Mantenha as últimas %1$d downloads para cada podcast."</item>
+    </plurals>
+
 </resources>

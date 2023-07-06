@@ -190,7 +190,6 @@
     <string name="remove">Удалить</string>
     <string name="redownload">Перезагрузить</string>
     <string name="download_all">Загрузить все</string>
-    <string name="download_all_d_episodes">Загрузить все %1$d выпуски?</string>
     <string name="display">Экран</string>
     <string name="when_i_press_the_next_button">При нажатии "Следующий"</string>
     <string name="when_i_press_the_previous_button">При нажатии "Предыдущий"</string>
@@ -399,7 +398,6 @@
     <string name="completed_downloads">Загрузка завершена</string>
     <string name="top_charts">Топ-чарты</string>
     <string name="browse_top_charts">Просмотреть топ-чарты</string>
-    <string name="after_x_minutes">Через %1$d минут(ы)</string>
     <string name="after_current_episode_ends">По окончании этого выпуска</string>
     <string name="add_a_chapter">Добавить главу</string>
     <string name="time">Время</string>
@@ -489,8 +487,6 @@
     <string name="error_episode_still_downloading">Ошибка: выпуск все еще загружается</string>
     <string name="disabled">Отключен</string>
     <string name="click_to_open_full_screen_player_view">Потяните для перехода в полноэкранный плеер</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">Оставлять %1$d выпусков каждого подкаста.</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">Оставлять %1$d выпусков каждого подкаста.</string>
     <string name="radio_stations">Радиостанции</string>
     <string name="radios">Радио</string>
     <string name="stations">Станции</string>
@@ -556,8 +552,6 @@
     <string name="sign_out">Выйти</string>
     <string name="syncing_started">Синхронизируется</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Синхронизировать данные о подписках и прослушанных выпусках</string>
-    <string name="schedule_auto_backup_every_d_days">Делать автоматический бэкап каждый(е) %1$d дней(дня)</string>
-    <string name="keep_most_recent_d_auto_backups">Сохранять %1$d популярных автобэкапа</string>
     <string name="save_auto_backup_to_s">Сохранить авторезервную копию в: %1$s</string>
     <string name="enable_auto_backup_of_app_settings_and_database">Включить автосохранение настроек и базы данных приложения</string>
     <string name="schedule_backup">Запланировать бэкап</string>
@@ -592,7 +586,6 @@
     <string name="remove_favorite">"Удалить избранное"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Отметить все предыдущие выпуски [%1$s] как прослушанные?</string>
     <string name="exporting">"Экспорт"</string>
-    <string name="extend_s_minutes">"Добавить %1$d минут"</string>
     <string name="pick_a_time">"Выберите время"</string>
     <string name="updating_podcasts">"Обновление подкастов"</string>
     <string name="skip_ending">"Пропустить окончание"</string>
@@ -975,7 +968,6 @@
     <string name="use_filename">Использовать имя файла</string>
     <string name="copy_files_to_download_directory">Копировать файлы в каталог загрузки</string>
     <string name="move_files_to_download_directory">Переместить файлы в каталог загрузки</string>
-    <string name="greater_than_d_minutes">&gt; %1$d минут</string>
     <string name="you_haven_t_left_any_reviews_yet">Вы пока еще не оставили отзывов.</string>
     <string name="genre_type_hisotry">История</string>
     <string name="true_crime">Настоящее преступление</string>
@@ -1037,7 +1029,6 @@
     <string name="some_downloads_are_not_moved_to_s">Некоторые загрузки не перемещены: %s</string>
     <string name="a_playback_error_occurred_please_try_again_later">Произошла ошибка воспроизведения. Пожалуйста, попробуйте позже.</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%dс</string>
-    <string name="time_unit_minutes">Минут</string>
     <string name="toggle_playback_speed_on_off">Включение/выключение скорости воспроизведения</string>
     <string name="unread_articles">Непрочитанные статьи</string>
     <string name="unreviewed">Не просмотренный</string>
@@ -1078,7 +1069,6 @@
     <string name="save_backup_to">Сохранить резервную копию в</string>
     <string name="save_auto_backup_to">Сохранить автоматическую резервную копию в</string>
     <string name="save_image">Сохранить изображение</string>
-    <string name="_d_minutes">%1$d минут</string>
     <string name="account_already_exists_please_login_with_the_email_and_password_">Учетная запись уже существует, пожалуйста, войдите в систему с помощью электронной почты и пароля.</string>
     <string name="android_auto">Android Auto</string>
     <string name="download_priority">Приоритет загрузки</string>
@@ -1180,7 +1170,6 @@
     <string name="reverse_landscape_screen_display_mode">Альбомная перевернутая</string>
     <string name="find_highlighted_text_as_youtube_channel_id">Найти выделенный текст в качестве идентификатора канала.</string>
     <string name="find_highlighted_text_as_youtube_playlist_id">Найти выделенный текст в качестве идентификатора плейлиста.</string>
-    <string name="less_than_d_minutes">&lt; %1$d минут</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Выбрать выпуски продолжительностью от %1$d до %2$d минут.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Выбрать выпуски продолжительностью менее %1$d или более %2$d минут.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Нет Wi-Fi подключения - Хотите обновить подкаст с помощью мобильного подключения единоразово?</string>
@@ -1242,8 +1231,6 @@
     <string name="close_app_when_moving_to_background">Закрыть приложение при переходе в фоновый режим</string>
     <string name="close_background_app_message">Закрыть приложение при переходе в фоновый режим.  Вы по-прежнему можете воспроизводить подкасты в фоновом режиме, когда приложение закрыто.  Однако вы, возможно, не сможете вернуться к тому же экрану, когда снова выведете приложение на передний план.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Когда новые выпуски извлекаются из ленты подкастов</string>
-    <string name="add_all_d_episodes_to_up_next_">Добавить все выпуски (%1$d) в очередь?</string>
-    <string name="add_all_d_episodes_to_playlist_">Добавить все выпуски (%1$d) в плейлист?</string>
     <string name="date_added">Дата добавления</string>
     <string name="dynamic_colors">Динамические цвета</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Примените цветовую тему на основе ваших обоев.</string>

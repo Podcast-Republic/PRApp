@@ -112,4 +112,88 @@
         <item quantity="other">%1$d выпуск добавлен к списку загрузок.</item>
     </plurals>
 
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
+        <item quantity="few">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
+        <item quantity="many">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
+        <item quantity="other">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Сохранять %1$d популярных автобэкапа."</item>
+        <item quantity="few">"Сохранять %1$d популярных автобэкапа."</item>
+        <item quantity="many">"Сохранять %1$d популярных автобэкапа."</item>
+        <item quantity="other">"Сохранять %1$d популярных автобэкапа."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d минут"</item>
+        <item quantity="few">"%1$d минут"</item>
+        <item quantity="many">"%1$d минут"</item>
+        <item quantity="other">"%1$d минут"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d минут."</item>
+        <item quantity="few">"&gt; %1$d минут."</item>
+        <item quantity="many">"&gt; %1$d минут."</item>
+        <item quantity="other">"&gt; %1$d минут."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d минут."</item>
+        <item quantity="few">"&lt; %1$d минут."</item>
+        <item quantity="many">"&lt; %1$d минут."</item>
+        <item quantity="other">"&lt; %1$d минут."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"Через %1$d минут(ы)"</item>
+        <item quantity="few">"Через %1$d минут(ы)s"</item>
+        <item quantity="many">"Через %1$d минут(ы)s"</item>
+        <item quantity="other">"Через %1$d минут(ы)s"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Добавить %1$d минут"</item>
+        <item quantity="few">"Добавить %1$d минут"</item>
+        <item quantity="many">"Добавить %1$d минут"</item>
+        <item quantity="other">"Добавить %1$d минут"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Загрузить все %1$d выпуски?"</item>
+        <item quantity="few">"Загрузить все %1$d выпуски?"</item>
+        <item quantity="many">"Загрузить все %1$d выпуски?"</item>
+        <item quantity="other">"Загрузить все %1$d выпуски?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Добавить все выпуски (%1$d) в очередь?"</item>
+        <item quantity="few">"Добавить все выпуски (%1$d) в очередь?"</item>
+        <item quantity="many">"Добавить все выпуски (%1$d) в очередь?"</item>
+        <item quantity="other">"Добавить все выпуски (%1$d) в очередь?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Добавить все выпуски (%1$d) в плейлист?"</item>
+        <item quantity="few">"Добавить все выпуски (%1$d) в плейлист?"</item>
+        <item quantity="many">"Добавить все выпуски (%1$d) в плейлист?"</item>
+        <item quantity="other">"Добавить все выпуски (%1$d) в плейлист?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="few">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="many">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="other">"Оставлять %1$d выпусков каждого подкаста."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="few">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="many">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="other">"Оставлять %1$d выпусков каждого подкаста."</item>
+    </plurals>
+
 </resources>

@@ -187,7 +187,6 @@
     <string name="remove">Usuń</string>
     <string name="redownload">Pobierz ponownie</string>
     <string name="download_all">Pobierz wszystkie</string>
-    <string name="download_all_d_episodes">Czy pobrać wszystkie %1$d odcinków?</string>
     <string name="display">Wyświetl</string>
     <string name="when_i_press_the_next_button">Kiedy wcisnę Pomiń</string>
     <string name="background_play">Odtwarzanie w tle</string>
@@ -400,7 +399,6 @@
     <string name="completed_downloads">Pobrane</string>
     <string name="top_charts">Odkrywaj</string>
     <string name="browse_top_charts">Przeglądaj podcasty</string>
-    <string name="after_x_minutes">Za %1$d minut</string>
     <string name="after_current_episode_ends">Gdy skończy się bieżący odcinek</string>
     <string name="add_a_chapter">Dodaj znacznik rozdziału</string>
     <string name="time">Czas</string>
@@ -490,8 +488,6 @@
     <string name="error_episode_still_downloading">Błąd: odcinek ciągle jest pobierany</string>
     <string name="disabled">Wyłączone</string>
     <string name="click_to_open_full_screen_player_view">Kliknij, aby wyświetlić pełnoekranowy odtwarzacz</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">Zachowaj ostatnie %1$d pobranych odcinków każdego podcastu.</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">Zachowaj ostatnie %1$d pobranych odcinków każdego podcastu.</string>
     <string name="radio_stations">Stacje radiowe</string>
     <string name="radios">Radia</string>
     <string name="stations">Stacje</string>
@@ -556,8 +552,6 @@
     <string name="sign_out">Wyloguj się</string>
     <string name="syncing_started">Synchronizacja rozpoczęta</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synchronizacja subskrypcji i postępu odtwarzania</string>
-    <string name="schedule_auto_backup_every_d_days">Kopia automatyczna co %1$d dni</string>
-    <string name="keep_most_recent_d_auto_backups">Zachowaj ostatnie %1$d kopii automatycznych</string>
     <string name="save_auto_backup_to_s">Zapisz kopie do: %1$s</string>
     <string name="enable_auto_backup_of_app_settings_and_database">Włącz automatyczne kopie ustawień i bazy danych</string>
     <string name="schedule_backup">Harmonogram kopii</string>
@@ -594,7 +588,6 @@
     <string name="remove_favorite">Usuń ulubione</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Czy oznaczyć wszystkie odcinki opublikowane wcześniej, niż [%1$s] jako przesłuchane?</string>
     <string name="exporting">Eksportowanie</string>
-    <string name="extend_s_minutes">Dodaj %1$d minut</string>
     <string name="pick_a_time">Wybierz czas</string>
     <string name="updating_podcasts">Aktualizacja podcastu</string>
     <string name="skip_ending">Pomiń zakończenie</string>
@@ -955,8 +948,6 @@
     <string name="overwrite_volume_mute_state">Nadpisywanie stanu wyciszenia głośności</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Zezwól na nadpisanie stanu wyciszenia głośności i przywrócenie głośności do poziomu z ostatniego odtwarzania</string>
     <string name="starting_podcast_update_checking">Rozpoczynanie sprawdzenia aktualizacji podcastów.</string>
-    <string name="_d_minutes">%d Minut</string>
-    <string name="time_unit_minutes">Minuty</string>
     <string name="greater_than">Więcej niż</string>
     <string name="less_than">Mniej niż</string>
     <string name="has_duration">Czas trwania wynosi</string>
@@ -1005,8 +996,6 @@
     <string name="delete_played_episode">Delete played episode</string>
     <string name="copy_files_to_download_directory">Copy files to download directory</string>
     <string name="move_files_to_download_directory">Move files to download directory</string>
-    <string name="greater_than_d_minutes">&gt; %1$d minuty</string>
-    <string name="less_than_d_minutes">&lt; %1$d minuty</string>
     <string name="jump_to_next_chapter">Jump to next chapter</string>
     <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
     <string name="true_crime">True crime</string>
@@ -1247,8 +1236,6 @@
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
     <string name="date_added">Date added</string>
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>

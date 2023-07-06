@@ -195,7 +195,6 @@
     <string name="remove">Odstrani</string>
     <string name="redownload">Ponovno prenesi</string>
     <string name="download_all">Prenesi vse</string>
-    <string name="download_all_d_episodes">Prenos vseh %1$d epizod?</string>
     <string name="display">Zaslon</string>
     <string name="when_i_press_the_next_button">Ob dotiku možnosti Naslednji</string>
     <string name="when_i_press_the_previous_button">Ob dotiku možnosti Prejšnji</string>
@@ -407,7 +406,6 @@
     <string name="completed_downloads">Dokončano</string>
     <string name="top_charts">Lestvice najboljših</string>
     <string name="browse_top_charts">Brskaj lestvice najboljših</string>
-    <string name="after_x_minutes">Po %1$d minutah</string>
     <string name="after_current_episode_ends">Ko se zaključi trenutna epizoda</string>
     <string name="add_a_chapter">Dodaj poglavje</string>
     <string name="time">Čas</string>
@@ -497,8 +495,6 @@
     <string name="error_episode_still_downloading">Napaka: epizoda se še prenaša.</string>
     <string name="disabled">Onemogočeno</string>
     <string name="click_to_open_full_screen_player_view">Dotakni se, da se odpre celozaslonski prikaz predvajalnika.</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">Ohrani zadnjih %1$d prenosov vsakega podkasta.</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">Ohrani zadnjih %1$d prenosov vsakega podkasta.</string>
     <string name="radio_stations">Radijske postaje</string>
     <string name="radios">Radiji</string>
     <string name="stations">Postaje</string>
@@ -564,8 +560,6 @@
     <string name="sign_out">Izpis</string>
     <string name="syncing_started">Sinhroniziranje se je začelo</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Sinhroniziraj naročnine in napredek predvajanja epizod.</string>
-    <string name="schedule_auto_backup_every_d_days">Varnostno kopiraj vsakih %1$d dni.</string>
-    <string name="keep_most_recent_d_auto_backups">Ohrani zadnje %1$d varnostne kopije.</string>
     <string name="save_auto_backup_to_s">Shrani varnostno kopijo v: %1$s.</string>
     <string name="enable_auto_backup_of_app_settings_and_database">Omogoči varnostno kopiranje nastavitev aplikacije in podatkovne baze.</string>
     <string name="schedule_backup">Urnik za varnostne kopije</string>
@@ -600,7 +594,6 @@
     <string name="remove_favorite">Odstrani priljubljene</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Označim vse epizode objavljene pred epizodo [%1$s] kot predvajane?</string>
     <string name="exporting">Izvažam</string>
-    <string name="extend_s_minutes">Podaljšaj za %1$d minut</string>
     <string name="pick_a_time">Izberi čas</string>
     <string name="updating_podcasts">Posodabljam podkaste</string>
     <string name="skip_ending">Preskoči konec</string>
@@ -960,8 +953,6 @@
     <string name="overwrite_volume_mute_state">Prekliči stanje pridušene glasnosti</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Dovoli preklic stanja pridušene glasnosti in povrni glasnost na zadnjo predvajano raven.</string>
     <string name="starting_podcast_update_checking">Začnenjam preverjanje posodobitev podkastov.</string>
-    <string name="_d_minutes">%1$d minut</string>
-    <string name="time_unit_minutes">minute</string>
     <string name="greater_than">Večje od</string>
     <string name="less_than">Manjše od</string>
     <string name="has_duration">Has duration</string>
@@ -1010,8 +1001,6 @@
     <string name="delete_played_episode">Izbriši predvajane epizode</string>
     <string name="copy_files_to_download_directory">Kopiraj datoteke v mapo prenosov</string>
     <string name="move_files_to_download_directory">Premakni datoteke v mapo prenosov</string>
-    <string name="greater_than_d_minutes">&gt; %1$d minute</string>
-    <string name="less_than_d_minutes">&lt; %1$d minute</string>
     <string name="you_haven_t_left_any_reviews_yet">Napisali niste še nobene ocene.</string>
     <string name="true_crime">Resnični zločini</string>
     <string name="leisure">Prosti čas</string>
@@ -1245,8 +1234,6 @@
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
     <string name="date_added">Date added</string>
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>

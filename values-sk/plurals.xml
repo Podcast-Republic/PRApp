@@ -112,4 +112,88 @@
         <item quantity="other">"Na stiahnutie boli pridané epizódy: %1$d."</item>
     </plurals>
 
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
+        <item quantity="few">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
+        <item quantity="many">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
+        <item quantity="other">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Ponechať najnovšie %1$d automatické zálohy."</item>
+        <item quantity="few">"Ponechať najnovšie %1$d automatické zálohy."</item>
+        <item quantity="many">"Ponechať najnovšie %1$d automatické zálohy."</item>
+        <item quantity="other">"Ponechať najnovšie %1$d automatické zálohy."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d minút"</item>
+        <item quantity="few">"%1$d minút"</item>
+        <item quantity="many">"%1$d minút"</item>
+        <item quantity="other">"%1$d minút"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d minút."</item>
+        <item quantity="few">"&gt; %1$d minút."</item>
+        <item quantity="many">"&gt; %1$d minút."</item>
+        <item quantity="other">"&gt; %1$d minút."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d minút."</item>
+        <item quantity="few">"&lt; %1$d minút."</item>
+        <item quantity="many">"&lt; %1$d minút."</item>
+        <item quantity="other">"&lt; %1$d minút."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"O %1$d minút"</item>
+        <item quantity="few">"O %1$d minút"</item>
+        <item quantity="many">"O %1$d minút"</item>
+        <item quantity="other">"O %1$d minút"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Pridať %1$d min"</item>
+        <item quantity="few">"Pridať %1$d min"</item>
+        <item quantity="many">"Pridať %1$d min"</item>
+        <item quantity="other">"Pridať %1$d min"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Stiahnuť všetky epizódy: %1$d?"</item>
+        <item quantity="few">"Stiahnuť všetky epizódy: %1$d?"</item>
+        <item quantity="many">"Stiahnuť všetky epizódy: %1$d?"</item>
+        <item quantity="other">"Stiahnuť všetky epizódy: %1$d?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Pridať všetky epizódy (%1$d) do zoznamu Nasleduje?"</item>
+        <item quantity="few">"Pridať všetky epizódy (%1$d) do zoznamu Nasleduje?"</item>
+        <item quantity="many">"Pridať všetky epizódy (%1$d) do zoznamu Nasleduje?"</item>
+        <item quantity="other">"Pridať všetky epizódy (%1$d) do zoznamu Nasleduje?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Pridať všetky epizódy (%1$d) do playlistu?"</item>
+        <item quantity="few">"Pridať všetky epizódy (%1$d) do playlistu?"</item>
+        <item quantity="many">"Pridať všetky epizódy (%1$d) do playlistu?"</item>
+        <item quantity="other">"Pridať všetky epizódy (%1$d) do playlistu?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+        <item quantity="few">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+        <item quantity="many">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+        <item quantity="other">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+        <item quantity="few">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+        <item quantity="many">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+        <item quantity="other">"Ponechať najnovšie stiahnutia pre každý podcast: %1$d."</item>
+    </plurals>
+
 </resources>

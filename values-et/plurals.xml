@@ -80,4 +80,64 @@
         <item quantity="other">"%1$d episoodi on lisatud allalaadimiseks."</item>
     </plurals>
 
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Planeeri automaatne varundamine iga %1$d päeva järelt."</item>
+        <item quantity="other">"Planeeri automaatne varundamine iga %1$d päeva järelt."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Hoia viimased %1$d automaatsed varukoopiad."</item>
+        <item quantity="other">"Hoia viimased %1$d automaatsed varukoopiad."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d minute"</item>
+        <item quantity="other">"%1$d minutes"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d minute."</item>
+        <item quantity="other">"&gt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d minute."</item>
+        <item quantity="other">"&lt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"%1$d minuti sees"</item>
+        <item quantity="other">"%1$d minuti sees"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Lisa %1$d minutit"</item>
+        <item quantity="other">"Lisa %1$d minutit"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Lae kõik %1$d episoodi?"</item>
+        <item quantity="other">"Lae kõik %1$d episoodi?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Add one episode to Up next?"</item>
+        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Add one episode to playlist?"</item>
+        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
+        <item quantity="other">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
+        <item quantity="other">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
+    </plurals>
+
 </resources>

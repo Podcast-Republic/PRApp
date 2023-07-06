@@ -192,7 +192,6 @@
     <string name="remove">Odstrániť</string>
     <string name="redownload">Stiahnuť znova</string>
     <string name="download_all">Stiahnuť všetko</string>
-    <string name="download_all_d_episodes">Stiahnuť všetky epizódy: %1$d?</string>
     <string name="display">Zobraziť</string>
     <string name="when_i_press_the_next_button">Keď stlačím preskočiť</string>
     <string name="background_play">Prehrať na pozadí</string>
@@ -403,7 +402,6 @@
     <string name="completed_downloads">Dokončené</string>
     <string name="top_charts">Rebríčky</string>
     <string name="browse_top_charts">Prehliadať rebríčky</string>
-    <string name="after_x_minutes">O %1$d minút</string>
     <string name="after_current_episode_ends">Po skončení aktuálnej epizódy</string>
     <string name="add_a_chapter">Pridať kapitolu</string>
     <string name="time">Čas</string>
@@ -493,8 +491,6 @@
     <string name="error_episode_still_downloading">Chyba: epizóda sa stále sťahuje</string>
     <string name="disabled">Zakázané</string>
     <string name="click_to_open_full_screen_player_view">Kliknutím otvoríte zobrazenie prehrávača na celú obrazovku</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">Ponechať najnovšie stiahnutia pre každý podcast: %1$d.</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">Ponechať najnovšie stiahnutia pre každý podcast: %1$d.</string>
     <string name="radio_stations">Rádiá</string>
     <string name="radios">Rádiá</string>
     <string name="stations">Stanice</string>
@@ -560,8 +556,6 @@
     <string name="sign_out">Odhlásiť sa</string>
     <string name="syncing_started">Synchronizácia sa začala</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synchronizácia odberov a priebehu prehrávania epizód</string>
-    <string name="schedule_auto_backup_every_d_days">Naplánovať automatické zálohovanie každých %1$d dní</string>
-    <string name="keep_most_recent_d_auto_backups">Ponechať najnovšie %1$d automatické zálohy</string>
     <string name="save_auto_backup_to_s">Uložiť automatickú zálohu do: %1$s</string>
     <string name="enable_auto_backup_of_app_settings_and_database">Povoliť automatické zálohovanie nastavení aplikácie a databázy</string>
     <string name="schedule_backup">Naplánovať zálohovanie</string>
@@ -596,7 +590,6 @@
     <string name="remove_favorite">Odstrániť obľúbené</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Označiť všetky epizódy uverejnené pred touto epizódou [%1$s] ako prehraté?</string>
     <string name="exporting">Exportovanie</string>
-    <string name="extend_s_minutes">Pridať %1$d min.</string>
     <string name="pick_a_time">Vyberte čas</string>
     <string name="updating_podcasts">Aktualizácia podcastov</string>
     <string name="skip_ending">Preskočiť koniec</string>
@@ -956,8 +949,6 @@
     <string name="overwrite_volume_mute_state">Prepísať stav stlmenia hlasitosti</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Povoliť prepísanie stavu stlmenia hlasitosti a obnoviť poslednú úroveň hlasitosti prehrávania</string>
     <string name="starting_podcast_update_checking">Spúšťa sa aktualizácia podcastov.</string>
-    <string name="_d_minutes">%d minút</string>
-    <string name="time_unit_minutes">minút</string>
     <string name="greater_than">Viac ako</string>
     <string name="less_than">Menej ako</string>
     <string name="has_duration">Má trvanie</string>
@@ -1006,8 +997,6 @@
     <string name="delete_played_episode">Odstrániť prehraté epizódy</string>
     <string name="copy_files_to_download_directory">Kopírovať súbory do priečinka sťahovania</string>
     <string name="move_files_to_download_directory">Presunúť súbory do priečinka sťahovania</string>
-    <string name="greater_than_d_minutes">&gt; %1$d minút</string>
-    <string name="less_than_d_minutes">&lt; %1$d minút</string>
     <string name="you_haven_t_left_any_reviews_yet">Ešte ste nepridali žiadnu recenziu.</string>
     <string name="true_crime">Skutočné príbehy</string>
     <string name="leisure">Voľný čas</string>
@@ -1245,8 +1234,6 @@
     <string name="close_app_when_moving_to_background">Zavrieť aplikáciu pri prechode na pozadie</string>
     <string name="close_background_app_message">Zavrieť aplikáciu pri prechode na pozadie. Podcasty na pozadí môžete prehrávať aj po zatvorení aplikácie. Po opätovnom prepnutí aplikácie do popredia sa však nemusí dať prejsť na tú istú obrazovku.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Pri načítaní nových epizód z podcastu</string>
-    <string name="add_all_d_episodes_to_up_next_">Pridať všetky epizódy (%1$d) do zoznamu Nasleduje?</string>
-    <string name="add_all_d_episodes_to_playlist_">Pridať všetky epizódy (%1$d) do playlistu?</string>
     <string name="date_added">Dátum pridania</string>
     <string name="dynamic_colors">Dynamické farby</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Použiť farebný motív podľa pozadia.</string>

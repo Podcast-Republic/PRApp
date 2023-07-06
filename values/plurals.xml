@@ -79,4 +79,65 @@
         <item quantity="one">One episode have been added to downloads.</item>
         <item quantity="other">%1$d episodes have been added to downloads.</item>
     </plurals>
+
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Schedule auto backup every day."</item>
+        <item quantity="other">"Schedule auto backup every %1$d days."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Keep most recent %1$d auto backup."</item>
+        <item quantity="other">"Keep most recent %1$d auto backups."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d minute"</item>
+        <item quantity="other">"%1$d minutes"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d minute."</item>
+        <item quantity="other">"&gt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d minute."</item>
+        <item quantity="other">"&lt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"After %1$d minute"</item>
+        <item quantity="other">"After %1$d minutes"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Extend %1$d minute"</item>
+        <item quantity="other">"Extend %1$d minutes"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Download %d episode?"</item>
+        <item quantity="other">"Download all %d episodes?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Add one episode to Up next?"</item>
+        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Add one episode to playlist?"</item>
+        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Keep the latest one download for each podcast."</item>
+        <item quantity="other">"Keep the latest %1$d downloads for each podcast."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Keep the latest one download of this podcast."</item>
+        <item quantity="other">"Keep the latest %1$d downloads of this podcast."</item>
+    </plurals>
+
 </resources>

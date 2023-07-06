@@ -128,7 +128,6 @@
     <string name="add_a_chapter">Legg til kapittelinndeling</string>
     <string name="add_podcasts">Legg til podcaster</string>
     <string name="add_a_podcast_by_url">Legg til podcast via URL</string>
-    <string name="extend_s_minutes">Legg til %1$d minutter</string>
     <string name="add_a_station_by_url">Legg til stasjon via URL</string>
     <string name="add_to_default_playlists">Legg til til standard spillelister</string>
     <string name="add_to_new_tag">Legg til ny etikett</string>
@@ -273,7 +272,6 @@
     <string name="double_tap_to_play_or_pause">Trykk dobbelt for avspilling/pause</string>
     <string name="download">Last ned</string>
     <string name="download_all">Last ned alle</string>
-    <string name="download_all_d_episodes">Laste ned alle %1$d-episoder?</string>
     <string name="download_episode">Last ned episode</string>
     <string name="download_episode_if_matching_all_keywords_s">"Last ned episoder som inneholder alle søkeordene: %1$s."</string>
     <string name="download_episode_if_matching_any_of_the_keywords_s">"Last ned episoder som inneholder ett av søkeordene: %1$s."</string>
@@ -398,7 +396,6 @@
     <string name="import_from_opml_file">Importer OPML</string>
     <string name="import_sub_directory">Importer undermappe</string>
     <string name="import_subscriptions_from_an_opml_file">Importer abonnement fra en OPML-fil</string>
-    <string name="after_x_minutes">Om %1$d minutter</string>
     <string name="invalid_opml_file_selected_">Ugyldig OPML-fil valgt!</string>
     <string name="items_in_red_are_required_">Felter markert med rødt er obligatoriske</string>
     <string name="keep_all">Behold alle</string>
@@ -406,9 +403,6 @@
     <string name="keep_downloads">Velg antall nedlastinger å beholde</string>
     <string name="keep_favorite_episodes">Behold favoritter</string>
     <string name="keep_in_playlists">Behold i spillelister</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">Behold de %1$d siste nedlastingene for hver podcast.</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">Behold de %1$d siste nedlastingene for hver podcast.</string>
-    <string name="keep_most_recent_d_auto_backups">Behold de %1$d siste automatiske sikkerhetskopiene</string>
     <string name="keep_playing">Spill av som normalt</string>
     <string name="keep_screen_always_on">Holder skjermen påslått hele tiden.</string>
     <string name="keep_screen_on">Hold skjermen aktiv</string>
@@ -569,7 +563,6 @@
     <string name="save_auto_backup_to_s">Lagre automatisk sikkerhetskopi i valgt mappe. %1$s</string>
     <string name="save_to">Lagre til mappe</string>
     <string name="scanning_">Scanner …</string>
-    <string name="schedule_auto_backup_every_d_days">Planlegg automatisk sikkerhetskopi hver %1$d dag.</string>
     <string name="schedule_backup">Planlegg sikkerhetskopi</string>
     <string name="science">Vitenskap og medisin</string>
     <string name="screen_orientation">Skjermretning</string>
@@ -951,8 +944,6 @@
     <string name="overwrite_volume_mute_state">Overwrite volume mute state</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Allow to overwrite volume mute state and restore to last played volume level</string>
     <string name="starting_podcast_update_checking">Starting podcast update checking.</string>
-    <string name="_d_minutes">%1$d minutes</string>
-    <string name="time_unit_minutes">Minutes</string>
     <string name="greater_than">Greater than</string>
     <string name="less_than">Less than</string>
     <string name="has_duration">Has duration</string>
@@ -1001,8 +992,6 @@
     <string name="delete_played_episode">Delete played episode</string>
     <string name="copy_files_to_download_directory">Copy files to download directory</string>
     <string name="move_files_to_download_directory">Move files to download directory</string>
-    <string name="greater_than_d_minutes">&gt; %1$d minutes</string>
-    <string name="less_than_d_minutes">&lt; %1$d minutes</string>
     <string name="jump_to_next_chapter">Jump to next chapter</string>
     <string name="you_haven_t_left_any_reviews_yet">You haven\'t left any reviews yet.</string>
     <string name="true_crime">True crime</string>
@@ -1243,8 +1232,6 @@
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
     <string name="date_added">Date added</string>
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>

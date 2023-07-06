@@ -187,7 +187,6 @@
     <string name="remove">"Verwijderen"</string>
     <string name="redownload">"Opnieuw downloaden"</string>
     <string name="download_all">"Download alles"</string>
-    <string name="download_all_d_episodes">"Alle %1$d afleveringen downloaden?"</string>
     <string name="display">"Scherm"</string>
     <string name="when_i_press_the_next_button">"Wanneer ik druk op overslaan"</string>
     <string name="background_play">"Afspelen op achtergrond"</string>
@@ -401,7 +400,6 @@
     <string name="completed_downloads">"Voltooid"</string>
     <string name="top_charts">"Toplijsten"</string>
     <string name="browse_top_charts">"Blader toplijsten"</string>
-    <string name="after_x_minutes">"In %1$d minuten"</string>
     <string name="after_current_episode_ends">"Wanneer de huidige aflevering eindigt"</string>
     <string name="add_a_chapter">"Voeg hoofdstukmarkering toe"</string>
     <string name="time">"Tijd"</string>
@@ -491,8 +489,6 @@
     <string name="error_episode_still_downloading">"Fout: aflevering download nog steeds"</string>
     <string name="disabled">"Uitgeschakeld"</string>
     <string name="click_to_open_full_screen_player_view">"Trek me omhoog om de full-screen speler te openen!"</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Bewaar de laatste %1$d downloads voor elke podcast."</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Bewaar de laatste %1$d downloads voor elke podcast."</string>
     <string name="radio_stations">"Radiozenders"</string>
     <string name="radios">Radios</string>
     <string name="stations">"Zenders"</string>
@@ -557,8 +553,6 @@
     <string name="sign_out">Uitloggen</string>
     <string name="syncing_started">Synchronisatie begonnen</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synchroniseer afspeelvoortgang abonnementen en afleveringen</string>
-    <string name="schedule_auto_backup_every_d_days">Inplannen automatische backup elke %1$d dagen</string>
-    <string name="keep_most_recent_d_auto_backups">Bewaar de %1$d meest recente automatische backups</string>
     <string name="save_auto_backup_to_s">Sla automatische backup op naar: %1$s</string>
     <string name="enable_auto_backup_of_app_settings_and_database">Zet automatische backup van app instellingen en database aan</string>
     <string name="schedule_backup">Inplannen backup</string>
@@ -595,7 +589,6 @@
     <string name="remove_favorite">Verwijder favoriet</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Alle afleveringen die zijn uitgebracht voor deze aflevering [%1$s] als gespeeld markeren?</string>
     <string name="exporting">Exporteren</string>
-    <string name="extend_s_minutes">Voeg %1$d minuten toe</string>
     <string name="pick_a_time">Selecteer een tijd</string>
     <string name="updating_podcasts">Bijwerken podcasts</string>
     <string name="skip_ending">Sla het einde over</string>
@@ -952,8 +945,6 @@
     <string name="overwrite_volume_mute_state">Overschrijf de status Volume Dempen</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Sta toe dat de status Volume Dempen  wordt overschreven en teruggezet naar het laatst gebruikte volumeniveau</string>
     <string name="starting_podcast_update_checking">Beginnen met zoeken naar podcast updates.</string>
-    <string name="_d_minutes">%d minuten</string>
-    <string name="time_unit_minutes">Minuten</string>
     <string name="greater_than">Langer dan</string>
     <string name="less_than">Korter dan</string>
     <string name="has_duration">Met afspeelduur</string>
@@ -1002,8 +993,6 @@
     <string name="delete_played_episode">Verwijder afgespeelde aflevering</string>
     <string name="copy_files_to_download_directory">Kopieer bestanden naar downloadmap</string>
     <string name="move_files_to_download_directory">Verplaats bestanden naar downloadmap</string>
-    <string name="greater_than_d_minutes">&gt; %1$d minuten</string>
-    <string name="less_than_d_minutes">&lt; %1$d minuten</string>
     <string name="jump_to_next_chapter">Spring naar volgend hoofdstuk</string>
     <string name="you_haven_t_left_any_reviews_yet">Je hebt nog geen recensies geschreven.</string>
     <string name="true_crime">True crime</string>
@@ -1244,8 +1233,6 @@
     <string name="close_app_when_moving_to_background">Close app when moving to background</string>
     <string name="close_background_app_message">Close the app when moving to background. You can still playback podcasts in background when the app is closed. However, you may not be able to come to the same screen when bringing the app to foreground again.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">When new episodes are retrieved from podcast feed</string>
-    <string name="add_all_d_episodes_to_up_next_">Add all %1$d episodes to Up next?</string>
-    <string name="add_all_d_episodes_to_playlist_">Add all %1$d episodes to playlist?</string>
     <string name="date_added">Date added</string>
     <string name="dynamic_colors">Dynamic colors</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Apply the color theme based on your wallpaper.</string>

@@ -96,4 +96,76 @@
         <item quantity="many">"%1$d епізодів були додані до завантажень."</item>
     </plurals>
 
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Schedule auto backup every day."</item>
+        <item quantity="few">"Запланувати автоматичне резервне копіювання через кожні %1$d днів."</item>
+        <item quantity="many">"Запланувати автоматичне резервне копіювання через кожні %1$d днів."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Keep most recent one auto backup."</item>
+        <item quantity="few">"Зберігати %1$d останніх резервних копій."</item>
+        <item quantity="many">"Зберігати %1$d останніх резервних копій."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d хвилин"</item>
+        <item quantity="few">"%1$d хвилин"</item>
+        <item quantity="many">"%1$d хвилин"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d хвилин."</item>
+        <item quantity="few">"&gt; %1$d хвилин."</item>
+        <item quantity="many">"&gt; %1$d хвилин."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d хвилин."</item>
+        <item quantity="few">"&lt; %1$d хвилин."</item>
+        <item quantity="many">"&lt; %1$d хвилин."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"Через %1$d хвилин"</item>
+        <item quantity="few">"Через %1$d хвилин"</item>
+        <item quantity="many">"Через %1$d хвилин"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Додати %1$d хвилин"</item>
+        <item quantity="few">"Додати %1$d хвилин"</item>
+        <item quantity="many">"Додати %1$d хвилин"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Завантажити всі %1$d епізодів?"</item>
+        <item quantity="few">"Завантажити всі %1$d епізодів?"</item>
+        <item quantity="many">"Завантажити всі %1$d епізодів?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Додати всі %1$d епізодів до черги?"</item>
+        <item quantity="few">"Додати всі %1$d епізодів до черги?"</item>
+        <item quantity="many">"Додати всі %1$d епізодів до черги"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Додати всі %1$d епізодів до списку відтворення?"</item>
+        <item quantity="few">"AДодати всі %1$d епізодів до списку відтворення?"</item>
+        <item quantity="many">"Додати всі %1$d епізодів до списку відтворення?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Зберігати %1$d останніх завантажень для кожного подкасту."</item>
+        <item quantity="few">"Зберігати %1$d останніх завантажень для кожного подкасту."</item>
+        <item quantity="many">"Зберігати %1$d останніх завантажень для кожного подкасту."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Зберігати %1$d останніх завантажень цього подкасту."</item>
+        <item quantity="few">"Зберігати %1$d останніх завантажень цього подкасту."</item>
+        <item quantity="many">"Зберігати %1$d останніх завантажень цього подкасту."</item>
+    </plurals>
+
 </resources>

@@ -143,4 +143,113 @@
         <item quantity="many">"%d حلقات تم اضافتها إلى التنزيلات"</item>
         <item quantity="other">"%d حلقات تم اضافتها إلى التنزيلات"</item>
     </plurals>
+
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="zero">"Auto backup is disabled."</item>
+        <item quantity="one">"Schedule auto backup every day."</item>
+        <item quantity="two">"Schedule auto backup every two days."</item>
+        <item quantity="few">"Schedule auto backup every %1$d days."</item>
+        <item quantity="many">"Schedule auto backup every %1$d days."</item>
+        <item quantity="other">"Schedule auto backup every %1$d days."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="zero">"Don't keep any auto backups."</item>
+        <item quantity="one">"Keep most recent %1$d auto backups."</item>
+        <item quantity="two">"Keep most recent %1$d auto backup."</item>
+        <item quantity="few">"Keep most recent %1$d auto backups."</item>
+        <item quantity="many">"Keep most recent %1$d auto backup."</item>
+        <item quantity="other">"Keep most recent %1$d auto backups."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="zero">"%1$d minute"</item>
+        <item quantity="one">"%1$d minute"</item>
+        <item quantity="two">"%1$d minutes"</item>
+        <item quantity="few">"%1$d minutes"</item>
+        <item quantity="many">"%1$d minutes"</item>
+        <item quantity="other">"%1$d minutes"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="zero">"&gt; %1$d minute."</item>
+        <item quantity="one">"&gt; %1$d minute."</item>
+        <item quantity="two">"&gt; %1$d minutes."</item>
+        <item quantity="few">"&gt; %1$d minutes."</item>
+        <item quantity="many">"&gt; %1$d minutes."</item>
+        <item quantity="other">"&gt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="zero">"&lt; %1$d minute."</item>
+        <item quantity="one">"&lt; %1$d minute."</item>
+        <item quantity="two">"&lt; %1$d minutes."</item>
+        <item quantity="few">"&lt; %1$d minutes."</item>
+        <item quantity="many">"&lt; %1$d minutes."</item>
+        <item quantity="other">"&lt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="zero">"في %1$d دقائق"</item>
+        <item quantity="one">"في %1$d دقائق"</item>
+        <item quantity="two">"في %1$d دقائق"</item>
+        <item quantity="few">"في %1$d دقائق"</item>
+        <item quantity="many">"في %1$d دقائق"</item>
+        <item quantity="other">"في %1$d دقائق"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="zero">"Extend %1$d minute"</item>
+        <item quantity="one">"Extend %1$d minute"</item>
+        <item quantity="two">"Extend %1$d minutes"</item>
+        <item quantity="few">"Extend %1$d minutes"</item>
+        <item quantity="many">"Extend %1$d minutes"</item>
+        <item quantity="other">"Extend %1$d minutes"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="zero">"تنزيل جميع %d الحلقات؟"</item>
+        <item quantity="one">"تنزيل جميع %d الحلقات؟"</item>
+        <item quantity="two">"تنزيل جميع %d الحلقات؟"</item>
+        <item quantity="few">"تنزيل جميع %d الحلقات؟"</item>
+        <item quantity="many">"تنزيل جميع %d الحلقات؟"</item>
+        <item quantity="other">"تنزيل جميع %d الحلقات؟"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="zero">"Add zero episode to Up next?"</item>
+        <item quantity="one">"Add one episode to Up next?"</item>
+        <item quantity="two">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="few">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="many">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="zero">"Add zero episode to playlist?"</item>
+        <item quantity="one">"Add one episode to playlist?"</item>
+        <item quantity="two">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="few">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="many">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+    </plurals>
+    
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="zero">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="one">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="two">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="few">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="many">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="other">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="zero">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="one">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="two">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="few">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="many">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="other">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+    </plurals>
+
 </resources>

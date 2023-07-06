@@ -187,7 +187,6 @@
     <string name="remove">Eltávolítás</string>
     <string name="redownload">Letöltés újra</string>
     <string name="download_all">Az összes letöltése</string>
-    <string name="download_all_d_episodes">Az összes letöltése %1$d ?</string>
     <string name="display">Megjelenés</string>
     <string name="when_i_press_the_next_button">Skip (ugrás) megnyomása esetén</string>
     <string name="background_play">Lejátszás háttérben</string>
@@ -402,7 +401,6 @@
     <string name="completed_downloads">Befejezett</string>
     <string name="top_charts">Toplisták</string>
     <string name="browse_top_charts">Toplisták böngészése</string>
-    <string name="after_x_minutes">%1$d perc letelte után</string>
     <string name="after_current_episode_ends">Az epizód végén</string>
     <string name="add_a_chapter">Könyvjelző hozzáadása</string>
     <string name="time">Idő</string>
@@ -492,8 +490,6 @@
     <string name="error_episode_still_downloading">Hiba: epizód még letöltés alatt</string>
     <string name="disabled">Letiltva</string>
     <string name="click_to_open_full_screen_player_view">Teljesképernyős módhoz húzza fel!</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">Tartsa meg a legfrissebb %1$d letöltést minden podcasthoz.</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">Tartsa meg a legfrissebb %1$d letöltést minden podcasthoz.</string>
     <string name="radio_stations">Rádióállomások</string>
     <string name="radios">Rádiók</string>
     <string name="stations">Állomások</string>
@@ -553,14 +549,11 @@
     <string name="fm_am_frequency">FM / AM frekvencia</string>
     <string name="genre">Műfaj</string>
     <string name="city_state">Város, állam</string>
-
     <string name="sync_now">Szinkronizálás most</string>
     <string name="sign_in">Bejelentkezés</string>
     <string name="sign_out">Kijelentkezés</string>
     <string name="syncing_started">A szinkronizálás elkezdődött</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Előfizetések és lejátszási adatok szinkronizálása</string>
-    <string name="schedule_auto_backup_every_d_days">Automatikus mentés minden %1$d. nap után</string>
-    <string name="keep_most_recent_d_auto_backups">Tartsa meg az utolsó %1$d automatikus mentést</string>
     <string name="save_auto_backup_to_s">Automatikus mentés helye: %1$s</string>
     <string name="enable_auto_backup_of_app_settings_and_database">Engedélyezi az automatikus mentést az alkalmazás beállításaira és az adatbázisra</string>
     <string name="schedule_backup">Ütemezett biztonsági mentés</string>
@@ -597,7 +590,6 @@
     <string name="remove_favorite">Eltávolítás a Kedvencekből</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Jelöljön meg minden epizódot lejátszottként, ami ezelőtt az epizód előtt jött ki [ %1$s ] ?</string>
     <string name="exporting">Exportálás</string>
-    <string name="extend_s_minutes">%1$d perc hozzáadása</string>
     <string name="pick_a_time">Idő megadása</string>
     <string name="updating_podcasts">Podcastok frissítése</string>
     <string name="skip_ending">Ugrás a végén</string>
@@ -611,7 +603,6 @@
     <string name="buy_me_a_coffee_message">Ha szívesen használja a Podcast Republic alkalmazást, és szeretné támogatni a fejlesztést, hívjon meg egy csésze kávéra. Köszönöm!</string>
     <string name="maybe_later">Talán később</string>
     <string name="sign_up">Regisztráció</string>
-
     <string name="download_state_idle">Várakozás a letöltés megkezdésére</string>
     <string name="download_state_fetching_url">Források keresése a letöltéshez</string>
     <string name="download_state_connecting">Kapcsolódás…</string>
@@ -956,8 +947,6 @@
     <string name="overwrite_volume_mute_state">Hangerőnémítás felülírása</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Engedélyezze a hangerőnémítás állapotának felülírását, és állítsa vissza a legutóbbi lejátszás hangerejét</string>
     <string name="starting_podcast_update_checking">Podcast frissítések ellenőrzésének indítása.</string>
-    <string name="_d_minutes">%1$d perc</string>
-    <string name="time_unit_minutes">Perc</string>
     <string name="greater_than">Több mint</string>
     <string name="less_than">Kevesebb mint</string>
     <string name="has_duration">Az időtartam</string>
@@ -1006,8 +995,6 @@
     <string name="delete_played_episode">Lejátszott epizód törlése</string>
     <string name="copy_files_to_download_directory">Fájlok másolása a letöltési könyvtárba</string>
     <string name="move_files_to_download_directory">Fájlok áthelyezése a letöltési könyvtárba</string>
-    <string name="greater_than_d_minutes">&gt; %1$d perc</string>
-    <string name="less_than_d_minutes">&lt; %1$d perc</string>
     <string name="jump_to_next_chapter">Ugrás a következő fejezetre</string>
     <string name="you_haven_t_left_any_reviews_yet">Még nem írt egyetlen véleményt sem.</string>
     <string name="true_crime">Megtörtént bűnügy</string>
@@ -1248,8 +1235,6 @@
     <string name="close_app_when_moving_to_background">Alk. bezárása háttérbe helyezéskor</string>
     <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
-    <string name="add_all_d_episodes_to_up_next_">Az összes (%1$d) epizód hozzáadása a \'Következő\' listához?</string>
-    <string name="add_all_d_episodes_to_playlist_">Az összes (%1$d) epizód hozzáadása a lejátszólistához?</string>
     <string name="date_added">Dátum hozzáadva</string>
     <string name="dynamic_colors">Dinamikus színek</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Színtéma alkalmazása a háttérkép alapján.</string>

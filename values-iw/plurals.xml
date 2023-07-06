@@ -111,4 +111,89 @@
         <item quantity="many">"%1$d פרקים נוספו להורדות"</item>
         <item quantity="other">"%1$d פרקים נוספו להורדות"</item>
     </plurals>
+
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"תזמן גיבוי אוטומטי בכל %1$d ימים"</item>
+        <item quantity="two">"תזמן גיבוי אוטומטי בכל %1$d ימים"</item>
+        <item quantity="many">"תזמן גיבוי אוטומטי בכל %1$d ימים"</item>
+        <item quantity="other">"תזמן גיבוי אוטומטי בכל %1$d ימים"</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"שמור %1$d גיבויים אוטומטיים אחרונים"</item>
+        <item quantity="two">"שמור %1$d גיבויים אוטומטיים אחרונים"</item>
+        <item quantity="many">"שמור %1$d גיבויים אוטומטיים אחרונים"</item>
+        <item quantity="other">"שמור %1$d גיבויים אוטומטיים אחרונים"</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d minute"</item>
+        <item quantity="two">"%1$d minutes"</item>
+        <item quantity="many">"%1$d minutes"</item>
+        <item quantity="other">"%1$d minutes"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d minute."</item>
+        <item quantity="two">"&gt; %1$d minute."</item>
+        <item quantity="many">"&gt; %1$d minutes."</item>
+        <item quantity="other">"&gt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d minute."</item>
+        <item quantity="two">"&lt; %1$d minute."</item>
+        <item quantity="many">"&lt; %1$d minutes."</item>
+        <item quantity="other">"&lt; %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"בעוד %1$d דקות"</item>
+        <item quantity="two">"בעוד %1$d דקות"</item>
+        <item quantity="many">"בעוד %1$d דקות"</item>
+        <item quantity="other">"בעוד %1$d דקות"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"הוסף %1$d דקות"</item>
+        <item quantity="two">"הוסף %1$d דקות"</item>
+        <item quantity="many">"הוסף %1$d דקות"</item>
+        <item quantity="other">"הוסף %1$d דקות"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"הורד את כל %1$d הפרקים?"</item>
+        <item quantity="two">"הורד את כל %1$d הפרקים?"</item>
+        <item quantity="many">"הורד את כל %1$d הפרקים?"</item>
+        <item quantity="other">"הורד את כל %1$d הפרקים?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Add one episode to Up next?"</item>
+        <item quantity="two">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="many">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Add one episode to playlist?"</item>
+        <item quantity="two">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="many">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="two">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="many">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="other">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="two">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="many">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="other">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+    </plurals>
+
 </resources>

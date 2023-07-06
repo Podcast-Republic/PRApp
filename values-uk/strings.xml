@@ -187,7 +187,6 @@
     <string name="remove">"Видалити"</string>
     <string name="redownload">"Завантажити повторно"</string>
     <string name="download_all">"Завантажити все"</string>
-    <string name="download_all_d_episodes">"Завантажити всі %1$d епізодів?"</string>
     <string name="display">"Показувати"</string>
     <string name="when_i_press_the_next_button">"Коли я натискаю кнопку «Пропустити»"</string>
     <string name="background_play">"Фонове програвання"</string>
@@ -402,7 +401,6 @@
     <string name="completed_downloads">"Завершені"</string>
     <string name="top_charts">"Найпопулярніші подкасти"</string>
     <string name="browse_top_charts">"Переглянути найпопулярніші подкасти"</string>
-    <string name="after_x_minutes">"Через %1$d хвилин"</string>
     <string name="after_current_episode_ends">"Після закінчення поточного епізоду"</string>
     <string name="add_a_chapter">"Додати розділ"</string>
     <string name="time">"Час"</string>
@@ -492,8 +490,6 @@
     <string name="error_episode_still_downloading">"Помилка: епізод все ще завантажується"</string>
     <string name="disabled">"Вимкнено"</string>
     <string name="click_to_open_full_screen_player_view">"Натисніть, щоб відкрити вікно повноекранного перегляду"</string>
-    <string name="keep_the_latest_x_downloads_for_each_podcast_">"Зберігати %1$d останніх завантажень для кожного подкасту"</string>
-    <string name="keep_the_latest_x_downloads_of_this_podcast_">"Зберігати %1$d останніх завантажень цього подкасту"</string>
     <string name="radio_stations">"Радіостанції"</string>
     <string name="radios">Радіо</string>
     <string name="stations">"Станції"</string>
@@ -558,8 +554,6 @@
     <string name="sign_out">"Вийти з акаунту"</string>
     <string name="syncing_started">"Початок синхронізації"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Синхронізація підписок та прогресу відтворення епізодів"</string>
-    <string name="schedule_auto_backup_every_d_days">"Запланувати автоматичне резервне копіювання через кожні %1$d днів"</string>
-    <string name="keep_most_recent_d_auto_backups">"Зберігати %1$d останніх резервних копій"</string>
     <string name="save_auto_backup_to_s">"Автоматичне резервне копіювання зберегти в: %1$s"</string>
     <string name="enable_auto_backup_of_app_settings_and_database">"Увімкнути автоматичне резервне копіювання налаштувань додатка та бази даних"</string>
     <string name="schedule_backup">"Запланувати резервне копіювання"</string>
@@ -596,7 +590,6 @@
     <string name="remove_favorite">"Видалити з улюблених"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Позначити всі епізоди, опубліковані раніше, ніж цей епізод (%1$s), які прослухані?"</string>
     <string name="exporting">"Експортую"</string>
-    <string name="extend_s_minutes">"Додати %1$d хвилин"</string>
     <string name="pick_a_time">"Виберіть час"</string>
     <string name="updating_podcasts">"Оновлення подкастів"</string>
     <string name="skip_ending">"Пропустити закінчення"</string>
@@ -951,8 +944,6 @@
     <string name="overwrite_volume_mute_state">Ігнорувати стан вимкнення звуку</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Дозволити перезаписати стан вимкнення звуку та відновити рівень гучності останнього відтворення</string>
     <string name="starting_podcast_update_checking">Початок перевірки оновлень подкастів.</string>
-    <string name="_d_minutes">%1$d хвилин</string>
-    <string name="time_unit_minutes">Хвилини</string>
     <string name="greater_than">Більше ніж</string>
     <string name="less_than">Менше ніж</string>
     <string name="has_duration">Має довжину</string>
@@ -1001,8 +992,6 @@
     <string name="delete_played_episode">Видалити прослуханий епізод</string>
     <string name="copy_files_to_download_directory">Скопіювати файли в каталог завантажень</string>
     <string name="move_files_to_download_directory">Перемістити файли в каталог завантажень</string>
-    <string name="greater_than_d_minutes">&gt; %1$d хвилин</string>
-    <string name="less_than_d_minutes">&lt; %1$d хвилин</string>
     <string name="jump_to_next_chapter">Перейти до наступного розділу</string>
     <string name="you_haven_t_left_any_reviews_yet">Ви ще не залишили жодного відгуку.</string>
     <string name="true_crime">Злочинність</string>
@@ -1243,8 +1232,6 @@
     <string name="close_app_when_moving_to_background">Закрити програму під час переходу у фоновий режим</string>
     <string name="close_background_app_message">Закрити програму під час переходу у фоновий режим. Ви зможете відтворювати подкасти у фоновому режимі, коли програму закрито. Однак ви не зможете перейти на той самий екран, коли знову відкриєте програму.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Коли нові епізоди завантажуються з каналу подкасту</string>
-    <string name="add_all_d_episodes_to_up_next_">Додати всі %1$d епізодів до черги?</string>
-    <string name="add_all_d_episodes_to_playlist_">Додати всі %1$d епізодів до списку відтворення?</string>
     <string name="date_added">Дата додання</string>
     <string name="dynamic_colors">Динамічні кольори</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Застосувати кольорову схему, засновану на фоновому зображенні</string>

@@ -79,4 +79,65 @@
         <item quantity="one">"Ein Objekt wurde den Downloads hinzugefügt."</item>
         <item quantity="other">"%1$d Episoden wurden den Downloads hinzugefügt."</item>
     </plurals>
+
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Automatisches Backup alle %1$d Tage festlegen."</item>
+        <item quantity="other">"Automatisches Backup alle %1$d Tage festlegen."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Die letzten %1$d automatischen Backups behalten."</item>
+        <item quantity="other">"Die letzten %1$d automatischen Backups behalten."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d minuten"</item>
+        <item quantity="other">"%1$d minuten"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d minuten."</item>
+        <item quantity="other">"&gt; %1$d minuten."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d minuten."</item>
+        <item quantity="other">"&lt; %1$d minuten."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"In %1$d Minuten"</item>
+        <item quantity="other">"In %1$d Minuten"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"%1$d Minuten hinzufügen"</item>
+        <item quantity="other">"%1$d Minuten hinzufügen"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Alle %1$d Episoden herunterladen?"</item>
+        <item quantity="other">"Alle %1$d Episoden herunterladen?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Alle %1$d Folgen zu Als Nächstes hinzufügen?"</item>
+        <item quantity="other">"Alle %1$d Folgen zu Als Nächstes hinzufügen?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Alle %1$d Folgen zur Playlist hinzufügen?"</item>
+        <item quantity="other">"Alle %1$d Folgen zur Playlist hinzufügen?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Behalte die letzten %1$d Downloads pro Podcast."</item>
+        <item quantity="other">"Behalte die letzten %1$d Downloads pro Podcast."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Behalte die letzten %1$d Downloads pro Podcast."</item>
+        <item quantity="other">"Behalte die letzten %1$d Downloads pro Podcast."</item>
+    </plurals>
+
 </resources>

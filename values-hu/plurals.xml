@@ -80,4 +80,64 @@
         <item quantity="other">%1$d epizód hozzáadva a Letöltésekhez.</item>
     </plurals>
 
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"Automatikus mentés minden %1$d. nap után."</item>
+        <item quantity="other">"Automatikus mentés minden %1$d. nap után."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"Tartsa meg az utolsó %1$d automatikus mentést."</item>
+        <item quantity="other">"Tartsa meg az utolsó %1$d automatikus mentést."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d perc"</item>
+        <item quantity="other">"%1$d perc"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d perc."</item>
+        <item quantity="other">"&gt; %1$d perc."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d perc."</item>
+        <item quantity="other">"&lt; %1$d perc."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"%1$d perc letelte után"</item>
+        <item quantity="other">"%1$d perc letelte után"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"%1$d perc hozzáadása"</item>
+        <item quantity="other">"%1$d perc hozzáadása"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Az összes letöltése %1$d ?"</item>
+        <item quantity="other">"Az összes letöltése %1$d ?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Az összes (%1$d) epizód hozzáadása a 'Következő' listához?"</item>
+        <item quantity="other">"Az összes (%1$d) epizód hozzáadása a 'Következő' listához?"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"Az összes (%1$d) epizód hozzáadása a lejátszólistához?"</item>
+        <item quantity="other">"Az összes (%1$d) epizód hozzáadása a lejátszólistához?"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"Tartsa meg a legfrissebb %1$d letöltést minden podcasthoz."</item>
+        <item quantity="other">"Tartsa meg a legfrissebb %1$d letöltést minden podcasthoz."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"Tartsa meg a legfrissebb %1$d letöltést minden podcasthoz."</item>
+        <item quantity="other">"Tartsa meg a legfrissebb %1$d letöltést minden podcasthoz."</item>
+    </plurals>
+
 </resources>

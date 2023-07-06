@@ -337,7 +337,7 @@
     <string name="playback_mode_shuffle">"Довільний"</string>
     <string name="update_on_charging">"Оновлювати під час зарядки"</string>
     <string name="update_podcasts_only_when_battery_is_charging">"Оновлювати подкасти лише під час зарядки акумулятора"</string>
-    <string name="filename">"Iменем файла"</string>
+    <string name="filename">"Назва файлу"</string>
     <string name="auto_backup_saved_to_">"Автоматичне резервне копіювання збережено в папці %1$s"</string>
     <string name="download_removed">"Завантаження видалено"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Завантажувати обкладинку лише при з'єднанні з Wi-Fi"</string>
@@ -466,7 +466,7 @@
     <string name="grid_size">"Розмір сітки"</string>
     <string name="play_pause_double_click">"Відтворення / Пауза подвійним клацанням"</string>
     <string name="total_episodes_d">"Всього епізодів: %1$d"</string>
-    <string name="duration">Тривалістю</string>
+    <string name="duration">Тривалість</string>
     <string name="browse_downloads">"Переглянути завантаження"</string>
     <string name="browse_by_playlist">"Переглянути список відтворення"</string>
     <string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Скидання епізодів призведе до видалення кешу епізодів та перебудовування переліку епізодів із каналу подкасту."</string>
@@ -1152,7 +1152,7 @@
     <string name="time_unit_minute_single_letter_format">Х</string>
     <string name="time_unit_second_single_letter_format">С</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">%d с.</string>
-    <string name="playback_speed_shortcuts">Швидкий вибір швидкостей</string>
+    <string name="playback_speed_shortcuts">Збережені швидкості</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Перемістити усі файли з «%1$s» до нового каталогу завантажень «%2$s»?</string>
     <string name="article_text_size">Розмір тексту в статтях</string>
     <string name="apply_this_change_to_all_rss_feeds">Застосувати цю зміну до всіх RSS-каналів?</string>

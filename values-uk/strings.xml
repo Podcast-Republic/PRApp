@@ -173,7 +173,7 @@
     <string name="subscriptions">"Підписки"</string>
     <string name="help_faqs">"Допомога / Часті питання"</string>
     <string name="next">"Пропустити"</string>
-    <string name="file_date">"Дата файла"</string>
+    <string name="file_date">"Дата файлу"</string>
     <string name="publishing_date">"Дата опублікування"</string>
     <string name="sort_manually">"Bручну"</string>
     <string name="update_podcasts">"Оновити подкасти"</string>
@@ -194,7 +194,7 @@
     <string name="show_descriptions">"Показати опис"</string>
     <string name="update_on_start">"Оновлювати при запуску"</string>
     <string name="media_player">"Медіаплеєр"</string>
-    <string name="download_location">"Місце завантаження…"</string>
+    <string name="download_location">"Місце завантаження"</string>
     <string name="change_log">"Список змін"</string>
     <string name="view_what_s_new_in_this_version">"Подивіться, що нового в цій версії"</string>
     <string name="version">"Версія"</string>

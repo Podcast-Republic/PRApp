@@ -287,7 +287,7 @@
     <string name="pause_the_playback">"Призупинити відтворення"</string>
     <string name="rewind_5_seconds">"Перемотати назад на 5 секунд"</string>
     <string name="repeat">"Повторити"</string>
-    <string name="keep_downloads">"Зберігати завантаженим"</string>
+    <string name="keep_downloads">"Зберігати завантаженими"</string>
     <string name="when_deleting_from_playlist">"При видаленні з плейлиста"</string>
     <string name="search">"Пошук"</string>
     <string name="edit">"Редагувати"</string>
@@ -1016,7 +1016,7 @@
     <string name="error_start_time_and_end_time_can_not_be_same_">Помилка: «Час початку» та «Час завершення» не можуть збігатися!</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
     <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Застосувати звукові ефекти до всіх подкастів і радіостанцій?</string>
-    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Дозволити завантажувати найстаріші невідтворені епізоди, якщо не знайдено нових невідтворених епізодів.</string>
+    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Дозволити завантажувати найстаріші невідтворені епізоди, якщо не знайдено новіших невідтворених епізодів.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Дозволити завантажувати найновіші невідтворені епізоди, якщо не знайдено старіших невідтворених епізодів.</string>
     <string name="website">Вебсайт</string>
     <string name="auto_load_last_played_episode">Автоприготування до відтворення останнього відтворюваного епізоду</string>

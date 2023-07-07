@@ -354,8 +354,8 @@
     <string name="start_downloading_only_when_battery_is_charging">"Почати завантаження лише коли апарат знаходиться на зарядці"</string>
     <string name="add_a_youtube_podcast">"Додати YouTube-подкаст"</string>
     <string name="channels">"Канали"</string>
-    <string name="channel_id">"Ідентифікатор каналу"</string>
-    <string name="playlist_id">"Ідентифікатор списку відтворення"</string>
+    <string name="channel_id">"ID каналу"</string>
+    <string name="playlist_id">"ID плейлиста"</string>
     <string name="when_deleting_an_episode">"При видаленні епізоду"</string>
     <string name="also_remove_from_downloads_amp_playlists">"Також видалити із завантажень і списків відтворення"</string>
     <string name="remove_episode_only">"Лише видалити епізод"</string>
@@ -475,7 +475,7 @@
     <string name="no_podcasts_selected">"Не вибрано жодного подкасту"</string>
     <string name="enjoy_podcast_republic">"Подобається Podcast Republic?"</string>
     <string name="select_an_image_on_device">"Виберіть зображення на пристрої"</string>
-    <string name="youtube_type">"Тип YouTube"</string>
+    <string name="youtube_type">"Тип YouTube-контенту"</string>
     <string name="scanning_">"Сканування…"</string>
     <string name="playback_speed">"Швидкість відтворення"</string>
     <string name="keep_playing">"Продовжувати відтворення без змін"</string>

@@ -165,7 +165,7 @@
     <string name="import_completed">"Імпорт завершено."</string>
     <string name="no_wifi_available">"Wi-Fi не доступний!"</string>
     <string name="tag">"Тег"</string>
-    <string name="updating">"Оновлюю…"</string>
+    <string name="updating">"Оновлення…"</string>
     <string name="preparing">"Підготовка…"</string>
     <string name="error_no_wifi">"Помилка: нема доступу до Wi-Fi."</string>
     <string name="auto_download">"Автоматичне завантаження"</string>
@@ -173,7 +173,7 @@
     <string name="subscriptions">"Підписки"</string>
     <string name="help_faqs">"Допомога / Часті питання"</string>
     <string name="next">"Пропустити"</string>
-    <string name="file_date">"Датою"</string>
+    <string name="file_date">"Дата файла"</string>
     <string name="publishing_date">"Дата опублікування"</string>
     <string name="sort_manually">"Bручну"</string>
     <string name="update_podcasts">"Оновити подкасти"</string>
@@ -194,7 +194,7 @@
     <string name="show_descriptions">"Показати опис"</string>
     <string name="update_on_start">"Оновлювати при запуску"</string>
     <string name="media_player">"Медіаплеєр"</string>
-    <string name="download_location">"Місце збереження…"</string>
+    <string name="download_location">"Місце завантаження…"</string>
     <string name="change_log">"Список змін"</string>
     <string name="view_what_s_new_in_this_version">"Подивіться, що нового в цій версії"</string>
     <string name="version">"Версія"</string>
@@ -269,7 +269,7 @@
     <string name="low">"Низька"</string>
     <string name="high">"Висока"</string>
     <string name="gesture_sensitivity">"Чутливість жесту"</string>
-    <string name="view_library_as">"Переглянути як …"</string>
+    <string name="view_library_as">"Переглянути як…"</string>
     <string name="list_view">"Перегляд списком"</string>
     <string name="grid_view">"Перегляд сіткою"</string>
     <string name="playback_mode_playlist">"Почерговий"</string>
@@ -430,8 +430,8 @@
     <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Не завантажувати епізод, якщо збігається одне з ключових слів: %1$s."</string>
     <string name="keywords">"Ключові слова"</string>
     <string name="enter_keywords">"Введіть ключові слова"</string>
-    <string name="restoring_">"Відновлюю…"</string>
-    <string name="creating_backup_">"Створюю резервну копію…"</string>
+    <string name="restoring_">"Відновлення…"</string>
+    <string name="creating_backup_">"Створення резервної копії…"</string>
     <string name="resume_downloads">"Продовжити завантаження"</string>
     <string name="clear_playlist">"Очистити список відтворення"</string>
     <string name="clear_current_playlist_">"Очистити поточний список відтворення?"</string>
@@ -605,8 +605,8 @@
     <string name="sign_up">"Зареєструватися"</string>
     <string name="download_state_idle">"Очікую початку завантаження"</string>
     <string name="download_state_fetching_url">"Шукаю ресурси для завантаження"</string>
-    <string name="download_state_connecting">"Підключаюся…"</string>
-    <string name="download_state_downloading">"триває завантаження"</string>
+    <string name="download_state_connecting">"Підключення…"</string>
+    <string name="download_state_downloading">"Триває завантаження"</string>
     <string name="download_state_completed">"Завершено!"</string>
     <string name="download_state_paused_network_unavailable">"Призупинено: очікування мережі"</string>
     <string name="download_state_failed_incorrect_file_received">"Не вдалося: отримано неправильний файл."</string>
@@ -672,7 +672,7 @@
     <string name="casting">"Беруть участь"</string>
     <string name="chapter_d">"Розділ № %d"</string>
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Будь ласка, не закривайте додаток, коли він відновлює дані. Після перезавантаження всі дані буде відновлено."</string>
-    <string name="playback_paused_on_muted_volume_">"Звук вимкнено… відтворення призупинено!"</string>
+    <string name="playback_paused_on_muted_volume_">"Відтворення призупинено, оскільки звук вимкнено!"</string>
     <string name="number_of_episodes_to_auto_download">"Кількість епізодів для автоматичного завантаження"</string>
     <string name="notify_when_new_episodes_are_available">"Сповіщати, коли з'являються нові епізоди"</string>
     <string name="com_parse_ui_progress_dialog_text">"Завантаження…"</string>
@@ -703,7 +703,7 @@
     <string name="syncing_episode_changes_">"Синхронізація змін в епізодах…"</string>
     <string name="syncing_radio_station_changes_">"Синхронізація змін підписок на радіо"</string>
     <string name="syncing_podcast_changes_">"Синхронізація змін в подкастах…"</string>
-    <string name="syncing">"Синхронізую…"</string>
+    <string name="syncing">"Синхронізація…"</string>
     <string name="continue_to_next_playlist">"Перейти до наступного списку відтворення"</string>
     <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Перейти до наступного списку відтворення після відтворення всіх епізодів у поточному."</string>
     <string name="enable_manual_sorting">"Увімкнути ручне сортування"</string>
@@ -766,7 +766,7 @@
     <string name="popular">Популярні</string>
     <string name="select_episodes_from_today">Виберіть сьогоднішні епізоди</string>
     <string name="we_ve_detected_a_crash_in_the_app_before_would_you_like_to_send_the_crash_report_so_we_can_fix_the_problem_">"Ми раніше помічали аварійне завершення програми. Чи хочете ви надіслати креш-звіт, щоб ми змогли виправити проблему?"</string>
-    <string name="generating_bug_report_">Генерую креш-звіт…</string>
+    <string name="generating_bug_report_">Складання креш-звіту…</string>
     <string name="apply_to_all_radio_stations">Застосувати до всіх радіостанцій</string>
     <string name="apply_to_current_radio_station">Застосувати до поточної станції</string>
     <string name="skip_silence">Пропустити тишу</string>

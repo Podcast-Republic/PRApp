@@ -276,7 +276,7 @@
     <string name="playback_mode_single_episode">"Один епізод"</string>
     <string name="s_has_been_added_to_subscription">"%1$s було додано до підписок"</string>
     <string name="audio_not_started_yet">"Відтворення ще не розпочато!"</string>
-    <string name="manage_playlists">"Керування списками відтворення"</string>
+    <string name="manage_playlists">"Керувати плейлистами"</string>
     <string name="download">"Завантажити"</string>
     <string name="fast_forward_time">"Тривалість перемотування вперед"</string>
     <string name="fast_rewind_time">"Тривалість перемотування назад"</string>
@@ -566,7 +566,7 @@
     <string name="buy_me_a_coffee">"Донат"</string>
     <string name="clear_the_play_history_">"Очистити історію відтворення?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Сповіщати коли завантаження видалено через квоту пам'яті на завантаження або коли досягнуто обмеження щодо кількості завантажень"</string>
-    <string name="keep_all">"Зберегти все"</string>
+    <string name="keep_all">"Зберігати всі"</string>
     <string name="playlist">"Плейлист"</string>
     <string name="category">"Категорія"</string>
     <string name="update_podcasts_when_app_is_starting">"Оновити подкасти при запуску додатка"</string>

@@ -1188,7 +1188,7 @@
     <string name="display_chapter_title_and_artwork">Показати назву та обкладинку розділу</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Показувати назву розділу та обкладинку в програвачі, якщо розділ існує.</string>
     <string name="subscribed_date">Дата підписки</string>
-    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Мінімальна тривалість мовчання для активного видалення: %.2fs.</string>
+    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Мінімальна тривалість тиші, що підлягатиме активному видаленню: %.2f с.</string>
     <string name="_2f_second_short_format">%.2fс</string>
     <string name="only_show_podcasts_having_new_release_after_the_selected_date">Показувати лише подкасти, які мають епізод, опублікований після вибраної дати.</string>
     <string name="only_show_episodes_published_after_the_selected_date">Показувати лише епізоди, опубліковані після вибраної дати.</string>

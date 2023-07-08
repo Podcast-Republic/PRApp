@@ -934,8 +934,8 @@
     <string name="keep_all_articles">Зберегти всі статті</string>
     <string name="keep_articles">Зберегти статті</string>
     <string name="keep_articles_from_last_d_days">Зберігати статті за останні %d днів</string>
-    <string name="pref_download_location_select_prompt_message">Ви будете перенаправлені до файлового менеджера Android. Будь ласка, виберіть каталог у внутрішній пам’яті або SD-карті, який буде використовуватися як місце завантаження.</string>
-    <string name="review_wifi_only_prompt_message">Чи знаєте ви, що ця програма за умовчанням використовує лише Wi-Fi? Ви можете вимкнути використання лише Wi-Fi, якщо у вас швидке з’єднання для передачі даних. Хочете зараз переглянути налаштування використання лише Wi-Fi?</string>
+    <string name="pref_download_location_select_prompt_message">Ви будете перенаправлені до файлового менеджера Android. Будь ласка, виберіть каталог у внутрішній пам\’яті або SD-карті, який буде використовуватися як місце завантаження.</string>
+    <string name="review_wifi_only_prompt_message">Чи знаєте ви, що ця програма за умовчанням використовує лише Wi-Fi? Ви можете вимкнути використання лише Wi-Fi, якщо у вас швидке з\’єднання для передачі даних. Хочете зараз переглянути налаштування використання лише Wi-Fi?</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Видаліть файл віртуального подкасту зі сховища після відтворення</string>
     <string name="play_all">Слухати всі</string>
     <string name="remove_played_episode">Видалити прослуханий епізод</string>
@@ -1223,7 +1223,7 @@
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Чергу не буде оновлено згідно зі списком відтворюваних наразі епізодів або списком відтворення.</string>
     <string name="update_up_next_automatically">Автоматично оновлювати чергу</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Автоматично оновлювати чергу коли список відтворюваних наразі епізодів або список відтворення були змінені або оновлені.</string>
-    <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Введіть нижче ім’я користувача та пароль, якщо RSS-канал потребує автентифікації. Залиште їх пустими, якщо автентифікація не потрібна.</string>
+    <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Введіть нижче ім\’я користувача та пароль, якщо RSS-канал потребує автентифікації. Залиште їх пустими, якщо автентифікація не потрібна.</string>
     <string name="play_pause_triple_click">Відтворення / Пауза подтрійним натисканням</string>
     <string name="title_display">Відображення назви</string>
     <string name="rotate_by_priority">Чергувати за пріоритетом подкасту</string>

@@ -808,7 +808,7 @@
     <string name="enabled_buttons_">"Показувати кнопки: "</string>
     <string name="bottom_navigation_bar">Нижня навігаційна панель</string>
     <string name="play_bar">Панель відтворення</string>
-    <string name="can_not_edit_default_episode_filter_">Не можливо видалити фільтр епізодів за замовчуванням!</string>
+    <string name="can_not_edit_default_episode_filter_">Неможливо редагувати стандартний фільтр епізодів!</string>
     <string name="playlist_name">Назва списку відтворення</string>
     <string name="priority">Пріоритет</string>
     <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з більшим пріоритетом буде відтворений раніше.</string>

@@ -924,7 +924,7 @@
     <string name="there_are_no_episodes_with_notes_">Немає жодного епізоду з нотатками!</string>
     <string name="there_are_no_deleted_episodes_">Немає жодного видаленого епізоду!</string>
     <string name="mark_as_favorite">Позначити улюбленим</string>
-    <string name="remove_favorite_mark">Видалити позначку улюбленого</string>
+    <string name="remove_favorite_mark">Скасувати позначення улюбленим</string>
     <string name="rotate_by_podcasts">Чергувати за подкастами</string>
     <string name="search_in_all_podcasts">Шукати в усіх подкастах</string>
     <string name="search_in_subscribed_podcasts">Шукайте в подкастах, на які ви підписалися</string>

@@ -172,7 +172,7 @@
     <string name="playing">"Зараз грає"</string>
     <string name="subscriptions">"Підписки"</string>
     <string name="help_faqs">"Допомога / Часті питання"</string>
-    <string name="next">"Пропустити"</string>
+    <string name="next">"Наступний"</string>
     <string name="file_date">"Дата файлу"</string>
     <string name="publishing_date">"Дата опублікування"</string>
     <string name="sort_manually">"Bручну"</string>
@@ -188,7 +188,7 @@
     <string name="redownload">"Завантажити повторно"</string>
     <string name="download_all">"Завантажити все"</string>
     <string name="display">"Показувати"</string>
-    <string name="when_i_press_the_next_button">"Коли я натискаю кнопку «Пропустити»"</string>
+    <string name="when_i_press_the_next_button">"Коли я натискаю кнопку «Наступний»"</string>
     <string name="background_play">"Фонове програвання"</string>
     <string name="user_interface">"Інтерфейс"</string>
     <string name="show_descriptions">"Показати опис"</string>
@@ -380,7 +380,7 @@
     <string name="hide_empty_podcasts">"Сховати порожні подкасти"</string>
     <string name="pause_downloads">"Призупинити завантаження"</string>
     <string name="has_keywords_in_title">"Має ключові слова у назві"</string>
-    <string name="previous">"Повернутись"</string>
+    <string name="previous">"Попередній"</string>
     <string name="bluetooth_headset_key_mapping">"Налаштування клавіш Bluetooth / гарнітури"</string>
     <string name="button">"Клавіша"</string>
     <string name="and">"та"</string>
@@ -1153,7 +1153,7 @@
     <string name="jump_to_previous_episode">Перейти до попереднього епізоду</string>
     <string name="jump_to_the_beginning">Перейти до початку</string>
     <string name="jump_to_previous_chapter">Перейти до попереднього розділу</string>
-    <string name="when_i_press_the_previous_button">Коли я натискаю кнопку «Повернутись»</string>
+    <string name="when_i_press_the_previous_button">Коли я натискаю кнопку «Попередній»</string>
     <string name="playback_mode_single_episode_load_next">Один епізод (приготувати наступний)</string>
     <string name="schedule_as_verb">Запланувати</string>
     <string name="schedule_a_date">Запланувати дату</string>

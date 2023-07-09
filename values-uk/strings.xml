@@ -172,7 +172,7 @@
     <string name="playing">"Зараз грає"</string>
     <string name="subscriptions">"Підписки"</string>
     <string name="help_faqs">"Допомога / Часті питання"</string>
-    <string name="next">"Пропустити"</string>
+    <string name="next">"Наступний"</string>
     <string name="file_date">"Дата файлу"</string>
     <string name="publishing_date">"Дата опублікування"</string>
     <string name="sort_manually">"Bручну"</string>
@@ -188,7 +188,7 @@
     <string name="redownload">"Завантажити повторно"</string>
     <string name="download_all">"Завантажити все"</string>
     <string name="display">"Показувати"</string>
-    <string name="when_i_press_the_next_button">"Коли я натискаю кнопку «Пропустити»"</string>
+    <string name="when_i_press_the_next_button">"Коли я натискаю кнопку «Наступний»"</string>
     <string name="background_play">"Фонове програвання"</string>
     <string name="user_interface">"Інтерфейс"</string>
     <string name="show_descriptions">"Показати опис"</string>
@@ -276,7 +276,7 @@
     <string name="playback_mode_single_episode">"Один епізод"</string>
     <string name="s_has_been_added_to_subscription">"%1$s було додано до підписок"</string>
     <string name="audio_not_started_yet">"Відтворення ще не розпочато!"</string>
-    <string name="manage_playlists">"Керування списками відтворення"</string>
+    <string name="manage_playlists">"Керувати плейлистами"</string>
     <string name="download">"Завантажити"</string>
     <string name="fast_forward_time">"Тривалість перемотування вперед"</string>
     <string name="fast_rewind_time">"Тривалість перемотування назад"</string>
@@ -380,7 +380,7 @@
     <string name="hide_empty_podcasts">"Сховати порожні подкасти"</string>
     <string name="pause_downloads">"Призупинити завантаження"</string>
     <string name="has_keywords_in_title">"Має ключові слова у назві"</string>
-    <string name="previous">"Повернутись"</string>
+    <string name="previous">"Попередній"</string>
     <string name="bluetooth_headset_key_mapping">"Налаштування клавіш Bluetooth / гарнітури"</string>
     <string name="button">"Клавіша"</string>
     <string name="and">"та"</string>
@@ -566,7 +566,7 @@
     <string name="buy_me_a_coffee">"Донат"</string>
     <string name="clear_the_play_history_">"Очистити історію відтворення?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Сповіщати коли завантаження видалено через квоту пам'яті на завантаження або коли досягнуто обмеження щодо кількості завантажень"</string>
-    <string name="keep_all">"Зберегти все"</string>
+    <string name="keep_all">"Зберігати всі"</string>
     <string name="playlist">"Плейлист"</string>
     <string name="category">"Категорія"</string>
     <string name="update_podcasts_when_app_is_starting">"Оновити подкасти при запуску додатка"</string>
@@ -808,7 +808,7 @@
     <string name="enabled_buttons_">"Показувати кнопки: "</string>
     <string name="bottom_navigation_bar">Нижня навігаційна панель</string>
     <string name="play_bar">Панель відтворення</string>
-    <string name="can_not_edit_default_episode_filter_">Не можливо видалити фільтр епізодів за замовчуванням!</string>
+    <string name="can_not_edit_default_episode_filter_">Неможливо редагувати стандартний фільтр епізодів!</string>
     <string name="playlist_name">Назва списку відтворення</string>
     <string name="priority">Пріоритет</string>
     <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з більшим пріоритетом буде відтворений раніше.</string>
@@ -924,7 +924,7 @@
     <string name="there_are_no_episodes_with_notes_">Немає жодного епізоду з нотатками!</string>
     <string name="there_are_no_deleted_episodes_">Немає жодного видаленого епізоду!</string>
     <string name="mark_as_favorite">Позначити улюбленим</string>
-    <string name="remove_favorite_mark">Видалити позначку улюбленого</string>
+    <string name="remove_favorite_mark">Скасувати позначення улюбленим</string>
     <string name="rotate_by_podcasts">Чергувати за подкастами</string>
     <string name="search_in_all_podcasts">Шукати в усіх подкастах</string>
     <string name="search_in_subscribed_podcasts">Шукайте в подкастах, на які ви підписалися</string>
@@ -934,8 +934,8 @@
     <string name="keep_all_articles">Зберегти всі статті</string>
     <string name="keep_articles">Зберегти статті</string>
     <string name="keep_articles_from_last_d_days">Зберігати статті за останні %d днів</string>
-    <string name="pref_download_location_select_prompt_message">Ви будете перенаправлені до файлового менеджера Android. Будь ласка, виберіть каталог у внутрішній пам’яті або SD-карті, який буде використовуватися як місце завантаження.</string>
-    <string name="review_wifi_only_prompt_message">Чи знаєте ви, що ця програма за умовчанням використовує лише Wi-Fi? Ви можете вимкнути використання лише Wi-Fi, якщо у вас швидке з’єднання для передачі даних. Хочете зараз переглянути налаштування використання лише Wi-Fi?</string>
+    <string name="pref_download_location_select_prompt_message">Ви будете перенаправлені до файлового менеджера Android. Будь ласка, виберіть каталог у внутрішній пам\’яті або SD-карті, який буде використовуватися як місце завантаження.</string>
+    <string name="review_wifi_only_prompt_message">Чи знаєте ви, що ця програма за умовчанням використовує лише Wi-Fi? Ви можете вимкнути використання лише Wi-Fi, якщо у вас швидке з\’єднання для передачі даних. Хочете зараз переглянути налаштування використання лише Wi-Fi?</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Видаліть файл віртуального подкасту зі сховища після відтворення</string>
     <string name="play_all">Слухати всі</string>
     <string name="remove_played_episode">Видалити прослуханий епізод</string>
@@ -1153,7 +1153,7 @@
     <string name="jump_to_previous_episode">Перейти до попереднього епізоду</string>
     <string name="jump_to_the_beginning">Перейти до початку</string>
     <string name="jump_to_previous_chapter">Перейти до попереднього розділу</string>
-    <string name="when_i_press_the_previous_button">Коли я натискаю кнопку «Повернутись»</string>
+    <string name="when_i_press_the_previous_button">Коли я натискаю кнопку «Попередній»</string>
     <string name="playback_mode_single_episode_load_next">Один епізод (приготувати наступний)</string>
     <string name="schedule_as_verb">Запланувати</string>
     <string name="schedule_a_date">Запланувати дату</string>
@@ -1188,7 +1188,7 @@
     <string name="display_chapter_title_and_artwork">Показати назву та обкладинку розділу</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Показувати назву розділу та обкладинку в програвачі, якщо розділ існує.</string>
     <string name="subscribed_date">Дата підписки</string>
-    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Мінімальна тривалість мовчання для активного видалення: %.2fs.</string>
+    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Мінімальна тривалість тиші, що підлягатиме активному видаленню: %.2f с.</string>
     <string name="_2f_second_short_format">%.2fс</string>
     <string name="only_show_podcasts_having_new_release_after_the_selected_date">Показувати лише подкасти, які мають епізод, опублікований після вибраної дати.</string>
     <string name="only_show_episodes_published_after_the_selected_date">Показувати лише епізоди, опубліковані після вибраної дати.</string>
@@ -1223,7 +1223,7 @@
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Чергу не буде оновлено згідно зі списком відтворюваних наразі епізодів або списком відтворення.</string>
     <string name="update_up_next_automatically">Автоматично оновлювати чергу</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Автоматично оновлювати чергу коли список відтворюваних наразі епізодів або список відтворення були змінені або оновлені.</string>
-    <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Введіть нижче ім’я користувача та пароль, якщо RSS-канал потребує автентифікації. Залиште їх пустими, якщо автентифікація не потрібна.</string>
+    <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Введіть нижче ім\’я користувача та пароль, якщо RSS-канал потребує автентифікації. Залиште їх пустими, якщо автентифікація не потрібна.</string>
     <string name="play_pause_triple_click">Відтворення / Пауза подтрійним натисканням</string>
     <string name="title_display">Відображення назви</string>
     <string name="rotate_by_priority">Чергувати за пріоритетом подкасту</string>

@@ -204,7 +204,8 @@
     <string name="action">"פעולה"</string>
     <string name="download_only_when_connected_to_wifi">"הורד רק כאשר מחובר לרשת אלחוטית"</string>
     <string name="add_to_new_tag">"הוסף לתג חדש"</string>
-    <string name="enter_new_tag_name">"הזן שם תג חדש"</string>
+    <string name="enter_a_new_tag_name">"הזן שם תג חדש"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"מצב נהיגה"</string>
     <string name="update_artwork">"עדכן נתונים גרפיים"</string>
     <string name="enter_new_artwork_url">"הזן כתובת URL לנתונים גרפיים חדשים"</string>
@@ -435,7 +436,7 @@
     <string name="resume_downloads">"המשך הורדות"</string>
     <string name="clear_playlist">"נקה רשימת השמעה"</string>
     <string name="clear_current_playlist_">"נקה רשימת השמעה נוכחית?"</string>
-    <string name="enter_new_playlist_name">"הזן את שם רשימת ההשמעה"</string>
+    <string name="enter_a_new_playlist_name">"הזן את שם רשימת ההשמעה"</string>
     <string name="podcast_exported_to_">"פודקסאט מיוצא ל: [ %1$s ]"</string>
     <string name="search_not_found">"חיפוש לא נמצא"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] לא נמצא. להוסיף פודקאסט זה באמצעות כתובת האתר (URL)?"</string>

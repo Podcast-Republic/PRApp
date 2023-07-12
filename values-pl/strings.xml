@@ -203,7 +203,8 @@
     <string name="action">"Wykonaj"</string>
     <string name="download_only_when_connected_to_wifi">Pobieraj odcinki tylko, gdy aktywne jest połączenie WiFi</string>
     <string name="add_to_new_tag">Dodaj nowy tag</string>
-    <string name="enter_new_tag_name">Wprowadź nazwę tagu</string>
+    <string name="enter_a_new_tag_name">Wprowadź nazwę tagu</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Tryb samochodowy</string>
     <string name="update_artwork">Pobierz okładki</string>
     <string name="enter_new_artwork_url">Wpisz adres URL okładki</string>
@@ -433,7 +434,7 @@
     <string name="resume_downloads">Wznów pobieranie</string>
     <string name="clear_playlist">Wyczyść playlistę</string>
     <string name="clear_current_playlist_">Czy wyczyścić bieżącą playlistę?</string>
-    <string name="enter_new_playlist_name">Podaj nazwę playlisty</string>
+    <string name="enter_a_new_playlist_name">Podaj nazwę playlisty</string>
     <string name="podcast_exported_to_">"Podcast został wyeksportowany do: [%1$s]"</string>
     <string name="search_not_found">Nic nie znaleziono</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] nie znaleziony. Dodać ten podcast?"</string>

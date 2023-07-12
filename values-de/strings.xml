@@ -203,7 +203,8 @@
     <string name="action">"Aktion"</string>
     <string name="download_only_when_connected_to_wifi">"Nur über WLAN herunterladen"</string>
     <string name="add_to_new_tag">"Zu neuem Etikett hinzufügen"</string>
-    <string name="enter_new_tag_name">"Namen des neuen Etiketts eingeben"</string>
+    <string name="enter_a_new_tag_name">"Namen des neuen Etiketts eingeben"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"Auto-Modus"</string>
     <string name="update_artwork">"Bild aktualisieren"</string>
     <string name="enter_new_artwork_url">"Neue Bild-URL eingeben"</string>
@@ -435,7 +436,7 @@
     <string name="resume_downloads">"Downloads fortsetzen"</string>
     <string name="clear_playlist">"Playlist löschen"</string>
     <string name="clear_current_playlist_">"Aktuelle Playlist löschen?"</string>
-    <string name="enter_new_playlist_name">"Playlist-Namen eingeben"</string>
+    <string name="enter_a_new_playlist_name">"Playlist-Namen eingeben"</string>
     <string name="podcast_exported_to_">"Podcast exportiert nach: [%1$s]"</string>
     <string name="search_not_found">"Suchbegriff nicht gefunden"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] nicht gefunden. Podcast manuell per URL hinzufügen?"</string>

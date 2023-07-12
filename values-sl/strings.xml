@@ -212,7 +212,8 @@
     <string name="action">"Dejanje"</string>
     <string name="download_only_when_connected_to_wifi">Prenesi samo kadar je naprava povezana v Wi-Fi omrežje.</string>
     <string name="add_to_new_tag">Oznaka Dodaj k novm</string>
-    <string name="enter_new_tag_name">Vnesi ime nove oznake</string>
+    <string name="enter_a_new_tag_name">Vnesi ime nove oznake</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Način za med vožnjo</string>
     <string name="update_artwork">Posodobi grafično podobo</string>
     <string name="enter_new_artwork_url">Vnesi nov URL naslov za grafično podobo</string>
@@ -440,7 +441,7 @@
     <string name="resume_downloads">Nadaljuj prenose</string>
     <string name="clear_playlist">Počisti seznam</string>
     <string name="clear_current_playlist_">Počisti trenutni seznam?</string>
-    <string name="enter_new_playlist_name">Vnesi ime seznama</string>
+    <string name="enter_a_new_playlist_name">Vnesi ime seznama</string>
     <string name="podcast_exported_to_">"Podkast izvožen v: [%1$s]"</string>
     <string name="search_not_found">Iskanje ni bilo uspešno</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] ni bil najden. Dodaj ta podkast preko URL naslova?"</string>

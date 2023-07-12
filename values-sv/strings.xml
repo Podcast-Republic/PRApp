@@ -203,7 +203,8 @@
     <string name="action">"Åtgärd"</string>
     <string name="download_only_when_connected_to_wifi">Hämta endast via WiFi</string>
     <string name="add_to_new_tag">Skapa ny etikett</string>
-    <string name="enter_new_tag_name">Skriv etikettens namn</string>
+    <string name="enter_a_new_tag_name">Skriv etikettens namn</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Billäge</string>
     <string name="update_artwork">Uppdatera bild</string>
     <string name="enter_new_artwork_url">Lägg till ny bild-URL</string>
@@ -441,7 +442,7 @@
     <string name="resume_downloads">Fortsätt hämta</string>
     <string name="clear_playlist">Rensa spellista</string>
     <string name="clear_current_playlist_">Rensa aktuell spellista?</string>
-    <string name="enter_new_playlist_name">Spellistans namn</string>
+    <string name="enter_a_new_playlist_name">Spellistans namn</string>
     <string name="podcast_exported_to_">"Podcast exporterad till: [%1$s]"</string>
     <string name="search_not_found">Hittades inte</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] hittades inte. Lägg till Podcast?”</string>

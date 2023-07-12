@@ -212,7 +212,8 @@
     <string name="action">"Action"</string>
     <string name="download_only_when_connected_to_wifi">Download only when connected to Wi-Fi.</string>
     <string name="add_to_new_tag">Add To New Tag</string>
-    <string name="enter_new_tag_name">Enter new tag name</string>
+    <string name="enter_a_new_tag_name">Enter a new tag name</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Car mode</string>
     <string name="update_artwork">Update artwork</string>
     <string name="enter_new_artwork_url">Enter a new artwork URL</string>
@@ -458,7 +459,7 @@
     <string name="resume_downloads">Resume downloads</string>
     <string name="clear_playlist">Clear playlist</string>
     <string name="clear_current_playlist_">Clear current playlist?</string>
-    <string name="enter_new_playlist_name">Enter new playlist name</string>
+    <string name="enter_a_new_playlist_name">Enter a new playlist name</string>
     <string name="podcast_exported_to_">"Podcast exported to: [%1$s]"</string>
     <string name="search_not_found">Search Not Found</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] is not found. Add this podcast by URL?"</string>

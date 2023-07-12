@@ -203,7 +203,8 @@
     <string name="action">"الإجراء"</string>
     <string name="download_only_when_connected_to_wifi">"تنزيل فقط عند الاتصال بشبكة واي فاي"</string>
     <string name="add_to_new_tag">"إضافة إلى وسم جديد"</string>
-    <string name="enter_new_tag_name">"أدخل اسم وسم جديد"</string>
+    <string name="enter_a_new_tag_name">"أدخل اسم وسم جديد"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"وضعية السيارة"</string>
     <string name="update_artwork">"تحديث الرسمه التعبيرية"</string>
     <string name="enter_new_artwork_url">"أدخل رابط الرسمة التعبيرية الجديدة"</string>
@@ -435,7 +436,7 @@
     <string name="resume_downloads">"استئناف التنزيل"</string>
     <string name="clear_playlist">"ازالة محتوى قائمة التشغيل"</string>
     <string name="clear_current_playlist_">"ازالة محتوى قائمة التشغيل الحالية؟"</string>
-    <string name="enter_new_playlist_name">"أدخل اسم قائمة التشغيل"</string>
+    <string name="enter_a_new_playlist_name">"أدخل اسم قائمة التشغيل"</string>
     <string name="podcast_exported_to_">"تم تصديرالبودكاست إلى: [ %s ]"</string>
     <string name="search_not_found">"لم يتم العثور على البحث"</string>
     <string name="_is_not_found_add_this_podcast_">"[ %s لم يتم العثور]. إضافة هذا podcast التي كتبها URL؟"</string>

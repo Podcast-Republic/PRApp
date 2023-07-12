@@ -190,6 +190,7 @@
     <string name="can_not_play_the_downloaded_file"> Kunne ikke spille av den nedlastede filen</string>
     <string name="can_not_play_the_local_file">Kunne ikke spille av den lokale filen</string>
     <string name="cancel">Avbryt</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Kjøremodus</string>
     <string name="casting">Casting</string>
     <string name="category">Kategori</string>
@@ -317,8 +318,8 @@
     <string name="enjoy_podcast_republic">Liker du Podcast Republic?</string>
     <string name="enter_keywords">Skriv søkeord</string>
     <string name="enter_new_artwork_url">Legg til ny bilde-URL</string>
-    <string name="enter_new_tag_name">Gi etiketten nytt navn</string>
-    <string name="enter_new_playlist_name">Gi spillelisten navn</string>
+    <string name="enter_a_new_tag_name">Gi etiketten nytt navn</string>
+    <string name="enter_a_new_playlist_name">Gi spillelisten navn</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">Skriv inn brukernavn og passord dersom podcasten krever det. Ellers ikke.</string>
     <string name="episode_downloading">Laster ned</string>
     <string name="episode_filter">Episodefilter</string>

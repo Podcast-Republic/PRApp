@@ -203,7 +203,8 @@
     <string name="action">Művelet</string>
     <string name="download_only_when_connected_to_wifi">Letöltés csak WiFi kapcsolaton</string>
     <string name="add_to_new_tag">Hozzáadás új címkéhez</string>
-    <string name="enter_new_tag_name">Írja be az új címke nevét</string>
+    <string name="enter_a_new_tag_name">Írja be az új címke nevét</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Autós mód</string>
     <string name="update_artwork">Borítókép frissítése</string>
     <string name="enter_new_artwork_url">Adjon meg egy új borítókép URL címet</string>
@@ -435,7 +436,7 @@
     <string name="resume_downloads">Letöltések folytatása</string>
     <string name="clear_playlist">Lejátszólista törlése</string>
     <string name="clear_current_playlist_">Aktuális lejátszólista törlése?</string>
-    <string name="enter_new_playlist_name">Írja be a lista nevét</string>
+    <string name="enter_a_new_playlist_name">Írja be a lista nevét</string>
     <string name="podcast_exported_to_">A podcast exportálva ide: [ %1$s ]</string>
     <string name="search_not_found">A keresés nem talált eredményt</string>
     <string name="_is_not_found_add_this_podcast_">[ %1$s ] nem található. Hozzáadja ezt a podcastot URL címként?</string>

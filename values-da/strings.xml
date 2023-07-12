@@ -204,7 +204,8 @@
     <string name="action">"Handling"</string>
     <string name="download_only_when_connected_to_wifi">"Download kun via Wi-Fi"</string>
     <string name="add_to_new_tag">"Tilføj til nyt tag"</string>
-    <string name="enter_new_tag_name">"Indtast nyt tagnavn"</string>
+    <string name="enter_a_new_tag_name">"Indtast nyt tagnavn"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"Biltilstand"</string>
     <string name="update_artwork">"Opdater billede"</string>
     <string name="enter_new_artwork_url">"Indtast en ny billed-URL"</string>
@@ -436,7 +437,7 @@
     <string name="resume_downloads">"Genoptag downloads"</string>
     <string name="clear_playlist">"Ryd playliste"</string>
     <string name="clear_current_playlist_">"Ryd nuværende playliste?"</string>
-    <string name="enter_new_playlist_name">"Indtast navn på playliste"</string>
+    <string name="enter_a_new_playlist_name">"Indtast navn på playliste"</string>
     <string name="podcast_exported_to_">"Podcast eksporteret til: [ %1$s ]"</string>
     <string name="search_not_found">"Søgningen gav inget resultat"</string>
     <string name="_is_not_found_add_this_podcast_">"[ %1$s ] blev ikke fundet. Tilføj podcasten via URL?"</string>

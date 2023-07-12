@@ -203,7 +203,8 @@
     <string name="action">"Märul"</string>
     <string name="download_only_when_connected_to_wifi">"Lae alles siis, kui on ühendatud Wi-Fi-ga"</string>
     <string name="add_to_new_tag">"Lisa uus silt"</string>
-    <string name="enter_new_tag_name">"Sisesta uue sildi nimi"</string>
+    <string name="enter_a_new_tag_name">"Sisesta uue sildi nimi"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"Auto režiim"</string>
     <string name="update_artwork">"Uuenda kunsti"</string>
     <string name="enter_new_artwork_url">"Sisestage uue kunsti URL aadress"</string>
@@ -435,7 +436,7 @@
     <string name="resume_downloads">"Jätka allalaadimist"</string>
     <string name="clear_playlist">"Tühjenda esitusloend"</string>
     <string name="clear_current_playlist_">"Tühjenda praegune esitusloend?"</string>
-    <string name="enter_new_playlist_name">"Sisesta esitusnimekirja nimi"</string>
+    <string name="enter_a_new_playlist_name">"Sisesta esitusnimekirja nimi"</string>
     <string name="podcast_exported_to_">"Taskuhäälingut eksporditakse: [ %1$s ]"</string>
     <string name="search_not_found">"Otsing Mitte Leitud"</string>
     <string name="_is_not_found_add_this_podcast_">"[ %1$s ] ei leitud. Lisa see taskuhääling URL aadressi kaudu?"</string>

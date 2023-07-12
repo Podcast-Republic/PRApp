@@ -204,7 +204,8 @@
     <string name="action">"Azione"</string>
     <string name="download_only_when_connected_to_wifi">"Scarica solo quando si è connessi ad una rete Wi-Fi"</string>
     <string name="add_to_new_tag">"Aggiungi ad un nuovo tag"</string>
-    <string name="enter_new_tag_name">"Inserisci il nome del nuovo tag"</string>
+    <string name="enter_a_new_tag_name">"Inserisci il nome del nuovo tag"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"Modalità auto"</string>
     <string name="update_artwork">"Aggiorna artwork"</string>
     <string name="enter_new_artwork_url">"Inserisci un nuovo indirizzo dell'artwork"</string>
@@ -436,7 +437,7 @@
     <string name="resume_downloads">"Riprendi i download"</string>
     <string name="clear_playlist">"Cancella playlist"</string>
     <string name="clear_current_playlist_">"Cancellare la playlist corrente?"</string>
-    <string name="enter_new_playlist_name">"Inserire il nome della playlist"</string>
+    <string name="enter_a_new_playlist_name">"Inserire il nome della playlist"</string>
     <string name="podcast_exported_to_">"Podcast esportato in: [%1$s]"</string>
     <string name="search_not_found">"Ricerca non trovata"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] non trovato. Aggiungi questo podcast inserendo l'URL?"</string>

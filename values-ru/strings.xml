@@ -207,7 +207,8 @@
     <string name="action">"Действие"</string>
     <string name="download_only_when_connected_to_wifi">Загружать только при Wi-Fi подключении.</string>
     <string name="add_to_new_tag">Добавить к новому тегу</string>
-    <string name="enter_new_tag_name">Введите имя нового тега</string>
+    <string name="enter_a_new_tag_name">Введите имя нового тега</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Режим автомобиля</string>
     <string name="update_artwork">Обновить обложку</string>
     <string name="enter_new_artwork_url">Введите URL новой обложки</string>
@@ -432,7 +433,7 @@
     <string name="resume_downloads">Возобновить загрузки</string>
     <string name="clear_playlist">Очистить плейлист</string>
     <string name="clear_current_playlist_">Очистить текущий плейлист?</string>
-    <string name="enter_new_playlist_name">Введите имя плейлиста</string>
+    <string name="enter_a_new_playlist_name">Введите имя плейлиста</string>
     <string name="podcast_exported_to_">"Подкаст выгружен в: [%1$s]"</string>
     <string name="search_not_found">Не найдено</string>
     <string name="_is_not_found_add_this_podcast_">[%1$s] не найден. Добавить подкаст по URL?</string>

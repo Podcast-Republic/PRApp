@@ -208,7 +208,8 @@
     <string name="action">"Akcia"</string>
     <string name="download_only_when_connected_to_wifi">Sťahovať iba pri pripojení k sieti Wi-Fi</string>
     <string name="add_to_new_tag">Pridať k novému tagu</string>
-    <string name="enter_new_tag_name">Zadajte nový názov tagu</string>
+    <string name="enter_a_new_tag_name">Zadajte nový názov tagu</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Režim Auto</string>
     <string name="update_artwork">Aktualizovať obrázok</string>
     <string name="enter_new_artwork_url">Zadajte novú webovú adresu obrázka</string>
@@ -436,7 +437,7 @@
     <string name="resume_downloads">Pokračovať v sťahovaní</string>
     <string name="clear_playlist">Vymazať playlist</string>
     <string name="clear_current_playlist_">Vymazať aktuálny playlist?</string>
-    <string name="enter_new_playlist_name">Zadajte názov playlistu</string>
+    <string name="enter_a_new_playlist_name">Zadajte názov playlistu</string>
     <string name="podcast_exported_to_">"Podcast exportovaný do: [%1$s]"</string>
     <string name="search_not_found">Nič sa nenašlo</string>
     <string name="_is_not_found_add_this_podcast_">"Výraz [%1$s] nebol nájdený. Chcete pridať tento podcast podľa URL adresy?"</string>

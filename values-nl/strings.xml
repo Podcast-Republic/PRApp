@@ -203,7 +203,8 @@
     <string name="action">"Actie"</string>
     <string name="download_only_when_connected_to_wifi">"Download alleen wanneer aangesloten op wifi"</string>
     <string name="add_to_new_tag">"Voeg toe aan New Tag"</string>
-    <string name="enter_new_tag_name">"Nieuwe tag naam"</string>
+    <string name="enter_a_new_tag_name">"Nieuwe tag naam"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"Voertuig modus"</string>
     <string name="update_artwork">"Bijwerken artwork"</string>
     <string name="enter_new_artwork_url">"Voer nieuwe artwork URL in"</string>
@@ -434,7 +435,7 @@
     <string name="resume_downloads">"Downloaden hervatten"</string>
     <string name="clear_playlist">"Leegmaken afspeellijst"</string>
     <string name="clear_current_playlist_">"Leegmaken huidige afspeellijst?"</string>
-    <string name="enter_new_playlist_name">"Naam afspeellijst"</string>
+    <string name="enter_a_new_playlist_name">"Naam afspeellijst"</string>
     <string name="podcast_exported_to_">"Podcast geëxporteerd naar: [%1$s]"</string>
     <string name="search_not_found">"Zoekterm niet gevonden"</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] niet gevonden. Voeg deze podcast toe via URL?"</string>

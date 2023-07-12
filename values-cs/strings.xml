@@ -204,7 +204,8 @@
     <string name="action">"Akce"</string>
     <string name="download_only_when_connected_to_wifi">"Stahovat pouze na Wi-Fi"</string>
     <string name="add_to_new_tag">"Přidat k novému štítku"</string>
-    <string name="enter_new_tag_name">"Zadejte název štítku"</string>
+    <string name="enter_a_new_tag_name">"Zadejte název štítku"</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">"Režim v autě"</string>
     <string name="update_artwork">"Změnit obrázek"</string>
     <string name="enter_new_artwork_url">"Zadejte adresu nového obrázku"</string>
@@ -434,7 +435,7 @@
     <string name="resume_downloads">"Obnovit stahování"</string>
     <string name="clear_playlist">"Vymazat seznam"</string>
     <string name="clear_current_playlist_">"Vymazat aktuální seznam?"</string>
-    <string name="enter_new_playlist_name">"Zadejte název seznamu"</string>
+    <string name="enter_a_new_playlist_name">"Zadejte název seznamu"</string>
     <string name="podcast_exported_to_">"Podcast exportován do: [ %1$s ]"</string>
     <string name="search_not_found">"Nenalezeno"</string>
     <string name="_is_not_found_add_this_podcast_">"[ %1$s ] nebyl nalezen. Přidat tento podcast podle adresy URL?"</string>

@@ -203,7 +203,8 @@
     <string name="action">"Aksiyon"</string>
     <string name="download_only_when_connected_to_wifi">"Sadece Wi-fi'ye bağlandığında indir"</string>
     <string name="add_to_new_tag">Yeni Etikete Ekle</string>
-    <string name="enter_new_tag_name">Yeni etiket adı girin</string>
+    <string name="enter_a_new_tag_name">Yeni etiket adı girin</string>
+    <string name="rename_the_tag">Rename the tag</string>
     <string name="car_mode">Araç Modu</string>
     <string name="update_artwork">Resmi güncelle</string>
     <string name="enter_new_artwork_url">"Yeni resim URL'si girin"</string>
@@ -435,7 +436,7 @@
     <string name="resume_downloads">İndirmeyi devam ettir</string>
     <string name="clear_playlist">Oynatma listesini temizle</string>
     <string name="clear_current_playlist_">Geçerli oynatma listesini temizle?</string>
-    <string name="enter_new_playlist_name">Oynatma listesi adını girin</string>
+    <string name="enter_a_new_playlist_name">Oynatma listesi adını girin</string>
     <string name="podcast_exported_to_">"Podcast dışa aktarıldı: [%1$s]"</string>
     <string name="search_not_found">Arama Bulunamadı</string>
     <string name="_is_not_found_add_this_podcast_">"[%1$s] bulunamadı. Bu podcast'ı URL'ye göre ekle?"</string>

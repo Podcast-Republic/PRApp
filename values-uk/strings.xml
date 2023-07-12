@@ -209,7 +209,7 @@
     <string name="update_artwork">"Оновити обкладинку"</string>
     <string name="enter_new_artwork_url">"Введіть нову URL-адресу для обкладинки"</string>
     <string name="sleep_timer">"Таймер сну"</string>
-    <string name="last_updated_s">"Останній епізод опубліковано: %1$s"</string>
+    <string name="last_updated_s">"Останній епізод опубліковано %1$s"</string>
     <string name="fast_forward">"Перемотати вперед"</string>
     <string name="fast_rewind">"Перемотати назад"</string>
     <string name="play_pause">"Відтворення / Пауза"</string>
@@ -275,7 +275,7 @@
     <string name="grid_view">"Перегляд сіткою"</string>
     <string name="playback_mode_playlist">"Почерговий"</string>
     <string name="playback_mode_single_episode">"Один епізод"</string>
-    <string name="s_has_been_added_to_subscription">"%1$s було додано до підписок"</string>
+    <string name="s_has_been_added_to_subscription">"«%1$s» було додано до підписок"</string>
     <string name="audio_not_started_yet">"Відтворення ще не розпочато!"</string>
     <string name="manage_playlists">"Керувати плейлистами"</string>
     <string name="download">"Завантажити"</string>
@@ -338,7 +338,7 @@
     <string name="update_on_charging">"Оновлювати під час зарядки"</string>
     <string name="update_podcasts_only_when_battery_is_charging">"Оновлювати подкасти лише під час зарядки акумулятора"</string>
     <string name="filename">"Назва файлу"</string>
-    <string name="auto_backup_saved_to_">"Автоматичне резервне копіювання збережено в папці %1$s"</string>
+    <string name="auto_backup_saved_to_">"Автоматичне резервне копіювання збережено в папці «%1$s»"</string>
     <string name="download_removed">"Завантаження видалено"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Завантажувати обкладинку лише при з'єднанні з Wi-Fi"</string>
     <string name="load_artwork_via_wifi_only">"Завантажити обкладинку лише через Wi-Fi"</string>
@@ -425,10 +425,10 @@
     <string name="dont_download_episode">"Не завантажувати епізод"</string>
     <string name="match_all_keywords">"Кожне з ключових слів"</string>
     <string name="match_any_of_the_keywords">"Будь-яке з ключових слів"</string>
-    <string name="download_episode_if_matching_all_keywords_s">"Завантажити епізод, якщо збігаються всі ключові слова: %1$s."</string>
-    <string name="download_episode_if_matching_any_of_the_keywords_s">"Завантажити епізод, якщо збігається хоч одне з ключових слів: %1$s."</string>
-    <string name="dont_download_episode_if_matching_all_keywords_s">"Не завантажувати епізод, якщо всі ключові слова збігаються: %1$s."</string>
-    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Не завантажувати епізод, якщо збігається одне з ключових слів: %1$s."</string>
+    <string name="download_episode_if_matching_all_keywords_s">"Завантажити епізод, якщо наявні всі ключові слова: %1$s."</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_s">"Завантажити епізод, якщо наявне хоч одне з ключових слів: %1$s."</string>
+    <string name="dont_download_episode_if_matching_all_keywords_s">"Не завантажувати епізод, якщо наявні всі ключові слова: %1$s."</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Не завантажувати епізод, якщо наявне хоч одне з ключових слів: %1$s."</string>
     <string name="keywords">"Ключові слова"</string>
     <string name="enter_keywords">"Введіть ключові слова"</string>
     <string name="restoring_">"Відновлення…"</string>
@@ -555,7 +555,7 @@
     <string name="sign_out">"Вийти з акаунту"</string>
     <string name="syncing_started">"Початок синхронізації"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Синхронізація підписок та прогресу відтворення епізодів"</string>
-    <string name="save_auto_backup_to_s">"Автоматичне резервне копіювання зберегти в: %1$s"</string>
+    <string name="save_auto_backup_to_s">"Автоматичні резервні копії зберігати в: %1$s"</string>
     <string name="enable_auto_backup_of_app_settings_and_database">"Увімкнути автоматичне резервне копіювання налаштувань додатка та бази даних"</string>
     <string name="schedule_backup">"Запланувати резервне копіювання"</string>
     <string name="backups_to_keep">"Резервні копії для збереження"</string>
@@ -563,7 +563,7 @@
     <string name="export_subscriptions_to_an_opml_file">"Експортувати підписки в OPML-файл"</string>
     <string name="create_a_backup_of_app_settings_and_database">"Створіть резервну копію налаштувань додатка та бази даних"</string>
     <string name="restore_app_settings_and_database_from_selected_backup">"Відновити налаштування додатка та бази даних з вибраної резервної копії"</string>
-    <string name="save_to">"Зберегти до"</string>
+    <string name="save_to">"Зберігати в"</string>
     <string name="buy_me_a_coffee">"Донат"</string>
     <string name="clear_the_play_history_">"Очистити історію відтворення?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Сповіщати коли завантаження видалено через квоту пам'яті на завантаження або коли досягнуто обмеження щодо кількості завантажень"</string>
@@ -755,7 +755,7 @@
     <string name="turn_on_alarms">Увімкнути будильники</string>
     <string name="turn_off_alarms">Вимкнути будильники</string>
     <string name="play_as_audio_only">Відтворити тільки звук</string>
-    <string name="remove_downloads_from_unsubscribed_podcast_s_">Видалити також завантаження з видаленого подкасту: «%1$s»?</string>
+    <string name="remove_downloads_from_unsubscribed_podcast_s_">Видалити також завантаження від подкасту «%1$s»?</string>
     <string name="report_bug_privacy_message">"Натиснувши «Повідомити про помилку», Ви підтвердите, що ознайомилися з Політикою конфіденційності та приймаєте Правила."</string>
     <string name="sign_up_privacy_and_terms_message">"Натиснувши «Створити обліковий запис», Ви підтвердите, що ознайомилися з Політикою конфіденційності та приймаєте Правила."</string>
     <string name="sign_in_privacy_and_terms_message">"Натиснувши «Увійти», Ви підтвердите, що ознайомилися з Політикою конфіденційності та приймаєте Правила."</string>
@@ -947,7 +947,7 @@
     <string name="starting_podcast_update_checking">Початок перевірки оновлень подкастів.</string>
     <string name="greater_than">Більше ніж</string>
     <string name="less_than">Менше ніж</string>
-    <string name="has_duration">Має довжину</string>
+    <string name="has_duration">Має тривалість</string>
     <string name="filter_episode_title">Фільтрувати назву епізоду</string>
     <string name="filter_episode_duration">Фільтрувати тривалість епізоду</string>
     <string name="clear_the_recents_list_">Видалити всі епізоди зі списку останніх?</string>
@@ -1022,9 +1022,9 @@
     <string name="website">Вебсайт</string>
     <string name="auto_load_last_played_episode">Автоприготування до відтворення останнього відтворюваного епізоду</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">При відкритті списку відтворення автоматично додати в програвач останній відтворюваний з нього епізод.</string>
-    <string name="delete_the_playlist_s">"Видалити список відтворення: %s?"</string>
-    <string name="delete_the_tag_s">"Видалити тег: %s?"</string>
-    <string name="delete_the_episode_filter_s">"Видалити фільтр епізодів: %s?"</string>
+    <string name="delete_the_playlist_s">"Видалити список відтворення «%s»?"</string>
+    <string name="delete_the_tag_s">"Видалити тег «%s»?"</string>
+    <string name="delete_the_episode_filter_s">"Видалити фільтр епізодів «%s»?"</string>
     <string name="syncing_app_setting_changes_s">Синхронізація змін налаштувань програми: %1$s.</string>
     <string name="syncing_app_setting_changes_">Синхронізація змін налаштувань програми…</string>
     <string name="sleep_after">Спати</string>

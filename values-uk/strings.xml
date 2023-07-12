@@ -947,7 +947,7 @@
     <string name="starting_podcast_update_checking">Початок перевірки оновлень подкастів.</string>
     <string name="greater_than">Більше ніж</string>
     <string name="less_than">Менше ніж</string>
-    <string name="has_duration">Має довжину</string>
+    <string name="has_duration">Має тривалість</string>
     <string name="filter_episode_title">Фільтрувати назву епізоду</string>
     <string name="filter_episode_duration">Фільтрувати тривалість епізоду</string>
     <string name="clear_the_recents_list_">Видалити всі епізоди зі списку останніх?</string>

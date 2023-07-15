@@ -436,7 +436,7 @@
     <string name="resume_downloads">"Продовжити завантаження"</string>
     <string name="clear_playlist">"Очистити список відтворення"</string>
     <string name="clear_current_playlist_">"Очистити поточний список відтворення?"</string>
-    <string name="enter_a_new_playlist_name">"Введіть назву списка відтворення"</string>
+    <string name="enter_a_new_playlist_name">"Введіть назву нового плейлиста"</string>
     <string name="podcast_exported_to_">"Подкаст експортований в «%1$s»"</string>
     <string name="search_not_found">"Пошук нічого не знайшов"</string>
     <string name="_is_not_found_add_this_podcast_">"«%1$s» не знайдено. Додати цей подкаст за URL-адресою?"</string>

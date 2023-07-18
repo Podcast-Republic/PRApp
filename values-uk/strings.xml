@@ -138,7 +138,7 @@
     <string name="description">"Опис"</string>
     <string name="play">"Слухати"</string>
     <string name="share">"Поділитися"</string>
-    <string name="add_to_playlists">"Додати в список відтворення"</string>
+    <string name="add_to_playlists">"Додати в списки відтворення"</string>
     <string name="end_editing_mode">"Завершити редагування"</string>
     <string name="set">"Підтвердити"</string>
     <string name="no_episode_selected">"Не вибрано жодного епізоду"</string>
@@ -575,7 +575,7 @@
     <string name="can_not_cast_youtube_videos_to_chromecast_">"Не вдається завантажити відео YouTube на Chromecast!"</string>
     <string name="add_a_playlist">"Додати список відтворення"</string>
     <string name="add_to_tag">"Додати тег"</string>
-    <string name="add_to_default_playlists">"Додати до списків відтворення за замовчанням"</string>
+    <string name="add_to_default_playlists">"Додати в стандартні списки відтворення"</string>
     <string name="add_to_selected_playlists">"Додати до вибраних списків відтворення"</string>
     <string name="delete_selected_episodes_">"Видалити вибрані епізоди?"</string>
     <string name="you_have_no_completed_downloads">"У вас немає завершених завантажень."</string>

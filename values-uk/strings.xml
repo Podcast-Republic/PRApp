@@ -1122,7 +1122,7 @@
     <string name="use_default_chapter_title">Використати назву розділу за замовчуванням.</string>
     <string name="grid_spacing">Сітка з інтервалом</string>
     <string name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card">«Завантаження» не можна використовувати як каталог завантажень. Виберіть каталог у внутрішній пам\'яті або на SD-карті.</string>
-    <string name="set_sleep_timer_after_this_episode">Встановити таймер сну після цього епізоду</string>
+    <string name="set_sleep_timer_after_this_episode">Припинити відтворення після закінчення цього епізоду</string>
     <string name="mark_all_episodes_from_s_as_played">Позначити всі епізоди подкасту «%s» як прослухані?</string>
     <string name="mark_all_episodes_as_played">Позначити всі епізоди як прослухані</string>
     <string name="mark_all_podcasts_as_played">Позначити всі подкасти як прослухані</string>

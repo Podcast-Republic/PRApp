@@ -138,7 +138,7 @@
     <string name="description">"Опис"</string>
     <string name="play">"Слухати"</string>
     <string name="share">"Поділитися"</string>
-    <string name="add_to_playlists">"Додати в списки відтворення"</string>
+    <string name="add_to_playlists">"Додати в плейлисти"</string>
     <string name="end_editing_mode">"Завершити редагування"</string>
     <string name="set">"Підтвердити"</string>
     <string name="no_episode_selected">"Не вибрано жодного епізоду"</string>
@@ -534,7 +534,7 @@
     <string name="multi_thread_download">"Багатопотокове завантаження"</string>
     <string name="recents">"Останні"</string>
     <string name="group_by_podcasts">"Групувати за подкастами"</string>
-    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Додати до наступних плейлистів під час додавання епізоду до списку відтворення"</string>
+    <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Вибрати плейлисти, до яких епізоди цього подкасту будуть додані при використанні функції «Додати в плейлист»"</string>
     <string name="compact_view">"Компактний вигляд"</string>
     <string name="open_source_licenses">"Ліцензії з відкритим кодом"</string>
     <string name="can_not_play_the_downloaded_file">"Неможливо відтворити завантажений файл"</string>
@@ -575,8 +575,8 @@
     <string name="can_not_cast_youtube_videos_to_chromecast_">"Не вдається завантажити відео YouTube на Chromecast!"</string>
     <string name="add_a_playlist">"Додати список відтворення"</string>
     <string name="add_to_tag">"Додати тег"</string>
-    <string name="add_to_default_playlists">"Додати в стандартні списки відтворення"</string>
-    <string name="add_to_selected_playlists">"Додати до вибраних списків відтворення"</string>
+    <string name="add_to_default_playlists">"Додати в стандартні плейлисти"</string>
+    <string name="add_to_selected_playlists">"Додати до вибраних плейлистів"</string>
     <string name="delete_selected_episodes_">"Видалити вибрані епізоди?"</string>
     <string name="you_have_no_completed_downloads">"У вас немає завершених завантажень."</string>
     <string name="you_have_no_pending_downloads">"У вас немає епізодів, що завантажуються"</string>

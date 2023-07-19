@@ -583,7 +583,7 @@
     <string name="all_good_">"Все добре ☺"</string>
     <string name="there_are_no_episodes_in_this_playlist">"У цьому списку відтворення немає епізодів."</string>
     <string name="no_play_history_found">"Немає історії відтворення."</string>
-    <string name="set_playlists">"Додати в списки відтворення"</string>
+    <string name="set_playlists">"Встановити стандартні плейлисти"</string>
     <string name="mark_all_as_read">"Позначити всі як прочитані"</string>
     <string name="not_in_use">"Не використовується"</string>
     <string name="pull_down_episodes_list_to_start_podcast_update_checking">"Потягніть список епізодів донизу, щоб розпочати перевірку оновлення подкасту"</string>

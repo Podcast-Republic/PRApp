@@ -366,10 +366,10 @@
     <string name="start_downloading_when_episode_is_added_to_playlist">"Почати завантаження відразу після додавання його до списку відтворення"</string>
     <string name="podcast_keep_download_limit_reached_">"Досягнуто ліміту кількості подкастів, що можливо завантажити!"</string>
     <string name="auto_download_filter">"Автофільтр завантаження"</string>
-    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Фільтрувати заголовки епізодів для автоматичного завантаження. Потрібно спочатку ввімкнути опцію автоматичного завантаження."</string>
+    <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Фільтрувати епізоди для цілей автоматичного завантаження. Потрібно спочатку ввімкнути опцію автоматичного завантаження."</string>
     <string name="keep_favorite_episodes">"Залишати улюблені епізоди"</string>
     <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"Не видаляти улюблені епізоди автоматично"</string>
-    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"Підкаталог знайдено. Створити новий віртуальний подкаст для кожного підкаталогу?"</string>
+    <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"Знайдено підкаталог. Створити новий віртуальний подкаст для кожного підкаталогу?"</string>
     <string name="import_sub_directory">"Імпортувати підкаталог"</string>
     <string name="failed_downloads">"Не вдалося"</string>
     <string name="subscribe_on_podcast_republic">"Підпишіться в Podcast Republic"</string>

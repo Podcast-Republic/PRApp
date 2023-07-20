@@ -1286,4 +1286,5 @@
     <string name="options">Možnosti</string>
     <string name="display_the_stream_label">Zobraziť štítok Stream</string>
     <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Zobraziť štítok Stream, ak epizóda nie je stiahnutá.</string>
+    <string name="no_playlist_selected_">No playlist selected.</string>
 </resources>

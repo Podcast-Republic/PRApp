@@ -674,7 +674,7 @@
     <string name="chapter_d">"Розділ № %d"</string>
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Будь ласка, не закривайте додаток, коли він відновлює дані. Після перезавантаження всі дані буде відновлено."</string>
     <string name="playback_paused_on_muted_volume_">"Відтворення призупинено, оскільки звук вимкнено!"</string>
-    <string name="number_of_episodes_to_auto_download">"Кількість епізодів для автоматичного завантаження"</string>
+    <string name="number_of_episodes_to_auto_download">"Кількість епізодів для автозавантаження"</string>
     <string name="notify_when_new_episodes_are_available">"Сповіщати, коли з'являються нові епізоди"</string>
     <string name="com_parse_ui_progress_dialog_text">"Завантаження…"</string>
     <string name="com_parse_ui_forgot_password_button_label">"Забули пароль"</string>
@@ -1232,7 +1232,7 @@
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Продовжуйте, якщо додаєте RSS-канал тексту чи блогу</string>
     <string name="close_app_when_moving_to_background">Закрити програму під час переходу у фоновий режим</string>
     <string name="close_background_app_message">Закрити програму під час переходу у фоновий режим. Ви зможете відтворювати подкасти у фоновому режимі, коли програму закрито. Однак ви не зможете перейти на той самий екран, коли знову відкриєте програму.</string>
-    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Коли нові епізоди завантажуються з каналу подкасту</string>
+    <string name="when_new_episodes_are_retrieved_from_podcast_feed">Коли знаходяться нові епізоди подкасту</string>
     <string name="date_added">Дата додання</string>
     <string name="dynamic_colors">Динамічні кольори</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Застосувати кольорову схему, засновану на фоновому зображенні</string>

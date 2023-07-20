@@ -1287,5 +1287,5 @@
     <string name="options">Beállítások</string>
     <string name="display_the_stream_label">Stream címke megjelenítése</string>
     <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Stream címke megjelenítése, ha az epizód nincs letöltve.</string>
-    <string name="no_playlist_selected_">No playlist selected.</string>
+    <string name="no_playlist_selected_">Nincs kiválasztott lejátszólista.</string>
 </resources>

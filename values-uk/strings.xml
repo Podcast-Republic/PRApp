@@ -812,7 +812,7 @@
     <string name="can_not_edit_default_episode_filter_">Неможливо редагувати стандартний фільтр епізодів!</string>
     <string name="playlist_name">Назва списку відтворення</string>
     <string name="priority">Пріоритет</string>
-    <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з більшим пріоритетом буде відтворений раніше.</string>
+    <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з вищим пріоритетом буде прослуханий раніше.</string>
     <string name="view_podcast">Вид</string>
     <string name="stream_all">Програти без завантаження всі</string>
     <string name="view_all_your_playlists">Переглянути всі свої списки відтворення</string>

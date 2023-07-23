@@ -1159,9 +1159,9 @@
     <string name="schedule_as_verb">Запланувати</string>
     <string name="schedule_a_date">Запланувати дату</string>
     <string name="fund_this_podcast">Профінансувати цей подкаст</string>
-    <string name="podcast_description_will_be_updated_after_refreshing_">Опис подкасту буде оновлено після оновлення.</string>
-    <string name="podcast_title_will_be_updated_after_refreshing_">Назву подкасту буде оновлено після оновлення.</string>
-    <string name="podcast_publisher_will_be_updated_after_refreshing_">Видавця подкасту буде оновлено після оновлення.</string>
+    <string name="podcast_description_will_be_updated_after_refreshing_">Опис подкасту буде повернуто до оригінального після оновлення.</string>
+    <string name="podcast_title_will_be_updated_after_refreshing_">Назву подкасту буде повернуто до оригінальної після оновлення.</string>
+    <string name="podcast_publisher_will_be_updated_after_refreshing_">Видавця подкасту буде повернуто до оригінального після оновлення.</string>
     <string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Налаштувати елементи керування відтворенням для згорнутих і розгорнутих сповіщень.</string>
     <string name="collapsed_notification_short_format">Згорнуте</string>
     <string name="expanded_notification_short_format">Розгорнуте</string>

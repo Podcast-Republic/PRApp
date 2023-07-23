@@ -1056,7 +1056,7 @@
     <string name="download_episode_if_duration_is_greater_than_d_minutes_">Завантажити епізод, якщо тривалість перевищує %d хвилин.</string>
     <string name="download_episode_if_duration_is_less_than_d_minutes_">Завантажити епізод, якщо тривалість менше %d хвилин.</string>
     <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Не завантажувати епізод, якщо його тривалість перевищує %d хвилин.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Не завантажувати епізод, якщо його тривалість менше %d хвилин.</string>
+    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Не завантажувати епізод, якщо його тривалість менша за %d хвилин.</string>
     <string name="feed_title_can_not_be_empty_">Назва каналу не може бути пустою!</string>
     <string name="rss_feed_url_can_not_be_empty_">URL-адреса RSS-каналу не може бути порожньою!</string>
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>

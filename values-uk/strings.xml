@@ -1076,7 +1076,7 @@
     <string name="zoom_image">Збільшити зображення</string>
     <string name="mark_all_as_unplayed">Позначити всі як непрослухані</string>
     <string name="default_playlist">Список відтворення за замовчуванням</string>
-    <string name="use_this_playlist_as_the_default_playlist">Використати цей список відтворення як список відтворення за замовчуванням.</string>
+    <string name="use_this_playlist_as_the_default_playlist">Використати як список відтворення за замовчуванням.</string>
     <string name="article_unique_criteria">Критерій унікальності статті</string>
     <string name="new_article_notification">Сповіщення про нову статтю</string>
     <string name="there_are_no_radio_stations_">Немає радіостанцій!</string>

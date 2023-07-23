@@ -117,7 +117,7 @@
     <string name="comedy">"Комедія"</string>
     <string name="education">"Освіта"</string>
     <string name="government">"Уряд та організації"</string>
-    <string name="health_fitness">"Здоров'я"</string>
+    <string name="health_fitness">"Здоров'я та фітнес"</string>
     <string name="kids_family">"Діти та сім'я"</string>
     <string name="music">"Музика"</string>
     <string name="news">"Новини та політика"</string>
@@ -365,7 +365,7 @@
     <string name="download_episode">"Завантажити епізод"</string>
     <string name="start_downloading_when_episode_is_added_to_playlist">"Почати завантаження відразу після додавання його до списку відтворення"</string>
     <string name="podcast_keep_download_limit_reached_">"Досягнуто ліміту кількості подкастів, що можливо завантажити!"</string>
-    <string name="auto_download_filter">"Автофільтр завантаження"</string>
+    <string name="auto_download_filter">"Фільтр для автозавантаження"</string>
     <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Фільтрувати епізоди для цілей автоматичного завантаження. Потрібно спочатку ввімкнути опцію автоматичного завантаження."</string>
     <string name="keep_favorite_episodes">"Залишати улюблені епізоди"</string>
     <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"Не видаляти улюблені епізоди автоматично"</string>
@@ -427,8 +427,8 @@
     <string name="match_any_of_the_keywords">"Будь-яке з ключових слів"</string>
     <string name="download_episode_if_matching_all_keywords_s">"Завантажити епізод, якщо наявні всі ключові слова: %1$s."</string>
     <string name="download_episode_if_matching_any_of_the_keywords_s">"Завантажити епізод, якщо наявне хоч одне з ключових слів: %1$s."</string>
-    <string name="dont_download_episode_if_matching_all_keywords_s">"Не завантажувати епізод, якщо наявні всі ключові слова: %1$s."</string>
-    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Не завантажувати епізод, якщо наявне хоч одне з ключових слів: %1$s."</string>
+    <string name="dont_download_episode_if_matching_all_keywords_s">"Не завантажувати епізод, якщо в його назві наявні всі перелічені ключові слова: %1$s."</string>
+    <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Не завантажувати епізод, якщо в його назві наявне хоч одне з перелічених ключових слів: %1$s."</string>
     <string name="keywords">"Ключові слова"</string>
     <string name="enter_keywords">"Введіть ключові слова"</string>
     <string name="restoring_">"Відновлення…"</string>
@@ -1055,8 +1055,8 @@
     <string name="tag_rss_feeds">Додати теги до RSS-каналів</string>
     <string name="download_episode_if_duration_is_greater_than_d_minutes_">Завантажити епізод, якщо тривалість перевищує %d хвилин.</string>
     <string name="download_episode_if_duration_is_less_than_d_minutes_">Завантажити епізод, якщо тривалість менше %d хвилин.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Не завантажувати епізод, якщо тривалість перевищує %d хвилин.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Не завантажувати епізод, якщо тривалість менше %d хвилин.</string>
+    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Не завантажувати епізод, якщо його тривалість перевищує %d хвилин.</string>
+    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Не завантажувати епізод, якщо його тривалість менша за %d хвилин.</string>
     <string name="feed_title_can_not_be_empty_">Назва каналу не може бути пустою!</string>
     <string name="rss_feed_url_can_not_be_empty_">URL-адреса RSS-каналу не може бути порожньою!</string>
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>
@@ -1076,7 +1076,7 @@
     <string name="zoom_image">Збільшити зображення</string>
     <string name="mark_all_as_unplayed">Позначити всі як непрослухані</string>
     <string name="default_playlist">Список відтворення за замовчуванням</string>
-    <string name="use_this_playlist_as_the_default_playlist">Використати цей список відтворення як список відтворення за замовчуванням.</string>
+    <string name="use_this_playlist_as_the_default_playlist">Використати як список відтворення за замовчуванням.</string>
     <string name="article_unique_criteria">Критерій унікальності статті</string>
     <string name="new_article_notification">Сповіщення про нову статтю</string>
     <string name="there_are_no_radio_stations_">Немає радіостанцій!</string>

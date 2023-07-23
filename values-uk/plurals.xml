@@ -73,9 +73,9 @@
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Автоматично завантажувати до %1$d останнього епізоду при отриманні новіх епізодів.</item>
-        <item quantity="few">Автоматично завантажувати до %1$d останніх епізодів при отриманні новіх епізодів.</item>
-        <item quantity="many">Автоматично завантажувати до %1$d останніх епізодів при отриманні новіх епізодів.</item>
+        <item quantity="one">Автоматично завантажувати до %1$d останнього епізоду при знаходженні нових епізодів.</item>
+        <item quantity="few">Автоматично завантажувати до %1$d останніх епізодів при знаходженні нових епізодів.</item>
+        <item quantity="many">Автоматично завантажувати до %1$d останніх епізодів при знаходженні нових епізодів.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">

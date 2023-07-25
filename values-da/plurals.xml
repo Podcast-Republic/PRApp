@@ -140,4 +140,9 @@
         <item quantity="other">"Behold de seneste %1$d downloads for hver podcast."</item>
     </plurals>
 
+    <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
+        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
+        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+    </plurals>
+
 </resources>

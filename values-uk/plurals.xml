@@ -19,9 +19,9 @@
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Показати %1$d останній епізод.</item>
-        <item quantity="few">Показати %1$d останні епізоди.</item>
-        <item quantity="many">Показати %1$d останніх епізодів.</item>
+        <item quantity="one">Показувати %1$d останній епізод.</item>
+        <item quantity="few">Показувати %1$d останні епізоди.</item>
+        <item quantity="many">Показувати %1$d останніх епізодів.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
@@ -169,9 +169,9 @@
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="few">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="many">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one">"Позначити всі епізоди, що опубліковані раніше за %1$d останній епізод, як прослухані після того, як будуть знайдені нові опубліковані епізоди."</item>
+        <item quantity="few">"Позначити всі епізоди, що опубліковані раніше за %1$d останні епізоди, як прослухані після того, як будуть знайдені нові опубліковані епізоди."</item>
+        <item quantity="many">"Позначити всі епізоди, що опубліковані раніше за %1$d останніх епізодів, як прослухані після того, як будуть знайдені нові опубліковані епізоди."</item>
     </plurals>
 
 </resources>

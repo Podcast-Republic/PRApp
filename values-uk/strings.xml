@@ -90,7 +90,7 @@
     </string-array>
     <string name="app_name">"Podcast Republic"</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Автоматичне видалення файлу прослуханого епізоду"</string>
-    <string name="pref_downloadLocation">"Завантажити подкаст до: "</string>
+    <string name="pref_downloadLocation">"Завантажувати подкасти до: "</string>
     <string name="downloads">"Завантаження"</string>
     <string name="jump_to_next_episode">"Перейти до наступного епізоду"</string>
     <string name="jump_to_the_end">"Позначити прослуханим"</string>
@@ -563,7 +563,7 @@
     <string name="export_subscriptions_to_an_opml_file">"Експортувати підписки в OPML-файл"</string>
     <string name="create_a_backup_of_app_settings_and_database">"Створіть резервну копію налаштувань додатка та бази даних"</string>
     <string name="restore_app_settings_and_database_from_selected_backup">"Відновити налаштування додатка та бази даних з вибраної резервної копії"</string>
-    <string name="save_to">"Зберігати в"</string>
+    <string name="save_to">"Зберегти в…"</string>
     <string name="buy_me_a_coffee">"Донат"</string>
     <string name="clear_the_play_history_">"Очистити історію відтворення?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Сповіщати коли завантаження видалено через квоту пам'яті на завантаження або коли досягнуто обмеження щодо кількості завантажень"</string>
@@ -1062,8 +1062,8 @@
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>
     <string name="remove_obsolete_episodes">Видалити застарілі епізоди</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видалити застарілі епізоди, якщо вони більше не присутні в каналі подкасту.</string>
-    <string name="mark_as_played">"Позначити як прослуханий"</string>
-    <string name="mark_as_unplayed">"Позначити як непрослуханий"</string>
+    <string name="mark_as_played">"Позначити прослуханим"</string>
+    <string name="mark_as_unplayed">"Позначити непрослуханим"</string>
     <string name="swipe_left_action">Дія на свайп вліво</string>
     <string name="nothing_in_up_next">В черзі нічого немає</string>
     <string name="syncing_article_changes_s">Синхронізація змін до статті: %1$s.</string>

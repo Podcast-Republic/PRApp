@@ -176,7 +176,7 @@
     <string name="file_date">"Дата файлу"</string>
     <string name="publishing_date">"Дата опублікування"</string>
     <string name="sort_manually">"Bручну"</string>
-    <string name="update_podcasts">"Оновити подкасти"</string>
+    <string name="update_podcasts">"Оновлювати подкасти"</string>
     <string name="update_podcast">"Оновити подкаст"</string>
     <string name="sort_by">"Критерій сортування"</string>
     <string name="last_updated_time">"Час останньої публікації"</string>
@@ -1002,7 +1002,7 @@
     <string name="animations">Анімація</string>
     <string name="list_animation">Анімація списків</string>
     <string name="animate_items_when_loading_into_list">Ввімкнути анімацію при відкритті списку</string>
-    <string name="failed_to_update_podcast_s">Не вдалося оновити подкаст: %s</string>
+    <string name="failed_to_update_podcast_s">Не вдалося оновити подкаст «%s»</string>
     <string name="reset_password">Скинути пароль</string>
     <string name="account_already_exists_please_login_with_the_email_and_password_">Обліковий запис вже існує, увійдіть, використовуючи адресу електронної пошти та пароль.</string>
     <string name="sleep_timer_is_on_">Таймер сну ввімкнений!</string>
@@ -1146,9 +1146,9 @@
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Перемістити усі файли з «%1$s» до нового каталогу завантажень «%2$s»?</string>
     <string name="article_text_size">Розмір тексту в статтях</string>
     <string name="apply_this_change_to_all_rss_feeds">Застосувати цю зміну до всіх RSS-каналів?</string>
-    <string name="update_rss_feeds">Оновити RSS-канали</string>
+    <string name="update_rss_feeds">Оновлювати RSS-канали</string>
     <string name="updating_podcast_d1_d2">Оновлення подкасту - %1$d з %2$d</string>
-    <string name="updating_rss_feed_d1_d2">Оновлення RSS-каналів - %1$d з %2$d</string>
+    <string name="updating_rss_feed_d1_d2">Оновлення RSS-каналу - %1$d з %2$d</string>
     <string name="remove_all_episodes_above">Видалити всі, що знаходяться вище</string>
     <string name="remove_all_episodes_below">Видалити всі, що знаходяться нижче</string>
     <string name="jump_to_previous_episode">Перейти до попереднього епізоду</string>
@@ -1285,6 +1285,6 @@
     <string name="display_the_stream_label">Показувати позначку «Стрім»</string>
     <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Показувати позначку «Стрім» у разі, якщо епізод не завантажений.</string>
     <string name="no_playlist_selected_">Не вибрано жодного плейлиста.</string>
-    <string name="enter_youtube_url">Enter YouTube URL</string>
-    <string name="examples_of_youtube_url">Examples of YouTube URL</string>
+    <string name="enter_youtube_url">Введіть URL-адресу YouTube</string>
+    <string name="examples_of_youtube_url">Приклади URL-адрес YouTube</string>
 </resources>

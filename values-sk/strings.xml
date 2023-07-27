@@ -1287,4 +1287,6 @@
     <string name="display_the_stream_label">Zobraziť štítok Stream</string>
     <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Zobraziť štítok Stream, ak epizóda nie je stiahnutá.</string>
     <string name="no_playlist_selected_">Nie je vybraný žiadny playlist.</string>
+    <string name="enter_youtube_url">Enter YouTube URL</string>
+    <string name="examples_of_youtube_url">Examples of YouTube URL</string>
 </resources>

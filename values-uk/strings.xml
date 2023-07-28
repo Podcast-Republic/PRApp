@@ -1287,6 +1287,6 @@
     <string name="no_playlist_selected_">Не вибрано жодного плейлиста.</string>
     <string name="enter_youtube_url">Введіть URL-адресу YouTube</string>
     <string name="examples_of_youtube_url">Приклади URL-адрес YouTube</string>
-    <string name="allow_explicit_episodes">Allow explicit episodes</string>
-    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Allow to add episodes labled as explicit to the playlist.</string>
+    <string name="allow_explicit_episodes">Дозволити відверті епізоди</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Дозволити додавати до списку відтворення епізоди, позначені як відверті (explicit).</string>
 </resources>

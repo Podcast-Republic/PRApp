@@ -1289,4 +1289,6 @@
     <string name="no_playlist_selected_">Nie je vybraný žiadny playlist.</string>
     <string name="enter_youtube_url">Zadajte adresu YouTube</string>
     <string name="examples_of_youtube_url">Príklady adries YouTube</string>
+    <string name="allow_explicit_episodes">Allow explicit episodes</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Allow to add episodes labled as explicit to the playlist.</string>
 </resources>

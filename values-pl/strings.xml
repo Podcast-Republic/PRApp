@@ -1291,4 +1291,6 @@
     <string name="no_playlist_selected_">No playlist selected.</string>
     <string name="enter_youtube_url">Enter YouTube URL</string>
     <string name="examples_of_youtube_url">Examples of YouTube URL</string>
+    <string name="allow_explicit_episodes">Allow explicit episodes</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Allow to add episodes labled as explicit to the playlist.</string>
 </resources>

@@ -1288,8 +1288,8 @@
     <string name="display_the_stream_label">Stream címke megjelenítése</string>
     <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Stream címke megjelenítése, ha az epizód nincs letöltve.</string>
     <string name="no_playlist_selected_">Nincs kiválasztott lejátszólista.</string>
-    <string name="enter_youtube_url">Enter YouTube URL</string>
-    <string name="examples_of_youtube_url">Examples of YouTube URL</string>
-    <string name="allow_explicit_episodes">Allow explicit episodes</string>
-    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Allow to add episodes labled as explicit to the playlist.</string>
+    <string name="enter_youtube_url">YouTube link</string>
+    <string name="examples_of_youtube_url">Példa YouTube link</string>
+    <string name="allow_explicit_episodes">Szókimondó tartalmak engedélyezése</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Engedélyezi a szókimondó (explicit) tartalmú epizódok hozzáadását a lejátszási listához.</string>
 </resources>

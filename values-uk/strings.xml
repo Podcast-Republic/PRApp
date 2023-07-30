@@ -540,7 +540,7 @@
     <string name="can_not_play_the_downloaded_file">"Неможливо відтворити завантажений файл"</string>
     <string name="can_not_play_the_local_file">"Неможливо відтворити локальний файл"</string>
     <string name="audio_loudness_boost">"Підвищення гучності звуку"</string>
-    <string name="apply_to_all_podcasts">"Застосувати для всіх подкастів"</string>
+    <string name="apply_to_all_podcasts">"Застосувати до всіх подкастів"</string>
     <string name="audio_effects_and_equalizer">"Звукові ефекти та еквалайзер"</string>
     <string name="episode_info_short">"Інформація про епізод (коротка)"</string>
     <string name="episode_info_full">"Інформація про епізод (повна)"</string>
@@ -941,7 +941,7 @@
     <string name="play_all">Слухати всі</string>
     <string name="remove_played_episode">Видалити прослуханий епізод</string>
     <string name="remove_the_episode_from_playlist_after_being_played">Видалити епізод зі списку відтворення після прослуховування</string>
-    <string name="apply_this_change_to_all_playlist_">Застосувати цю зміну для всіх списків відтворення?</string>
+    <string name="apply_this_change_to_all_playlist_">Застосувати цю зміну до всіх списків відтворення?</string>
     <string name="overwrite_volume_mute_state">Ігнорувати стан вимкнення звуку</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Дозволити перезаписати стан вимкнення звуку та відновити рівень гучності останнього відтворення</string>
     <string name="starting_podcast_update_checking">Початок перевірки оновлень подкастів.</string>

@@ -824,7 +824,7 @@
     <string name="_removing_downloaded_podast_file_on_played_will_be_disabled">- Видалення завантаженого файлу подкасту під час відтворення буде вимкнено</string>
     <string name="view_all_your_episode_filters">Переглянути всі фільтри епізодів</string>
     <string name="click_on_the_tab_again_to_view_all_your_episode_filters">Натисніть вкладку ще раз, щоб переглянути всі фільтри епізодів</string>
-    <string name="stop_playing_when_time_is_up">Припиніть програвання, коли час закінчиться</string>
+    <string name="stop_playing_when_time_is_up">Припинити програвання, коли час закінчиться</string>
     <string name="sleep_timer_fired_stop_playing_">Таймер сну спрацював, програвання припинено!</string>
     <string name="play_all_from_new_to_old">Слухати всі починаючи з новіших</string>
     <string name="smart_update">Розумне оновлення</string>

@@ -592,8 +592,6 @@
     <string name="pick_a_time">Wybierz czas</string>
     <string name="updating_podcasts">Aktualizacja podcastu</string>
     <string name="skip_ending">Pomiń zakończenie</string>
-    <string name="skip_the_beginning_d_seconds">Pomiń początkowe %d sekund</string>
-    <string name="skip_the_ending_d_seconds">Pomiń końcowe %d sekund</string>
     <string name="no_user_notes_found">Brak notatek.</string>
     <string name="no_episode_description_found">Brak opisu odcinka.</string>
     <string name="or">Lub</string>
@@ -652,7 +650,6 @@
     <string name="click_to_select_playback_mode">"Kliknij, aby wybrać tryb odtwarzania"</string>
     <string name="percetage_value">"%d %%"</string>
     <string name="select_episodes">"Wybierz odcinki"</string>
-    <string name="select_episodes_from_last_d_days">"Wybierz odcinki z ostatnich %d dni"</string>
     <string name="select_episodes_from_all_dates">"Wybierz odcinki ze wszystkich dat"</string>
     <string name="selected_tags_s">"Wybrane tagi: %s"</string>
     <string name="selected_podcasts_s">"Wybrane podcasty: %s"</string>
@@ -887,8 +884,6 @@
     <string name="article_url">"Adres URL artykułu"</string>
     <string name="summary">"Streszczenie"</string>
     <string name="download_state_paused_battery_low">"Wstrzymany: niski poziom naładowania baterii"</string>
-    <string name="select_episodes_with_duration_greater_than_d_minutes">"Wybierz odcinki o czasie trwania powyżej %d minut"</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes">"Wybierz odcinki o czasie trwania poniżej %d minut"</string>
     <string name="short_time_unit_format_minute">"Min"</string>
     <string name="hold_down_to_start_dragging">"Przytrzymaj, aby rozpocząć przeciąganie"</string>
     <string name="swipe_right_action">"Akcja przeciągnięcia w prawo"</string>
@@ -915,8 +910,6 @@
     <string name="always_on_amoled_black">Zawsze włączone (czarny AMOLED)</string>
     <string name="smart_rewind_on_resuming">"Inteligentne przewijanie po wznowieniu"</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">"Automatycznie przewiń %1$d do %2$d sekund do tyłu, gdy wznawiasz odtwarzanie"</string>
-    <string name="minimum_rewind_time_d_seconds">"Minimalny czas przewijania do tyłu: %d sekund."</string>
-    <string name="maximum_rewind_time_d_seconds">"Maksymalny czas przewijania do tyłu: %d sekund."</string>
     <string name="show_radio_station_name">"Pokaż tytuł stacji"</string>
     <string name="hide_radio_station_name">"Ukryj tytuł stacji"</string>
     <string name="not_in_downloads_list">"Nie na liście pobranych"</string>
@@ -938,7 +931,6 @@
     <string name="fade_audio_out_2_minutes_left">"Zanikanie dźwięku (2 minuty mniej)"</string>
     <string name="keep_all_articles">"Zachowaj wszystkie artykuły"</string>
     <string name="keep_articles">"Zachowaj artykuły"</string>
-    <string name="keep_articles_from_last_d_days">"Zachowaj artykuły z ostatnich %d dni"</string>
     <string name="pref_download_location_select_prompt_message">"Zostaniesz przekierowany do menedżera plików Androida. Wybierz katalog w pamięci wewnętrznej lub na karcie SD, który będzie używany jako lokalizacja pobierania."</string>
     <string name="review_wifi_only_prompt_message">"Czy wiesz, że ta aplikacja korzysta domyślnie z ustawienia \"tylko WiFi\"? Możesz wyłączyć to ustawienie, jeśli dysponujesz szybkim połączeniem danych. Czy chcesz teraz przejść do ustawień \"tylko WiFi\"?"</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Usuń plik wirtualnego podcastu z pamięci urządzenia po jego odtworzeniu</string>
@@ -1057,10 +1049,6 @@
     <string name="episode_artwork">Episode artwork</string>
     <string name="taag_radio_stations">Tag radios</string>
     <string name="tag_rss_feeds">Tag feeds</string>
-    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Download episode if duration is greater than %d minutes.</string>
-    <string name="download_episode_if_duration_is_less_than_d_minutes_">Download episode if duration is less than %d_minutes.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Don\'t download episode if duration is greater than %d minutes.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Don\'t download episode if duration is less than %d minutes.</string>
     <string name="feed_title_can_not_be_empty_">Feed title can not be empty!</string>
     <string name="rss_feed_url_can_not_be_empty_">RSS feed URL can not be empty!</string>
     <string name="no_rss_feeds_found_">No RSS feeds found!</string>

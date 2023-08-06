@@ -203,4 +203,88 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="two">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="few">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="other">"Ohrani članke zadnjih %1$d dni."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"Najkrajši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="two">"Najkrajši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="few">"Najkrajši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="other">"Najkrajši čas ponavljanja: %1$d sekund."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"Najdaljši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="two">"Najdaljši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="few">"Najdaljši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="other">"Najdaljši čas ponavljanja: %1$d sekund."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
+        <item quantity="two">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
+        <item quantity="few">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
+        <item quantity="other">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
+        <item quantity="two">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
+        <item quantity="few">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
+        <item quantity="other">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"Izberi epizode zadnjih %1$d dni."</item>
+        <item quantity="two">"Izberi epizode zadnjih %1$d dni."</item>
+        <item quantity="few">"Izberi epizode zadnjih %1$d dni."</item>
+        <item quantity="other">"Izberi epizode zadnjih %1$d dni."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Preskoči začetnih %1$d sekund."</item>
+        <item quantity="two">"Preskoči začetnih %1$d sekund."</item>
+        <item quantity="few">"Preskoči začetnih %1$d sekund."</item>
+        <item quantity="other">"Preskoči začetnih %1$d sekund."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"Preskoči zadnjih %1$d sekund."</item>
+        <item quantity="two">"Preskoči zadnjih %1$d sekund."</item>
+        <item quantity="few">"Preskoči zadnjih %1$d sekund."</item>
+        <item quantity="other">"Preskoči zadnjih %1$d sekund."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Prenesi epizodo, če traja več kot %d minut."</item>
+        <item quantity="two">"Prenesi epizodo, če traja več kot %d minut."</item>
+        <item quantity="few">"Prenesi epizodo, če traja več kot %d minut."</item>
+        <item quantity="other">"Prenesi epizodo, če traja več kot %d minut."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Prenesi epizodo, če traja manj kot %d_minut."</item>
+        <item quantity="two">"Prenesi epizodo, če traja manj kot %d_minut."</item>
+        <item quantity="few">"Prenesi epizodo, če traja manj kot %d_minut."</item>
+        <item quantity="other">"Prenesi epizodo, če traja manj kot %d_minut."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Ne prenesi epizode če traja več kot %d minut."</item>
+        <item quantity="two">"Ne prenesi epizode če traja več kot %d minut."</item>
+        <item quantity="few">"Ne prenesi epizode če traja več kot %d minut."</item>
+        <item quantity="other">"Ne prenesi epizode če traja več kot %d minut."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Ne prenesi epizode, če traja manj kot %d minut."</item>
+        <item quantity="two">"Ne prenesi epizode, če traja manj kot %d minut."</item>
+        <item quantity="few">"Ne prenesi epizode, če traja manj kot %d minut."</item>
+        <item quantity="other">"Ne prenesi epizode, če traja manj kot %d minut."</item>
+    </plurals>
+
 </resources>

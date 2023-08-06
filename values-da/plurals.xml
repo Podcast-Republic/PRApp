@@ -145,4 +145,64 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"Behold artikler fra de seneste %d dage."</item>
+        <item quantity="other">"Behold artikler fra de seneste %d dage."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"Spol mindst %d sekunder tilbage."</item>
+        <item quantity="other">"Spol mindst %d sekunder tilbage."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"Spol maks. %d sekunder frem."</item>
+        <item quantity="other">"Spol maks. %d sekunder frem."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"Vælg afsnit med varighed længere end %d minutter."</item>
+        <item quantity="other">"Vælg afsnit med varighed længere end %d minutter."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"Vælg afsnit med varighed kortere end %d minutter."</item>
+        <item quantity="other">"Vælg afsnit med varighed kortere end %d minutter."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"Vælg afsnit fra de seneste %d dage."</item>
+        <item quantity="other">"Vælg afsnit fra de seneste %d dage."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Spring de første %d sekunder af begyndelsen over."</item>
+        <item quantity="other">"Spring de første %d sekunder af begyndelsen over."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"Spring de sidste %d sekunder af slutningen over."</item>
+        <item quantity="other">"Spring de sidste %d sekunder af slutningen over."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
+        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
+        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
+        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
+        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+    </plurals>
+
 </resources>

@@ -594,8 +594,6 @@
     <string name="pick_a_time">Idő megadása</string>
     <string name="updating_podcasts">Podcastok frissítése</string>
     <string name="skip_ending">Ugrás a végén</string>
-    <string name="skip_the_beginning_d_seconds">Ugorjon át %d másodpercet az epizód elején</string>
-    <string name="skip_the_ending_d_seconds">Ugorjon át %d másodpercet az epizód végén</string>
     <string name="no_user_notes_found">Nincsenek felhasználói jegyzetek.</string>
     <string name="no_episode_description_found">Nincs epizód leírás.</string>
     <string name="or">Vagy</string>
@@ -655,8 +653,7 @@
     <string name="click_to_select_playback_mode">Kattintson ide a lejátszási mód kiválasztásához</string>
     <string name="percetage_value">%1$d%%</string>
     <string name="select_episodes">Epizódok kiválasztása</string>
-    <string name="select_episodes_from_last_d_days">Epizódok kiválasztása az utóbbi %d napból</string>
-    <string name="select_episodes_from_all_dates">Tetszőleges dátumú epizódok kiválasztása</string>
+    <string name="select_episodes_from_all_dates">Tetszőleges dátumú epizódok kiválasztása.</string>
     <string name="selected_tags_s">Kiválasztott címkék: %s</string>
     <string name="selected_podcasts_s">Kiválasztott podcastok: %s</string>
     <string name="unplayed_less_than_d_played">Nem lejátszott (&lt; %d%% lejátszott)</string>
@@ -889,8 +886,6 @@
     <string name="article_url">Cikk URL</string>
     <string name="summary">Összegzés</string>
     <string name="download_state_paused_battery_low">Szünet: alacsony akkuszint</string>
-    <string name="select_episodes_with_duration_greater_than_d_minutes">%d percnél hosszabb epizódok kiválasztása</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes">%d percnél rövidebb epizódok kiválasztása</string>
     <string name="short_time_unit_format_minute">Min</string>
     <string name="hold_down_to_start_dragging">Tartsa lenyomva a húzás megkezdéséhez</string>
     <string name="swipe_right_action">Jobbra csúsztatás</string>
@@ -917,8 +912,6 @@
     <string name="always_on_amoled_black">Always on (AMOLED fekete)</string>
     <string name="smart_rewind_on_resuming">Okos visszatekerés folytatáskor</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">%1$d - %2$d másodperc automatikus visszatekerése a lejátszás folytatásakor</string>
-    <string name="minimum_rewind_time_d_seconds">Minimális visszatekerési idő: %d másodperc.</string>
-    <string name="maximum_rewind_time_d_seconds">Maximális visszatekerési idő: %d másodperc.</string>
     <string name="show_radio_station_name">Állomás nevének megjelenítése</string>
     <string name="hide_radio_station_name">Állomás nevének elrejtése</string>
     <string name="not_in_downloads_list">Nincs a Letöltési listában</string>
@@ -937,7 +930,6 @@
     <string name="fade_audio_out_2_minutes_left">Lehalkítás (2 perccel előtte)</string>
     <string name="keep_all_articles">Tartsa meg az összes cikket</string>
     <string name="keep_articles">Tartsa meg a cikkeket</string>
-    <string name="keep_articles_from_last_d_days">Az elmúlt %d nap cikkeinek megőrzése</string>
     <string name="pref_download_location_select_prompt_message">A rendszer most átirányítja az Android fájlkezelőhöz. Válasszon egy könyvtárat a belső tárhelyen vagy az SD-kártyán, amelyet letöltési helyként kíván használni.</string>
     <string name="review_wifi_only_prompt_message">Tudja, hogy ez az alkalmazás alapértelmezés szerint csak WiFi-t használ? A WiFi-t csak akkor kapcsolja ki, ha gyors adatkapcsolata van. Szeretné most áttekinteni a WiFi-re vonatkozó beállításokat??</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Lejátszás után törölje a virtuális podcast fájlt a tárhelyről</string>
@@ -1056,10 +1048,6 @@
     <string name="episode_artwork">Epizódkép</string>
     <string name="taag_radio_stations">Rádiók címkézése</string>
     <string name="tag_rss_feeds">Hírcsatornák címkézése</string>
-    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Epizód letöltése, ha az időtartama több mint %d perc.</string>
-    <string name="download_episode_if_duration_is_less_than_d_minutes_">Epizód letöltése, ha az időtartama kevesebb mint %d perc.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Ne töltse le az epizódot, ha az időtartama több mint %d perc.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Ne töltse le az epizódot, ha az időtartama kevesebb mint %d perc.</string>
     <string name="feed_title_can_not_be_empty_">A hírcsatorna címe nem lehet üres!</string>
     <string name="rss_feed_url_can_not_be_empty_">Az RSS hírcsatorna URL-je nem lehet üres!</string>
     <string name="no_rss_feeds_found_">Nem található RSS hírcsatorna!</string>

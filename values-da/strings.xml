@@ -595,8 +595,6 @@
     <string name="pick_a_time">"Vælg et tidspunkt"</string>
     <string name="updating_podcasts">"Opdaterer podcasts"</string>
     <string name="skip_ending">"Spring over afslutningen"</string>
-    <string name="skip_the_beginning_d_seconds">"Spring de første %d sekunder af begyndelsen over"</string>
-    <string name="skip_the_ending_d_seconds">"Spring de sidste %d sekunder af slutningen over"</string>
     <string name="no_user_notes_found">"Ingen noter fundet"</string>
     <string name="no_episode_description_found">"Der er ingen afsnitsbeskrivelse"</string>
     <string name="or">"Eller"</string>
@@ -654,7 +652,6 @@
     <string name="click_to_select_playback_mode">"Tryk her for at vælge afspilningstilstand"</string>
     <string name="percetage_value">%d%%</string>
     <string name="select_episodes">"Vælg afsnit"</string>
-    <string name="select_episodes_from_last_d_days">"Vælg afsnit fra de seneste %d dage"</string>
     <string name="select_episodes_from_all_dates">"Vælg afsnit uanset dato"</string>
     <string name="selected_tags_s">"Udvalgte tags: %s"</string>
     <string name="selected_podcasts_s">"Udvalgte podcasts: %s"</string>
@@ -886,8 +883,6 @@
     <string name="article_url">Artikel URL</string>
     <string name="summary">Resumé</string>
     <string name="download_state_paused_battery_low">Pause: Lavt batteri</string>
-    <string name="select_episodes_with_duration_greater_than_d_minutes">Vælg afsnit med varighed længere end %d minutter</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes">Vælg afsnit med varighed kortere end %d minutter</string>
     <string name="short_time_unit_format_minute">Minut</string>
     <string name="hold_down_to_start_dragging">Hold nede for at trække</string>
     <string name="swipe_right_action">Handling ved swipe til højre</string>
@@ -914,8 +909,6 @@
     <string name="always_on_amoled_black">Altid på (AMOLED black)</string>
     <string name="smart_rewind_on_resuming">Spol tilbage efter pause</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Spol %1$d til %2$d sekunder tilbage når afspilningen genoptages</string>
-    <string name="minimum_rewind_time_d_seconds">Spol mindst %d sekunder tilbage.</string>
-    <string name="maximum_rewind_time_d_seconds">Spol maks. %d sekunder frem.</string>
     <string name="show_radio_station_name">Vis titel på radiostation</string>
     <string name="hide_radio_station_name">Skjul titel på radiostation</string>
     <string name="not_in_downloads_list">Ikke i downloads-listen</string>
@@ -935,7 +928,6 @@
     <string name="fade_audio_out_2_minutes_left">Fade lyden ud (2 minutter mindre)</string>
     <string name="keep_all_articles">Vis alle artikler</string>
     <string name="keep_articles">Vis artikler</string>
-    <string name="keep_articles_from_last_d_days">Behold artikler fra de seneste %d dage</string>
     <string name="pref_download_location_select_prompt_message">Du bliver sendt videre til Android filhåndtering. Vælg en mappe eller brug SD-kort som downloadlokation.</string>
     <string name="review_wifi_only_prompt_message">"Denne app bruger 'kun via Wi-Fi' som standard. Du kan slå det fra, hvis du har en hurtig dataforbindelse. Vil du ændre 'kun via Wi-Fi'-indstillingerne nu?"</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Slet virtuel podcastfil fra lageret efter afspilning</string>
@@ -1054,10 +1046,6 @@
     <string name="episode_artwork">Episode artwork</string>
     <string name="taag_radio_stations">Tag radios</string>
     <string name="tag_rss_feeds">Tag feeds</string>
-    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Download episode if duration is greater than %d minutes.</string>
-    <string name="download_episode_if_duration_is_less_than_d_minutes_">Download episode if duration is less than %d_minutes.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Don\'t download episode if duration is greater than %d minutes.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Don\'t download episode if duration is less than %d minutes.</string>
     <string name="feed_title_can_not_be_empty_">Feed title can not be empty!</string>
     <string name="rss_feed_url_can_not_be_empty_">RSS feed URL can not be empty!</string>
     <string name="no_rss_feeds_found_">No RSS feeds found!</string>

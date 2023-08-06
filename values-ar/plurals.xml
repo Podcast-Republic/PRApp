@@ -261,4 +261,112 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="zero">"Keep articles from last %1$d day."</item>
+        <item quantity="one">"Keep articles from last %1$d day."</item>
+        <item quantity="two">"Keep articles from last %1$d days."</item>
+        <item quantity="few">"Keep articles from last %1$d days."</item>
+        <item quantity="many">"Keep articles from last %1$d days."</item>
+        <item quantity="other">"Keep articles from last %1$d days."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="zero">"Minimum rewind time: %1$d second."</item>
+        <item quantity="one">"Minimum rewind time: %1$d second."</item>
+        <item quantity="two">"Minimum rewind time: %1$d seconds."</item>
+        <item quantity="few">"Minimum rewind time: %1$d seconds."</item>
+        <item quantity="many">"Minimum rewind time: %1$d seconds."</item>
+        <item quantity="other">"Minimum rewind time: %1$d seconds."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="zero">"KMaximum rewind time: %1$d second."</item>
+        <item quantity="one">"Maximum rewind time: %1$d second."</item>
+        <item quantity="two">"Maximum rewind time: %1$d seconds."</item>
+        <item quantity="few">"Maximum rewind time: %1$d seconds."</item>
+        <item quantity="many">"Maximum rewind time: %1$d seconds."</item>
+        <item quantity="other">"Maximum rewind time: %1$d seconds."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="zero">"Select episodes with duration greater than %1$d minute."</item>
+        <item quantity="one">"Select episodes with duration greater than %1$d minute."</item>
+        <item quantity="two">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="few">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="many">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="other">"Select episodes with duration greater than %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="zero">"Select episodes with duration less than %1$d minute."</item>
+        <item quantity="one">"Select episodes with duration less than %1$d minute."</item>
+        <item quantity="two">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="few">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="many">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="other">"Select episodes with duration less than %1$d minutes."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="zero">"Select episodes from last %1$d day."</item>
+        <item quantity="one">"Select episodes from last %1$d day."</item>
+        <item quantity="two">"Select episodes from last %1$d days."</item>
+        <item quantity="few">"Select episodes from last %1$d days."</item>
+        <item quantity="many">"Select episodes from last %1$d days."</item>
+        <item quantity="other">"Select episodes from last %1$d days."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="zero">"Skip the beginning %1$d second."</item>
+        <item quantity="one">"Skip the beginning %1$d second."</item>
+        <item quantity="two">"Skip the beginning %1$d seconds."</item>
+        <item quantity="few">"Skip the beginning %1$d seconds."</item>
+        <item quantity="many">"Skip the beginning %1$d seconds."</item>
+        <item quantity="other">"Skip the beginning %1$d seconds."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="zero">"Skip the ending %1$d second."</item>
+        <item quantity="one">"Skip the ending %1$d second."</item>
+        <item quantity="two">"Skip the ending %1$d seconds."</item>
+        <item quantity="few">"Skip the ending %1$d seconds."</item>
+        <item quantity="many">"Skip the ending %1$d seconds."</item>
+        <item quantity="other">"Skip the ending %1$d seconds."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="zero">"Download episode if duration is greater than %d minute."</item>
+        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
+        <item quantity="two">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="few">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="many">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="zero">"Download episode if duration is less than %d_minute."</item>
+        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
+        <item quantity="two">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="few">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="many">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="zero">"Don't download episode if duration is greater than %d minute."</item>
+        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
+        <item quantity="two">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="few">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="many">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="zero">"Don't download episode if duration is less than %d minute."</item>
+        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
+        <item quantity="two">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="few">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="many">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+    </plurals>
+
 </resources>

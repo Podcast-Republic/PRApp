@@ -175,74 +175,74 @@
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Зберігати статті за останні %d днів."</item>
-        <item quantity="few">"Зберігати статті за останні %d днів."</item>
-        <item quantity="many">"Зберігати статті за останні %d днів."</item>
+        <item quantity="one">"Зберігати статті за %d останній день."</item>
+        <item quantity="few">"Зберігати статті за %d останні дні."</item>
+        <item quantity="many">"Зберігати статті за %d останніх днів."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Мінімальний час перемотування: %d секунд."</item>
-        <item quantity="few">"Мінімальний час перемотування: %d секунд."</item>
+        <item quantity="one">"Мінімальний час перемотування: %d секунда."</item>
+        <item quantity="few">"Мінімальний час перемотування: %d секунди."</item>
         <item quantity="many">"Мінімальний час перемотування: %d секунд."</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Максимальний час перемотування: %d секунд."</item>
-        <item quantity="few">"Максимальний час перемотування: %d секунд."</item>
+        <item quantity="one">"Максимальний час перемотування: %d секунда."</item>
+        <item quantity="few">"Максимальний час перемотування: %d секунди."</item>
         <item quantity="many">"Максимальний час перемотування: %d секунд."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Вибрати епізоди тривалістю довше ніж %d хвилин."</item>
-        <item quantity="few">"Вибрати епізоди тривалістю довше ніж %d хвилин."</item>
+        <item quantity="one">"Вибрати епізоди тривалістю довше ніж %d хвилина."</item>
+        <item quantity="few">"Вибрати епізоди тривалістю довше ніж %d хвилини."</item>
         <item quantity="many">"Вибрати епізоди тривалістю довше ніж %d хвилин."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Вибрати епізоди тривалістю коротше ніж %d хвилин."</item>
-        <item quantity="few">"Вибрати епізоди тривалістю коротше ніж %d хвилин."</item>
+        <item quantity="one">"Вибрати епізоди тривалістю коротше ніж %d хвилина."</item>
+        <item quantity="few">"Вибрати епізоди тривалістю коротше ніж %d хвилини."</item>
         <item quantity="many">"Вибрати епізоди тривалістю коротше ніж %d хвилин."</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Виберіть епізоди за останні %d днів."</item>
-        <item quantity="few">"Виберіть епізоди за останні %d днів."</item>
-        <item quantity="many">"Виберіть епізоди за останні %d днів."</item>
+        <item quantity="one">"Виберіть епізоди за %d останній день."</item>
+        <item quantity="few">"Виберіть епізоди за %d останні дні."</item>
+        <item quantity="many">"Виберіть епізоди за %d останніх днів."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Пропустити початкові %d секунд."</item>
-        <item quantity="few">"Пропустити початкові %d секунд."</item>
-        <item quantity="many">"Пропустити початкові %d секунд."</item>
+        <item quantity="one">"Пропустити %d початкову секунду."</item>
+        <item quantity="few">"Пропустити %d початкові секунди."</item>
+        <item quantity="many">"Пропустити %d початкових секунд."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Пропустити кінцеві %d секунд."</item>
-        <item quantity="few">"Пропустити кінцеві %d секунд."</item>
-        <item quantity="many">"Пропустити кінцеві %d секунд."</item>
+        <item quantity="one">"Пропустити %d кінцеву секунду."</item>
+        <item quantity="few">"Пропустити %d кінцеві секунди."</item>
+        <item quantity="many">"Пропустити %d кінцевих секунд."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Завантажити епізод, якщо тривалість перевищує %d хвилин."</item>
-        <item quantity="few">"Завантажити епізод, якщо тривалість перевищує %d хвилин."</item>
-        <item quantity="many">"Завантажити епізод, якщо тривалість перевищує %d хвилин."</item>
+        <item quantity="one">"Завантажити епізод, якщо його тривалість перевищує %d хвилину."</item>
+        <item quantity="few">"Завантажити епізод, якщо його тривалість перевищує %d хвилини."</item>
+        <item quantity="many">"Завантажити епізод, якщо його тривалість перевищує %d хвилин."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Завантажити епізод, якщо тривалість менше %d хвилин."</item>
-        <item quantity="few">"Завантажити епізод, якщо тривалість менше %d хвилин."</item>
-        <item quantity="many">"Завантажити епізод, якщо тривалість менше %d хвилин."</item>
+        <item quantity="one">"Завантажити епізод, якщо його тривалість менша за %d хвилину."</item>
+        <item quantity="few">"Завантажити епізод, якщо його тривалість менша за %d хвилини."</item>
+        <item quantity="many">"Завантажити епізод, якщо його тривалість менша за %d хвилин."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Не завантажувати епізод, якщо його тривалість перевищує %d хвилин."</item>
-        <item quantity="few">"Не завантажувати епізод, якщо його тривалість перевищує %d хвилин."</item>
+        <item quantity="one">"Не завантажувати епізод, якщо його тривалість перевищує %d хвилину."</item>
+        <item quantity="few">"Не завантажувати епізод, якщо його тривалість перевищує %d хвилини."</item>
         <item quantity="many">"Не завантажувати епізод, якщо його тривалість перевищує %d хвилин."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Не завантажувати епізод, якщо його тривалість менша за %d хвилин."</item>
-        <item quantity="few">"Не завантажувати епізод, якщо його тривалість менша за %d хвилин."</item>
+        <item quantity="one">"Не завантажувати епізод, якщо його тривалість менша за %d хвилину."</item>
+        <item quantity="few">"Не завантажувати епізод, якщо його тривалість менша за %d хвилини."</item>
         <item quantity="many">"Не завантажувати епізод, якщо його тривалість менша за %d хвилин."</item>
     </plurals>
 

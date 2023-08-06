@@ -145,4 +145,64 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"Bewaar artikelen van de laatste %d dagen."</item>
+        <item quantity="other">"Bewaar artikelen van de laatste %d dagen."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"Minimale terugspoeltijd: %d seconden."</item>
+        <item quantity="other">"Minimale terugspoeltijd: %d seconden."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"Maximale terugspoeltijd: %d seconden."</item>
+        <item quantity="other">"Maximale terugspoeltijd: %d seconden."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"Selecteer afleveringen langer dan %d minuten."</item>
+        <item quantity="other">"Selecteer afleveringen langer dan %d minuten."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"Selecteer afleveringen korter dan %d minuten."</item>
+        <item quantity="other">"Selecteer afleveringen korter dan %d minuten."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"Selecteer afleveringen van de laatste %d dagen."</item>
+        <item quantity="other">"Selecteer afleveringen van de laatste %d dagen."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Sla de eerste %d seconden over."</item>
+        <item quantity="other">"Sla de eerste %d seconden over."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"Sla de laatste %d seconden over."</item>
+        <item quantity="other">"Sla de laatste %d seconden over."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
+        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
+        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
+        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
+        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+    </plurals>
+
 </resources>

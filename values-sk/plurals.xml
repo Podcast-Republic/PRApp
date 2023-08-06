@@ -203,4 +203,88 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"Ponechať články za posledných %d dní."</item>
+        <item quantity="few">"Ponechať články za posledných %d dní."</item>
+        <item quantity="many">"Ponechať články za posledných %d dní."</item>
+        <item quantity="other">"Ponechať články za posledných %d dní."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="few">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="many">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="other">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="few">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="many">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="other">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
+        <item quantity="few">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
+        <item quantity="many">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
+        <item quantity="other">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
+        <item quantity="few">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
+        <item quantity="many">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
+        <item quantity="other">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"Vybrať epizódy za posledných %d dní."</item>
+        <item quantity="few">"Vybrať epizódy za posledných %d dní."</item>
+        <item quantity="many">"Vybrať epizódy za posledných %d dní."</item>
+        <item quantity="other">"Vybrať epizódy za posledných %d dní."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Preskočiť úvodných %d sekúnd."</item>
+        <item quantity="few">"Preskočiť úvodných %d sekúnd."</item>
+        <item quantity="many">"Preskočiť úvodných %d sekúnd."</item>
+        <item quantity="other">"Preskočiť úvodných %d sekúnd."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"Preskočiť záverečných %d sekúnd."</item>
+        <item quantity="few">"Preskočiť záverečných %d sekúnd."</item>
+        <item quantity="many">"Preskočiť záverečných %d sekúnd."</item>
+        <item quantity="other">"Preskočiť záverečných %d sekúnd."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Stiahnuť epizódu, ak je dĺžka vačšia ako %d minút."</item>
+        <item quantity="few">"Stiahnuť epizódu, ak je dĺžka vačšia ako %d minút."</item>
+        <item quantity="many">"Stiahnuť epizódu, ak je dĺžka vačšia ako %d minút."</item>
+        <item quantity="other">"Stiahnuť epizódu, ak je dĺžka vačšia ako %d minút."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
+        <item quantity="few">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
+        <item quantity="many">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
+        <item quantity="other">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Nesťahovať epizódu, aj je dĺžka väčšia ako %d minutes."</item>
+        <item quantity="few">"Nesťahovať epizódu, aj je dĺžka väčšia ako %d minutes."</item>
+        <item quantity="many">"Nesťahovať epizódu, aj je dĺžka väčšia ako %d minutes."</item>
+        <item quantity="other">"Nesťahovať epizódu, aj je dĺžka väčšia ako %d minutes."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Nesťahovať epizódu, aj je dĺžka menšia ako %d minutes."</item>
+        <item quantity="few">"Nesťahovať epizódu, aj je dĺžka menšia ako %d minutes."</item>
+        <item quantity="many">"Nesťahovať epizódu, aj je dĺžka menšia ako %d minutes."</item>
+        <item quantity="other">"Nesťahovať epizódu, aj je dĺžka menšia ako %d minutes."</item>
+    </plurals>
+
 </resources>

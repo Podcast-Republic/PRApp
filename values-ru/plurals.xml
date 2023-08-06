@@ -203,4 +203,88 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"Сохранить статьи за последние %1$d дней."</item>
+        <item quantity="few">"Сохранить статьи за последние %1$d дней."</item>
+        <item quantity="many">"Сохранить статьи за последние %1$d дней."</item>
+        <item quantity="other">"Сохранить статьи за последние %1$d дней."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"Минимальное время перемотки: %1$d секунд."</item>
+        <item quantity="few">"Минимальное время перемотки: %1$d секунд."</item>
+        <item quantity="many">"Минимальное время перемотки: %1$d секунд."</item>
+        <item quantity="other">"Минимальное время перемотки: %1$d секунд."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"Максимальное время перемотки: %1$d секунд."</item>
+        <item quantity="few">"Максимальное время перемотки: %1$d секунд."</item>
+        <item quantity="many">"Максимальное время перемотки: %1$d секунд."</item>
+        <item quantity="other">"Максимальное время перемотки: %1$d секунд."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"Отобрать выпуски продолжительностью более %1$d минут."</item>
+        <item quantity="few">"Отобрать выпуски продолжительностью более %1$d минут."</item>
+        <item quantity="many">"Отобрать выпуски продолжительностью более %1$d минут."</item>
+        <item quantity="other">"Отобрать выпуски продолжительностью более %1$d минут."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
+        <item quantity="few">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
+        <item quantity="many">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
+        <item quantity="other">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"Выпуски за последние %1$d дней."</item>
+        <item quantity="few">"Выпуски за последние %1$d дней."</item>
+        <item quantity="many">"Выпуски за последние %1$d дней."</item>
+        <item quantity="other">"Выпуски за последние %1$d дней."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Пропустить в начале %1$d секунд."</item>
+        <item quantity="few">"Пропустить в начале %1$d секунд."</item>
+        <item quantity="many">"Пропустить в начале %1$d секунд."</item>
+        <item quantity="other">"Пропустить в начале %1$d секунд."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"Пропустить в конце %1$d секунд."</item>
+        <item quantity="few">"Пропустить в конце %1$d секунд."</item>
+        <item quantity="many">"Пропустить в конце %1$d секунд."</item>
+        <item quantity="other">"Пропустить в конце %1$d секунд."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="few">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="many">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="other">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
+        <item quantity="few">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
+        <item quantity="many">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
+        <item quantity="other">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="few">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="many">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="other">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
+        <item quantity="few">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
+        <item quantity="many">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
+        <item quantity="other">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
+    </plurals>
+
 </resources>

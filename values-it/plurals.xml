@@ -174,4 +174,76 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"Mantieni gli elementi degli utimi %d giorni."</item>
+        <item quantity="many">"Mantieni gli elementi degli utimi %d giorni."</item>
+        <item quantity="other">"Mantieni gli elementi degli utimi %d giorni."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"Durata minima di riavvoltimento: %d seconds."</item>
+        <item quantity="many">"Durata minima di riavvoltimento: %d seconds."</item>
+        <item quantity="other">"Durata minima di riavvoltimento: %d seconds."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"Durata massima di riavvolgimento: %d seconds."</item>
+        <item quantity="many">"Durata massima di riavvolgimento: %d seconds."</item>
+        <item quantity="other">"Durata massima di riavvolgimento: %d seconds."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"Seleziona gli episodi con durata maggiore di %d minuti."</item>
+        <item quantity="many">"Seleziona gli episodi con durata maggiore di %d minuti."</item>
+        <item quantity="other">"Seleziona gli episodi con durata maggiore di %d minuti."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"Seleziona gli episodi con durata minore di %d minuti."</item>
+        <item quantity="many">"Seleziona gli episodi con durata minore di %d minuti."</item>
+        <item quantity="other">"Seleziona gli episodi con durata minore di %d minuti."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"Seleziona gli episodi dagli ultimi %d giorni."</item>
+        <item quantity="many">"Seleziona gli episodi dagli ultimi %d giorni."</item>
+        <item quantity="other">"Seleziona gli episodi dagli ultimi %d giorni."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Salta l'inizio di %d secondi."</item>
+        <item quantity="many">"Salta l'inizio di %d secondi."</item>
+        <item quantity="other">"Salta l'inizio di %d secondi."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"Salta la fine di %d secondi."</item>
+        <item quantity="many">"Salta la fine di %d secondi."</item>
+        <item quantity="other">"Salta la fine di %d secondi."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Scarica l'episodio se la durata è superiore a %d minuti."</item>
+        <item quantity="many">"Scarica l'episodio se la durata è superiore a %d minuti."</item>
+        <item quantity="other">"Scarica l'episodio se la durata è superiore a %d minuti."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Scarica l'episodio se la durata è inferiore a %d minuti."</item>
+        <item quantity="many">"Scarica l'episodio se la durata è inferiore a %d minuti."</item>
+        <item quantity="other">"Scarica l'episodio se la durata è inferiore a %d minuti."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Non scaricare l'episodio se la durata è superiore a %d minuti."</item>
+        <item quantity="many">"Non scaricare l'episodio se la durata è superiore a %d minuti."</item>
+        <item quantity="other">"Non scaricare l'episodio se la durata è superiore a %d minuti."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Non scaricare l'episodio se la durata è inferiore a %d minuti."</item>
+        <item quantity="many">"Non scaricare l'episodio se la durata è inferiore a %d minuti."</item>
+        <item quantity="other">"Non scaricare l'episodio se la durata è inferiore a %d minuti."</item>
+    </plurals>
+
 </resources>

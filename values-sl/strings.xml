@@ -598,8 +598,6 @@
     <string name="pick_a_time">Izberi čas</string>
     <string name="updating_podcasts">Posodabljam podkaste</string>
     <string name="skip_ending">Preskoči konec</string>
-    <string name="skip_the_beginning_d_seconds">Preskoči začetnih %1$d sekund.</string>
-    <string name="skip_the_ending_d_seconds">Preskoči zadnjih %1$d sekund.</string>
     <string name="no_user_notes_found">Ni najdenih zapiskov.</string>
     <string name="no_episode_description_found">Opis epizode ni najden.</string>
     <string name="or">Ali</string>
@@ -656,7 +654,6 @@
     <string name="click_to_select_playback_mode">Dotakni se za izbor načina predvajanja.</string>
     <string name="percetage_value">%1$d%%</string>
     <string name="select_episodes">Izberi epizode</string>
-    <string name="select_episodes_from_last_d_days">Izberi epizode zadnjih %1$d dni.</string>
     <string name="select_episodes_from_all_dates">Izberi epizode vseh datumov.</string>
     <string name="selected_tags_s">Izbrane oznake: %1$s</string>
     <string name="selected_podcasts_s">Izbrani podkasti: %1$s</string>
@@ -895,8 +892,6 @@
     <string name="article_url">URL naslov članka</string>
     <string name="summary">Povzetek</string>
     <string name="download_state_paused_battery_low">Začasno zaustavljeno: nizka napolnjenost baterije</string>
-    <string name="select_episodes_with_duration_greater_than_d_minutes">Izberi epizode, ki trajajo več kot %1$d minut.</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes">Izberi epizode, ki trajajo manj kot %1$d minut.</string>
     <string name="short_time_unit_format_minute">min</string>
     <string name="hold_down_to_start_dragging">Pridrži in povleci</string>
     <string name="swipe_right_action">Dejanje za podrsljaj v desno</string>
@@ -923,8 +918,6 @@
     <string name="always_on_amoled_black">Vedno vklopljen (AMOLED črna)</string>
     <string name="smart_rewind_on_resuming">Pametno ponavljanje ob nadaljevanju</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Ponovi %1$d do %2$d sekund ob nadaljevanju predvajanja.</string>
-    <string name="minimum_rewind_time_d_seconds">Najkrajši čas ponavljanja: %1$d sekund.</string>
-    <string name="maximum_rewind_time_d_seconds">Najdaljši čas ponavljanja: %1$d sekund.</string>
     <string name="show_radio_station_name">Pokaži ime postaje</string>
     <string name="hide_radio_station_name">Skrij ime postaje</string>
     <string name="not_in_downloads_list">Ni v seznamu prenosov</string>
@@ -943,7 +936,6 @@
     <string name="fade_audio_out_2_minutes_left">Postopoma znižaj glasnost (2 minuti)</string>
     <string name="keep_all_articles">Ohrani vse članke</string>
     <string name="keep_articles">Ohrani članke</string>
-    <string name="keep_articles_from_last_d_days">Ohrani članke zadnjih %1$d dni.</string>
     <string name="pref_download_location_select_prompt_message">Preusmerjeni boste na upravitelja datotek Android. Prosimo, izberite mapo v notranji shrambi ali SD kartici, ki bo uporabljena kot shramba za prenose.</string>
     <string name="review_wifi_only_prompt_message">Ali veste, da ta aplikacija privzeto uporablja samo Wi-Fi omrežje za prenos podatkov? Prenos podatkov preko Wi-Fi omrežja izklopite samo, če imate hitro podatkovno povezavo. Ali želite zdaj pregledati nastavitve za prenos podatkov preko WiFi omrežja?</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Po predvajanju izbrišite datoteko navideznega podcasta iz shrambe.</string>
@@ -1059,10 +1051,6 @@
     <string name="episode_artwork">Grafična podoba epizode</string>
     <string name="taag_radio_stations">Označi radijske postaje</string>
     <string name="tag_rss_feeds">Označi vire</string>
-    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Prenesi epizodo, če traja več kot %d minut.</string>
-    <string name="download_episode_if_duration_is_less_than_d_minutes_">Prenesi epizodo, če traja manj kot %d_minut.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Ne prenesi epizode če traja več kot %d minut.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Ne prenesi epizode, če traja manj kot %d minut.</string>
     <string name="feed_title_can_not_be_empty_">Naslov vira ne sme biti prazen!</string>
     <string name="rss_feed_url_can_not_be_empty_">URL naslov RSS vira ne sme biti prazen!</string>
     <string name="no_rss_feeds_found_">Ni najdenih RSS virov!</string>

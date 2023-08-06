@@ -590,8 +590,6 @@
     <string name="pick_a_time">"Выберите время"</string>
     <string name="updating_podcasts">"Обновление подкастов"</string>
     <string name="skip_ending">"Пропустить окончание"</string>
-    <string name="skip_the_beginning_d_seconds">"Пропустить в начале %1$d секунд"</string>
-    <string name="skip_the_ending_d_seconds">"Пропустить в конце %1$d секунд"</string>
     <string name="no_user_notes_found">"Заметок пользователя не найдено"</string>
     <string name="no_episode_description_found">"Нет описания выпуска"</string>
     <string name="or">"Или"</string>
@@ -648,7 +646,6 @@
     <string name="click_to_select_playback_mode">"Нажмите, чтобы выбрать режим воспроизведения"</string>
     <string name="percetage_value">"%1$d%%"</string>
     <string name="select_episodes">"Выбор выпусков"</string>
-    <string name="select_episodes_from_last_d_days">"Выпуски за последние %1$d дней"</string>
     <string name="select_episodes_from_all_dates">"За всё время"</string>
     <string name="selected_tags_s">"Выбранные теги: %1$s"</string>
     <string name="selected_podcasts_s">"Выбранные подкасты: %1$s"</string>
@@ -934,8 +931,6 @@
     <string name="reset_stats">Сброс статистики</string>
     <string name="find_rss_feed">Найти RSS-ленту</string>
     <string name="hold_down_to_start_dragging">Удерживайте, чтобы перетащить</string>
-    <string name="select_episodes_with_duration_greater_than_d_minutes">Отобрать выпуски продолжительностью более %1$d минут.</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes">Отобрать выпуски продолжительностью менее %1$d минут.</string>
     <string name="short_time_unit_format_minute">Мин</string>
     <string name="download_state_paused_battery_low">Остановлено: низкий уровень заряда</string>
     <string name="summary">Сводка</string>
@@ -1080,8 +1075,6 @@
     <string name="mark_all_previous_episodes_as_unplayed">Отметить все предыдущие выпуски как непрослушанные</string>
     <string name="mark_as_favorite">Добавить в избранное</string>
     <string name="mark_current_playback_position">Отметить текущую точку воспроизведения</string>
-    <string name="maximum_rewind_time_d_seconds">Максимальное время перемотки: %1$d секунд.</string>
-    <string name="minimum_rewind_time_d_seconds">Минимальное время перемотки: %1$d секунд.</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Переместить все файлы из [%1$s] в новый каталог загрузки [%2$s]?</string>
     <string name="not_in_downloads_list">Нет в списке загрузок</string>
     <string name="only_include_episodes_with_user_chapters">Включать только выпуски с пользовательскими главами.</string>
@@ -1116,7 +1109,6 @@
     <string name="list_animation">Анимирование списка</string>
     <string name="keep_articles">Сохранить статьи</string>
     <string name="keep_all_articles">Сохранить все статьи</string>
-    <string name="keep_articles_from_last_d_days">Сохранить статьи за последние %1$d дней.</string>
     <string name="ignore_articles_in_title">Игнорировать артикли в названии</string>
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Игнорируйте артикли (A, An или The) в названии подкаста при сортировке по названию.</string>
     <string name="html_notation">HTML-нотация</string>
@@ -1137,8 +1129,6 @@
     <string name="pick_an_image_as_the_shortcut_icon">Выберите изображение в качестве иконки ярлыка</string>
     <string name="android_file_manager_select_tip">Советы: Для завершения процесса восстановления будет открыт файловый менеджер Android. Пожалуйста, перейдите туда, где находится файл резервной копии, а затем, удерживая файл нажатой, выберите его. Файл резервной копии по умолчанию носит имя в формате backup_date.zip</string>
     <string name="pref_download_location_select_prompt_message">Вы будете перенаправлены в файловый менеджер Android. Пожалуйста, выберите каталог на внутренней памяти или SD-карте, который будет использоваться в качестве места загрузки.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Не загружать выпуск, если продолжительность превышает %d минут.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Не загружать выпуск, если продолжительность составляет менее %d минут.</string>
     <string name="remove_obsolete_episodes">Удалить устаревшие выпуски</string>
     <string name="article_publishing_date">Дата публикации статьи</string>
     <string name="article_title">Заголовок статьи</string>
@@ -1156,8 +1146,6 @@
     <string name="advanced_options">Дополнительно</string>
     <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Применить аудиоэффекты ко всем подкастам и радиостанциям?</string>
     <string name="ask_me_for_action">Спросить</string>
-    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Загрузить выпуск, если продолжительность превышает %d минут.</string>
-    <string name="download_episode_if_duration_is_less_than_d_minutes_">Загрузить выпуск, если продолжительность менее чем %d минут.</string>
     <string name="failed_to_update_podcast_s">Не удалось обновить подкаст: %1$s.</string>
     <string name="article_guid">GUID статьи</string>
     <string name="article_unique_criteria">Критерии уникальности статьи</string>

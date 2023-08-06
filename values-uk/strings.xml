@@ -594,8 +594,6 @@
     <string name="pick_a_time">"Обрати проміжок часу"</string>
     <string name="updating_podcasts">"Оновлення подкастів"</string>
     <string name="skip_ending">"Пропустити закінчення"</string>
-    <string name="skip_the_beginning_d_seconds">"Пропустити початкові %d секунд"</string>
-    <string name="skip_the_ending_d_seconds">"Пропустити кінцеві %d секунд"</string>
     <string name="no_user_notes_found">"Жодних користувацьких нотаток не знайдено"</string>
     <string name="no_episode_description_found">"Не знайдено жодного опису до епізоду."</string>
     <string name="or">"Або"</string>
@@ -654,7 +652,6 @@
     <string name="click_to_select_playback_mode">"Натисніть, щоб вибрати режим відтворення"</string>
     <string name="percetage_value">"%1$d %%"</string>
     <string name="select_episodes">"Виберіть епізоди"</string>
-    <string name="select_episodes_from_last_d_days">"Виберіть епізоди за останні %d днів"</string>
     <string name="select_episodes_from_all_dates">"Виберіть епізоди за всі дати"</string>
     <string name="selected_tags_s">"Вибрані теги: %s"</string>
     <string name="selected_podcasts_s">"Вибрані подкасти: %s"</string>
@@ -886,8 +883,6 @@
     <string name="article_url">URL-адреса статті</string>
     <string name="summary">Короткий зміст</string>
     <string name="download_state_paused_battery_low">Призупинено: заряд батареї низький</string>
-    <string name="select_episodes_with_duration_greater_than_d_minutes">Вибрати епізоди тривалістю довше ніж %d хвилин</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes">Вибрати епізоди тривалістю коротше ніж %d хвилин</string>
     <string name="short_time_unit_format_minute">хв</string>
     <string name="hold_down_to_start_dragging">Утримуйте, щоб почати перетягування</string>
     <string name="swipe_right_action">Дія на свайп вправо</string>
@@ -914,8 +909,6 @@
     <string name="always_on_amoled_black">Завжди ввімкнений (AMOLED black)</string>
     <string name="smart_rewind_on_resuming">Розумне перемотування назад під час відновлення</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Автоматично перемотати назад від %1$d до %2$d секунд під час відновлення відтворення</string>
-    <string name="minimum_rewind_time_d_seconds">Мінімальний час перемотування: %d секунд.</string>
-    <string name="maximum_rewind_time_d_seconds">Максимальний час перемотування: %d секунд.</string>
     <string name="show_radio_station_name">Показати назву станції</string>
     <string name="hide_radio_station_name">Приховати назву станції</string>
     <string name="not_in_downloads_list">Не завантажено</string>
@@ -934,7 +927,6 @@
     <string name="fade_audio_out_2_minutes_left">Зменшення гучності звуку (за 2 хвилини)</string>
     <string name="keep_all_articles">Зберегти всі статті</string>
     <string name="keep_articles">Зберегти статті</string>
-    <string name="keep_articles_from_last_d_days">Зберігати статті за останні %d днів</string>
     <string name="pref_download_location_select_prompt_message">Ви будете перенаправлені до файлового менеджера Android. Будь ласка, виберіть каталог у внутрішній пам\’яті або SD-карті, який буде використовуватися як місце завантаження.</string>
     <string name="review_wifi_only_prompt_message">Чи знаєте ви, що ця програма за умовчанням використовує лише Wi-Fi? Ви можете вимкнути використання лише Wi-Fi, якщо у вас швидке з\’єднання для передачі даних. Хочете зараз переглянути налаштування використання лише Wi-Fi?</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Видаліть файл віртуального подкасту зі сховища після відтворення</string>
@@ -1053,10 +1045,6 @@
     <string name="episode_artwork">Обкладинка епізоду</string>
     <string name="taag_radio_stations">Додати теги до радіостанцій</string>
     <string name="tag_rss_feeds">Додати теги до RSS-каналів</string>
-    <string name="download_episode_if_duration_is_greater_than_d_minutes_">Завантажити епізод, якщо тривалість перевищує %d хвилин.</string>
-    <string name="download_episode_if_duration_is_less_than_d_minutes_">Завантажити епізод, якщо тривалість менше %d хвилин.</string>
-    <string name="dont_download_episode_if_duration_is_greater_than_d_minutes_">Не завантажувати епізод, якщо його тривалість перевищує %d хвилин.</string>
-    <string name="dont_download_episode_if_duration_is_less_than_d_minutes_">Не завантажувати епізод, якщо його тривалість менша за %d хвилин.</string>
     <string name="feed_title_can_not_be_empty_">Назва каналу не може бути пустою!</string>
     <string name="rss_feed_url_can_not_be_empty_">URL-адреса RSS-каналу не може бути порожньою!</string>
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>

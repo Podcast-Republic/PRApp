@@ -145,4 +145,64 @@
         <item quantity="other">"Az új epizódok lekérdezése után a legutóbbi %1$d epizódnál korábbi összes epizódot lejátszottnak jelöli."</item>
     </plurals>
 
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"Az elmúlt %d nap cikkeinek megőrzése."</item>
+        <item quantity="other">"Az elmúlt %d nap cikkeinek megőrzése."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"Minimális visszatekerési idő: %d másodperc."</item>
+        <item quantity="other">"Minimális visszatekerési idő: %d másodperc."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"Maximális visszatekerési idő: %d másodperc."</item>
+        <item quantity="other">"Maximális visszatekerési idő: %d másodperc."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"%d percnél hosszabb epizódok kiválasztása."</item>
+        <item quantity="other">"%d percnél hosszabb epizódok kiválasztása."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"%d percnél rövidebb epizódok kiválasztása."</item>
+        <item quantity="other">"%d percnél rövidebb epizódok kiválasztása."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"Epizódok kiválasztása az utóbbi %d napból."</item>
+        <item quantity="other">"Epizódok kiválasztása az utóbbi %d napból."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Ugorjon át %d másodpercet az epizód elején."</item>
+        <item quantity="other">"Ugorjon át %d másodpercet az epizód elején."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"Ugorjon át %d másodpercet az epizód végén."</item>
+        <item quantity="other">"Ugorjon át %d másodpercet az epizód végén."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Epizód letöltése, ha az időtartama több mint %d perc."</item>
+        <item quantity="other">"Epizód letöltése, ha az időtartama több mint %d perc."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Epizód letöltése, ha az időtartama kevesebb mint %d perc."</item>
+        <item quantity="other">"Epizód letöltése, ha az időtartama kevesebb mint %d perc."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"Ne töltse le az epizódot, ha az időtartama több mint %d perc."</item>
+        <item quantity="other">"Ne töltse le az epizódot, ha az időtartama több mint %d perc."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"Ne töltse le az epizódot, ha az időtartama kevesebb mint %d perc."</item>
+        <item quantity="other">"Ne töltse le az epizódot, ha az időtartama kevesebb mint %d perc."</item>
+    </plurals>
+
 </resources>

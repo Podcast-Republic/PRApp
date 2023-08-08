@@ -292,7 +292,7 @@
     <string name="when_deleting_from_playlist">"При видаленні з плейлиста"</string>
     <string name="search">"Пошук"</string>
     <string name="edit">"Редагувати"</string>
-    <string name="time_display_minute_short_format">"хв."</string>
+    <string name="time_display_minute_short_format">"хв"</string>
     <string name="keep_screen_on">"Тримати дисплей увімкненим"</string>
     <string name="backup_restore">"Резервне копіювання та відновлення"</string>
     <string name="backup">"Резервне копіювання"</string>
@@ -556,13 +556,13 @@
     <string name="syncing_started">"Початок синхронізації"</string>
     <string name="sync_subscriptions_and_episode_playback_progress">"Синхронізація підписок та прогресу відтворення епізодів"</string>
     <string name="save_auto_backup_to_s">"Автоматичні резервні копії зберігати в: %1$s"</string>
-    <string name="enable_auto_backup_of_app_settings_and_database">"Увімкнути автоматичне резервне копіювання налаштувань додатка та бази даних"</string>
+    <string name="enable_auto_backup_of_app_settings_and_database">"Увімкнути автоматичне резервне копіювання налаштувань програми та бази даних"</string>
     <string name="schedule_backup">"Запланувати резервне копіювання"</string>
     <string name="backups_to_keep">"Резервні копії для збереження"</string>
     <string name="import_subscriptions_from_an_opml_file">"Імпортувати підписки з OPML-файлу"</string>
     <string name="export_subscriptions_to_an_opml_file">"Експортувати підписки в OPML-файл"</string>
-    <string name="create_a_backup_of_app_settings_and_database">"Створіть резервну копію налаштувань додатка та бази даних"</string>
-    <string name="restore_app_settings_and_database_from_selected_backup">"Відновити налаштування додатка та бази даних з вибраної резервної копії"</string>
+    <string name="create_a_backup_of_app_settings_and_database">"Створіть резервну копію налаштувань програми та бази даних"</string>
+    <string name="restore_app_settings_and_database_from_selected_backup">"Відновити налаштування програми та бази даних з вибраної резервної копії"</string>
     <string name="save_to">"Зберегти в…"</string>
     <string name="buy_me_a_coffee">"Донат"</string>
     <string name="clear_the_play_history_">"Очистити історію відтворення?"</string>
@@ -570,7 +570,7 @@
     <string name="keep_all">"Зберігати всі"</string>
     <string name="playlist">"Плейлист"</string>
     <string name="category">"Категорія"</string>
-    <string name="update_podcasts_when_app_is_starting">"Оновити подкасти при запуску додатка"</string>
+    <string name="update_podcasts_when_app_is_starting">"Оновлювати подкасти при запуску програми"</string>
     <string name="unknown_station">"Невідома станція"</string>
     <string name="can_not_cast_youtube_videos_to_chromecast_">"Не вдається завантажити відео YouTube на Chromecast!"</string>
     <string name="add_a_playlist">"Додати список відтворення"</string>
@@ -669,7 +669,7 @@
     <string name="tags">"Теги"</string>
     <string name="casting">"Беруть участь"</string>
     <string name="chapter_d">"Розділ № %d"</string>
-    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Будь ласка, не закривайте додаток, коли він відновлює дані. Після перезавантаження всі дані буде відновлено."</string>
+    <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Будь ласка, не закривайте програму, коли вона відновлює дані. Після перезавантаження всі дані буде відновлено."</string>
     <string name="playback_paused_on_muted_volume_">"Відтворення призупинено, оскільки звук вимкнено!"</string>
     <string name="number_of_episodes_to_auto_download">"Кількість епізодів для автозавантаження"</string>
     <string name="notify_when_new_episodes_are_available">"Сповіщати, коли з'являються нові епізоди"</string>
@@ -1129,7 +1129,7 @@
     <string name="time_unit_hour_single_letter_format">Г</string>
     <string name="time_unit_minute_single_letter_format">Х</string>
     <string name="time_unit_second_single_letter_format">С</string>
-    <string name="time_unit_second_single_letter_format_lower_case_with_value">%d с.</string>
+    <string name="time_unit_second_single_letter_format_lower_case_with_value">%d с</string>
     <string name="playback_speed_shortcuts">Збережені швидкості</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">Перемістити усі файли з «%1$s» до нового каталогу завантажень «%2$s»?</string>
     <string name="article_text_size">Розмір тексту в статтях</string>
@@ -1177,7 +1177,7 @@
     <string name="display_chapter_title_and_artwork">Показати назву та обкладинку розділу</string>
     <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Показувати назву розділу та обкладинку в програвачі, якщо розділ існує.</string>
     <string name="subscribed_date">Дата підписки</string>
-    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Мінімальна тривалість тиші, що підлягатиме активному видаленню: %.2f с.</string>
+    <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Мінімальна тривалість тиші, що підлягатиме активному видаленню: %.2f с</string>
     <string name="_2f_second_short_format">%.2fс</string>
     <string name="only_show_podcasts_having_new_release_after_the_selected_date">Показувати лише подкасти, які мають епізод, опублікований після вибраної дати.</string>
     <string name="only_show_episodes_published_after_the_selected_date">Показувати лише епізоди, опубліковані після вибраної дати.</string>
@@ -1257,7 +1257,7 @@
     <string name="show_empty_podcasts">Показати порожні подкасти</string>
     <string name="show_empty_feeds">Показати порожні канали</string>
     <string name="login_failed">Не вдалося увійти</string>
-    <string name="select_your_preferred_language_to_be_used_within_the_app_">Виберіть мову, що буде використовуватись в додатку.</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Виберіть мову, що буде використовуватись в програмі.</string>
     <string name="term_and_privacy_policy">"Терміни та політика конфіденційності"</string>
     <string name="import_from_opml_file_failed_s">Імпорт з OPML-файлу не вдався: %1$s.</string>
     <string name="play_previous_episode_or_station">Слухати попередній епізод/станцію</string>

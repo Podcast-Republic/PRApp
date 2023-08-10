@@ -278,7 +278,7 @@
     <string name="s_has_been_added_to_subscription">"«%1$s» було додано до підписок"</string>
     <string name="audio_not_started_yet">"Відтворення ще не розпочато!"</string>
     <string name="manage_playlists">"Керувати плейлистами"</string>
-    <string name="download">"Завантажити"</string>
+    <string name="download">"Завантаження"</string>
     <string name="fast_forward_time">"Тривалість перемотування вперед"</string>
     <string name="fast_rewind_time">"Тривалість перемотування назад"</string>
     <string name="play_stop">"Програвати / Зупинити"</string>
@@ -747,7 +747,7 @@
     <string name="background_services">Фонові функції</string>
     <string name="general_notifications">Загальні сповіщення</string>
     <string name="return_to_car_mode_">Повернутися до режиму «В автомобілі».</string>
-    <string name="android_wear">Android Wear</string>
+    <string name="android_wear">Wear OS</string>
     <string name="notification_background_theme_s">Тема сповіщень: %s</string>
     <string name="turn_on_alarms">Увімкнути будильники</string>
     <string name="turn_off_alarms">Вимкнути будильники</string>

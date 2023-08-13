@@ -186,7 +186,7 @@
     <string name="stream">"Стрім"</string>
     <string name="remove">"Видалити"</string>
     <string name="redownload">"Завантажити повторно"</string>
-    <string name="download_all">"Завантажити все"</string>
+    <string name="download_all">"Завантажити всі"</string>
     <string name="display">"Показувати"</string>
     <string name="when_i_press_the_next_button">"Коли я натискаю кнопку «Наступний»"</string>
     <string name="background_play">"Фонове програвання"</string>
@@ -312,7 +312,7 @@
     <string name="download_via_wifi_only">"Завантажити лише через Wi-Fi"</string>
     <string name="feed_updates_via_wifi_only">"Оновити подкасти через Wi-Fi"</string>
     <string name="update_podcasts_only_when_connected_to_wifi">"Оновити подкасти тільки при підключенні до Wi-Fi"</string>
-    <string name="mark_all_as_played">"Позначити всі, як прослухані"</string>
+    <string name="mark_all_as_played">"Познач. всі прослуханими"</string>
     <string name="playback_mode">"Режим відтворення"</string>
     <string name="display_on_lock_screen">"Показувати на екрані блокування"</string>
     <string name="display_artwork_on_lock_screen_when_playing">"Показувати обкладинку на заблокованому екрані під час програвання"</string>
@@ -349,7 +349,7 @@
     <string name="vibrate">"Вібрація"</string>
     <string name="light">"Світлодіодне сповіщення"</string>
     <string name="history">"Історія"</string>
-    <string name="remove_all">"Видалити все"</string>
+    <string name="remove_all">"Видалити всі"</string>
     <string name="new_episode_notification">"Сповіщення про нові епізоди"</string>
     <string name="download_on_charging">"Завантажувати під час зарядження"</string>
     <string name="start_downloading_only_when_battery_is_charging">"Почати завантаження лише коли апарат знаходиться на зарядці"</string>
@@ -708,7 +708,7 @@
     <string name="open">"Відкрити"</string>
     <string name="newest_unplayed">"Час останньої публікації (окрім прослуханих)"</string>
     <string name="apply_to_current_podcast">"Застосувати до поточного подкасту"</string>
-    <string name="redownload_all_selected_episodes_">"Перезавантажити всі вибрані епізоди?"</string>
+    <string name="redownload_all_selected_episodes_">"Завантажити всі вибрані епізоди заново?"</string>
     <string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">"Розташування завантажень недоступне. Налаштувати місце завантаження зараз?"</string>
     <string name="insufficient_space_please_free_some_storage_space_">"Вичерпалися вільне місце. Будь ласка, звільніть місце."</string>
     <string name="show_last_updated_time">"Показати час останнього оновлення"</string>
@@ -811,7 +811,7 @@
     <string name="priority">Пріоритет</string>
     <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з вищим пріоритетом буде прослуханий раніше.</string>
     <string name="view_podcast">Вид</string>
-    <string name="stream_all">Програти без завантаження всі</string>
+    <string name="stream_all">Стрімити всі</string>
     <string name="view_all_your_playlists">Переглянути всі свої списки відтворення</string>
     <string name="click_on_the_tab_again_to_view_all_your_playlists">Натисніть вкладку ще раз, щоб переглянути всі свої списки відтворення</string>
     <string name="edit_playlist">Редагувати список відтворення</string>

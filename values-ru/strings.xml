@@ -188,7 +188,7 @@
     <string name="most_recent_count">Счетчику</string>
     <string name="total_unplayed_count">Количество невоспроизведенных выпусков</string>
     <string name="refresh">Обновить</string>
-    <string name="stream">Трансляция</string>
+    <string name="stream">Потоковое вещание</string>
     <string name="remove">Удалить</string>
     <string name="redownload">Перезагрузить</string>
     <string name="download_all">Загрузить все</string>
@@ -210,7 +210,7 @@
     <string name="download_only_when_connected_to_wifi">Загружать только при Wi-Fi подключении.</string>
     <string name="add_to_new_tag">Добавить к новому тегу</string>
     <string name="enter_a_new_tag_name">Введите имя нового тега</string>
-    <string name="rename_the_tag">Rename the tag</string>
+    <string name="rename_the_tag">Переименовать тег</string>
     <string name="car_mode">Режим автомобиля</string>
     <string name="update_artwork">Обновить обложку</string>
     <string name="enter_new_artwork_url">Введите URL новой обложки</string>
@@ -246,7 +246,7 @@
     <string name="off">Выкл.</string>
     <string name="stop_sleep_timer">Выкл.</string>
     <string-array name="ui_theme_text">
-        <item>All White</item>
+        <item>Полностью Белая</item>
         <item>Белая</item>
         <item>Красная</item>
         <item>Розовая</item>
@@ -496,7 +496,7 @@
     <string name="connection_failed">Ошибка соединения.</string>
     <string name="search_stations">Искать станцию</string>
     <string name="add_a_station_by_url">Добавить станцию по URL</string>
-    <string name="radio_stream_url_is_required_">Необходим URL трансляции!</string>
+    <string name="radio_stream_url_is_required_">Необходим URL потока!</string>
     <string name="radio_title_is_required_">Необходимо название станции!</string>
     <string name="_is_not_found_add_this_station_">"[%1$s] Не найдена. Добавить станцию по ссылке?"</string>
     <string name="debug_log">Журнал отладки</string>
@@ -516,7 +516,7 @@
     <string name="portrait">Портретная</string>
     <string name="landscape">Альбомная</string>
     <string name="drag_the_handler_to_sort_manually">Потяните справа для сортировки вручную</string>
-    <string name="streaming">Трансляция</string>
+    <string name="streaming">Поток</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">Если требуется авторизация, введите имя пользователя и пароль в поля ниже. Если авторизация не требуется, оставьте поля пустыми</string>
     <string name="can_not_play_ps">"Невозможно воспроизвести: %1$s"</string>
     <string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
@@ -546,7 +546,7 @@
     <string name="episode_info_full">Информация о выпуске</string>
     <string name="twitter">Twitter</string>
     <string name="storage_usage">Использование хранилища</string>
-    <string name="stream_url">URL трансляции</string>
+    <string name="stream_url">URL потока</string>
     <string name="fm_am_frequency">FM/AM частота</string>
     <string name="genre">Жанр</string>
     <string name="city_state">Город, Область/Край</string>
@@ -1242,38 +1242,38 @@
     <string name="there_are_no_read_articles_">Нет прочитанных статей.</string>
     <string name="there_are_no_favorite_articles_">Нет избранных статей.</string>
     <string name="there_are_no_deleted_articles_">Удаленных статей нет.</string>	
-    <string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Alarms may not get fired at the scheduled time. Please go to Android Settings to exclude this app from battery optimizations.</string>
+    <string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Будильники могут не срабатывать в запланированное время. Перейдите в настройки Android, чтобы исключить это приложение из оптимизации батареи.</string>
     <string name="open_android_settings">Открыть настройки Android</string>
-    <string name="include_episode">Include episode</string>
-    <string name="exclude_episode">Exclude episode</string>
-    <string name="include_episodes_matching_the_keywords_">Include episodes matching the keywords.</string>
-    <string name="exclude_episodes_matching_the_keywords_">Exclude episodes matching the keywords.</string>
+    <string name="include_episode">Включать выпуск</string>
+    <string name="exclude_episode">Исключать выпуск</string>
+    <string name="include_episodes_matching_the_keywords_">Включать выпуски, соответствующие ключевым словам.</string>
+    <string name="include_episodes_matching_the_keywords_">Исключать выпуски, соответствующие ключевым словам.</string>
     <string name="clear_list">Очистить список</string>
-    <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
-    <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
-    <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
-    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
+    <string name="podcast_has_no_default_playlists_message">У этого подкаста нет плейлистов по умолчанию. Перейдите в настройки подкастов, чтобы настроить плейлисты по умолчанию.</string>
+    <string name="no_wi_fi_update_feed_once_with_mobile_data">Wi-Fi не подключен — Обновить ленту один раз с мобильной сетью?</string>
+    <string name="mark_all_previous_articles_as_unread">Отметить все предыдущие статьи как непрочитанные</string>
+    <string name="mark_all_articles_published_before_this_article_s_as_unread_">Отметить все статьи, опубликованные до этой статьи [%1$s], как непрочитанные?</string>
     <string name="show_empty_podcasts">Показать пустые подкасты</string>
     <string name="show_empty_feeds">Показать пустые фиды</string>
     <string name="login_failed">Ошибка входа</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Выберите предпочитаемый язык для использования в приложении.</string>
     <string name="term_and_privacy_policy">"Условия и политика конфиденциальности"</string>
-    <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
-    <string name="play_previous_episode_or_station">Play previous episode/station</string>
-    <string name="show_play_previous_episode_station_button_">Show Play previous episode/station button.</string>
-    <string name="play_next_episode_station">Play next episode/station</string>
-    <string name="reverse_portrait_screen_display_mode">Reverse portrait</string>
+    <string name="import_from_opml_file_failed_s">Не удалось импортировать из файла OPML: %1$s.</string>
+    <string name="play_previous_episode_or_station">Воспроизвести предыдущий выпуск/станцию</string>
+    <string name="show_play_previous_episode_station_button_">Показать кнопку Воспроизведения предыдущего выпуска/станции.</string>
+    <string name="play_next_episode_station">Воспроизвести следующий выпуск/станцию</string>
+    <string name="reverse_portrait_screen_display_mode">Обратная портретная</string>
     <string name="clear_cache">Очистить кеш</string>
     <string name="cache_size_s">Размер кеша: %1$s.</string>
-    <string name="follow_android_system_s_orientation">Follow Android system\'s orientation</string>
+    <string name="follow_android_system_s_orientation">Следовать настройкам системы</string>
     <string name="update_avatar">Обновить аватар</string>
     <string name="update_username">Обновить имя</string>
     <string name="options">Опции</string>
-    <string name="display_the_stream_label">Display the Stream label</string>
-    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Display the Stream label if the episode isn\'t downloaded.</string>
+    <string name="display_the_stream_label">Отображать метку «Поток»</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Отображать метку «Поток», если выпуск не загружен.</string>
     <string name="no_playlist_selected_">Плейлист не выбран</string>
     <string name="enter_youtube_url">Введите ссылку YouTube</string>
     <string name="examples_of_youtube_url">Примеры ссылки YouTube</string>
-    <string name="allow_explicit_episodes">Разрешить выпуски 18+</string>
-    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Разрешить добавлять выпуски, помеченные как 18+ (пиктограмма "E"), в список воспроизведения.</string>
+    <string name="allow_explicit_episodes">Разрешить откровнные выпуски</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Разрешить добавлять выпуски, помеченные как "Откровенные" (пиктограмма "E"), в список воспроизведения.</string>
 </resources>

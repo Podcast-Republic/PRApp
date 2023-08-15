@@ -176,7 +176,7 @@
     <string name="auto_download">Автоматическая загрузка</string>
     <string name="playing">Вы слушаете</string>
     <string name="subscriptions">Подписки</string>
-    <string name="help_faqs">Спавка / ЧаВо</string>
+    <string name="help_faqs">Справка / ЧаВо</string>
     <string name="next">Следующий</string>
     <string name="file_date">Дате загрузки</string>
     <string name="publishing_date">Дате публикации</string>
@@ -536,7 +536,7 @@
     <string name="group_by_podcasts">Группировать по подкастам</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Плейлист по умолчанию</string>
     <string name="compact_view">Компактный вид</string>
-    <string name="open_source_licenses">лицензии Open source</string>
+    <string name="open_source_licenses">Лицензии Open source</string>
     <string name="can_not_play_the_downloaded_file">Невозможно воспроизвести загруженный файл</string>
     <string name="can_not_play_the_local_file">Невозможно воспроизвести локальный файл</string>
     <string name="audio_loudness_boost">Усиление громкости</string>

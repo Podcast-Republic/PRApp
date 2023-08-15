@@ -825,7 +825,7 @@
     <string name="sleep_timer_fired_stop_playing_">Таймер сну спрацював, програвання припинено!</string>
     <string name="play_all_from_new_to_old">Слухати всі починаючи з новіших</string>
     <string name="smart_update">Розумне оновлення</string>
-    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Перевірити наявність нових епізодів після завершення найновішого у подкасті.</string>
+    <string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">Перевіряти наявність нових епізодів після завершення прослуховування найновішого епізоду в подкасті.</string>
     <string name="click_on_the_tab_again_to_view_download_actions">Натисніть вкладку ще раз, щоб переглянути дії для завантаження</string>
     <string name="remember_volume_level">"Запам'ятати рівень гучності"</string>
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Запам'ятати рівень гучності під час останнього відтворення та відновити його при початку відтворення."</string>

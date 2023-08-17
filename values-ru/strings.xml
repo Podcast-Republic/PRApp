@@ -439,7 +439,7 @@
     <string name="_is_not_found_add_this_podcast_">[%1$s] не найден. Добавить подкаст по URL?</string>
     <string name="episode_publishing_date">Дата выхода</string>
     <string name="episode_guid">GUID выпуска</string>
-    <string name="episode_unique_criteria">Уникальные критерии выпуска</string>
+    <string name="episode_unique_criteria">Критерии уникальности выпуска</string>
     <string name="episode_url">URL выпуска</string>
     <string name="episode_title">Название выпуска</string>
     <string name="export_history">Экспорт истории</string>

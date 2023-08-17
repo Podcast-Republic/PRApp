@@ -174,7 +174,7 @@
     <string name="error_no_wifi">Ошибка: Нет доступа к Wi-Fi.</string>
     <string name="auto_download">Автоматическая загрузка</string>
     <string name="playing">Вы слушаете</string>
-    <string name="subscriptions">Подписки</string>
+    <string name="subscriptions">Подкасты</string>
     <string name="help_faqs">Справка / ЧаВо</string>
     <string name="next">Следующий</string>
     <string name="file_date">Дате загрузки</string>

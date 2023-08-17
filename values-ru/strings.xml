@@ -539,7 +539,7 @@
     <string name="can_not_play_the_local_file">Невозможно воспроизвести локальный файл</string>
     <string name="audio_loudness_boost">Усиление громкости</string>
     <string name="apply_to_all_podcasts">Применить ко всем подкастам</string>
-    <string name="audio_effects_and_equalizer">Аудио эффекты и эквалайзер</string>
+    <string name="audio_effects_and_equalizer">Аудиоэффекты и эквалайзер</string>
     <string name="episode_info_short">Краткая информация о выпуске</string>
     <string name="episode_info_full">Информация о выпуске</string>
     <string name="twitter">Twitter</string>

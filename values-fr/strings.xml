@@ -1284,4 +1284,5 @@
     <string name="examples_of_youtube_url">Examples of YouTube URL</string>
     <string name="allow_explicit_episodes">Allow explicit episodes</string>
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Allow to add episodes labled as explicit to the playlist.</string>
+    <string name="feed_priority">Feed priority</string>
 </resources>

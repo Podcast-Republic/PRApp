@@ -1280,4 +1280,5 @@
     <string name="examples_of_youtube_url">Példa YouTube link</string>
     <string name="allow_explicit_episodes">Szókimondó tartalmak engedélyezése</string>
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Engedélyezi a szókimondó (explicit) tartalmú epizódok hozzáadását a lejátszási listához.</string>
+    <string name="feed_priority">Feed priority</string>
 </resources>

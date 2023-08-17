@@ -1279,4 +1279,5 @@
     <string name="examples_of_youtube_url">Príklady adries YouTube</string>
     <string name="allow_explicit_episodes">Povoliť explicitné epizódy</string>
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Umožňuje pridať epizódy označené ako explicitné do playlistu.</string>
+    <string name="feed_priority">Feed priority</string>
 </resources>

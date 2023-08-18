@@ -174,7 +174,7 @@
     <string name="error_no_wifi">Ошибка: Нет доступа к Wi-Fi.</string>
     <string name="auto_download">Автоматическая загрузка</string>
     <string name="playing">Вы слушаете</string>
-    <string name="subscriptions">Подписки</string>
+    <string name="subscriptions">Подкасты</string>
     <string name="help_faqs">Справка / ЧаВо</string>
     <string name="next">Следующий</string>
     <string name="file_date">Дате загрузки</string>
@@ -439,7 +439,7 @@
     <string name="_is_not_found_add_this_podcast_">[%1$s] не найден. Добавить подкаст по URL?</string>
     <string name="episode_publishing_date">Дата выхода</string>
     <string name="episode_guid">GUID выпуска</string>
-    <string name="episode_unique_criteria">Уникальные критерии выпуска</string>
+    <string name="episode_unique_criteria">Критерии уникальности выпуска</string>
     <string name="episode_url">URL выпуска</string>
     <string name="episode_title">Название выпуска</string>
     <string name="export_history">Экспорт истории</string>
@@ -539,7 +539,7 @@
     <string name="can_not_play_the_local_file">Невозможно воспроизвести локальный файл</string>
     <string name="audio_loudness_boost">Усиление громкости</string>
     <string name="apply_to_all_podcasts">Применить ко всем подкастам</string>
-    <string name="audio_effects_and_equalizer">Аудио эффекты и эквалайзер</string>
+    <string name="audio_effects_and_equalizer">Аудиоэффекты и эквалайзер</string>
     <string name="episode_info_short">Краткая информация о выпуске</string>
     <string name="episode_info_full">Информация о выпуске</string>
     <string name="twitter">Twitter</string>
@@ -1276,5 +1276,5 @@
     <string name="examples_of_youtube_url">Примеры ссылки YouTube</string>
     <string name="allow_explicit_episodes">Разрешить откровнные выпуски</string>
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Разрешить добавлять выпуски, помеченные как "Откровенные" (пиктограмма "E"), в список воспроизведения.</string>
-    <string name="feed_priority">Feed priority</string>
+    <string name="feed_priority">Приоритет ленты</string>
 </resources>

@@ -907,7 +907,7 @@
     <string name="don_t_show_it_again">Не показувати знову</string>
     <string name="always_on">Завжди ввімкнений</string>
     <string name="always_on_amoled_black">Завжди ввімкнений (AMOLED black)</string>
-    <string name="smart_rewind_on_resuming">Розумне перемотування назад під час відновлення</string>
+    <string name="smart_rewind_on_resuming">Розумне перемотування назад при відновленні</string>
     <string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">Автоматично перемотати назад від %1$d до %2$d секунд під час відновлення відтворення</string>
     <string name="show_radio_station_name">Показати назву станції</string>
     <string name="hide_radio_station_name">Приховати назву станції</string>

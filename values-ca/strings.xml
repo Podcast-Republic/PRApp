@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation" >
-
+<resources>
     <string-array name="country_list">
         <item>Albania</item>
         <item>Algeria</item>
@@ -268,27 +265,6 @@
         <item>Blue Grey</item>
         <item>Dark</item>
         <item>AMOLED Black</item>
-    </string-array>
-    <string-array name="ui_theme_value" translatable="false">
-        <item>DeepWhite</item>
-        <item>White</item>
-        <item>Red</item>
-        <item>Pink</item>
-        <item>Purple</item>
-        <item>DeepPurple</item>
-        <item>Indigo</item>
-        <item>Light</item>     <!-- Blue-->
-        <item>LightBlue</item>
-        <item>Cyan</item>
-        <item>Teal</item>
-        <item>Green</item>
-        <item>LightGreen</item>
-        <item>Amber</item>
-        <item>Orange</item>
-        <item>DeepOrange</item>
-        <item>BlueGray</item>
-        <item>Dark</item>
-        <item>DeepDark</item>
     </string-array>
     <string name="theme">Theme</string>
     <string name="skip_beginning">Skip beginning</string>

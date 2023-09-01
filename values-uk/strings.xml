@@ -176,7 +176,7 @@
     <string name="file_date">"Дата файлу"</string>
     <string name="publishing_date">"Дата опублікування"</string>
     <string name="sort_manually">"Bручну"</string>
-    <string name="update_podcasts">"Оновлювати подкасти"</string>
+    <string name="update_podcasts">"Оновити подкасти"</string>
     <string name="update_podcast">"Оновити подкаст"</string>
     <string name="sort_by">"Критерій сортування"</string>
     <string name="last_updated_time">"Час останньої публікації"</string>
@@ -1278,6 +1278,6 @@
     <string name="allow_explicit_episodes">Дозволити відверті епізоди</string>
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Дозволити додавати до списку відтворення епізоди, позначені як відверті (explicit).</string>
     <string name="feed_priority">Пріоритет каналу</string>
-    <string name="delete_all_articles">Delete all articles</string>
-    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Do you like to interact with this app through the notification?</string>
+    <string name="delete_all_articles">Видалити всі статті</string>
+    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Чи хочете ви взаємодіяти з цією програмою через сповіщення?</string>
 </resources>

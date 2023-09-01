@@ -1276,5 +1276,8 @@
     <string name="enter_youtube_url">Enter YouTube URL</string>
     <string name="examples_of_youtube_url">Examples of YouTube URL</string>
     <string name="allow_explicit_episodes">Allow explicit episodes</string>
-    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Allow to add episodes labled as explicit to the playlist.</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Allow to add episodes labeled as explicit to the playlist.</string>
+    <string name="feed_priority">Feed priority</string>
+    <string name="delete_all_articles">Delete all articles</string>
+    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Do you like to interact with this app through the notification?</string>
 </resources>

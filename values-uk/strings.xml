@@ -1278,4 +1278,6 @@
     <string name="allow_explicit_episodes">Дозволити відверті епізоди</string>
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Дозволити додавати до списку відтворення епізоди, позначені як відверті (explicit).</string>
     <string name="feed_priority">Пріоритет каналу</string>
+    <string name="delete_all_articles">Delete all articles</string>
+    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Do you like to interact with this app through the notification?</string>
 </resources>

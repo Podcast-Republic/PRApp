@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    
+    <style>
+    	#myBtn {
+  			display: none;
+  			position: fixed;
+  			bottom: 20px;
+  			right: 30px;
+  			z-index: 99;
+  			border: none;
+  			outline: none;
+  			background-color: red;
+  			color: white;
+  			cursor: pointer;
+  			padding: 15px;
+  			border-radius: 10px;
+		}
+
+		#myBtn:hover {
+  			background-color: #555;
+		}
+	</style>
+</head>
+
+	<body class="home blog custom-background full-width custom-font-enabled single-author highlander-enabled highlander-light">
+
+	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+		<h4>Подписки</h4>
+		<ul>
+			<li><a href="#q161021a">Как найти подкасты?</a></li>
+			<li><a href="#q161021b">Как подписаться на подкаст?</a></li>
+			<li><a href="#q161021c">Как отписаться от подкаста?</a></li>
+			<li><a href="#q328326c">Можно ли воспроизводить через приложение музыку/аудиокниги?</a></li>
+			<li><a href="#q329326c">Как добавить подкаст вручную?</a></li>
+			<li><a href="#q160214b">Что означают синие и зеленые кружки прогресса?</a></li>
+			<li><a href="#q160712c">Что означают синие и зеленые цифры на вкладке «Подкасты»?</a></li>
+		</ul>
+		<h4>Выпуски</h4>
+		<ul>
+			<li><a href="#q123456a">Как настроить автоматическую проверку новых выпусков?</a></li>
+			<li><a href="#q971945c">Почему мой подкаст не обновляется?</a></li>
+			<li><a href="#q935117a">Как получить доступ к индивидуальным настройкам подкастов?</a></li>
+			<li><a href="#q010311d">Что такое критерии уникальности выпуска?</a></li>
+			<li><a href="#q1605021">Что делает сброс выпусков?</a></li>
+			<li><a href="#q190325b">Что такое главы?</a></li>
+			<li><a href="#q230727a">Что означает символ Е?</a></li>
+		</ul>
+		<h4>Загрузки</h4>
+		<ul>
+			<li><a href="#q323226a">Как работает автоматическая загрузка?</a></li>
+			<li><a href="#q323233a">Можно ли включить/выключить автоматическую загрузку для одного подкаста?</a></li>
+			<li><a href="#q180517a">Что такое умная загрузка?</a></li>
+			<li><a href="#q553233a">Что такое Оставить Загруженным?</a></li>
+			<li><a href="#q663233a">Как сохранить загрузки на SD-карту?</a></li>
+			<li><a href="#q663777a">Почему загрузка приостановлена для Wi-Fi?</a></li>
+			<li><a href="#q190325c">Почему загрузка приостанавливается из-за низкого заряда аккумулятора, когда он подключен к сети для зарядки?</a></li>
+			<li><a href="#q863777a">Можно ли загружать данные через подключение для передачи данных 3G или 4G?</a></li>
+			<li><a href="#q160802b">Что означает сообщение об ошибке загрузки?</a></li>
+			<li><a href="#q993777a">Можно ли возобновить неудачную загрузку?</a></li>
+			<li><a href="#q910777a">Как автоматически удалить загрузку после воспроизведения?</a></li>
+			<li><a href="#q1605022">Как сохранить подкаст навсегда?</a></li>
+			<li><a href="#q910117a">Почему у меня повторяются загрузки?</a></li>
+			<li><a href="#q931117a">Есть ли способ узнать, был ли скачан выпуск?</a></li>
+			<li><a href="#q181016a">Как переместить каталог загрузки в новое место?</a></li>
+		</ul>
+		<h4>Медиа плеер</h4>
+		<ul>
+			<li><a href="#q927326c">Почему мой аудиоподкаст воспроизводится как видео?</a></li>
+			<li><a href="#q347326c">Можно ли воспроизвести видеоподкаст только как аудио?</a></li>
+			<li><a href="#q1605023">Почему воспроизведение останавливается через определенное количество минут в фоновом режиме?</a></li>
+			<li><a href="#q181022a">Громкость подкаста слишком мала. Можно ли увеличить громкость звука?</a></li>
+			<li><a href="#q181023a">Есть ли в приложении таймер сна, который останавливает воспроизведение через установленное время?</a></li>
+			<li><a href="#q181024a">Могу ли я запланировать время воспроизведения подкаста?</a></li>
+			<li><a href="#q161022a">Как выполнить трансляцию на Chromecast?</a></li>
+			<li><a href="#q190325a">Что такое умная перемотка?</a></li>
+			<li><a href="#q210810a">Как отключить автоматическое воспроизведение через Bluetooth?</a></li>
+			<li><a href="#q210817a">Почему в Android 11 несколько уведомлений о воспроизведении накапливаются?</a></li>
+		</ul>
+		<h4>Плейлисты</h4>
+		<ul>
+			<li><a href="#q1605024">Какие существуют режимы воспроизведения?</a></li>
+			<li><a href="#q161021d">Почему следующий выпуск начинает воспроизводиться автоматически?</a></li>
+			<li><a href="#q935445c">Почему следующий выпуск не воспроизводится автоматически?</a></li>
+			<li><a href="#q9665d5d">Как воспроизвести все выпуски подкаста от самого старого до самого нового?</a></li>
+			<li><a href="#q965645c">Как создать пользовательский плейлист?</a></li>
+			<li><a href="#q977645c">Как сделать так, чтобы выпуски подкаста всегда попадали в выбранный мной плейлист?</a></li>
+			<li><a href="#q147642e">Как работает список "Очередь воспроизведения"?</a></li>
+			<li><a href="#q177642e">Как работает плейлист?</a></li>
+		</ul>
+		<h4>Синхронизация, резервное копирование и восстановление</h4>
+		<ul>
+			<li><a href="#q920945c">Как синхронизировать данные между устройствами?</a></li>
+			<li><a href="#q170430a">Какие данные синхронизируются между устройствами?</a></li>
+			<li><a href="#q920921c">Как перенести данные приложения на другое устройство?</a></li>
+			<li><a href="#q922921c">Как перенести загруженные файлы подкастов на другое устройство, чтобы это приложение распознало их?</a></li>
+			<li><a href="#q160903d">Как восстановить данные приложения из резервных копий?</a></li>
+			<li><a href="#q181015a">Как сделать резервную копию загруженного файла подкаста?</a></li>
+		</ul>
+		<h4>Разное</h4>
+		<ul>
+			<li><a href="#q922331c">Почему нельзя загрузить видеоподкасты YouTube?</a></li>
+			<li><a href="#q943331c">Почему для некоторых подкастов не отображаются обложки?</a></li>
+			<li><a href="#q160909d">Как включить журнал отладки?</a></li>
+			<li><a href="#q173402b">Как открыть настройки приложения?</a></li>
+			<li><a href="#q171209a">Что такое боковое меню навигации?</a></li>
+			<li><a href="#q170909a">Что такое дополнительное меню?</a></li>
+			<li><a href="#q191025a">Почему приложение не обновляется или останавливает воспроизведение, когда оно переходит в фоновый режим или закрывается?</a></li>
+			<li><a href="#q200909a">Могу ли я управлять воспроизведением через сторонние приложения, такие как Tasker?</a></li>
+			<li><a href="#q220422a">Как управлять приложением с помощью Intent в Tasker?</a></li>
+			<li><a href="#q201223a">Как это приложение получает доступ к хранилищу?</a></li>
+			<li><a href="#q201223b">Почему информация о подкасте не отображается через Bluetooth в моей машине?</a></li>
+		</ul>
+		<HR>
+				<a name="q161021a"></a><strong>Как найти подкасты?</strong><br />
+			Есть два способа найти новые подкасты:<br />
+			<ul>
+				<li>Просматривайте лучшие подкасты на вкладке "Лучшие чарты".</li>
+			</ul>
+			<ul>
+				<li>Поиск подкастов по названию на вкладке "Поиск".</li>
+			</ul>
+			<p>&nbsp;</p>
+			
+			<a name="q161021b"></a><strong>Как подписаться на подкаст?</strong><br />
+			После того, как вы нашли подкаст в списке лучших чартов или в списке результатов поиска подкастов, вы можете смахнуть элемент подкаста в списке влево, чтобы открыть меню подписки.<br />
+			Или вы можете нажать на название подкаста, чтобы открыть подкаст, а затем нажать кнопку «Подписаться», чтобы подписаться на него.
+			<p>&nbsp;</p>
+			
+			<a name="q161021c"></a><strong>Как отписаться от подкаста?</strong><br />
+			Чтобы удалить подкаст из подписки, сначала перейдите на вкладку «Подкасты», а затем найдите подкаст. Затем смахните элемент подкаста в списке влево, чтобы открыть кнопку удаления.<br />
+			Или коснитесь названия подкаста, чтобы открыть его, а затем нажмите <strong>Настройки</strong>, чтобы открыть <a href="#q935117a">индивидуальные настройки подкаста</a>. Затем используйте кнопку «Отписаться», чтобы отказаться от подписки.</li>
+		<p>&nbsp;</p>
+		
+		<a name="q328326c"></a><strong>Можно ли воспроизводить через приложение музыку/загрузки/аудиокниги?</strong><br />
+		Конечно, вы можете воспроизводить свою музыку/загрузки/аудиокниги с помощью этого приложения. Для этого вам нужно настроить &#8220;виртуальный&#8221; подкаст. Он будет использовать каталог на локальном устройстве как &#8220;виртуальный&#8221; репозиторий подкастов. Все медиафайлы в каталоге будут импортированы в базу данных и обработаны как выпуски этого &#8220;виртуального&#8221; подкаста.
+		<p>&nbsp;</p>
+
+		<a name="q329326c"></a><strong>Как добавить подкаст вручную?</strong><br />
+		Если ваш подкаст не найден поиском, вы всегда можете добавить подкаст вручную. Перейдите на вкладку «Подкасты» и нажмите кнопку «Добавить» в строке заголовка. Затем выберите в меню <strong>Добавить подкаст по URL</strong>. Введите свою ссылку на подкаст, а затем нажмите кнопку «Найти подкаст». Если подкаст будет найден, он будет добавлен в приложение.
+		<p>&nbsp;</p>
+
+		<a name="q160214b"></a><strong>Что означают синие и зеленые кружки прогресса?</strong>
+		<ul>
+			<li>Синий круг – это индикатор хода воспроизведения.</li>
+			<li>Зеленый круг — это индикатор загрузки.</li>
+		</ul>
+		<p>&nbsp;</p>
+
+		<a name="q160712c"></a><strong>Что означают синие и зеленые цифры на вкладке "Подкасты"?</strong>
+		<ul>
+			<li>Синее число — это общее количество невоспроизведенных серий.</li>
+			<li>Зеленое число — это количество последних выпусков, полученных с момента последнего открытия подкаста.<br />
+				Этот номер будет сброшен на ноль, как только вы откроете подкаст для просмотра списка выпусков.</li>
+		</ul>
+		<p>&nbsp;</p>
+		
+		<a name="q123456a"></a><strong>Как настроить автоматическую проверку наличия новых выпусков?</strong><br />
+		По умолчанию приложение будет проверять наличие обновлений подкастов каждые три часа. Если вы хотите настроить другой интервал проверки обновлений или полностью отключить автоматическую проверку, это можно сделать в <a href="#q173402b">настройках приложения</a>.</p>
+		<ol>
+			<li>Проведите вправо от левого края экрана, чтобы открыть <a href="#q171209a">боковое меню навигации</a></li>
+			<li>Нажмите <strong>Настройки</strong>, чтобы открыть экран настроек приложения.</li>
+			<li>Перейдите к настройкам <strong>Подкасты</strong></li>.
+			<li>Нажмите <strong>Проверить обновления</strong> и выберите вариант из списка.</li>
+		</ol>
+		<p>&nbsp;</p>
+
+	<a name="q971945c"></a><strong>Почему мой подкаст не обновляется?</strong><br />
+	Вы знаете, что публикуются новые выпуски, но приложение не получает эти новые выпуски. Что ж,
+	очень вероятно, что в RSS-канале подкаста есть опечатка/ошибка даты публикации. 
+	Приложение использует дату публикации каждого выпуска в качестве ключевого индикатора того,
+	новый ли это выпуск, который нужно извлечь, или старый, который нужно пропустить. Однако иногда 
+	дата публикации некоторых выпусков может быть неверной из-за опечатки или по каким-то другим 
+	причинам. Если эта неправильная дата публикации на несколько месяцев позже текущей даты, это 
+	не позволит приложению обновить подкаст, так как все выпуски до этой неправильной даты будут 
+	пропущены как ложные &#8220;более старые&#8220; выпуски. В этом случае самый быстрый способ заставить приложение
+	снова обновить подкаст — это <a href="#q1605021">сбросить данные выпусков</a>
+	<p>&nbsp;</p>
+	
+	<a name="q190325b"></a><strong>Что такое главы?</strong><br />
+	<strong>Главы</strong> или закладки, как это названо в некоторых других приложениях, представляют собой примечания к определенным точкам на временной шкале аудио- или видеофайла. Они особенно полезны для продолжительных выпусков. Вы можете нажать на главу, чтобы начать воспроизведение с этой конкретной позиции на временной шкале.
+	<p>Некоторые издатели подкастов могут добавлять информацию о главах в медиафайл подкаста. В этом случае это приложение извлечет их и покажет вам. Это приложение также может получать информацию о главах в шоу-нотах подкастов, если они есть. Пользователи также могут добавлять главы вручную.</p>
+	<p>&nbsp;</p>
+	
+	<a name="q230727a"></a><strong>Что означает символ E?</strong><br />
+	Символ <strong>E</strong> означает Explicit(Откровенный). Выпуск может быть помечен как откровенный, если он содержит откровенный контент. Откровенный контент может сделать его неприемлемым для детей или потенциально оскорбительным для некоторых слушателей. </p>
+	Обычно это относится к:
+    <ul>
+		<li>Нецензурная брань</li>
+		<li>Ссылки на насилие, которое может быть физическим, психическим или другим насилием.</li>
+		<li>Дискриминация</li>
+		<li>Отсылки к сексуальной активности или поведению.</li>
+	</ul>
+	<p>&nbsp;</p>	
+	
+	<a name="q935117a"></a><strong>Как получить доступ к индивидуальным настройкам подкастов?</strong>
+	<ul>
+		<li>Перейдите на вкладку "Подкасты".</li>
+		<li>Нажмите на название подкаста, чтобы открыть его.</li>
+		<li>Нажмите кнопку "Настройки" на экране, чтобы открыть настройки отдельных подкастов.</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q010311d"></a><strong>Что такое критерии уникальности выпуска?</strong><br />
+	Критерии уникальности выпуска — это критерии, используемые для определения уникальности выпуска. Этот критерий используется для предотвращения дублирования выпусков, извлеченных из фида подкастов. Многие издатели подкастов присваивают выпуску глобальный уникальный идентификатор (GUID), чтобы однозначно идентифицировать каждый выпуск. Однако стандарт RSS-канала подкастов не требует этого. Некоторые издатели подкастов вообще не используют GUID. Вместо этого они используют URL-адрес выпуска, дату публикации выпуска или название выпуска в качестве уникального способа идентификации выпуска.
+	<p>По умолчанию это приложение попытается определить уникальные критерии, используемые в фиде подкастов, и удалить повторяющиеся выпуски из фида подкастов. Он должен работать нормально большую часть времени. Если автоматически определенные критерии уникальности не работают и выпуски дублируются, вы можете перейти к <a href="#q935117a">индивидуальным настройкам подкастов</a>, чтобы установить критерии уникальности этого выпуска вручную</. р>
+	<p>&nbsp;</p>
+	
+	<a name="q1605021"></a><strong>Что делает сброс выпусков?</strong><br />
+	Данные выпуска будут локально кэшироваться этим приложением в базе данных приложения, когда они будут получены с сервера подкастов. Сброс выпусков отбрасывает данные выпуска, кэшированные в базе данных, и снова перестраивает их с сервера подкастов. Это полезно, если кэшированные данные выпуска повреждены из-за<br />
+	различным причинам или имеют ошибки в данных выпуска.
+	<p>&nbsp;</p>
+	
+	<a name="q323226a"></a><strong>Как работает автоматическая загрузка?</strong><br />
+	Параметр автоматической загрузки можно включить либо на странице <a href="#q173402b">настроек приложения</a>, либо настроить для каждого подкаста в <a href="#q935117a">индивидуальных настройках подкастов</a. >. После включения служба автоматической загрузки будет работать в фоновом режиме и периодически автоматически загружать <b>последние</b> <b>выпуски</b>, которые она находит для вас.
+	<p>Самые последние <b>выпуски</b> — это новые выпуски с момента последнего просмотра подкаста.</p>
+	<ul>
+		<li>Примечание. Если ваше устройство перезагружено, вам нужно сначала запустить приложение, чтобы снова запустить службу автоматической загрузки.</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q323233a"></a><strong>Можно ли включать/выключать автоматическую загрузку определенных подкастов?</strong><br />
+	Да, функцию автоматической загрузки можно настроить для каждого подкаста с помощью <a href="#q935117a">индивидуальных настроек подкаста</a>. <a href="#q935117a">Индивидуальные настройки подкастов</a> имеют приоритет над системными настройками.</li>
+<p>&nbsp;</p>
+
+	<a name="q180517a"></a><strong>Что такое умная загрузка?</strong><br />
+	Если включена функция <strong>Умная загрузка</strong>, это приложение будет автоматически загружать до x новых и невоспроизведенных выпусков из текущего воспроизводимого подкаста всякий раз, когда вы начинаете воспроизводить выпуск. Эта функция очень полезна, если у вас большой отставание или если вы любите играть
+	выпуски в хронологическом порядке. Когда вы начнете воспроизводить выпуск с даты X, приложение начнет загрузку более новых выпусков (X+1, X+2...) в фоновом режиме, чтобы вы могли продолжить воспроизведение этих более новых выпусков в автономном режиме, когда закончится текущий выпуск X!
+<p>&nbsp;</p>
+
+<a name="q553233a"></a><strong>Что такое Оставить загруженным?</strong><br />
+Для <a href="#q935117a">индивидуальных настроек подкаста</a> это максимальное количество загрузок, которое будет сохранено для каждого подкаста. Если в список загрузки добавляется новая серия, превышающая это ограничение, самый старый загруженный файл будет автоматически удален.
+<p>&nbsp;</p>
+
+	<a name="q663233a"></a><strong>Как сохранить загрузки на SD-карту?</strong><br />
+	Перейдите в <a href="#q173402b">настройки приложения</a> и укажите место загрузки для использования SD-карты в настройках <strong>Загрузки</strong>.
+<p>&nbsp;</p>
+
+<a name="q663777a"></a><strong>Почему загрузка приостановлена для Wi-Fi?</strong><br />
+По умолчанию это приложение загружается только при подключении к Wi-Fi. Если Wi-Fi недоступен, загрузка будет приостановлена и возобновлена, когда Wi-Fi станет доступен.
+<p>&nbsp;</p>
+
+<a name="q190325c"></a><strong>Почему загрузка приостанавливается из-за низкого заряда аккумулятора, когда он подключен к сети для зарядки?</strong><br />
+Система Android отправит предупреждение о батарее <strong>LOW</strong>, если уровень заряда батареи опустится ниже 15%. Однако система Android не будет отправлять заряд батареи <strong>OK</strong> до тех пор, пока уровень заряда батареи не превысит 20 %.
+В результате, если загрузка приостановлена из-за низкого заряда батареи, она не будет возобновлена, даже если устройство подключено к сети, пока система Android не достигнет состояния батареи <strong>OK</strong>.
+<p>&nbsp;</p>
+
+<a name="q863777a"></a><strong>Можно ли скачивать через подключение для передачи данных 3G или 4G?</strong><br />
+Да, отключите Загрузить только через Wi-Fi в <a href="#q173402b">настройках приложения</a>.
+<p>&nbsp;</p>
+
+<a name="q160802b"></a><strong>Что означает сообщение об ошибке загрузки?</strong><br />
+<ul>
+	<li>Не удалось найти URL: <em>Загружаемый подкаст недоступен на сервере. Скорее всего, подкаст был удален издателем подкаста или он недоступен при вашем подключении к Интернету.</em></li>
+	<li>Недостаточно места. <em>Недостаточно свободного места в хранилище.</em></li>
+	<li>Ошибка: <em>Во время загрузки произошла неизвестная ошибка.</em></li>
+</ul>
+<p>&nbsp;</p>
+
+<a name="q993777a"></a><strong>Можно ли возобновить неудачную загрузку?</strong><br />
+Да, длительное нажатие на элемент, который не удалось загрузить, на экране загрузок вызовет меню. Выберите «Повторить загрузку» в меню, чтобы снова загрузить элемент.</li>
+<p>&nbsp;</p>
+
+<a name="q910777a"></a><strong>Как автоматически удалить загрузку после воспроизведения?</strong><br />
+<ol>
+	<li>Откройте <a href="#q173402b">настройки приложения</a></li>
+	<li>Перейдите в настройки <strong>Загрузки</strong></li>.
+	<li>Включите параметр <strong>Удалить загруенное</strong>, когда выпуск воспроизведен на 100 %</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q1605022"></a><strong>Как сохранить подкаст навсегда?</strong><br />
+Если вы хотите сохранить копию подкаста на постоянной основе, сначала загрузите подкаст, а затем экспортируйте загруженный подкаст в папку на вашем устройстве. Экспортированный файл подкаста будет сохранен с использованием названия подкаста в качестве имени файла. Доступ к функции экспорта подкастов можно получить на различных экранах. Нажмите и удерживайте элементы на вкладке <strong>Загрузки</strong> или в <a href="#q170909a">раскрывающемся меню</a> на экране <strong>Воспроизведение</strong>.
+<p>&nbsp;</p>
+
+<a name="q910117a"></a><strong>Почему у меня повторяются загрузки?</strong><br />
+Это приложение использует сложный алгоритм для определения критериев уникальности выпуска, используемых в ленте подкастов, для удаления повторяющихся выпусков. Однако это автоматическое обнаружение иногда может дать сбой, в результате чего повторяющиеся выпуски извлекаются как новые выпуски и загружаются. В случае сбоя автоматического определения критериев уникальности выпуска рекомендуется установить эти критерии в <a href="#q935117a">индивидуальных настройках подкастов</a> вручную.
+<p>Подробнее о <a href="#q010311d">Что такое критерии уникальности выпуска?</a></p>
+<p>&nbsp;</p>
+
+<a name="q931117a"></a><strong>Есть ли способ узнать, был ли скачан выпуск?</strong><br />
+После завершения загрузки кнопка загрузки изменится на галочку, указывающую на то, что загрузка завершена.
+<p>&nbsp;</p>
+
+<a name="q181016a"></a><strong>Как переместить каталог загрузки в новое место?</strong><br />
+Откройте <a href="#q173402b">настройки приложения</a> и перейдите в настройки загрузки. Нажмите на параметр <strong>Место загрузки</strong>, чтобы выбрать новый каталог. Затем приложение автоматически переместит существующие загрузки из текущего каталога загрузки в выбранный каталог. Нет необходимости перемещать загрузки вручную. Убедитесь, что у вас достаточно места для размещения всех существующих загружаемых файлов в новом месте.
+<p>&nbsp;</p>
+
+<a name="q927326c"></a><strong>Почему мой аудиоподкаст воспроизводится как видео?</strong><br />
+На некоторых устройствах формат носителя подкаста может определяться неправильно. В этом случае перейдите на страницу <a href="#q935117a">индивидуальные настройки подкастов</a> и установите тип носителя вручную.
+<p>&nbsp;</p>
+
+<a name="q347326c"></a><strong>Можно ли воспроизвести видеоподкаст только как аудио?</strong><br />
+Перейдите в раздел <a href="#q935117a">индивидуальные настройки подкастов</a> и установите для типа мультимедиа значение Аудио, что заставит приложение воспроизводить видеоподкаст только как аудио.
+<p>&nbsp;</p>
+
+<a name="q1605023"></a><strong>Почему воспроизведение останавливается через определенное количество минут в фоновом режиме?</strong><br />
+Обычно это происходит, если в настройках Android включена экономия заряда батареи или оптимизация. Попробуйте отключить экономию заряда батареи или исключить это приложение из оптимизации в настройках Android. Существуют также некоторые сторонние приложения, такие как приложения для управления задачами/памятью или антивирусные приложения, которые могут убивать запущенные приложения в фоновом режиме. Если у вас установлены эти приложения, попробуйте добавить это приложение в белый список, чтобы оно не было уничтожено этими приложениями.
+<p>&nbsp;</p>
+
+<a name="q181022a"></a><strong>Громкость подкаста слишком мала. Могу ли я увеличить громкость звука?</strong><br />
+Да, в приложении поддерживается усиление звука. Потяните вверх мини-плеер в нижней части экрана, чтобы развернуть его до полноэкранного, а затем нажмите кнопку «Дополнительно» (значок с тремя точками), чтобы открыть меню воспроизведения. Затем выберите в меню пункт «Аудиоэффекты и эквалайзер».
+Вы можете включить усиление звука как для одного подкаста, так и для всех подкастов.
+<p>&nbsp;</p>
+
+<a name="q181023a"></a><strong>Есть ли в приложении таймер сна, который останавливает воспроизведение через установленное время?</strong><br />
+Да, таймер сна поддерживается в приложении. Потяните вверх мини-плеер в нижней части экрана, чтобы развернуть его до полноэкранного. Таймер отключения находится в строке элементов управления воспроизведением.
+<p>&nbsp;</p>
+
+<a name="q181024a"></a><strong>Могу ли я запланировать время воспроизведения подкаста?</strong><br />
+Да, вы можете использовать функцию будильника в этом приложении, чтобы запланировать время для автоматического воспроизведения выбранного подкаста, радиостанции или плейлиста.
+<p>&nbsp;</p>
+
+<a name="q161022a"></a><strong>Как выполнить трансляцию в Chromecast?</strong><br />
+Chromecast поддерживается этим приложением. Значок Chromecast появится в правом верхнем углу экрана <strong>Воспроизведение</strong> при обнаружении любого Chromecast устройства.
+<p>&nbsp;</p>
+
+<a name="q190325a"></a><strong>Что такое умная перемотка?</strong><br />
+Умная перемотка — это функция в этом приложении, которая автоматически перематывает от 5 до 60 секунд в зависимости от того, как долго воспроизведение было приостановлено или остановлено. Чем дольше воспроизведение было приостановлено или остановлено, тем дольше будет применяться время перемотки назад.
+<p>&nbsp;</p>
+
+<a name="q210810a"></a><strong>Как отключить автоматическое воспроизведение Bluetooth?</strong><br />
+Некоторые Bluetooth-динамики или автомобильные комплекты автоматически отправляют команду <strong>Воспроизвести</strong> при подключении к Android. После этого Android запустит последнее воспроизведенное приложение независимо от того, запущено оно или нет. Чтобы остановить это автоматическое воспроизведение в этом приложении, перейдите в
+<strong>Настройки приложения</strong> > <strong>Дополнительно</strong>, чтобы включить параметр <strong>Обойти автовоспроизведение Bluetooth</strong>.
+<p>Если этот параметр <strong>Обойти автовоспроизведение Bluetooth</strong> включен, это приложение не будет отвечать на команду воспроизведения, если выполняются следующие условия:
+<ul>
+<li>Приложение работает в фоновом режиме, экран заблокирован или выключен.</li>
+<li>В данный момент приложение не воспроизводится или находится в состоянии паузы.</li>
+</ul>
+</p>
+<p>&nbsp;</p>
+
+<a name="q210817a"></a><strong>Почему в Android 11 несколько уведомлений о воспроизведении накапливаются?</strong><br />
+В Android 11 появился новый элемент управления мультимедиа, который группирует все мультимедийные уведомления в быстрые настройки. По умолчанию этот новый элемент управления мультимедиа отображается все время, независимо от того, воспроизводится подкаст или нет.
+<p>К сожалению, этот новый элемент управления мультимедиа содержал много ошибок при выпуске Android 11. Несколько медиа-уведомлений могут накапливаться на панели уведомлений.</p>
+<p>Google исправила эту ошибку в одном из системных исправлений. Однако системное исправление установлено лишь для нескольких устройств, таких как телефоны Google Pixel.</p>
+<p>Если производитель вашего устройства еще не предоставил вам это системное исправление, вы можете обойти эту ошибку, перейдя в <strong>Настройки приложения > Уведомления</strong> и включив <strong>Использовать устаревшие мультимедийные уведомления</strong>.</p>
+<p>&nbsp;</p>
+
+<a name="q1605024"></a><strong>What are the play modes?</strong><br />
+Currently there are seven playback modes supported in this app:
+<ul>
+	<li>Shuffle mode: plays all episodes in the same playlist or episode list but in a random order</li>
+	<li>Priority mode: finish current episode and then switch to play the highest (non-empty) priority playlist</li>
+	<li>Playlist mode: plays all episodes in the same playlist or episode list in serial</li>
+	<li>Repeat playlist mode: play all episodes in the same playlist or episode list repeatedly till it is stopped by user</li>
+	<li>Single episode mode: play one single episode and then stop, keep current episode in Now playing.</li>
+	<li>Single episode (load next): play one single episode and then stop, load next episode into Now playing.</li>
+	<li>Repeat episode: play the same episode repeatedly till it is stopped by user</li>
+</ul>
+<p>Default <strong>play mode</strong> setting is available in <strong>Media player</strong> settings. Each playlist can have its own <strong>play mode</strong> which can be setup through playlist setup (<strong>Playlists</strong> > <strong>More</strong> > <strong>Manage playlists</strong>).</p>
+<p>Currently selected play mode will be displayed on top of the <strong>Up next</strong> list in the <strong>Playing</strong> screen.</p>
+<p>&nbsp;</p>
+
+<a name="q161021d"></a><strong>Why does it start playing next episode automatically?</strong><br />
+<p>This app plays in playlist mode by default. That means it will continue to next episode automatically when current episode finishes. If you prefer to play a single episode and then stop, then please set the play mode to <strong>Single play</strong> mode.</p>
+<p>Read more on <a href="#q1605024">What are the play modes?</a></p>
+<p>&nbsp;</p>
+
+<a name="q935445c"></a><strong>Why it doesn&#8217;t start playing next episode automatically?</strong><br />
+<p>Please make sure the play mode is set to <strong>Playlist play mode</strong>.</p>
+<p>Read more on <a href="#q1605024">What are the play modes?</a></p>
+<p>&nbsp;</p>
+
+<a name="q9665d5d"></a><strong>How to play all episodes from a podcast from oldest to newest?</strong><br />
+Just open the podcast from the <strong>Subscriptions</strong> page. Clicking on any episode to start playing. The app will automatically queue all episode from old to new.
+<p>&nbsp;</p>
+
+<a name="q965645c"></a><strong>How to create a user playlist?</strong><br />
+This app supports multiple playlists, including user playlist(s).<br />
+The steps to create an user playlist:</p>
+<ol>
+	<li>Go to the <strong>Playlists</strong> tab</li>
+	<li>Open the <a href="#q170909a">overflow menu</a></li>
+	<li>Select <strong>Manage playlists</strong> button from the menu</li>
+	<li>Enter the new playlist name</li>
+</ol>
+<p>&nbsp;</p>
+
+<a name="q977645c"></a><strong>How can I set episodes of a podcast always go to my selected playlist?</strong>
+<ol>
+	<li>Open the podcast from the <strong>Podcasts</strong> tab</li>
+	<li>Откройте <a href="#q935117a">индивидуальные настройки подкастов</a></li>
+	<li>Click the <strong>Playlists</strong> setting and select one or multiple playlists</li>
+</ol>
+<p>Now all auto downloads of this podcast will go to the selected playlists automatically.</p>
+<p>&nbsp;</p>
+
+<a name="q147642e"></a><strong>How does the Up next list work?</strong><br />
+The <strong>Up next</strong> list serves as the play queue in the app. This play queue is a dynamic queue which will update itself automatically when switching to a new playlist or new episodes are added to the playlist or ordering in the playlist has been changed. For example, you go to the <strong>Playlists</strong> tab and tap episode in the &#8220;playlist A&#8221; to start playing. Then, the <strong>Up next</strong> list will be populated with all episodes from &#8220;playlist A&#8221;.
+<p>Later, you go to the <strong>Downloads</strong> tab and tap episode in the <strong>Downloads</strong> list to start playing. Now, the <strong>Up next</strong> list will be populated with all episodes from the <strong>Downloads</strong> list. Also, when the episode ordering is changed in the playlist, that change will be synced to the <strong>Up next</strong> list automatically. You don&#8217;t need to do anything manually to update the play queue.</p>
+<p>&nbsp;</p>
+
+<a name="q177642e"></a><strong>How does the playlist work?</strong><br />
+In this app any episode list can be played as a playlist. You can click the episode in the episode list to start playing. The episode list will then be populated to the <strong>Up next</strong> list.
+There are two types of playlists based on the features supported:
+<ul>
+	<li>Full featured playlist: the playlists created in the <strong>Playlists</strong> tab</li>
+	<li>Simple playlist: all the other episode lists in the app</li>
+</ul>
+A <strong>priority</strong> value can be assigned to a playlist. When playing with <strong>Priority</strong> mode, after current episode finishes the player will automatically switch to play the highest (non-empty) priority playlist.
+<p>&nbsp;</p>
+
+<a name="q920945c"></a><strong>How to sync data between devices?</strong><br />
+You can create an account or use your Google account to sign in to start syncing between devices. Once you have signed in your account, your subscriptions (podcast &amp; radio), episode playback state and favorite state will be synced automatically. Currently the syncing will use any available network connections (mobile or WiFi) to do the real time syncing. Please go to the <a href="#q173402b">app settings</a> and then login your account under <strong>Sync between devices</strong> settings.
+<p>&nbsp;</p>
+
+<a name="q170430a"></a><strong>What data are synced between devices?</strong><br />
+Currently the data will be synced between devices are:
+<ul>
+	<li>Your subscriptions (podcasts, radio stations and RSS feeds) and their settings</li>
+	<li>Episode playback progress, favorite state</li>
+	<li>User notes</li>
+	<li>User chapters</li>
+	<li>App settings</li>
+	<li>Tags</li>
+</ul>
+<p>&nbsp;</p>
+
+<a name="q920921c"></a><strong>How to transfer app data to another device?</strong><br />
+If you want to be able to pick up the playback progress from another device, the easiest way to do is to set up the syncing between devices, see <a href="#q920945c">how to sync data between devices</a> for details.
+<p>If you like to transfer all app data to another device, the easiest way to do is to use the Backup &amp; restore feature.</p>
+<p>Want to set up the syncing? You still can transfer the app data to another device. Just create a backup of the app data and then copy that backup file to another device, then restore from the backup. Downloaded files are not included in the app data backup.</p>
+<p>&nbsp;</p>
+
+<a name="q922921c"></a><strong>How to transfer downloaded podcast files to another device and get recognized by this app?</strong><br />
+Suppose you want to transfer downloaded podcast files from device A to device B, please follow the steps below to get the downloaded podcasts to be recognized by this app on device B:
+<ol>
+	<li>Start the app on device A</li>
+	<li>Go to <a href="#q173402b">app settings</a> > <strong>Backup & Restore</strong> > <strong>Backup</strong> to create a backup of the app data on device A</li>
+	<li>Copy the app data backup file to device B</li>
+	<li>Create a new directory on device B</li>
+	<li>Copy the downloaded podcast files from device A to this newly created directory on device B</li>
+	<li>Start the app on device B</li>
+	<li>Follow the <a href="#q160903d">Restore app data</a> instructions to restore from the backup of the app data on device B</li>
+	<li>Go to <a href="#q173402b">app settings</a> > <strong>Downloads</strong> to set up the download directory on device B</li>
+	<li>Go to the Downloads tab and open the <a href="#q170909a">overflow menu</a></li>
+	<li>Select <strong>Import downloads</strong></li>
+	<li>Select the directory where you have the podcast files copied from device A.</li>
+</ol>
+<p>Wait for the importing to finish. You can delete the copied podcast files once verifying the downloads are recognized again.</p>
+<p>&nbsp;</p>
+
+<a name="q160903d"></a><strong>How to restore app data from backups?</strong><br>
+	    <ol>
+			<li>With your Android device powered on, connect it to a computer's USB port.</li>
+			<li>In Windows Explorer (or the Mac equivalent) select the Android device and then its internal storage.</li>
+			<li>Open the backup directory. You can find where the backup directory is under the <strong>Backup & Restore</strong> settings. Copy these files to a location on your PC, as a backup precaution.</li>
+			<li>Locate the download directory and copy all the files to a location on your PC, as a backup precaution.</li>
+			<li>Start Podcast Republic, go to <a href="#q173402b">app settings</a> > <strong>Downloads</strong> to set up the download location.</li>
+			<li>Locate your download directory on your device. If the directory is empty, connect your Android device to the PC again. Copy the downloaded podcast files from your PC to the download directory on your Android device.</li>
+			<li>Start Podcast Republic, go to <a href="#q173402b">app settings</a> > <strong>Backup & Restore</strong> > <strong>Restore</strong>.</li>
+			<li>Locate the backup directory.</li>
+			<li>Open this directory and locate the most recent backup file. They are named "backup_YYYYMMDDHHMM.zip" based on the date and time when the backup was taken.</li>
+			<li>Long press the most recent backup file and then tap the <strong>Select</strong> button.  This will recover all of your subscriptions, played/unplayed lists, favorites, etc.</li>
+			<li>Depending on when the backup was taken, you may be missing some recent activity.  You will need to manually add any subscriptions that were added after your most recent backup was taken.</li>
+			<li>For any episodes that you have played since your most recent backup was taken, you will need to find the episode, tap the "..." next to it and select "Set Played" to mark it as already played.</li>
+			<li>If you marked any episodes as favorites (using the heart) after the most recent backup was taken, you will need to manually mark those as favorites again from memory.</li>
+		</ol>
+<p>&nbsp;</p>
+
+<a name="q181015a"></a><strong>How can I backup a downloaded podcast file?</strong><br />
+If you like to keep a copy of the download podcast you can use the <strong>Export episode</strong> feature in the app. The Export episode feature will export the downloaded podcast file to your selected location and use the episode title as the file name.
+The <strong>Export episode</strong> feature can be accessed from multiple places. The easiest way is to go to the <strong>Downloads</strong> tab and then long press a download. Then select <strong>Export episode</strong> option from the context menu.
+<p>&nbsp;</p>
+
+<a name="q922331c"></a><strong>Why YouTube video podcasts are not downloadable?</strong><br />
+It is Google&#8217;s policy that YouTube videos should not be downloaded.</li>
+<p>&nbsp;</p>
+
+<a name="q943331c"></a><strong>Why artworks are not displayed for some podcasts?</strong><br />
+Artwork will be displayed for the podcast if it has one. The artworks are cached locally. However the cache may get cleared somehow. In case the podcast artwork is not displayed, try refreshing the podcast. This app will try to cache the artwork again.
+<p>&nbsp;</p>
+
+<a name="q160909d"></a><strong>How to enable Debug log?</strong><br />
+If you notice any bug in this app you can enable the <strong>Debug log</strong> and send the debug log back to the developer. To enable the <strong>Debug log</strong>, please open the <a href="#q173402b">app settings</a> and then go under the <strong>About</strong> page. Tap on the <strong>Debug log</strong> to enable it. After you have the <strong>Debug log</strong> option enabled, please use this app as normal and wait till the bug is reproduced. After the bug is reproduced, go to the <strong>About</strong> page in the <a href="#q173402b">app settings</a> again and tap the <strong>Report bug</strong> button to send the debug log. At any time, you can go to the <strong>About</strong> page to disable the debug log.
+	<p>&nbsp;</p>
+	
+	<a name="q173402b"></a><strong>How to open app settings?</strong><br />
+	The app settings can be opened from the <a href="#q171209a">side navigation menu</a>.
+	<p>&nbsp;</p>
+	
+	<a name="q171209a"></a><strong>What is the side navigation menu?</strong><br />
+	The side menu is the navigation menu opened from the left or right side of the screen for mobile screens.<br />
+	<p>The menu can be opened in two ways:</p>
+	<ul>
+		<li>Click on the menu button (three lines icon) on the title bar</li>
+		<li>Swipe to right from the left edge of the screen; or swipe to left from the right edge of the screen if <strong>Right hand operation</strong> is enabled</li>
+	</ul>
+	<p>&nbsp;</p>
+	
+	<a name="q170909a"></a><strong>What is the overflow menu?</strong><br />
+	The overflow menu is a three dots button on Android platform. Click on this three dots button will open a menu.
+	<p>&nbsp;</p>
+
+	<a name="q191025a"></a><strong>Why the app doesn't update or stop playing when the app goes to background or is closed?</strong><br />
+	This is mostly due to the battery optimization features built into the Android system. Please go to your Android Settings to turn off the battery optimization for this app.
+	The exact settings can vary from device to device. Typically you can look for those Settings in the following locations:
+	<ul>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Battery usage</b> > <b>Battery optimization</b>. Please make sure this option is set to <b>Not optimized</b>.</li>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Battery usage</b> > <b>Background restriction</b>. Please make sure this option is set to <b>App can use battery in background</b>.</li>
+		<li><b>Android Settings</b> > <b>Apps</b> > <b>Podcast Republic</b> > <b>Battery</b> > <b>Allow background activity</b>. Please make sure this option is checked.</li>
+		<li><b>Android Settings</b> > <b>Device care</b> > <b>Battery</b> > <b>App usage</b> > <b>Put this app to sleep when it's not in use</b>. Please make sure this option is turned off.</li>
+	</ul>
+	Please check out this website <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a> for more info.
+	<p>&nbsp;</p>
+	
+	<a name="q200909a"></a><strong>Can I control the playback through third party apps such as Tasker?</strong><br />
+	Yes, controlling the playback through third party apps such as Tasker is supported.<br><br>
+
+   <b>Supported playback actions</b>:
+   <ul>
+   	<li>podcastrepublic.playback.action.forward</li>
+   	<li>podcastrepublic.playback.action.rewind</li>
+   	<li>podcastrepublic.playback.action.play</li>
+   	<li>podcastrepublic.playback.action.play_new</li>
+   	<li>podcastrepublic.playback.action.play_prev</li>
+   	<li>podcastrepublic.playback.action.play_next</li>
+   	<li>podcastrepublic.playback.action.pause</li>
+   	<li>podcastrepublic.playback.action.stop</li>
+   	<li>podcastrepublic.playback.action.action.mark_position</li>
+   </ul>
+   <b>Package name</b>: com.itunestoppodcastplayer.app<br>
+   <b>Component name</b>: msa.apps.podcastplayer.playback.services.PlaybackActionReceiver
+	<p>&nbsp;</p>
+	
+
+	<a name="q220422a"></a><strong>How to control the app using Intents with Tasker?</strong><br />
+	The app exports various intents which you can use with third party apps such as Tasker.<br><br>
+	
+	<b>Exported intent actions</b>:
+	<ul>
+	<li>msa.app.action.view_playlist: open to <b>Playlists</b> tab. To open to a specific playlist list please provide "PlaylistName" parameter.</li>
+   <li>msa.app.action.view_downloading: open to <b>Downloads</b> > <b>Downloading</b> tab.</li>
+   <li>msa.app.action.view_download: open to <b>Downloads</b> > <b>Completed</b> tab.</li>
+   <li>msa.app.action.view_up_next: open to <b>Up next</b> list.</li>
+   <li>msa.app.action.view_episodes: open to <b>Episodes</b> tab. To open to a specific episodes filter list please provide "EpisodeFilterName" parameter.</li>
+   <li>msa.app.action.view_podcasts: open to <b>Subscriptions</b> > <b>Podcasts</b> tab.</li>
+   <li>msa.app.action.view_radios: open to <b>Subscriptions</b> > <b>Radios</b> tab.</li>
+   <li>msa.app.action.view_text_feeds: open to <b>Subscriptions</b> > <b>RSS feeds</b> tab.</li>
+   <li>msa.app.action.view_history_stats: open to <b>History & stats</b> page.</li>
+   <li>msa.app.action.view_history: open to <b>History & stats</b> > <b>History</b> tab.</li>
+   <li>msa.app.action.view_stats: open to <b>History & stats</b> > <b>Stats</b> tab.</li>
+   <li>msa.app.action.view_car_mode: open to <b>Car mode</b> page.</li>
+   <li>msa.app.action.view_alarms: open to <b>Alarms</b> list.</li>
+   <li>msa.app.action.view_now_playing: open to <b>Now playing</b> page.</li>
+   </ul>
+   
+  	For example, the following intent opens the <b>Audio</b> playlist:<br>
+  <b>	Intent action</b>: "msa.app.action.view_playlist"<br>
+  	<b>Intent data</b>: "PlaylistName" "Audio"<br>
+  	<b>Component name</b>: com.itunestoppodcastplayer.app.StartupActivity<br>
+  	<b>Package name</b>: com.itunestoppodcastplayer.app<br><br>
+
+	The following intent opens the <b>Recents</b> episodes filter:<br>
+  	<b>Intent action</b>: "msa.app.action.view_episodes"<br>
+  	<b>Intent data</b>: "EpisodeFilterName" "Recents"<br>
+  	<b>Component name</b>: com.itunestoppodcastplayer.app.StartupActivity<br>
+  	<b>Package name</b>: com.itunestoppodcastplayer.app
+  	<p>&nbsp;</p>
+	
+	<a name="q201223a"></a><strong>How does this app access the storage?</strong><br />
+	Android 4.4 introduces the <b>Storage Access Framework</b> (SAF) to secure user’s files. SAF allows users to grant the access permission to a single file or directory dynamically instead of granting the storage permission to the whole storage blankly during the app installation. 
+	This provides better privacy protection for users. User privacy is the #1 consideration of this app. Therefore, this app uses SAF when dealing with your storage. 
+	
+	<p>Any time this app needs to access a file or directory it will redirect your to Android's built-in file manager app to complete the select the file or directory. Android system will then grant the access permission to the selected file or directory to this app. If you use a third party file manager app then
+	this procedure may break depends on how well your file manager app supports SAF. We strongly suggest to use Android's built-in file manager app to avoid any issues when dealing with your storage.</p>
+	
+	<a name="q201223b"></a><strong>Why podcast info isn't displayed via Bluetooth in my car?</strong><br />
+	Typically that's due to the incompatible <b>AVRCP</b> versions on your phone and your car Bluetooth. To fix that, first, you'll need to have <b>Developer options</b> enabled in your <b>Android Settings</b>. 
+	Open your <b>Android Settings</b> and then go to <b>About Phone</b>, then tap the <b>Build Number</b> 7 times. After <b>Developer options</b> is enabled, go into <b>Developer Options</b>, 
+	scroll down to <b>Bluetooth AVRCP Version</b>. Change <b>AVRCP</b> version to a lower version, restart the phone. You may need to try couple times to find the right <b>AVRCP</b> version which is compatible with your car.
+	
+	<script>
+		// When the user scrolls down 20px from the top of the document, show the button
+		window.onscroll = function() {scrollFunction()};
+		
+		function scrollFunction() {
+		    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		        document.getElementById("myBtn").style.display = "block";
+		    } else {
+		        document.getElementById("myBtn").style.display = "none";
+		    }
+		}
+		
+		// When the user clicks on the button, scroll to the top of the document
+		function topFunction() {
+		    document.body.scrollTop = 0;
+		    document.documentElement.scrollTop = 0;
+		}
+	</script>
+</body>
+</html>

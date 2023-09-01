@@ -100,76 +100,76 @@
 
     <plurals name="episodes_have_been_added_to_playlists">
         <item quantity="one">Один выпуск добавлен в плейлист.</item>
-        <item quantity="few">%1$d выпуск добавлен в плейлист.</item>
-        <item quantity="many">%1$d выпуск добавлен в плейлист.</item>
-        <item quantity="other">%1$d выпуск добавлен в плейлист.</item>
+        <item quantity="few">%1$d выпуска добавлены в плейлист.</item>
+        <item quantity="many">%1$d выпусков добавлено в плейлист.</item>
+        <item quantity="other">%1$d выпуск(ов) добавлен(о) в плейлист.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
         <item quantity="one">Один выпуск добавлен к списку загрузок.</item>
-        <item quantity="few">%1$d выпуск добавлен к списку загрузок.</item>
-        <item quantity="many">%1$d выпуск добавлен к списку загрузок.</item>
-        <item quantity="other">%1$d выпуск добавлен к списку загрузок.</item>
+        <item quantity="few">%1$d выпуска добавлены к списку загрузок.</item>
+        <item quantity="many">%1$d выпусков добавлено к списку загрузок.</item>
+        <item quantity="other">%1$d выпуск(ов) добавлен(о) к списку загрузок.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
-        <item quantity="few">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
-        <item quantity="many">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
+        <item quantity="one">"Делать автоматический бэкап каждый %1$d день."</item>
+        <item quantity="few">"Делать автоматический бэкап каждые %1$d дня."</item>
+        <item quantity="many">"Делать автоматический бэкап каждые %1$d дней."</item>
         <item quantity="other">"Делать автоматический бэкап каждый(е) %1$d дней(дня)."</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Сохранять %1$d популярных автобэкапа."</item>
+        <item quantity="one">"Сохранять %1$d популярный автобэкап."</item>
         <item quantity="few">"Сохранять %1$d популярных автобэкапа."</item>
-        <item quantity="many">"Сохранять %1$d популярных автобэкапа."</item>
-        <item quantity="other">"Сохранять %1$d популярных автобэкапа."</item>
+        <item quantity="many">"Сохранять %1$d популярных автобэкапов."</item>
+        <item quantity="other">"Сохранять %1$d популярных автобэкапа(ов)."</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d минут"</item>
-        <item quantity="few">"%1$d минут"</item>
+        <item quantity="one">"%1$d минута"</item>
+        <item quantity="few">"%1$d минуты"</item>
         <item quantity="many">"%1$d минут"</item>
         <item quantity="other">"%1$d минут"</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d минут."</item>
+        <item quantity="one">"&gt; %1$d минуты."</item>
         <item quantity="few">"&gt; %1$d минут."</item>
         <item quantity="many">"&gt; %1$d минут."</item>
         <item quantity="other">"&gt; %1$d минут."</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d минут."</item>
+        <item quantity="one">"&lt; %1$d минуты."</item>
         <item quantity="few">"&lt; %1$d минут."</item>
         <item quantity="many">"&lt; %1$d минут."</item>
         <item quantity="other">"&lt; %1$d минут."</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"Через %1$d минут(ы)"</item>
-        <item quantity="few">"Через %1$d минут(ы)s"</item>
-        <item quantity="many">"Через %1$d минут(ы)s"</item>
-        <item quantity="other">"Через %1$d минут(ы)s"</item>
+        <item quantity="one">"Через %1$d минуту"</item>
+        <item quantity="few">"Через %1$d минуты"</item>
+        <item quantity="many">"Через %1$d минут"</item>
+        <item quantity="other">"Через %1$d минут(ы)"</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Добавить %1$d минут"</item>
-        <item quantity="few">"Добавить %1$d минут"</item>
+        <item quantity="one">"Добавить %1$d минуту"</item>
+        <item quantity="few">"Добавить %1$d минуты"</item>
         <item quantity="many">"Добавить %1$d минут"</item>
-        <item quantity="other">"Добавить %1$d минут"</item>
+        <item quantity="other">"Добавить %1$d минут(ы)"</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"Загрузить все %1$d выпуски?"</item>
-        <item quantity="few">"Загрузить все %1$d выпуски?"</item>
-        <item quantity="many">"Загрузить все %1$d выпуски?"</item>
-        <item quantity="other">"Загрузить все %1$d выпуски?"</item>
+        <item quantity="one">"Загрузить один выпуск?"</item>
+        <item quantity="few">"Загрузить все %1$d выпуска?"</item>
+        <item quantity="many">"Загрузить все %1$d выпусков?"</item>
+        <item quantity="other">"Загрузить все %1$d выпусков?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Добавить все выпуски (%1$d) в очередь?"</item>
+        <item quantity="one">"Добавить один выпуск в очередь?"</item>
         <item quantity="few">"Добавить все выпуски (%1$d) в очередь?"</item>
         <item quantity="many">"Добавить все выпуски (%1$d) в очередь?"</item>
         <item quantity="other">"Добавить все выпуски (%1$d) в очередь?"</item>
@@ -183,108 +183,108 @@
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Оставлять %1$d выпусков каждого подкаста."</item>
-        <item quantity="few">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="one">"Оставлять один выпуск каждого подкаста."</item>
+        <item quantity="few">"Оставлять %1$d выпуска каждого подкаста."</item>
         <item quantity="many">"Оставлять %1$d выпусков каждого подкаста."</item>
-        <item quantity="other">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="other">"Оставлять %1$d выпуска(ов) каждого подкаста."</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Оставлять %1$d выпусков каждого подкаста."</item>
-        <item quantity="few">"Оставлять %1$d выпусков каждого подкаста."</item>
-        <item quantity="many">"Оставлять %1$d выпусков каждого подкаста."</item>
-        <item quantity="other">"Оставлять %1$d выпусков каждого подкаста."</item>
+        <item quantity="one">"Оставлять один выпуск этого подкаста."</item>
+        <item quantity="few">"Оставлять %1$d выпуска этого подкаста."</item>
+        <item quantity="many">"Оставлять %1$d выпусков этого подкаста."</item>
+        <item quantity="other">"Оставлять %1$d выпуска(ов) этого подкаста."</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="few">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="many">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one">"Отметить все выпуски старше чем последний, как прослушанные, после получения новых."</item>
+        <item quantity="few">"Отметить все выпуски старше чем последние %1$d, как прослушанные, после получения новых."</item>
+        <item quantity="many">"Отметить все выпуски старше чем последние %1$d, как прослушанные, после получения новых."</item>
+        <item quantity="other">"Отметить все выпуски старше чем последние %1$d, как прослушанные, после получения новых."</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Сохранить статьи за последние %1$d дней."</item>
-        <item quantity="few">"Сохранить статьи за последние %1$d дней."</item>
+        <item quantity="one">"Сохранить статьи за последние %1$d день."</item>
+        <item quantity="few">"Сохранить статьи за последние %1$d дня."</item>
         <item quantity="many">"Сохранить статьи за последние %1$d дней."</item>
-        <item quantity="other">"Сохранить статьи за последние %1$d дней."</item>
+        <item quantity="other">"Сохранить статьи за последние %1$d дня(ей)."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Минимальное время перемотки: %1$d секунд."</item>
-        <item quantity="few">"Минимальное время перемотки: %1$d секунд."</item>
+        <item quantity="one">"Минимальное время перемотки: %1$d секунда."</item>
+        <item quantity="few">"Минимальное время перемотки: %1$d секунды."</item>
         <item quantity="many">"Минимальное время перемотки: %1$d секунд."</item>
-        <item quantity="other">"Минимальное время перемотки: %1$d секунд."</item>
+        <item quantity="other">"Минимальное время перемотки: %1$d секунд(ы)."</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Максимальное время перемотки: %1$d секунд."</item>
-        <item quantity="few">"Максимальное время перемотки: %1$d секунд."</item>
+        <item quantity="one">"Максимальное время перемотки: %1$d секунда."</item>
+        <item quantity="few">"Максимальное время перемотки: %1$d секунды."</item>
         <item quantity="many">"Максимальное время перемотки: %1$d секунд."</item>
-        <item quantity="other">"Максимальное время перемотки: %1$d секунд."</item>
+        <item quantity="other">"Максимальное время перемотки: %1$d секунд(ы)."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Отобрать выпуски продолжительностью более %1$d минут."</item>
+        <item quantity="one">"Отобрать выпуски продолжительностью более %1$d минуты."</item>
         <item quantity="few">"Отобрать выпуски продолжительностью более %1$d минут."</item>
         <item quantity="many">"Отобрать выпуски продолжительностью более %1$d минут."</item>
         <item quantity="other">"Отобрать выпуски продолжительностью более %1$d минут."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
+        <item quantity="one">"Отобрать выпуски продолжительностью менее %1$d минуты."</item>
         <item quantity="few">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
         <item quantity="many">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
         <item quantity="other">"Отобрать выпуски продолжительностью менее %1$d минут."</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Выпуски за последние %1$d дней."</item>
-        <item quantity="few">"Выпуски за последние %1$d дней."</item>
+        <item quantity="one">"Выпуски за последний %1$d день."</item>
+        <item quantity="few">"Выпуски за последние %1$d дня."</item>
         <item quantity="many">"Выпуски за последние %1$d дней."</item>
-        <item quantity="other">"Выпуски за последние %1$d дней."</item>
+        <item quantity="other">"Выпуски за последние %1$d дня(ей)."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Пропустить в начале %1$d секунд."</item>
-        <item quantity="few">"Пропустить в начале %1$d секунд."</item>
+        <item quantity="one">"Пропустить в начале %1$d секунду."</item>
+        <item quantity="few">"Пропустить в начале %1$d секунды."</item>
         <item quantity="many">"Пропустить в начале %1$d секунд."</item>
-        <item quantity="other">"Пропустить в начале %1$d секунд."</item>
+        <item quantity="other">"Пропустить в начале %1$d секунд(ы)."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Пропустить в конце %1$d секунд."</item>
-        <item quantity="few">"Пропустить в конце %1$d секунд."</item>
+        <item quantity="one">"Пропустить в конце %1$d секунду."</item>
+        <item quantity="few">"Пропустить в конце %1$d секунды."</item>
         <item quantity="many">"Пропустить в конце %1$d секунд."</item>
-        <item quantity="other">"Пропустить в конце %1$d секунд."</item>
+        <item quantity="other">"Пропустить в конце %1$d секунд(ы)."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
-        <item quantity="few">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
-        <item quantity="many">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
-        <item quantity="other">"Загрузить выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="one">"Загрузить выпуск, продолжительностью более %d минуты."</item>
+        <item quantity="few">"Загрузить выпуск, продолжительностью более %d минут."</item>
+        <item quantity="many">"Загрузить выпуск, продолжительностью более %d минут."</item>
+        <item quantity="other">"Загрузить выпуск, продолжительностью более %d минут."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
-        <item quantity="few">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
-        <item quantity="many">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
-        <item quantity="other">"Загрузить выпуск, если продолжительность менее чем %d минут."</item>
+        <item quantity="one">"Загрузить выпуск, продолжительностью менее %d минуты."</item>
+        <item quantity="few">"Загрузить выпуск, продолжительностью менее %d минут."</item>
+        <item quantity="many">"Загрузить выпуск, продолжительностью менее %d минут."</item>
+        <item quantity="other">"Загрузить выпуск, продолжительностью менее %d минут."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
-        <item quantity="few">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
-        <item quantity="many">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
-        <item quantity="other">"Не загружать выпуск, если продолжительность превышает %d минут."</item>
+        <item quantity="one">"Не загружать выпуск, продолжительностью более %d минуты."</item>
+        <item quantity="few">"Не загружать выпуск, продолжительностью более %d минут."</item>
+        <item quantity="many">"Не загружать выпуск, продолжительностью более %d минут."</item>
+        <item quantity="other">"Не загружать выпуск, продолжительностью более %d минут."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
-        <item quantity="few">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
-        <item quantity="many">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
-        <item quantity="other">"Не загружать выпуск, если продолжительность составляет менее %d минут."</item>
+        <item quantity="one">"Не загружать выпуск, продолжительностью менее %d минуты."</item>
+        <item quantity="few">"Не загружать выпуск, продолжительностью менее %d минут."</item>
+        <item quantity="many">"Не загружать выпуск, продолжительностью менее %d минут."</item>
+        <item quantity="other">"Не загружать выпуск, продолжительностью менее %d минут."</item>
     </plurals>
 
 </resources>

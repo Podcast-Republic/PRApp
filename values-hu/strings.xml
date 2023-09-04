@@ -1283,4 +1283,5 @@
     <string name="feed_priority">Hírcsatorna prioritás</string>
     <string name="delete_all_articles">Összes cikk törlése</string>
     <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Szeretne interakcióba lépni az alkalmazással az értesítésen keresztül?</string>
+    <string name="primary_button_action">Primary button action</string>
 </resources>

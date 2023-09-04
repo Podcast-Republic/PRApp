@@ -1282,5 +1282,5 @@
     <string name="feed_priority">Priorita zdroja</string>
     <string name="delete_all_articles">Odstrániť všetky články</string>
     <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Chcete s touto aplikáciou komunikovať pomocou upozornení?</string>
-    <string name="primary_button_action">Primary button action</string>
+    <string name="primary_button_action">Akcia primárneho tlačidla</string>
 </resources>

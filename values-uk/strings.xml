@@ -1280,5 +1280,5 @@
     <string name="feed_priority">Пріоритет каналу</string>
     <string name="delete_all_articles">Видалити всі статті</string>
     <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Чи подобається вам взаємодіяти з цією програмою через сповіщення?</string>
-    <string name="primary_button_action">Primary button action</string>
+    <string name="primary_button_action">Основна дія кнопки</string>
 </resources>

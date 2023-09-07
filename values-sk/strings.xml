@@ -1283,4 +1283,6 @@
     <string name="delete_all_articles">Odstrániť všetky články</string>
     <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Chcete s touto aplikáciou komunikovať pomocou upozornení?</string>
     <string name="primary_button_action">Akcia primárneho tlačidla</string>
+    <string name="remember_the_playback_position">Remember the playback position</string>
+    <string name="resume_the_playback_from_last_played_position_">Resume the playback from last played position.</string>
 </resources>

@@ -1279,10 +1279,10 @@
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Дозволити додавати до списку відтворення епізоди, позначені як відверті (explicit).</string>
     <string name="feed_priority">Пріоритет каналу</string>
     <string name="delete_all_articles">Видалити всі статті</string>
-    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Чи подобається вам взаємодіяти з цією програмою через сповіщення?</string>
+    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Чи хочете ви взаємодіяти з цією програмою через сповіщення?</string>
     <string name="primary_button_action">Основна дія кнопки</string>
     <string name="remember_the_playback_position">"Запам'ятовувати позицію відтворення"</string>
     <string name="resume_the_playback_from_last_played_position_">Відновлювати відтворення з місця, на якому зупинилось останнє відтворення.</string>
-    <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
-    <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
+    <string name="maximum_playback_speed_limit">Обмеження максимальної швидкості відтворення</string>
+    <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Обмежити максимальну швидкість відтворення до %s при підключенні до Android Auto.</string>
 </resources>

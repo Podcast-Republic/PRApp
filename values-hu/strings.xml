@@ -1283,7 +1283,7 @@
     <string name="feed_priority">Hírcsatorna prioritás</string>
     <string name="delete_all_articles">Összes cikk törlése</string>
     <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Szeretne interakcióba lépni az alkalmazással az értesítésen keresztül?</string>
-    <string name="primary_button_action">Primary button action</string>
-    <string name="remember_the_playback_position">Remember the playback position</string>
-    <string name="resume_the_playback_from_last_played_position_">Resume the playback from last played position.</string>
+    <string name="primary_button_action">Elsődleges gombművelet</string>
+    <string name="remember_the_playback_position">Emlékezzen a lejátszás pozíciójára</string>
+    <string name="resume_the_playback_from_last_played_position_">A lejátszás folytatása az utolsó lejátszott pozíciótól</string>
 </resources>

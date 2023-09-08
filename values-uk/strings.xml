@@ -1283,4 +1283,6 @@
     <string name="primary_button_action">Основна дія кнопки</string>
     <string name="remember_the_playback_position">"Запам'ятовувати позицію відтворення"</string>
     <string name="resume_the_playback_from_last_played_position_">Відновлювати відтворення з місця, на якому зупинилось останнє відтворення.</string>
+    <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
+    <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
 </resources>

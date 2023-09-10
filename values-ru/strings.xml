@@ -1277,11 +1277,11 @@
     <string name="allow_explicit_episodes">Разрешить откровнные выпуски</string>
     <string name="allow_to_add_explicit_episodes_to_the_playlist_">Разрешить добавлять выпуски, помеченные как "Откровенные" (пиктограмма "E"), в список воспроизведения.</string>
     <string name="feed_priority">Приоритет ленты</string>
-    <string name="delete_all_articles">Delete all articles</string>
-    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Do you like to interact with this app through the notification?</string>
-    <string name="primary_button_action">Primary button action</string>
-    <string name="remember_the_playback_position">Remember the playback position</string>
-    <string name="resume_the_playback_from_last_played_position_">Resume the playback from last played position.</string>
-    <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
-    <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
+    <string name="delete_all_articles">Удалить все статьи</string>
+    <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Нравится ли вам взаимодействовать с этим приложением через уведомление?</string>
+    <string name="primary_button_action">Действие основной кнопки</string>
+    <string name="remember_the_playback_position">Запомнить позицию воспроизведения</string>
+    <string name="resume_the_playback_from_last_played_position_">Возобновить воспроизведение с последней воспроизведенной позиции.</string>
+    <string name="maximum_playback_speed_limit">Ограничение максимальной скорости воспроизведения</string>
+    <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Ограничить максимальную скорость воспроизведения до %s при подключении Android Auto.</string>
 </resources>

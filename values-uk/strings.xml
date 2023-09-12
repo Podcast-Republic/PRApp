@@ -1285,4 +1285,5 @@
     <string name="resume_the_playback_from_last_played_position_">Відновлювати відтворення з місця, на якому зупинилось останнє відтворення.</string>
     <string name="maximum_playback_speed_limit">Обмеження максимальної швидкості відтворення</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Обмежити максимальну швидкість відтворення до %s при підключенні до Android Auto.</string>
+    <string name="view_podcast_description">View podcast description</string>
 </resources>

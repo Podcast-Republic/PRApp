@@ -1287,4 +1287,5 @@
     <string name="resume_the_playback_from_last_played_position_">Resume the playback from last played position.</string>
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
+    <string name="view_podcast_description">View podcast description</string>
 </resources>

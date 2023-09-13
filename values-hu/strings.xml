@@ -1288,5 +1288,5 @@
     <string name="resume_the_playback_from_last_played_position_">A lejátszás folytatása az utolsó lejátszott pozíciótól.</string>
     <string name="maximum_playback_speed_limit">Maximális lejátszási sebesség korlát</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Korlátozhatja a maximális lejátszási sebességet %s értékre, ha Android Auto rendszerhez csatlakozik</string>
-    <string name="view_podcast_description">View podcast description</string>
+    <string name="view_podcast_description">Podcast leírás megtekintése</string>
 </resources>

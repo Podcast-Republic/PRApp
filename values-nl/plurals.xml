@@ -1,208 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"Je luisterde: %1$d episode, %2$s."</item>
-        <item quantity="other">"Je luisterde: %1$d episodes, %2$s."</item>
+        <item quantity="one">Je luisterde: %1$d episode, %2$s"</item>
+        <item quantity="other">Je luisterde: %1$d episodes, %2$s"</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d line</item>
-        <item quantity="other">%1$d lines</item>
+        <item quantity="one">%1$d regel</item>
+        <item quantity="other">%1$d regels</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Laatste %1$d afleveringen.</item>
-        <item quantity="other">Laatste %1$d afleveringen.</item>
+        <item quantity="one">Laatste %1$d aflevering</item>
+        <item quantity="other">Laatste %1$d afleveringen</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Toon de laatste %d afleveringen.</item>
-        <item quantity="other">Toon de laatste %d afleveringen.</item>
+        <item quantity="one">Toon de laatste aflevering</item>
+        <item quantity="other">Toon de laatste %d afleveringen</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Mark %1$d episode as played?</item>
-        <item quantity="other">Mark all %1$d episodes as played?</item>
+        <item quantity="one">%1$d aflevering als gespeeld markeren?</item>
+        <item quantity="other">Alle %1$d afleveringen als gespeeld markeren?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Mark %1$d episode as unplayed?</item>
-        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+        <item quantity="one">%1$d aflevering als niet-gespeeld markeren?</item>
+        <item quantity="other">Alle %1$d afleveringen als niet-gespeeld markeren?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Mark %1$d podcast as played?</item>
-        <item quantity="other">Mark all %1$d podcasts as played?</item>
+        <item quantity="one">%1$d podcast als gespeeld markeren?</item>
+        <item quantity="other">Alle %1$d podcasts als gespeeld markeren?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one">%1$d feed als gespeeld markeren?</item>
+        <item quantity="other">Alle %1$d feeds als gespeeld markeren?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Markeer alle %d artikelen als gelezen?</item>
-        <item quantity="other">Markeer alle %d artikelen als gelezen?</item>
+        <item quantity="one">%1$d artikel als gelezen markeren?</item>
+        <item quantity="other">Alle %1%d artikelen als gelezen markeren?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">%1$d artikel als niet-gelezen markeren?</item>
+        <item quantity="other">Alle %1$d artikelen als niet-gelezen markeren?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Automatisch maximaal %d nieuwere en niet-afgespeelde afleveringen van de momenteel spelende podcast downloaden.</item>
-        <item quantity="other">Automatisch maximaal %d nieuwere en niet-afgespeelde afleveringen van de momenteel spelende podcast downloaden.</item>
+        <item quantity="one">Automatisch maximaal %d nieuwere en niet-afgespeelde aflevering van de momenteel spelende podcast downloaden</item>
+        <item quantity="other">Automatisch maximaal %d nieuwere en niet-afgespeelde afleveringen van de momenteel spelende podcast downloaden</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
-        <item quantity="other">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="one">Automatisch %1$d oudere en niet-afgespeede aflevering downloaden van de momenteel spelende podcast</item>
+        <item quantity="other">Automatisch %1$d oudere en niet-afgespeede afleveringen downloaden van de momenteel spelende podcast</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Automatisch de %1$d meest recente afleveringen downloaden wanneer nieuwe afleveringen zijn opgehaald</item>
-        <item quantity="other">Automatisch de %1$d meest recente afleveringen downloaden wanneer nieuwe afleveringen zijn opgehaald</item>
+        <item quantity="one">Automatisch de meest recente aflevering downloaden wanneer nieuwe zijn opgehaald</item>
+        <item quantity="other">Automatisch de %1$d meest recente afleveringen downloaden wanneer nieuwe zijn opgehaald</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Toon maximaal %1$d regel van de titel</item>
+        <item quantity="other">Toon maximaal %1$d regels van de titel</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">"Eén aflevering toegevoegd aan afspeellijst."</item>
-        <item quantity="other">"%1$d afleveringen toegevoegd aan afspeellijst."</item>
+        <item quantity="one">%1$d aflevering toegevoegd aan afspeellijst</item>
+        <item quantity="other">%1$d afleveringen toegevoegd aan afspeellijst</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">"Eén aflevering toegevoegd aan downloads."</item>
-        <item quantity="other">"%1$d afleveringen toegevoegd aan downloads."</item>
+        <item quantity="one">%1$d aflevering toegevoegd aan downloads</item>
+        <item quantity="other">%1$d afleveringen toegevoegd aan downloads</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Inplannen automatische backup elke %1$d dagen."</item>
-        <item quantity="other">"Inplannen automatische backup elke %1$d dagen."</item>
+        <item quantity="one">Inplannen automatische backup elke dag</item>
+        <item quantity="other">Inplannen automatische backup elke %1$d dagen</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Bewaar de %1$d meest recente automatische backups."</item>
-        <item quantity="other">"Bewaar de %1$d meest recente automatische backups."</item>
+        <item quantity="one">Bewaar de %1$d meest recente automatische backups</item>
+        <item quantity="other">Bewaar de %1$d meest recente automatische backups</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minuten"</item>
-        <item quantity="other">"%1$d minuten"</item>
+        <item quantity="one">%1$d minuut</item>
+        <item quantity="other">%1$d minuten</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minute."</item>
-        <item quantity="other">"&gt; %1$d minutes."</item>
+        <item quantity="one">&gt; %1$d minuut</item>
+        <item quantity="other">&gt; %1$d minuten</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minute."</item>
-        <item quantity="other">"&lt; %1$d minutes."</item>
+        <item quantity="one">&lt; %1$d minuut</item>
+        <item quantity="other">&lt; %1$d minuten</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"In %1$d minuten"</item>
-        <item quantity="other">"In %1$d minuten"</item>
+        <item quantity="one">In %1$d minuut</item>
+        <item quantity="other">In %1$d minuten</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Voeg %1$d minuten toe"</item>
-        <item quantity="other">"Voeg %1$d minuten toe"</item>
+        <item quantity="one">Voeg %1$d minuten toe</item>
+        <item quantity="other">Voeg %1$d minuten toe</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"Alle %1$d afleveringen downloaden?"</item>
-        <item quantity="other">"Alle %1$d afleveringen downloaden?"</item>
+        <item quantity="one">Alle %1$d afleveringen downloaden?</item>
+        <item quantity="other">Alle %1$d afleveringen downloaden?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Add one episode to Up next?"</item>
-        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="one">Een aflevering toevoegen aan Volgende?</item>
+        <item quantity="other">Alle %1$d afleveringen toevoegen aan Volgende?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"Add one episode to playlist?"</item>
-        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="one">Een aflevering toevoegen aan afspeellijst?</item>
+        <item quantity="other">Alle %1$d aflevering toevoegen aan afspeellijst?</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Bewaar de laatste %1$d downloads voor elke podcast."</item>
-        <item quantity="other">"Bewaar de laatste %1$d downloads voor elke podcast."</item>
+        <item quantity="one">Bewaar de laatste download voor elke podcast</item>
+        <item quantity="other">Bewaar de laatste %1$d downloads voor elke podcast</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Bewaar de laatste %1$d downloads voor elke podcast."</item>
-        <item quantity="other">"Bewaar de laatste %1$d downloads voor elke podcast."</item>
+        <item quantity="one">Bewaar de laatste download voor deze podcast</item>
+        <item quantity="other">Bewaar de laatste %1$d downloads voor deze podcast</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one">Markeer alle oudere afleveringen als gespeeld nadat nieuwe zijn opgehaald</item>
+        <item quantity="other">Markeer alle oudere afleveringen als gespeeld nadat nieuwe zijn opgehaald</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Bewaar artikelen van de laatste %d dagen."</item>
-        <item quantity="other">"Bewaar artikelen van de laatste %d dagen."</item>
+        <item quantity="one">Bewaar artikelen van de laatste dag</item>
+        <item quantity="other">Bewaar artikelen van de laatste %d dagen</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Minimale terugspoeltijd: %d seconden."</item>
-        <item quantity="other">"Minimale terugspoeltijd: %d seconden."</item>
+        <item quantity="one">Minimale terugspoeltijd: %d seconde</item>
+        <item quantity="other">Minimale terugspoeltijd: %d seconden</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Maximale terugspoeltijd: %d seconden."</item>
-        <item quantity="other">"Maximale terugspoeltijd: %d seconden."</item>
+        <item quantity="one">Maximale terugspoeltijd: %d seconde</item>
+        <item quantity="other">Maximale terugspoeltijd: %d seconden</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Selecteer afleveringen langer dan %d minuten."</item>
-        <item quantity="other">"Selecteer afleveringen langer dan %d minuten."</item>
+        <item quantity="one">Selecteer afleveringen die langer duren dan %d minuut</item>
+        <item quantity="other">Selecteer afleveringen die langer duren dan %d minuten</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Selecteer afleveringen korter dan %d minuten."</item>
-        <item quantity="other">"Selecteer afleveringen korter dan %d minuten."</item>
+        <item quantity="one">Selecteer afleveringen die korter duren dan %d minuut</item>
+        <item quantity="other">Selecteer afleveringen die korter duren dan %d minuten</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Selecteer afleveringen van de laatste %d dagen."</item>
-        <item quantity="other">"Selecteer afleveringen van de laatste %d dagen."</item>
+        <item quantity="one">Selecteer afleveringen van de laatste dag</item>
+        <item quantity="other">Selecteer afleveringen van de laatste %d dagen</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Sla de eerste %d seconden over."</item>
-        <item quantity="other">"Sla de eerste %d seconden over."</item>
+        <item quantity="one">Sla de eerste seconde over</item>
+        <item quantity="other">Sla de eerste %d seconden over</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Sla de laatste %d seconden over."</item>
-        <item quantity="other">"Sla de laatste %d seconden over."</item>
+        <item quantity="one">Sla de laatste seconde over"</item>
+        <item quantity="other">Sla de laatste %d seconden over</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">Download aflevering als die langer duurt dan %d minuut</item>
+        <item quantity="other">Download aflevering als die langer duurt dan %d minuten</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
-        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="one">Download aflevering als die korter duurt dan %d minuut</item>
+        <item quantity="other">Download aflevering als die korter duurt dan %d minuten</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">Aflevering niet downloaden als die langer duurt dan %d minuut</item>
+        <item quantity="other">Aflevering niet downloaden als die langer duurt dan %d minuten</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="one">Aflevering niet downloaden als die korter duurt dan %d minuut</item>
+        <item quantity="other">Aflevering niet downloaden als die korter duurt dan %d minuten</item>
     </plurals>
 
 </resources>

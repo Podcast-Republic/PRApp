@@ -1279,14 +1279,14 @@
     <string name="enter_youtube_url">YouTube link</string>
     <string name="examples_of_youtube_url">Példa YouTube link</string>
     <string name="allow_explicit_episodes">Szókimondó tartalmak engedélyezése</string>
-    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Engedélyezi a szókimondó (explicit) tartalmú epizódok hozzáadását a lejátszási listához.</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Engedélyezi a szókimondó (explicit) tartalmú epizódok hozzáadását a lejátszási listához</string>
     <string name="feed_priority">Hírcsatorna prioritás</string>
     <string name="delete_all_articles">Összes cikk törlése</string>
     <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Szeretne interakcióba lépni az alkalmazással az értesítésen keresztül?</string>
     <string name="primary_button_action">Elsődleges gombművelet</string>
     <string name="remember_the_playback_position">Emlékezzen a lejátszás pozíciójára</string>
     <string name="resume_the_playback_from_last_played_position_">A lejátszás folytatása az utolsó lejátszott pozíciótól.</string>
-    <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
-    <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
+    <string name="maximum_playback_speed_limit">Maximális lejátszási sebesség korlát</string>
+    <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Korlátozhatja a maximális lejátszási sebességet %s értékre, ha Android Auto rendszerhez csatlakozik</string>
     <string name="view_podcast_description">View podcast description</string>
 </resources>

@@ -348,8 +348,6 @@
     <string name="start_playing">Spustiť prehrávanie</string>
     <string name="display_episode_artwork">Zobraziť obrázok epizódy</string>
     <string name="ringtone">Zvonenie</string>
-    <string name="vibrate">Vibrovať</string>
-    <string name="light">LED svetlo</string>
     <string name="history">História</string>
     <string name="remove_all">Odstrániť všetky</string>
     <string name="new_episode_notification">Upozornenie na novú epizódu</string>
@@ -357,8 +355,6 @@
     <string name="start_downloading_only_when_battery_is_charging">Spustiť sťahovanie iba počas nabíjania batérie</string>
     <string name="add_a_youtube_podcast">Pridať podcast YouTube</string>
     <string name="channels">Kanály</string>
-    <string name="channel_id">ID kanála</string>
-    <string name="playlist_id">ID playlistu</string>
     <string name="when_deleting_an_episode">Pri odstraňovaní epizódy</string>
     <string name="also_remove_from_downloads_amp_playlists">Odstrániť tiež zo Stiahnuté a Playlisty</string>
     <string name="remove_episode_only">Odstrániť iba epizódu</string>
@@ -477,7 +473,6 @@
     <string name="no_podcasts_selected">Nie sú vybrané žiadne podcasty!</string>
     <string name="enjoy_podcast_republic">Ste spokojný s Podcast Republic?</string>
     <string name="select_an_image_on_device">Vyberte obrázok zo zariadenia</string>
-    <string name="youtube_type">Typ YouTube</string>
     <string name="scanning_">Prehľadáva sa…</string>
     <string name="playback_speed">Rýchlosť prehrávania</string>
     <string name="keep_playing">Pokračovať v prehrávaní</string>
@@ -533,7 +528,6 @@
     <string name="sensitivity">Citlivosť</string>
     <string name="gestures">Gestá</string>
     <string name="user_agreement">Súhlas používateľa</string>
-    <string name="multi_thread_download">Viacvláknové sťahovanie</string>
     <string name="recents">Nedávne</string>
     <string name="group_by_podcasts">Zoskupiť podľa podcastov</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Pri pridávaní epizódy do playlistu pridať aj do nasledujúcich playlistov</string>
@@ -603,8 +597,6 @@
     <string name="maybe_later">Možno neskôr</string>
     <string name="sign_up">Registrovať sa</string>
     <string name="download_state_idle">Čaká sa na spustenie sťahovania</string>
-    <string name="download_state_fetching_url">Hľadá sa zdroj na stiahnutie</string>
-    <string name="download_state_connecting">Pripája sa</string>
     <string name="download_state_downloading">Sťahuje sa</string>
     <string name="download_state_completed">Hotovo</string>
     <string name="download_state_paused_network_unavailable">Pozastavené: čaká sa na sieť</string>
@@ -862,9 +854,6 @@
     <string name="review_submitted_">Recenzia bola odoslaná.</string>
     <string name="add_radio_stations">Pridať rádiá</string>
     <string name="radio_station">Rádio</string>
-    <string name="view_your_podcast_subscriptions">Zobraziť vaše odbery podcastov</string>
-    <string name="view_your_radio_subscriptions">Zobraziť vaše odbery rádia</string>
-    <string name="view_your_rss_feed_subscriptions">Zobraziť vaše odbery zdrojov RSS</string>
     <string name="there_are_no_unplayed_episodes_">Nie sú žiadne neprehraté epizódy!</string>
     <string name="there_are_no_played_episodes_">Nie sú žiadne prehraté epizódy!</string>
     <string name="there_are_no_favorite_episodes_">Nie sú žiadne obľúbené epizódy!</string>
@@ -1162,8 +1151,6 @@
     <string name="search_in_title">Hľadať v názve</string>
     <string name="search_in_title_and_article">Hľadať v názve a článku</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Vyhľadať zvýraznený text ako ID kanála.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Vyhľadať zvýraznený text ako ID playlistu.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Žiadne Wi-Fi - aktualizovať podcast raz pomocou mobilných dát?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Vybrať epizódy s dĺžkou od %1$d do %2$d minút.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Vybrať epizódy s dĺžkou kratšou ako %1$d minút alebo dlhšou ako %2$d minút.</string>
@@ -1258,7 +1245,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Označiť všetky články vydané pred týmto článkom [%1$s] ako neprečítané?</string>
     <string name="show_empty_podcasts">Zobraziť prázdne podcasty</string>
     <string name="show_empty_feeds">Zobraziť prázdne zdroje</string>
-    <string name="login_failed">Prihlásenie zlyhalo</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Vyberte jazyk, ktorý chcete v aplikácii používať.</string>
     <string name="term_and_privacy_policy">"Podmienky a zásady ochrany osobných údajov"</string>
     <string name="import_from_opml_file_failed_s">Import zo súboru OPML zlyhal: %1$s.</string>
@@ -1288,4 +1274,8 @@
     <string name="maximum_playback_speed_limit">Obmedzenie maximálnej rýchlosti prehrávania</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Obmedziť maximálnu rýchlosť prehrávania na %s pri pripojení k Android Auto.</string>
     <string name="view_podcast_description">Zobraziť popis podcastu</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

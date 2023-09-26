@@ -195,7 +195,6 @@
     <string name="casting">Casting</string>
     <string name="category">Kategori</string>
     <string name="change_log">Endringslogg</string>
-    <string name="channel_id">Kanal-id</string>
     <string name="channels">Kanaler</string>
     <string name="chapter_d">Kapittel # %d</string>
     <string name="chapters">Kapitler</string>
@@ -282,7 +281,6 @@
     <string name="download_only_when_connected_to_wifi">Last ned kun over Wi-Fi.</string>
     <string name="download_removed">Varsel om fjernet nedlasting</string>
     <string name="download_state_completed">Ferdig</string>
-    <string name="download_state_connecting">Oppretter forbindelse</string>
     <string name="download_state_downloading">Laster ned</string>
     <string name="download_state_failed">Mislyktes</string>
     <string name="download_state_failed_cancelled">Ble avbrutt</string>
@@ -291,7 +289,6 @@
     <string name="download_state_failed_sdcard_full">Mislyktes: grense for tillatt lagringsplass nådd</string>
     <string name="download_state_failed_storage_is_not_accessible">Mislyktes: datalager er ikke tilgjengelig</string>
     <string name="error_storage_is_not_accessible">Mislyktes: datalager er ikke tilgjengelig</string>
-    <string name="download_state_fetching_url">Leter etter noe å hente</string>
     <string name="download_state_idle">Venter på nedlasting</string>
     <string name="download_state_paused_by_request">Nedlasting satt på pause</string>
     <string name="download_state_paused_need_battery_charging">Pause: batteriet lades ikke</string>
@@ -414,7 +411,6 @@
     <string name="landscape">Liggende</string>
     <string name="language">Språk</string>
     <string name="last_updated_s">"Sist oppdatert: %1$s"</string>
-    <string name="light">LED-lys</string>
     <string name="list_view">Listevisning</string>
     <string name="load_artwork_via_wifi_only">Bare last inn bilder over Wi-Fi</string>
     <string name="load_artworks_only_when_connected_to_wifi">Bare last inn bilder når enheten er tilkoblet Wi-Fi.</string>
@@ -443,7 +439,6 @@
     <string name="move_to_top">Flytt valgt(e) til toppen</string>
     <string name="moving_download_from_1s_to_2s">Flytter nedlasting fra [%1$s] til [%2$s]</string>
     <string name="moving_downloads">Flytter nedlastinger</string>
-    <string name="multi_thread_download">Tillat flere nedlastinger samtidig</string>
     <string name="music">Musikk</string>
     <string name="new_episode_notification">Varsel om ny episode</string>
     <string name="new_episodes_available">Nye episoder tilgjengelig</string>
@@ -507,7 +502,6 @@
     <string name="playing">Spilles nå</string>
     <string name="playing_state">Avspillingstilstand</string>
     <string name="playlist">Spilleliste</string>
-    <string name="playlist_id">Spilleliste-id</string>
     <string name="playback_mode_playlist">Spilleliste</string>
     <string name="playlists">Spillelister</string>
     <string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">Lukk ikke appen når den holder på å gjeninnhente data. Appen starter opp igjen når alle data er på plass.</string>
@@ -681,7 +675,6 @@
     <string name="user_interface">Brukergrensesnitt</string>
     <string name="username">Brukernavn</string>
     <string name="version">Versjon</string>
-    <string name="vibrate">Vibrer</string>
     <string name="video">Video</string>
     <string name="view_all_episodes">Vis alle episoder</string>
     <string name="view_episode">Vis episode</string>
@@ -708,7 +701,6 @@
     <string name="you_have_no_pending_downloads">Det finnes ingen pågående nedlastinger.</string>
     <string name="no_download_directory_prompt_message">Du har ikke valgt en mappe å plassere podcaster i. Vil du velge en mappe nå?</string>
     <string name="you_have_subscribed_to_s">Du abonnerer nå på: %s</string>
-    <string name="youtube_type">YouTube-type</string>
     <string name="show_last_updated_time">Show last updated time</string>
     <string name="hide_last_updated_time">Hide last updated time</string>
     <string name="delete_account">Delete account</string>
@@ -855,9 +847,6 @@
     <string name="review_submitted_">Review submitted.</string>
     <string name="add_radio_stations">Add radio stations</string>
     <string name="radio_station">Radio station</string>
-    <string name="view_your_podcast_subscriptions">View your podcast subscriptions</string>
-    <string name="view_your_radio_subscriptions">View your radio subscriptions</string>
-    <string name="view_your_rss_feed_subscriptions">View your RSS feed subscriptions</string>
     <string name="there_are_no_unplayed_episodes_">There are no unplayed episodes!</string>
     <string name="there_are_no_played_episodes_">There are no played episodes!</string>
     <string name="there_are_no_favorite_episodes_">There are no favorite episodes!</string>
@@ -1160,8 +1149,6 @@
     <string name="search_in_title">Search in title</string>
     <string name="search_in_title_and_article">Search in title and article</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
@@ -1255,7 +1242,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
@@ -1285,4 +1271,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

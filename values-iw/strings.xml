@@ -346,8 +346,6 @@
     <string name="start_playing">"תמיד התחל לנגן"</string>
     <string name="display_episode_artwork">"הצג גרפיקה המצורפת לפרק"</string>
     <string name="ringtone">"צלצול"</string>
-    <string name="vibrate">"רטט"</string>
-    <string name="light">"תאורת לד"</string>
     <string name="history">"היסטוריה"</string>
     <string name="remove_all">"הסר הכל"</string>
     <string name="new_episode_notification">"הודעה על פרק חדש"</string>
@@ -355,8 +353,6 @@
     <string name="start_downloading_only_when_battery_is_charging">"התחל הורדה רק בעת טעינת הסוללה"</string>
     <string name="add_a_youtube_podcast">"הוסף פודקאסט YouTube"</string>
     <string name="channels">"ערוצים"</string>
-    <string name="channel_id">"מזהה ערוץ (Channel ID)"</string>
-    <string name="playlist_id">"מזהה רשימת השמעה (Playlist ID)"</string>
     <string name="when_deleting_an_episode">"בעת מחיקת פרק"</string>
     <string name="also_remove_from_downloads_amp_playlists">"הסר גם מהורדות וגם מרשימות ההשמעה"</string>
     <string name="remove_episode_only">"הסר פרק בלבד"</string>
@@ -476,7 +472,6 @@
     <string name="no_podcasts_selected">"לא נבחר פודקאסט"</string>
     <string name="enjoy_podcast_republic">"האם אתה נהנה מפודקסאט רפאבליק?"</string>
     <string name="select_an_image_on_device">"בחר תמונה במכשיר"</string>
-    <string name="youtube_type">"סוג YouTube"</string>
     <string name="scanning_">"סורק…"</string>
     <string name="playback_speed">"מהירות ההשמעה"</string>
     <string name="keep_playing">"המשך לנגן כרגיל"</string>
@@ -531,7 +526,6 @@
     <string name="sensitivity">"רגישות"</string>
     <string name="gestures">"תנועות"</string>
     <string name="user_agreement">"הסכם משתמש"</string>
-    <string name="multi_thread_download">"אפשר הורדת מספר פרקים במקביל"</string>
     <string name="recents">"אחרונים"</string>
     <string name="group_by_podcasts">"קבץ לפי פודקאסטים"</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"הוסף את לרשימות ההשמעה הבאות בעת הוספת פרק לרשימת השמעה"</string>
@@ -602,8 +596,6 @@
     <string name="maybe_later">"אולי אחר כך"</string>
     <string name="sign_up">"הירשם"</string>
     <string name="download_state_idle">"ממתין לתחילת ההורדה"</string>
-    <string name="download_state_fetching_url">"מחפש מקורת להורדה"</string>
-    <string name="download_state_connecting">"מתחבר"</string>
     <string name="download_state_downloading">"מוריד"</string>
     <string name="download_state_completed">"הסתיים"</string>
     <string name="download_state_paused_network_unavailable">"מושהה: מחכה לרשת"</string>
@@ -856,9 +848,6 @@
     <string name="review_submitted_">"הביקורת נשלחה."</string>
     <string name="add_radio_stations">"הוסף תחנות רדיו"</string>
     <string name="radio_station">"תחנת רדיו"</string>
-    <string name="view_your_podcast_subscriptions">"הצג את הפודקאסטים אליהם נרשמת"</string>
-    <string name="view_your_radio_subscriptions">"הצג את תחנות הרדיו אליהם נרשמת"</string>
-    <string name="view_your_rss_feed_subscriptions">"הצג את ה-RSS אליהם נרשמת"</string>
     <string name="there_are_no_unplayed_episodes_">"אין פרקים שטרם נוגנו!"</string>
     <string name="there_are_no_played_episodes_">"אין פרקים שנוגנו!"</string>
     <string name="there_are_no_favorite_episodes_">"אין פרקים מועדפים!"</string>
@@ -1160,8 +1149,6 @@
     <string name="search_in_title">Search in title</string>
     <string name="search_in_title_and_article">Search in title and article</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
@@ -1256,7 +1243,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="when_pressing_an_episode_in_list">When pressing an episode in list</string>
@@ -1287,4 +1273,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

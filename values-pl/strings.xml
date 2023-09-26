@@ -344,16 +344,12 @@
     <string name="start_playing">Rozpocznij odtwarzanie</string>
     <string name="display_episode_artwork">Wyświetlaj grafikę podcastu</string>
     <string name="ringtone">Dzwonek</string>
-    <string name="vibrate">Wibracje</string>
-    <string name="light">Dioda</string>
     <string name="remove_all">Usuń wszystko</string>
     <string name="new_episode_notification">Powiadomienia o nowych odcinkach</string>
     <string name="download_on_charging">Pobieraj tylko podczas ładowania</string>
     <string name="start_downloading_only_when_battery_is_charging">Pobieraj tylko podczas ładowania baterii</string>
     <string name="add_a_youtube_podcast">Dodaj podcast YouTube</string>
     <string name="channels">Kanały</string>
-    <string name="channel_id">ID kanału</string>
-    <string name="playlist_id">ID playlisty</string>
     <string name="when_deleting_an_episode">Kiedy skasuję odcinek</string>
     <string name="also_remove_from_downloads_amp_playlists">Usuń także z pobranych i playlist</string>
     <string name="remove_episode_only">Tylko usuń odcinek</string>
@@ -474,7 +470,6 @@
     <string name="no_podcasts_selected">Nie wybrano podcastu</string>
     <string name="enjoy_podcast_republic">Lubisz Podcast Republic?</string>
     <string name="select_an_image_on_device">Wskaż grafikę na urządzeniu</string>
-    <string name="youtube_type">Typ YouTube</string>
     <string name="scanning_">Skanowanie…</string>
     <string name="playback_speed">Prędkość odtwarzania</string>
     <string name="keep_playing">Odtwarzaj normalnie</string>
@@ -529,7 +524,6 @@
     <string name="sensitivity">Czułość</string>
     <string name="gestures">Gesty</string>
     <string name="user_agreement">Umowa użytkownika</string>
-    <string name="multi_thread_download">Pobieranie równoczesne</string>
     <string name="recents">Ostatnie</string>
     <string name="group_by_podcasts">Grupuj według podcastów</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Gdy odcinek dodawany jest do playlisty, dodaj do następujących playlist</string>
@@ -601,8 +595,6 @@
     <string name="maybe_later">Może później</string>
     <string name="sign_up">Zarejestruj się</string>
     <string name="download_state_idle">Poczekaj na pobranie pliku</string>
-    <string name="download_state_fetching_url">Szukam danych do pobrania</string>
-    <string name="download_state_connecting">Łączenie</string>
     <string name="download_state_downloading">Pobieranie</string>
     <string name="download_state_completed">Zakończone</string>
     <string name="download_state_paused_network_unavailable">Wstrzymane: czekam na sieć</string>
@@ -858,9 +850,6 @@
     <string name="review_submitted_">"Przesłano recenzję."</string>
     <string name="add_radio_stations">"Dodaj stacje radiowe"</string>
     <string name="radio_station">"Stacja radiowa"</string>
-    <string name="view_your_podcast_subscriptions">"Wyświetl subskrypcje podcastów"</string>
-    <string name="view_your_radio_subscriptions">"Wyświetl swoje subskrypcje radiowe"</string>
-    <string name="view_your_rss_feed_subscriptions">"Wyświetl subskrypcje kanałów RSS"</string>
     <string name="there_are_no_unplayed_episodes_">"Brak nieodtworzonych odcinków!"</string>
     <string name="there_are_no_played_episodes_">"Brak odtworzonych odcinków!"</string>
     <string name="there_are_no_favorite_episodes_">"Brak ulubionych odcinków!"</string>
@@ -1164,8 +1153,6 @@
     <string name="search_in_title">Search in title</string>
     <string name="search_in_title_and_article">Search in title and article</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
@@ -1260,7 +1247,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
@@ -1290,4 +1276,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

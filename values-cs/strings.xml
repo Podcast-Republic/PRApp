@@ -345,8 +345,6 @@
     <string name="start_playing">"Vždy spustit přehrávání"</string>
     <string name="display_episode_artwork">"Ukázat obrázek epizody"</string>
     <string name="ringtone">"Vyzvánění"</string>
-    <string name="vibrate">"Vibrovat"</string>
-    <string name="light">"LED světlo"</string>
     <string name="history">"Historie"</string>
     <string name="remove_all">"Odstranit všechny"</string>
     <string name="new_episode_notification">"Oznámení o nové epizodě"</string>
@@ -354,8 +352,6 @@
     <string name="start_downloading_only_when_battery_is_charging">"Začít stahovat pouze při nabíjení"</string>
     <string name="add_a_youtube_podcast">"Přidat YouTube podcast"</string>
     <string name="channels">"Kanály"</string>
-    <string name="channel_id">"ID kanálu"</string>
-    <string name="playlist_id">"ID seznamu"</string>
     <string name="when_deleting_an_episode">"Při odstranění epizody"</string>
     <string name="also_remove_from_downloads_amp_playlists">"Odstranit také ze stažených a seznamů"</string>
     <string name="remove_episode_only">"Odstranit pouze epizodu"</string>
@@ -475,7 +471,6 @@
     <string name="no_podcasts_selected">"Žádné podcasty nevybrány!"</string>
     <string name="enjoy_podcast_republic">"Líbí se vám Podcast Republic?"</string>
     <string name="select_an_image_on_device">"Vyberte obrázek v zařízení"</string>
-    <string name="youtube_type">"Typ YouTube"</string>
     <string name="scanning_">"Hledám…"</string>
     <string name="playback_speed">"Rychlost přehrávání"</string>
     <string name="keep_playing">"Pokračovat v normálním přehrávání"</string>
@@ -530,7 +525,6 @@
     <string name="sensitivity">"Citlivost"</string>
     <string name="gestures">"Gesta"</string>
     <string name="user_agreement">"Uživatelská smlouva"</string>
-    <string name="multi_thread_download">"Vícevláknové stahování"</string>
     <string name="recents">"Nedávno"</string>
     <string name="group_by_podcasts">"Sloučit podle podcastů"</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Při přidávání epizody do seznamu přidat do následujících seznamů"</string>
@@ -602,8 +596,6 @@
     <string name="maybe_later">"Možná později"</string>
     <string name="sign_up">"Přihlásit se"</string>
     <string name="download_state_idle">"Čeká se začátek stahování"</string>
-    <string name="download_state_fetching_url">"Hledají se zdroje ke stahování"</string>
-    <string name="download_state_connecting">"Připojuji"</string>
     <string name="download_state_downloading">"Stahuji"</string>
     <string name="download_state_completed">"Dokončeno"</string>
     <string name="download_state_paused_network_unavailable">"Pozastaveno: čekám na síť"</string>
@@ -856,9 +848,6 @@
     <string name="review_submitted_">"Recenze odeslána."</string>
     <string name="add_radio_stations">"Přidat rozhlasové stanice"</string>
     <string name="radio_station">"Rozhlasová stanice"</string>
-    <string name="view_your_podcast_subscriptions">"Zobrazit odběry podcastu"</string>
-    <string name="view_your_radio_subscriptions">"Zobrazit odebírané stanice"</string>
-    <string name="view_your_rss_feed_subscriptions">"Zobrazit odběry RSS kanálů"</string>
     <string name="there_are_no_unplayed_episodes_">"Neexistují žádné nepřehrané epizody!"</string>
     <string name="there_are_no_played_episodes_">"Neexistují žádné přehrané epizody!"</string>
     <string name="there_are_no_favorite_episodes_">"Neexistují žádné oblíbené epizody!"</string>
@@ -882,8 +871,6 @@
     <string name="article_url">"URL článku"</string>
     <string name="summary">"souhrn"</string>
     <string name="download_state_paused_battery_low">"Pozastaveno: vybitá baterie"</string>
-    <string name="select_episodes_with_duration_greater_than_d_minutes">"Vyberte epizody delší než %d minut"</string>
-    <string name="select_episodes_with_duration_less_than_d_minutes">"Vyberte epizody kratší než %d minut"</string>
     <string name="short_time_unit_format_minute">"Min"</string>
     <string name="hold_down_to_start_dragging">"Podržením začnete přetahovat"</string>
     <string name="swipe_right_action">"Akce přejetí doprava"</string>
@@ -1161,8 +1148,6 @@
     <string name="search_in_title">Hledat v názvu</string>
     <string name="search_in_title_and_article">Hledejte v názvu a článku</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Najděte zvýrazněný text jako ID kanálu.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Vyhledat zvýrazněný text jako ID seznamu videí.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Žádné Wi-Fi – aktualizovat podcast jednou pomocí mobilních dat?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Vyberte epizody s délkou mezi %1$d a %2$d minutami.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Vyberte epizody s délkou kratší než %1$d minut nebo delší než %2$d minut.</string>
@@ -1257,7 +1242,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
@@ -1287,4 +1271,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

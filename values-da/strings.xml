@@ -347,8 +347,6 @@
     <string name="start_playing">"Start altid afspilning"</string>
     <string name="display_episode_artwork">"Vis podcastbilleder"</string>
     <string name="ringtone">"Ringetone"</string>
-    <string name="vibrate">"Vibrer"</string>
-    <string name="light">"LED-lys"</string>
     <string name="history">"Historik"</string>
     <string name="remove_all">"Fjern alle"</string>
     <string name="new_episode_notification">"Notifikation om ny afsnit"</string>
@@ -356,8 +354,6 @@
     <string name="start_downloading_only_when_battery_is_charging">"Download kun når enheden oplades"</string>
     <string name="add_a_youtube_podcast">"Tilføj YouTube-podcast"</string>
     <string name="channels">"Kanaler"</string>
-    <string name="channel_id">"Kanal-id"</string>
-    <string name="playlist_id">"Playliste-id"</string>
     <string name="when_deleting_an_episode">"Når du sletter et afsnit"</string>
     <string name="also_remove_from_downloads_amp_playlists">"Fjern også fra Downloads og Playlister"</string>
     <string name="remove_episode_only">"Fjern kun episoden"</string>
@@ -477,7 +473,6 @@
     <string name="no_podcasts_selected">"Ingen valgte podcasts"</string>
     <string name="enjoy_podcast_republic">"Synes du om Podcast Republic?"</string>
     <string name="select_an_image_on_device">"Vælg billede på enheden"</string>
-    <string name="youtube_type">"YouTube-type"</string>
     <string name="scanning_">"Scanner …"</string>
     <string name="playback_speed">"Afspilningshastighed"</string>
     <string name="keep_playing">"Fortsæt med at spille som normalt"</string>
@@ -532,7 +527,6 @@
     <string name="sensitivity">"Følsomhed"</string>
     <string name="gestures">"Bevægelser"</string>
     <string name="user_agreement">"Brugeraftale"</string>
-    <string name="multi_thread_download">"Tillad flere samtidige downloads"</string>
     <string name="recents">"Seneste"</string>
     <string name="group_by_podcasts">"Gruppér efter podcasts"</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Tilføj afsnit til følgende playlister"</string>
@@ -604,8 +598,6 @@
     <string name="maybe_later">"Måske senere"</string>
     <string name="sign_up">"Tilmeld"</string>
     <string name="download_state_idle">"Venter på download"</string>
-    <string name="download_state_fetching_url">"Opstarter download"</string>
-    <string name="download_state_connecting">"Opretter forbindelse"</string>
     <string name="download_state_downloading">"Downloader"</string>
     <string name="download_state_completed">"Færdig"</string>
     <string name="download_state_paused_network_unavailable">"Pause: Venter på netværk"</string>
@@ -857,9 +849,6 @@
     <string name="review_submitted_">"Anmeldelse indsendt."</string>
     <string name="add_radio_stations">"Tilføj radiostationer"</string>
     <string name="radio_station">"Radiostation"</string>
-    <string name="view_your_podcast_subscriptions">"Vis dine podcastabonnementer"</string>
-    <string name="view_your_radio_subscriptions">"Vis dine radioabonnementer"</string>
-    <string name="view_your_rss_feed_subscriptions">"Vis dine RSS-feed-abonnementer"</string>
     <string name="there_are_no_unplayed_episodes_">"Der er ingen uafspillede afsnit"</string>
     <string name="there_are_no_played_episodes_">"Der er ingen afspillede afsnit"</string>
     <string name="there_are_no_favorite_episodes_">"Der er ingen favoritafsnit"</string>
@@ -1161,8 +1150,6 @@
     <string name="search_in_title">Search in title</string>
     <string name="search_in_title_and_article">Search in title and article</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
@@ -1257,7 +1244,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
@@ -1287,4 +1273,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

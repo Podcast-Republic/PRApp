@@ -346,8 +346,6 @@
     <string name="start_playing">"تبدأ التشغيل دائما"</string>
     <string name="display_episode_artwork">"عرض الصورة التعبيرية للحلقة"</string>
     <string name="ringtone">"النغمة"</string>
-    <string name="vibrate">"هزاز"</string>
-    <string name="light">"ضوء ال اي دي"</string>
     <string name="history">"المحفوظات السابقة"</string>
     <string name="remove_all">"إزالة الكل"</string>
     <string name="new_episode_notification">"اشعار حلقة جديدة"</string>
@@ -355,8 +353,6 @@
     <string name="start_downloading_only_when_battery_is_charging">"بدء التنزيل فقط عندما يتم شحن البطارية"</string>
     <string name="add_a_youtube_podcast">"إضافة يوتيوب بودكاست"</string>
     <string name="channels">"القنوات"</string>
-    <string name="channel_id">"معرف القناة"</string>
-    <string name="playlist_id">"معرف قائمة التشغيل"</string>
     <string name="when_deleting_an_episode">"عندما يتم حذف حلقة"</string>
     <string name="also_remove_from_downloads_amp_playlists">"أيضا إزالة من التنزيلات وقوائم التشغيل"</string>
     <string name="remove_episode_only">"إزالة حلقة فقط"</string>
@@ -476,7 +472,6 @@
     <string name="no_podcasts_selected">"لم يتم تحديد أي بودكاست"</string>
     <string name="enjoy_podcast_republic">"هل تستمتع بتطبيق البودكاست ريبابلك؟"</string>
     <string name="select_an_image_on_device">"اختر الصورة من الجهاز"</string>
-    <string name="youtube_type">"نوع يوتيوب"</string>
     <string name="scanning_">"جار المسح …"</string>
     <string name="playback_speed">"سرعة التشغيل"</string>
     <string name="keep_playing">"الاستمرار في التشغيل بشكل طبيعي"</string>
@@ -531,7 +526,6 @@
     <string name="sensitivity">الحساسية</string>
     <string name="gestures">الحركات</string>
     <string name="user_agreement"> اتفاقية المستحدم</string>
-    <string name="multi_thread_download"> تنزيل متعدد متزامن</string>
     <string name="recents">حديث</string>
     <string name="group_by_podcasts"> التصنيف حسب البودكاست</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist"> اضف لقائمة التشغيل القياسيسة</string>
@@ -603,8 +597,6 @@
     <string name="maybe_later">Maybe later</string>
     <string name="sign_up">Sign up</string>
     <string name="download_state_idle">"في انتظار بدء التنزيل"</string>
-    <string name="download_state_fetching_url">"البحث عن روابط التنزيل"</string>
-    <string name="download_state_connecting">"يتم الآن الاتصال"</string>
     <string name="download_state_downloading">"يتم الأن التنزيل"</string>
     <string name="download_state_completed">"انتهى"</string>
     <string name="download_state_paused_network_unavailable">"متوقف: في انتظار الشبكة"</string>
@@ -857,9 +849,6 @@
     <string name="review_submitted_">Review submitted.</string>
     <string name="add_radio_stations">Add radio stations</string>
     <string name="radio_station">Radio station</string>
-    <string name="view_your_podcast_subscriptions">View your podcast subscriptions</string>
-    <string name="view_your_radio_subscriptions">View your radio subscriptions</string>
-    <string name="view_your_rss_feed_subscriptions">View your RSS feed subscriptions</string>
     <string name="there_are_no_unplayed_episodes_">There are no unplayed episodes!</string>
     <string name="there_are_no_played_episodes_">There are no played episodes!</string>
     <string name="there_are_no_favorite_episodes_">There are no favorite episodes!</string>
@@ -1160,8 +1149,6 @@
     <string name="search_in_title">Search in title</string>
     <string name="search_in_title_and_article">Search in title and article</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Find highlighted text as channel ID.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Find highlighted text as playlist ID.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">No Wi-Fi - Update podcast once with mobile data?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Select episodes with duration between %1$d and %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Select episodes with duration less than %1$d minutes or greater than %2$d minutes.</string>
@@ -1256,7 +1243,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
@@ -1286,4 +1272,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

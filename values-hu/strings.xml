@@ -346,8 +346,6 @@
     <string name="start_playing">Kezdje el a lejátszást</string>
     <string name="display_episode_artwork">Borítókép megjelenítése</string>
     <string name="ringtone">Csengőhang</string>
-    <string name="vibrate">Rezgés</string>
-    <string name="light">LED világítás</string>
     <string name="history">Előzmények</string>
     <string name="remove_all">Összes eltávolítása</string>
     <string name="new_episode_notification">Értesítés új epizód esetén</string>
@@ -355,8 +353,6 @@
     <string name="start_downloading_only_when_battery_is_charging">Csak akkor kezdjen el letölteni, ha az akkumulátor töltődik</string>
     <string name="add_a_youtube_podcast">YouTube podcast hozzáadása</string>
     <string name="channels">Csatornák</string>
-    <string name="channel_id">Csatorna ID</string>
-    <string name="playlist_id">Lista azonosítója (ID)</string>
     <string name="when_deleting_an_episode">Amikor töröl egy epizódot</string>
     <string name="also_remove_from_downloads_amp_playlists">Törölje a Letöltések közül és Lejátszólistákból is</string>
     <string name="remove_episode_only">Csak az epizód törlése</string>
@@ -476,7 +472,6 @@
     <string name="no_podcasts_selected">Nincs kiválasztott podcast</string>
     <string name="enjoy_podcast_republic">Tetszik a Podcast Republic?</string>
     <string name="select_an_image_on_device">Válasszon képet a készülékéről</string>
-    <string name="youtube_type">YouTube típus</string>
     <string name="scanning_">Átvizsgálás…</string>
     <string name="playback_speed">Lejátszási sebesség</string>
     <string name="keep_playing">Folyamatos lejátszás, normál mód</string>
@@ -531,7 +526,6 @@
     <string name="sensitivity">Érzékenység</string>
     <string name="gestures">Kézmozdulatok</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
-    <string name="multi_thread_download">Többszálú letöltés</string>
     <string name="recents">Utóbbiak</string>
     <string name="group_by_podcasts">Csoportosítás podcastok alapján</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Adja hozzá a megadott lejátszólistákhoz, amikor hozzáad egy epizódot egy lejátszólistához</string>
@@ -603,8 +597,6 @@
     <string name="maybe_later">Talán később</string>
     <string name="sign_up">Regisztráció</string>
     <string name="download_state_idle">Várakozás a letöltés megkezdésére</string>
-    <string name="download_state_fetching_url">Források keresése a letöltéshez</string>
-    <string name="download_state_connecting">Kapcsolódás…</string>
     <string name="download_state_downloading">Letöltés…</string>
     <string name="download_state_completed">Kész.</string>
     <string name="download_state_paused_network_unavailable">Szünet: várakozás a hálózatra.</string>
@@ -860,9 +852,6 @@
     <string name="review_submitted_">Vélemény beküldve.</string>
     <string name="add_radio_stations">Rádióállomások hozzáadása</string>
     <string name="radio_station">Rádióállomás</string>
-    <string name="view_your_podcast_subscriptions">Podcast-előfizetések megtekintése</string>
-    <string name="view_your_radio_subscriptions">Rádió-előfizetések megtekintése</string>
-    <string name="view_your_rss_feed_subscriptions">RSS hírcsatorna-előfizetések megtekintése</string>
     <string name="there_are_no_unplayed_episodes_">Nincsenek lejátszatlan epizódok!</string>
     <string name="there_are_no_played_episodes_">Nincsenek lejátszott epizódok!</string>
     <string name="there_are_no_favorite_episodes_">Nincsenek kedvenc epizódok!</string>
@@ -1163,8 +1152,6 @@
     <string name="search_in_title">Keresés a címben</string>
     <string name="search_in_title_and_article">Keresés a címben és a cikkben</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Kiemelt szöveg keresése csatorna azonosítóként.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Kiemelt szöveg keresése lejátszólista azonosítójaként.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Nincs Wi-Fi - Podcast frissítése csak most mobiladatokkal?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Válassza ki a %1$d és %2$d perc közötti időtartamú epizódokat.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Válassza ki a %1$d percnél rövidebb vagy %2$d percnél hosszabb epizódokat.</string>
@@ -1259,7 +1246,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">A [%1$s] cikk előtt megjelent összes cikk megjelölése nem olvasottnak?</string>
     <string name="show_empty_podcasts">Meghallgatott podcastok megjelenítése</string>
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
-    <string name="login_failed">Sikertelen bejelentkezés</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
@@ -1279,7 +1265,7 @@
     <string name="enter_youtube_url">YouTube link</string>
     <string name="examples_of_youtube_url">Példa YouTube link</string>
     <string name="allow_explicit_episodes">Szókimondó tartalmak engedélyezése</string>
-    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Engedélyezi a szókimondó (explicit) tartalmú epizódok hozzáadását a lejátszási listához</string>
+    <string name="allow_to_add_explicit_episodes_to_the_playlist_">Engedélyezi a szókimondó (explicit) tartalmú epizódok hozzáadását a lejátszási listához.</string>
     <string name="feed_priority">Hírcsatorna prioritás</string>
     <string name="delete_all_articles">Összes cikk törlése</string>
     <string name="do_you_like_to_interact_with_this_app_through_the_notification_">Szeretne interakcióba lépni az alkalmazással az értesítésen keresztül?</string>
@@ -1289,4 +1275,8 @@
     <string name="maximum_playback_speed_limit">Maximális lejátszási sebesség korlát</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Korlátozhatja a maximális lejátszási sebességet %s értékre, ha Android Auto rendszerhez csatlakozik</string>
     <string name="view_podcast_description">Podcast leírás megtekintése</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

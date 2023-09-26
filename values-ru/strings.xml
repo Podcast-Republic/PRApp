@@ -344,8 +344,6 @@
     <string name="start_playing">Всегда начинать воспроизведение</string>
     <string name="display_episode_artwork">Показывать обложку выпуска</string>
     <string name="ringtone">Рингтон</string>
-    <string name="vibrate">Вибрация</string>
-    <string name="light">LED подсветка</string>
     <string name="history">История</string>
     <string name="remove_all">Удалить всё</string>
     <string name="new_episode_notification">Уведомление о новом выпуске</string>
@@ -353,8 +351,6 @@
     <string name="start_downloading_only_when_battery_is_charging">Скачивать только на зарядке</string>
     <string name="add_a_youtube_podcast">Добавить подкаст из YouTube</string>
     <string name="channels">Каналы</string>
-    <string name="channel_id">ID канала</string>
-    <string name="playlist_id">ID плейлиста</string>
     <string name="when_deleting_an_episode">При удалении выпуска</string>
     <string name="also_remove_from_downloads_amp_playlists">Также удалять из загрузок и плейлистов</string>
     <string name="remove_episode_only">Удалять только выпуск</string>
@@ -473,7 +469,6 @@
     <string name="no_podcasts_selected">Подкасты не выбраны!</string>
     <string name="enjoy_podcast_republic">Нравится приложение?</string>
     <string name="select_an_image_on_device">Выбрать изображение на устройстве</string>
-    <string name="youtube_type">YouTube</string>
     <string name="scanning_">Поиск…</string>
     <string name="playback_speed">Скорость воспроизведения</string>
     <string name="keep_playing">Продолжать воспроизведение</string>
@@ -529,7 +524,6 @@
     <string name="sensitivity">Чувствительность</string>
     <string name="gestures">Жесты</string>
     <string name="user_agreement">Пользовательское соглашение</string>
-    <string name="multi_thread_download">Многопоточное скачивание</string>
     <string name="recents">Новое</string>
     <string name="group_by_podcasts">Группировать по подкастам</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Плейлист по умолчанию</string>
@@ -599,8 +593,6 @@
     <string name="maybe_later">"Может позже"</string>
     <string name="sign_up">"Зарегистрироваться"</string>
     <string name="download_state_idle">" Ожидание загрузки"</string>
-    <string name="download_state_fetching_url">" Поиск ресурсов"</string>
-    <string name="download_state_connecting">"Подключение"</string>
     <string name="download_state_downloading">"Загрузка"</string>
     <string name="download_state_completed">"Загрузка выполнена"</string>
     <string name="download_state_paused_network_unavailable">" Сеть недоступна"</string>
@@ -855,9 +847,6 @@
     <string name="review_submitted_">Отзыв отправлен.</string>
     <string name="add_radio_stations">Добавить радиостанции</string>
     <string name="radio_station">Радиостанция</string>
-    <string name="view_your_podcast_subscriptions">Просмотр ваших подписок на подкасты</string>
-    <string name="view_your_radio_subscriptions">Просмотр ваших подписок на радио</string>
-    <string name="view_your_rss_feed_subscriptions">Просмотр ваших подписок на RSS-ленты</string>
     <string name="there_are_no_unplayed_episodes_">Здесь нет непрослушанных выпусков!</string>
     <string name="there_are_no_played_episodes_">Здесь нет прослушанных выпусков!</string>
     <string name="there_are_no_favorite_episodes_">Здесь нет избранных выпусков!</string>
@@ -1157,8 +1146,6 @@
     <string name="preview_notes">Предпросмотр заметок</string>
     <string name="preview_user_notes_in_list">Предпросмотр пользовательских заметок в списке.</string>
     <string name="reverse_landscape_screen_display_mode">Альбомная перевернутая</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Найти выделенный текст в качестве идентификатора канала.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Найти выделенный текст в качестве идентификатора плейлиста.</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Выбрать выпуски продолжительностью от %1$d до %2$d минут.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Выбрать выпуски продолжительностью менее %1$d или более %2$d минут.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Нет Wi-Fi подключения - Хотите обновить подкаст с помощью мобильного подключения единоразово?</string>
@@ -1255,7 +1242,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Отметить все статьи, опубликованные до этой статьи [%1$s], как непрочитанные?</string>
     <string name="show_empty_podcasts">Показать пустые подкасты</string>
     <string name="show_empty_feeds">Показать пустые фиды</string>
-    <string name="login_failed">Ошибка входа</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Выберите предпочитаемый язык для использования в приложении.</string>
     <string name="term_and_privacy_policy">"Условия и политика конфиденциальности"</string>
     <string name="import_from_opml_file_failed_s">Не удалось импортировать из файла OPML: %1$s.</string>
@@ -1285,4 +1271,8 @@
     <string name="maximum_playback_speed_limit">Ограничение максимальной скорости воспроизведения</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Ограничить максимальную скорость воспроизведения до %s при подключении Android Auto.</string>
     <string name="view_podcast_description">Показать описание Подкаста</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

@@ -352,8 +352,6 @@
     <string name="start_playing">Začni predvajanje</string>
     <string name="display_episode_artwork">Prikaži grafično pododbo epizode</string>
     <string name="ringtone">Zvonenje</string>
-    <string name="vibrate">Vibriraj</string>
-    <string name="light">LED svetloba</string>
     <string name="history">Zgodovina</string>
     <string name="remove_all">Odstrani vse</string>
     <string name="new_episode_notification">Obvestilo nove epizode</string>
@@ -361,8 +359,6 @@
     <string name="start_downloading_only_when_battery_is_charging">Začni prenašanje samo med polnjenjem baterije.</string>
     <string name="add_a_youtube_podcast">Dodaj YouTube podkast</string>
     <string name="channels">Kanali</string>
-    <string name="channel_id">ID kanala</string>
-    <string name="playlist_id">ID Seznama</string>
     <string name="when_deleting_an_episode">Ob izbrisu epizode</string>
     <string name="also_remove_from_downloads_amp_playlists">Odstrani tudi iz prenosov &amp; seznamov.</string>
     <string name="remove_episode_only">Odstrani samo epizode</string>
@@ -481,7 +477,6 @@
     <string name="no_podcasts_selected">Noben podkast ni izbran!</string>
     <string name="enjoy_podcast_republic">Uživaj ob uporabi aplikacije Podcast Republic?</string>
     <string name="select_an_image_on_device">Izberi podobo na napravi</string>
-    <string name="youtube_type">YouTube Type</string>
     <string name="scanning_">Skeniram…</string>
     <string name="playback_speed">Hitrost predvajanja</string>
     <string name="keep_playing">Nadaljuj predvajanje</string>
@@ -537,7 +532,6 @@
     <string name="sensitivity">Občutljivost</string>
     <string name="gestures">Kretnje</string>
     <string name="user_agreement">Uporabniška pogodba</string>
-    <string name="multi_thread_download">Vzporedni prenosi</string>
     <string name="recents">Nedavno</string>
     <string name="group_by_podcasts">Razoredi podkaste</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">Ko dodaš epizodo seznamu, dodaj tudi sledečim seznamom</string>
@@ -607,8 +601,6 @@
     <string name="maybe_later">Mogoče kasneje</string>
     <string name="sign_up">Prijavi se</string>
     <string name="download_state_idle">Čakam začetek prenosa.</string>
-    <string name="download_state_fetching_url">Iščem vire za prenos.</string>
-    <string name="download_state_connecting">Povezujem</string>
     <string name="download_state_downloading">Prenašam</string>
     <string name="download_state_completed">Končano</string>
     <string name="download_state_paused_network_unavailable">Začasno ustavljeno: čakam omrežje.</string>
@@ -866,9 +858,6 @@
     <string name="review_submitted_">Ocena poslana.</string>
     <string name="add_radio_stations">Dodaj radijske postaje</string>
     <string name="radio_station">Radijska postaja</string>
-    <string name="view_your_podcast_subscriptions">Poglejte svoje naročnine na podkaste</string>
-    <string name="view_your_radio_subscriptions">Poglejte svoje naročnine na radijske postaje</string>
-    <string name="view_your_rss_feed_subscriptions">Poglejte svoje naročnine na RSS vire</string>
     <string name="there_are_no_unplayed_episodes_">Ni nepredvajanih epizod!</string>
     <string name="there_are_no_played_episodes_">Ni predvajanih epizod!</string>
     <string name="there_are_no_favorite_episodes_">Ni priljubljenih epizod!</string>
@@ -1162,8 +1151,6 @@
     <string name="search_in_title">Išči v naslovih</string>
     <string name="search_in_title_and_article">Išči v naslovih in člankih</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Najdi označeno besedilo kot ID kanala.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Najdi označeno besedilo kot ID seznama predvajanja.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Ni Wi-Fi-ja - Posodobim podkast tokrat preko podatkovne povezave?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Izberi epizode, ki trajajo med %1$d in %2$d minutami.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Izberi epizode, ki trajajo manj od %1$d minut ali več od %2$d minut.</string>
@@ -1258,7 +1245,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
@@ -1288,4 +1274,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

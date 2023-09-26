@@ -346,8 +346,6 @@
     <string name="start_playing">"Одразу почати відтворення"</string>
     <string name="display_episode_artwork">"Показувати обкладинку епізоду"</string>
     <string name="ringtone">"Рінгтон"</string>
-    <string name="vibrate">"Вібрація"</string>
-    <string name="light">"Світлодіодне сповіщення"</string>
     <string name="history">"Історія"</string>
     <string name="remove_all">"Видалити всі"</string>
     <string name="new_episode_notification">"Сповіщення про нові епізоди"</string>
@@ -355,8 +353,6 @@
     <string name="start_downloading_only_when_battery_is_charging">"Почати завантаження лише коли апарат знаходиться на зарядці"</string>
     <string name="add_a_youtube_podcast">"Додати YouTube-подкаст"</string>
     <string name="channels">"Канали"</string>
-    <string name="channel_id">"ID каналу"</string>
-    <string name="playlist_id">"ID плейлиста"</string>
     <string name="when_deleting_an_episode">"При видаленні епізоду"</string>
     <string name="also_remove_from_downloads_amp_playlists">"Також видалити із завантажень і списків відтворення"</string>
     <string name="remove_episode_only">"Лише видалити епізод"</string>
@@ -476,7 +472,6 @@
     <string name="no_podcasts_selected">"Не вибрано жодного подкасту"</string>
     <string name="enjoy_podcast_republic">"Подобається Podcast Republic?"</string>
     <string name="select_an_image_on_device">"Виберіть зображення на пристрої"</string>
-    <string name="youtube_type">"Тип YouTube-контенту"</string>
     <string name="scanning_">"Сканування…"</string>
     <string name="playback_speed">"Швидкість відтворення"</string>
     <string name="keep_playing">"Продовжувати відтворення без змін"</string>
@@ -531,7 +526,6 @@
     <string name="sensitivity">"Чутливість"</string>
     <string name="gestures">"Жести"</string>
     <string name="user_agreement">"Угода з Користувачами"</string>
-    <string name="multi_thread_download">"Багатопотокове завантаження"</string>
     <string name="recents">"Останні"</string>
     <string name="group_by_podcasts">"Групувати за подкастами"</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Вибрати плейлисти, до яких епізоди цього подкасту будуть додані при використанні функції «Додати в плейлист»"</string>
@@ -603,8 +597,6 @@
     <string name="maybe_later">"Можливо пізніше"</string>
     <string name="sign_up">"Зареєструватися"</string>
     <string name="download_state_idle">"Очікую початку завантаження"</string>
-    <string name="download_state_fetching_url">"Шукаю ресурси для завантаження"</string>
-    <string name="download_state_connecting">"Підключення…"</string>
     <string name="download_state_downloading">"Триває завантаження"</string>
     <string name="download_state_completed">"Завершено!"</string>
     <string name="download_state_paused_network_unavailable">"Призупинено: очікування мережі"</string>
@@ -857,9 +849,6 @@
     <string name="review_submitted_">Відгук надіслано.</string>
     <string name="add_radio_stations">Додати радіостанції</string>
     <string name="radio_station">Радіостанція</string>
-    <string name="view_your_podcast_subscriptions">Переглянути свої підписки на подкасти</string>
-    <string name="view_your_radio_subscriptions">Переглянути свої підписки на радіо</string>
-    <string name="view_your_rss_feed_subscriptions">Переглянути ваші підписки на RSS-канали</string>
     <string name="there_are_no_unplayed_episodes_">Немає непрослуханих епізодів!</string>
     <string name="there_are_no_played_episodes_">Немає прослуханих епізодів!</string>
     <string name="there_are_no_favorite_episodes_">Немає улюбених епізодів!</string>
@@ -1160,8 +1149,6 @@
     <string name="search_in_title">Пошук за назвою</string>
     <string name="search_in_title_and_article">Пошук у назві та змісті статті</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Пошук виділеного тексту як ідентифікатора каналу.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Пошук виділеного тексту як ідентифікатора списку відтворення.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Відсутній Wi-Fi. Оновити подкаст через мобільний інтернет один раз?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Вибрати епізоди тривалістю від %1$d до %2$d хвилин</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Вибрати епізоди тривалістю коротше %1$d хвилин або довше ніж %2$d хвилин</string>
@@ -1256,7 +1243,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Позначити всі статті, опубліковані до цієї статті (%1$s), як непрочитані?</string>
     <string name="show_empty_podcasts">Показати порожні подкасти</string>
     <string name="show_empty_feeds">Показати порожні канали</string>
-    <string name="login_failed">Не вдалося увійти</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Виберіть мову, що буде використовуватись в програмі.</string>
     <string name="term_and_privacy_policy">"Терміни та політика конфіденційності"</string>
     <string name="import_from_opml_file_failed_s">Імпорт з OPML-файлу не вдався: %1$s.</string>
@@ -1286,4 +1272,8 @@
     <string name="maximum_playback_speed_limit">Обмеження максимальної швидкості відтворення</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Обмежити максимальну швидкість відтворення до %s при підключенні до Android Auto.</string>
     <string name="view_podcast_description">Переглянути опис подкасту</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

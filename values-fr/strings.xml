@@ -350,16 +350,12 @@
     <string name="start_playing">Toujours commencer à jouer</string>
     <string name="display_episode_artwork">"Afficher l'illustration de l'épisode"</string>
     <string name="ringtone">Sonnerie</string>
-    <string name="vibrate">Vibrer</string>
-    <string name="light">LED</string>
     <string name="remove_all">Tout supprimer</string>
     <string name="new_episode_notification">"Notification d'un nouvel épisode"</string>
     <string name="download_on_charging">Téléchargement pendant la charge</string>
     <string name="start_downloading_only_when_battery_is_charging">Ne lancer le téléchargement que pendant la charge de la batterie</string>
     <string name="add_a_youtube_podcast">Ajouter un podcast YouTube</string>
     <string name="channels">Canaux</string>
-    <string name="channel_id">Id de canal</string>
-    <string name="playlist_id">ID de la liste de lecture</string>
     <string name="when_deleting_an_episode">Quand un épisode est supprimé</string>
     <string name="also_remove_from_downloads_amp_playlists">Le supprimer aussi des téléchargements &amp; listes de lecture</string>
     <string name="remove_episode_only">"Ne supprimer que l’épisode"</string>
@@ -480,7 +476,6 @@
     <string name="no_podcasts_selected">No podcast selected</string>
     <string name="enjoy_podcast_republic">Vous appréciez cette application ?</string>
     <string name="select_an_image_on_device">"Selectionner une image sur l'appareil"</string>
-    <string name="youtube_type">Type YouTube</string>
     <string name="scanning_">Balayage en cours …</string>
     <string name="playback_speed">Vitesse de lecture</string>
     <string name="keep_playing">Continuer à lire normalement</string>
@@ -535,7 +530,6 @@
     <string name="sensitivity">Sensibilité</string>
     <string name="gestures">Gestes</string>
     <string name="user_agreement">"Accord de l'utilisateur"</string>
-    <string name="multi_thread_download">Téléchargement multiple</string>
     <string name="recents">Récents</string>
     <string name="group_by_podcasts">Grouper par podcasts</string>
     <string name="add_to_the_following_playlists_when_adding_an_episode_to_a_playlist">"Quand un épisode est ajouté à une liste de lecture, l'ajouter aux listes suivantes"</string>
@@ -607,8 +601,6 @@
     <string name="maybe_later">Peut être plus tard</string>
     <string name="sign_up">"S'inscrire"</string>
     <string name="download_state_idle"> Attente de téléchargement pour commencer</string>
-    <string name="download_state_fetching_url"> Vous cherchez des ressources à télécharger</string>
-    <string name="download_state_connecting"> Connexion</string>
     <string name="download_state_downloading"> Téléchargement</string>
     <string name="download_state_completed"> Terminé</string>
     <string name="download_state_paused_network_unavailable"> Pause pour le réseau</string>
@@ -861,9 +853,6 @@
     <string name="review_submitted_">Soumis à examen.</string>
     <string name="add_radio_stations">Ajouter les stations de radio</string>
     <string name="radio_station">Station de radio</string>
-    <string name="view_your_podcast_subscriptions">Consulter vos abonnements podcast</string>
-    <string name="view_your_radio_subscriptions">Consulter vos abonnements radio</string>
-    <string name="view_your_rss_feed_subscriptions">Consulter vos abonnements flux RSS</string>
     <string name="there_are_no_unplayed_episodes_">"Il n'y a pas d'épisodes non lus !"</string>
     <string name="there_are_no_played_episodes_">"Il n'y a pas d'épisodes lus !"</string>
     <string name="there_are_no_favorite_episodes_">"Il n'y a pas d'épisodes favoris !"</string>
@@ -1167,8 +1156,6 @@
     <string name="search_in_title">Rechercher dans le titre</string>
     <string name="search_in_title_and_article">Recherche dans le titre et l\'article</string>
     <string name="youtube">YouTube</string>
-    <string name="find_highlighted_text_as_youtube_channel_id">Trouvez le texte en surbrillance comme identifiant de chaine.</string>
-    <string name="find_highlighted_text_as_youtube_playlist_id">Trouvez le texte en surbrillance comme identifiant de playlist.</string>
     <string name="no_wi_fi_update_podcast_once_with_mobile_data">Pas de Wi-Fi - Mettez à jour le podcast avec votre réseau mobiles?</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Sélectionnez des épisodes avec une durée entre %1$d et %2$d minutes.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Sélectionnez des épisodes avec une durée inférieure à %1$d minutes ou supérieure à %2$d minutes.</string>
@@ -1263,7 +1250,6 @@
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
-    <string name="login_failed">Login failed</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
     <string name="import_from_opml_file_failed_s">Import from OPML file failed: %1$s.</string>
@@ -1293,4 +1279,8 @@
     <string name="maximum_playback_speed_limit">Maximum playback speed limit</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Limit the maximum playback speed to %s when connected to Android Auto.</string>
     <string name="view_podcast_description">View podcast description</string>
+    <string name="restart_from_the_beginning">Restart from the beginning</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
+    <string name="use_system_theme">Use system theme</string>
+    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
 </resources>

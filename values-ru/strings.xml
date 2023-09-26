@@ -1271,8 +1271,8 @@
     <string name="maximum_playback_speed_limit">Ограничение максимальной скорости воспроизведения</string>
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Ограничить максимальную скорость воспроизведения до %s при подключении Android Auto.</string>
     <string name="view_podcast_description">Показать описание Подкаста</string>
-    <string name="restart_from_the_beginning">Restart from the beginning</string>
-    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
-    <string name="use_system_theme">Use system theme</string>
-    <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
+    <string name="restart_from_the_beginning">Перезапустить с начала</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Начать воспроизведение заново, когда воспроизведно (100%) выпуска.</string>
+    <string name="use_system_theme">Использовать системную тему</string>
+    <string name="use_android_system_s_widget_theme_">Использовать системную тему Android для виджета.</string>
 </resources>

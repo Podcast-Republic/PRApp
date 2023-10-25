@@ -1278,5 +1278,5 @@
     <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Spustiť prehrávanie od začiatku pri prehrávaní už (100 %) prehranej epizódy.</string>
     <string name="use_system_theme">Použiť systémový motív</string>
     <string name="use_android_system_s_widget_theme_">Použiť motív miniaplikácie Androidu.</string>
-    <string name="show_button_labels">Show button labels</string>
+    <string name="show_button_labels">Zobraziť texty tlačidiel</string>
 </resources>

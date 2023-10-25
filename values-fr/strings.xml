@@ -1283,4 +1283,5 @@
     <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Start the playback from the beginning when playing an already (100%) played episode.</string>
     <string name="use_system_theme">Use system theme</string>
     <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
+    <string name="show_button_labels">Show button labels</string>
 </resources>

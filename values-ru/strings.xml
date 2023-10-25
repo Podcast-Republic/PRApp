@@ -1275,4 +1275,5 @@
     <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Начать воспроизведение заново, когда воспроизведно (100%) выпуска.</string>
     <string name="use_system_theme">Использовать системную тему</string>
     <string name="use_android_system_s_widget_theme_">Использовать системную тему Android для виджета.</string>
+    <string name="show_button_labels">Show button labels</string>
 </resources>

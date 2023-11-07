@@ -1280,5 +1280,5 @@
     <string name="use_system_theme">Rendszertéma használata</string>
     <string name="use_android_system_s_widget_theme_">Használja az Android rendszermodul (widget) témáját.</string>
     <string name="show_button_labels">Gombcímkék megjelenítése</string>
-    <string name="delete_from_playlist">Delete from playlist</string>
+    <string name="delete_from_playlist">Eltávolítás a lejátszólistából</string>
 </resources>

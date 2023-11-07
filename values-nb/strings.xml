@@ -1277,4 +1277,5 @@
     <string name="use_system_theme">Use system theme</string>
     <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
     <string name="show_button_labels">Show button labels</string>
+    <string name="delete_from_playlist">Delete from playlist</string>
 </resources>

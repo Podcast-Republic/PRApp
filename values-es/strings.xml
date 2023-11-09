@@ -1277,4 +1277,7 @@
     <string name="use_android_system_s_widget_theme_">Use Android system\'s widget theme.</string>
     <string name="show_button_labels">Show button labels</string>
     <string name="delete_from_playlist">Delete from playlist</string>
+    <string name="exclude_explicit_episodes">Exclude explicit episodes</string>
+    <string name="do_not_include_episodes_labeled_as_explicit">Do not include episodes labeled as explicit.</string>
+    <string name="discover">Descubrir</string>
 </resources>

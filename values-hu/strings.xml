@@ -1281,7 +1281,7 @@
     <string name="use_android_system_s_widget_theme_">Használja az Android rendszermodul (widget) témáját.</string>
     <string name="show_button_labels">Gombcímkék megjelenítése</string>
     <string name="delete_from_playlist">Eltávolítás a lejátszólistából</string>
-    <string name="exclude_explicit_episodes">Exclude explicit episodes</string>
-    <string name="do_not_include_episodes_labeled_as_explicit">Do not include episodes labeled as explicit.</string>
-    <string name="discover">Discover</string>
+    <string name="exclude_explicit_episodes">Szókimondó epizódok kizárása</string>
+    <string name="do_not_include_episodes_labeled_as_explicit">Ne tartalmazzon szókimondó (explicit) tartalmú epizódokat.</string>
+    <string name="discover">Felfedezés</string>
 </resources>

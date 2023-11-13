@@ -1285,4 +1285,5 @@
     <string name="exclude_explicit_episodes">Exclude explicit episodes</string>
     <string name="do_not_include_episodes_labeled_as_explicit">Do not include episodes labeled as explicit.</string>
     <string name="discover">Discover</string>
+    <string name="id3_tag_album_title">ID3 Tag (Album - Title)</string>
 </resources>

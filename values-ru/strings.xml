@@ -1275,10 +1275,10 @@
     <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Начать воспроизведение заново, когда воспроизведно (100%) выпуска.</string>
     <string name="use_system_theme">Использовать системную тему</string>
     <string name="use_android_system_s_widget_theme_">Использовать системную тему Android для виджета.</string>
-    <string name="show_button_labels">Show button labels</string>
-    <string name="delete_from_playlist">Delete from playlist</string>
-    <string name="exclude_explicit_episodes">Exclude explicit episodes</string>
-    <string name="do_not_include_episodes_labeled_as_explicit">Do not include episodes labeled as explicit.</string>
+    <string name="show_button_labels">Показать названия кнопок</string>
+    <string name="delete_from_playlist">Удалить из плейлиста</string>
+    <string name="exclude_explicit_episodes">Исключить откровенные выпуски</string>
+    <string name="do_not_include_episodes_labeled_as_explicit">Не добавлять выпуски помеченные как "Откровенные" (пиктограмма "E").</string>
     <string name="discover">Обнаружить</string>
     <string name="id3_tag_album_title">ID3 Tag (Album - Title)</string>
 </resources>

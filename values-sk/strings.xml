@@ -1283,5 +1283,5 @@
     <string name="exclude_explicit_episodes">Vylúčiť explicitné epizódy</string>
     <string name="do_not_include_episodes_labeled_as_explicit">Nezaraďovať epizódy označené ako explicitné.</string>
     <string name="discover">Objaviť</string>
-    <string name="id3_tag_album_title">ID3 Tag (Album - Title)</string>
+    <string name="id3_tag_album_title">ID3 Tag (Album - Názov)</string>
 </resources>

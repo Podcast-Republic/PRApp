@@ -1281,5 +1281,5 @@
     <string name="exclude_explicit_episodes">Виключити відверті епізоди</string>
     <string name="do_not_include_episodes_labeled_as_explicit">Не включати епізоди, позначені як відверті (explicit).</string>
     <string name="discover">Дізнатися</string>
-    <string name="id3_tag_album_title">ID3 Tag (Album - Title)</string>
+    <string name="id3_tag_album_title">Тег ID3 (Альбом - Назва)</string>
 </resources>

@@ -1284,5 +1284,5 @@
     <string name="exclude_explicit_episodes">Szókimondó epizódok kizárása</string>
     <string name="do_not_include_episodes_labeled_as_explicit">Ne tartalmazzon szókimondó (explicit) tartalmú epizódokat.</string>
     <string name="discover">Felfedezés</string>
-    <string name="id3_tag_album_title">ID3 Tag (Album - Title)</string>
+    <string name="id3_tag_album_title">ID3 címke (Album - Cím)</string>
 </resources>

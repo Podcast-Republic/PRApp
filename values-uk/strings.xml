@@ -722,7 +722,7 @@
     <string name="allowed_download_time">Дозволений час для завантаження</string>
     <string name="paused_waiting_for_allowed_download_time">Призупинено: чекаємо дозволеного часу завантаження</string>
     <string name="last_played_time">Час останнього відтворення</string>
-    <string name="display_unplayed_episodes_on_top">Показувати невідтворені епізоди зверху</string>
+    <string name="display_unplayed_episodes_on_top">Показувати непрослухані епізоди зверху</string>
     <string name="text_size">Розмір тексту</string>
     <string name="this_is_the_text_size_zoomed_to_d_">Це розмір тексту, масштабований до %d%%.</string>
     <string name="_d_seconds">%d секунд</string>
@@ -998,8 +998,8 @@
     <string name="error_start_time_and_end_time_can_not_be_same_">Помилка: «Час початку» та «Час завершення» не можуть збігатися!</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
     <string name="apply_audio_effects_to_all_podcasts_and_radio_stations_">Застосувати звукові ефекти до всіх подкастів і радіостанцій?</string>
-    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Дозволити завантажувати найстаріші невідтворені епізоди, якщо не знайдено новіших невідтворених епізодів.</string>
-    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Дозволити завантажувати найновіші невідтворені епізоди, якщо не знайдено старіших невідтворених епізодів.</string>
+    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Дозволити завантажувати найстаріші непрослухані епізоди, якщо не знайдено новіших непрослуханих епізодів.</string>
+    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Дозволити завантажувати найновіші непрослухані епізоди, якщо не знайдено старіших непрослуханих епізодів.</string>
     <string name="website">Вебсайт</string>
     <string name="auto_load_last_played_episode">Автоприготування до відтворення останнього відтворюваного епізоду</string>
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">При відкритті списку відтворення автоматично додати в програвач останній відтворюваний з нього епізод.</string>
@@ -1063,7 +1063,7 @@
     <string name="display_completed_downloads_list">Показати список завершених завантажень.</string>
     <string name="display_episode_filters_list">Показати список фільтрів епізодів.</string>
     <string name="display_radio_stations_list">Показати список радіостанцій.</string>
-    <string name="view_unplayed_episodes">Переглянути невідтворені епізоди</string>
+    <string name="view_unplayed_episodes">Переглянути непрослухані епізоди</string>
     <string name="view_downloaded_episodes">Переглянути завантажені епізоди</string>
     <string name="unreviewed">Нерецензовані</string>
     <string name="posted">Опубліковані</string>
@@ -1280,6 +1280,6 @@
     <string name="delete_from_playlist">Видалити з плейлиста</string>
     <string name="exclude_explicit_episodes">Виключити відверті епізоди</string>
     <string name="do_not_include_episodes_labeled_as_explicit">Не включати епізоди, позначені як відверті (explicit).</string>
-    <string name="discover">Дізнатися</string>
-    <string name="id3_tag_album_title">ID3 Tag (Album - Title)</string>
+    <string name="discover">Знайти</string>
+    <string name="id3_tag_album_title">Тег ID3 (Альбом - Назва)</string>
 </resources>

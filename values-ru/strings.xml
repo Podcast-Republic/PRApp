@@ -1280,5 +1280,5 @@
     <string name="exclude_explicit_episodes">Исключить откровенные выпуски</string>
     <string name="do_not_include_episodes_labeled_as_explicit">Не добавлять выпуски помеченные как "Откровенные" (пиктограмма "E").</string>
     <string name="discover">Обнаружить</string>
-    <string name="id3_tag_album_title">ID3 Tag (Album - Title)</string>
+    <string name="id3_tag_album_title">ID3-тег (Альбом - Заголовок)</string>
 </resources>

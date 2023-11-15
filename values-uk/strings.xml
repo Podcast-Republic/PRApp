@@ -305,7 +305,7 @@
     <string name="backup_failed_">"Не вдалося створити резервну копію!"</string>
     <string name="when_headset_bluetooth_disconnected">"Коли гарнітуру / Bluetooth від'єднано"</string>
     <string name="add_a_virtual_podcast">"Додати віртуальний подкаст"</string>
-    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Створіть віртуальний репозиторій подкасту, вибравши папку на своєму пристрої. Кожен мультимедійний файл у вибраній папці буде імпортовано як епізод. Ви можете пізніше вручну додати або видалити мультимедійні файли в папку."</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Створіть віртуальний репозиторій подкасту, вибравши папку на своєму пристрої. Кожен мультимедійний файл у вибраній папці буде імпортовано як епізод. Ви зможете пізніше вручну додати мультимедійні файли в папку або видалити їх з неї."</string>
     <string name="location">"Місцезнаходження"</string>
     <string name="select_a_directory">"Виберіть папку на своєму пристрої"</string>
     <string name="data_wifi_usage">"Мобільні дані та Wi-Fi"</string>

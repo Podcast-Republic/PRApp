@@ -209,7 +209,7 @@
     <string name="update_artwork">"Оновити обкладинку"</string>
     <string name="enter_new_artwork_url">"Введіть нову URL-адресу для обкладинки"</string>
     <string name="sleep_timer">"Таймер сну"</string>
-    <string name="last_updated_s">"Останнє оновлення: %1$s"</string>
+    <string name="last_updated_s">"Востаннє оновлено: %1$s"</string>
     <string name="fast_forward">"Перемотати вперед"</string>
     <string name="fast_rewind">"Перемотати назад"</string>
     <string name="play_pause">"Відтворення / Пауза"</string>

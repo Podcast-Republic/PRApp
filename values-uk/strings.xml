@@ -209,7 +209,7 @@
     <string name="update_artwork">"Оновити обкладинку"</string>
     <string name="enter_new_artwork_url">"Введіть нову URL-адресу для обкладинки"</string>
     <string name="sleep_timer">"Таймер сну"</string>
-    <string name="last_updated_s">"Останній епізод опубліковано %1$s"</string>
+    <string name="last_updated_s">"Востаннє оновлено: %1$s"</string>
     <string name="fast_forward">"Перемотати вперед"</string>
     <string name="fast_rewind">"Перемотати назад"</string>
     <string name="play_pause">"Відтворення / Пауза"</string>
@@ -305,7 +305,7 @@
     <string name="backup_failed_">"Не вдалося створити резервну копію!"</string>
     <string name="when_headset_bluetooth_disconnected">"Коли гарнітуру / Bluetooth від'єднано"</string>
     <string name="add_a_virtual_podcast">"Додати віртуальний подкаст"</string>
-    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Створіть віртуальний репозиторій подкасту, вибравши папку на своєму пристрої. Кожен мультимедійний файл у вибраній папці буде імпортовано як епізод. Ви можете пізніше вручну додати або видалити мультимедійні файли в папку."</string>
+    <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">"Створіть віртуальний репозиторій подкасту, вибравши папку на своєму пристрої. Кожен мультимедійний файл у вибраній папці буде імпортовано як епізод. Ви зможете пізніше вручну додати мультимедійні файли в папку або видалити їх з неї."</string>
     <string name="location">"Місцезнаходження"</string>
     <string name="select_a_directory">"Виберіть папку на своєму пристрої"</string>
     <string name="data_wifi_usage">"Мобільні дані та Wi-Fi"</string>
@@ -1282,12 +1282,12 @@
     <string name="do_not_include_episodes_labeled_as_explicit">Не включати епізоди, позначені як відверті (explicit).</string>
     <string name="discover">Знайти</string>
     <string name="id3_tag_album_title">Тег ID3 (Альбом - Назва)</string>
-    <string name="podcast_id">Podcast ID</string>
-    <string name="the_podcast_id_is_used_to_identify_this_virtual_podcast_across_all_devices">The podcast ID is used to identify this virtual podcast across all devices.</string>
-    <string name="virtual_podcasts_with_the_same_podcast_id_will_have_the_episode_states_synced">Virtual podcasts with the same podcast ID will have the episode states synced.</string>
-    <string name="generate_a_new_podcast_id_if_you_are_setting_up_this_virtual_podcast_for_syncing_for_the_first_time">Generate a new podcast ID if you are setting up this virtual podcast for syncing for the first time.</string>
-    <string name="enter_an_existing_podcast_id_to_link_this_virtual_podcast_to_an_existing_virtual_podcast">Enter an existing podcast ID to link this virtual podcast to an existing virtual podcast.</string>
-    <string name="generate_id">Generate ID</string>
-    <string name="remove_id">Remove ID</string>
-    <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Error: Invalid podcast ID! Podcast ID can contain only alphabets and digits.</string>
+    <string name="podcast_id">Ідентифікатор подкасту</string>
+    <string name="the_podcast_id_is_used_to_identify_this_virtual_podcast_across_all_devices">Ідентифікатор подкасту використовується для ідентифікації цього віртуального подкасту на всіх пристроях.</string>
+    <string name="virtual_podcasts_with_the_same_podcast_id_will_have_the_episode_states_synced">Віртуальні подкасти з тим самим ідентифікатором подкасту будуть мати синхронізований стан відтворення епізодів.</string>
+    <string name="generate_a_new_podcast_id_if_you_are_setting_up_this_virtual_podcast_for_syncing_for_the_first_time">Створіть новий ідентифікатор подкасту, якщо ви налаштовуєте цей віртуальний подкаст для синхронізації вперше.</string>
+    <string name="enter_an_existing_podcast_id_to_link_this_virtual_podcast_to_an_existing_virtual_podcast">Введіть існуючий ідентифікатор подкасту, щоб пов’язати цей віртуальний подкаст із існуючим віртуальним подкастом.</string>
+    <string name="generate_id">Згенерувати ID</string>
+    <string name="remove_id">Видалити ID</string>
+    <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Помилка: невірний ідентифікатор подкасту! Ідентифікатор подкасту може містити лише букви та цифри.</string>
 </resources>

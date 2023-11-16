@@ -1284,12 +1284,12 @@
     <string name="do_not_include_episodes_labeled_as_explicit">Nezaraďovať epizódy označené ako explicitné.</string>
     <string name="discover">Objaviť</string>
     <string name="id3_tag_album_title">ID3 Tag (Album - Názov)</string>
-    <string name="podcast_id">Podcast ID</string>
-    <string name="the_podcast_id_is_used_to_identify_this_virtual_podcast_across_all_devices">The podcast ID is used to identify this virtual podcast across all devices.</string>
-    <string name="virtual_podcasts_with_the_same_podcast_id_will_have_the_episode_states_synced">Virtual podcasts with the same podcast ID will have the episode states synced.</string>
-    <string name="generate_a_new_podcast_id_if_you_are_setting_up_this_virtual_podcast_for_syncing_for_the_first_time">Generate a new podcast ID if you are setting up this virtual podcast for syncing for the first time.</string>
-    <string name="enter_an_existing_podcast_id_to_link_this_virtual_podcast_to_an_existing_virtual_podcast">Enter an existing podcast ID to link this virtual podcast to an existing virtual podcast.</string>
-    <string name="generate_id">Generate ID</string>
-    <string name="remove_id">Remove ID</string>
-    <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Error: Invalid podcast ID! Podcast ID can contain only alphabets and digits.</string>
+    <string name="podcast_id">ID podcastu</string>
+    <string name="the_podcast_id_is_used_to_identify_this_virtual_podcast_across_all_devices">ID podcastu sa používa na identifikáciu tohto virtuálneho podcastu vo všetkých zariadeniach.</string>
+    <string name="virtual_podcasts_with_the_same_podcast_id_will_have_the_episode_states_synced">Virtuálne podcasty s rovnakým ID podcastu budú mať synchronizované stavy epizód.</string>
+    <string name="generate_a_new_podcast_id_if_you_are_setting_up_this_virtual_podcast_for_syncing_for_the_first_time">Ak tento virtuálny podcast nastavujete na synchronizáciu prvýkrát, vygenerujte nové ID podcastu.</string>
+    <string name="enter_an_existing_podcast_id_to_link_this_virtual_podcast_to_an_existing_virtual_podcast">Ak chcete prepojiť tento virtuálny podcast s existujúcim virtuálnym podcastom, zadajte existujúce ID podcastu.</string>
+    <string name="generate_id">Generovať ID</string>
+    <string name="remove_id">Odstrániť ID</string>
+    <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Chyba: Neplatné ID podcastu! ID podcastu môže obsahovať len písmená a číslice.</string>
 </resources>

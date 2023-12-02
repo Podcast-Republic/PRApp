@@ -1313,4 +1313,5 @@
     <string name="generate_id">Generate ID</string>
     <string name="remove_id">Remove ID</string>
     <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Error: Invalid podcast ID! Podcast ID can contain only alphabets and digits.</string>
+    <string name="updating_database_please_wait">Updating database, please wait...</string>
 </resources>

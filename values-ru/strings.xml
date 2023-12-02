@@ -1289,4 +1289,5 @@
     <string name="generate_id">Сгенерировать ID</string>
     <string name="remove_id">Удалить ID</string>
     <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Ошибка: некорректный ID подкаста! ID может содержать только буквы и цифры.</string>
+    <string name="updating_database_please_wait">Updating database, please wait...</string>
 </resources>

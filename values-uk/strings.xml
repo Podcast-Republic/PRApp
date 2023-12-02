@@ -1290,5 +1290,5 @@
     <string name="generate_id">Згенерувати ID</string>
     <string name="remove_id">Видалити ID</string>
     <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Помилка: невірний ідентифікатор подкасту! Ідентифікатор подкасту може містити лише букви та цифри.</string>
-    <string name="updating_database_please_wait">Updating database, please wait...</string>
+    <string name="updating_database_please_wait">Онивлення бази даних, зачекайте, будь ласка...</string>
 </resources>

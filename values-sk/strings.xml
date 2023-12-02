@@ -1292,5 +1292,5 @@
     <string name="generate_id">Generovať ID</string>
     <string name="remove_id">Odstrániť ID</string>
     <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Chyba: Neplatné ID podcastu! ID podcastu môže obsahovať len písmená a číslice.</string>
-    <string name="updating_database_please_wait">Updating database, please wait...</string>
+    <string name="updating_database_please_wait">Aktualizuje sa databáza, čakajte, prosím…</string>
 </resources>

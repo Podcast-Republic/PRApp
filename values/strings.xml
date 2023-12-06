@@ -1313,5 +1313,9 @@
     <string name="generate_id">Generate ID</string>
     <string name="remove_id">Remove ID</string>
     <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Error: Invalid podcast ID! Podcast ID can contain only alphabets and digits.</string>
-    <string name="updating_database_please_wait">Updating database, please wait...</string>
+    <string name="updating_database_please_wait">Updating database, please wait…</string>
+    <string name="import_chapters">Import chapters</string>
+    <string name="import_chapters_from_a_file_please_check_out_the_json_chapters_format_for_more_info_">Import chapters from a file. Please check out the JSON Chapters Format for more info.</string>
+    <string name="json_chapters_format">JSON Chapters Format</string>
+    <string name="select_a_file">Select a file</string>
 </resources>

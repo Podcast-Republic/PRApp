@@ -1293,8 +1293,8 @@
     <string name="remove_id">Odstrániť ID</string>
     <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Chyba: Neplatné ID podcastu! ID podcastu môže obsahovať len písmená a číslice.</string>
     <string name="updating_database_please_wait">Aktualizuje sa databáza, čakajte, prosím…</string>
-    <string name="import_chapters">Import chapters</string>
-    <string name="import_chapters_from_a_file_please_check_out_the_json_chapters_format_for_more_info_">Import chapters from a file. Please check out the JSON Chapters Format for more info.</string>
-    <string name="json_chapters_format">JSON Chapters Format</string>
-    <string name="select_a_file">Select a file</string>
+    <string name="import_chapters">Importovať kapitoly</string>
+    <string name="import_chapters_from_a_file_please_check_out_the_json_chapters_format_for_more_info_">Importovať kapitoly zo súboru. Pre viac informácií si pozrite formát kapitol JSON.</string>
+    <string name="json_chapters_format">Formát kapitol JSON</string>
+    <string name="select_a_file">Vyberte súbor</string>
 </resources>

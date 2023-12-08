@@ -314,7 +314,7 @@
     <string name="update_podcasts_only_when_connected_to_wifi">Csak WiFi-n keresztül frissülnek a podcastok</string>
     <string name="mark_all_as_played">Az összes jelölése lejátszottként</string>
     <string name="playback_mode">Lejátszási üzemmód</string>
-    <string name="display_on_lock_screen">Megjelenítés a lezárási képernyőn</string>
+    <string name="display_on_lock_screen">Megjel. a lezárási képernyőn</string>
     <string name="display_artwork_on_lock_screen_when_playing">Borítókép megjelenítése a lezárási képernyőn lejátszáskor</string>
     <string name="there_are_no_episodes_">Nincsenek epizódok!</string>
     <string name="podcast_feed_url">Podcast URL</string>
@@ -363,7 +363,7 @@
     <string name="podcast_keep_download_limit_reached_">A podcastok száma elérte a letöltési limitet!</string>
     <string name="auto_download_filter">Automatikus letöltés szűrő</string>
     <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">Epizódcímek szűrése az automata letöltésekhez. Először be kell állítani az automatikus letöltést.</string>
-    <string name="keep_favorite_episodes">Kedvenc epizódok megtartása</string>
+    <string name="keep_favorite_episodes">Kedv. epizódok megtartása</string>
     <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">A kedvenc epizódokat ne törölje automatikusan</string>
     <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">Alkönyvtár található. Létrehozzunk egy-egy új Virtuális podcastot minden alkönyvtárra?</string>
     <string name="import_sub_directory">Alkönyvtár importálása</string>
@@ -939,11 +939,11 @@
     <string name="play_as_video">Lejátszás videóként</string>
     <string name="select_all_below">Összes lentebbi kiválasztása</string>
     <string name="select_all_above">Összes fentebbi kiválasztása</string>
-    <string name="ignore_articles_in_title">Névelők figyelmen kívül hagyása</string>
+    <string name="ignore_articles_in_title">Névelők figy. kívül hagyása</string>
     <string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Cím szerinti rendezéskor figyelmen kívül hagyja a podcast címében található névelőket (A, An vagy The)</string>
     <string name="create_shortcut">Indítóikon létrehozása</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Engedélyezi a mobiladat-használatot, és figyelmen kívül hagyja az akkura vonatkozó korlátozásokat az epizódok letöltésekor</string>
-    <string name="show_play_next_episode_station_button">Következő epizód/állomás lejátszása gomb megjelenítése</string>
+    <string name="show_play_next_episode_station_button">Köv. epizód/állomás lejátszása gomb megjelenítése</string>
     <string name="append_to_up_next">Hozzáadás a \'Következő\' listához</string>
     <string name="only_include_episodes_with_user_notes">Csak felhasználói jegyzeteket tartalmazó epizódokat tartalmazzon</string>
     <string name="description_preview">Leírás előnézete</string>
@@ -1250,7 +1250,7 @@
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
-    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
+    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás gomb megjelenítése.</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
     <string name="reverse_portrait_screen_display_mode">Fordított fekvő</string>
     <string name="clear_cache">Gyorsítótár törlése</string>

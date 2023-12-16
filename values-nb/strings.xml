@@ -1295,4 +1295,9 @@
     <string name="import_chapters_from_a_file_please_check_out_the_json_chapters_format_for_more_info_">Import chapters from a file. Please check out the JSON Chapters Format for more info.</string>
     <string name="json_chapters_format">JSON Chapters Format</string>
     <string name="select_a_file">Select a file</string>
+    <string name="rounded_rectangle_shape">Rounded rectangle shape</string>
+    <string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Display the podcast artwork in a rectangular shape with rounded corners.</string>
+    <string name="match_none_of_the_keywords">Match none of the keywords</string>
+    <string name="download_episode_if_matching_none_of_the_keywords_s">Download episode if matching none of the keywords: %1$s.</string>
+    <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Don\'t download episode if matching none of the keywords: %1$s.</string>
 </resources>

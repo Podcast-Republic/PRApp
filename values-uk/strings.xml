@@ -421,8 +421,8 @@
     <string name="dont_download_episode">"Не завантажувати епізод"</string>
     <string name="match_all_keywords">"Кожне з ключових слів"</string>
     <string name="match_any_of_the_keywords">"Будь-яке з ключових слів"</string>
-    <string name="download_episode_if_matching_all_keywords_s">"Завантажити епізод, якщо наявні всі ключові слова: %1$s."</string>
-    <string name="download_episode_if_matching_any_of_the_keywords_s">"Завантажити епізод, якщо наявне хоч одне з ключових слів: %1$s."</string>
+    <string name="download_episode_if_matching_all_keywords_s">"Завантажувати епізод, якщо в його назві наявні всі ключові слова: %1$s."</string>
+    <string name="download_episode_if_matching_any_of_the_keywords_s">"Завантажувати епізод, якщо в його назві наявне хоч одне з ключових слів: %1$s."</string>
     <string name="dont_download_episode_if_matching_all_keywords_s">"Не завантажувати епізод, якщо в його назві наявні всі перелічені ключові слова: %1$s."</string>
     <string name="dont_download_episode_if_matching_any_of_the_keywords_s">"Не завантажувати епізод, якщо в його назві наявне хоч одне з перелічених ключових слів: %1$s."</string>
     <string name="keywords">"Ключові слова"</string>
@@ -1295,9 +1295,9 @@
     <string name="import_chapters_from_a_file_please_check_out_the_json_chapters_format_for_more_info_">Імпортувати розділи з файлу. Для отримання додаткової інформації ознайомтесь, будь ласка, з форматом розділів JSON.</string>
     <string name="json_chapters_format">Формат розділів JSON</string>
     <string name="select_a_file">Вибрати файл</string>
-    <string name="rounded_rectangle_shape">Rounded rectangle shape</string>
-    <string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Display the podcast artwork in a rectangular shape with rounded corners.</string>
-    <string name="match_none_of_the_keywords">Match none of the keywords</string>
-    <string name="download_episode_if_matching_none_of_the_keywords_s">Download episode if matching none of the keywords: %1$s.</string>
-    <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Don\'t download episode if matching none of the keywords: %1$s.</string>
+    <string name="rounded_rectangle_shape">Закруглена форма прямокутника</string>
+    <string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Показувати обкладинку подкасту в прямокутній формі із закругленими кутами.</string>
+    <string name="match_none_of_the_keywords">Жодне з ключових слів</string>
+    <string name="download_episode_if_matching_none_of_the_keywords_s">Завантажувати епізод, якщо його назва не містить жодного з ключових слів: %1$s.</string>
+    <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Не завантажувати епізод, якщо його назва не містить жодного з ключових слів: %1$s.</string>
 </resources>

@@ -957,7 +957,7 @@
     <string name="only_include_episodes_with_user_chapters">Csak felhasználói fejezetekkel rendelkező epizódokat tartalmazzon</string>
     <string name="add_tags_to_podcast">Címkék hozzáadása a podcasthoz</string>
     <string name="add_new_episodes_to_selected_playlists_automatically_">Új epizódok automatikus hozzáadása a megadott lejátszólistákhoz</string>
-    <string name="podcast_artwork">Podcast grafika</string>
+    <string name="podcast_artwork">Podcast borítókép</string>
     <string name="rss_feed_artwork">RSS hírcsatorna grafika</string>
     <string name="add_tags_to_rss_feed">Címkék hozzáadása az RSS-hírcsatornához</string>
     <string name="_1s_2s_n">%1$s: %2$s\n</string>
@@ -1298,9 +1298,9 @@
     <string name="import_chapters_from_a_file_please_check_out_the_json_chapters_format_for_more_info_">Fejezetek importálása fájlból. További információkért tekintse meg a JSON fejezet formátum részt.</string>
     <string name="json_chapters_format">JSON fejezet formátum</string>
     <string name="select_a_file">Fájl kiválasztása</string>
-    <string name="rounded_rectangle_shape">Rounded rectangle shape</string>
-    <string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Display the podcast artwork in a rectangular shape with rounded corners.</string>
-    <string name="match_none_of_the_keywords">Match none of the keywords</string>
-    <string name="download_episode_if_matching_none_of_the_keywords_s">Download episode if matching none of the keywords: %1$s.</string>
-    <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Don\'t download episode if matching none of the keywords: %1$s.</string>
+    <string name="rounded_rectangle_shape">Lekerekített téglalap</string>
+    <string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Téglalap alakban, lekerekített sarkokkal jelenítse meg a borítóképeket.</string>
+    <string name="match_none_of_the_keywords">Egy kulcsszó sem felel meg</string>
+    <string name="download_episode_if_matching_none_of_the_keywords_s">Az epizód letöltése, ha egy kulcsszó sem felel meg: %1$s.</string>
+    <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Ne töltse le az epizódot, ha egy kulcsszó sem felel meg: %1$s.</string>
 </resources>

@@ -1300,6 +1300,6 @@
     <string name="match_none_of_the_keywords">Жодне з ключових слів</string>
     <string name="download_episode_if_matching_none_of_the_keywords_s">Завантажувати епізод, якщо його назва не містить жодного з ключових слів: %1$s.</string>
     <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Не завантажувати епізод, якщо його назва не містить жодного з ключових слів: %1$s.</string>
-    <string name="mono_audio">Mono audio</string>
-    <string name="combine_left_and_right_audio_channels_into_one_">Combine left and right audio channels into one.</string>
+    <string name="mono_audio">Монофонічний звук</string>
+    <string name="combine_left_and_right_audio_channels_into_one_">Об\'єднати лівий і правий аудіоканали в один.</string>
 </resources>

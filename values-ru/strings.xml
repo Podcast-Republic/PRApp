@@ -1290,15 +1290,15 @@
     <string name="remove_id">Удалить ID</string>
     <string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Ошибка: некорректный ID подкаста! ID может содержать только буквы и цифры.</string>
     <string name="updating_database_please_wait">База данных обновляется, пожалуйста подождите…</string>
-    <string name="import_chapters">Импортировать главы</string>
+    <string name="import_chapters">Импорт глав</string>
     <string name="import_chapters_from_a_file_please_check_out_the_json_chapters_format_for_more_info_">Импортировать главы из файла. Пожалуйста, ознакомьтесь с форматом глав JSON для получения дополнительной информации.</string>
     <string name="json_chapters_format">Формат глав JSON</string>
     <string name="select_a_file">Выбрать файл</string>
-    <string name="rounded_rectangle_shape">Rounded rectangle shape</string>
-    <string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Display the podcast artwork in a rectangular shape with rounded corners.</string>
-    <string name="match_none_of_the_keywords">Match none of the keywords</string>
-    <string name="download_episode_if_matching_none_of_the_keywords_s">Download episode if matching none of the keywords: %1$s.</string>
-    <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Don\'t download episode if matching none of the keywords: %1$s.</string>
-    <string name="mono_audio">Mono audio</string>
-    <string name="combine_left_and_right_audio_channels_into_one_">Combine left and right audio channels into one.</string>
+    <string name="rounded_rectangle_shape">Скруглённые углы</string>
+    <string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Отображать обложку подкаста в виде прямоугольника со скруглёнными углами.</string>
+    <string name="match_none_of_the_keywords">Не соответствует ни одному из ключевых слов</string>
+    <string name="download_episode_if_matching_none_of_the_keywords_s">Загрузить выпуск, если нет совпадения со ключевыми словами: %1$s.</string>
+    <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Не загружать выпуск, если нет совпадения со ключевыми словами: %1$s.</string>
+    <string name="mono_audio">Монофонический звук</string>
+    <string name="combine_left_and_right_audio_channels_into_one_">Объединить левый и правый аудиоканалы в один.</string>
 </resources>

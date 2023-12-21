@@ -1303,5 +1303,5 @@
     <string name="download_episode_if_matching_none_of_the_keywords_s">Stiahnuť epizódu, ak nezodpovedá žiadnemu z kľúčových slov: %1$s.</string>
     <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Nesťahovať epizódu, ak nezodpovedá žiadnemu z kľúčových slov: %1$s.</string>
     <string name="mono_audio">Mono audio</string>
-    <string name="combine_left_and_right_audio_channels_into_one_">Combine left and right audio channels into one.</string>
+    <string name="combine_left_and_right_audio_channels_into_one_">Spojiť ľavý a pravý zvukový kanál do jedného.</string>
 </resources>

@@ -1305,4 +1305,7 @@
     <string name="dont_download_episode_if_matching_none_of_the_keywords_s">Ne töltse le az epizódot, ha egy kulcsszó sem felel meg: %1$s.</string>
     <string name="mono_audio">Mono hang</string>
     <string name="combine_left_and_right_audio_channels_into_one_">A bal és jobb hangcsatornák egyesítése.</string>
+    <string name="audio_balance">Audio balance</string>
+    <string name="left_noun_as_direction">Left</string>
+    <string name="right_noun_as_direction">Right</string>
 </resources>

@@ -1242,9 +1242,9 @@
     <string name="podcast_has_no_default_playlists_message">Tento podcast nemá predvolené playlisty. Prejdite do nastavení podcastu a nastavte predvolené playlisty.</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Žiadna Wi-Fi - Aktualizovať zdroj len raz cez mobilné dáta?</string>
     <string name="mark_all_previous_articles_as_unread">Označiť všetky predchádzajúce články ako neprečítané</string>
-    <string name="mark_all_next_articles_as_unread">Mark all next articles as unread</string>
+    <string name="mark_all_next_articles_as_unread">Označiť všetky ďalšie články ako neprečítané</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Označiť všetky články vydané pred týmto článkom [%1$s] ako neprečítané?</string>
-    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Mark all articles published after this article [%1$s] as unread?</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Označiť všetky články uverejnené po tomto článku [%1$s] ako neprečítané?</string>
     <string name="show_empty_podcasts">Zobraziť prázdne podcasty</string>
     <string name="show_empty_feeds">Zobraziť prázdne zdroje</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Vyberte jazyk, ktorý chcete v aplikácii používať.</string>

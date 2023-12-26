@@ -1240,9 +1240,9 @@
     <string name="podcast_has_no_default_playlists_message">Цей подкаст не має стандартних плейлистів. Перейдіть до налаштувань подкасту, щоб встановити їх.</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Відсутній Wi-Fi. Оновити канал через мобільний інтернет один раз?</string>
     <string name="mark_all_previous_articles_as_unread">Позначити всі попередні статті як непрочитані</string>
-    <string name="mark_all_next_articles_as_unread">Mark all next articles as unread</string>
+    <string name="mark_all_next_articles_as_unread">Позначити всі наступні статті як непрочитані</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Позначити всі статті, опубліковані до цієї статті (%1$s), як непрочитані?</string>
-    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Mark all articles published after this article [%1$s] as unread?</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Позначити всі статті, опубліковані після цієї статті (%1$s), як непрочитані?</string>
     <string name="show_empty_podcasts">Показати порожні подкасти</string>
     <string name="show_empty_feeds">Показати порожні канали</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Виберіть мову, що буде використовуватись в програмі.</string>

@@ -1244,7 +1244,9 @@
     <string name="podcast_has_no_default_playlists_message">This podcast has no default playlists. Please go to the podcast Settings to set up the default playlists.</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">No Wi-Fi - Update feed once with mobile data?</string>
     <string name="mark_all_previous_articles_as_unread">Mark all previous articles as unread</string>
+    <string name="mark_all_next_articles_as_unread">Mark all next articles as unread</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Mark all articles published before this article [%1$s] as unread?</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Mark all articles published after this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Show empty podcasts</string>
     <string name="show_empty_feeds">Show empty feeds</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Select your preferred language to be used within the app.</string>

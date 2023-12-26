@@ -1243,7 +1243,9 @@
     <string name="podcast_has_no_default_playlists_message">Ez a podcast nincs alapértelmezett lejátszási listához rendelve. Az alapértelmezett lejátszási lista beállítását a podcast beállításaiban módosíthatja..</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Nincs Wi-Fi kapcsolat - Frissíti a hírfolyamot mobil kapcsolaton keresztül?</string>
     <string name="mark_all_previous_articles_as_unread">Korábbi cikkek megjelölése nem olvasottnak</string>
+    <string name="mark_all_next_articles_as_unread">Mark all next articles as unread</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">A [%1$s] cikk előtt megjelent összes cikk megjelölése nem olvasottnak?</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Mark all articles published after this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Meghallgatott podcastok megjelenítése</string>
     <string name="show_empty_feeds">Olvasott hírfolyamok megjelenítése</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>

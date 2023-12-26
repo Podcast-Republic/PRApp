@@ -1241,7 +1241,9 @@
     <string name="podcast_has_no_default_playlists_message">Deze podcast heeft geen standaard afspeellijst. Stel een standaard afspeellijst in in de instellingen van de podscast</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Geen wifi - Eenmalig bijwerken met mobiele data?</string>
     <string name="mark_all_previous_articles_as_unread">Markeer alle voorgaande artikelen als ongelezen</string>
+    <string name="mark_all_next_articles_as_unread">Mark all next articles as unread</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Alle afleveringen die gepubliceerd zijn voor dit artikel [%1$s] als ongelezen markeren?</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Mark all articles published after this article [%1$s] as unread?</string>
     <string name="show_empty_podcasts">Toon lege podcasts</string>
     <string name="show_empty_feeds">Toon lege lijsten</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Selecteer de taal van uw voorkeur voor gebruik in de app</string>

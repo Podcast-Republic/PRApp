@@ -1060,7 +1060,7 @@
     <string name="google_drive">Google Диск</string>
     <string name="mark_all_articles_published_after_this_article_s_as_read_">Отметить все статьи, опубликованные после этой [%1$s], как прочитанные?</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Отметить все выпуски, опубликованные раньше этого [%1$s], как непрослушанные?</string>
-    <string name="mark_all_next_articles_as_read">Отметить все следующие статьи как прочитанные</string>
+    <string name="mark_all_next_articles_as_read">Отметить все последующие статьи как прочитанные</string>
     <string name="mark_all_previous_episodes_as_unplayed">Отметить все предыдущие выпуски как непрослушанные</string>
     <string name="mark_as_favorite">Добавить в избранное</string>
     <string name="mark_current_playback_position">Отметить текущую точку воспроизведения</string>
@@ -1239,9 +1239,9 @@
     <string name="podcast_has_no_default_playlists_message">У этого подкаста нет плейлистов по умолчанию. Перейдите в настройки подкастов, чтобы настроить плейлисты по умолчанию.</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Wi-Fi не подключен — Обновить ленту один раз с мобильной сетью?</string>
     <string name="mark_all_previous_articles_as_unread">Отметить все предыдущие статьи как непрочитанные</string>
-    <string name="mark_all_next_articles_as_unread">Mark all next articles as unread</string>
+    <string name="mark_all_next_articles_as_unread">Отметить все последующие статьи как непрочитанные</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">Отметить все статьи, опубликованные до этой статьи [%1$s], как непрочитанные?</string>
-    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Mark all articles published after this article [%1$s] as unread?</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_unread_">Отметить все статьи, опубликованные после этой статьи [%1$s], как непрочитанные?</string>
     <string name="show_empty_podcasts">Показать пустые подкасты</string>
     <string name="show_empty_feeds">Показать пустые фиды</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">Выберите предпочитаемый язык для использования в приложении.</string>

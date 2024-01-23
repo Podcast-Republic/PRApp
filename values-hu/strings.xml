@@ -557,7 +557,7 @@
     <string name="export_subscriptions_to_an_opml_file">Előfizetések exportálása OPML fájlba</string>
     <string name="create_a_backup_of_app_settings_and_database">Biztonsági másolat készítése az alkalmazás beállításairól és az adatbázisról</string>
     <string name="restore_app_settings_and_database_from_selected_backup">Alkalmazásbeállítások és adatbázisok helyreállítása biztonsági mentésből</string>
-    <string name="save_to">Lista mentése</string>
+    <string name="save_to">Mentés lejátszólistaként</string>
     <string name="buy_me_a_coffee">Hívjon meg egy kávéra</string>
     <string name="clear_the_play_history_">Lejátszási előzmények törlése?</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">Értesítés, ha egy letöltés törlődik tárhelykvóta, vagy letöltési limit miatt</string>

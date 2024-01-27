@@ -1211,7 +1211,7 @@
     <string name="close_app_when_moving_to_background">Alk. bezárása háttérbe helyezéskor</string>
     <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
-    <string name="date_added">Dátum hozzáadva</string>
+    <string name="date_added">Hozzáadás dátuma</string>
     <string name="dynamic_colors">Dinamikus színek</string>
     <string name="apply_the_color_theme_based_on_your_wallpaper_">Színtéma alkalmazása a háttérkép alapján.</string>
     <string name="loading_">Betöltés…</string>

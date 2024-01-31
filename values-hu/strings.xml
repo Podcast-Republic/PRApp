@@ -406,7 +406,7 @@
     <string name="playing_state">Lejátszási állapot</string>
     <string name="only_include_favorited_episodes">Csak kedvenc epizódokat tartalmazzon</string>
     <string name="download_status">Letöltés állapota</string>
-    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel.</string>
+    <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel</string>
     <string name="continue_on_error">Folytatás hiba esetén</string>
     <string name="downloading">Letöltődő</string>
     <string name="failed">Sikertelen</string>
@@ -446,7 +446,7 @@
     <string name="playback_history">Lejátszási előzmények</string>
     <string name="edit_notes">Jegyzetek szerkesztése</string>
     <string name="generated_by_s_app">A %1$s alkalmazás által generált.</string>
-    <string name="auto_backup">Automatikus biztonsági mentés</string>
+    <string name="auto_backup">Aut. bizt. mentés</string>
     <string name="double_tap_to_play_or_pause">Duplakopp lejátszás/szünet</string>
     <string name="swipe_up_to_play_next_in_playlist">Csúsztatás fel: lista köv. eleme</string>
     <string name="swipe_to_left_to_fast_rewind">Csúsztatás balra: visszatekerés</string>
@@ -698,7 +698,7 @@
     <string name="syncing_podcast_changes_">Podcastok szinkronizálása…</string>
     <string name="syncing">Szinkronizálás</string>
     <string name="continue_to_next_playlist">A következő lejátszólista</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta.</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
     <string name="enable_manual_sorting">Manuális rendezés engedélyezése</string>
     <string name="open">Megnyitás</string>
     <string name="newest_unplayed">Legújabb nem lejátszott</string>
@@ -1208,8 +1208,8 @@
     <string name="rotate_by_priority">Forgatás prioritás szerint</string>
     <string name="click_the_button_blow_if_adding_a_podcast_feed">Kattintson az alábbi gombra, ha podcast hírfolyamot ad hozzá</string>
     <string name="continue_if_adding_a_text_or_blog_rss_feed">Folytassa, ha szöveges vagy blog RSS hírfolyamot ad hozzá</string>
-    <string name="close_app_when_moving_to_background">Alk. bezárása háttérbe helyezéskor</string>
-    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza.</string>
+    <string name="close_app_when_moving_to_background">Alk. bez. háttérbe helyezéskor</string>
+    <string name="close_background_app_message">Zárja be az alkalmazást, amikor az háttérbe kerül. Az alkalmazás bezárásakor a podcastok továbbra is lejátszhatóak a háttérben. Előfordulhat azonban, hogy nem tud ugyanarra a képernyőre visszatérni, amikor az alkalmazást ismét előtérbe hozza</string>
     <string name="when_new_episodes_are_retrieved_from_podcast_feed">Amikor új epizódok kerülnek lekérésre a podcast feedből</string>
     <string name="date_added">Hozzáadás dátuma</string>
     <string name="dynamic_colors">Dinamikus színek</string>
@@ -1262,7 +1262,7 @@
     <string name="update_username">Felhasználónév frissítése</string>
     <string name="options">Beállítások</string>
     <string name="display_the_stream_label">Stream címke megjelenítése</string>
-    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Stream címke megjelenítése, ha az epizód nincs letöltve.</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Stream címke megjelenítése, ha az epizód nincs letöltve</string>
     <string name="no_playlist_selected_">Nincs kiválasztott lejátszólista.</string>
     <string name="enter_youtube_url">YouTube link</string>
     <string name="examples_of_youtube_url">Példa YouTube link</string>
@@ -1278,9 +1278,9 @@
     <string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Korlátozhatja a maximális lejátszási sebességet %s értékre, ha Android Auto rendszerhez csatlakozik</string>
     <string name="view_podcast_description">Podcast leírás megtekintése</string>
     <string name="restart_from_the_beginning">Újraindítás az elejétől</string>
-    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">A lejátszás az elejétől újindul, ha egy már (100%-ban) lejátszott epizódot játszik le.</string>
+    <string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">A lejátszás az elejétől újindul, ha egy már (100%-ban) lejátszott epizódot játszik le</string>
     <string name="use_system_theme">Rendszertéma használata</string>
-    <string name="use_android_system_s_widget_theme_">Használja az Android rendszermodul (widget) témáját.</string>
+    <string name="use_android_system_s_widget_theme_">Használja az Android rendszermodul (widget) témáját</string>
     <string name="show_button_labels">Gombcímkék megjelenítése</string>
     <string name="delete_from_playlist">Eltávolítás a lejátszólistából</string>
     <string name="exclude_explicit_episodes">Szókimondó epizódok kizárása</string>

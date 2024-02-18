@@ -1306,6 +1306,6 @@
     <string name="audio_balance">Баланс Аудио</string>
     <string name="left_noun_as_direction">Левый</string>
     <string name="right_noun_as_direction">Правый</string>
-    <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">The episode filter will be applied after new episodes are retrieved from the podcast RSS feed.</string>
-    <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Enter your login credentials if the feed requires authentication.</string>
+    <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">Фильтр выпусков будет применен после получения новых выпусков из RSS-канала подкаста.</string>
+    <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Введите свои учетные данные для входа, если канал требует аутентификации.</string>
 </resources>

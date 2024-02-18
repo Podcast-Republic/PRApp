@@ -86,8 +86,8 @@
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Tartsa meg az utolsó %1$d automatikus mentést"</item>
-        <item quantity="other">"Tartsa meg az utolsó %1$d automatikus mentést"</item>
+        <item quantity="one">"Tartsa meg az utolsó %1$d automatikus mentést."</item>
+        <item quantity="other">"Tartsa meg az utolsó %1$d automatikus mentést."</item>
     </plurals>
 
     <plurals name="_d_minutes">

@@ -320,7 +320,7 @@
     <string name="podcast_feed_url">"URL-адреса подкасту"</string>
     <string name="no_podcast_found_">"Не знайдено жодного подкасту!"</string>
     <string name="find_podcast">"Знайти подкаст"</string>
-    <string name="authentication">"Аутентифікація"</string>
+    <string name="authentication">"Автентифікація"</string>
     <string name="http">"HTTP"</string>
     <string name="password">"Пароль"</string>
     <string name="username">"Ім'я користувача"</string>
@@ -511,7 +511,7 @@
     <string name="landscape">"Альбомна"</string>
     <string name="drag_the_handler_to_sort_manually">"Перетягніть за відповідну кнопку, щоб відсортувати вручну"</string>
     <string name="streaming">"Йде стрім"</string>
-    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Введіть ім'я користувача та пароль нижче, якщо ваш подкаст вимагає аутентифікації. Залиште їх порожніми, якщо жодної аутентифікації не потрібно."</string>
+    <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Введіть ім'я користувача та пароль нижче, якщо ваш подкаст вимагає автентифікації. Залиште їх порожніми, якщо жодної автентифікації не потрібно."</string>
     <string name="can_not_play_ps">"Неможливо відтворити: %1$s"</string>
     <string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
     <string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
@@ -1307,6 +1307,6 @@
     <string name="audio_balance">Баланс звуку</string>
     <string name="left_noun_as_direction">Лівий</string>
     <string name="right_noun_as_direction">Правий</string>
-    <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">The episode filter will be applied after new episodes are retrieved from the podcast RSS feed.</string>
-    <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Enter your login credentials if the feed requires authentication.</string>
+    <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">Фільтр епізодів буде застосовано після того, як нові епізоди будуть отримані з RSS-каналу подкасту.</string>
+    <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Введіть свої облікові дані для входу, якщо канал вимагає автентифікації.</string>
 </resources>

@@ -313,7 +313,7 @@
     <string name="feed_updates_via_wifi_only">Podcast frissítés csak WiFi-n</string>
     <string name="update_podcasts_only_when_connected_to_wifi">Csak WiFi-n keresztül frissülnek a podcastok</string>
     <string name="mark_all_as_played">Az összes jelölése lejátszottként</string>
-    <string name="playback_mode">Lejátszási üzemmód</string>
+    <string name="playback_mode">Lejátszási mód</string>
     <string name="display_on_lock_screen">Megjelenítés a lezárási képernyőn</string>
     <string name="display_artwork_on_lock_screen_when_playing">Borítókép megjelenítése a lezárási képernyőn lejátszáskor</string>
     <string name="there_are_no_episodes_">Nincsenek epizódok!</string>
@@ -334,7 +334,7 @@
     <string name="audio">Audio</string>
     <string name="video">Video</string>
     <string name="account_and_syncing">Eszközök közötti szinkronizálás</string>
-    <string name="playback_mode_shuffle">Keverés</string>
+    <string name="playback_mode_shuffle">Kevert mód</string>
     <string name="update_on_charging">Frissítés akkutöltés közben</string>
     <string name="update_podcasts_only_when_battery_is_charging">Csak az akkumulátor töltése közben frissít</string>
     <string name="filename">Fájlnév</string>
@@ -475,13 +475,13 @@
     <string name="scanning_">Átvizsgálás…</string>
     <string name="playback_speed">Lejátszási sebesség</string>
     <string name="keep_playing">Folyamatos lejátszás, normál mód</string>
-    <string name="play_from_position">Lejátszás pozíciótól</string>
+    <string name="play_from_position">Lejátszás adott pozíciótól</string>
     <string name="report_a_bug">Hiba bejelentése</string>
     <string name="import_export_opml">OPML Import / Export</string>
     <string name="import_from_opml_file">Importálás OPML fájlból</string>
     <string name="export_to_opml_file">Exportálás OPML fájlba</string>
     <string name="episodes">Epizódok</string>
-    <string name="episodes_and_count">"Epizódok: %d"</string>
+    <string name="episodes_and_count">"Epizód: %d"</string>
     <string name="episode_s_is_still_downloading_can_not_play_it">[ %1$s ] epizód még töltődik. Nem lehet lejátszani.</string>
     <string name="error_episode_still_downloading">Hiba: epizód még letöltés alatt</string>
     <string name="disabled">Letiltva</string>
@@ -585,7 +585,7 @@
     <string name="remove_favorite">Eltávolítás a Kedvencekből</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Jelöljön meg minden epizódot lejátszottként, ami ezelőtt az epizód előtt jött ki [ %1$s ] ?</string>
     <string name="exporting">Exportálás</string>
-    <string name="pick_a_time">Idő megadása</string>
+    <string name="pick_a_time">Időzítés megadása</string>
     <string name="updating_podcasts">Podcastok frissítése</string>
     <string name="skip_ending">Ugrás a végén</string>
     <string name="no_user_notes_found">Nincsenek felhasználói jegyzetek.</string>
@@ -1012,7 +1012,7 @@
     <string name="syncing_app_setting_changes_s">Alkalmazás beállításmódosítások szinkronizálása: %1$s.</string>
     <string name="syncing_app_setting_changes_">Alkalmazás beállításmódosítások szinkronizálása…</string>
     <string name="sleep_after">Alvás bekapcsolása</string>
-    <string name="sleep_at_time">Alvás időpontban</string>
+    <string name="sleep_at_time">Alvás megadott időpontban</string>
     <string name="export_episode_list">Epizódlista exportálása</string>
     <string name="as_html_file">HTML fájlként</string>
     <string name="as_json_file">JSON fájlként</string>
@@ -1135,7 +1135,7 @@
     <string name="jump_to_the_beginning">Ugrás az elejére</string>
     <string name="jump_to_previous_chapter">Ugrás az előző fejezetre</string>
     <string name="when_i_press_the_previous_button">Az Előző gomb megnyomásakor</string>
-    <string name="playback_mode_single_episode_load_next">Egy epizód (következő betöltésével)</string>
+    <string name="playback_mode_single_episode_load_next">Egy epizód (a következő betöltésével)</string>
     <string name="schedule_as_verb">Időzítés</string>
     <string name="schedule_a_date">Időzítés dátumra</string>
     <string name="fund_this_podcast">Podcast támogatása</string>

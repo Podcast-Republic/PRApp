@@ -334,7 +334,7 @@
     <string name="audio">Audio</string>
     <string name="video">Video</string>
     <string name="account_and_syncing">Eszközök közötti szinkronizálás</string>
-    <string name="playback_mode_shuffle">Kevert mód</string>
+    <string name="playback_mode_shuffle">Véletlenszerű lejátszási mód</string>
     <string name="update_on_charging">Frissítés akkutöltés közben</string>
     <string name="update_podcasts_only_when_battery_is_charging">Csak az akkumulátor töltése közben frissít</string>
     <string name="filename">Fájlnév</string>

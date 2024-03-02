@@ -875,7 +875,7 @@
     <string name="article_url">Cikk URL</string>
     <string name="summary">Összegzés</string>
     <string name="download_state_paused_battery_low">Szünet: alacsony akkuszint</string>
-    <string name="short_time_unit_format_minute">Min</string>
+    <string name="short_time_unit_format_minute">Perc</string>
     <string name="hold_down_to_start_dragging">Tartsa lenyomva a húzás megkezdéséhez</string>
     <string name="swipe_right_action">Jobbra csúsztatás</string>
     <string name="stream_podcasts_via_wifi_only">Streamelés csak WiFi-n</string>

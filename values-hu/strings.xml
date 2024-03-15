@@ -890,7 +890,7 @@
     <string name="stats">Statisztika</string>
     <string name="time_saved_b_s_b">"Megtakarított idő: %1$s."</string>
     <string name="you_ve_listened_b_s_b">"Meghallgatva: %1$s."</string>
-    <string name="since_date">Ettől a dátumtól</string>
+    <string name="since_date">"Ettől a dátumtól: "</string>
     <string name="reset_stats">Statisztikák törlése</string>
     <string name="find_rss_feed">RSS-hírcsatorna keresése</string>
     <string name="there_are_no_rss_feeds">Nincsenek RSS-hírcsatornák!</string>
@@ -1312,4 +1312,5 @@
     <string name="right_noun_as_direction">Jobb</string>
     <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">Az epizódszűrő az új epizódok RSS-hírcsatornából történő letöltése után kerül alkalmazásra.</string>
     <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Adja meg bejelentkezési adatait, ha az RSS-hírcsatorna hitelesítést igényel.</string>
+    <string name="profile">Profile</string>
 </resources>

@@ -886,7 +886,7 @@
     <string name="stats">Stats</string>
     <string name="time_saved_b_s_b">"Time saved: %1$s."</string>
     <string name="you_ve_listened_b_s_b">"You\'ve listened: %1$s."</string>
-    <string name="since_date">Since</string>
+    <string name="since_date">"Since: "</string>
     <string name="reset_stats">Reset stats</string>
     <string name="find_rss_feed">Find RSS feed</string>
     <string name="there_are_no_rss_feeds">There are no RSS feeds!</string>
@@ -1309,4 +1309,5 @@
     <string name="right_noun_as_direction">Right</string>
     <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">The episode filter will be applied after new episodes are retrieved from the podcast RSS feed.</string>
     <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Enter your login credentials if the feed requires authentication.</string>
+    <string name="profile">Profile</string>
 </resources>

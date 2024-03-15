@@ -887,7 +887,7 @@
     <string name="stats">Статистика</string>
     <string name="time_saved_b_s_b">"Збережений час: %1$s."</string>
     <string name="you_ve_listened_b_s_b">"Ви прослухали: %1$s."</string>
-    <string name="since_date">Починаючи з</string>
+    <string name="since_date">"Починаючи з: "</string>
     <string name="reset_stats">Скинути статистику</string>
     <string name="find_rss_feed">Знайти RSS-канал</string>
     <string name="there_are_no_rss_feeds">Немає RSS-каналів!</string>

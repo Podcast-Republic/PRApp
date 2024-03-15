@@ -1309,4 +1309,5 @@
     <string name="right_noun_as_direction">Правий</string>
     <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">Фільтр епізодів буде застосовано після того, як нові епізоди будуть отримані з RSS-каналу подкасту.</string>
     <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Введіть свої облікові дані для входу, якщо канал вимагає автентифікації.</string>
+    <string name="profile">Профіль</string>
 </resources>

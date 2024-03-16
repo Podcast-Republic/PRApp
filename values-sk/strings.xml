@@ -1311,5 +1311,5 @@
     <string name="right_noun_as_direction">Pravý</string>
     <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">Filter epizód sa použije po načítaní nových epizód zo zdroja RSS podcastu.</string>
     <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Zadajte svoje prihlasovacie údaje, ak zdroj vyžaduje overenie.</string>
-    <string name="profile">Profile</string>
+    <string name="profile">Profil</string>
 </resources>

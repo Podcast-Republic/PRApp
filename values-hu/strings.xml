@@ -1312,5 +1312,5 @@
     <string name="right_noun_as_direction">Jobb</string>
     <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">Az epizódszűrő az új epizódok RSS-hírcsatornából történő letöltése után kerül alkalmazásra.</string>
     <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Adja meg bejelentkezési adatait, ha az RSS-hírcsatorna hitelesítést igényel.</string>
-    <string name="profile">Profile</string>
+    <string name="profile">Profil</string>
 </resources>

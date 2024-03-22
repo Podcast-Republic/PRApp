@@ -1319,4 +1319,6 @@
     <string name="the_episode_filter_will_be_applied_after_new_episodes_are_retrieved_from_the_podcast_rss_feed">The episode filter will be applied after new episodes are retrieved from the podcast RSS feed.</string>
     <string name="enter_your_login_credentials_if_the_feed_requires_authentication">Enter your login credentials if the feed requires authentication.</string>
     <string name="profile">Profile</string>
+    <string name="fade_in_audio">Fade in audio</string>
+    <string name="fade_in_audio_when_start_playing_or_going_to_next_episode">Fade in audio when start playing or going to next episode.</string>
 </resources>

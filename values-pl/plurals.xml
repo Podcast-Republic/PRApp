@@ -287,4 +287,10 @@
         <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Zachowaj artykuły z ostatnich %d dni"</item>
+        <item quantity="few">"Zachowaj artykuły z ostatnich %d dni."</item>
+        <item quantity="many">"Zachowaj artykuły z ostatnich %d dni."</item>
+        <item quantity="other">"Zachowaj artykuły z ostatnich %d dni."</item>
+    </plurals>
 </resources>

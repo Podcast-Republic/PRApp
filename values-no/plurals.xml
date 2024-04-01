@@ -145,7 +145,6 @@
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
     </plurals>
 
-
     <plurals name="keep_articles_from_last_d_days">
         <item quantity="one">"Keep articles from last %1$d day."</item>
         <item quantity="other">"Keep articles from last %1$d days."</item>
@@ -206,4 +205,8 @@
         <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Select articles from last %1$d day."</item>
+        <item quantity="other">"Select articles from last %1$d days."</item>
+    </plurals>
 </resources>

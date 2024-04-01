@@ -205,4 +205,8 @@
         <item quantity="other">"Ne töltse le az epizódot, ha az időtartama kevesebb mint %d perc."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Select articles from last %1$d day."</item>
+        <item quantity="other">"Select articles from last %1$d day."</item>
+    </plurals>
 </resources>

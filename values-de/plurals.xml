@@ -205,4 +205,8 @@
         <item quantity="other">"Folge nicht herunterladen, wenn die Dauer weniger als %d Minuten beträgt."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Bewahren Sie Artikel aus den letzten %d Tagen auf."</item>
+        <item quantity="other">"Bewahren Sie Artikel aus den letzten %d Tagen auf."</item>
+    </plurals>
 </resources>

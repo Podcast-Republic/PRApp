@@ -205,4 +205,8 @@
         <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Behold artikler fra de seneste %d dage."</item>
+        <item quantity="other">"Behold artikler fra de seneste %d dage."</item>
+    </plurals>
 </resources>

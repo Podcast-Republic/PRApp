@@ -286,5 +286,11 @@
         <item quantity="many">"Nestahovat epizodu, pokud je kratší než %d minut."</item>
         <item quantity="other">"Nestahovat epizodu, pokud je kratší než %d minut."</item>
     </plurals>
-    
+
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Zachovat články za %d dní."</item>
+        <item quantity="few">"Zachovat články za %d dní."</item>
+        <item quantity="many">"Zachovat články za %d dní."</item>
+        <item quantity="other">"Zachovat články za %d dní."</item>
+    </plurals>
 </resources>

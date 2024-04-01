@@ -236,8 +236,8 @@
     <string name="manually">"Manualmente"</string>
     <string name="newest_first">"Mais novos primeiro"</string>
     <string name="oldest_first">"Mais antigos primeiro"</string>
-    <string name="on">"Ligado"</string>
-    <string name="off">"Desligado"</string>
+    <string name="state_on">"Ligado"</string>
+    <string name="state_off">"Desligado"</string>
     <string name="stop_sleep_timer">Desligado</string>
 
     <string-array name="ui_theme_text">
@@ -1313,4 +1313,25 @@
     <string name="profile">Profile</string>
     <string name="fade_in_audio">Fade in audio</string>
     <string name="fade_in_audio_when_start_playing_or_going_to_next_episode">Fade in audio when start playing or going to next episode.</string>
+    <string name="articles_and_count">Articles: %d</string>
+    <string name="reading_state">Reading state</string>
+    <string name="create_an_article_filter">Create an article filter</string>
+    <string name="edit_article_filter">Edit article filter</string>
+    <string name="manage_article_filters">Manage article filters</string>
+    <string name="article_filters">Article filters</string>
+    <string name="article_filter">Article filter</string>
+    <string name="articles">Articles</string>
+    <string name="select_articles_from_today">Select articles from today</string>
+    <string name="select_articles_from_all_dates">Select articles from all dates.</string>
+    <string name="include_articles_matching_the_keywords">Include articles matching the keywords.</string>
+    <string name="exclude_articles_matching_the_keywords">Exclude articles matching the keywords.</string>
+    <string name="remove_all_articles_in_the_recents_list">Remove all articles in the Recents list?</string>
+    <string name="delete_the_article_filter_s">Delete the article filter: %1$s?</string>
+    <string name="at_least_one_article_filter_is_required">At least one article filter is required!</string>
+    <string name="can_not_edit_default_article_filter">Can not edit default article filter!</string>
+    <string name="selected_rss_feeds_s">Selected RSS feeds: %1$s.</string>
+    <string name="group_by_rss_feed">Group by RSS feed</string>
+    <string name="group_by_rss_feed_priority">Group by RSS feed priority</string>
+    <string name="article_filter_s">Article filter %1$s</string>
+    <string name="select_articles">Select articles</string>
 </resources>

@@ -205,4 +205,8 @@
         <item quantity="other">Aflevering niet downloaden als die korter duurt dan %d minuten</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">Bewaar artikelen van de laatste dag</item>
+        <item quantity="other">Bewaar artikelen van de laatste %d dagen</item>
+    </plurals>
 </resources>

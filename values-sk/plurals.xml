@@ -287,4 +287,10 @@
         <item quantity="other">"Nesťahovať epizódu, aj je dĺžka menšia ako %d minutes."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Select articles from last %1$d days."</item>
+        <item quantity="few">"Select articles from last %1$d days."</item>
+        <item quantity="many">"Select articles from last %1$d days."</item>
+        <item quantity="other">"Select articles from last %1$d days."</item>
+    </plurals>
 </resources>

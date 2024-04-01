@@ -246,4 +246,9 @@
         <item quantity="other">"Ne pas télécharger l'épisode si la durée est inférieure à %d minutes."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Conserver les articles des %d derniers jours."</item>
+        <item quantity="many">"Conserver les articles des %d derniers jours."</item>
+        <item quantity="other">"Conserver les articles des %d derniers jours."</item>
+    </plurals>
 </resources>

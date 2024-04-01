@@ -287,4 +287,10 @@
         <item quantity="other">"Ne prenesi epizode, če traja manj kot %d minut."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="two">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="few">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="other">"Ohrani članke zadnjih %1$d dni."</item>
+    </plurals>
 </resources>

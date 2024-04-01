@@ -369,4 +369,12 @@
         <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="zero">"Select articles from last %1$d day."</item>
+        <item quantity="one">"Select articles from last %1$d day."</item>
+        <item quantity="two">"Select articles from last %1$d days."</item>
+        <item quantity="few">"Select articles from last %1$d days."</item>
+        <item quantity="many">"Select articles from last %1$d days."</item>
+        <item quantity="other">"Select articles from last %1$d days."</item>
+    </plurals>
 </resources>

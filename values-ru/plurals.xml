@@ -287,4 +287,10 @@
         <item quantity="other">"Не загружать выпуск, продолжительностью менее %d минут."</item>
     </plurals>
 
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"Сохранить статьи за последние %1$d день."</item>
+        <item quantity="few">"Сохранить статьи за последние %1$d дня."</item>
+        <item quantity="many">"Сохранить статьи за последние %1$d дней."</item>
+        <item quantity="other">"Сохранить статьи за последние %1$d дня(ей)."</item>
+    </plurals>
 </resources>

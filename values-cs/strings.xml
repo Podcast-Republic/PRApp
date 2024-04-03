@@ -1332,4 +1332,10 @@
     <string name="group_by_rss_feed_priority">Group by RSS feed priority</string>
     <string name="article_filter_s">Article filter %1$s</string>
     <string name="select_articles">Select articles</string>
+    <string name="show_radio_stations_list">Show radio stations list.</string>
+    <string name="show_rss_feeds_list">Show RSS feeds list.</string>
+    <string name="only_include_favorite_articles">Only include favorite articles.</string>
+    <string name="filter_article_title">Filter article title</string>
+    <string name="include_article">Include article</string>
+    <string name="exclude_article">Exclude article</string>
 </resources>

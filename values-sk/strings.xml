@@ -1335,10 +1335,10 @@
     <string name="group_by_rss_feed_priority">Zoskupiť podľa priority RSS zdroja</string>
     <string name="article_filter_s">Filter článku %1$s</string>
     <string name="select_articles">Vybrať články</string>
-    <string name="show_radio_stations_list">Show radio stations list.</string>
-    <string name="show_rss_feeds_list">Show RSS feeds list.</string>
-    <string name="only_include_favorite_articles">Only include favorite articles.</string>
-    <string name="filter_article_title">Filter article title</string>
-    <string name="include_article">Include article</string>
-    <string name="exclude_article">Exclude article</string>
+    <string name="show_radio_stations_list">Zobraziť zoznam rádií.</string>
+    <string name="show_rss_feeds_list">Zobraziť zoznam RSS zdrojov.</string>
+    <string name="only_include_favorite_articles">Zahrnúť len obľúbené články.</string>
+    <string name="filter_article_title">Filtrovať názov článku</string>
+    <string name="include_article">Zahrnúť článok</string>
+    <string name="exclude_article">Vylúčiť článok</string>
 </resources>

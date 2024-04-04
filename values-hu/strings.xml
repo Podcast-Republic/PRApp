@@ -101,7 +101,7 @@
     <string name="now_playing">Most lejátszott</string>
     <string name="stop">Stop</string>
     <string name="pause">Szünet</string>
-    <string name="favorite">Kedvenc</string>
+    <string name="favorite">Kedvelt</string>
     <string name="favorites">Kedveltek</string>
     <string name="whats_new">Újdonságok</string>
     <string name="more">Tovább</string>
@@ -363,8 +363,8 @@
     <string name="podcast_keep_download_limit_reached_">A podcastok száma elérte a letöltési limitet!</string>
     <string name="auto_download_filter">Automatikus letöltés szűrő</string>
     <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">Epizódcímek szűrése az automata letöltésekhez. Először be kell állítani az automatikus letöltést.</string>
-    <string name="keep_favorite_episodes">Kedvenc epizódok megtartása</string>
-    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">A kedvenc epizódokat ne törölje automatikusan</string>
+    <string name="keep_favorite_episodes">Kedvelt epizódok megtartása</string>
+    <string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">A kedvelt epizódokat ne törölje automatikusan</string>
     <string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">Alkönyvtár található. Létrehozzunk egy-egy új Virtuális podcastot minden alkönyvtárra?</string>
     <string name="import_sub_directory">Alkönyvtár importálása</string>
     <string name="failed_downloads">Hibás</string>
@@ -404,7 +404,7 @@
     <string name="filter_name">Szűrő neve</string>
     <string name="podcasts">Podcastok</string>
     <string name="playing_state">Lejátszási állapot</string>
-    <string name="only_include_favorited_episodes">Csak kedvenc epizódokat tartalmazzon</string>
+    <string name="only_include_favorited_episodes">Csak kedvelt epizódokat tartalmazzon</string>
     <string name="download_status">Letöltés állapota</string>
     <string name="continue_to_play_next_episode_when_playback_error_occurs">Ugrás a következő epizódra, ha lejátszási hiba merül fel.</string>
     <string name="continue_on_error">Folytatás hiba esetén</string>
@@ -582,7 +582,7 @@
     <string name="not_in_use">Nem használt</string>
     <string name="pull_down_episodes_list_to_start_podcast_update_checking">Az epizódlistát lehúzva frissítés</string>
     <string name="mark_all_previous_episodes_as_played">Az összes korábbi epizód megjelölése lejátszottként</string>
-    <string name="remove_favorite">Eltávolítás a Kedvencekből</string>
+    <string name="remove_favorite">Eltávolítás a Kedveltekből</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Jelöljön meg minden epizódot lejátszottként, ami ezelőtt az epizód előtt jött ki [ %1$s ] ?</string>
     <string name="exporting">Exportálás</string>
     <string name="pick_a_time">Időzítés megadása</string>
@@ -854,7 +854,7 @@
     <string name="radio_station">Rádióállomás</string>
     <string name="there_are_no_unplayed_episodes_">Nincsenek lejátszatlan epizódok!</string>
     <string name="there_are_no_played_episodes_">Nincsenek lejátszott epizódok!</string>
-    <string name="there_are_no_favorite_episodes_">Nincsenek kedvenc epizódok!</string>
+    <string name="there_are_no_favorite_episodes_">Nincsenek kedvelt epizódok!</string>
     <string name="there_are_no_downloaded_episodes_">Nincsenek letöltött epizódok!</string>
     <string name="start_playing_and_go_to_now_playing">Kezdje el a lejátszást, és ugorjon a \'Következő\' listára</string>
     <string name="show_unplayed_count">Nem lejátszott szám. megjelenítése</string>
@@ -1336,10 +1336,10 @@
     <string name="group_by_rss_feed_priority">RSS hírcsatornák csoportosítása prioritás szerint</string>
     <string name="article_filter_s">Cikkszűrő %1$s</string>
     <string name="select_articles">Cikkek kiválasztása</string>
-    <string name="show_radio_stations_list">Show radio stations list.</string>
-    <string name="show_rss_feeds_list">Show RSS feeds list.</string>
-    <string name="only_include_favorite_articles">Only include favorite articles.</string>
-    <string name="filter_article_title">Filter article title</string>
-    <string name="include_article">Include article</string>
-    <string name="exclude_article">Exclude article</string>
+    <string name="show_radio_stations_list">Rádióállomás lista megjelenítése</string>
+    <string name="show_rss_feeds_list">RSS hírcsatorna lista megjelenítése</string>
+    <string name="only_include_favorite_articles">Csak a kedvelt cikkeket tartalmazza</string>
+    <string name="filter_article_title">Cikk címek szűrése</string>
+    <string name="include_article">Tartalmazza a cikket</string>
+    <string name="exclude_article">Zárja ki a cikket</string>
 </resources>

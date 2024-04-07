@@ -205,9 +205,9 @@
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Виберіть епізоди за %d останній день."</item>
-        <item quantity="few">"Виберіть епізоди за %d останні дні."</item>
-        <item quantity="many">"Виберіть епізоди за %d останніх днів."</item>
+        <item quantity="one">"Відібрати епізоди за %d останній день."</item>
+        <item quantity="few">"Відібрати епізоди за %d останні дні."</item>
+        <item quantity="many">"Відібрати епізоди за %d останніх днів."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
@@ -247,8 +247,8 @@
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Select articles from last %1$d days."</item>
-        <item quantity="few">"Select articles from last %1$d days."</item>
-        <item quantity="many">"Select articles from last %1$d days."</item>
+        <item quantity="one">"Відібрати статті за %d останній день."</item>
+        <item quantity="few">"Відібрати статті за %d останні дні."</item>
+        <item quantity="many">"Відібрати статті за %d останніх днів."</item>
     </plurals>
 </resources>

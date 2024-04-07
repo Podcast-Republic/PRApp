@@ -396,8 +396,8 @@
     <string name="dim_screen">"Погасити екран"</string>
     <string name="keep_screen_always_on">"Тримати екран завжди увімкненим"</string>
     <string name="completed_downloads">"Завершені"</string>
-    <string name="top_charts">"Найпопулярніші подкасти"</string>
-    <string name="browse_top_charts">"Переглянути найпопулярніші подкасти"</string>
+    <string name="top_charts">"Чарти"</string>
+    <string name="browse_top_charts">"Переглянути чарти"</string>
     <string name="after_current_episode_ends">"Після закінчення поточного епізоду"</string>
     <string name="add_a_chapter">"Додати розділ"</string>
     <string name="time">"Час"</string>

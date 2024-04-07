@@ -1343,4 +1343,5 @@
     <string name="filter_article_title">Filter article title</string>
     <string name="include_article">Include article</string>
     <string name="exclude_article">Exclude article</string>
+    <string name="stop_playing">Stop playing</string>
 </resources>

@@ -1341,4 +1341,5 @@
     <string name="filter_article_title">Filtrovať názov článku</string>
     <string name="include_article">Zahrnúť článok</string>
     <string name="exclude_article">Vylúčiť článok</string>
+    <string name="stop_playing">Stop playing</string>
 </resources>

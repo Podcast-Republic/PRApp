@@ -698,7 +698,7 @@
     <string name="syncing_podcast_changes_">Podcastok szinkronizálása…</string>
     <string name="syncing">Szinkronizálás</string>
     <string name="continue_to_next_playlist">A következő lejátszólista</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta.</string>
+    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
     <string name="enable_manual_sorting">Manuális rendezés engedélyezése</string>
     <string name="open">Megnyitás</string>
     <string name="newest_unplayed">Legújabb nem lejátszott</string>
@@ -1248,7 +1248,7 @@
     <string name="mark_all_articles_published_after_this_article_s_as_unread_">A [%1$s] cikk után megjelent összes cikk megjelölése olvasatlannak?</string>
     <string name="show_empty_podcasts">Meghallgatott podcastok megjelenítése</string>
     <string name="show_empty_feeds">Olvasott hírcsatornák megjelenítése</string>
-    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet</string>
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
@@ -1262,7 +1262,7 @@
     <string name="update_username">Felhasználónév frissítése</string>
     <string name="options">Beállítások</string>
     <string name="display_the_stream_label">Stream címke megjelenítése</string>
-    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Stream címke megjelenítése, ha az epizód nincs letöltve.</string>
+    <string name="display_the_stream_label_if_the_episode_isn_t_downloaded">Stream címke megjelenítése, ha az epizód nincs letöltve</string>
     <string name="no_playlist_selected_">Nincs kiválasztott lejátszólista.</string>
     <string name="enter_youtube_url">YouTube link</string>
     <string name="examples_of_youtube_url">Példa YouTube link</string>

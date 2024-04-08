@@ -888,7 +888,7 @@
     <string name="delete_episodes">Epizódok törlése</string>
     <string name="playback_mode_priority">Prioritásos mód</string>
     <string name="stats">Statisztika</string>
-    <string name="time_saved_b_s_b">"Megtakarított idő: %1$s."</string>
+    <string name="time_saved_b_s_b">"Megtakarítás: %1$s."</string>
     <string name="you_ve_listened_b_s_b">"Meghallgatva: %1$s."</string>
     <string name="since_date">"Ettől a dátumtól: "</string>
     <string name="reset_stats">Statisztikák törlése</string>

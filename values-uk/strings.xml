@@ -169,7 +169,7 @@
     <string name="preparing">"Підготовка…"</string>
     <string name="error_no_wifi">"Помилка: нема доступу до Wi-Fi."</string>
     <string name="auto_download">"Автоматичне завантаження"</string>
-    <string name="playing">"Зараз грає"</string>
+    <string name="playing">"Програвач"</string>
     <string name="subscriptions">"Підписки"</string>
     <string name="help_faqs">"Допомога / Часті питання"</string>
     <string name="next">"Наступний"</string>

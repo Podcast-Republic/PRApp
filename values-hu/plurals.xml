@@ -206,7 +206,7 @@
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Select articles from last %1$d day."</item>
-        <item quantity="other">"Select articles from last %1$d day."</item>
+        <item quantity="one">"Cikkek kiválasztása az elmúlt %1$d napból."</item>
+        <item quantity="other">"Cikkek kiválasztása az elmúlt %1$d napból."</item>
     </plurals>
 </resources>

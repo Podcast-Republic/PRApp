@@ -583,7 +583,7 @@
     <string name="pull_down_episodes_list_to_start_podcast_update_checking">Az epizódlistát lehúzva frissítés</string>
     <string name="mark_all_previous_episodes_as_played">Az összes korábbi epizód megjelölése lejátszottként</string>
     <string name="remove_favorite">Eltávolítás a Kedveltekből</string>
-    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Jelöljön meg minden epizódot lejátszottként, ami ezelőtt az epizód előtt jött ki [ %1$s ] ?</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Megjelöl minden korábbi epizódot lejátszottként, ami ezelőtti?\n[ %1$s ]</string>
     <string name="exporting">Exportálás</string>
     <string name="pick_a_time">Időzítés megadása</string>
     <string name="updating_podcasts">Podcastok frissítése</string>

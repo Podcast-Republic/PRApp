@@ -687,7 +687,7 @@
     <string name="com_parse_ui_login_help_submit_failed_unknown">"Не вдалося надіслати запит на скидання пароля, будь ласка, повторіть спробу"</string>
     <string name="com_parse_ui_login_help_email_sent">"Будь ласка, перевірте свою електронну пошту, щоб отримати інструкції щодо доступу до вашого облікового запису"</string>
     <string name="connecting_">"Підключення…"</string>
-    <string name="syncing_episode_changes_s">"Синхронізація змін епізоду: %s"</string>
+    <string name="syncing_episode_changes_s">"Синхронізація змін в епізодах: %s"</string>
     <string name="syncing_changed_radio_stations_d">"Синхронізація доданої підписки на радіо: %d"</string>
     <string name="syncing_changed_podcasts_d">"Синхронізація змін в подкастах: %d"</string>
     <string name="syncing_episode_changes_">"Синхронізація змін в епізодах…"</string>
@@ -711,8 +711,8 @@
     <string name="notify_when_an_episode_has_been_downloaded">Повідомити, коли епізод завантажиться</string>
     <string name="dark_theme">Нічний режим</string>
     <string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">Переключатися автоматично зі світлого скіна (день) на темний (ніч), в залежності від часу дня</string>
-    <string name="playback_mode_repeat_episode">Повторити епізод</string>
-    <string name="playback_mode_repeat_playlist">Повторити список відтворення</string>
+    <string name="playback_mode_repeat_episode">Повторювати епізод</string>
+    <string name="playback_mode_repeat_playlist">Повторювати плейлист</string>
     <string name="alarms">Будильники</string>
     <string name="no_alarms_found_">Немає будильників.</string>
     <string name="allow_to_download_at_any_time">Дозволити завантаження будь-коли</string>
@@ -883,7 +883,7 @@
     <string name="delete_downloads">Видалити завантаження</string>
     <string name="keep_download">Залишити завантаженим</string>
     <string name="delete_episodes">Видалити епізоди</string>
-    <string name="playback_mode_priority">Зважаючи на пріоритет</string>
+    <string name="playback_mode_priority">За пріоритетом плейлиста</string>
     <string name="stats">Статистика</string>
     <string name="time_saved_b_s_b">"Збережений час: %1$s."</string>
     <string name="you_ve_listened_b_s_b">"Ви прослухали: %1$s."</string>

@@ -267,8 +267,8 @@
     <string name="time_display_second_short_format">"сек."</string>
     <string name="search_episodes">"Пошук епізодів"</string>
     <string name="widgets">"Віджети"</string>
-    <string name="low">"Низька"</string>
-    <string name="high">"Висока"</string>
+    <string name="low">"Низький"</string>
+    <string name="high">"Високий"</string>
     <string name="gesture_sensitivity">"Чутливість до жесту"</string>
     <string name="view_library_as">"Переглянути як…"</string>
     <string name="list_view">"Перегляд списком"</string>
@@ -358,8 +358,8 @@
     <string name="remove_episode_only">"Лише видалити епізод"</string>
     <string name="mark_episode_as_played">"Позначити епізод як прослуханий"</string>
     <string name="mark_episode_as_played_if_more_than_has_been_played">"Позначити епізод як прослуханий, якщо відтворено понад %1$d%%"</string>
-    <string name="download_episode">"Завантажити епізод"</string>
-    <string name="start_downloading_when_episode_is_added_to_playlist">"Почати завантаження відразу після додавання його до списку відтворення"</string>
+    <string name="download_episode">"Завантажувати епізод"</string>
+    <string name="start_downloading_when_episode_is_added_to_playlist">"Починати завантаження відразу після додавання епізоду до списку відтворення"</string>
     <string name="podcast_keep_download_limit_reached_">"Досягнуто ліміту кількості подкастів, що можливо завантажити!"</string>
     <string name="auto_download_filter">"Фільтр для автозавантаження"</string>
     <string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Фільтрувати епізоди для цілей автоматичного завантаження. Потрібно спочатку ввімкнути опцію автоматичного завантаження."</string>
@@ -801,7 +801,7 @@
     <string name="can_not_edit_default_episode_filter_">Неможливо редагувати стандартний фільтр епізодів!</string>
     <string name="playlist_name">Назва списку відтворення</string>
     <string name="priority">Пріоритет</string>
-    <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з вищим пріоритетом буде прослуханий раніше.</string>
+    <string name="higher_priority_playlist_will_be_played_first_">Список відтворення з вищим пріоритетом буде відтворено раніше.</string>
     <string name="view_podcast">Вид</string>
     <string name="stream_all">Стрімити всі</string>
     <string name="view_all_your_playlists">Переглянути всі свої списки відтворення</string>
@@ -920,8 +920,8 @@
     <string name="review_wifi_only_prompt_message">Чи знаєте ви, що ця програма за умовчанням використовує лише Wi-Fi? Ви можете вимкнути використання лише Wi-Fi, якщо у вас швидке з\’єднання для передачі даних. Хочете зараз переглянути налаштування використання лише Wi-Fi?</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Видаліть файл віртуального подкасту зі сховища після відтворення</string>
     <string name="play_all">Слухати всі</string>
-    <string name="remove_played_episode">Видалити прослуханий епізод</string>
-    <string name="remove_the_episode_from_playlist_after_being_played">Видалити епізод зі списку відтворення після прослуховування</string>
+    <string name="remove_played_episode">Видаляти прослуханий епізод</string>
+    <string name="remove_the_episode_from_playlist_after_being_played">Видаляти епізод зі списку відтворення після прослуховування</string>
     <string name="apply_this_change_to_all_playlist_">Застосувати цю зміну до всіх списків відтворення?</string>
     <string name="overwrite_volume_mute_state">Ігнорувати стан вимкнення звуку</string>
     <string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">Дозволити перезаписати стан вимкнення звуку та відновити рівень гучності останнього відтворення</string>
@@ -1052,8 +1052,8 @@
     <string name="allow_to_change_playback_position_from_notification_">Дозволити змінювати позицію відтворення зі сповіщення.</string>
     <string name="zoom_image">Збільшити зображення</string>
     <string name="mark_all_as_unplayed">Позначити всі як непрослухані</string>
-    <string name="default_playlist">Список відтворення за замовчуванням</string>
-    <string name="use_this_playlist_as_the_default_playlist">Використати як список відтворення за замовчуванням.</string>
+    <string name="default_playlist">Плейлист за замовчуванням</string>
+    <string name="use_this_playlist_as_the_default_playlist">Використовувати як список відтворення за замовчуванням.</string>
     <string name="article_unique_criteria">Критерій унікальності статті</string>
     <string name="new_article_notification">Сповіщення про нову статтю</string>
     <string name="there_are_no_radio_stations_">Немає радіостанцій!</string>

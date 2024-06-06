@@ -471,7 +471,7 @@
     <string name="there_are_no_podcasts_">"Немає подкастів!"</string>
     <string name="no_podcasts_selected">"Не вибрано жодного подкасту"</string>
     <string name="enjoy_podcast_republic">"Подобається Podcast Republic?"</string>
-    <string name="select_an_image_on_device">"Виберіть зображення на пристрої"</string>
+    <string name="select_an_image_on_device">"Обрати зображення на пристрої"</string>
     <string name="scanning_">"Сканування…"</string>
     <string name="playback_speed">"Швидкість відтворення"</string>
     <string name="keep_playing">"Продовжувати відтворення без змін"</string>
@@ -946,7 +946,7 @@
     <string name="description_preview">Попередній перегляд опису</string>
     <string name="mark_current_playback_position">Позначити поточну позицію відтворення</string>
     <string name="comma">", "</string>
-    <string name="pick_an_image_as_the_shortcut_icon">Виберіть зображення як значок ярлика</string>
+    <string name="pick_an_image_as_the_shortcut_icon">Обрати зображення як значок ярлика</string>
     <string name="use_default_icon">Використовувати значок за умовчанням</string>
     <string name="syncing_articles_">Синхронізація статей…</string>
     <string name="syncing_rss_feeds_">Синхронізація RSS-каналів…</string>

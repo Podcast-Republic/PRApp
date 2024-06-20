@@ -1088,12 +1088,12 @@
     <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Niet starten als verbonden met Bluetooth. Kijk in de FAQs voor meer info</string>
     <string name="rss_feeds_in_widget">RSS feeds in widget</string>
     <string name="show_selected_rss_feeds_in_widget_s">Toon geselecteerde RSS feeds in widget: %s</string>
-    <string name="mark_all_articles_published_after_this_article_s_as_read_">Alle artikelen die gepubliceerd zijn na deze als gelezen markeren?</string>
+    <string name="mark_all_articles_published_after_this_article_s_as_read_">Alle artikelen die gepubliceerd zijn na deze [%1$s] als gelezen markeren?</string>
     <string name="mark_all_next_articles_as_read">Markeer alle volgende artikelen als gelezen</string>
     <string name="use_legacy_media_notification_style">Gebruik legacy media notification style</string>
     <string name="use_legacy_media_notification_style_before_android_11">Gebruik legacy media notification style van voor Android 11.</string>
     <string name="save_up_next_to">Bewaar tot aan…</string>
-    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Alle artikelen die gepubliceerd zijn na deze als ongelezen markeren?</string>
+    <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Alle artikelen die gepubliceerd zijn na deze [%1$s] als ongelezen markeren?</string>
     <string name="mark_all_previous_episodes_as_unplayed">Markeer alle vorige artikelen als gelezen</string>
     <string name="_s_kbps">%skbps</string>
     <string name="_1s_kbps_2s">%1$skbps %2$s</string>
@@ -1341,4 +1341,6 @@
     <string name="include_article">Artikel opnemen</string>
     <string name="exclude_article">Artikel uitsluiten</string>
     <string name="stop_playing">Stop afspelen</string>
+    <string name="the_above_controls_are_always_enabled_by_android_system">The above controls are always enabled by Android system.</string>
+    <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">The first two selected controls will show up on the media player notification. The other selected controls will show up in the overflow options on Android Auto.</string>
 </resources>

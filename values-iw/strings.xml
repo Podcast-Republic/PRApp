@@ -1341,4 +1341,6 @@
     <string name="include_article">Include article</string>
     <string name="exclude_article">Exclude article</string>
     <string name="stop_playing">Stop playing</string>
+    <string name="the_above_controls_are_always_enabled_by_android_system">The above controls are always enabled by Android system.</string>
+    <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">The first two selected controls will show up on the media player notification. The other selected controls will show up in the overflow options on Android Auto.</string>
 </resources>

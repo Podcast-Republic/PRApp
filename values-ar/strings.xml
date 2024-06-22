@@ -449,6 +449,7 @@
     <string name="auto_backup">"نسخ إحتياطي آلي"</string>
     <string name="double_tap_to_play_or_pause">"انقر مرتين للتشغيل أو التوقف"</string>
     <string name="swipe_up_to_play_next_in_playlist">"اسحب للأعلى لتشغيل التالي في القائمة"</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">"اسحب إلى اليسار للترجيع"</string>
     <string name="swipe_to_right_to_fast_forward">"اسحب إلى اليمين للتسريع إلى الأمام"</string>
     <string name="remove_subscription_to_">"إزالة الاشتراك في: [ %s ]"</string>

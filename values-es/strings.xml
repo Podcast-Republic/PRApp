@@ -448,6 +448,7 @@
     <string name="auto_backup">"Copia de seguridad automática"</string>
     <string name="double_tap_to_play_or_pause">"Doble toque para reproducir o pausar"</string>
     <string name="swipe_up_to_play_next_in_playlist">"Deslizar hacia arriba para reproducir el siguiente en la lista de reproducción"</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">"Deslizar hacia la izquierda para rebobinar rápidamente"</string>
     <string name="swipe_to_right_to_fast_forward">"Deslizar hacia la derecha para avanzar rápidamente"</string>
     <string name="remove_subscription_to_">"Eliminar la suscripción a: [%1$s]"</string>

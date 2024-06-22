@@ -449,6 +449,7 @@
     <string name="auto_backup">"Автоматичне резервне копіювання"</string>
     <string name="double_tap_to_play_or_pause">"Торкнутися двічі, щоб розпочати або призупинити"</string>
     <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх, щоб відтворити наступний за списком"</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">"Свайпнути ліворуч, щоб перемотати назад"</string>
     <string name="swipe_to_right_to_fast_forward">"Свайпнути праворуч, щоб перемотати вперед"</string>
     <string name="remove_subscription_to_">"Відписатися від «%1$s»?"</string>
@@ -1341,5 +1342,5 @@
     <string name="exclude_article">Виключити статтю</string>
     <string name="stop_playing">Припинити відтворення</string>
     <string name="the_above_controls_are_always_enabled_by_android_system">Вищевказані елементи керування завжди увімкнені в системі Android.</string>
-    <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Перші два вибрані елементи керування з'являться у сповіщенні медіаплеєра. Інші вибрані елементи з'являться в меню додаткових опцій в Android Auto.</string>
+    <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">"Перші два вибрані елементи керування з'являться у сповіщенні медіаплеєра. Інші вибрані елементи з'являться в меню додаткових опцій в Android Auto."</string>
 </resources>

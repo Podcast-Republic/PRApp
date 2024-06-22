@@ -447,6 +447,7 @@
     <string name="auto_backup">Kopia automatyczna</string>
     <string name="double_tap_to_play_or_pause">Stuknij dwukrotnie, aby odtworzyć albo zatrzymać</string>
     <string name="swipe_up_to_play_next_in_playlist">Przesuń palcem w górę, aby odtworzyć następny na liście</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">Przesuń w lewo, aby przewinąć do tyłu</string>
     <string name="swipe_to_right_to_fast_forward">Przesuń w prawo, aby przewinąć do przodu</string>
     <string name="remove_subscription_to_">"Cofnij subskrypcję: [%1$s]"</string>

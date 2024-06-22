@@ -449,6 +449,7 @@
     <string name="auto_backup">Automatikus biztonsági mentés</string>
     <string name="double_tap_to_play_or_pause">Duplakopp lejátszás/szünet</string>
     <string name="swipe_up_to_play_next_in_playlist">Csúsztatás fel: lista köv. eleme</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">Csúsztatás balra: visszatekerés</string>
     <string name="swipe_to_right_to_fast_forward">Csúsztatás jobbra: előretekerés</string>
     <string name="remove_subscription_to_">Leiratkozás erről: [ %1$s ]</string>

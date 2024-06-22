@@ -626,6 +626,7 @@
     <string name="swipe_to_left_to_fast_rewind">Sveip til venstre for å spole tilbake</string>
     <string name="swipe_to_right_to_fast_forward">Sveip til høyre for å spole frem</string>
     <string name="swipe_up_to_play_next_in_playlist">Sveip oppover for å spille av neste</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="sync_now">Synkroniser nå</string>
     <string name="sync_subscriptions_and_episode_playback_progress">Synkroniser abonnement og avspillingstid</string>
     <string name="syncing">Synkroniserer</string>

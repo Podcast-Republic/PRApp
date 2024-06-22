@@ -446,6 +446,7 @@
     <string name="auto_backup">Автоматическая архивация</string>
     <string name="double_tap_to_play_or_pause">Двойное касание – приостановить или возобновить воспроизведение</string>
     <string name="swipe_up_to_play_next_in_playlist">Свайп вверх - следующий файл из плейлиста</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">Свайп влево - перемотка назад</string>
     <string name="swipe_to_right_to_fast_forward">Свайп вправо - перемотка вперед</string>
     <string name="remove_subscription_to_">"Отменить подписку: [%1$s]"</string>

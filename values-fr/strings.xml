@@ -453,6 +453,7 @@
     <string name="auto_backup">Sauvegarde automatique</string>
     <string name="double_tap_to_play_or_pause">Tapez deux fois pour lire ou mettre en pause</string>
     <string name="swipe_up_to_play_next_in_playlist">Faites glisser vers le haut pour écouter le suivant dans la liste de lecture</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">Faites glisser vers la gauche pour reculer</string>
     <string name="swipe_to_right_to_fast_forward">Faites glisser vers la droite pour avancer</string>
     <string name="remove_subscription_to_">"Se désabonner : [%1$s]"</string>

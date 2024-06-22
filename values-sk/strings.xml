@@ -450,6 +450,7 @@
     <string name="auto_backup">Automatická záloha</string>
     <string name="double_tap_to_play_or_pause">Dvojitým klepnutím prehráte alebo pozastavíte prehrávanie</string>
     <string name="swipe_up_to_play_next_in_playlist">Pre prehratie ďalšej položky v playliste potiahnite nahor</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">Pre rýchle pretočenie dozadu potiahnite doľava</string>
     <string name="swipe_to_right_to_fast_forward">Pre rýchle pretočenie dopredu potiahnite doprava</string>
     <string name="remove_subscription_to_">"Odstrániť odber: [%1$s]"</string>

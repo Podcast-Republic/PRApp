@@ -448,6 +448,7 @@
     <string name="auto_backup">"Automatické zálohování"</string>
     <string name="double_tap_to_play_or_pause">"Dvojitým klepnutím přehrát nebo pozastavit"</string>
     <string name="swipe_up_to_play_next_in_playlist">"Přejeďte prstem nahoru, pro další v seznamu"</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">"Přejeďte prstem doleva pro přetočení zpět"</string>
     <string name="swipe_to_right_to_fast_forward">"Přejeďte prstem doprava pro posun vpřed"</string>
     <string name="remove_subscription_to_">"Zrušit odběru: [ %1$s ]"</string>

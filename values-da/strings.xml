@@ -450,6 +450,7 @@
     <string name="auto_backup">"Automatisk backup"</string>
     <string name="double_tap_to_play_or_pause">"Tryk to gange for afspil eller pause"</string>
     <string name="swipe_up_to_play_next_in_playlist">"Swipe opad for at spille det næste i playlisten"</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">"Swipe til venstre for at spole tilbage"</string>
     <string name="swipe_to_right_to_fast_forward">"Swipe til højre for at spole fremad"</string>
     <string name="remove_subscription_to_">"Fjern abonnement på: [ %1$s ]"</string>

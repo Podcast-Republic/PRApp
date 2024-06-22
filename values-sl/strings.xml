@@ -454,6 +454,7 @@
     <string name="auto_backup">Varnostna kopija</string>
     <string name="double_tap_to_play_or_pause">Dvojni dotik za predvajanje ali pavzo</string>
     <string name="swipe_up_to_play_next_in_playlist">Podrsajte navzgor za predvajanje naslednjega na seznamu</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">Podrsajte v levo za skok nazaj</string>
     <string name="swipe_to_right_to_fast_forward">Podrsajte v desno za skok naprej</string>
     <string name="remove_subscription_to_">"Odstrani naročnino na: [%1$s]."</string>

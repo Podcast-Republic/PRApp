@@ -472,6 +472,7 @@
     <string name="auto_backup">Auto backup</string>
     <string name="double_tap_to_play_or_pause">Double tap to play or pause</string>
     <string name="swipe_up_to_play_next_in_playlist">Swipe up to play next in playlist</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
     <string name="swipe_to_left_to_fast_rewind">Swipe to left to fast rewind</string>
     <string name="swipe_to_right_to_fast_forward">Swipe to right to fast forward</string>
     <string name="remove_subscription_to_">"Remove subscription to: [%1$s]."</string>

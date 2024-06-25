@@ -358,7 +358,7 @@
     <string name="remove_episode_only">"Лише видалити епізод"</string>
     <string name="mark_episode_as_played">"Позначити епізод як прослуханий"</string>
     <string name="mark_episode_as_played_if_more_than_has_been_played">"Позначити епізод як прослуханий, якщо відтворено понад %1$d%%"</string>
-    <string name="download_episode">"Завантажувати епізод"</string>
+    <string name="download_episode">"Завантажити епізод"</string>
     <string name="start_downloading_when_episode_is_added_to_playlist">"Починати завантаження відразу після додавання епізоду до списку відтворення"</string>
     <string name="podcast_keep_download_limit_reached_">"Досягнуто ліміту кількості подкастів, що можливо завантажити!"</string>
     <string name="auto_download_filter">"Фільтр для автозавантаження"</string>
@@ -448,8 +448,8 @@
     <string name="generated_by_s_app">"Створено програмою %1$s"</string>
     <string name="auto_backup">"Автоматичне резервне копіювання"</string>
     <string name="double_tap_to_play_or_pause">"Торкнутися двічі, щоб розпочати або призупинити"</string>
-    <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх, щоб відтворити наступний за списком"</string>
-    <string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
+    <string name="swipe_up_to_play_next_in_playlist">"Свайпнути вверх, щоб відтворити наступний епізод у списку відтворення"</string>
+    <string name="swipe_down_to_play_previous_in_playlist">Свайпнути вниз, щоб відтворити попередній епізод у списку відтворення</string>
     <string name="swipe_to_left_to_fast_rewind">"Свайпнути ліворуч, щоб перемотати назад"</string>
     <string name="swipe_to_right_to_fast_forward">"Свайпнути праворуч, щоб перемотати вперед"</string>
     <string name="remove_subscription_to_">"Відписатися від «%1$s»?"</string>
@@ -571,7 +571,7 @@
     <string name="add_a_playlist">"Додати список відтворення"</string>
     <string name="add_to_tag">"Додати тег"</string>
     <string name="add_to_default_playlists">"Додати в стандартні плейлисти"</string>
-    <string name="add_to_selected_playlists">"Додати до вибраних плейлистів"</string>
+    <string name="add_to_selected_playlists">"Додавати до вибраних плейлистів"</string>
     <string name="delete_selected_episodes_">"Видалити вибрані епізоди?"</string>
     <string name="you_have_no_completed_downloads">"У вас немає завершених завантажень."</string>
     <string name="you_have_no_pending_downloads">"У вас немає епізодів, що завантажуються"</string>
@@ -954,7 +954,7 @@
     <string name="download_priority">Пріоритет завантаження</string>
     <string name="only_include_episodes_with_user_chapters">Вибрати тільки епізоди з розділами, доданими особисто</string>
     <string name="add_tags_to_podcast">Додати теги до подкасту</string>
-    <string name="add_new_episodes_to_selected_playlists_automatically_">Автоматично додати нові епізоди до вибраних списків відтворення</string>
+    <string name="add_new_episodes_to_selected_playlists_automatically_">Автоматично додавати нові епізоди до вибраних списків відтворення</string>
     <string name="podcast_artwork">Обкладинка подкасту</string>
     <string name="rss_feed_artwork">Обкладинка RSS-каналу</string>
     <string name="add_tags_to_rss_feed">Додати теги до RSS-каналу</string>
@@ -1038,8 +1038,8 @@
     <string name="feed_title_can_not_be_empty_">Назва каналу не може бути пустою!</string>
     <string name="rss_feed_url_can_not_be_empty_">URL-адреса RSS-каналу не може бути порожньою!</string>
     <string name="no_rss_feeds_found_">Жодного RSS-каналу не знайдено!</string>
-    <string name="remove_obsolete_episodes">Видалити застарілі епізоди</string>
-    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видалити застарілі епізоди, якщо вони більше не присутні в каналі подкасту.</string>
+    <string name="remove_obsolete_episodes">Видаляти застарілі епізоди</string>
+    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Видаляти застарілі епізоди, якщо вони більше не присутні в каналі подкасту.</string>
     <string name="mark_as_played">"Позначити прослуханим"</string>
     <string name="mark_as_unplayed">"Позначити непрослуханим"</string>
     <string name="swipe_left_action">Дія на свайп вліво</string>

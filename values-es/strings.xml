@@ -967,7 +967,7 @@
     <string name="bitrate">Bitrate</string>
     <string name="number_of_tracks">Numero de canciones</string>
     <string name="preview_notes">Avance de las notas</string>
-    <string name="preview_user_notes_in_list">Avance de las notas de los usuarios en la lista</string>
+    <string name="preview_user_notes_in_list">Avance de las notas de los usuarios en la lista. Episode descriptions will not be displayed if this option is enabled.</string>
     <string name="extract_from_metadata">Extraer desde la metadata</string>
     <string name="use_filename">Usar nombre de archivo</string>
     <string name="delete_played_episode">Eliminar episodio reproducido</string>

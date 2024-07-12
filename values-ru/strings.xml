@@ -1145,7 +1145,7 @@
     <string name="display_radio_stations_list">Отобразить список радиостанций.</string>
     <string name="posted">Опубликовано</string>
     <string name="preview_notes">Предпросмотр заметок</string>
-    <string name="preview_user_notes_in_list">Предпросмотр пользовательских заметок в списке.</string>
+    <string name="preview_user_notes_in_list">Предпросмотр пользовательских заметок в списке. Episode descriptions will not be displayed if this option is enabled.</string>
     <string name="reverse_landscape_screen_display_mode">Альбомная перевернутая</string>
     <string name="select_episodes_with_duration_between_d_and_d_minutes">Выбрать выпуски продолжительностью от %1$d до %2$d минут.</string>
     <string name="select_episodes_with_duration_less_than_d_minutes_or_greater_than_d_minutes">Выбрать выпуски продолжительностью менее %1$d или более %2$d минут.</string>

@@ -969,7 +969,7 @@
     <string name="bitrate">Бітрейт</string>
     <string name="number_of_tracks">Кількість треків</string>
     <string name="preview_notes">Попередній перегляд нотаток</string>
-    <string name="preview_user_notes_in_list">Попередній перегляд нотаток користувача в списку</string>
+    <string name="preview_user_notes_in_list">Попередній перегляд нотаток користувача в списку. Episode descriptions will not be displayed if this option is enabled.</string>
     <string name="extract_from_metadata">Витягти з метаданих</string>
     <string name="use_filename">Використати назву файлу</string>
     <string name="delete_played_episode">Видалити прослуханий епізод</string>

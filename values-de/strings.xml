@@ -446,6 +446,7 @@
 	<string name="auto_backup">"Automatisches Backup"</string>
 	<string name="double_tap_to_play_or_pause">"Doppelt tippen für Wiedergabe/Pause"</string>
 	<string name="swipe_up_to_play_next_in_playlist">"Nach oben wischen für nächsten Playlist-Eintrag"</string>
+	<string name="swipe_down_to_play_previous_in_playlist">Swipe down to play previous in playlist</string>
 	<string name="swipe_to_left_to_fast_rewind">"Nach links wischen zum Zurückspulen"</string>
 	<string name="swipe_to_right_to_fast_forward">"Nach rechts wischen zum Vorspulen"</string>
 	<string name="remove_subscription_to_">"Abonnement von [%1$s] entfernen"</string>
@@ -966,7 +967,7 @@
 	<string name="bitrate">Bitrate</string>
 	<string name="number_of_tracks">Anzahl der Tracks</string>
 	<string name="preview_notes">Vorschau der Notizen</string>
-	<string name="preview_user_notes_in_list">Vorschau der Benutzernotizen in der Liste</string>
+	<string name="preview_user_notes_in_list">Vorschau der Benutzernotizen in der Liste. Episode descriptions will not be displayed if this option is enabled.</string>
 	<string name="extract_from_metadata">Auszug aus den Metadaten</string>
 	<string name="use_filename">Dateiname benutzen</string>
 	<string name="delete_played_episode">Wiedergegebene Folge löschen</string>

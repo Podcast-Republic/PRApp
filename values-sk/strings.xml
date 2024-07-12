@@ -974,7 +974,7 @@
     <string name="bitrate">Bitrate</string>
     <string name="number_of_tracks">Počet skladieb</string>
     <string name="preview_notes">Náhľad poznámky</string>
-    <string name="preview_user_notes_in_list">Náhľad používateľských poznámok v zozname</string>
+    <string name="preview_user_notes_in_list">Náhľad používateľských poznámok v zozname. Episode descriptions will not be displayed if this option is enabled.</string>
     <string name="extract_from_metadata">Získať z metadát</string>
     <string name="use_filename">Použiť názov súboru</string>
     <string name="delete_played_episode">Odstrániť prehraté epizódy</string>

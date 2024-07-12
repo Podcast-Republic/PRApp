@@ -970,7 +970,7 @@
     <string name="bitrate">Bitrate</string>
     <string name="number_of_tracks">Antal numre</string>
     <string name="preview_notes">Forhåndsvisning af noter</string>
-    <string name="preview_user_notes_in_list">Forhåndsvisning af brugernoter i listen</string>
+    <string name="preview_user_notes_in_list">Forhåndsvisning af brugernoter i listen. Episode descriptions will not be displayed if this option is enabled.</string>
     <string name="extract_from_metadata">Udtræk fra metadata</string>
     <string name="use_filename">Brug filnavn</string>
     <string name="delete_played_episode">Slet afspillet afsnit</string>

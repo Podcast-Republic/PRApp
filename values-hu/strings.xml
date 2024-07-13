@@ -972,7 +972,7 @@
     <string name="bitrate">Bitráta</string>
     <string name="number_of_tracks">Műsorszámok száma</string>
     <string name="preview_notes">Jegyzetek előnézete</string>
-    <string name="preview_user_notes_in_list">Felhasználói jegyzetek előnézete a listában</string>
+    <string name="preview_user_notes_in_list">Felhasználói jegyzetek előnézete a listában. Az epizód leírások nem jelennek meg, ha ez az opció engedélyezve van.</string>
     <string name="extract_from_metadata">Kivonat a metaadatokból</string>
     <string name="use_filename">Fájlnév használata</string>
     <string name="delete_played_episode">Lejátszott epizód törlése</string>

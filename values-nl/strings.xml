@@ -970,7 +970,7 @@
     <string name="bitrate">Bitrate</string>
     <string name="number_of_tracks">Aantal nummers</string>
     <string name="preview_notes">Voorbeeld notities</string>
-    <string name="preview_user_notes_in_list">Voorbeeld gebruikersnotities in lijst</string>
+    <string name="preview_user_notes_in_list">Voorbeeld gebruikersnotities in lijst. Episode descriptions will not be displayed if this option is enabled.</string>
     <string name="extract_from_metadata">Extract from metadata</string>
     <string name="use_filename">Gebruik bestandsnaam</string>
     <string name="delete_played_episode">Verwijder afgespeelde aflevering</string>

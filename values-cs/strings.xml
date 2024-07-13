@@ -968,7 +968,7 @@
     <string name="bitrate">Datový tok</string>
     <string name="number_of_tracks">Počet skladeb</string>
     <string name="preview_notes">Prohlédnout poznámky</string>
-    <string name="preview_user_notes_in_list">Prohlédnout uživatelské poznámky v seznamu</string>
+    <string name="preview_user_notes_in_list">Prohlédnout uživatelské poznámky v seznamu. Episode descriptions will not be displayed if this option is enabled.</string>
     <string name="extract_from_metadata">Vypsat z metadat</string>
     <string name="use_filename">Použít název souboru</string>
     <string name="delete_played_episode">Smazat přehranou epizodu</string>

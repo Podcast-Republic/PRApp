@@ -501,8 +501,8 @@
 	<string name="browse_by_radio_stations">"Radiosendern durchsuchen"</string>
 	<string name="wifi_is_not_available_cancelling_podcast_update_checking_">"WLAN ist nicht verfügbar. Prüfung auf Podcst-Updates abgebrochen."</string>
 	<string name="pull_to_refresh">"Zum Aktualisieren wischen"</string>
-	<string name="pull_down_the_playlist_to_start_podcast_update_checking">"Die Playlist nach unten wischen, um auf Podcast-Updates zu prüfen"</string>
-	<string name="pull_down_download_list_to_start_podcast_update_checking">"Die Download-Liste nach unten wischen, um auf Podcast-Updates zu prüfen"</string>
+	<string name="pull_down_the_playlist_to_start_podcast_update_checking">"\"Playlisten\" nach unten wischen, um auf Updates zu prüfen"</string>
+	<string name="pull_down_download_list_to_start_podcast_update_checking">"\"Downloads\" nach unten wischen, um auf Updates zu prüfen"</string>
 	<string name="auto_rotate_screen">"Bildschirm automatisch drehen"</string>
 	<string name="screen_orientation">"Bildschirmausrichtung"</string>
 	<string name="portrait">"Hochformat"</string>
@@ -514,7 +514,7 @@
 	<string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
 	<string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
 	<string name="percent_played">"%1$d%% abgespielt"</string>
-	<string name="pull_down_podcasts_list_to_start_podcast_update_checking">"Podcast-Liste nach unten wischen, um auf Podcast-Updates zu prüfen"</string>
+	<string name="pull_down_podcasts_list_to_start_podcast_update_checking">"\"Abonnements\" nach unten wischen, um auf Updates zu prüfen"</string>
 	<string name="actions">"Aktionen"</string>
 	<string name="when_an_episode_is_100_played">"Wenn eine Folge zu 100% abgespielt ist"</string>
 	<string name="delete_the_download">"Download löschen"</string>
@@ -578,7 +578,7 @@
 	<string name="set_playlists">"Standard-Playlisten wählen"</string>
 	<string name="mark_all_as_read">"Alle als gelesen markieren"</string>
 	<string name="not_in_use">"Nicht in Gebrauch"</string>
-	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"Nach unten wischen, um Folgenliste auf Podcast-Updates zu prüfen"</string>
+	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten wischen, um auf Updates zu prüfen"</string>
 	<string name="mark_all_previous_episodes_as_played">"Alle vorherigen Folgen als abgespielt markieren"</string>
 	<string name="remove_favorite">"Favorit entfernen"</string>
 	<string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Alle Folgen, die neuer sind als diese Folge [%1$s] als abgespielt markieren?"</string>
@@ -878,12 +878,12 @@
 	<string name="allow_to_stream_radios_only_when_wifi_is_connected">"Radios können nur gestreamt werden, wenn eine WLAN-Verbindung besteht"</string>
 	<string name="history_and_stats">"Verlauf &amp; Statistiken"</string>
 	<string name="delete_downloads">"Downloads löschen"</string>
-	<string name="keep_download">"Download fortsetzen"</string>
+	<string name="keep_download">"Download behalten"</string>
 	<string name="delete_episodes">"Folgen löschen"</string>
 	<string name="playback_mode_priority">"Prioritätsmodus"</string>
 	<string name="stats">"Statistiken"</string>
 	<string name="time_saved_b_s_b">"Gesparte Zeit: <b> %s </b>."</string>
-	<string name="you_ve_listened_b_s_b">"Sie haben gehört: <b> %s </b>."</string>
+	<string name="you_ve_listened_b_s_b">"Gehört: <b> %s </b>."</string>
 	<string name="since_date">"Seit: "</string>
 	<string name="reset_stats">"Statistiken zurücksetzen"</string>
 	<string name="find_rss_feed">"RSS-Feed suchen"</string>
@@ -939,7 +939,7 @@
 	<string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignoriere bei der Sortierung nach Titel die Artikel (A, An oder The) im Podcast-Titel</string>
 	<string name="create_shortcut">Verknüpfung erstellen</string>
 	<string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Erlaube die Verwendung mobiler Daten und ignoriere die Akkubeschränkungen beim Herunterladen von Folgen.</string>
-	<string name="show_play_next_episode_station_button">Nächste Folge/Sender abspielen anzeigen.</string>
+	<string name="show_play_next_episode_station_button">Schaltfläche \"Nächste Folge/Sender abspielen\" anzeigen.</string>
 	<string name="append_to_up_next">"An \"Als Nächstes\" anhängen"</string>
 	<string name="only_include_episodes_with_user_notes">Nur Folgen mit Benutzernotizen berücksichtigen</string>
 	<string name="description_preview">Beschreibungsvorschau</string>
@@ -1144,7 +1144,7 @@
 	<string name="at_lease_one_playback_control_is_required">- Mindestens eine Wiedergabesteuerung ist erforderlich.</string>
 	<string name="collapsed_notification_can_have_up_to_three_playback_controls">- Eine reduzierte Benachrichtigung kann bis zu drei Wiedergabesteuerungen haben.</string>
 	<string name="save_image">Bild speichern</string>
-	<string name="view_or_edit_playlist_setup_">Playlist-Setup anzeigen oder bearbeiten.</string>
+	<string name="view_or_edit_playlist_setup_">Playlist-Einstellungen anzeigen oder bearbeiten.</string>
 	<string name="search_in_title">Im Titel suchen</string>
 	<string name="search_in_title_and_article">Suche in Titel und Artikel</string>
 	<string name="youtube">YouTube</string>

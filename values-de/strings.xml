@@ -272,7 +272,7 @@
 	<string name="grid_view">"Gitteransicht"</string>
 	<string name="playback_mode_playlist">"Playlistmodus"</string>
 	<string name="playback_mode_single_episode">"Einzelwiedergabe"</string>
-	<string name="s_has_been_added_to_subscription">"%1$s wurde zum Abo hinzufügt"</string>
+	<string name="s_has_been_added_to_subscription">"%1$s wurde zum Abo hinzugefügt"</string>
 	<string name="audio_not_started_yet">"Audio noch nicht gestartet!"</string>
 	<string name="manage_playlists">"Playlisten bearbeiten"</string>
 	<string name="download">"Download"</string>

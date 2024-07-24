@@ -11,13 +11,13 @@
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Letzte %1$d Folge.</item>
+        <item quantity="one">Letzte Folge.</item>
         <item quantity="other">Letzte %1$d Folgen.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Neueste %d Folge anzeigen.</item>
-        <item quantity="other">Neuesten %d Folgen anzeigen.</item>
+        <item quantity="one">Letzte Folge anzeigen.</item>
+        <item quantity="other">Letzte %d Folgen anzeigen.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
@@ -176,12 +176,12 @@
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Die erste %d Sekunde überspringen."</item>
+        <item quantity="one">"Die erste Sekunde überspringen."</item>
         <item quantity="other">"Die ersten %d Sekunden überspringen."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Die letze %d Sekunde überspringen."</item>
+        <item quantity="one">"Die letze Sekunde überspringen."</item>
         <item quantity="other">"Die letzen %d Sekunden überspringen."</item>
     </plurals>
 

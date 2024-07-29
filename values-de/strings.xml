@@ -889,7 +889,7 @@
 	<string name="find_rss_feed">"RSS-Feed suchen"</string>
 	<string name="there_are_no_rss_feeds">"Es gibt keine RSS-Feeds!"</string>
 	<string name="got_it">"Verstanden"</string>
-	<string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Du hast die Liste \"Als Nächstes\" neu angeordnet. Infolgedessen wird \"Als Nächstes\" nicht mehr durch die derzeit wiedergegebenen Folgen- oder Playliste aktualisiert."</string>
+	<string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Du hast die Liste \"Als Nächstes\" neu angeordnet. Infolgedessen wird \"Als Nächstes\" nicht mehr durch die derzeit wiedergegebene Folgen- oder Playliste aktualisiert."</string>
 	<string name="don_t_show_it_again">"Nicht noch einmal anzeigen"</string>
 	<string name="always_on">"Immer an"</string>
 	<string name="always_on_amoled_black">"Immer an (AMOLED schwarz)"</string>

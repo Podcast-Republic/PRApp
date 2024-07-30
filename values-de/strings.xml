@@ -135,7 +135,7 @@
 	<string name="publisher">"Herausgeber"</string>
 	<string name="description_of_podcast">"Beschreibung des Podcasts"</string>
 	<string name="description">"Beschreibung"</string>
-	<string name="play">"Abspielen"</string>
+	<string name="play">"Wiedergabe"</string>
 	<string name="share">"Teilen"</string>
 	<string name="add_to_playlists">"Einer Playlist hinzufügen"</string>
 	<string name="end_editing_mode">"Bearbeitungsmodus verlassen"</string>
@@ -261,7 +261,7 @@
 	</string-array>
 	<string name="theme">"Farbschema"</string>
 	<string name="skip_beginning">"Anfang überspringen"</string>
-	<string name="time_display_second_short_format">"Sekunden"</string>
+	<string name="time_display_second_short_format">"Sek."</string>
 	<string name="search_episodes">"Folgen suchen"</string>
 	<string name="widgets">"Widgets"</string>
 	<string name="low">"Niedrig"</string>
@@ -457,7 +457,7 @@
 	<string name="no_more_episodes_to_play_from_playlist_s_">"Keine Folgen mehr in Playlist [%1$s] abzuspielen"</string>
 	<string name="apply_this_change_to_all_podcasts_">"Diese Änderungen auf alle Podcasts anwenden?"</string>
 	<string name="grid_size">"Gittergröße"</string>
-	<string name="play_pause_double_click">"Start/Stopp mit Doppelklick"</string>
+	<string name="play_pause_double_click">"Wiedergabe/Pause mit Doppelklick"</string>
 	<string name="total_episodes_d">"Gesamtanzahl der Folgen: %1$d"</string>
 	<string name="duration">"Dauer"</string>
 	<string name="browse_downloads">"Downloads durchsuchen"</string>
@@ -472,7 +472,7 @@
 	<string name="select_an_image_on_device">"Lokale Bilddatei auswählen"</string>
 	<string name="scanning_">"Scannen…"</string>
 	<string name="playback_speed">"Wiedergabegeschwindigkeit"</string>
-	<string name="keep_playing">"Normale Wiedergabe"</string>
+	<string name="keep_playing">"Weiter abspielen"</string>
 	<string name="play_from_position">"Wiedergabe ab Position"</string>
 	<string name="report_a_bug">"Fehlerbericht senden"</string>
 	<string name="import_export_opml">"OPML im-/exportieren"</string>
@@ -577,7 +577,7 @@
 	<string name="no_play_history_found">"Kein Wiedergabe-Verlauf gefunden."</string>
 	<string name="set_playlists">"Standard-Playlisten wählen"</string>
 	<string name="mark_all_as_read">"Alle als gelesen markieren"</string>
-	<string name="not_in_use">"Nicht in Gebrauch"</string>
+	<string name="not_in_use">"Nicht verwendet"</string>
 	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten ziehen, um auf Updates zu prüfen"</string>
 	<string name="mark_all_previous_episodes_as_played">"Alle vorherigen Folgen als abgespielt markieren"</string>
 	<string name="remove_favorite">"Favorit entfernen"</string>
@@ -950,7 +950,7 @@
 	<string name="syncing_articles_">Artikel synchronisieren…</string>
 	<string name="syncing_rss_feeds_">RSS-Feeds synchronisieren…</string>
 	<string name="download_priority">Download-Priorität</string>
-	<string name="only_include_episodes_with_user_chapters">Nur Folgen mit Anwenderkapiteln berücksichtigen</string>
+	<string name="only_include_episodes_with_user_chapters">Nur Folgen mit Benutzerkapiteln berücksichtigen</string>
 	<string name="add_tags_to_podcast">Tags zum Podcast hinzufügen</string>
 	<string name="add_new_episodes_to_selected_playlists_automatically_">Neue Folgen werden automatisch zu den ausgewählten Playlisten hinzugefügt.</string>
 	<string name="podcast_artwork">Podcast-Bilder</string>
@@ -1199,7 +1199,7 @@
 	<string name="update_up_next_automatically">\"Als Nächstes\" automatisch aktualisieren</string>
 	<string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">\"Als Nächstes\" automatisch aktualisieren, wenn die derzeit wiedergegebene Folgen- oder Playliste geändert/aktualisiert wird.</string>
 	<string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Gebe unten den Benutzernamen und das Passwort ein, wenn der RSS-Feed eine Authentifizierung erfordert. Lasse es leer, wenn keine Authentifizierung erforderlich ist.</string>
-	<string name="play_pause_triple_click">Dreifachklick abspielen/pausieren</string>
+	<string name="play_pause_triple_click">Wiedergabe/Pause mit Dreifachklick</string>
 	<string name="title_display">Titelanzeige</string>
 	<string name="rotate_by_priority">Nach Priorität rotieren</string>
 	<string name="click_the_button_blow_if_adding_a_podcast_feed">Klicke auf die Schaltfläche unten, wenn du einen Podcast-Feed hinzufügst.</string>

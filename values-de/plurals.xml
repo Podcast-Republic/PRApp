@@ -147,7 +147,7 @@
 
     <plurals name="keep_articles_from_last_d_days">
         <item quantity="one">"Artikel des letzten Tages aufbewahren."</item>
-        <item quantity="other">"Artikel der letzten %d Tagen aufbewahren."</item>
+        <item quantity="other">"Artikel der letzten %d Tage aufbewahren."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
@@ -172,7 +172,7 @@
 
     <plurals name="select_episodes_from_last_d_days">
         <item quantity="one">"Folgen des letzten Tages auswählen."</item>
-        <item quantity="other">"Folgen der letzten %d Tagen auswählen."</item>
+        <item quantity="other">"Folgen der letzten %d Tage auswählen."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
@@ -207,6 +207,6 @@
 
     <plurals name="select_articles_from_last_d_days">
         <item quantity="one">"Artikel des letzten Tages auswählen."</item>
-        <item quantity="other">"Artikel der letzten %d Tagen auswählen."</item>
+        <item quantity="other">"Artikel der letzten %d Tage auswählen."</item>
     </plurals>
 </resources>

@@ -416,8 +416,8 @@
 	<string name="move_to_bottom">"Auswahl nach unten bewegen"</string>
 	<string name="downloaded">"Heruntergeladen"</string>
 	<string name="dont_download_episode">"Folge nicht herunterladen"</string>
-	<string name="match_all_keywords">"Alle Schlüsselwörter abgleichen"</string>
-	<string name="match_any_of_the_keywords">"Beliebiges Schlüsselwort abgleichen"</string>
+	<string name="match_all_keywords">"Alle Schlüsselwörter übereinstimmen"</string>
+	<string name="match_any_of_the_keywords">"Beliebiges Schlüsselwort übereinstimmt"</string>
 	<string name="download_episode_if_matching_all_keywords_s">"Folge herunterladen, wenn alle Schlüsselwörter übereinstimmen: %1$s."</string>
 	<string name="download_episode_if_matching_any_of_the_keywords_s">"Folge herunterladen, wenn ein Schlüsselwort übereinstimmt: %1$s."</string>
 	<string name="dont_download_episode_if_matching_all_keywords_s">"Folge nicht herunterladen, wenn alle Schlüsselwörter übereinstimmen: %1$s."</string>
@@ -591,7 +591,7 @@
 	<string name="or">"Oder"</string>
 	<string name="up_next_list_has_been_updated_to_play_from_s">"\"Als Nächstes\" wurde von %s aktualisiert"</string>
 	<string name="do_a_full_syncing_will_take_much_longer_to_finish">"Die vollständige Synchronisierung dauert deutlich länger bis sie abgeschlossen ist."</string>
-	<string name="buy_me_a_coffee_message">"Wenn Dir die Podcast Republic App gefällt und Du die Entwicklung unterstützen möchtest, spendiere mir eine Tasse Kaffee. Vielen Dank!"</string>
+	<string name="buy_me_a_coffee_message">"Wenn Dir die Podcast-Republic-App gefällt und Du die Entwicklung unterstützen möchtest, spendiere mir eine Tasse Kaffee. Vielen Dank!"</string>
 	<string name="maybe_later">"Vielleicht später"</string>
 	<string name="sign_up">"Registrieren"</string>
 	<string name="download_state_idle">"Auf Start des Downloads warten"</string>
@@ -1023,7 +1023,7 @@
 	<string name="google_drive">Google Drive</string>
 	<string name="select_backup_file_to_restore_from">Sicherungsdatei zum Wiederherstellen auswählen</string>
 	<string name="open_android_file_manager">Android-Dateimanager öffnen</string>
-	<string name="android_file_manager_select_tip">Tipps: Der Android-Dateimanager wird geöffnet, um die Wiederherstellung abzuschließen. Bitte navigiere zum Verzeichnis, an dem sich die Sicherungsdatei befindet, und halte die Datei gedrückt, um sie auszuwählen. Die Standardsicherungsdatei wird im Format backup_date.zip</string>
+	<string name="android_file_manager_select_tip">Tipps: Der Android-Dateimanager wird geöffnet, um die Wiederherstellung abzuschließen. Bitte wähle das Verzeichnis, in dem sich die Sicherungsdatei befindet, und halte die Datei gedrückt, um sie auszuwählen. Die Standardsicherungsdatei entspricht diesem Format \"podcast_republic_backup_zeitstempel.zip\"</string>
 	<string name="save_auto_backup_to">Automatisches Backup sichern nach</string>
 	<string name="use_wifi_only">Nur WLAN verwenden</string>
 	<string name="back_up_google_drive_only_when_wifi_is_connected_">Nur bei bestehender WLAN-Verbindung auf Google Drive sichern.</string>
@@ -1132,8 +1132,8 @@
 	<string name="jump_to_previous_chapter">Zum vorherigen Kapitel springen</string>
 	<string name="when_i_press_the_previous_button">Wenn ich die Zurück-Taste drücke</string>
 	<string name="playback_mode_single_episode_load_next">Einzelne Folge (nächste laden)</string>
-	<string name="schedule_as_verb">Zeitplan</string>
-	<string name="schedule_a_date">Termin vereinbaren</string>
+	<string name="schedule_as_verb">Datum</string>
+	<string name="schedule_a_date">Datum festlegen</string>
 	<string name="fund_this_podcast">Diesen Podcast unterstützen</string>
 	<string name="podcast_description_will_be_updated_after_refreshing_">Die Podcast-Beschreibung wird nach der Aktualisierung aktualisiert.</string>
 	<string name="podcast_title_will_be_updated_after_refreshing_">Der Podcast-Titel wird nach der Aktualisierung aktualisiert.</string>
@@ -1234,7 +1234,7 @@
 	<string name="include_episode">Folge berücksichtigen</string>
 	<string name="exclude_episode">Folge ausnehmen</string>
 	<string name="include_episodes_matching_the_keywords_">Folgen berücksichtigen, die den Schlüsselwörtern entsprechen.</string>
-	<string name="exclude_episodes_matching_the_keywords_">Folgen berücksichtigen, die den Schlüsselwörtern entsprechen.</string>
+	<string name="exclude_episodes_matching_the_keywords_">Folgen ausnehmen, die den Schlüsselwörtern entsprechen.</string>
 	<string name="clear_list">Liste leeren</string>
 	<string name="podcast_has_no_default_playlists_message">Dieser Podcast hat keine Standard-Playlists. Bitte gehe zu den Podcast-Einstellungen, um die Standard-Playlists einzurichten.</string>
 	<string name="no_wi_fi_update_feed_once_with_mobile_data">Kein WLAN - Feed einmal mit mobilen Daten aktualisieren?</string>

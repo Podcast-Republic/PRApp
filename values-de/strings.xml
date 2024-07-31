@@ -91,8 +91,8 @@
 	<string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Abgespielte Folge aus der Downloadliste automatisch löschen"</string>
 	<string name="pref_downloadLocation">"Podcast herunterladen nach: "</string>
 	<string name="downloads">"Downloads"</string>
-	<string name="jump_to_next_episode">"Aktuelle Wiedergabeposition merken"</string>
-	<string name="jump_to_the_end">"Als abgespielt markieren"</string>
+	<string name="jump_to_next_episode">"Zur nächsten Folge springen"</string>
+	<string name="jump_to_the_end">"Ans Ende springen"</string>
 	<string name="delete_download">"Download löschen"</string>
 	<string name="pause_download">"Download pausieren"</string>
 	<string name="resume_download">"Download fortsetzen"</string>
@@ -1128,7 +1128,7 @@
 	<string name="remove_all_episodes_above">Alles oberhalb entfernen</string>
 	<string name="remove_all_episodes_below">Alles unterhalb entfernen</string>
 	<string name="jump_to_previous_episode">Zur vorherigen Folge springen</string>
-	<string name="jump_to_the_beginning">Springe zum Anfang</string>
+	<string name="jump_to_the_beginning">Zum Anfang springen</string>
 	<string name="jump_to_previous_chapter">Zum vorherigen Kapitel springen</string>
 	<string name="when_i_press_the_previous_button">Wenn ich die Zurück-Taste drücke</string>
 	<string name="playback_mode_single_episode_load_next">Einzelne Folge (nächste laden)</string>

@@ -11,13 +11,13 @@
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Letzte %1$d Folge.</item>
+        <item quantity="one">Letzte Folge.</item>
         <item quantity="other">Letzte %1$d Folgen.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Neueste %d Folge anzeigen.</item>
-        <item quantity="other">Neuesten %d Folgen anzeigen.</item>
+        <item quantity="one">Letzte Folge anzeigen.</item>
+        <item quantity="other">Letzte %d Folgen anzeigen.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
@@ -51,18 +51,18 @@
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Automatischer Download von bis zu %d neueren und nicht abgespielte Folge aus dem aktuellen Podcast.</item>
-        <item quantity="other">Automatischer Download von bis zu %d neueren und nicht abgespielten Folgen aus dem aktuellen Podcast.</item>
+        <item quantity="one">Automatischer Download von einer neuen und nicht abgespielten Folge aus dem aktuellen Podcast.</item>
+        <item quantity="other">Automatischer Download von bis zu %d neuen und nicht abgespielten Folgen aus dem aktuellen Podcast.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Automatischer Download von bis zu %d älteren und nicht abgespielten Folge aus dem aktuellen Podcast.</item>
+        <item quantity="one">Automatischer Download von einer älteren und nicht abgespielten Folge aus dem aktuellen Podcast.</item>
         <item quantity="other">Automatischer Download von bis zu %d älteren und nicht abgespielten Folgen aus dem aktuellen Podcast.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Automatischer Download von bis zu %1$d neuesten Folge, wenn neue Folgen abgerufen werden.</item>
-        <item quantity="other">Automatischer Download von bis zu %1$d neuesten Folgen, wenn neue Folgen abgerufen werden.</item>
+        <item quantity="one">Automatischer Download der aktuellsten Folge, wenn neue Folgen abgerufen werden.</item>
+        <item quantity="other">Automatischer Download von bis zu %1$d aktuellsten Folgen, wenn neue Folgen abgerufen werden.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
@@ -86,7 +86,7 @@
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Das letzte %1$d automatische Backup behalten."</item>
+        <item quantity="one">"Das letzte automatische Backup behalten."</item>
         <item quantity="other">"Die letzten %1$d automatischen Backups behalten."</item>
     </plurals>
 
@@ -131,23 +131,23 @@
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Behalte den letzten Download pro Podcast."</item>
-        <item quantity="other">"Behalte die letzten %1$d Downloads pro Podcast."</item>
+        <item quantity="one">"Den letzten Download pro Podcast behalten."</item>
+        <item quantity="other">"Die letzten %1$d Downloads pro Podcast behalten."</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Behalte den letzten Download für diesen Podcast."</item>
-        <item quantity="other">"Behalte die letzten %1$d Downloads für diesen Podcast."</item>
+        <item quantity="one">"Den letzten Download für diesen Podcast behalten."</item>
+        <item quantity="other">"Die letzten %1$d Downloads für diesen Podcast behalten."</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Markiere alle Folgen, die älter als die letzte Folge ist, als abgespielt, nachdem neue Folgen abgerufen wurden."</item>
-        <item quantity="other">"Markiere alle Folgen, die älter als die letzten %1$d Episodes sind, als abgespielt, nachdem neue Folgen abgerufen wurden."</item>
+        <item quantity="one">"Alle Folgen als abgespielt markieren, die älter als die letzte Folge sind, nachdem neue Folgen abgerufen wurden."</item>
+        <item quantity="other">"Alle Folgen als abgespielt markieren, die älter als die letzten %1$d Folgen sind, nachdem neue Folgen abgerufen wurden."</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Artikel des letzten %d Tag aufbewahren."</item>
-        <item quantity="other">"Artikel der letzten %d Tagen aufbewahren."</item>
+        <item quantity="one">"Artikel des letzten Tages aufbewahren."</item>
+        <item quantity="other">"Artikel der letzten %d Tage aufbewahren."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
@@ -171,17 +171,17 @@
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Folgen des letzten %d Tag auswählen."</item>
-        <item quantity="other">"Folgen der letzten %d Tagen auswählen."</item>
+        <item quantity="one">"Folgen des letzten Tages auswählen."</item>
+        <item quantity="other">"Folgen der letzten %d Tage auswählen."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Die erste %d Sekunde überspringen."</item>
+        <item quantity="one">"Die erste Sekunde überspringen."</item>
         <item quantity="other">"Die ersten %d Sekunden überspringen."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Die letze %d Sekunde überspringen."</item>
+        <item quantity="one">"Die letze Sekunde überspringen."</item>
         <item quantity="other">"Die letzen %d Sekunden überspringen."</item>
     </plurals>
 
@@ -206,7 +206,7 @@
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Artikel des letzten %d Tag auswählen."</item>
-        <item quantity="other">"Artikel der letzten %d Tagen auswählen."</item>
+        <item quantity="one">"Artikel des letzten Tages auswählen."</item>
+        <item quantity="other">"Artikel der letzten %d Tage auswählen."</item>
     </plurals>
 </resources>

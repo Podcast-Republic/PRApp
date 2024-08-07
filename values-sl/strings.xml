@@ -495,7 +495,7 @@
     <string name="radio_stations">Radijske postaje</string>
     <string name="radios">Radiji</string>
     <string name="stations">Postaje</string>
-    <string name="connection_failed">Povezava ni uspela.</string>
+    <string name="network_connection_failed">Povezava ni uspela.</string>
     <string name="search_stations">Išči postaje</string>
     <string name="add_a_station_by_url">Dodaj postajo z URL naslovom</string>
     <string name="radio_stream_url_is_required_">Zahtevan je URL naslov za pretakanje vsebin radijske postaje!</string>
@@ -652,7 +652,7 @@
     <string name="selected_podcasts_s">Izbrani podkasti: %1$s</string>
     <string name="unplayed_less_than_d_played">Nepredvajano (&lt; %1$d%% predvajano)</string>
     <string name="played_greater_than_d_played">Predvajano (&gt;= %1$d%% predvajano)</string>
-    <string name="unfinished_less_than_100_played">Nedokončano (&lt; 100% predvajano</string>
+    <string name="unfinished_less_than_100_played">Nedokončano (&lt; 100% predvajano)</string>
     <string name="finished_100_played">Končano (100% predvajano)</string>
     <string name="restore_defaults">Obnovi privzete vrednosti</string>
     <string name="at_least_one_episode_filter_is_required_">Zahtevan je najmanj en filter epizode!</string>
@@ -1345,4 +1345,5 @@
     <string name="stop_playing">Stop playing</string>
     <string name="the_above_controls_are_always_enabled_by_android_system">The above controls are always enabled by Android system.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">The first two selected controls will show up on the media player notification. The other selected controls will show up in the overflow options on Android Auto.</string>
+    <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
 </resources>

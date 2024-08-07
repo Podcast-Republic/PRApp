@@ -487,7 +487,7 @@
 	<string name="radio_stations">"Radiosender"</string>
 	<string name="radios">"Radiosender"</string>
 	<string name="stations">"Radiosender"</string>
-	<string name="connection_failed">"Verbindung gescheitert."</string>
+	<string name="network_connection_failed">"Verbindung gescheitert."</string>
 	<string name="search_stations">"Radiosender suchen"</string>
 	<string name="add_a_station_by_url">"Radiosender per URL hinzufügen"</string>
 	<string name="radio_stream_url_is_required_">"URL des Radiostreams ist erforderlich!"</string>
@@ -1341,4 +1341,5 @@
 	<string name="stop_playing">Wiedergabe stoppen</string>
 	<string name="the_above_controls_are_always_enabled_by_android_system">Die oberen Bedienelemente sind im Android-System immer aktiviert.</string>
 	<string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Die ersten zwei ausgewählten Bedienelemente werden in der Media-Player-Benachrichtungsleiste angezeigt. Die anderen ausgewählten Bedienelemente werden im Overflow-Menü von Android Auto angezeigt.</string>
+    <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
 </resources>

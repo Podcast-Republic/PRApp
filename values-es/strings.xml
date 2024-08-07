@@ -489,7 +489,7 @@
     <string name="radio_stations">"Emisoras de radio"</string>
     <string name="radios">"Radios"</string>
     <string name="stations">"Emisoras"</string>
-    <string name="connection_failed">"La conexión ha fallado."</string>
+    <string name="network_connection_failed">"La conexión ha fallado."</string>
     <string name="search_stations">"Buscar emisoras"</string>
     <string name="add_a_station_by_url">"Agregar emisora por URL"</string>
     <string name="radio_stream_url_is_required_">"¡Se requiere la URL de la transmisión de radio!"</string>
@@ -1342,4 +1342,5 @@
     <string name="stop_playing">Detener reproducción</string>
     <string name="the_above_controls_are_always_enabled_by_android_system">The above controls are always enabled by Android system.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">The first two selected controls will show up on the media player notification. The other selected controls will show up in the overflow options on Android Auto.</string>
+    <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
 </resources>

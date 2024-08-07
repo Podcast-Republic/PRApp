@@ -490,7 +490,7 @@
     <string name="radio_stations">Rádióállomások</string>
     <string name="radios">Rádiók</string>
     <string name="stations">Állomások</string>
-    <string name="connection_failed">Kapcsolódás nem sikerült.</string>
+    <string name="network_connection_failed">Kapcsolódás nem sikerült.</string>
     <string name="search_stations">Állomások keresése</string>
     <string name="add_a_station_by_url">Állomás hozzáadása URL címmel</string>
     <string name="radio_stream_url_is_required_">Rádió URL cím szükséges!</string>
@@ -1346,4 +1346,5 @@
     <string name="stop_playing">Lejátszás leállítása</string>
     <string name="the_above_controls_are_always_enabled_by_android_system">A fenti vezérlőket az Android rendszer mindig engedélyezi.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Az első két kiválasztott vezérlőelem megjelenik a médialejátszó értesítésében. A többi kiválasztott vezérlőelem az Android Auto túlcsordulási opcióiban jelenik meg.</string>
+    <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
 </resources>

@@ -2,213 +2,254 @@
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one">"Has escoltat: %1$d episodi, %2$s."</item>
+        <item quantity="many">"Has escoltat: %1$d episodis, %2$s."</item>
         <item quantity="other">"Has escoltat: %1$d episodis, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d línia</item>
-        <item quantity="other">%1$d línies</item>
+        <item quantity="one">"%1$d línia"</item>
+        <item quantity="many">"%1$d línies"</item>
+        <item quantity="other">"%1$d línies"</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Últim %1$d episodi.</item>
-        <item quantity="other">Últims %1$d episodis.</item>
+        <item quantity="one">"Últim %1$d episodi."</item>
+        <item quantity="many">"Últims %1$d episodis."</item>
+        <item quantity="other">"Últims %1$d episodis."</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Mostra l'últim %1$d episodi.</item>
-        <item quantity="other">Mostra els últims %1$d episodis.</item>
+        <item quantity="one">"Mostra l'últim %1$d episodi."</item>
+        <item quantity="many">"Mostra els últims %1$d episodis."</item>
+        <item quantity="other">"Mostra els últims %1$d episodis."</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Marca %1$d episodi com a escoltat?</item>
-        <item quantity="other">Marca tots els %1$d episodis com a escoltats?</item>
+        <item quantity="one">"Marca %1$d episodi com a escoltat?"</item>
+        <item quantity="many">"Marca tots els %1$d episodis com a escoltats?"</item>
+        <item quantity="other">"Marca tots els %1$d episodis com a escoltats?"</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Marca %1$d episodi com a no escoltat?</item>
-        <item quantity="other">Marca tots els %1$d episodis com a no escoltats?</item>
+        <item quantity="one">"Marca %1$d episodi com a no escoltat?"</item>
+        <item quantity="many">"Marca tots els %1$d episodis com a no escoltats?"</item>
+        <item quantity="other">"Marca tots els %1$d episodis com a no escoltats?"</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Marca %1$d podcast com a escoltat?</item>
-        <item quantity="other">Marca tots els %1$d podcasts com a escoltats?</item>
+        <item quantity="one">"Marca %1$d podcast com a escoltat?"</item>
+        <item quantity="many">"Marca tots els %1$d podcasts com a escoltats?"</item>
+        <item quantity="other">"Marca tots els %1$d podcasts com a escoltats?"</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Marca %1$d canal RSS com a llegit?</item>
-        <item quantity="other">Marca tots els %1$d canals RSS com a llegits?</item>
+        <item quantity="one">"Marca %1$d canal RSS com a llegit?"</item>
+        <item quantity="many">"Marca tots els %1$d canals RSS com a llegits?"</item>
+        <item quantity="other">"Marca tots els %1$d canals RSS com a llegits?"</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Marca %1$d article com a llegit?</item>
-        <item quantity="other">Marca tots els %1$d articles com a llegits?</item>
+        <item quantity="one">"Marca %1$d article com a llegit?"</item>
+        <item quantity="many">"Marca tots els %1$d articles com a llegits?"</item>
+        <item quantity="other">"Marca tots els %1$d articles com a llegits?"</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Marca %1$d article com a no llegit?</item>
-        <item quantity="other">Marca tots els %1$d articles com a no llegits?</item>
+        <item quantity="one">"Marca %1$d article com a no llegit?"</item>
+        <item quantity="many">"Marca tots els %1$d articles com a no llegits?"</item>
+        <item quantity="other">"Marca tots els %1$d articles com a no llegits?"</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Descarrega automàticament fins a %1$d episodi més nou i no escoltat del podcast actualment en reproducció.</item>
-        <item quantity="other">Descarrega automàticament fins a %1$d episodis més nous i no escoltats del podcast actualment en reproducció.</item>
+        <item quantity="one">"Descarrega automàticament fins a %1$d episodi més nou i no escoltat del podcast actualment en reproducció."</item>
+        <item quantity="many">"Descarrega automàticament fins a %1$d episodis més nous i no escoltats del podcast actualment en reproducció."</item>
+        <item quantity="other">"Descarrega automàticament fins a %1$d episodis més nous i no escoltats del podcast actualment en reproducció."</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Descarrega automàticament fins a %1$d episodi més antic i no escoltat del podcast actualment en reproducció.</item>
-        <item quantity="other">Descarrega automàticament fins a %1$d episodis més antics i no escoltats del podcast actualment en reproducció.</item>
+        <item quantity="one">"Descarrega automàticament fins a %1$d episodi més antic i no escoltat del podcast actualment en reproducció."</item>
+        <item quantity="many">"Descarrega automàticament fins a %1$d episodis més antics i no escoltats del podcast actualment en reproducció."</item>
+        <item quantity="other">"Descarrega automàticament fins a %1$d episodis més antics i no escoltats del podcast actualment en reproducció."</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Descarrega automàticament fins a %1$d episodi més recent quan es recuperen episodis nous.</item>
-        <item quantity="other">Descarrega automàticament fins a %1$d episodis més recents quan es recuperen episodis nous.</item>
+        <item quantity="one">"Descarrega automàticament fins a %1$d episodi més recent quan es recuperen episodis nous."</item>
+        <item quantity="many">"Descarrega automàticament fins a %1$d episodis més recents quan es recuperen episodis nous."</item>
+        <item quantity="other">"Descarrega automàticament fins a %1$d episodis més recents quan es recuperen episodis nous."</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Mostra un màxim de %1$d línia de títol.</item>
-        <item quantity="other">Mostra un màxim de %1$d línies de títol.</item>
+        <item quantity="one">"Mostra un màxim de %1$d línia de títol."</item>
+        <item quantity="many">"Mostra un màxim de %1$d línies de títol."</item>
+        <item quantity="other">"Mostra un màxim de %1$d línies de títol."</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">S'ha afegit un episodi a les llistes de reproducció.</item>
-        <item quantity="other">S'han afegit %1$d episodis a les llistes de reproducció.</item>
+        <item quantity="one">"S'ha afegit un episodi a les llistes de reproducció."</item>
+        <item quantity="many">"S'han afegit %1$d episodis a les llistes de reproducció."</item>
+        <item quantity="other">"S'han afegit %1$d episodis a les llistes de reproducció."</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">S'ha afegit un episodi a les descàrregues.</item>
-        <item quantity="other">S'han afegit %1$d episodis a les descàrregues.</item>
+        <item quantity="one">"S'ha afegit un episodi a les descàrregues."</item>
+        <item quantity="many">"S'han afegit %1$d episodis a les descàrregues."</item>
+        <item quantity="other">"S'han afegit %1$d episodis a les descàrregues."</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
         <item quantity="one">"Programa una còpia de seguretat automàtica cada dia."</item>
+        <item quantity="many">"Programa una còpia de seguretat automàtica cada %1$d dies."</item>
         <item quantity="other">"Programa una còpia de seguretat automàtica cada %1$d dies."</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
         <item quantity="one">"Conserva la còpia de seguretat automàtica més recent, %1$d copia."</item>
+        <item quantity="many">"Conserva les còpies de seguretat automàtiques més recents, %1$d còpies."</item>
         <item quantity="other">"Conserva les còpies de seguretat automàtiques més recents, %1$d còpies."</item>
     </plurals>
 
     <plurals name="_d_minutes">
         <item quantity="one">"%1$d minut"</item>
+        <item quantity="many">"%1$d minuts"</item>
         <item quantity="other">"%1$d minuts"</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
         <item quantity="one">"&gt; %1$d minut."</item>
+        <item quantity="many">"&gt; %1$d minuts."</item>
         <item quantity="other">"&gt; %1$d minuts."</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
         <item quantity="one">"&lt; %1$d minut."</item>
+        <item quantity="many">"&lt; %1$d minuts."</item>
         <item quantity="other">"&lt; %1$d minuts."</item>
     </plurals>
 
     <plurals name="after_x_minutes">
         <item quantity="one">"Després de %1$d minut"</item>
+        <item quantity="many">"Després de %1$d minuts"</item>
         <item quantity="other">"Després de %1$d minuts"</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
         <item quantity="one">"Amplia %1$d minut"</item>
+        <item quantity="many">"Amplia %1$d minuts"</item>
         <item quantity="other">"Amplia %1$d minuts"</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
         <item quantity="one">"Descarregar %d episodi?"</item>
+        <item quantity="many">"Descarregar tots els %d episodis?"</item>
         <item quantity="other">"Descarregar tots els %d episodis?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
         <item quantity="one">"Afegir un episodi a 'A continuació'?"</item>
+        <item quantity="many">"Afegir tots els %1$d episodis a 'A continuació'?"</item>
         <item quantity="other">"Afegir tots els %1$d episodis a 'A continuació'?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
         <item quantity="one">"Afegir un episodi a la llista de reproducció?"</item>
+        <item quantity="many">"Afegir tots els %1$d episodis a la llista de reproducció?"</item>
         <item quantity="other">"Afegir tots els %1$d episodis a la llista de reproducció?"</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
         <item quantity="one">"Conserva la darrera descàrrega per a cada podcast."</item>
+        <item quantity="many">"Conserva les darreres %1$d descàrregues per a cada podcast."</item>
         <item quantity="other">"Conserva les darreres %1$d descàrregues per a cada podcast."</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
         <item quantity="one">"Conserva la darrera descàrrega d'aquest podcast."</item>
+        <item quantity="many">"Conserva les darreres %1$d descàrregues d'aquest podcast."</item>
         <item quantity="other">"Conserva les darreres %1$d descàrregues d'aquest podcast."</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
         <item quantity="one">"Marca tots els episodis anteriors a l'últim com a escoltats després de recuperar els episodis nous."</item>
+        <item quantity="many">"Marca tots els episodis anteriors als darrers %1$d com a escoltats després de recuperar els episodis nous."</item>
         <item quantity="other">"Marca tots els episodis anteriors als darrers %1$d com a escoltats després de recuperar els episodis nous."</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
         <item quantity="one">"Conserva els articles de l'últim %1$d dia."</item>
+        <item quantity="many">"Conserva els articles dels últims %1$d dies."</item>
         <item quantity="other">"Conserva els articles dels últims %1$d dies."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
         <item quantity="one">"Temps mínim de rebobinatge: %1$d segon."</item>
+        <item quantity="many">"Temps mínim de rebobinatge: %1$d segons."</item>
         <item quantity="other">"Temps mínim de rebobinatge: %1$d segons."</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
         <item quantity="one">"Temps màxim de rebobinatge: %1$d segon."</item>
+        <item quantity="many">"Temps màxim de rebobinatge: %1$d segons."</item>
         <item quantity="other">"Temps màxim de rebobinatge: %1$d segons."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
         <item quantity="one">"Selecciona els episodis amb una durada superior a %1$d minut."</item>
+        <item quantity="many">"Selecciona els episodis amb una durada superior a %1$d minuts."</item>
         <item quantity="other">"Selecciona els episodis amb una durada superior a %1$d minuts."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
         <item quantity="one">"Selecciona els episodis amb una durada inferior a %1$d minut."</item>
+        <item quantity="many">"Selecciona els episodis amb una durada inferior a %1$d minuts."</item>
         <item quantity="other">"Selecciona els episodis amb una durada inferior a %1$d minuts."</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
         <item quantity="one">"Selecciona els episodis de l'últim %1$d dia."</item>
+        <item quantity="many">"Selecciona els episodis dels últims %1$d dies."</item>
         <item quantity="other">"Selecciona els episodis dels últims %1$d dies."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
         <item quantity="one">"Salta l'inici %1$d segon."</item>
+        <item quantity="many">"Salta l'inici %1$d segons."</item>
         <item quantity="other">"Salta l'inici %1$d segons."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
         <item quantity="one">"Salta el final %1$d segon."</item>
+        <item quantity="many">"Salta el final %1$d segons."</item>
         <item quantity="other">"Salta el final %1$d segons."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
         <item quantity="one">"Descarrega l'episodi si la durada és superior a %d minut."</item>
+        <item quantity="many">"Descarrega l'episodi si la durada és superior a %d minuts."</item>
         <item quantity="other">"Descarrega l'episodi si la durada és superior a %d minuts."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
         <item quantity="one">"Descarrega l'episodi si la durada és inferior a %d minut."</item>
+        <item quantity="many">"Descarrega l'episodi si la durada és inferior a %d minuts."</item>
         <item quantity="other">"Descarrega l'episodi si la durada és inferior a %d minuts."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
         <item quantity="one">"No descarreguis l'episodi si la durada és superior a %d minut."</item>
+        <item quantity="many">"No descarreguis l'episodi si la durada és superior a %d minuts."</item>
         <item quantity="other">"No descarreguis l'episodi si la durada és superior a %d minuts."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
         <item quantity="one">"No descarreguis l'episodi si la durada és inferior a %d minut."</item>
+        <item quantity="many">"No descarreguis l'episodi si la durada és inferior a %d minuts."</item>
         <item quantity="other">"No descarreguis l'episodi si la durada és inferior a %d minuts."</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
         <item quantity="one">"Selecciona articles del darrer %1$d dia."</item>
+        <item quantity="many">"Selecciona articles dels últims %1$d dies."</item>
         <item quantity="other">"Selecciona articles dels últims %1$d dies."</item>
     </plurals>
-
 
 </resources>

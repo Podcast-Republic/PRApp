@@ -2,6 +2,7 @@
 
 Supported languages and the corresponding launguage resource folder:  
 - Čeština: [values-cs](https://github.com/Podcast-Republic/PRApp/tree/master/values-cs)  
+- Català: [values-ca](https://github.com/Podcast-Republic/PRApp/tree/master/values-ca)  
 - Dansk: [values-da](https://github.com/Podcast-Republic/PRApp/tree/master/values-da)  
 - Deutsch: [values-de](https://github.com/Podcast-Republic/PRApp/tree/master/values-de)  
 - Eesti: [values-et](https://github.com/Podcast-Republic/PRApp/tree/master/values-et)  

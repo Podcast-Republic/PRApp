@@ -435,7 +435,7 @@
 	<string name="_is_not_found_add_this_podcast_">"[%1$s] nicht gefunden. Podcast manuell per URL hinzufügen?"</string>
 	<string name="episode_publishing_date">"Veröffentlichungsdatum der Folge"</string>
 	<string name="episode_guid">"GUID der Folge"</string>
-	<string name="episode_unique_criteria">"Kennzeichnung der Folge"</string>
+	<string name="episode_unique_criteria">"Kriterien für Folgenerkennung"</string>
 	<string name="episode_url">"URL der Folge"</string>
 	<string name="episode_title">"Titel der Folge"</string>
 	<string name="export_history">"Verlauf exportieren"</string>
@@ -757,7 +757,7 @@
 	<string name="generating_bug_report_">"Fehlerbericht wird erstellt…"</string>
 	<string name="apply_to_all_radio_stations">"Auf alle Radiosender anwenden"</string>
 	<string name="apply_to_current_radio_station">"Auf den aktuellen Radiosender anwenden"</string>
-	<string name="skip_silence">"Überspringe die Stille"</string>
+	<string name="skip_silence">"Stille überspringen"</string>
 	<string name="smart_download">"Intelligenter Download"</string>
 	<string name="download_anyway">"Immer herunterladen"</string>
 	<string name="download_anyway_message">"WLAN- und Akku-Einstellungen ignorieren, die Folge jetzt mit den aktuellen Netzwerkeinstellungen durchführen! Das könnte Dein mobiles Datenvolumen bzw. Deine Akku verbrauchen! Trotzdem fortsetzen?"</string>
@@ -922,8 +922,8 @@
 	<string name="remove_played_episode">"Gespielte Folge entfernen"</string>
 	<string name="remove_the_episode_from_playlist_after_being_played">"Folge nach der Wiedergabe aus der Playliste entfernen"</string>
 	<string name="apply_this_change_to_all_playlist_">"Diese Änderung auf alle Playlisten anwenden?"</string>
-	<string name="overwrite_volume_mute_state">"Stummschaltung überschreiben"</string>
-	<string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">"Ermöglicht das Überschreiben des Lautstärkestummschaltungsstatus und das Wiederherstellen der zuletzt wiedergegebenen Lautstärke"</string>
+	<string name="overwrite_volume_mute_state">"Stummschaltung nicht berücksichtigen"</string>
+	<string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">"Ermöglicht das Ignorieren des Stummschaltezustands der Lautstärke und stellt die zuletzt wiedergegebene Lautstärke wieder her"</string>
 	<string name="starting_podcast_update_checking">"Überprüfung der Podcast-Updates starten."</string>
 	<string name="greater_than">"Größer als"</string>
 	<string name="less_than">"Weniger als"</string>
@@ -1273,8 +1273,8 @@
 	<string name="maximum_playback_speed_limit">Maximale Wiedergabegeschwindigkeit</string>
 	<string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Die maximale Wiedergabegeschwindigkeit auf %s begrenzen, wenn mit Android Auto verbunden.</string>
 	<string name="view_podcast_description">Podcast-Beschreibung ansehen</string>
-	<string name="restart_from_the_beginning">Von Anfang an neu starten</string>
-	<string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Die Wiedergabe von Anfang an starten, wenn eine bereits zu 100% gespielte Folge abgespielt wird.</string>
+	<string name="restart_from_the_beginning">Von Vorne neu starten</string>
+	<string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Die Wiedergabe von Vorne starten, wenn eine bereits zu 100% abgespielte Folge wiedergegeben wird.</string>
 	<string name="use_system_theme">Systemdesign verwenden</string>
 	<string name="use_android_system_s_widget_theme_">Widget-Design des Android-Systems verwenden.</string>
 	<string name="show_button_labels">Schaltflächenbeschriftungen anzeigen</string>

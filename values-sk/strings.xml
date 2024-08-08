@@ -1345,5 +1345,5 @@
     <string name="stop_playing">Zastaviť prehrávanie</string>
     <string name="the_above_controls_are_always_enabled_by_android_system">Tieto ovládacie prvky sú v Androide vždy povolené.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Prvé dva vybrané ovládacie prvky sa zobrazia v upozornení prehrávača médií. Ďalšie vybrané ovládacie prvky sa zobrazia v rozšírených možnostiach Android Auto.</string>
-    <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
+    <string name="no_more_episodes_to_play_from_up_next_">Žiadne ďalšie epizódy na prehrávanie z Nasleduje.</string>
 </resources>

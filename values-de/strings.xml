@@ -1209,7 +1209,7 @@
 	<string name="when_new_episodes_are_retrieved_from_podcast_feed">Wenn neue Folgen aus dem Podcast-Feed abgerufen werden</string>
 	<string name="date_added">Datum hinzugefügt</string>
 	<string name="dynamic_colors">Dynamische Farben</string>
-	<string name="apply_the_color_theme_based_on_your_wallpaper_">Farbschema anhand des Hintergundbilds verwenden.</string>
+	<string name="apply_the_color_theme_based_on_your_wallpaper_">Farbschema anhand des Hintergrundbilds verwenden.</string>
 	<string name="loading_">Wird geladen…</string>
 	<string name="virtual_podcast">Virtueller Podcast</string>
 	<string name="chart">Diagramm</string>

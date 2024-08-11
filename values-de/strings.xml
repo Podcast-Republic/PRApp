@@ -1052,7 +1052,7 @@
 	<string name="zoom_image">Bild vergrößern</string>
 	<string name="mark_all_as_unplayed">Alle als nicht abgespielt markieren</string>
 	<string name="default_playlist">Standard-Playlist</string>
-	<string name="use_this_playlist_as_the_default_playlist">Verwende diese Playlist als Standard-Playlist.</string>
+	<string name="use_this_playlist_as_the_default_playlist">Diese Playlist als Standard-Playlist verwenden.</string>
 	<string name="article_unique_criteria">Eindeutige Artikelkriterien</string>
 	<string name="new_article_notification">Benachrichtigung über neue Artikel</string>
 	<string name="there_are_no_radio_stations_">Es gibt keine Radiosender!</string>
@@ -1273,8 +1273,8 @@
 	<string name="maximum_playback_speed_limit">Maximale Wiedergabegeschwindigkeit</string>
 	<string name="limit_the_maximum_playback_speed_to_s_when_connected_to_android_auto">Die maximale Wiedergabegeschwindigkeit auf %s begrenzen, wenn mit Android Auto verbunden.</string>
 	<string name="view_podcast_description">Podcast-Beschreibung ansehen</string>
-	<string name="restart_from_the_beginning">Von Vorne neu starten</string>
-	<string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Die Wiedergabe von Vorne starten, wenn eine bereits zu 100% abgespielte Folge wiedergegeben wird.</string>
+	<string name="restart_from_the_beginning">Von vorne neu starten</string>
+	<string name="start_the_playback_from_the_beginning_when_playing_an_already_100_played_episode_">Die Wiedergabe von vorne starten, wenn eine bereits zu 100% abgespielte Folge wiedergegeben wird.</string>
 	<string name="use_system_theme">Systemdesign verwenden</string>
 	<string name="use_android_system_s_widget_theme_">Widget-Design des Android-Systems verwenden.</string>
 	<string name="show_button_labels">Schaltflächenbeschriftungen anzeigen</string>

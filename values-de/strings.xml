@@ -1300,7 +1300,7 @@
 	<string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Das Podcast-Bilder in einer rechteckigen Form mit abgerundeten Ecken anzeigen.</string>
 	<string name="match_none_of_the_keywords">Keines der Schlüsselwörter übereinstimmt</string>
 	<string name="download_episode_if_matching_none_of_the_keywords_s">Folge herunterladen, wenn keines der Schlüsselwörter übereinstimmt: %1$s.</string>
-	<string name="dont_download_episode_if_matching_none_of_the_keywords_s">Folge nicht herunterladen, wenn keines der Schlüsselwörter entspricht: %1$s.</string>
+	<string name="dont_download_episode_if_matching_none_of_the_keywords_s">Folge nicht herunterladen, wenn keines der Schlüsselwörter übereinstimmt: %1$s.</string>
 	<string name="mono_audio">Mono-Audio</string>
 	<string name="combine_left_and_right_audio_channels_into_one_">Linke und rechte Audiokanäle zu einem kombinieren.</string>
 	<string name="audio_balance">Audio-Balance</string>

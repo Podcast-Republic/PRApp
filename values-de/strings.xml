@@ -401,7 +401,7 @@
 	<string name="filter_name">"Filtername"</string>
 	<string name="podcasts">"Podcasts"</string>
 	<string name="playing_state">"Wiedergabestatus"</string>
-	<string name="only_include_favorited_episodes">"Nur Favoriten-Folgen"</string>
+	<string name="only_include_favorited_episodes">"Nur Favoriten-Folgen berücksichtigen"</string>
 	<string name="download_status">"Download-Status"</string>
 	<string name="continue_to_play_next_episode_when_playback_error_occurs">"Nächste Folge abspielen, wenn Wiedergabefehler auftritt."</string>
 	<string name="continue_on_error">"Bei Fehler fortfahren"</string>
@@ -1341,5 +1341,5 @@
 	<string name="stop_playing">Wiedergabe stoppen</string>
 	<string name="the_above_controls_are_always_enabled_by_android_system">Die oberen Bedienelemente sind im Android-System immer aktiviert.</string>
 	<string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Die ersten zwei ausgewählten Bedienelemente werden in der Media-Player-Benachrichtungsleiste angezeigt. Die anderen ausgewählten Bedienelemente werden im Overflow-Menü von Android Auto angezeigt.</string>
-    <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
+	<string name="no_more_episodes_to_play_from_up_next_">Keine weiteren abzuspielenden Folgen in \"Als Nächstes\" vorhanden.</string>
 </resources>

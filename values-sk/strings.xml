@@ -541,7 +541,7 @@
     <string name="audio_effects_and_equalizer">Zvukové efekty a ekvalizér</string>
     <string name="episode_info_short">Informácie o epizóde (krátke)</string>
     <string name="episode_info_full">Informácie o epizóde (celé)</string>
-    <string name="twitter">Twitter</string>
+    <string name="twitter">X (Twitter)</string>
     <string name="storage_usage">Využitie úložiska</string>
     <string name="stream_url">URL adresa streamu</string>
     <string name="fm_am_frequency">Frekvencia FM/AM</string>
@@ -1346,4 +1346,6 @@
     <string name="the_above_controls_are_always_enabled_by_android_system">Tieto ovládacie prvky sú v Androide vždy povolené.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Prvé dva vybrané ovládacie prvky sa zobrazia v upozornení prehrávača médií. Ďalšie vybrané ovládacie prvky sa zobrazia v rozšírených možnostiach Android Auto.</string>
     <string name="no_more_episodes_to_play_from_up_next_">Žiadne ďalšie epizódy na prehrávanie z Nasleduje.</string>
+    <string name="play_time_by_podcast">Play time by podcast</string>
+    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
 </resources>

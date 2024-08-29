@@ -539,7 +539,7 @@
     <string name="audio_effects_and_equalizer">"אפקט ואקולייזר שמע"</string>
     <string name="episode_info_short">"פרטי פרק (בקצרה)"</string>
     <string name="episode_info_full">"פרטי פרק (מלא)"</string>
-    <string name="twitter">"טוויטר"</string>
+    <string name="twitter">"X (Twitter)"</string>
     <string name="storage_usage">"סטטוס ניצול נפח האחסון"</string>
     <string name="stream_url">"כתובת אתר זרם (Stream URL)"</string>
     <string name="fm_am_frequency">"תדר FM / AM"</string>
@@ -1345,4 +1345,6 @@
     <string name="the_above_controls_are_always_enabled_by_android_system">The above controls are always enabled by Android system.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">The first two selected controls will show up on the media player notification. The other selected controls will show up in the overflow options on Android Auto.</string>
     <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
+    <string name="play_time_by_podcast">Play time by podcast</string>
+    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
 </resources>

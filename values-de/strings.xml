@@ -536,7 +536,7 @@
 	<string name="audio_effects_and_equalizer">"Audio-Effekte &amp; Equalizer"</string>
 	<string name="episode_info_short">"Info zur Folge (kurz)"</string>
 	<string name="episode_info_full">"Info zur Folge (vollständig)"</string>
-	<string name="twitter">"Twitter"</string>
+	<string name="twitter">"X (Twitter)"</string>
 	<string name="storage_usage">"Speicherbelegung"</string>
 	<string name="stream_url">"URL des Streams"</string>
 	<string name="fm_am_frequency">"UKW-/MW-Frequenz"</string>
@@ -1342,4 +1342,6 @@
 	<string name="the_above_controls_are_always_enabled_by_android_system">Die oberen Bedienelemente sind im Android-System immer aktiviert.</string>
 	<string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Die ersten zwei ausgewählten Bedienelemente werden in der Media-Player-Benachrichtungsleiste angezeigt. Die anderen ausgewählten Bedienelemente werden im Overflow-Menü von Android Auto angezeigt.</string>
 	<string name="no_more_episodes_to_play_from_up_next_">Keine weiteren abzuspielenden Folgen in \"Als Nächstes\" vorhanden.</string>
+    <string name="play_time_by_podcast">Play time by podcast</string>
+    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
 </resources>

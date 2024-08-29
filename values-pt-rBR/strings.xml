@@ -537,7 +537,7 @@
     <string name="audio_effects_and_equalizer">"Efeitos de áudio e equalizador"</string>
     <string name="episode_info_short">Informação do episódio (curta)</string>
     <string name="episode_info_full">Informação do episódio (completa)</string>
-    <string name="twitter">"Twitter"</string>
+    <string name="twitter">"X (Twitter)"</string>
     <string name="storage_usage">"Utilização do armazenamento"</string>
     <string name="sync_now">"Sincronizar agora"</string>
     <string name="stream_url">"URL do Stream"</string>
@@ -557,7 +557,7 @@
     <string name="create_a_backup_of_app_settings_and_database">"Criar uma cópia de segurança das definições e base de dados da aplicação"</string>
     <string name="restore_app_settings_and_database_from_selected_backup">"Restaurar as definições e base de dados da aplicação a partir da cópia de segurança selecionada"</string>
     <string name="save_to">"Guardar em"</string>
-    <string name="buy_me_a_coffee">"Me pagar um café"</string>
+    <string name="buy_me_a_coffee">"Pague um cafezinho pra nóis"</string>
     <string name="clear_the_play_history_">"Limpar o histórico de reprodução?"</string>
     <string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Quando um download é removido por se atingir a quota de armazenamento ou o limite de downloads"</string>
     <string name="keep_all">Manter todos</string>
@@ -1345,4 +1345,6 @@
     <string name="the_above_controls_are_always_enabled_by_android_system">The above controls are always enabled by Android system.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">The first two selected controls will show up on the media player notification. The other selected controls will show up in the overflow options on Android Auto.</string>
     <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
+    <string name="play_time_by_podcast">Play time by podcast</string>
+    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
 </resources>

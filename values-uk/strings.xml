@@ -1344,6 +1344,6 @@
     <string name="the_above_controls_are_always_enabled_by_android_system">Вищевказані елементи керування завжди увімкнені в системі Android.</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">"Перші два вибрані елементи керування з'являться у сповіщенні медіаплеєра. Інші вибрані елементи з'являться в меню додаткових опцій в Android Auto."</string>
     <string name="no_more_episodes_to_play_from_up_next_">В черзі більше немає епізодів для відтворення.</string>
-    <string name="play_time_by_podcast">Play time by podcast</string>
-    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
+    <string name="play_time_by_podcast">Час відтворення за подкастом</string>
+    <string name="estimated_total_download_size_">Орієнтовний загальний розмір завантаження: %1$s.</string>
 </resources>

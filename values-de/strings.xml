@@ -289,7 +289,7 @@
 	<string name="when_deleting_from_playlist">"Nach Löschen aus Playlist"</string>
 	<string name="search">"Suchen"</string>
 	<string name="edit">"Bearbeiten"</string>
-	<string name="time_display_minute_short_format">"Minuten"</string>
+	<string name="time_display_minute_short_format">"Min."</string>
 	<string name="keep_screen_on">"Bildschirm eingeschaltet lassen"</string>
 	<string name="backup_restore">"Sichern &amp; Wiederherstellen"</string>
 	<string name="backup">"Sicherung"</string>
@@ -820,7 +820,7 @@
 	<string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Zuletzt eingestellten Lautstärkepegel merken und beim Start der Wiedergabe wiederherstellen."</string>
 	<string name="metered_network">"Getaktetes Netzwerk"</string>
 	<string name="allow_to_download_over_metered_network">"Herunterladen über ein getaktetes Netzwerk erlauben"</string>
-	<string name="remind_me_1_minute_left">"Erinnere mich (1 Minute vor Timer-Ende)"</string>
+	<string name="remind_me_1_minute_left">"Erinnern (1 Min. vor Timer-Ende)"</string>
 	<string name="unread_count">"Anzahl ungelesene"</string>
 	<string name="newest_unread">"Neueste ungelesene"</string>
 	<string name="no_articles_selected_">"Keine Elemente ausgewählt!"</string>
@@ -912,7 +912,7 @@
 	<string name="search_in_subscribed_podcasts">"Suche in abonnierten Podcasts"</string>
 	<string name="search_by_podcast_title">"Suche nach Podcast-Titel"</string>
 	<string name="search_by_podcast_publisher">"Suche nach Podcast-Herausgeber"</string>
-	<string name="fade_audio_out_2_minutes_left">"Audio ausblenden (2 Minuten vor Timer-Ende)"</string>
+	<string name="fade_audio_out_2_minutes_left">"Audio ausblenden (2 Min. vor Timer-Ende)"</string>
 	<string name="keep_all_articles">"Alle Artikel aufbewahren"</string>
 	<string name="keep_articles">"Artikel aufbewahren"</string>
 	<string name="pref_download_location_select_prompt_message">"Du wirst zum Android-Dateimanager weitergeleitet. Bitte wähle ein Verzeichnis im internen Speicher oder auf der SD-Karte aus, das als Download-Speicherort verwendet werden soll."</string>
@@ -1342,6 +1342,6 @@
 	<string name="the_above_controls_are_always_enabled_by_android_system">Die oberen Bedienelemente sind im Android-System immer aktiviert.</string>
 	<string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">Die ersten zwei ausgewählten Bedienelemente werden in der Media-Player-Benachrichtungsleiste angezeigt. Die anderen ausgewählten Bedienelemente werden im Overflow-Menü von Android Auto angezeigt.</string>
 	<string name="no_more_episodes_to_play_from_up_next_">Keine weiteren abzuspielenden Folgen in \"Als Nächstes\" vorhanden.</string>
-    <string name="play_time_by_podcast">Play time by podcast</string>
-    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
+	<string name="play_time_by_podcast">Wiedergabezeit nach Podcast</string>
+	<string name="estimated_total_download_size_">Geschätzte Gesamtgröße des Downloads: %1$s.</string>
 </resources>

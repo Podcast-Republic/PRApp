@@ -321,7 +321,7 @@
 	<string name="http">"HTTP"</string>
 	<string name="password">"Passwort"</string>
 	<string name="username">"Benutzername"</string>
-	<string name="new_episodes_available">"Neue Folge verfügbar"</string>
+	<string name="new_episodes_available">"Neue Folgen verfügbar"</string>
 	<string name="notifications">"Benachrichtigungen"</string>
 	<string name="podcast">"Podcast"</string>
 	<string name="send_email_">"E-Mail senden…"</string>

@@ -465,7 +465,7 @@
 	<string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Dieses wird zwischengespeicherte Folgen löschen und die Folgen vom Podcast-Feed neu aufbauen."</string>
 	<string name="right_hand_operation">"Rechtshänder-Modus"</string>
 	<string name="open_menu_drawer_on_the_right_side">"Menü auf der rechten Seite öffnen"</string>
-	<string name="go_to_podcast">"Aktuellen Podcast anzeigen"</string>
+	<string name="go_to_podcast">"Zum Podcast"</string>
 	<string name="there_are_no_podcasts_">"Kein Podcast gefunden!"</string>
 	<string name="no_podcasts_selected">"Kein Podcast ausgewählt"</string>
 	<string name="enjoy_podcast_republic">"Gefällt Dir Podcast Republic?"</string>
@@ -910,8 +910,8 @@
 	<string name="rotate_by_podcasts">"Durch Podcasts drehen"</string>
 	<string name="search_in_all_podcasts">"Suche in allen Podcasts"</string>
 	<string name="search_in_subscribed_podcasts">"Suche in abonnierten Podcasts"</string>
-	<string name="search_by_podcast_title">"Suche nach Podcast-Titel"</string>
-	<string name="search_by_podcast_publisher">"Suche nach Podcast-Herausgeber"</string>
+	<string name="search_by_podcast_title">"Podcast-Titel suchen"</string>
+	<string name="search_by_podcast_publisher">"Podcast-Herausgeber suchen"</string>
 	<string name="fade_audio_out_2_minutes_left">"Audio ausblenden (2 Min. vor Timer-Ende)"</string>
 	<string name="keep_all_articles">"Alle Artikel aufbewahren"</string>
 	<string name="keep_articles">"Artikel aufbewahren"</string>
@@ -919,7 +919,7 @@
 	<string name="review_wifi_only_prompt_message">"Wusstest Du, dass diese App standardmäßig nur WLAN verwendet? Du kannst WLAN nur deaktivieren, wenn eine schnelle Datenverbindung besteht. Möchtest Du die Einstellungen für \"Nur WLAN\" überprüfen?"</string>
 	<string name="delete_virtual_podcast_file_from_storage_after_being_played">"Lösche die virtuelle Podcast-Datei nach der Wiedergabe aus dem Speicher"</string>
 	<string name="play_all">"Alle abspielen"</string>
-	<string name="remove_played_episode">"Gespielte Folge entfernen"</string>
+	<string name="remove_played_episode">"Abgespielte Folge entfernen"</string>
 	<string name="remove_the_episode_from_playlist_after_being_played">"Folge nach der Wiedergabe aus der Playliste entfernen"</string>
 	<string name="apply_this_change_to_all_playlist_">"Diese Änderung auf alle Playlisten anwenden?"</string>
 	<string name="overwrite_volume_mute_state">"Stummschaltung nicht berücksichtigen"</string>
@@ -970,7 +970,7 @@
 	<string name="preview_user_notes_in_list">Vorschau der Benutzernotizen in der Liste. Folgenbeschreibungen werden nicht angezeigt, wenn diese Option aktiviert ist.</string>
 	<string name="extract_from_metadata">Aus den Metadaten extrahieren</string>
 	<string name="use_filename">Dateiname verwenden</string>
-	<string name="delete_played_episode">Wiedergegebene Folge löschen</string>
+	<string name="delete_played_episode">Abgespielte Folge löschen</string>
 	<string name="copy_files_to_download_directory">Dateien in den Downloadordner kopieren</string>
 	<string name="move_files_to_download_directory">Dateien in den Downloadordner verschieben</string>
 	<string name="jump_to_next_chapter">Zum nächsten Kapitel springen</string>
@@ -1036,7 +1036,7 @@
 	<string name="feed_title_can_not_be_empty_">Feed-Titel darf nicht leer sein!</string>
 	<string name="rss_feed_url_can_not_be_empty_">RSS-Feed-URL darf nicht leer sein!</string>
 	<string name="no_rss_feeds_found_">Keine RSS-Feeds gefunden!</string>
-	<string name="remove_obsolete_episodes">Nicht verfügbare Folgen entfernen</string>
+	<string name="remove_obsolete_episodes">Nicht mehr verfügbare Folgen entfernen</string>
 	<string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Nicht mehr verfügbare Folgen werden entfernt, wenn sie nicht mehr im Podcast-Feed vorhanden sind.</string>
 	<string name="mark_as_played">"Als abgespielt markieren"</string>
 	<string name="mark_as_unplayed">"Als nicht abgespielt markieren"</string>
@@ -1125,8 +1125,8 @@
 	<string name="update_rss_feeds">RSS-Feeds aktualisieren</string>
 	<string name="updating_podcast_d1_d2">Podcast wird aktualisiert - %1$d/%2$d</string>
 	<string name="updating_rss_feed_d1_d2">RSS-Feed wird aktualisiert - %1$d/%2$d</string>
-	<string name="remove_all_episodes_above">Alles oberhalb entfernen</string>
-	<string name="remove_all_episodes_below">Alles unterhalb entfernen</string>
+	<string name="remove_all_episodes_above">Alle oberhalb entfernen</string>
+	<string name="remove_all_episodes_below">Alle unterhalb entfernen</string>
 	<string name="jump_to_previous_episode">Zur vorherigen Folge springen</string>
 	<string name="jump_to_the_beginning">Zum Anfang springen</string>
 	<string name="jump_to_previous_chapter">Zum vorherigen Kapitel springen</string>

@@ -174,7 +174,7 @@
 	<string name="next">"Nächste/r"</string>
 	<string name="file_date">"Datum"</string>
 	<string name="publishing_date">"Veröffentlichungsdatum"</string>
-	<string name="sort_manually">"Manuell sortieren"</string>
+	<string name="sort_manually">"Manuell"</string>
 	<string name="update_podcasts">"Podcasts aktualisieren"</string>
 	<string name="update_podcast">"Podcast aktualisieren"</string>
 	<string name="sort_by">"Sortieren nach…"</string>
@@ -271,7 +271,7 @@
 	<string name="list_view">"Listenansicht"</string>
 	<string name="grid_view">"Gitteransicht"</string>
 	<string name="playback_mode_playlist">"Playlistmodus"</string>
-	<string name="playback_mode_single_episode">"Einzelwiedergabe"</string>
+	<string name="playback_mode_single_episode">"Einzelne Folge"</string>
 	<string name="s_has_been_added_to_subscription">"%1$s wurde zum Abo hinzugefügt"</string>
 	<string name="audio_not_started_yet">"Audio noch nicht gestartet!"</string>
 	<string name="manage_playlists">"Playlisten bearbeiten"</string>
@@ -567,7 +567,7 @@
 	<string name="can_not_cast_youtube_videos_to_chromecast_">"YouTube-Videos können nicht auf Chromecast gestreamt werden!"</string>
 	<string name="add_a_playlist">"Eine Playlist hinzufügen"</string>
 	<string name="add_to_tag">"Einem Tag hinzufügen"</string>
-	<string name="add_to_default_playlists">"Zu Standard-Playlisten hinzufügen"</string>
+	<string name="add_to_default_playlists">"Zu Standard-Playlist hinzufügen"</string>
 	<string name="add_to_selected_playlists">"Zu ausgewählten Playlisten hinzufügen"</string>
 	<string name="delete_selected_episodes_">"Ausgewählte Folgen löschen?"</string>
 	<string name="you_have_no_completed_downloads">"Es gibt keine abgeschlossenen Downloads."</string>
@@ -575,7 +575,7 @@
 	<string name="all_good_">"Keine Fehler ☺"</string>
 	<string name="there_are_no_episodes_in_this_playlist">"Es gibt keine Folgen in der Playlist."</string>
 	<string name="no_play_history_found">"Kein Wiedergabe-Verlauf gefunden."</string>
-	<string name="set_playlists">"Standard-Playlisten wählen"</string>
+	<string name="set_playlists">"Playlisten auswählen"</string>
 	<string name="mark_all_as_read">"Alle als gelesen markieren"</string>
 	<string name="not_in_use">"Nicht verwendet"</string>
 	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten ziehen, um auf Updates zu prüfen"</string>
@@ -694,13 +694,13 @@
 	<string name="syncing">"Synchronisieren…"</string>
 	<string name="continue_to_next_playlist">"Weiter zu nächster Playlist"</string>
 	<string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Nächste Playlist abspielen, nachdem alle Folgen der aktuellen abgespielt wurden."</string>
-	<string name="enable_manual_sorting">"Manuelle Sortierung deaktivieren"</string>
+	<string name="enable_manual_sorting">"Manuelle Sortierung aktivieren"</string>
 	<string name="open">"Öffnen"</string>
 	<string name="newest_unplayed">"Neueste nicht abgespielte Folgen"</string>
 	<string name="apply_to_current_podcast">"Auf den aktuellen Podcast anwenden"</string>
 	<string name="redownload_all_selected_episodes_">"Alle ausgewählten Folgen neu laden?"</string>
 	<string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">"Der Download-Speicherort ist nicht verfügbar. Willst Du den Download-Speicherort jetzt festlegen?"</string>
-	<string name="insufficient_space_please_free_some_storage_space_">"Nicht genug Speicherplatz. Bitte gib Speicherplatz frei."</string>
+	<string name="insufficient_space_please_free_some_storage_space_">"Nicht genug Speicherplatz vorhanden. Bitte gib Speicherplatz frei."</string>
 	<string name="show_last_updated_time">"Zeit der letzten Aktualisierung anzeigen"</string>
 	<string name="hide_last_updated_time">"Zeit der letzten Aktualisierung ausblenden"</string>
 	<string name="delete_account">"Konto löschen"</string>
@@ -907,9 +907,9 @@
 	<string name="there_are_no_deleted_episodes_">"Es gibt keine gelöschten Folgen!"</string>
 	<string name="mark_as_favorite">"Als Favorit markieren"</string>
 	<string name="remove_favorite_mark">"Favorit entfernen"</string>
-	<string name="rotate_by_podcasts">"Durch Podcasts drehen"</string>
-	<string name="search_in_all_podcasts">"Suche in allen Podcasts"</string>
-	<string name="search_in_subscribed_podcasts">"Suche in abonnierten Podcasts"</string>
+	<string name="rotate_by_podcasts">"Abwechselnd nach Podcasts"</string>
+	<string name="search_in_all_podcasts">"In allen Podcasts suchen"</string>
+	<string name="search_in_subscribed_podcasts">"In abonnierten Podcasts suchen"</string>
 	<string name="search_by_podcast_title">"Podcast-Titel suchen"</string>
 	<string name="search_by_podcast_publisher">"Podcast-Herausgeber suchen"</string>
 	<string name="fade_audio_out_2_minutes_left">"Audio ausblenden (2 Min. vor Timer-Ende)"</string>
@@ -980,7 +980,7 @@
 	<string name="fiction">Fiction</string>
 	<string name="genre_type_hisotry">Geschichte</string>
 	<string name="animations">Animationen</string>
-	<string name="list_animation">Animationen anzeigen</string>
+	<string name="list_animation">Animation anzeigen</string>
 	<string name="animate_items_when_loading_into_list">Einträge beim Laden animieren</string>
 	<string name="failed_to_update_podcast_s">Fehler beim Updaten des Podcasts: %s</string>
 	<string name="reset_password">Passwort zurücksetzen</string>
@@ -1053,7 +1053,7 @@
 	<string name="mark_all_as_unplayed">Alle als nicht abgespielt markieren</string>
 	<string name="default_playlist">Standard-Playlist</string>
 	<string name="use_this_playlist_as_the_default_playlist">Diese Playlist als Standard-Playlist verwenden.</string>
-	<string name="article_unique_criteria">Eindeutige Artikelkriterien</string>
+	<string name="article_unique_criteria">Kriterien für Artikelerkennung</string>
 	<string name="new_article_notification">Benachrichtigung über neue Artikel</string>
 	<string name="there_are_no_radio_stations_">Es gibt keine Radiosender!</string>
 	<string name="android_auto">Android Auto</string>
@@ -1146,7 +1146,7 @@
 	<string name="save_image">Bild speichern</string>
 	<string name="view_or_edit_playlist_setup_">Playlist-Einstellungen anzeigen oder bearbeiten.</string>
 	<string name="search_in_title">Im Titel suchen</string>
-	<string name="search_in_title_and_article">Suche in Titel und Artikel</string>
+	<string name="search_in_title_and_article">Im Titel und Artikel suchen</string>
 	<string name="youtube">YouTube</string>
 	<string name="no_wi_fi_update_podcast_once_with_mobile_data">Kein WLAN – Podcast einmal mit mobilen Daten aktualisieren?</string>
 	<string name="select_episodes_with_duration_between_d_and_d_minutes">Folgen mit einer Dauer zwischen %1$d und %2$d Minuten auswählen.</string>
@@ -1158,7 +1158,7 @@
 	<string name="radio_station_name">Radiosendername</string>
 	<string name="podcast_priority">Podcast-Priorität</string>
 	<string name="group_by_podcast_priority">Nach Podcast-Priorität gruppieren</string>
-	<string name="rotate_by_podcast_and_priority">Nach Podcast rotieren &amp; Priorität</string>
+	<string name="rotate_by_podcast_and_priority">Abwechselnd nach Podcast &amp; Priorität</string>
 	<string name="grouping">Gruppierung</string>
 	<string name="display_chapter_title_and_artwork">Kapiteltitel und -bilder anzeigen</string>
 	<string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Kapiteltitel und -bilder in der Wiedergabe anzeigen, wenn Kapitel vorhanden sind.</string>
@@ -1201,7 +1201,7 @@
 	<string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Gebe unten den Benutzernamen und das Passwort ein, wenn der RSS-Feed eine Authentifizierung erfordert. Lasse es leer, wenn keine Authentifizierung erforderlich ist.</string>
 	<string name="play_pause_triple_click">Wiedergabe/Pause mit Dreifachklick</string>
 	<string name="title_display">Titelanzeige</string>
-	<string name="rotate_by_priority">Nach Priorität rotieren</string>
+	<string name="rotate_by_priority">Abwechselnd nach Priorität</string>
 	<string name="click_the_button_blow_if_adding_a_podcast_feed">Klicke auf die Schaltfläche unten, wenn du einen Podcast-Feed hinzufügst.</string>
 	<string name="continue_if_adding_a_text_or_blog_rss_feed">Fortfahren, wenn ein Text- oder Blog-RSS-Feed hinzugefügt wird</string>
 	<string name="close_app_when_moving_to_background">App beim Wechsel in den Hintergrund schließen</string>

@@ -271,7 +271,7 @@
 	<string name="list_view">"Listenansicht"</string>
 	<string name="grid_view">"Gitteransicht"</string>
 	<string name="playback_mode_playlist">"Playlistmodus"</string>
-	<string name="playback_mode_single_episode">"Einzelwiedergabe"</string>
+	<string name="playback_mode_single_episode">"Einzelne Folge"</string>
 	<string name="s_has_been_added_to_subscription">"%1$s wurde zum Abo hinzugefügt"</string>
 	<string name="audio_not_started_yet">"Audio noch nicht gestartet!"</string>
 	<string name="manage_playlists">"Playlisten bearbeiten"</string>
@@ -567,7 +567,7 @@
 	<string name="can_not_cast_youtube_videos_to_chromecast_">"YouTube-Videos können nicht auf Chromecast gestreamt werden!"</string>
 	<string name="add_a_playlist">"Eine Playlist hinzufügen"</string>
 	<string name="add_to_tag">"Einem Tag hinzufügen"</string>
-	<string name="add_to_default_playlists">"Zu Standard-Playlisten hinzufügen"</string>
+	<string name="add_to_default_playlists">"Zu Standard-Playlist hinzufügen"</string>
 	<string name="add_to_selected_playlists">"Zu ausgewählten Playlisten hinzufügen"</string>
 	<string name="delete_selected_episodes_">"Ausgewählte Folgen löschen?"</string>
 	<string name="you_have_no_completed_downloads">"Es gibt keine abgeschlossenen Downloads."</string>
@@ -575,7 +575,7 @@
 	<string name="all_good_">"Keine Fehler ☺"</string>
 	<string name="there_are_no_episodes_in_this_playlist">"Es gibt keine Folgen in der Playlist."</string>
 	<string name="no_play_history_found">"Kein Wiedergabe-Verlauf gefunden."</string>
-	<string name="set_playlists">"Standard-Playlisten wählen"</string>
+	<string name="set_playlists">"Playlisten auswählen"</string>
 	<string name="mark_all_as_read">"Alle als gelesen markieren"</string>
 	<string name="not_in_use">"Nicht verwendet"</string>
 	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten ziehen, um auf Updates zu prüfen"</string>
@@ -907,7 +907,7 @@
 	<string name="there_are_no_deleted_episodes_">"Es gibt keine gelöschten Folgen!"</string>
 	<string name="mark_as_favorite">"Als Favorit markieren"</string>
 	<string name="remove_favorite_mark">"Favorit entfernen"</string>
-	<string name="rotate_by_podcasts">"Durch Podcasts drehen"</string>
+	<string name="rotate_by_podcasts">"Abwechselnd nach Podcasts"</string>
 	<string name="search_in_all_podcasts">"Suche in allen Podcasts"</string>
 	<string name="search_in_subscribed_podcasts">"Suche in abonnierten Podcasts"</string>
 	<string name="search_by_podcast_title">"Podcast-Titel suchen"</string>
@@ -1053,7 +1053,7 @@
 	<string name="mark_all_as_unplayed">Alle als nicht abgespielt markieren</string>
 	<string name="default_playlist">Standard-Playlist</string>
 	<string name="use_this_playlist_as_the_default_playlist">Diese Playlist als Standard-Playlist verwenden.</string>
-	<string name="article_unique_criteria">Eindeutige Artikelkriterien</string>
+	<string name="article_unique_criteria">Kriterien für Artikelerkennung</string>
 	<string name="new_article_notification">Benachrichtigung über neue Artikel</string>
 	<string name="there_are_no_radio_stations_">Es gibt keine Radiosender!</string>
 	<string name="android_auto">Android Auto</string>
@@ -1158,7 +1158,7 @@
 	<string name="radio_station_name">Radiosendername</string>
 	<string name="podcast_priority">Podcast-Priorität</string>
 	<string name="group_by_podcast_priority">Nach Podcast-Priorität gruppieren</string>
-	<string name="rotate_by_podcast_and_priority">Nach Podcast rotieren &amp; Priorität</string>
+	<string name="rotate_by_podcast_and_priority">Abwechselnd nach Podcast &amp; Priorität</string>
 	<string name="grouping">Gruppierung</string>
 	<string name="display_chapter_title_and_artwork">Kapiteltitel und -bilder anzeigen</string>
 	<string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Kapiteltitel und -bilder in der Wiedergabe anzeigen, wenn Kapitel vorhanden sind.</string>
@@ -1201,7 +1201,7 @@
 	<string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Gebe unten den Benutzernamen und das Passwort ein, wenn der RSS-Feed eine Authentifizierung erfordert. Lasse es leer, wenn keine Authentifizierung erforderlich ist.</string>
 	<string name="play_pause_triple_click">Wiedergabe/Pause mit Dreifachklick</string>
 	<string name="title_display">Titelanzeige</string>
-	<string name="rotate_by_priority">Nach Priorität rotieren</string>
+	<string name="rotate_by_priority">Abwechselnd nach Priorität</string>
 	<string name="click_the_button_blow_if_adding_a_podcast_feed">Klicke auf die Schaltfläche unten, wenn du einen Podcast-Feed hinzufügst.</string>
 	<string name="continue_if_adding_a_text_or_blog_rss_feed">Fortfahren, wenn ein Text- oder Blog-RSS-Feed hinzugefügt wird</string>
 	<string name="close_app_when_moving_to_background">App beim Wechsel in den Hintergrund schließen</string>

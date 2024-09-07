@@ -174,7 +174,7 @@
 	<string name="next">"Nächste/r"</string>
 	<string name="file_date">"Datum"</string>
 	<string name="publishing_date">"Veröffentlichungsdatum"</string>
-	<string name="sort_manually">"Manuell sortieren"</string>
+	<string name="sort_manually">"Manuell"</string>
 	<string name="update_podcasts">"Podcasts aktualisieren"</string>
 	<string name="update_podcast">"Podcast aktualisieren"</string>
 	<string name="sort_by">"Sortieren nach…"</string>
@@ -908,8 +908,8 @@
 	<string name="mark_as_favorite">"Als Favorit markieren"</string>
 	<string name="remove_favorite_mark">"Favorit entfernen"</string>
 	<string name="rotate_by_podcasts">"Abwechselnd nach Podcasts"</string>
-	<string name="search_in_all_podcasts">"Suche in allen Podcasts"</string>
-	<string name="search_in_subscribed_podcasts">"Suche in abonnierten Podcasts"</string>
+	<string name="search_in_all_podcasts">"In allen Podcasts suchen"</string>
+	<string name="search_in_subscribed_podcasts">"In abonnierten Podcasts suchen"</string>
 	<string name="search_by_podcast_title">"Podcast-Titel suchen"</string>
 	<string name="search_by_podcast_publisher">"Podcast-Herausgeber suchen"</string>
 	<string name="fade_audio_out_2_minutes_left">"Audio ausblenden (2 Min. vor Timer-Ende)"</string>
@@ -980,7 +980,7 @@
 	<string name="fiction">Fiction</string>
 	<string name="genre_type_hisotry">Geschichte</string>
 	<string name="animations">Animationen</string>
-	<string name="list_animation">Animationen anzeigen</string>
+	<string name="list_animation">Animation anzeigen</string>
 	<string name="animate_items_when_loading_into_list">Einträge beim Laden animieren</string>
 	<string name="failed_to_update_podcast_s">Fehler beim Updaten des Podcasts: %s</string>
 	<string name="reset_password">Passwort zurücksetzen</string>
@@ -1146,7 +1146,7 @@
 	<string name="save_image">Bild speichern</string>
 	<string name="view_or_edit_playlist_setup_">Playlist-Einstellungen anzeigen oder bearbeiten.</string>
 	<string name="search_in_title">Im Titel suchen</string>
-	<string name="search_in_title_and_article">Suche in Titel und Artikel</string>
+	<string name="search_in_title_and_article">Im Titel und Artikel suchen</string>
 	<string name="youtube">YouTube</string>
 	<string name="no_wi_fi_update_podcast_once_with_mobile_data">Kein WLAN – Podcast einmal mit mobilen Daten aktualisieren?</string>
 	<string name="select_episodes_with_duration_between_d_and_d_minutes">Folgen mit einer Dauer zwischen %1$d und %2$d Minuten auswählen.</string>

@@ -694,13 +694,13 @@
 	<string name="syncing">"Synchronisieren…"</string>
 	<string name="continue_to_next_playlist">"Weiter zu nächster Playlist"</string>
 	<string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Nächste Playlist abspielen, nachdem alle Folgen der aktuellen abgespielt wurden."</string>
-	<string name="enable_manual_sorting">"Manuelle Sortierung deaktivieren"</string>
+	<string name="enable_manual_sorting">"Manuelle Sortierung aktivieren"</string>
 	<string name="open">"Öffnen"</string>
 	<string name="newest_unplayed">"Neueste nicht abgespielte Folgen"</string>
 	<string name="apply_to_current_podcast">"Auf den aktuellen Podcast anwenden"</string>
 	<string name="redownload_all_selected_episodes_">"Alle ausgewählten Folgen neu laden?"</string>
 	<string name="download_locaiton_is_not_accessible_set_up_the_download_location_now_">"Der Download-Speicherort ist nicht verfügbar. Willst Du den Download-Speicherort jetzt festlegen?"</string>
-	<string name="insufficient_space_please_free_some_storage_space_">"Nicht genug Speicherplatz. Bitte gib Speicherplatz frei."</string>
+	<string name="insufficient_space_please_free_some_storage_space_">"Nicht genug Speicherplatz vorhanden. Bitte gib Speicherplatz frei."</string>
 	<string name="show_last_updated_time">"Zeit der letzten Aktualisierung anzeigen"</string>
 	<string name="hide_last_updated_time">"Zeit der letzten Aktualisierung ausblenden"</string>
 	<string name="delete_account">"Konto löschen"</string>

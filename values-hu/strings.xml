@@ -1349,4 +1349,5 @@
     <string name="no_more_episodes_to_play_from_up_next_">Nincs több lejátszandó epizód.</string>
     <string name="play_time_by_podcast">Játékidő podcastonként</string>
     <string name="estimated_total_download_size_">A letöltés becsült teljes mérete: %1$s.</string>
+    <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
 </resources>

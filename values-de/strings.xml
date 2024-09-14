@@ -1344,4 +1344,5 @@
 	<string name="no_more_episodes_to_play_from_up_next_">Keine weiteren abzuspielenden Folgen in \"Als Nächstes\" vorhanden.</string>
 	<string name="play_time_by_podcast">Wiedergabezeit nach Podcast</string>
 	<string name="estimated_total_download_size_">Geschätzte Gesamtgröße des Downloads: %1$s.</string>
+    <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
 </resources>

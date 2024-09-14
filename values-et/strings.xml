@@ -1346,4 +1346,5 @@
     <string name="no_more_episodes_to_play_from_up_next_">No more episodes to play from Up next.</string>
     <string name="play_time_by_podcast">Play time by podcast</string>
     <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
+    <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
 </resources>

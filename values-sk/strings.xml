@@ -1348,5 +1348,5 @@
     <string name="no_more_episodes_to_play_from_up_next_">Žiadne ďalšie epizódy na prehrávanie z Nasleduje.</string>
     <string name="play_time_by_podcast">Čas prehrávania podľa podcastu</string>
     <string name="estimated_total_download_size_">Odhadovaná celková veľkosť sťahovania: %1$s.</string>
-    <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
+    <string name="notify_when_new_articles_are_available">Upozorniť na dostupnosť nových článkov.</string>
 </resources>

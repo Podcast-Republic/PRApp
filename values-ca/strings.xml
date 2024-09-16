@@ -1366,8 +1366,8 @@
     <string name="stop_playing">"Deixa de reproduir"</string>
     <string name="the_above_controls_are_always_enabled_by_android_system">"El sistema Android sempre activa els controls anteriors."</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">"Els dos primers controls seleccionats es mostraran a la notificació del reproductor multimèdia. Els altres controls seleccionats es mostraran a les opcions del menú de desbordament d'Android Auto."</string>
-    <string name="no_more_episodes_to_play_from_up_next_">"No more episodes to play from Up next."</string>
-    <string name="play_time_by_podcast">Play time by podcast</string>
-    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
-    <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
+    <string name="no_more_episodes_to_play_from_up_next_">"No hi ha més episodis per reproduir a A continuació."</string>
+    <string name="play_time_by_podcast">Temps de reproducció per podcast</string>
+    <string name="estimated_total_download_size_">Mida total estimada de la descàrrega: %1$s.</string>
+    <string name="notify_when_new_articles_are_available">Notificar quan hi hagi articles nous disponibles.</string>
 </resources>

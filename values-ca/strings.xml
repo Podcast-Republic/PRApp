@@ -434,8 +434,8 @@
     <string name="downloading">"Descarregant"</string>
     <string name="failed">"Errors"</string>
     <string name="select_all">"Selecciona-ho tot"</string>
-    <string name="export_download">"Exporta descàrrega"</string>
-    <string name="export_downloads">"Exporta descàrregues"</string>
+    <string name="export_download">"Exporta la descàrrega"</string>
+    <string name="export_downloads">"Exporta les descàrregues"</string>
     <string name="edit_episode_filter">"Edita el filtre d'episodis"</string>
     <string name="done">"Fet"</string>
     <string name="move_to_top">"Mou a dalt de tot"</string>
@@ -536,7 +536,7 @@
     <string name="portrait">"Vertical"</string>
     <string name="landscape">"Horitzontal"</string>
     <string name="drag_the_handler_to_sort_manually">"Arrossegueu el controlador per ordenar manualment."</string>
-    <string name="streaming">"Transmissió en directe"</string>
+    <string name="streaming">"Transmetent"</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Introduïu el nom d'usuari i la contrasenya a continuació si el vostre podcast requereix autenticació. Deixeu-los buits si no cal autenticació."</string>
     <string name="can_not_play_ps">"No es pot reproduir: %1$s."</string>
     <string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
@@ -614,7 +614,7 @@
     <string name="no_user_notes_found">"No s'han trobat notes d'usuari."</string>
     <string name="no_episode_description_found">"No s'ha trobat cap descripció de l'episodi."</string>
     <string name="or">"O"</string>
-    <string name="up_next_list_has_been_updated_to_play_from_s">"La llista A continuació s'ha actualitzat per reproduir des de: %1$s."</string>
+    <string name="up_next_list_has_been_updated_to_play_from_s">"La llista «A continuació» s'ha actualitzat per reproduir des de: %1$s."</string>
     <string name="do_a_full_syncing_will_take_much_longer_to_finish">"Fer una sincronització completa. Trigarà molt més a acabar."</string>
     <string name="buy_me_a_coffee_message">"Si us agrada utilitzar l'aplicació Podcast Republic i voleu donar suport al desenvolupament, podeu comprar-me una tassa de cafè. Gràcies!"</string>
     <string name="maybe_later">"Potser més tard"</string>
@@ -789,7 +789,7 @@
     <string name="smart_download">"Descàrrega intel·ligent"</string>
     <string name="download_anyway">"Descarrega igualment"</string>
     <string name="download_anyway_message">"Ignora la configuració de la Wi-Fi i de la bateria, simplement descarrega l'episodi amb la connexió de xarxa actual! Això pot utilitzar les dades mòbils i la bateria. Continuar?"</string>
-    <string name="play_all_from_old_to_new">"Reprodueix-ho tot del més vell al més nou"</string>
+    <string name="play_all_from_old_to_new">"Reprodueix-ho tot del més antic al més nou"</string>
     <string name="delete_all_immediately">"Suprimeix-ho tot immediatament"</string>
     <string name="deleted_downloads_will_be_removed_after_24_hours_">"Les descàrregues suprimides s'eliminaran al cap de 24 hores."</string>
     <string name="delete_immediately">"Suprimeix immediatament"</string>
@@ -849,7 +849,7 @@
     <string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Recorda el darrer nivell de volum reproduït i restaura'l quan comenci la reproducció."</string>
     <string name="metered_network">"Xarxa d'ús mesurat"</string>
     <string name="allow_to_download_over_metered_network">"Permet descarregar a través de la xarxa d'ús mesurat."</string>
-    <string name="remind_me_1_minute_left">"Recorda'm (queda 1 minut)"</string>
+    <string name="remind_me_1_minute_left">"Recorda'm-ho (quan quedi 1 minut)"</string>
     <string name="unread_count">"Nombre de no llegits"</string>
     <string name="newest_unread">"El més nou no llegit"</string>
     <string name="no_articles_selected_">"No s'ha seleccionat cap article!"</string>
@@ -881,9 +881,9 @@
     <string name="there_are_no_downloaded_episodes_">"No hi ha episodis descarregats!"</string>
     <string name="start_playing_and_go_to_now_playing">"Comença a reproduir i ves a Reproduint ara"</string>
     <string name="show_unplayed_count">"Mostra el recompte de no reproduïts"</string>
-    <string name="hide_unplayed_count">"Amaga el recompte no reproduïts"</string>
-    <string name="show_recent_count">"Mostra el recompte recent"</string>
-    <string name="hide_recent_count">"Amaga el recompte recent"</string>
+    <string name="hide_unplayed_count">"Amaga el recompte de no reproduïts"</string>
+    <string name="show_recent_count">"Mostra el recompte de recents"</string>
+    <string name="hide_recent_count">"Amaga el recompte de recents"</string>
     <string name="no_radio_stations_found_press_the_add_button_to_add_a_radio_station">"No s'han trobat emissores de ràdio. Premeu el botó Afegeix (+) per afegir una emissora de ràdio."</string>
     <string name="no_text_rss_feeds_found_press_the_add_button_to_add_a_feed">"No s'han trobat canals RSS de text. Premeu el botó Afegeix (+) per afegir un canal."</string>
     <string name="tag_radios">"Etiqueta les ràdios"</string>
@@ -917,7 +917,7 @@
     <string name="find_rss_feed">"Cerca el canal RSS"</string>
     <string name="there_are_no_rss_feeds">"No hi ha canals RSS!"</string>
     <string name="got_it">"Entesos"</string>
-    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Heu reordenat la llista A continuació. Com a resultat, A continuació no se sincronitzarà amb la llista d'episodis o llista de reproducció que es reprodueix actualment."</string>
+    <string name="you_ve_reordered_the_up_next_list_as_a_result_the_up_next_will_not_be_updated_to_the_currently_playing_episode_list_or_playlist">"Heu reordenat la llista «A continuació». Com a resultat, «A continuació» no se sincronitzarà amb la llista d'episodis o llista de reproducció que es reprodueix actualment."</string>
     <string name="don_t_show_it_again">"No ho tornis a mostrar"</string>
     <string name="always_on">"Sempre activat"</string>
     <string name="always_on_amoled_black">"Sempre activat (negre AMOLED)"</string>
@@ -938,7 +938,7 @@
     <string name="search_in_subscribed_podcasts">"Cerca als podcasts subscrits"</string>
     <string name="search_by_podcast_title">"Cerca per títol del podcast"</string>
     <string name="search_by_podcast_publisher">"Cerca per editor de podcast"</string>
-    <string name="fade_audio_out_2_minutes_left">"Efecte d'esvaïment d'àudio (queden 2 minuts)"</string>
+    <string name="fade_audio_out_2_minutes_left">"Efecte d'esvaïment d'àudio (quan quedin 2 minuts)"</string>
     <string name="keep_all_articles">"Conserva tots els articles"</string>
     <string name="keep_articles">"Conserva els articles"</string>
     <string name="pref_download_location_select_prompt_message">"Se us redirigirà al gestor de fitxers d'Android. Seleccioneu un directori a l'emmagatzematge intern o a la targeta SD per utilitzar-lo com a ubicació de descàrrega."</string>
@@ -966,7 +966,7 @@
     <string name="create_shortcut">"Crea una drecera"</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">"Permet utilitzar dades mòbils i ignorar les restriccions de la bateria en descarregar episodis."</string>
     <string name="show_play_next_episode_station_button">"Mostra el botó Reprodueix el següent episodi/emissora."</string>
-    <string name="append_to_up_next">"Afegeix a A continuació"</string>
+    <string name="append_to_up_next">"Afegeix a «A continuació»"</string>
     <string name="only_include_episodes_with_user_notes">"Inclou només episodis amb notes de l'usuari."</string>
     <string name="description_preview">"Previsualització de la descripció"</string>
     <string name="mark_current_playback_position">"Marca la posició de reproducció actual"</string>
@@ -1064,7 +1064,7 @@
     <string name="mark_as_played">"Marca com a reproduït"</string>
     <string name="mark_as_unplayed">"Marca com a no reproduït"</string>
     <string name="swipe_left_action">"Acció de lliscar cap a l'esquerra"</string>
-    <string name="nothing_in_up_next">"Res a A continuació."</string>
+    <string name="nothing_in_up_next">"Res a «A continuació»."</string>
     <string name="adjust_playback_position">"Ajusta la posició de reproducció"</string>
     <string name="allow_to_change_playback_position_from_notification_">"Permet canviar la posició de reproducció des de la notificació."</string>
     <string name="zoom_image">"Amplia la imatge"</string>
@@ -1107,7 +1107,7 @@
     <string name="mark_all_next_articles_as_read">"Marca tots els articles següents com a llegits"</string>
     <string name="use_legacy_media_notification_style">"Utilitza l'estil de notificació multimèdia heretat"</string>
     <string name="use_legacy_media_notification_style_before_android_11">"Usar l'estil de notificació multimèdia heretat abans d'Android 11."</string>
-    <string name="save_up_next_to">"Desa A continuació a…"</string>
+    <string name="save_up_next_to">"Desa «A continuació» a…"</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">"Marcar tots els episodis publicats abans d'aquest episodi [%1$s] com a no reproduïts?"</string>
     <string name="mark_all_previous_episodes_as_unplayed">"Marca tots els episodis anteriors com a no reproduïts"</string>
     <string name="_s_kbps">"%skbps"</string>
@@ -1141,7 +1141,7 @@
     <string name="time_unit_minute_single_letter_format">"M"</string>
     <string name="time_unit_second_single_letter_format">"S"</string>
     <string name="time_unit_second_single_letter_format_lower_case_with_value">"%ds"</string>
-    <string name="playback_speed_shortcuts">"Velocitats ràpides"</string>
+    <string name="playback_speed_shortcuts">"Dreceres de velocitats ràpides"</string>
     <string name="move_all_files_from_s_to_the_new_download_directory_s">"Moure tots els fitxers de [%1$s] al nou directori de descàrrega [%2$s]?"</string>
     <string name="article_text_size">"Mida del text de l'article"</string>
     <string name="apply_this_change_to_all_rss_feeds">"Aplicar aquest canvi a tots els canals RSS?"</string>
@@ -1219,10 +1219,10 @@
     <string name="reddit">"Reddit"</string>
     <string name="allow_the_app_to_create_detailed_app_log_">"Permet que l'aplicació creï un registre detallat de l'aplicació."</string>
     <string name="send_a_bug_report_with_app_log_">"Envia un informe d'error amb el registre de l'aplicació."</string>
-    <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">"Deixar d'actualitzar A continuació amb la llista d'episodis o la llista de reproducció que s'està reproduint?"</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">"A continuació no s'actualitza amb la llista d'episodis o a la llista de reproducció que s'està reproduint."</string>
-    <string name="update_up_next_automatically">"Actualitza A continuació automàticament"</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">"Actualitza A continuació automàticament quan es canvia o s'actualitza la llista d'episodis o la llista de reproducció que es reprodueix actualment."</string>
+    <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">"Deixar d'actualitzar «A continuació» amb la llista d'episodis o la llista de reproducció que s'està reproduint?"</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">"«A continuació» no s'actualitza amb la llista d'episodis o a la llista de reproducció que s'està reproduint."</string>
+    <string name="update_up_next_automatically">"Actualitza «A continuació» automàticament"</string>
+    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">"Actualitza «A continuació» automàticament quan es canvia o s'actualitza la llista d'episodis o la llista de reproducció que es reprodueix actualment."</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Introduïu el nom d'usuari i la contrasenya a continuació si el canal RSS requereix autenticació. Deixeu-los buits si no cal autenticació."</string>
     <string name="play_pause_triple_click">"Triple clic Reprodueix/Pausa"</string>
     <string name="title_display">"Visualització del títol"</string>
@@ -1246,8 +1246,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">"Marge de text quan es llegeix en mode horitzontal."</string>
     <string name="default_margin_size">"Per defecte"</string>
     <string name="popularity">"Popularitat"</string>
-    <string name="display_up_next_list">"Mostra la llista A continuació"</string>
-    <string name="browse_up_next">"Navega per A continuació"</string>
+    <string name="display_up_next_list">"Mostra la llista «A continuació»"</string>
+    <string name="browse_up_next">"Navega per «A continuació»"</string>
     <string name="add_notes">"Afegeix notes"</string>
     <string name="display_options">"Opcions de visualització"</string>
     <string name="there_are_no_unread_articles_">"No hi ha articles no llegits."</string>
@@ -1366,8 +1366,8 @@
     <string name="stop_playing">"Deixa de reproduir"</string>
     <string name="the_above_controls_are_always_enabled_by_android_system">"El sistema Android sempre activa els controls anteriors."</string>
     <string name="the_first_two_selected_controls_will_show_up_on_the_media_player_notification_the_other_selected_controls_will_show_up_in_the_overflow_options_on_android_auto">"Els dos primers controls seleccionats es mostraran a la notificació del reproductor multimèdia. Els altres controls seleccionats es mostraran a les opcions del menú de desbordament d'Android Auto."</string>
-    <string name="no_more_episodes_to_play_from_up_next_">"No more episodes to play from Up next."</string>
-    <string name="play_time_by_podcast">Play time by podcast</string>
-    <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
-    <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
+    <string name="no_more_episodes_to_play_from_up_next_">"No hi ha més episodis per reproduir a «A continuació»."</string>
+    <string name="play_time_by_podcast">Temps de reproducció per podcast</string>
+    <string name="estimated_total_download_size_">Mida total estimada de la descàrrega: %1$s.</string>
+    <string name="notify_when_new_articles_are_available">Notificar quan hi hagi articles nous disponibles.</string>
 </resources>

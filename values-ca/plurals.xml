@@ -145,9 +145,9 @@
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Afegir un episodi a 'A continuació'?"</item>
-        <item quantity="many">"Afegir tots els %1$d episodis a 'A continuació'?"</item>
-        <item quantity="other">"Afegir tots els %1$d episodis a 'A continuació'?"</item>
+        <item quantity="one">"Afegir un episodi a «A continuació»?"</item>
+        <item quantity="many">"Afegir tots els %1$d episodis a «A continuació»?"</item>
+        <item quantity="other">"Afegir tots els %1$d episodis a «A continuació»?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">

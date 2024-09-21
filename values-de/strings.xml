@@ -662,7 +662,7 @@
 	<string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Bitte schließe die App nicht, während Daten wiederhergestellt werden. Die App wird neu gestartet, wenn alle Daten wiederhergestellt sind."</string>
 	<string name="playback_paused_on_muted_volume_">"Wiedergabe pausiert bei stummgeschalteter Lautstärke!"</string>
 	<string name="number_of_episodes_to_auto_download">"Anzahl der Folgen, die per automatischem Download heruntergeladen werden sollen"</string>
-	<string name="notify_when_new_episodes_are_available">"Benachrichtigen, wenn neue Folgen verfügbar sind"</string>
+	<string name="notify_when_new_episodes_are_available">Benachrichtigen, wenn neue Folgen verfügbar sind.</string>
 	<string name="com_parse_ui_progress_dialog_text">"Laden…"</string>
 	<string name="com_parse_ui_forgot_password_button_label">"Passwort vergessen?"</string>
 	<string name="com_parse_ui_email_input_hint">"E-Mail"</string>
@@ -706,7 +706,7 @@
 	<string name="delete_account">"Konto löschen"</string>
 	<string name="you_wont_be_able_to_login_this_account_again_continue_to_delete_account_">"Du wirst Dich nicht mehr an diesem Konto anmelden können! Mit dem Löschen des Kontos fortfahren?"</string>
 	<string name="download_completed">"Download abgeschlossen"</string>
-	<string name="notify_when_an_episode_has_been_downloaded">"Benachrichtigen, wenn eine Folge heruntergeladen wurde"</string>
+	<string name="notify_when_an_episode_has_been_downloaded">Benachrichtigen, wenn eine Folge heruntergeladen wurde.</string>
 	<string name="dark_theme">"Nachtmodus"</string>
 	<string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Basierend auf der Tageszeit automatisch zwischen hellem (Tag) und dunklem Design (Nacht) umschalten"</string>
 	<string name="playback_mode_repeat_episode">"Folge wiederholen"</string>
@@ -743,7 +743,7 @@
 	<string name="turn_off_alarms">"Alarme ausschalten"</string>
 	<string name="play_as_audio_only">"Nur Audio abspielen"</string>
 	<string name="remove_downloads_from_unsubscribed_podcast_s_">"Downloads des nicht abonniertem Podcast [ %1$s ] entfernen?"</string>
-	<string name="report_bug_privacy_message">"Indem Du auf \"Fehler melden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
+	<string name="report_bug_privacy_message">"Indem Du auf \"Fehlerbericht senden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
 	<string name="sign_up_privacy_and_terms_message">"Indem Du auf \"Konto erstellen\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
 	<string name="sign_in_privacy_and_terms_message">"Indem Du auf \"Anmelden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
 	<string name="automatically_turn_on_sleep_timer_when_playback_starts">"Einschlaf-Timer einschalten, wenn die Wiedergabe beginnt"</string>
@@ -1344,5 +1344,5 @@
 	<string name="no_more_episodes_to_play_from_up_next_">Keine weiteren abzuspielenden Folgen in \"Als Nächstes\" vorhanden.</string>
 	<string name="play_time_by_podcast">Wiedergabezeit nach Podcast</string>
 	<string name="estimated_total_download_size_">Geschätzte Gesamtgröße des Downloads: %1$s.</string>
-    <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
+	<string name="notify_when_new_articles_are_available">Benachrichtigen, wenn neue Artikel verfügbar sind.</string>
 </resources>

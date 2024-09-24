@@ -88,7 +88,7 @@
 		<item>Venezuela </item>
 		<item>Vietnam</item>
 	</string-array>
-	<string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Abgespielte Folge aus der Downloadliste automatisch löschen"</string>
+	<string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Heruntergeladende Podcast-Datei automatisch löschen, nachdem sie abgespielt wurde."</string>
 	<string name="pref_downloadLocation">"Podcast herunterladen nach: "</string>
 	<string name="downloads">"Downloads"</string>
 	<string name="jump_to_next_episode">"Zur nächsten Folge springen"</string>
@@ -137,7 +137,7 @@
 	<string name="description">"Beschreibung"</string>
 	<string name="play">"Wiedergabe"</string>
 	<string name="share">"Teilen"</string>
-	<string name="add_to_playlists">"Einer Playlist hinzufügen"</string>
+	<string name="add_to_playlists">"Zu einer Playlist hinzufügen"</string>
 	<string name="end_editing_mode">"Bearbeitungsmodus verlassen"</string>
 	<string name="set">"Speichern"</string>
 	<string name="no_episode_selected">"Keine Folge ausgewählt"</string>
@@ -200,7 +200,7 @@
 	<string name="about">"Über"</string>
 	<string name="action_s">"Aktion: %1$s."</string>
 	<string name="action">"Aktion"</string>
-	<string name="download_only_when_connected_to_wifi">"Downloads werden nur durchgeführt, wenn eine WLAN-Verbindung besteht"</string>
+	<string name="download_only_when_connected_to_wifi">"Downloads werden nur durchgeführt, wenn eine WLAN-Verbindung besteht."</string>
 	<string name="add_to_new_tag">"Zu einem neuen Tag hinzufügen"</string>
 	<string name="enter_a_new_tag_name">"Neuer Tag-Name eingeben"</string>
 	<string name="rename_the_tag">Tag umbenennen</string>
@@ -275,7 +275,7 @@
 	<string name="s_has_been_added_to_subscription">"%1$s wurde zum Abo hinzugefügt"</string>
 	<string name="audio_not_started_yet">"Audio noch nicht gestartet!"</string>
 	<string name="manage_playlists">"Playlisten bearbeiten"</string>
-	<string name="download">"Download"</string>
+	<string name="download">"Herunterladen"</string>
 	<string name="fast_forward_time">"Schnelles Vorspulen"</string>
 	<string name="fast_rewind_time">"Schnelles Zurückspulen "</string>
 	<string name="play_stop">"Wiedergabe/Stopp"</string>
@@ -308,7 +308,7 @@
 	<string name="data_wifi_usage">"Daten- &amp; WLAN-Nutzung"</string>
 	<string name="download_via_wifi_only">"Downloads nur über WLAN"</string>
 	<string name="feed_updates_via_wifi_only">"Aktualisierungen nur über WLAN"</string>
-	<string name="update_podcasts_only_when_connected_to_wifi">"Aktualisierungen werden nur durchgeführt, wenn eine WLAN-Verbindung besteht"</string>
+	<string name="update_podcasts_only_when_connected_to_wifi">"Aktualisierungen werden nur durchgeführt, wenn eine WLAN-Verbindung besteht."</string>
 	<string name="mark_all_as_played">"Alle als abgespielt markieren"</string>
 	<string name="playback_mode">"Wiedergabemodus"</string>
 	<string name="display_on_lock_screen">"Auf dem Sperrbildschirm anzeigen"</string>
@@ -333,11 +333,11 @@
 	<string name="account_and_syncing">"Konto &amp; Synchronisierung"</string>
 	<string name="playback_mode_shuffle">"Zufallswiedergabe"</string>
 	<string name="update_on_charging">"Während des Ladevorgangs aktualisieren"</string>
-	<string name="update_podcasts_only_when_battery_is_charging">"Aktualisierung erfolgt nur bei angeschlossenem Ladegerät"</string>
+	<string name="update_podcasts_only_when_battery_is_charging">"Podcast-Aktualisierung erfolgt nur bei angeschlossenem Ladegerät."</string>
 	<string name="filename">"Dateinamen"</string>
 	<string name="auto_backup_saved_to_">"Automatisches Backup gespeichert in [%1$s]"</string>
 	<string name="download_removed">"Download entfernt"</string>
-	<string name="load_artworks_only_when_connected_to_wifi">"Bilder nur über WLAN laden"</string>
+	<string name="load_artworks_only_when_connected_to_wifi">"Bilder werden nur geladen, wenn eine WLAN-Verbindung besteht."</string>
 	<string name="load_artwork_via_wifi_only">"Bilder nur über WLAN laden"</string>
 	<string name="when_pressing_an_episode_in_list">"Beim Tippen auf die Folge in der Liste"</string>
 	<string name="start_playing">"Wiedergabe starten"</string>
@@ -347,7 +347,7 @@
 	<string name="remove_all">"Alles entfernen"</string>
 	<string name="new_episode_notification">"Benachrichtigung bei neuen Folgen"</string>
 	<string name="download_on_charging">"Herunterladen, wenn Akku geladen wird"</string>
-	<string name="start_downloading_only_when_battery_is_charging">"Download nur starten, wenn Akku geladen wird"</string>
+	<string name="start_downloading_only_when_battery_is_charging">"Download nur starten, wenn der Akku geladen wird."</string>
 	<string name="add_a_youtube_podcast">"YouTube-Podcast hinzufügen"</string>
 	<string name="channels">"Kanäle"</string>
 	<string name="when_deleting_an_episode">"Wenn Folge gelöscht wird"</string>
@@ -361,7 +361,7 @@
 	<string name="auto_download_filter">"Filter für automatischen Download"</string>
 	<string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Titel der Folgen für automatischen Download filtern. Erfordert zuerst die Aktivierung der Funktion \"Automatischer Download\"."</string>
 	<string name="keep_favorite_episodes">"Favoriten-Folgen behalten"</string>
-	<string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"Favoriten-Folgen von automatischer Löschung ausnehmen"</string>
+	<string name="keep_the_download_of_favorite_episode_from_being_auto_deleted">"Favoriten-Folgen von automatischer Löschung ausnehmen."</string>
 	<string name="sub_directory_found_create_new_virtual_podcast_for_each_sub_directory_">"Unterverzeichnis gefunden. Soll ein neuer virtueller Podcast pro Unterverzeichnis erstellt werden?"</string>
 	<string name="import_sub_directory">"Unterverzeichnis importieren"</string>
 	<string name="failed_downloads">"Fehlgeschlagen"</string>
@@ -451,7 +451,7 @@
 	<string name="swipe_to_right_to_fast_forward">"Nach rechts wischen zum Vorspulen"</string>
 	<string name="remove_subscription_to_">"Abo von [%1$s] entfernen"</string>
 	<string name="data_roaming">"Daten-Roaming"</string>
-	<string name="allow_to_download_with_data_services_when_roaming">"Download über mobile Datenverbindung erlauben, wenn im Roaming-Modus"</string>
+	<string name="allow_to_download_with_data_services_when_roaming">"Download über mobile Datenverbindung erlauben, wenn im Roaming-Modus."</string>
 	<string name="up_next">"Als Nächstes"</string>
 	<string name="episode_info">"Info zur Folge"</string>
 	<string name="no_more_episodes_to_play_from_playlist_s_">"Keine Folgen mehr in Playlist [%1$s] abzuspielen"</string>
@@ -464,7 +464,7 @@
 	<string name="browse_by_playlist">"Playlist durchsuchen"</string>
 	<string name="reset_episodes_will_discard_cached_episodes_and_rebuild_episodes_from_the_podcast_feed_">"Dieses wird zwischengespeicherte Folgen löschen und die Folgen vom Podcast-Feed neu aufbauen."</string>
 	<string name="right_hand_operation">"Rechtshänder-Modus"</string>
-	<string name="open_menu_drawer_on_the_right_side">"Menü auf der rechten Seite öffnen"</string>
+	<string name="open_menu_drawer_on_the_right_side">"Menü auf der rechten Seite öffnen."</string>
 	<string name="go_to_podcast">"Zum Podcast"</string>
 	<string name="there_are_no_podcasts_">"Kein Podcast gefunden!"</string>
 	<string name="no_podcasts_selected">"Kein Podcast ausgewählt"</string>
@@ -501,8 +501,8 @@
 	<string name="browse_by_radio_stations">"Radiosender durchsuchen"</string>
 	<string name="wifi_is_not_available_cancelling_podcast_update_checking_">"WLAN ist nicht verfügbar. Prüfung auf Podcst-Updates abgebrochen."</string>
 	<string name="pull_to_refresh">"Ziehen zum Aktualisieren"</string>
-	<string name="pull_down_the_playlist_to_start_podcast_update_checking">"\"Playlisten\" nach unten ziehen, um auf Updates zu prüfen"</string>
-	<string name="pull_down_download_list_to_start_podcast_update_checking">"\"Downloads\" nach unten ziehen, um auf Updates zu prüfen"</string>
+	<string name="pull_down_the_playlist_to_start_podcast_update_checking">"\"Playlisten\" nach unten ziehen, um auf Updates zu prüfen."</string>
+	<string name="pull_down_download_list_to_start_podcast_update_checking">"\"Downloads\" nach unten ziehen, um auf Updates zu prüfen."</string>
 	<string name="auto_rotate_screen">"Bildschirm automatisch drehen"</string>
 	<string name="screen_orientation">"Bildschirmausrichtung"</string>
 	<string name="portrait">"Hochformat"</string>
@@ -514,7 +514,7 @@
 	<string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
 	<string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
 	<string name="percent_played">"%1$d%% abgespielt"</string>
-	<string name="pull_down_podcasts_list_to_start_podcast_update_checking">"\"Abos\" nach unten ziehen, um auf Updates zu prüfen"</string>
+	<string name="pull_down_podcasts_list_to_start_podcast_update_checking">"\"Abos\" nach unten ziehen, um auf Updates zu prüfen."</string>
 	<string name="actions">"Aktionen"</string>
 	<string name="when_an_episode_is_100_played">"Wenn eine Folge zu 100% abgespielt ist"</string>
 	<string name="delete_the_download">"Download löschen"</string>
@@ -548,13 +548,13 @@
 	<string name="syncing_started">"Synchronisierung gestartet"</string>
 	<string name="sync_subscriptions_and_episode_playback_progress">"Abos und Wiedergabe-Status der Folgen synchronisieren"</string>
 	<string name="save_auto_backup_to_s">"Automatisches Backup sichern nach: %1$s"</string>
-	<string name="enable_auto_backup_of_app_settings_and_database">"Automatisches Backup der App-Einstellungen und der Datenbank aktivieren"</string>
+	<string name="enable_auto_backup_of_app_settings_and_database">"Automatisches Backup der App-Einstellungen und der Datenbank aktivieren."</string>
 	<string name="schedule_backup">"Backup festlegen"</string>
 	<string name="backups_to_keep">"Aufzubewahrende Backups"</string>
-	<string name="import_subscriptions_from_an_opml_file">"Abos aus einer OPML-Datei importieren"</string>
-	<string name="export_subscriptions_to_an_opml_file">"Abos in eine OPML-Datei exportieren"</string>
-	<string name="create_a_backup_of_app_settings_and_database">"Backup der App-Einstellungen und der Datenbank anlegen"</string>
-	<string name="restore_app_settings_and_database_from_selected_backup">"App-Einstellungen und Datenbank aus dem ausgewählten Backup wiederherstellen"</string>
+	<string name="import_subscriptions_from_an_opml_file">"Abos aus einer OPML-Datei importieren."</string>
+	<string name="export_subscriptions_to_an_opml_file">"Abos in eine OPML-Datei exportieren."</string>
+	<string name="create_a_backup_of_app_settings_and_database">"Backup der App-Einstellungen und der Datenbank anlegen."</string>
+	<string name="restore_app_settings_and_database_from_selected_backup">"App-Einstellungen und Datenbank aus dem ausgewählten Backup wiederherstellen."</string>
 	<string name="save_to">"Speichern unter"</string>
 	<string name="buy_me_a_coffee">"Spendiere mir einen Kaffee"</string>
 	<string name="clear_the_play_history_">"Wiedergabe-Verlauf löschen?"</string>
@@ -562,7 +562,7 @@
 	<string name="keep_all">"Alle aufbewahren"</string>
 	<string name="playlist">"Playlist"</string>
 	<string name="category">"Kategorie"</string>
-	<string name="update_podcasts_when_app_is_starting">"Podcasts beim Start der App aktualisieren"</string>
+	<string name="update_podcasts_when_app_is_starting">"Podcasts beim Start der App aktualisieren."</string>
 	<string name="unknown_station">"Unbekannter Radiosender"</string>
 	<string name="can_not_cast_youtube_videos_to_chromecast_">"YouTube-Videos können nicht auf Chromecast gestreamt werden!"</string>
 	<string name="add_a_playlist">"Eine Playlist hinzufügen"</string>
@@ -578,7 +578,7 @@
 	<string name="set_playlists">"Playlisten auswählen"</string>
 	<string name="mark_all_as_read">"Alle als gelesen markieren"</string>
 	<string name="not_in_use">"Nicht verwendet"</string>
-	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten ziehen, um auf Updates zu prüfen"</string>
+	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten ziehen, um auf Updates zu prüfen."</string>
 	<string name="mark_all_previous_episodes_as_played">"Alle vorherigen Folgen als abgespielt markieren"</string>
 	<string name="remove_favorite">"Favorit entfernen"</string>
 	<string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Alle Folgen, die neuer sind als diese Folge [%1$s] als abgespielt markieren?"</string>
@@ -746,7 +746,7 @@
 	<string name="report_bug_privacy_message">"Indem Du auf \"Fehlerbericht senden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
 	<string name="sign_up_privacy_and_terms_message">"Indem Du auf \"Konto erstellen\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
 	<string name="sign_in_privacy_and_terms_message">"Indem Du auf \"Anmelden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
-	<string name="automatically_turn_on_sleep_timer_when_playback_starts">"Einschlaf-Timer einschalten, wenn die Wiedergabe beginnt"</string>
+	<string name="automatically_turn_on_sleep_timer_when_playback_starts">"Einschlaf-Timer automatisch einschalten, wenn die Wiedergabe beginnt."</string>
 	<string name="syncing_data_only_when_connected_to_wifi_network">"Daten werden nur synchronisiert, wenn eine WLAN-Verbindung besteht."</string>
 	<string name="syncing_via_wifi_only">"Synchronisierung nur über WLAN"</string>
 	<string name="total_downloaded_file_size_s">"Verwendeter Speicherplatz: %s"</string>
@@ -760,7 +760,7 @@
 	<string name="skip_silence">"Stille überspringen"</string>
 	<string name="smart_download">"Intelligenter Download"</string>
 	<string name="download_anyway">"Immer herunterladen"</string>
-	<string name="download_anyway_message">"WLAN- und Akku-Einstellungen ignorieren, die Folge jetzt mit den aktuellen Netzwerkeinstellungen durchführen! Das könnte Dein mobiles Datenvolumen bzw. Deine Akku verbrauchen! Trotzdem fortsetzen?"</string>
+	<string name="download_anyway_message">"WLAN- und Akku-Einstellungen ignorieren, die Folge jetzt mit den aktuellen Netzwerkeinstellungen durchführen! Das könnte Dein mobiles Datenvolumen und Akku verbrauchen! Trotzdem fortsetzen?"</string>
 	<string name="play_all_from_old_to_new">"Alle abspielen, älteste zuerst"</string>
 	<string name="delete_all_immediately">"Alles sofort löschen"</string>
 	<string name="deleted_downloads_will_be_removed_after_24_hours_">"Gelöschte Downloads werden nach 24 Stunden entfernt."</string>
@@ -819,7 +819,7 @@
 	<string name="remember_volume_level">"Lautstärkepegel merken"</string>
 	<string name="remember_last_played_volume_level_and_restore_to_it_on_playback_starts">"Zuletzt eingestellten Lautstärkepegel merken und beim Start der Wiedergabe wiederherstellen."</string>
 	<string name="metered_network">"Getaktetes Netzwerk"</string>
-	<string name="allow_to_download_over_metered_network">"Herunterladen über ein getaktetes Netzwerk erlauben"</string>
+	<string name="allow_to_download_over_metered_network">"Herunterladen über ein getaktetes Netzwerk erlauben."</string>
 	<string name="remind_me_1_minute_left">"Erinnern (1 Min. vor Timer-Ende)"</string>
 	<string name="unread_count">"Anzahl ungelesene"</string>
 	<string name="newest_unread">"Neueste ungelesene"</string>
@@ -873,9 +873,9 @@
 	<string name="hold_down_to_start_dragging">"Gedrückt halten, um mit dem Ziehen zu beginnen"</string>
 	<string name="swipe_right_action">"Nach rechts wischen"</string>
 	<string name="stream_podcasts_via_wifi_only">"Podcasts nur über WLAN streamen"</string>
-	<string name="allow_to_stream_podcasts_only_when_wifi_is_connected">"Podcasts können nur gestreamt werden, wenn eine WLAN-Verbindung besteht"</string>
+	<string name="allow_to_stream_podcasts_only_when_wifi_is_connected">"Podcasts können nur gestreamt werden, wenn eine WLAN-Verbindung besteht."</string>
 	<string name="stream_radios_via_wifi_only">"Radiosender nur über WLAN streamen"</string>
-	<string name="allow_to_stream_radios_only_when_wifi_is_connected">"Radios können nur gestreamt werden, wenn eine WLAN-Verbindung besteht"</string>
+	<string name="allow_to_stream_radios_only_when_wifi_is_connected">"Radios können nur gestreamt werden, wenn eine WLAN-Verbindung besteht."</string>
 	<string name="history_and_stats">"Verlauf &amp; Statistiken"</string>
 	<string name="delete_downloads">"Downloads löschen"</string>
 	<string name="keep_download">"Download behalten"</string>
@@ -894,7 +894,7 @@
 	<string name="always_on">"Immer an"</string>
 	<string name="always_on_amoled_black">"Immer an (AMOLED schwarz)"</string>
 	<string name="smart_rewind_on_resuming">"Intelligentes Zurückspulen bei Wiederaufnahme"</string>
-	<string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">"Automatisch %1$d bis %2$d Sekunden zurückspulen, wenn die Wiedergabe fortgesetzt wird"</string>
+	<string name="automatically_rewind_d_to_d_seconds_when_resuming_the_playback">"Automatisch %1$d bis %2$d Sekunden zurückspulen, wenn die Wiedergabe fortgesetzt wird."</string>
 	<string name="show_radio_station_name">"Radiosendertitel anzeigen"</string>
 	<string name="hide_radio_station_name">"Radiossendertitel ausblenden"</string>
 	<string name="not_in_downloads_list">"Nicht in der Downloads-Liste"</string>
@@ -923,7 +923,7 @@
 	<string name="remove_the_episode_from_playlist_after_being_played">"Folge nach der Wiedergabe aus der Playliste entfernen"</string>
 	<string name="apply_this_change_to_all_playlist_">"Diese Änderung auf alle Playlisten anwenden?"</string>
 	<string name="overwrite_volume_mute_state">"Stummschaltung nicht berücksichtigen"</string>
-	<string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">"Ermöglicht das Ignorieren des Stummschaltezustands der Lautstärke und stellt die zuletzt wiedergegebene Lautstärke wieder her"</string>
+	<string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">"Ermöglicht das Ignorieren des Stummschaltezustands der Lautstärke und stellt die zuletzt wiedergegebene Lautstärke wieder her."</string>
 	<string name="starting_podcast_update_checking">"Überprüfung der Podcast-Updates starten."</string>
 	<string name="greater_than">"Größer als"</string>
 	<string name="less_than">"Weniger als"</string>
@@ -936,7 +936,7 @@
 	<string name="select_all_below">Alle unterhalb auswählen</string>
 	<string name="select_all_above">Alle oberhalb auswählen</string>
 	<string name="ignore_articles_in_title">Artikel im Titel ignorieren</string>
-	<string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignoriere bei der Sortierung nach Titel die Artikel (A, An oder The) im Podcast-Titel</string>
+	<string name="ignore_articles_a_an_or_the_in_podcast_title_when_sorting_by_title">Ignoriere bei der Sortierung nach Titel die Artikel (A, An oder The) im Podcast-Titel.</string>
 	<string name="create_shortcut">Verknüpfung erstellen</string>
 	<string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Verwendung mobiler Daten erlauben und Akkubeschränkungen beim Herunterladen von Folgen ignorieren.</string>
 	<string name="show_play_next_episode_station_button">Schaltfläche \"Nächste/r Folge/Radiosender abspielen\" anzeigen.</string>
@@ -981,7 +981,7 @@
 	<string name="genre_type_hisotry">Geschichte</string>
 	<string name="animations">Animationen</string>
 	<string name="list_animation">Animation anzeigen</string>
-	<string name="animate_items_when_loading_into_list">Einträge beim Laden animieren</string>
+	<string name="animate_items_when_loading_into_list">Einträge beim Laden in die Liste animieren.</string>
 	<string name="failed_to_update_podcast_s">Fehler beim Updaten des Podcasts: %s</string>
 	<string name="reset_password">Passwort zurücksetzen</string>
 	<string name="account_already_exists_please_login_with_the_email_and_password_">Das Konto existiert bereits, bitte melde Dich mit E-Mail-Adresse und Passwort an.</string>
@@ -1106,7 +1106,7 @@
 	<string name="mark_all_articles_as_read">Alle Artikel als gelesen markieren</string>
 	<string name="mark_all_rss_feeds_as_read">Alle Feeds als gelesen markieren</string>
 	<string name="mark_episode_as_unplayed">Folge als nicht abgespielt markieren</string>
-	<string name="moving_downloads_failed">Verschieben von Downloads fehlgeschlagen</string>
+	<string name="moving_downloads_failed">Verschieben der Downloads fehlgeschlagen</string>
 	<string name="some_downloads_are_not_moved_to_s">Einige Downloads werden nicht verschoben nach: %s</string>
 	<string name="html_notation">HTML-Notation</string>
 	<string name="mark_rss_feeds_as_read">Feeds als gelesen markieren</string>
@@ -1297,7 +1297,7 @@
 	<string name="json_chapters_format">JSON-Kapitelformat</string>
 	<string name="select_a_file">Datei auswählen</string>
 	<string name="rounded_rectangle_shape">Abgerundete Rechteckform</string>
-	<string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Das Podcast-Bilder in einer rechteckigen Form mit abgerundeten Ecken anzeigen.</string>
+	<string name="display_the_podcast_artwork_in_a_rectangular_shape_with_rounded_corners">Das Podcast-Bild in einer rechteckigen Form mit abgerundeten Ecken anzeigen.</string>
 	<string name="match_none_of_the_keywords">Keines der Schlüsselwörter übereinstimmt</string>
 	<string name="download_episode_if_matching_none_of_the_keywords_s">Folge herunterladen, wenn keines der Schlüsselwörter übereinstimmt: %1$s.</string>
 	<string name="dont_download_episode_if_matching_none_of_the_keywords_s">Folge nicht herunterladen, wenn keines der Schlüsselwörter übereinstimmt: %1$s.</string>

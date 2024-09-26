@@ -350,13 +350,13 @@
 	<string name="start_downloading_only_when_battery_is_charging">"Download nur starten, wenn der Akku geladen wird."</string>
 	<string name="add_a_youtube_podcast">"YouTube-Podcast hinzufügen"</string>
 	<string name="channels">"Kanäle"</string>
-	<string name="when_deleting_an_episode">"Wenn Folge gelöscht wird"</string>
+	<string name="when_deleting_an_episode">"Nach Löschen der Folge"</string>
 	<string name="also_remove_from_downloads_amp_playlists">"Auch aus Downloads &amp; Playlisten entfernen"</string>
 	<string name="remove_episode_only">"Nur Folge entfernen"</string>
 	<string name="mark_episode_as_played">"Folge als abgespielt markieren"</string>
 	<string name="mark_episode_as_played_if_more_than_has_been_played">"Folge als abgespielt markieren, wenn mehr als %1$d%% abgespielt wurde."</string>
 	<string name="download_episode">"Folge herunterladen"</string>
-	<string name="start_downloading_when_episode_is_added_to_playlist">"Download beginnen, wenn Folge zur Playlist hizugefügt wurde"</string>
+	<string name="start_downloading_when_episode_is_added_to_playlist">"Download beginnen, wenn Folge zur Playlist hinzugefügt wurde."</string>
 	<string name="podcast_keep_download_limit_reached_">"Max. Anzahl der speicherbaren Podcast-Downloads erreicht!"</string>
 	<string name="auto_download_filter">"Filter für automatischen Download"</string>
 	<string name="filter_episodes_for_auto_download_requires_to_have_auto_download_option_enabled_first_">"Titel der Folgen für automatischen Download filtern. Erfordert zuerst die Aktivierung der Funktion \"Automatischer Download\"."</string>
@@ -401,7 +401,7 @@
 	<string name="filter_name">"Filtername"</string>
 	<string name="podcasts">"Podcasts"</string>
 	<string name="playing_state">"Wiedergabestatus"</string>
-	<string name="only_include_favorited_episodes">"Nur Favoriten-Folgen berücksichtigen"</string>
+	<string name="only_include_favorited_episodes">"Nur Favoriten-Folgen berücksichtigen."</string>
 	<string name="download_status">"Download-Status"</string>
 	<string name="continue_to_play_next_episode_when_playback_error_occurs">"Nächste Folge abspielen, wenn Wiedergabefehler auftritt."</string>
 	<string name="continue_on_error">"Bei Fehler fortfahren"</string>
@@ -476,8 +476,8 @@
 	<string name="play_from_position">"Wiedergabe ab Position"</string>
 	<string name="report_a_bug">"Fehlerbericht senden"</string>
 	<string name="import_export_opml">"OPML im-/exportieren"</string>
-	<string name="import_from_opml_file">"OPML importieren"</string>
-	<string name="export_to_opml_file">"OPML exportieren"</string>
+	<string name="import_from_opml_file">"OPML-Datei importieren"</string>
+	<string name="export_to_opml_file">"OPML-Datei exportieren"</string>
 	<string name="episodes">"Folgen"</string>
 	<string name="episodes_and_count">"Folgen: %d"</string>
 	<string name="episode_s_is_still_downloading_can_not_play_it">"Folge [%1$s] wird noch heruntergeladen. Wiedergabe nicht möglich."</string>
@@ -501,8 +501,8 @@
 	<string name="browse_by_radio_stations">"Radiosender durchsuchen"</string>
 	<string name="wifi_is_not_available_cancelling_podcast_update_checking_">"WLAN ist nicht verfügbar. Prüfung auf Podcst-Updates abgebrochen."</string>
 	<string name="pull_to_refresh">"Ziehen zum Aktualisieren"</string>
-	<string name="pull_down_the_playlist_to_start_podcast_update_checking">"\"Playlisten\" nach unten ziehen, um auf Updates zu prüfen."</string>
-	<string name="pull_down_download_list_to_start_podcast_update_checking">"\"Downloads\" nach unten ziehen, um auf Updates zu prüfen."</string>
+	<string name="pull_down_the_playlist_to_start_podcast_update_checking">"\"Playlisten\" nach unten ziehen, um auf Aktualisierungen zu prüfen."</string>
+	<string name="pull_down_download_list_to_start_podcast_update_checking">"\"Downloads\" nach unten ziehen, um auf Aktualisierungen zu prüfen."</string>
 	<string name="auto_rotate_screen">"Bildschirm automatisch drehen"</string>
 	<string name="screen_orientation">"Bildschirmausrichtung"</string>
 	<string name="portrait">"Hochformat"</string>
@@ -514,7 +514,7 @@
 	<string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
 	<string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
 	<string name="percent_played">"%1$d%% abgespielt"</string>
-	<string name="pull_down_podcasts_list_to_start_podcast_update_checking">"\"Abos\" nach unten ziehen, um auf Updates zu prüfen."</string>
+	<string name="pull_down_podcasts_list_to_start_podcast_update_checking">"\"Abos\" nach unten ziehen, um auf Aktualisierungen zu prüfen."</string>
 	<string name="actions">"Aktionen"</string>
 	<string name="when_an_episode_is_100_played">"Wenn eine Folge zu 100% abgespielt ist"</string>
 	<string name="delete_the_download">"Download löschen"</string>
@@ -566,7 +566,7 @@
 	<string name="unknown_station">"Unbekannter Radiosender"</string>
 	<string name="can_not_cast_youtube_videos_to_chromecast_">"YouTube-Videos können nicht auf Chromecast gestreamt werden!"</string>
 	<string name="add_a_playlist">"Eine Playlist hinzufügen"</string>
-	<string name="add_to_tag">"Einem Tag hinzufügen"</string>
+	<string name="add_to_tag">"Zu einem Tag hinzufügen"</string>
 	<string name="add_to_default_playlists">"Zu Standard-Playlist hinzufügen"</string>
 	<string name="add_to_selected_playlists">"Zu ausgewählten Playlisten hinzufügen"</string>
 	<string name="delete_selected_episodes_">"Ausgewählte Folgen löschen?"</string>
@@ -578,7 +578,7 @@
 	<string name="set_playlists">"Playlisten auswählen"</string>
 	<string name="mark_all_as_read">"Alle als gelesen markieren"</string>
 	<string name="not_in_use">"Nicht verwendet"</string>
-	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten ziehen, um auf Updates zu prüfen."</string>
+	<string name="pull_down_episodes_list_to_start_podcast_update_checking">"\"Folgen\" nach unten ziehen, um auf Aktualisierungen zu prüfen."</string>
 	<string name="mark_all_previous_episodes_as_played">"Alle vorherigen Folgen als abgespielt markieren"</string>
 	<string name="remove_favorite">"Favorit entfernen"</string>
 	<string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">"Alle Folgen, die neuer sind als diese Folge [%1$s] als abgespielt markieren?"</string>
@@ -642,7 +642,7 @@
 	<string name="click_to_select_playback_mode">"Klicken, um in den Wiedergabemodus zu wechseln"</string>
 	<string name="percetage_value">"%d%%"</string>
 	<string name="select_episodes">"Folgen auswählen"</string>
-	<string name="select_episodes_from_all_dates">"Folgen von allen Daten auswählen"</string>
+	<string name="select_episodes_from_all_dates">"Folgen von allen Daten auswählen."</string>
 	<string name="selected_tags_s">"Ausgewählte Tags: %s"</string>
 	<string name="selected_podcasts_s">"Ausgewählte Podcasts: %s"</string>
 	<string name="unplayed_less_than_d_played">Nicht abgespielt (&lt; %d %% abgespielt)</string>
@@ -713,8 +713,8 @@
 	<string name="playback_mode_repeat_playlist">"Playlist wiederholen"</string>
 	<string name="alarms">"Alarme"</string>
 	<string name="no_alarms_found_">"Keine Alarme gefunden."</string>
-	<string name="allow_to_download_at_any_time">"Downloads zu jeder Zeit erlauben"</string>
-	<string name="allow_to_download_between_selected_time">"Downloads in einem bestimmten Zeitraum erlauben"</string>
+	<string name="allow_to_download_at_any_time">"Downloads zu jeder Zeit erlauben."</string>
+	<string name="allow_to_download_between_selected_time">"Downloads in einem bestimmten Zeitraum erlauben."</string>
 	<string name="start_time">"Startzeit"</string>
 	<string name="end_time">"Endzeit"</string>
 	<string name="allowed_download_time">"Erlaubte Downloadzeit"</string>
@@ -920,7 +920,7 @@
 	<string name="delete_virtual_podcast_file_from_storage_after_being_played">"Lösche die virtuelle Podcast-Datei nach der Wiedergabe aus dem Speicher"</string>
 	<string name="play_all">"Alle abspielen"</string>
 	<string name="remove_played_episode">"Abgespielte Folge entfernen"</string>
-	<string name="remove_the_episode_from_playlist_after_being_played">"Folge nach der Wiedergabe aus der Playliste entfernen"</string>
+	<string name="remove_the_episode_from_playlist_after_being_played">"Folge nach der Wiedergabe aus der Playlist entfernen."</string>
 	<string name="apply_this_change_to_all_playlist_">"Diese Änderung auf alle Playlisten anwenden?"</string>
 	<string name="overwrite_volume_mute_state">"Stummschaltung nicht berücksichtigen"</string>
 	<string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">"Ermöglicht das Ignorieren des Stummschaltezustands der Lautstärke und stellt die zuletzt wiedergegebene Lautstärke wieder her."</string>
@@ -941,7 +941,7 @@
 	<string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Verwendung mobiler Daten erlauben und Akkubeschränkungen beim Herunterladen von Folgen ignorieren.</string>
 	<string name="show_play_next_episode_station_button">Schaltfläche \"Nächste/r Folge/Radiosender abspielen\" anzeigen.</string>
 	<string name="append_to_up_next">"An \"Als Nächstes\" anhängen"</string>
-	<string name="only_include_episodes_with_user_notes">Nur Folgen mit Benutzernotizen berücksichtigen</string>
+	<string name="only_include_episodes_with_user_notes">Nur Folgen mit Benutzernotizen berücksichtigen.</string>
 	<string name="description_preview">Beschreibungsvorschau</string>
 	<string name="mark_current_playback_position">Aktuelle Wiedergabeposition merken</string>
 	<string name="comma">", "</string>
@@ -950,7 +950,7 @@
 	<string name="syncing_articles_">Artikel synchronisieren…</string>
 	<string name="syncing_rss_feeds_">RSS-Feeds synchronisieren…</string>
 	<string name="download_priority">Download-Priorität</string>
-	<string name="only_include_episodes_with_user_chapters">Nur Folgen mit Benutzerkapiteln berücksichtigen</string>
+	<string name="only_include_episodes_with_user_chapters">Nur Folgen mit Benutzerkapiteln berücksichtigen.</string>
 	<string name="add_tags_to_podcast">Tags zum Podcast hinzufügen</string>
 	<string name="add_new_episodes_to_selected_playlists_automatically_">Neue Folgen werden automatisch zu den ausgewählten Playlisten hinzugefügt.</string>
 	<string name="podcast_artwork">Podcast-Bilder</string>

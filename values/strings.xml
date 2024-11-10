@@ -248,6 +248,7 @@
     <string name="state_on">On</string>
     <string name="state_off">Off</string>
     <string name="stop_sleep_timer">Stop timer</string>
+
     <string-array name="ui_theme_text">
         <item>All White</item>
         <item>White</item>
@@ -269,27 +270,7 @@
         <item>Dark</item>
         <item>AMOLED Black</item>
     </string-array>
-    <string-array name="ui_theme_value" translatable="false">
-        <item>DeepWhite</item>
-        <item>White</item>
-        <item>Red</item>
-        <item>Pink</item>
-        <item>Purple</item>
-        <item>DeepPurple</item>
-        <item>Indigo</item>
-        <item>Light</item>     <!-- Blue-->
-        <item>LightBlue</item>
-        <item>Cyan</item>
-        <item>Teal</item>
-        <item>Green</item>
-        <item>LightGreen</item>
-        <item>Amber</item>
-        <item>Orange</item>
-        <item>DeepOrange</item>
-        <item>BlueGray</item>
-        <item>Dark</item>
-        <item>DeepDark</item>
-    </string-array>
+
     <string name="theme">Theme</string>
     <string name="skip_beginning">Skip beginning</string>
     <string name="time_display_second_short_format">sec</string>

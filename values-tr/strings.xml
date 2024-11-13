@@ -655,7 +655,7 @@
 	<string name="finished_100_played">Tamamlandı (100% çalındı)</string>
 	<string name="restore_defaults">Varsayılanları geri yükle</string>
 	<string name="at_least_one_episode_filter_is_required_">En az bir bölüm filtresi gerekli!</string>
-	<string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">Aşağıdaki dizinlere erişilemiyor. Lütfen Ayarlar'dan sıfırlayın.\n%s</string>
+	<string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">"Aşağıdaki dizinlere erişilemiyor. Lütfen Ayarlar'dan sıfırlayın.\n%s"</string>
 	<string name="_download_location">- İndirme konumu</string>
 	<string name="_auto_backup_location">- Otomatik yedekleme konumu</string>
 	<string name="clean_up">Temizle</string>

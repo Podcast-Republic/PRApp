@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"You\'ve listened: %1$d episode, %2$s."</item>
-        <item quantity="other">"You\'ve listened: %1$d episodes, %2$s."</item>
+        <item quantity="one">Dinledin: %1$d bölüm, %2$s.</item>
+        <item quantity="other">Dinledin: %1$d bölüm, %2$s.</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d line</item>
-        <item quantity="other">%1$d lines</item>
+        <item quantity="one">%1$d satır</item>
+        <item quantity="other">%1$d satır</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
@@ -16,197 +16,197 @@
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Display latest %1$d episode.</item>
-        <item quantity="other">Display latest %1$d episodes.</item>
+        <item quantity="one">Son %1$d bölümü göster.</item>
+        <item quantity="other">Son %1$d bölümü göster.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Mark %1$d episode as played?</item>
-        <item quantity="other">Mark all %1$d episodes as played?</item>
+        <item quantity="one">%1$d bölümü çalındı olarak işaretle?</item>
+        <item quantity="other">Tüm %1$d bölümü çalındı olarak işaretle?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Mark %1$d episode as unplayed?</item>
-        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+        <item quantity="one">%1$d bölümü çalınmadı olarak işaretle?</item>
+        <item quantity="other">Tüm %1$d bölümü çalınmadı olarak işaretle?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Mark %1$d podcast as played?</item>
-        <item quantity="other">Mark all %1$d podcasts as played?</item>
+        <item quantity="one">%1$d podcasti çalındı olarak işaretle?</item>
+        <item quantity="other">Tüm %1$d podcasti çalındı olarak işaretle?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one">%1$d akışı okundu olarak işaretle?</item>
+        <item quantity="other">Tüm %1$d akışı okundu olarak işaretle?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Mark %1$d article as read?</item>
-        <item quantity="other">Mark all %1$d articles as read?</item>
+        <item quantity="one">%1$d makaleyi okundu olarak işaretle?</item>
+        <item quantity="other">Tüm %1$d makaleyi okundu olarak işaretle?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">%1$d makaleyi okunmadı olarak işaretle?</item>
+        <item quantity="other">Tüm %1$d makaleyi okunmadı olarak işaretle?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Auto download up to %1$d newer and unplayed episode from current playing podcast.</item>
-        <item quantity="other">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
+        <item quantity="one">Şu anda oynatılan podcast'ten en fazla %1$d yeni ve çalınmamış bölümü otomatik olarak indir.</item>
+        <item quantity="other">Şu anda oynatılan podcast'ten en fazla %1$d yeni ve çalınmamış bölümü otomatik olarak indir.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
-        <item quantity="other">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="one">Şu anda oynatılan podcast'ten en fazla %1$d eski ve çalınmamış bölümü otomatik olarak indir.</item>
+        <item quantity="other">Şu anda oynatılan podcast'ten en fazla %1$d eski ve çalınmamış bölümü otomatik olarak indir.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Automatically download up to %1$d most recent episode when new episodes are retrieved.</item>
-        <item quantity="other">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
+        <item quantity="one">Yeni bölümler alındığında en fazla %1$d yeni bölümü otomatik olarak indir.</item>
+        <item quantity="other">Yeni bölümler alındığında en fazla %1$d yeni bölümü otomatik olarak indir.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Başlığı en fazla %1$d satır göster.</item>
+        <item quantity="other">Başlığı en fazla %1$d satır göster.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">Oynatma listesine bir bölüm eklendi.</item>
-        <item quantity="other">"%1$d bölümler oynatma listesine eklendi."</item>
+        <item quantity="one">Çalma listesine bir bölüm eklendi.</item>
+        <item quantity="other">Çalma listesine %1$d bölüm eklendi.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">İndirmelere bir bölüm eklendi.</item>
-        <item quantity="other">"%1$d bölümler indirilenlere eklendi."</item>
+        <item quantity="one">İndirilenlere bir bölüm eklendi.</item>
+        <item quantity="other">İndirilenlere %1$d bölüm eklendi."</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Her gün 1 otomatik yedekleme planlayın."</item>
-        <item quantity="other">"Her gün %1$d otomatik yedekleme planlayın."</item>
+        <item quantity="one">"Her gün otomatik yedekle."</item>
+        <item quantity="other">"Her %1$d günde bir otomatik yedekle."</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"En son %1$d otomatik yedeklemeleri sakla."</item>
-        <item quantity="other">"En son %1$d otomatik yedeklemeleri sakla."</item>
+        <item quantity="one">"En yeni %1$d otomatik yedeklemeyi tut."</item>
+        <item quantity="other">"En yeni %1$d otomatik yedeklemeyi tut."</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minute"</item>
-        <item quantity="other">"%1$d minutes"</item>
+        <item quantity="one">"%1$d dakika"</item>
+        <item quantity="other">"%1$d dakika"</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minute."</item>
-        <item quantity="other">"&gt; %1$d minutes."</item>
+        <item quantity="one">"&gt; %1$d dakika."</item>
+        <item quantity="other">"&gt; %1$d dakika."</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minute."</item>
-        <item quantity="other">"&lt; %1$d minutes."</item>
+        <item quantity="one">"&lt; %1$d dakika."</item>
+        <item quantity="other">"&lt; %1$d dakika."</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"%1$d dakika içinde"</item>
-        <item quantity="other">"%1$d dakika içinde"</item>
+        <item quantity="one">"%1$d dakika sonra"</item>
+        <item quantity="other">"%1$d dakika sonra"</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Extend %1$d minute"</item>
-        <item quantity="other">"Extend %1$d minutes"</item>
+        <item quantity="one">"%1$d dakika uzat"</item>
+        <item quantity="other">"%1$d dakika uzat"</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"%1$d bölümün tamamını indirin?"</item>
-        <item quantity="other">"%1$d bölümün tamamını indirin?"</item>
+        <item quantity="one">"%1$d bölümü indir?"</item>
+        <item quantity="other">"Tüm %1$d bölümü indir?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Add one episode to Up next?"</item>
-        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="one">"Sıradakilere bir bölüm ekle?"</item>
+        <item quantity="other">"Sıradakilere tüm %1$d bölümü ekle?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"Add one episode to playlist?"</item>
-        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="one">"Çalma listesine bir bölüm ekle?"</item>
+        <item quantity="other">"Çalma listesine tüm %1$d bölümü ekle?"</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Her bir podcast için en son %1$d indirmeyi sakla."</item>
-        <item quantity="other">"Her bir podcast için en son %1$d indirmeyi sakla."</item>
+        <item quantity="one">"Her bir podcast için en son indirileni tut."</item>
+        <item quantity="other">"Her bir podcast için en son %1$d indirileni tut."</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Her bir podcast için en son %1$d indirmeyi sakla."</item>
-        <item quantity="other">"Her bir podcast için en son %1$d indirmeyi sakla."</item>
+        <item quantity="one">"Bu podcast için en son indirileni tut."</item>
+        <item quantity="other">"Bu podcast için en son %1$d indirileni tut."</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one">"Yeni bölümler alındıktan sonra, son bölümden önceki tüm bölümleri çalındı olarak işaretle."</item>
+        <item quantity="other">"Yeni bölümler alındıktan sonra, son %1$d bölümden önceki tüm bölümleri çalındı olarak işaretle."</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Keep articles from last %1$d day."</item>
-        <item quantity="other">"Keep articles from last %1$d days."</item>
+        <item quantity="one">"Son %1$d güne ait makaleleri tut."</item>
+        <item quantity="other">"Son %1$d güne ait makaleleri tut."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Minimum rewind time: %1$d second."</item>
-        <item quantity="other">"Minimum rewind time: %1$d seconds."</item>
+        <item quantity="one">"Minimum geri sarma süresi: %1$d saniye."</item>
+        <item quantity="other">"Minimum geri sarma süresi: %1$d saniye."</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Maximum rewind time: %1$d second."</item>
-        <item quantity="other">"Maximum rewind time: %1$d seconds."</item>
+        <item quantity="one">"Maksimum geri sarma süresi: %1$d saniye."</item>
+        <item quantity="other">"Maksimum geri sarma süresi: %1$d saniye."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Select episodes with duration greater than %1$d minute."</item>
-        <item quantity="other">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="one">"Süresi %d_dakikadan uzun olan bölümü seç"</item>
+        <item quantity="other">"Süresi %d_dakikadan uzun olan bölümleri seç"</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Select episodes with duration less than %1$d minute."</item>
-        <item quantity="other">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="one">"Süresi %1$d dakikadan kısa olan bölümleri seç."</item>
+        <item quantity="other">"Süresi %1$d dakikadan kısa olan bölümleri seç."</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Select episodes from last %1$d day."</item>
-        <item quantity="other">"Select episodes from last %1$d days."</item>
+        <item quantity="one">"Son %1$d güne ait bölümleri seç."</item>
+        <item quantity="other">"Son %1$d güne ait bölümleri seç."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Skip the beginning %1$d second."</item>
-        <item quantity="other">"Skip the beginning %1$d seconds."</item>
+        <item quantity="one">"Baştaki %1$d saniyeyi atla"</item>
+        <item quantity="other">"Baştaki %1$d saniyeyi atla"</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Skip the ending %1$d second."</item>
-        <item quantity="other">"Skip the ending %1$d seconds."</item>
+        <item quantity="one">"Sondaki %1$d saniyeyi atla."</item>
+        <item quantity="other">"Sondaki %1$d saniyeyi atla."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">"Süresi %d_dakikadan uzun olan bölümü indir."</item>
+        <item quantity="other">"Süresi %d_dakikadan uzun olan bölümü indir."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
-        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="one">"Süresi %d_dakikadan kısa olan bölümü indir."</item>
+        <item quantity="other">"Süresi %d_dakikadan kısa olan bölümü indir."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">"Süresi %d dakikadan uzun olan bölümü indirme."</item>
+        <item quantity="other">"Süresi %d dakikadan uzun olan bölümü indirme."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="one">"Süresi %d dakikadan kısa olan bölümü indirme."</item>
+        <item quantity="other">"Süresi %d dakikadan kısa olan bölümü indirme."</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Select articles from last %1$d day."</item>
-        <item quantity="other">"Select articles from last %1$d days."</item>
+        <item quantity="one">"Son %1$d güne ait makaleleri seç."</item>
+        <item quantity="other">"Son %1$d güne ait makaleleri seç."</item>
     </plurals>
 </resources>

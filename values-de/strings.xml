@@ -499,7 +499,7 @@
 	<string name="no_schedule_available">"Kein Programmplan verfügbar"</string>
 	<string name="browse_by_subscriptions">"Abos durchsuchen"</string>
 	<string name="browse_by_radio_stations">"Radiosender durchsuchen"</string>
-	<string name="wifi_is_not_available_cancelling_podcast_update_checking_">"WLAN ist nicht verfügbar. Prüfung auf Podcst-Updates abgebrochen."</string>
+	<string name="wifi_is_not_available_cancelling_podcast_update_checking_">"WLAN ist nicht verfügbar. Prüfung auf Podcst-Aktualisierungen abgebrochen."</string>
 	<string name="pull_to_refresh">"Ziehen zum Aktualisieren"</string>
 	<string name="pull_down_the_playlist_to_start_podcast_update_checking">"\"Playlisten\" nach unten ziehen, um auf Aktualisierungen zu prüfen."</string>
 	<string name="pull_down_download_list_to_start_podcast_update_checking">"\"Downloads\" nach unten ziehen, um auf Aktualisierungen zu prüfen."</string>
@@ -759,8 +759,8 @@
 	<string name="apply_to_current_radio_station">"Auf den aktuellen Radiosender anwenden"</string>
 	<string name="skip_silence">"Stille überspringen"</string>
 	<string name="smart_download">"Intelligenter Download"</string>
-	<string name="download_anyway">"Immer herunterladen"</string>
-	<string name="download_anyway_message">"WLAN- und Akku-Einstellungen ignorieren, die Folge jetzt mit den aktuellen Netzwerkeinstellungen durchführen! Das könnte Dein mobiles Datenvolumen und Akku verbrauchen! Trotzdem fortsetzen?"</string>
+	<string name="download_anyway">"Trotzdem herunterladen"</string>
+	<string name="download_anyway_message">"WLAN- und Akku-Einstellungen ignorieren, diese Folge mit der aktuellen Netzwerkverbindung herunterladen! Das könnte Dein mobiles Datenvolumen und Akku verbrauchen! Weiter?"</string>
 	<string name="play_all_from_old_to_new">"Alle abspielen, älteste zuerst"</string>
 	<string name="delete_all_immediately">"Alles sofort löschen"</string>
 	<string name="deleted_downloads_will_be_removed_after_24_hours_">"Gelöschte Downloads werden nach 24 Stunden entfernt."</string>
@@ -924,7 +924,7 @@
 	<string name="apply_this_change_to_all_playlist_">"Diese Änderung auf alle Playlisten anwenden?"</string>
 	<string name="overwrite_volume_mute_state">"Stummschaltung nicht berücksichtigen"</string>
 	<string name="allow_to_overwrite_volume_mute_state_and_restore_to_last_played_volume_level">"Stummschaltung der Lautstärke ignorieren und den zuletzt eingestellten Lautstärkepegel bei Wiedergabe verwenden."</string>
-	<string name="starting_podcast_update_checking">"Überprüfung der Podcast-Updates starten."</string>
+	<string name="starting_podcast_update_checking">"Überprüfung der Podcast-Aktualisierungen starten."</string>
 	<string name="greater_than">"Größer als"</string>
 	<string name="less_than">"Weniger als"</string>
 	<string name="has_duration">"Dauer ist"</string>
@@ -1067,7 +1067,7 @@
 	<string name="unreviewed">Nicht bewertet</string>
 	<string name="posted">Bewertet</string>
 	<string name="id3_tag_album_cd_track">ID3-Tag (Album - CD-Track)</string>
-	<string name="cd_track">CD-Titel</string>
+	<string name="cd_track">CD-Track</string>
 	<string name="bonus">Bonus</string>
 	<string name="trailer">Trailer</string>
 	<string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Veraltete Folgen werden für YouTube-Podcasts immer entfernt.</string>

@@ -509,7 +509,7 @@
     <string name="auto_rotate_screen">A képernyő automatikus forgatása</string>
     <string name="screen_orientation">Képernyő tájolása</string>
     <string name="portrait">Álló</string>
-    <string name="landscape">Fekvő</string>
+    <string name="landscape">Fektetett</string>
     <string name="drag_the_handler_to_sort_manually">Húzza az oldalsó kezelőket a manuális rendezéshez</string>
     <string name="streaming">Streaming</string>
     <string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">Adja meg a felhasználónevet és jelszót, ha a podcast hitelesítést igényel. Hagyja a mezőket üresen, ha nem szükséges hitelesítés.</string>
@@ -1255,7 +1255,7 @@
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
     <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
-    <string name="reverse_portrait_screen_display_mode">Fordított fekvő</string>
+    <string name="reverse_portrait_screen_display_mode">Fordított álló</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
     <string name="cache_size_s">Gyorsítótár mérete: %1$s.</string>
     <string name="follow_android_system_s_orientation">Kövesse az Android rendszer orientációját</string>

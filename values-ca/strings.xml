@@ -95,7 +95,7 @@
     <string name="app_name">"Podcast Republic"</string>
     <string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Esborra el fitxer del podcast descarregat després de ser reproduït."</string>
     <string name="pref_downloadLocation">"Descarrega podcast a: "</string>
-    <string name="downloads">"Descàrregues"</string>
+    <string name="downloads">"Baixades"</string>
     <string name="jump_to_next_episode">"Salta al següent episodi"</string>
     <string name="jump_to_next_chapter">"Salta al següent capítol"</string>
     <string name="jump_to_the_end">"Salta al final"</string>
@@ -163,7 +163,7 @@
     <string name="unsubscribe">"Cancel·la la subscripció"</string>
     <string name="settings">"Configuració"</string>
     <string name="remove_ad">"Elimina anuncis"</string>
-    <string name="playlists">"Llistes de reproducció"</string>
+    <string name="playlists">"Llistes"</string>
     <string name="there_is_no_podcast_playing">"No hi ha cap podcast reproduint-se!"</string>
     <string name="paused">"En pausa"</string>
     <string name="error_downloaded_file_not_found">"Error: fitxer descarregat no trobat."</string>
@@ -248,6 +248,7 @@
     <string name="state_on">"Encès"</string>
     <string name="state_off">"Apagat"</string>
     <string name="stop_sleep_timer">"Atura temporitzador"</string>
+
     <string-array name="ui_theme_text">
         <item>Totalment Blanc</item>
         <item>Blanc</item>
@@ -269,27 +270,7 @@
         <item>Fosc</item>
         <item>Negre AMOLED</item>
     </string-array>
-    <string-array name="ui_theme_value" translatable="false">
-        <item>DeepWhite</item>
-        <item>White</item>
-        <item>Red</item>
-        <item>Pink</item>
-        <item>Purple</item>
-        <item>DeepPurple</item>
-        <item>Indigo</item>
-        <item>Light</item>     <!-- Blue-->
-        <item>LightBlue</item>
-        <item>Cyan</item>
-        <item>Teal</item>
-        <item>Green</item>
-        <item>LightGreen</item>
-        <item>Amber</item>
-        <item>Orange</item>
-        <item>DeepOrange</item>
-        <item>BlueGray</item>
-        <item>Dark</item>
-        <item>DeepDark</item>
-    </string-array>
+
     <string name="theme">"Tema"</string>
     <string name="skip_beginning">"Salta l'inici"</string>
     <string name="time_display_second_short_format">"seg"</string>

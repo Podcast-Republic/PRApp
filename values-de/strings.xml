@@ -711,8 +711,8 @@
 	<string name="switching_between_light_theme_day_and_dark_theme_night_based_on_the_time_of_day">"Basierend auf der Tageszeit automatisch zwischen hellem (Tag) und dunklem Design (Nacht) umschalten"</string>
 	<string name="playback_mode_repeat_episode">"Folge wiederholen"</string>
 	<string name="playback_mode_repeat_playlist">"Playlist wiederholen"</string>
-	<string name="alarms">"Alarme"</string>
-	<string name="no_alarms_found_">"Keine Alarme gefunden."</string>
+	<string name="alarms">"Wecker"</string>
+	<string name="no_alarms_found_">"Keine Wecker gefunden."</string>
 	<string name="allow_to_download_at_any_time">"Downloads zu jeder Zeit erlauben."</string>
 	<string name="allow_to_download_between_selected_time">"Downloads in einem bestimmten Zeitraum erlauben."</string>
 	<string name="start_time">"Startzeit"</string>
@@ -739,8 +739,8 @@
 	<string name="return_to_car_mode_">"Zurück zum Automodus"</string>
 	<string name="android_wear">"Android Wear"</string>
 	<string name="notification_background_theme_s">"Hintergrundthema Benachrichtigung: %s"</string>
-	<string name="turn_on_alarms">"Alarme einschalten"</string>
-	<string name="turn_off_alarms">"Alarme ausschalten"</string>
+	<string name="turn_on_alarms">"Wecker einschalten"</string>
+	<string name="turn_off_alarms">"Wecker ausschalten"</string>
 	<string name="play_as_audio_only">"Nur Audio abspielen"</string>
 	<string name="remove_downloads_from_unsubscribed_podcast_s_">"Downloads des nicht abonniertem Podcast [ %1$s ] entfernen?"</string>
 	<string name="report_bug_privacy_message">"Indem Du auf \"Fehlerbericht senden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
@@ -1229,7 +1229,7 @@
 	<string name="there_are_no_read_articles_">Es gibt keine gelesenen Artikel.</string>
 	<string name="there_are_no_favorite_articles_">Es gibt keine Favoriten-Artikel.</string>
 	<string name="there_are_no_deleted_articles_">Es gibt keine gelöschten Artikel.</string>
-	<string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Alarme werden möglicherweise nicht zur geplanten Zeit ausgelöst. Bitte gehe in die Android-Einstellungen, um diese App von den Akkuoptimierungen auszuschließen.</string>
+	<string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Wecker werden möglicherweise nicht zur geplanten Zeit ausgelöst. Bitte gehe in die Android-Einstellungen, um diese App von den Akkuoptimierungen auszuschließen.</string>
 	<string name="open_android_settings">Android-Einstellungen öffnen</string>
 	<string name="include_episode">Folge berücksichtigen</string>
 	<string name="exclude_episode">Folge ausnehmen</string>

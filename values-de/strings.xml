@@ -239,7 +239,7 @@
 	<string name="state_off">"Aus"</string>
 	<string name="stop_sleep_timer">"Einschlaf-Timer stoppen"</string>
 	<string-array name="ui_theme_text">
-		<item>Alles weiß"</item>
+		<item>"Alles weiß"</item>
 		<item>"Weiß"</item>
 		<item>"Rot"</item>
 		<item>"Rosa"</item>
@@ -613,7 +613,7 @@
 	<string name="download_state_failed_storage_is_not_accessible">"Fehlgeschlagen: Speicher nicht verfügbar"</string>
 	<string name="error_storage_is_not_accessible">"Fehler: Speicher nicht verfügbar"</string>
 	<string name="moving_downloads">"Downloads verschieben"</string>
-	<string name="moving_download_from_1s_to_2s">"Download von [ %1$s ] nach [ %2$s ] verschieben."</string>
+	<string name="moving_download_from_1s_to_2s">"Download von [%1$s] nach [%2$s] verschieben."</string>
 	<string name="invalid_opml_file_selected_">"Ungültige OPML-Datei ausgewählt!"</string>
 	<string name="podcast_title_can_not_be_empty_">"Podcast-Titel darf nicht leer sein!"</string>
 	<string name="podcast_url_can_not_be_empty_">"Podcast-URL darf nicht leer sein!"</string>
@@ -736,13 +736,13 @@
 	<string name="playback">"Wiedergabe"</string>
 	<string name="background_services">"Hintergrunddienste"</string>
 	<string name="general_notifications">"Allgemeine Benachrichtigungen"</string>
-	<string name="return_to_car_mode_">"Zurück zum Automodus"</string>
+	<string name="return_to_car_mode_">"Zurück zum Auto-Modus"</string>
 	<string name="android_wear">"Android Wear"</string>
 	<string name="notification_background_theme_s">"Hintergrundthema Benachrichtigung: %s"</string>
 	<string name="turn_on_alarms">"Wecker einschalten"</string>
 	<string name="turn_off_alarms">"Wecker ausschalten"</string>
 	<string name="play_as_audio_only">"Nur Audio abspielen"</string>
-	<string name="remove_downloads_from_unsubscribed_podcast_s_">"Downloads des nicht abonniertem Podcast [ %1$s ] entfernen?"</string>
+	<string name="remove_downloads_from_unsubscribed_podcast_s_">"Downloads des nicht abonnierten Podcasts entfernen: [%1$s]?"</string>
 	<string name="report_bug_privacy_message">"Indem Du auf \"Fehlerbericht senden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
 	<string name="sign_up_privacy_and_terms_message">"Indem Du auf \"Konto erstellen\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
 	<string name="sign_in_privacy_and_terms_message">"Indem Du auf \"Anmelden\" klickst, stimmst Du unseren Nutzungsbedingungen zu und bestätigst, dass Du unsere Datenschutzrichtlinien gelesen hast."</string>
@@ -830,7 +830,7 @@
 	<string name="unreads_d">"Ungelesene: %d"</string>
 	<string name="total_articles_d">"Artikel insgesamt: %d"</string>
 	<string name="rss_feed_url">"RSS-Feed-URL"</string>
-	<string name="check_rss_feed_update">"Prüfe RSS-Feed auf Aktualisierung"</string>
+	<string name="check_rss_feed_update">"RSS-Feed auf Aktualisierung prüfen"</string>
 	<string name="_is_not_found_add_this_rss_feed_">"[%1$s] wurde nicht gefunden. Soll dieser RSS-Feed per URL hinzugefügt werden?"</string>
 	<string name="add_a_rss_feed_by_url">"RSS-Feed per URL hinzufügen"</string>
 	<string name="mark_as_read">"Als gelesen markieren"</string>
@@ -882,8 +882,8 @@
 	<string name="delete_episodes">"Folgen löschen"</string>
 	<string name="playback_mode_priority">"Prioritätsmodus"</string>
 	<string name="stats">"Statistiken"</string>
-	<string name="time_saved_b_s_b">"Gesparte Zeit: <b> %s </b>."</string>
-	<string name="you_ve_listened_b_s_b">"Gehört: <b> %s </b>."</string>
+	<string name="time_saved_b_s_b">"Gesparte Zeit: %1$s."</string>
+	<string name="you_ve_listened_b_s_b">"Gehört: %1$s."</string>
 	<string name="since_date">"Seit: "</string>
 	<string name="reset_stats">"Statistiken zurücksetzen"</string>
 	<string name="find_rss_feed">"RSS-Feed suchen"</string>
@@ -1132,7 +1132,7 @@
 	<string name="jump_to_previous_chapter">Zum vorherigen Kapitel springen</string>
 	<string name="when_i_press_the_previous_button">Wenn ich die Zurück-Taste drücke</string>
 	<string name="playback_mode_single_episode_load_next">Einzelne Folge (nächste laden)</string>
-	<string name="schedule_as_verb">Datum</string>
+	<string name="schedule_as_verb">Festlegen</string>
 	<string name="schedule_a_date">Datum festlegen</string>
 	<string name="fund_this_podcast">Diesen Podcast unterstützen</string>
 	<string name="podcast_description_will_be_updated_after_refreshing_">Die Podcast-Beschreibung wird nach der Aktualisierung aktualisiert.</string>

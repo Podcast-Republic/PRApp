@@ -736,7 +736,7 @@
 	<string name="playback">"Wiedergabe"</string>
 	<string name="background_services">"Hintergrunddienste"</string>
 	<string name="general_notifications">"Allgemeine Benachrichtigungen"</string>
-	<string name="return_to_car_mode_">"Zurück zum Auto-Modus"</string>
+	<string name="return_to_car_mode_">"Zurück zum Auto-Modus."</string>
 	<string name="android_wear">"Android Wear"</string>
 	<string name="notification_background_theme_s">"Hintergrundthema Benachrichtigung: %s"</string>
 	<string name="turn_on_alarms">"Wecker einschalten"</string>

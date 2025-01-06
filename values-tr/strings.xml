@@ -98,10 +98,10 @@
 	<string name="downloads">İndirilenler</string>
 	<string name="jump_to_next_episode">Sonraki bölüme atla</string>
 	<string name="jump_to_next_chapter">Sonraki kısma atla</string>
-	<string name="jump_to_the_end">Sonuna atla</string>
+	<string name="jump_to_the_end">Sona atla</string>
 	<string name="jump_to_previous_episode">Önceki bölüme atla</string>
 	<string name="jump_to_previous_chapter">Önceki kısma atla</string>
-	<string name="jump_to_the_beginning">Baş atla</string>
+	<string name="jump_to_the_beginning">Başa atla</string>
 	<string name="delete_download">İndirileni sil</string>
 	<string name="pause_download">İndirmeyi duraklat</string>
 	<string name="resume_download">İndirmeye devam et</string>
@@ -585,7 +585,7 @@
     <string name="no_play_history_found">Oynatma geçmişi bulunamadı.</string>
     <string name="set_playlists">Çalma listelerini ayarla</string>
     <string name="not_in_use">Kullanımda değil</string>
-    <string name="mark_all_previous_episodes_as_played">Önceki tüm bölümleri çalındı olarak işaretle</string>
+    <string name="mark_all_previous_episodes_as_played">Önceki tüm bölümleri çalındı yap</string>
     <string name="remove_favorite">Favoriden kaldır</string>
     <string name="mark_all_episodes_published_earlier_than_this_episode_s_as_played_">Bu bölümden önce [%1$s] yayınlanan tüm bölümleri çalındı olarak işaretle?</string>
     <string name="exporting">Dışa aktarılıyor</string>
@@ -609,7 +609,7 @@
 	<string name="download_state_paused_wifi_unavailable">Duraklatıldı: Wi-Fi kullanılamıyor.</string>
 	<string name="download_state_paused_wifi_disabled">Duraklatıldı: Wi-Fi devre dışı.</string>
 	<string name="download_state_paused_roaming">Duraklatıldı: dolaşım halindesiniz.</string>
-	<string name="download_state_paused_waiting_to_retry">Duraklatıldı: tekrar denemek için bekleniyor.</string>
+	<string name="download_state_paused_waiting_to_retry">Duraklatıldı: tekrar deneyin.</string>
 	<string name="download_state_paused_sdcard_unavailable">Duraklatıldı: harici depolama kullanılamıyor.</string>
 	<string name="download_state_paused_need_battery_charging">Duraklatıldı: Pil şarjı için bekleniyor.</string>
 	<string name="download_state_failed_fetching_url">Başarısız: URL bulunamadı.</string>
@@ -1090,7 +1090,7 @@
 	<string name="use_legacy_media_notification_style_before_android_11">"Android 11'den önceki eski medya bildirim stilini kullan."</string>
 	<string name="save_up_next_to">Sıradakileri şuraya kaydet…</string>
 	<string name="mark_all_episodes_published_earlier_than_this_episode_s_as_unplayed_">Bu bölümden önce [%1$s] yayınlanan tüm bölümleri çalınmadı olarak işaretle?</string>
-	<string name="mark_all_previous_episodes_as_unplayed">Önceki tüm bölümleri çalınmadı olarak işaretle</string>
+	<string name="mark_all_previous_episodes_as_unplayed">Önceki tüm bölümleri çalınmadı yap</string>
 	<string name="_s_kbps">%skbps</string>
 	<string name="_1s_kbps_2s">%1$skbps %2$s</string>
 	<string name="use_default_chapter_title">Varsayılan kısım başlığını kullan.</string>

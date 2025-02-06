@@ -1189,7 +1189,7 @@
     <string name="view_schedule_of_radio_station">Переглянути розклад радіостанції</string>
     <string name="schedule">Розклад</string>
     <string name="loading_schedule_">Завантаження розкладу…</string>
-    <string name="android_12_start_foreground_service_error_message">Android 12 не дозволяє починати відтворення, коли програма працює у фоновому режимі. Відкрийте програму, щоб відтворити, або виключіть цю програму з оптимізації акумулятора в налаштуваннях Android.</string>
+    <string name="android_12_start_foreground_service_error_message">Android не дозволяє починати відтворення, коли програма працює у фоновому режимі. Відкрийте програму, щоб відтворити, або виключіть цю програму з оптимізації акумулятора в налаштуваннях Android.</string>
     <string name="mark_all_as_unread">Позначити всі як непрочитані</string>
     <string name="read_as_adj">Прочитані</string>
     <string name="delete_selected_articles_">Видалити вибрані статті?</string>
@@ -1347,4 +1347,7 @@
     <string name="play_time_by_podcast">Час відтворення за подкастом</string>
     <string name="estimated_total_download_size_">Орієнтовний загальний розмір завантаження: %1$s.</string>
     <string name="notify_when_new_articles_are_available">"Сповіщати, коли з'являються нові статті."</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

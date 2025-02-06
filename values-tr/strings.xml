@@ -1193,7 +1193,7 @@
 	<string name="view_schedule_of_radio_station">Radyo istasyonunun programını görüntüle</string>
 	<string name="schedule">Program</string>
 	<string name="loading_schedule_">Program yükleniyor…</string>
-	<string name="android_12_start_foreground_service_error_message">"Android 12, uygulama arka plandayken çalmanın başlatılmasına izin vermiyor. Çalmaya başlamak için lütfen uygulamayı açın veya bu uygulamayı Android Ayarları'ndaki pil optimizasyonlarından hariç tutun."</string>
+	<string name="android_12_start_foreground_service_error_message">"Android, uygulama arka plandayken çalmanın başlatılmasına izin vermiyor. Çalmaya başlamak için lütfen uygulamayı açın veya bu uygulamayı Android Ayarları'ndaki pil optimizasyonlarından hariç tutun."</string>
 	<string name="mark_all_as_unread">Tümünü okunmadı olarak işaretle</string>
 	<string name="read_as_adj">Okunmuş</string>
 	<string name="delete_selected_articles_">Seçili makaleleri sil?</string>
@@ -1351,4 +1351,7 @@
 	<string name="play_time_by_podcast">Podcaste göre çalma süresi</string>
 	<string name="estimated_total_download_size_">Tahmini toplam indirme boyutu: %1$s.</string>
 	<string name="notify_when_new_articles_are_available">Yeni makaleler olduğunda bildir.</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+	<string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

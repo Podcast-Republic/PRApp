@@ -1192,7 +1192,7 @@
     <string name="view_schedule_of_radio_station">A rádióállomás műsorrendjének megtekintése</string>
     <string name="schedule">Műsorrend</string>
     <string name="loading_schedule_">Műsorrend betöltése…</string>
-    <string name="android_12_start_foreground_service_error_message">Az Android 12 nem teszi lehetővé a lejátszás elindítását, amíg az alkalmazás háttérben van. Nyissa meg az alkalmazást a lejátszás elindításához, vagy zárja ki ezt az alkalmazást az Android beállításaiban az akkumulátor optimalizálásából.</string>
+    <string name="android_12_start_foreground_service_error_message">Az Android nem teszi lehetővé a lejátszás elindítását, amíg az alkalmazás háttérben van. Nyissa meg az alkalmazást a lejátszás elindításához, vagy zárja ki ezt az alkalmazást az Android beállításaiban az akkumulátor optimalizálásából.</string>
     <string name="mark_all_as_unread">Minden megjelölése olvashatatlannak</string>
     <string name="read_as_adj">Olvasott</string>
     <string name="delete_selected_articles_">Kijelölt cikkek törlése?</string>
@@ -1350,4 +1350,7 @@
     <string name="play_time_by_podcast">Játékidő podcastonként</string>
     <string name="estimated_total_download_size_">A letöltés becsült teljes mérete: %1$s.</string>
     <string name="notify_when_new_articles_are_available">Értesítés új cikkek elérhetőségéről.</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

@@ -1196,7 +1196,7 @@
     <string name="view_schedule_of_radio_station">Afficher la programmation de la station de radio</string>
     <string name="schedule">Programmation</string>
     <string name="loading_schedule_">Horaire de chargement…</string>
-    <string name="android_12_start_foreground_service_error_message">Android 12 ne permet pas de commencer à jouer pendant que l\'application est en arrière-plan. Veuillez ouvrir l\'application pour commencer à lire ou exclure cette application des optimisations de batterie dans les paramètres Android.</string>
+    <string name="android_12_start_foreground_service_error_message">Android ne permet pas de commencer à jouer pendant que l\'application est en arrière-plan. Veuillez ouvrir l\'application pour commencer à lire ou exclure cette application des optimisations de batterie dans les paramètres Android.</string>
     <string name="mark_all_as_unread">Marquer tous comme non lus</string>
     <string name="read_as_adj">Lire</string>
     <string name="delete_selected_articles_">Supprimer les articles sélectionnés?</string>
@@ -1354,4 +1354,7 @@
     <string name="play_time_by_podcast">Play time by podcast</string>
     <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
     <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

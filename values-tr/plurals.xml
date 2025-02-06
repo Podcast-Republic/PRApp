@@ -51,13 +51,13 @@
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Şu anda oynatılan podcast'ten en fazla %1$d yeni ve çalınmamış bölümü otomatik olarak indir.</item>
-        <item quantity="other">Şu anda oynatılan podcast'ten en fazla %1$d yeni ve çalınmamış bölümü otomatik olarak indir.</item>
+        <item quantity="one">"Şu anda oynatılan podcast'ten en fazla %1$d yeni ve çalınmamış bölümü otomatik olarak indir."</item>
+        <item quantity="other">"Şu anda oynatılan podcast'ten en fazla %1$d yeni ve çalınmamış bölümü otomatik olarak indir."</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Şu anda oynatılan podcast'ten en fazla %1$d eski ve çalınmamış bölümü otomatik olarak indir.</item>
-        <item quantity="other">Şu anda oynatılan podcast'ten en fazla %1$d eski ve çalınmamış bölümü otomatik olarak indir.</item>
+        <item quantity="one">"Şu anda oynatılan podcast'ten en fazla %1$d eski ve çalınmamış bölümü otomatik olarak indir."</item>
+        <item quantity="other">"Şu anda oynatılan podcast'ten en fazla %1$d eski ve çalınmamış bölümü otomatik olarak indir."</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">

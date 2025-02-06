@@ -1193,7 +1193,7 @@
     <string name="view_schedule_of_radio_station">"Mostra l'horari de l'emissora de ràdio"</string>
     <string name="schedule">"Programació"</string>
     <string name="loading_schedule_">"Carregant la programació…"</string>
-    <string name="android_12_start_foreground_service_error_message">"Android 12 no permet començar a reproduir mentre l'aplicació està en segon pla. Obriu l'aplicació per començar a reproduir o exclou-la de les optimitzacions de la bateria a la configuració d'Android."</string>
+    <string name="android_12_start_foreground_service_error_message">"Android no permet començar a reproduir mentre l'aplicació està en segon pla. Obriu l'aplicació per començar a reproduir o exclou-la de les optimitzacions de la bateria a la configuració d'Android."</string>
     <string name="mark_all_as_unread">"Marca-ho tot com a no llegit"</string>
     <string name="read_as_adj">"Llegit"</string>
     <string name="delete_selected_articles_">"Suprimir els articles seleccionats?"</string>
@@ -1351,4 +1351,7 @@
     <string name="play_time_by_podcast">Temps de reproducció per podcast</string>
     <string name="estimated_total_download_size_">Mida total estimada de la descàrrega: %1$s.</string>
     <string name="notify_when_new_articles_are_available">Notificar quan hi hagi articles nous disponibles.</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

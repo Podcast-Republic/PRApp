@@ -1172,7 +1172,7 @@
     <string name="battery_optimizations">Оптимизация батареи</string>
     <string name="clear_history">Очистить историю</string>
     <string name="artwork">Обложка</string>
-    <string name="android_12_start_foreground_service_error_message">Android 12 не позволяет начать воспроизведение, пока приложение находится в фоновом режиме. Пожалуйста, откройте приложение, чтобы начать воспроизведение, или исключите это приложение из оптимизации заряда батареи в настройках Android.</string>
+    <string name="android_12_start_foreground_service_error_message">Android не позволяет начать воспроизведение, пока приложение находится в фоновом режиме. Пожалуйста, откройте приложение, чтобы начать воспроизведение, или исключите это приложение из оптимизации заряда батареи в настройках Android.</string>
     <string name="delete_selected_articles_">Удалить выбранные статьи?</string>
     <string name="reddit">Reddit</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Разрешить приложению создавать подробный журнал.</string>
@@ -1346,4 +1346,7 @@
     <string name="play_time_by_podcast">Время воспроизведения подкаста</string>
     <string name="estimated_total_download_size_">Рассчетный размер загрузки: %1$s.</string>
     <string name="notify_when_new_articles_are_available">Уведомлять о появлении новых статей.</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

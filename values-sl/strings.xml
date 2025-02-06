@@ -1191,7 +1191,7 @@
     <string name="view_schedule_of_radio_station">Poglej urnik radijskih postaj</string>
     <string name="schedule">Urnik</string>
     <string name="loading_schedule_">Nalagam urnik…</string>
-    <string name="android_12_start_foreground_service_error_message">Android 12 ne dovoljuje predvajanja kadar je aplikacija v ozadju. Prosimo, zaženite aplikacijo za začetek predvajanja ali izključite to aplikacijo iz optimizacije baterije v Android nastavitvah.</string>
+    <string name="android_12_start_foreground_service_error_message">Android ne dovoljuje predvajanja kadar je aplikacija v ozadju. Prosimo, zaženite aplikacijo za začetek predvajanja ali izključite to aplikacijo iz optimizacije baterije v Android nastavitvah.</string>
     <string name="mark_all_as_unread">Označi vse kot neprebrano</string>
     <string name="read_as_adj">Preberi</string>
     <string name="delete_selected_articles_">Delete selected articles?</string>
@@ -1349,4 +1349,7 @@
     <string name="play_time_by_podcast">Play time by podcast</string>
     <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
     <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

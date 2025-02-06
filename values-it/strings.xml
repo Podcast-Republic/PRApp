@@ -1190,7 +1190,7 @@
     <string name="view_schedule_of_radio_station">Visualizza la programmazione della stazione radio</string>
     <string name="schedule">Programma</string>
     <string name="loading_schedule_">Programma di caricamento…</string>
-    <string name="android_12_start_foreground_service_error_message">"Android 12 non consente di avviare la riproduzione mentre l\'app è in background. Apri l'app per iniziare a giocare o escludi questa app dall'ottimizzazione della batteria nelle Impostazioni Android."</string>
+    <string name="android_12_start_foreground_service_error_message">"Android non consente di avviare la riproduzione mentre l\'app è in background. Apri l'app per iniziare a giocare o escludi questa app dall'ottimizzazione della batteria nelle Impostazioni Android."</string>
     <string name="mark_all_as_unread">Segna tutto come non letto</string>
     <string name="read_as_adj">Leggi</string>
     <string name="delete_selected_articles_">Eliminare gli articoli selezionati?</string>
@@ -1348,4 +1348,7 @@
     <string name="play_time_by_podcast">Play time by podcast</string>
     <string name="estimated_total_download_size_">Estimated total download size: %1$s.</string>
     <string name="notify_when_new_articles_are_available">Notify when new articles are available.</string>
+    <string name="undo_last_jump">Undo last jump</string>
+    <string name="up_next_list_updated">Up next list updated</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
 </resources>

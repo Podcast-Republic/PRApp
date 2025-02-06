@@ -1347,7 +1347,7 @@
     <string name="play_time_by_podcast">Час відтворення за подкастом</string>
     <string name="estimated_total_download_size_">Орієнтовний загальний розмір завантаження: %1$s.</string>
     <string name="notify_when_new_articles_are_available">"Сповіщати, коли з'являються нові статті."</string>
-    <string name="undo_last_jump">Undo last jump</string>
-    <string name="up_next_list_updated">Up next list updated</string>
-    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
+    <string name="undo_last_jump">Скасувати останній стрибок</string>
+    <string name="up_next_list_updated">Чергу оновлено</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Сповіщати, коли чергу буде оновлено новими епізодами або списком відтворення.</string>
 </resources>

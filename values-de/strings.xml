@@ -1345,7 +1345,7 @@
 	<string name="play_time_by_podcast">Wiedergabezeit nach Podcast</string>
 	<string name="estimated_total_download_size_">Geschätzte Gesamtgröße des Downloads: %1$s.</string>
 	<string name="notify_when_new_articles_are_available">Benachrichtigen, wenn neue Artikel verfügbar sind.</string>
-    <string name="undo_last_jump">Undo last jump</string>
-    <string name="up_next_list_updated">Up next list updated</string>
-	<string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
+	<string name="undo_last_jump">Letzten Sprung rückgängig machen</string>
+	<string name="up_next_list_updated">\"Als Nächstes\" aktualisiert</string>
+	<string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Benachrichtigen, wenn \"Als Nächstes\" von einer neuen Folgen- oder Playliste aktualisiert wird.</string>
 </resources>

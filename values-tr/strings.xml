@@ -1351,7 +1351,7 @@
 	<string name="play_time_by_podcast">Podcaste göre çalma süresi</string>
 	<string name="estimated_total_download_size_">Tahmini toplam indirme boyutu: %1$s.</string>
 	<string name="notify_when_new_articles_are_available">Yeni makaleler olduğunda bildir.</string>
-    <string name="undo_last_jump">Son atlamayı geri al</string>
-    <string name="up_next_list_updated">Sıradakiler listesi güncellendi</string>
+	<string name="undo_last_jump">Son atlamayı geri al</string>
+	<string name="up_next_list_updated">Sıradakiler listesi güncellendi</string>
 	<string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Sıradakiler listesi, yeni bölüm listesi veya çalma listesi olarak güncellendiğinde bildir.</string>
 </resources>

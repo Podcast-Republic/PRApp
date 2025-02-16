@@ -1138,9 +1138,9 @@
 	<string name="podcast_description_will_be_updated_after_refreshing_">Die Podcast-Beschreibung wird nach der Aktualisierung aktualisiert.</string>
 	<string name="podcast_title_will_be_updated_after_refreshing_">Der Podcast-Titel wird nach der Aktualisierung aktualisiert.</string>
 	<string name="podcast_publisher_will_be_updated_after_refreshing_">Der Podcast-Herausgeber wird nach der Aktualisierung aktualisiert.</string>
-	<string name="customize_playback_controls_on_sed_and_expanded_notifications_">Wiedergabe-Bedienelemente für zu- und ausgeklappte Benachrichtigungen anpassen.</string>
+	<string name="customize_playback_controls_on_sed_and_expanded_notifications_">Wiedergabe-Bedienelemente für zu- und aufgeklappte Benachrichtigungen anpassen.</string>
 	<string name="collapsed_notification_short_format">Zugeklappt</string>
-	<string name="expanded_notification_short_format">Ausgeklappt</string>
+	<string name="expanded_notification_short_format">Aufgeklappt</string>
 	<string name="at_lease_one_playback_control_is_required">- Mindestens ein Wiedergabe-Bedienelement ist erforderlich.</string>
 	<string name="collapsed_notification_can_have_up_to_three_playback_controls">- Eine zugeklappte Benachrichtigung kann bis zu drei Wiedergabe-Bedienelemente haben.</string>
 	<string name="save_image">Bild speichern</string>

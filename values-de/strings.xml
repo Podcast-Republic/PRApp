@@ -370,7 +370,7 @@
 	<string name="chapters">"Kapitel"</string>
 	<string name="no_chapter_marks_found">"Keine Kapitelmarken gefunden!"</string>
 	<string name="keep_all_downloads">"Alle Downloads behalten"</string>
-	<string name="playback_controls">"Wiedergabesteuerung"</string>
+	<string name="playback_controls">"Wiedergabe-Bedienelemente"</string>
 	<string name="hide_empty_podcasts">"Abgespielte Podcasts ausblenden"</string>
 	<string name="pause_downloads">"Downloads pausieren"</string>
 	<string name="has_keywords_in_title">"Schlüsselwörter im Titel"</string>
@@ -1138,11 +1138,11 @@
 	<string name="podcast_description_will_be_updated_after_refreshing_">Die Podcast-Beschreibung wird nach der Aktualisierung aktualisiert.</string>
 	<string name="podcast_title_will_be_updated_after_refreshing_">Der Podcast-Titel wird nach der Aktualisierung aktualisiert.</string>
 	<string name="podcast_publisher_will_be_updated_after_refreshing_">Der Podcast-Herausgeber wird nach der Aktualisierung aktualisiert.</string>
-	<string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Die Wiedergabesteuerung für reduzierte und erweiterte Benachrichtigungen anpassen.</string>
+	<string name="customize_playback_controls_on_sed_and_expanded_notifications_">Wiedergabe-Bedienelemente für zu- und aufgeklappte Benachrichtigungen anpassen.</string>
 	<string name="collapsed_notification_short_format">Zugeklappt</string>
-	<string name="expanded_notification_short_format">Erweitert</string>
-	<string name="at_lease_one_playback_control_is_required">- Mindestens eine Wiedergabesteuerung ist erforderlich.</string>
-	<string name="collapsed_notification_can_have_up_to_three_playback_controls">- Eine reduzierte Benachrichtigung kann bis zu drei Wiedergabesteuerungen haben.</string>
+	<string name="expanded_notification_short_format">Aufgeklappt</string>
+	<string name="at_lease_one_playback_control_is_required">- Mindestens ein Wiedergabe-Bedienelement ist erforderlich.</string>
+	<string name="collapsed_notification_can_have_up_to_three_playback_controls">- Eine zugeklappte Benachrichtigung kann bis zu drei Wiedergabe-Bedienelemente haben.</string>
 	<string name="save_image">Bild speichern</string>
 	<string name="view_or_edit_playlist_setup_">Playlist-Einstellungen anzeigen oder bearbeiten.</string>
 	<string name="search_in_title">Im Titel suchen</string>

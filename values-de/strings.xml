@@ -558,7 +558,7 @@
 	<string name="save_to">"Speichern unter"</string>
 	<string name="buy_me_a_coffee">"Spendiere mir einen Kaffee"</string>
 	<string name="clear_the_play_history_">"Wiedergabe-Verlauf löschen?"</string>
-	<string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Wenn ein Download entfernt wird, weil das Download-Limit erreicht wurde."</string>
+	<string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Benachrichten, wenn ein Download entfernt wird, weil das Download-Limit erreicht wurde."</string>
 	<string name="keep_all">"Alle aufbewahren"</string>
 	<string name="playlist">"Playlist"</string>
 	<string name="category">"Kategorie"</string>
@@ -1138,7 +1138,7 @@
 	<string name="podcast_description_will_be_updated_after_refreshing_">Die Podcast-Beschreibung wird nach der Aktualisierung aktualisiert.</string>
 	<string name="podcast_title_will_be_updated_after_refreshing_">Der Podcast-Titel wird nach der Aktualisierung aktualisiert.</string>
 	<string name="podcast_publisher_will_be_updated_after_refreshing_">Der Podcast-Herausgeber wird nach der Aktualisierung aktualisiert.</string>
-	<string name="customize_playback_controls_on_sed_and_expanded_notifications_">Wiedergabe-Bedienelemente für zu- und aufgeklappte Benachrichtigungen anpassen.</string>
+	<string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Wiedergabe-Bedienelemente für zu- und aufgeklappte Benachrichtigungen anpassen.</string>
 	<string name="collapsed_notification_short_format">Zugeklappt</string>
 	<string name="expanded_notification_short_format">Aufgeklappt</string>
 	<string name="at_lease_one_playback_control_is_required">- Mindestens ein Wiedergabe-Bedienelement ist erforderlich.</string>

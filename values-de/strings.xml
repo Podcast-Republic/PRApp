@@ -334,7 +334,7 @@
 	<string name="playback_mode_shuffle">"Zufallswiedergabe"</string>
 	<string name="update_on_charging">"Während des Ladevorgangs aktualisieren"</string>
 	<string name="update_podcasts_only_when_battery_is_charging">"Podcast-Aktualisierung erfolgt nur bei angeschlossenem Ladegerät."</string>
-	<string name="filename">"Dateinamen"</string>
+	<string name="filename">"Dateiname"</string>
 	<string name="auto_backup_saved_to_">"Automatisches Backup gespeichert in [%1$s]"</string>
 	<string name="download_removed">"Download entfernt"</string>
 	<string name="load_artworks_only_when_connected_to_wifi">"Bilder werden nur geladen, wenn eine WLAN-Verbindung besteht."</string>
@@ -509,7 +509,7 @@
 	<string name="landscape">"Querformat"</string>
 	<string name="drag_the_handler_to_sort_manually">"Den Anfasser nach rechts schieben, um manuell zu sortieren"</string>
 	<string name="streaming">"Streaming"</string>
-	<string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Benutzernamen und Passwort unten eingeben, falls dein Podcast eine Authentifizierung erfordert. Frei lassen, wenn keine Authentifizierung erforderlich."</string>
+	<string name="enter_the_username_and_password_below_if_your_podcast_requires_authentication_leave_them_empty_if_no_authentication_is_required">"Benutzernamen und Passwort unten eingeben, falls der Podcast eine Authentifizierung erfordert. Felder leer lassen, wenn keine Authentifizierung erforderlich ist."</string>
 	<string name="can_not_play_ps">"Kann %1$s nicht abspielen"</string>
 	<string name="percent_file_size">"%1$d%% %2$s%3$s"</string>
 	<string name="unknown_percent_file_size">"-- %1$s%2$s"</string>
@@ -1077,7 +1077,7 @@
 	<string name="article_publishing_date">Veröffentlichungsdatum des Artikels</string>
 	<string name="article_guid">Artikel-GUID</string>
 	<string name="article_title">Titel des Artikels</string>
-	<string name="follow_os_systems_dark_theme_setup">Anhand des dunklen Designs der Android-Systemeinstellung.</string>
+	<string name="follow_os_systems_dark_theme_setup">Anhand des dunklen Designs der Systemeinstellung.</string>
 	<string name="background_color">Hintergrundfarbe</string>
 	<string name="current_color">Aktuelle Farbe</string>
 	<string name="text_color">Textfarbe</string>

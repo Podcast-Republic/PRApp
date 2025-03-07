@@ -1352,4 +1352,5 @@
     <string name="undo_last_jump">Undo last jump</string>
     <string name="up_next_list_updated">Up next list updated</string>
     <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
+    <string name="run_episode_filter">Run episode filter</string>
 </resources>

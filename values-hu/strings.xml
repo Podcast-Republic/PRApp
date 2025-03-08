@@ -1353,5 +1353,5 @@
     <string name="undo_last_jump">Utolsó ugrás visszavonása</string>
     <string name="up_next_list_updated">A \"Következő\" lista frissült</string>
     <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Értesítés, ha a \"Következő\" lista frissült új epizódlistára vagy lejátszási listára.</string>
-    <string name="run_episode_filter">Run episode filter</string>
+    <string name="run_episode_filter">Epizódszűrő futtatása</string>
 </resources>

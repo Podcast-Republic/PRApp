@@ -625,7 +625,7 @@
     <string name="manage_tags">Spravovať tagy</string>
     <string name="episode_filters">Filtre epizód</string>
     <string name="manage_episode_filters">Spravovať filtre epizód</string>
-    <string name="episode_filter">Filter epizódy</string>
+    <string name="episode_filter">Filter epizód</string>
     <string name="browse_by_episode_filters">Prehliadať podľa filtrov epizód</string>
     <string name="syncing_account_login_failed_please_try_logging_in_again_">Prihlásenie k účtu synchronizácie zlyhalo, skúste sa prihlásiť znova.</string>
     <string name="filter">Filter</string>
@@ -651,7 +651,7 @@
     <string name="unfinished_less_than_100_played">Nedokončené (prehraté &lt; 100 %)</string>
     <string name="finished_100_played">Dokončené (prehraté 100%)</string>
     <string name="restore_defaults">Obnoviť predvolené</string>
-    <string name="at_least_one_episode_filter_is_required_">Vyžaduje sa aspoň jeden filter epizódy!</string>
+    <string name="at_least_one_episode_filter_is_required_">Vyžaduje sa aspoň jeden filter epizód!</string>
     <string name="the_following_directories_are_not_accessible_please_reset_in_the_settings_">Nasledujúce priečinky nie sú prístupné. Prosím, resetujte v Nastavenia. \n%s</string>
     <string name="_download_location">- Umiestnenie sťahovania</string>
     <string name="_auto_backup_location">- Umiestnenie automatické zálohovania</string>
@@ -795,7 +795,7 @@
     <string name="elapsed_time">Uplynulý čas</string>
     <string name="paused_network_is_metered">Pozastavené: spoplatnená sieť</string>
     <string name="download_date">Dátum sťahovania</string>
-    <string name="create_an_episode_filter">Vytvoriť filter epizódy</string>
+    <string name="create_an_episode_filter">Vytvoriť filter epizód</string>
     <string name="play_time">Čas prehrávania</string>
     <string name="play_time_display">"Čas prehrávania: %1$s"</string>
     <string name="recently_played">Naposledy prehraté</string>
@@ -1010,7 +1010,7 @@
     <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatické načítanie poslednej epizódy v playliste do \'Teraz sa prehráva\'.</string>
     <string name="delete_the_playlist_s">"Odstrániť playlist: %s?"</string>
     <string name="delete_the_tag_s">"Odstrániť tag: %s?"</string>
-    <string name="delete_the_episode_filter_s">"Odstrániť filter epizódy: %s?"</string>
+    <string name="delete_the_episode_filter_s">"Odstrániť filter epizód: %s?"</string>
     <string name="sleep_after">Uspať po</string>
     <string name="sleep_at_time">Uspať o</string>
     <string name="export_episode_list">Exportovať zoznam epizód</string>

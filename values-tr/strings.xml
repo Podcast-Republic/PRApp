@@ -1355,4 +1355,6 @@
 	<string name="up_next_list_updated">Sıradakiler listesi güncellendi</string>
 	<string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Sıradakiler listesi, yeni bölüm listesi veya çalma listesi olarak güncellendiğinde bildir.</string>
     <string name="run_episode_filter">Run episode filter</string>
+    <string name="send_to_watch">Send to watch</string>
+	<string name="podcast_has_been_sent_to_the_watch_">Podcast has been sent to the watch!</string>
 </resources>

@@ -1353,6 +1353,6 @@
     <string name="up_next_list_updated">Zoznam Nasleduje bol aktualizovaný</string>
     <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Upozorniť na nový playlist alebo nové epizódy v zozname Nasleduje.</string>
     <string name="run_episode_filter">Spustiť filter epizód</string>
-    <string name="send_to_watch">Send to watch</string>
-    <string name="podcast_has_been_sent_to_the_watch_">Podcast has been sent to the watch!</string>
+    <string name="send_to_watch">Odoslať do hodiniek</string>
+    <string name="podcast_has_been_sent_to_the_watch_">Podcast bol odoslaný do hodiniek!</string>
 </resources>

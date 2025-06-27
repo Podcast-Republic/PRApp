@@ -1229,7 +1229,7 @@
     <string name="there_are_no_unread_articles_">Нет непрочитанных статей.</string>
     <string name="there_are_no_read_articles_">Нет прочитанных статей.</string>
     <string name="there_are_no_favorite_articles_">Нет избранных статей.</string>
-    <string name="there_are_no_deleted_articles_">Удаленных статей нет.</string>	
+    <string name="there_are_no_deleted_articles_">Удаленных статей нет.</string>
     <string name="alarms_may_not_get_fired_at_the_scheduled_time_please_go_to_android_settings_to_exclude_this_app_from_battery_optimizations">Будильники могут не срабатывать в запланированное время. Перейдите в настройки Android, чтобы исключить это приложение из оптимизации батареи.</string>
     <string name="open_android_settings">Открыть настройки Android</string>
     <string name="include_episode">Включать выпуск</string>
@@ -1352,4 +1352,10 @@
     <string name="run_episode_filter">Запустить фильтр выпусков</string>
     <string name="send_to_watch">Отправить на умные часы</string>
     <string name="podcast_has_been_sent_to_the_watch_">Подкаст отправлен на умные часы!</string>
+    <string name="save_current_settings_as_template">Save current settings as template</string>
+    <string name="load_settings_from_template">Load settings from template</string>
+    <string name="manage_settings_templates">Manage settings templates</string>
+    <string name="enter_the_template_name">Enter the template name</string>
+    <string name="templates">Templates</string>
+    <string name="delete_the_settings_template_s">Delete the settings template: %1$s ?</string>
 </resources>

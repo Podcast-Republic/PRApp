@@ -1356,4 +1356,10 @@
     <string name="run_episode_filter">Epizódszűrő futtatása</string>
     <string name="send_to_watch">Küldés órára</string>
     <string name="podcast_has_been_sent_to_the_watch_">A podcast küldésre került az órára!</string>
+    <string name="save_current_settings_as_template">Save current settings as template</string>
+    <string name="load_settings_from_template">Load settings from template</string>
+    <string name="manage_settings_templates">Manage settings templates</string>
+    <string name="enter_the_template_name">Enter the template name</string>
+    <string name="templates">Templates</string>
+    <string name="delete_the_settings_template_s">Delete the settings template: %1$s ?</string>
 </resources>

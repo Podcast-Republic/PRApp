@@ -685,7 +685,7 @@
     <string name="syncing_episode_changes_s">"Синхронизация изменений выпусков: %1$s"</string>
     <string name="syncing_changed_radio_stations_d">"Синхронизация добавленных радиоподписок: %1$d"</string>
     <string name="syncing_changed_podcasts_d">"Синхронизация добавленных подкастов: %1$d"</string>
-    <string name="syncing_episode_changes_">"Синхронизация изменений выпусков …"</string>
+    <string name="syncing_episode_changes_">"Синхронизация изменений выпусков…"</string>
     <string name="syncing_radio_station_changes_">"Синхронизация изменений подписки на радио …"</string>
     <string name="syncing_podcast_changes_">"Синхронизация изменений подписки подкаста…"</string>
     <string name="syncing_app_setting_changes_s">Синхронизация изменений настроек: %1$s.</string>
@@ -980,9 +980,9 @@
     <string name="search_in_subscribed_podcasts">Искать в подписах</string>
     <string name="rotate_by_podcasts">Чередовать по подкастам</string>
     <string name="display_episode_artwork_retrieved_from_podcast_feed_">Отображать обложку выпуска, полученную из ленты.</string>
-    <string name="use_podcast_artwork_as_episode_artwork_">Использовать обложку подкаста в качестве обложки эпизода.</string>
+    <string name="use_podcast_artwork_as_episode_artwork_">Использовать обложку подкаста в качестве обложки выпуска.</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Предпочесть обложку, извлеченные из загруженного файла подкаста.</string>
-    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Удалять устаревшие эпизоды, если они больше не доступны в ленте подкаста.</string>
+    <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Удалять устаревшие выпуски, если они больше не доступны в ленте подкаста.</string>
     <string name="display_podcasts_list">Отобразить список подкастов.</string>
     <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Всегда удалять устаревшие выпуски для YouTube подкаста.</string>
     <string name="updating_podcast_d1_d2">Обновление подкаста - %1$d/%2$d</string>
@@ -993,8 +993,8 @@
     <string name="allow_to_stream_podcasts_only_when_wifi_is_connected">Разрешить трансляцию подкастов только при Wi-Fi подключении.</string>
     <string name="allow_to_stream_radios_only_when_wifi_is_connected">Разрешить трансляцию радио только при Wi-Fi подключении.</string>
     <string name="allow_to_use_mobile_data_and_ignore_battery_restrictions_when_downloading_episodes_">Разрешить использовать мобильные данные и игнорируйте ограничения на заряд батареи при загрузке выпусков.</string>
-    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Разрешить загрузку старых невоспроизведенных эпизодов, если не найдено новых невоспроизведенных выпусков.</string>
-    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Разрешить загрузку новых невоспроизведенных эпизодов, если не найдено старых невоспроизведенных выпусков.</string>
+    <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Разрешить загрузку старых невоспроизведенных выпусков, если не найдено новых.</string>
+    <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Разрешить загрузку новых невоспроизведенных выпусков, если не найдено старых.</string>
     <string name="allow_to_change_playback_position_from_notification_">Разрешить изменять положение воспроизведения через уведомление.</string>
     <string name="back_up_google_drive_only_when_wifi_is_connected_">Резервное копирование на Google Диск только при Wi-Fi подключении.</string>
     <string name="retrieve_full_article_via_wifi_only">Полная версия статьи по Wi-Fi</string>
@@ -1045,7 +1045,7 @@
     <string name="sleep_timer_is_on_">Таймер сна включен!</string>
     <string name="sleep_at_time">Уснуть в</string>
     <string name="sleep_after">Уснуть после</string>
-    <string name="set_sleep_timer_after_this_episode">Установите таймер сна после этого эпизода</string>
+    <string name="set_sleep_timer_after_this_episode">Установите таймер сна после этого выпуска</string>
     <string name="select_backup_file_to_restore_from">Выберите файл резервной копии для восстановления</string>
     <string name="search_in_title_and_article">Поиск по названию и статье</string>
     <string name="search_in_title">Поиск по названию</string>
@@ -1093,7 +1093,7 @@
     <string name="description_preview">Предпросмотр описания</string>
     <string name="display_completed_downloads_list">Отобразить список завершенных загрузок.</string>
     <string name="display_episode_artwork_retrieved_from_media_file_">Отображать обложку выпуска, полученную из файла.</string>
-    <string name="display_episode_filters_list">Отобразить список фильтров эпизодов.</string>
+    <string name="display_episode_filters_list">Отобразить список фильтров выпусков.</string>
     <string name="local_storage">Локальное хранилище</string>
     <string name="animate_items_when_loading_into_list">Анимировать элементы при загрузке в список.</string>
     <string name="list_animation">Анимирование списка</string>
@@ -1196,7 +1196,7 @@
     <string name="reset_all_settings_back_to_default_">Сбросьте все настройки обратно к настройкам по умолчанию.</string>
     <string name="no_results">Никаких результатов</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Перестать обновлять очередь воспроизведения из текущего списка выпусков или плейлиста?</string>
-    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Очередь воспроизведения не обновляется из текущего списка выпусков или плейлиса.</string>
+    <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Очередь воспроизведения не обновляется из текущего списка выпусков или плейлиста.</string>
     <string name="update_up_next_automatically">Обновлять очередь воспроизведения автоматически</string>
     <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Обновление очереди воспроизведения при изменении или обновлении списка выпусков или плейлиста.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Введите имя пользователя и пароль, если RSS-канал требует аутентификации. Оставьте поля пустыми, если аутентификация не требуется.</string>
@@ -1346,10 +1346,10 @@
     <string name="play_time_by_podcast">Время воспроизведения подкаста</string>
     <string name="estimated_total_download_size_">Рассчетный размер загрузки: %1$s.</string>
     <string name="notify_when_new_articles_are_available">Уведомлять о появлении новых статей.</string>
-    <string name="undo_last_jump">Undo last jump</string>
-    <string name="up_next_list_updated">Up next list updated</string>
-    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Notify when the Up next list gets updated to new episode list or playlist.</string>
-    <string name="run_episode_filter">Run episode filter</string>
-    <string name="send_to_watch">Send to watch</string>
-    <string name="podcast_has_been_sent_to_the_watch_">Podcast has been sent to the watch!</string>
+    <string name="undo_last_jump">Отменить последний переход</string>
+    <string name="up_next_list_updated">Список «Далее» обновлён</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Уведомлять, когда список «Далее» обновляется до нового списка выпусков или плейлиста.</string>
+    <string name="run_episode_filter">Запустить фильтр выпусков</string>
+    <string name="send_to_watch">Отправить на умные часы</string>
+    <string name="podcast_has_been_sent_to_the_watch_">Подкаст отправлен на умные часы!</string>
 </resources>

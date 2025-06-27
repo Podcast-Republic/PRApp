@@ -1357,4 +1357,10 @@
     <string name="run_episode_filter">Run episode filter</string>
     <string name="send_to_watch">Send to watch</string>
     <string name="podcast_has_been_sent_to_the_watch_">Podcast has been sent to the watch!</string>
+    <string name="save_current_settings_as_template">Save current settings as template</string>
+    <string name="load_settings_from_template">Load settings from template</string>
+    <string name="manage_settings_templates">Manage settings templates</string>
+    <string name="enter_the_template_name">Enter the template name</string>
+    <string name="templates">Templates</string>
+    <string name="delete_the_settings_template_s">Delete the settings template: %1$s ?</string>
 </resources>

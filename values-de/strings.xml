@@ -1351,10 +1351,10 @@
 	<string name="run_episode_filter">Folgenfilter ausführen</string>
 	<string name="send_to_watch">An Smartwatch senden</string>
 	<string name="podcast_has_been_sent_to_the_watch_">Podcast wurde an Smartwatch gesendet!</string>
-    <string name="save_current_settings_as_template">Save current settings as template</string>
-	<string name="load_settings_from_template">Load settings from template</string>
-	<string name="manage_settings_templates">Manage settings templates</string>
-	<string name="enter_the_template_name">Enter the template name</string>
-	<string name="templates">Templates</string>
-	<string name="delete_the_settings_template_s">Delete the settings template: %1$s ?</string>
+	<string name="save_current_settings_as_template">Aktuelle Einstellungen als Vorlage speichern</string>
+	<string name="load_settings_from_template">Vorlage-Einstellungen laden</string>
+	<string name="manage_settings_templates">Vorlagen-Einstellungen verwalten</string>
+	<string name="enter_the_template_name">Vorlage-Name eingeben</string>
+	<string name="templates">Vorlagen</string>
+	<string name="delete_the_settings_template_s">Diese Vorlage-Einstellungen löschen: %1$s ?</string>
 </resources>

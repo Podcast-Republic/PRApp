@@ -222,7 +222,7 @@
     <string name="sort">"Сортувати"</string>
     <string name="continue_">"Продовжити"</string>
     <string name="delete_from_playlists">"Видалити зі списків відтворення"</string>
-    <string name="keep_in_playlists">"Зберігати в списках відтворення"</string>
+    <string name="keep_in_playlists">"Зберігти в списках відтворення"</string>
     <string name="remember_the_choice">"Запам'ятати вибір"</string>
     <string name="when_deleting_a_download">"При видаленні із завантажень"</string>
     <string name="all_episodes">"Всі епізоди"</string>
@@ -1353,10 +1353,10 @@
     <string name="run_episode_filter">Запустити фільтр епізодів</string>
     <string name="send_to_watch">Відправити на годинник</string>
     <string name="podcast_has_been_sent_to_the_watch_">Подкаст було відправлено на годинник!</string>
-    <string name="save_current_settings_as_template">Save current settings as template</string>
-    <string name="load_settings_from_template">Load settings from template</string>
-    <string name="manage_settings_templates">Manage settings templates</string>
-    <string name="enter_the_template_name">Enter the template name</string>
-    <string name="templates">Templates</string>
-    <string name="delete_the_settings_template_s">Delete the settings template: %1$s ?</string>
+    <string name="save_current_settings_as_template">Зберегти поточні налаштування як шаблон</string>
+    <string name="load_settings_from_template">Застосувати налаштування з шаблону</string>
+    <string name="manage_settings_templates">Керувати шаблонами налаштувань</string>
+    <string name="enter_the_template_name">Вкажіть назву шаблону</string>
+    <string name="templates">Шаблони</string>
+    <string name="delete_the_settings_template_s">Видалити цей шаблон: %1$s ?</string>
 </resources>

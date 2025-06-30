@@ -1352,10 +1352,10 @@
     <string name="run_episode_filter">Запустить фильтр выпусков</string>
     <string name="send_to_watch">Отправить на умные часы</string>
     <string name="podcast_has_been_sent_to_the_watch_">Подкаст отправлен на умные часы!</string>
-    <string name="save_current_settings_as_template">Save current settings as template</string>
-    <string name="load_settings_from_template">Load settings from template</string>
-    <string name="manage_settings_templates">Manage settings templates</string>
-    <string name="enter_the_template_name">Enter the template name</string>
-    <string name="templates">Templates</string>
-    <string name="delete_the_settings_template_s">Delete the settings template: %1$s ?</string>
+    <string name="save_current_settings_as_template">Сохранить текущие настройки в качестве шаблона</string>
+    <string name="load_settings_from_template">Загрузить настройки из шаблона</string>
+    <string name="manage_settings_templates">Управление шаблонами настроек</string>
+    <string name="enter_the_template_name">Введите имя шаблона</string>
+    <string name="templates">Шаблоны</string>
+    <string name="delete_the_settings_template_s">Удалить шаблон настроек: %1$s ?</string>
 </resources>

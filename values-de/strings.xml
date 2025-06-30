@@ -1356,5 +1356,5 @@
 	<string name="manage_settings_templates">Einstellungsvorlagen verwalten</string>
 	<string name="enter_the_template_name">Vorlage-Name eingeben</string>
 	<string name="templates">Vorlagen</string>
-	<string name="delete_the_settings_template_s">Diese Einstellunsgvorlage löschen: %1$s ?</string>
+	<string name="delete_the_settings_template_s">Diese Einstellungsvorlage löschen: %1$s ?</string>
 </resources>

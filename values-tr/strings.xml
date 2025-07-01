@@ -211,7 +211,7 @@
 	<string name="action_s">"İşlem: %1$s."</string>
 	<string name="action">İşlem</string>
 	<string name="download_only_when_connected_to_wifi">"Sadece Wi-Fi'ye bağlıyken indir."</string>
-	<string name="add_to_new_tag">Yeni etikete ekle</string>
+	<string name="add_to_new_tag">Yeni etiket ekle</string>
 	<string name="enter_a_new_tag_name">Yeni etiket adı girin</string>
 	<string name="rename_the_tag">Etiketi yeniden adlandır</string>
 	<string name="car_mode">Araç modu</string>
@@ -574,7 +574,7 @@
 	<string name="unknown_station">Bilinmeyen istasyon</string>
 	<string name="can_not_cast_youtube_videos_to_chromecast_">"YouTube videoları Chromecast'e aktarılamıyor!"</string>
 	<string name="add_a_playlist">Çalma listesi ekle</string>
-	<string name="add_to_tag">Etikete ekle</string>
+	<string name="add_to_tag">Etiket ekle</string>
 	<string name="add_to_default_playlists">Varsayılan çalma listelerine ekle</string>
 	<string name="add_to_selected_playlists">Seçili çalma listelerine ekle</string>
 	<string name="delete_selected_episodes_">Seçili bölümleri sil?</string>
@@ -1354,13 +1354,13 @@
 	<string name="undo_last_jump">Son atlamayı geri al</string>
 	<string name="up_next_list_updated">Sıradakiler listesi güncellendi</string>
 	<string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Sıradakiler listesi, yeni bölüm listesi veya çalma listesi olarak güncellendiğinde bildir.</string>
-    <string name="run_episode_filter">Run episode filter</string>
-    <string name="send_to_watch">Send to watch</string>
-	<string name="podcast_has_been_sent_to_the_watch_">Podcast has been sent to the watch!</string>
-    <string name="save_current_settings_as_template">Save current settings as template</string>
-	<string name="load_settings_from_template">Load settings from template</string>
-	<string name="manage_settings_templates">Manage settings templates</string>
-	<string name="enter_the_template_name">Enter the template name</string>
-	<string name="templates">Templates</string>
-	<string name="delete_the_settings_template_s">Delete the settings template: %1$s ?</string>
+    <string name="run_episode_filter">Bölüm filtresini çalıştır</string>
+    <string name="send_to_watch">Saate gönder</string>
+	<string name="podcast_has_been_sent_to_the_watch_">Podcast saate gönderildi!</string>
+    <string name="save_current_settings_as_template">Mevcut ayarları şablon olarak kaydet</string>
+	<string name="load_settings_from_template">Şablondan ayarları yükle</string>
+	<string name="manage_settings_templates">Ayarlar şablonlarını yönet</string>
+	<string name="enter_the_template_name">Şablon adını girin</string>
+	<string name="templates">Şablonlar</string>
+	<string name="delete_the_settings_template_s">Ayarlar şablonunu sil: %1$s ?</string>
 </resources>

@@ -1362,6 +1362,6 @@
     <string name="enter_the_template_name">Sablon neve</string>
     <string name="templates">Sablonok</string>
     <string name="delete_the_settings_template_s">Törli ezt a sablont: %1$s ?</string>
-    <string name="ignored_words">Ignored words</string>
-    <string name="add_ignored_word">Add ignored word</string>
+    <string name="ignored_words">Ignorált szavak</string>
+    <string name="add_ignored_word">Ignorált szó hozzáadása</string>
 </resources>

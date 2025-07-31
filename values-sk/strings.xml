@@ -1361,4 +1361,6 @@
     <string name="enter_the_template_name">Zadajte názov šablóny</string>
     <string name="templates">Šablóny</string>
     <string name="delete_the_settings_template_s">Odstrániť šablónu nastavení: %1$s ?</string>
+    <string name="ignored_words">Ignored words</string>
+    <string name="add_ignored_word">Add ignored word</string>
 </resources>

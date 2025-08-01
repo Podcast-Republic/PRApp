@@ -915,8 +915,8 @@
     <string name="search_by_podcast_title">Пошук за назвою подкасту</string>
     <string name="search_by_podcast_publisher">Пошук за видавцем подкасту</string>
     <string name="fade_audio_out_2_minutes_left">Зменшення гучності звуку (за 2 хвилини)</string>
-    <string name="keep_all_articles">Зберегти всі статті</string>
-    <string name="keep_articles">Зберегти статті</string>
+    <string name="keep_all_articles">Зберігати всі статті</string>
+    <string name="keep_articles">Зберігати статті</string>
     <string name="pref_download_location_select_prompt_message">Ви будете перенаправлені до файлового менеджера Android. Будь ласка, виберіть каталог у внутрішній пам\’яті або SD-карті, який буде використовуватися як місце завантаження.</string>
     <string name="review_wifi_only_prompt_message">Чи знаєте ви, що ця програма за умовчанням використовує лише Wi-Fi? Ви можете вимкнути використання лише Wi-Fi, якщо у вас швидке з\’єднання для передачі даних. Хочете зараз переглянути налаштування використання лише Wi-Fi?</string>
     <string name="delete_virtual_podcast_file_from_storage_after_being_played">Видаліть файл віртуального подкасту зі сховища після відтворення</string>
@@ -1359,6 +1359,6 @@
     <string name="enter_the_template_name">Вкажіть назву шаблону</string>
     <string name="templates">Шаблони</string>
     <string name="delete_the_settings_template_s">Видалити цей шаблон: %1$s ?</string>
-    <string name="ignored_words">Ignored words</string>
-    <string name="add_ignored_word">Add ignored word</string>
+    <string name="ignored_words">Ігноровані слова</string>
+    <string name="add_ignored_word">Додати ігнороване слово</string>
 </resources>

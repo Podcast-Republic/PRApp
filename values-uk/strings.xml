@@ -1361,4 +1361,6 @@
     <string name="delete_the_settings_template_s">Видалити цей шаблон: %1$s ?</string>
     <string name="ignored_words">Ігноровані слова</string>
     <string name="add_ignored_word">Додати ігнороване слово</string>
+    <string name="experimental_features">Experimental features</string>
+    <string name="enable_audio_effects_equalizer_experimental_feature_message">Enable audio effects &amp; equalizer feature for downloaded podcasts. Turn this feature off if you encounter any playback issues.</string>
 </resources>

@@ -22,10 +22,10 @@
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Zobraziť poslednú %d epizódu.</item>
-        <item quantity="few">Zobraziť posledné %d epizódy.</item>
-        <item quantity="many">Zobraziť posledné %d epizódy.</item>
-        <item quantity="other">Zobraziť posledných %d epizód.</item>
+        <item quantity="one">Zobraziť %d poslednú epizódu.</item>
+        <item quantity="few">Zobraziť %d posledné epizódy.</item>
+        <item quantity="many">Zobraziť %d posledné epizódy.</item>
+        <item quantity="other">Zobraziť %d posledných epizód.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
@@ -65,9 +65,9 @@
 
     <plurals name="mark_all_d_articles_as_unread">
         <item quantity="one">Označiť %1$d článok ako neprečítaný?</item>
-        <item quantity="few">Označiť all %1$d články ako neprečítané?</item>
-        <item quantity="many">Označiť all %1$d článkov ako neprečítaných?</item>
-        <item quantity="other">Označiť all %1$d článkov ako neprečítaných?</item>
+        <item quantity="few">Označiť %1$d články ako neprečítané?</item>
+        <item quantity="many">Označiť %1$d článkov ako neprečítané?</item>
+        <item quantity="other">Označiť všetkých %1$d článkov ako neprečítané?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
@@ -113,52 +113,52 @@
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
-        <item quantity="few">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
+        <item quantity="one">"Naplánovať automatické zálohovanie každý %1$d deň."</item>
+        <item quantity="few">"Naplánovať automatické zálohovanie každé %1$d dni."</item>
         <item quantity="many">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
         <item quantity="other">"Naplánovať automatické zálohovanie každých %1$d dní."</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Ponechať najnovšie %1$d automatické zálohy."</item>
-        <item quantity="few">"Ponechať najnovšie %1$d automatické zálohy."</item>
-        <item quantity="many">"Ponechať najnovšie %1$d automatické zálohy."</item>
-        <item quantity="other">"Ponechať najnovšie %1$d automatické zálohy."</item>
+        <item quantity="one">"Ponechať %1$d najnovšiu automatickú zálohu."</item>
+        <item quantity="few">"Ponechať %1$d najnovšie automatické zálohy."</item>
+        <item quantity="many">"Ponechať %1$d najnovších automatických záloh."</item>
+        <item quantity="other">"Ponechať %1$d najnovších automatických záloh."</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minút"</item>
-        <item quantity="few">"%1$d minút"</item>
+        <item quantity="one">"%1$d minúta"</item>
+        <item quantity="few">"%1$d minúty"</item>
         <item quantity="many">"%1$d minút"</item>
         <item quantity="other">"%1$d minút"</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minút."</item>
-        <item quantity="few">"&gt; %1$d minút."</item>
+        <item quantity="one">"&gt; %1$d minútu."</item>
+        <item quantity="few">"&gt; %1$d minúty."</item>
         <item quantity="many">"&gt; %1$d minút."</item>
         <item quantity="other">"&gt; %1$d minút."</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minút."</item>
-        <item quantity="few">"&lt; %1$d minút."</item>
+        <item quantity="one">"&lt; %1$d minútu."</item>
+        <item quantity="few">"&lt; %1$d minúty."</item>
         <item quantity="many">"&lt; %1$d minút."</item>
         <item quantity="other">"&lt; %1$d minút."</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"O %1$d minút"</item>
-        <item quantity="few">"O %1$d minút"</item>
+        <item quantity="one">"O %1$d minútu"</item>
+        <item quantity="few">"O %1$d minúty"</item>
         <item quantity="many">"O %1$d minút"</item>
         <item quantity="other">"O %1$d minút"</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Pridať %1$d min"</item>
-        <item quantity="few">"Pridať %1$d min"</item>
-        <item quantity="many">"Pridať %1$d min"</item>
-        <item quantity="other">"Pridať %1$d min"</item>
+        <item quantity="one">"Pridať %1$d min."</item>
+        <item quantity="few">"Pridať %1$d min."</item>
+        <item quantity="many">"Pridať %1$d min."</item>
+        <item quantity="other">"Pridať %1$d min."</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
@@ -204,71 +204,71 @@
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Ponechať články za posledných %d dní."</item>
-        <item quantity="few">"Ponechať články za posledných %d dní."</item>
+        <item quantity="one">"Ponechať články za posledný %d deň."</item>
+        <item quantity="few">"Ponechať články za posledné %d dni."</item>
         <item quantity="many">"Ponechať články za posledných %d dní."</item>
         <item quantity="other">"Ponechať články za posledných %d dní."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
-        <item quantity="few">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="one">"Minimálny čas pretočenia dozadu: %d sekunda."</item>
+        <item quantity="few">"Minimálny čas pretočenia dozadu: %d sekundy."</item>
         <item quantity="many">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
         <item quantity="other">"Minimálny čas pretočenia dozadu: %d sekúnd."</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
-        <item quantity="few">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
+        <item quantity="one">"Maximálny čas pretočenia dozadu: %d sekunda."</item>
+        <item quantity="few">"Maximálny čas pretočenia dozadu: %d sekundy."</item>
         <item quantity="many">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
         <item quantity="other">"Maximálny čas pretočenia dozadu: %d sekúnd."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
-        <item quantity="few">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
+        <item quantity="one">"Vybrať epizódy s trvaním dlhším ako %d minúta."</item>
+        <item quantity="few">"Vybrať epizódy s trvaním dlhším ako %d minúty."</item>
         <item quantity="many">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
         <item quantity="other">"Vybrať epizódy s trvaním dlhším ako %d minút."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
-        <item quantity="few">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
+        <item quantity="one">"Vybrať epizódy s trvaním kratším ako %d minúta."</item>
+        <item quantity="few">"Vybrať epizódy s trvaním kratším ako %d minúty."</item>
         <item quantity="many">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
         <item quantity="other">"Vybrať epizódy s trvaním kratším ako %d minút."</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Vybrať epizódy za posledných %d dní."</item>
-        <item quantity="few">"Vybrať epizódy za posledných %d dní."</item>
+        <item quantity="one">"Vybrať epizódy za posledný %d deň."</item>
+        <item quantity="few">"Vybrať epizódy za posledné %d dni."</item>
         <item quantity="many">"Vybrať epizódy za posledných %d dní."</item>
         <item quantity="other">"Vybrať epizódy za posledných %d dní."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Preskočiť úvodných %d sekúnd."</item>
-        <item quantity="few">"Preskočiť úvodných %d sekúnd."</item>
+        <item quantity="one">"Preskočiť úvodnú %d sekundu."</item>
+        <item quantity="few">"Preskočiť úvodné %d sekundy."</item>
         <item quantity="many">"Preskočiť úvodných %d sekúnd."</item>
         <item quantity="other">"Preskočiť úvodných %d sekúnd."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Preskočiť záverečných %d sekúnd."</item>
-        <item quantity="few">"Preskočiť záverečných %d sekúnd."</item>
+        <item quantity="one">"Preskočiť záverečnú %d sekundu."</item>
+        <item quantity="few">"Preskočiť záverečné %d sekundy."</item>
         <item quantity="many">"Preskočiť záverečných %d sekúnd."</item>
         <item quantity="other">"Preskočiť záverečných %d sekúnd."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Stiahnuť epizódu, ak je dĺžka väčšia ako %d minút."</item>
-        <item quantity="few">"Stiahnuť epizódu, ak je dĺžka väčšia ako %d minút."</item>
+        <item quantity="one">"Stiahnuť epizódu, ak je dĺžka väčšia ako %d minúta."</item>
+        <item quantity="few">"Stiahnuť epizódu, ak je dĺžka väčšia ako %d minúty."</item>
         <item quantity="many">"Stiahnuť epizódu, ak je dĺžka väčšia ako %d minút."</item>
         <item quantity="other">"Stiahnuť epizódu, ak je dĺžka väčšia ako %d minút."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
-        <item quantity="few">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
+        <item quantity="one">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minútu."</item>
+        <item quantity="few">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minúty."</item>
         <item quantity="many">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
         <item quantity="other">"Stiahnuť epizódu, ak je dĺžka menšia ako %d minút."</item>
     </plurals>

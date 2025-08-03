@@ -1363,6 +1363,6 @@
     <string name="delete_the_settings_template_s">Odstrániť šablónu nastavení: %1$s ?</string>
     <string name="ignored_words">Ignorované slová</string>
     <string name="add_ignored_word">Pridať ignorované slovo</string>
-    <string name="experimental_features">Experimental features</string>
-    <string name="enable_audio_effects_equalizer_experimental_feature_message">Enable audio effects &amp; equalizer feature for downloaded podcasts. Turn this feature off if you encounter any playback issues.</string>
+    <string name="experimental_features">Experimentálne funkcie</string>
+    <string name="enable_audio_effects_equalizer_experimental_feature_message">Povoliť zvukové efekty a ekvalizér pre stiahnuté podcasty. Túto funkciu vypnite, ak máte problémy pri prehrávaní.</string>
 </resources>

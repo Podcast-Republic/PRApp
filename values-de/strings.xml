@@ -625,7 +625,7 @@
 	<string name="episode_filters">"Folgenfilter"</string>
 	<string name="manage_episode_filters">"Folgenfilter verwalten"</string>
 	<string name="episode_filter">"Folgenfilter"</string>
-	<string name="browse_by_episode_filters">"Blättern nach benutzerdef. Filter"</string>
+	<string name="browse_by_episode_filters">"Folgenfilter durchsuchen"</string>
 	<string name="syncing_account_login_failed_please_try_logging_in_again_">"Anmeldung am Synchronisationskonto fehlgeschlagen, bitte erneut versuchen."</string>
 	<string name="filter">"Filter"</string>
 	<string name="view_all_episodes">"Alle Folgen anzeigen"</string>
@@ -1359,6 +1359,7 @@
 	<string name="delete_the_settings_template_s">Diese Einstellungsvorlage löschen: %1$s ?</string>
 	<string name="ignored_words">Ignorierte Wörter</string>
 	<string name="add_ignored_word">Ignoriertes Wort hinzufügen</string>
-    <string name="experimental_features">Experimental features</string>
-	<string name="enable_audio_effects_equalizer_experimental_feature_message"><![CDATA[Enable audio effects & equalizer feature for downloaded podcasts. Turn this feature off if you encounter any playback issues.]]></string>
+	<string name="experimental_features">Experimentelle Funktionen</string>
+	<string name="enable_audio_effects_equalizer_experimental_feature_message"><![CDATA[Audio-Effekte & Equalizer für heruntergeladene Podcasts aktivieren. Deaktiviere diese Funktion, wenn Probleme bei der Wiedergabe auftreten.]]></string>
 </resources>
+

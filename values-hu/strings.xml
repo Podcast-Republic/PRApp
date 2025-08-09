@@ -1364,6 +1364,6 @@
     <string name="delete_the_settings_template_s">Törli ezt a sablont: %1$s ?</string>
     <string name="ignored_words">Ignorált szavak</string>
     <string name="add_ignored_word">Ignorált szó hozzáadása</string>
-    <string name="experimental_features">Experimental features</string>
-    <string name="enable_audio_effects_equalizer_experimental_feature_message">Enable audio effects &amp; equalizer feature for downloaded podcasts. Turn this feature off if you encounter any playback issues.</string>
+    <string name="experimental_features">Kísérleti funkciók</string>
+    <string name="enable_audio_effects_equalizer_experimental_feature_message">Engedélyezi az audioeffektusokat és az Equalizer funkciót a letöltött podcastokhoz. Kapcsolja ki, ha lejátszási problémák merülnek fel.</string>
 </resources>

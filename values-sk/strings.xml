@@ -1365,4 +1365,6 @@
     <string name="add_ignored_word">Pridať ignorované slovo</string>
     <string name="experimental_features">Experimentálne funkcie</string>
     <string name="enable_audio_effects_equalizer_experimental_feature_message">Povoliť zvukové efekty a ekvalizér pre stiahnuté podcasty. Túto funkciu vypnite, ak máte problémy pri prehrávaní.</string>
+    <string name="pause_on_mute">Pause on mute</string>
+    <string name="pause_the_playback_automatically_when_the_volume_is_muted_">Pause the playback automatically when the volume is muted.</string>
 </resources>

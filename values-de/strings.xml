@@ -1361,5 +1361,6 @@
 	<string name="add_ignored_word">Ignoriertes Wort hinzufügen</string>
 	<string name="experimental_features">Experimentelle Funktionen</string>
 	<string name="enable_audio_effects_equalizer_experimental_feature_message"><![CDATA[Audio-Effekte & Equalizer für heruntergeladene Podcasts aktivieren. Deaktiviere diese Funktion, wenn Probleme bei der Wiedergabe auftreten.]]></string>
+    <string name="pause_on_mute">Pause on mute</string>
+	<string name="pause_the_playback_automatically_when_the_volume_is_muted_">Pause the playback automatically when the volume is muted.</string>
 </resources>
-

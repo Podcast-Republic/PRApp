@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="country_list">
-		<item>Albanien </item>
-		<item>Algerien </item>
-		<item>Angola </item>
-		<item>Anguilla </item>
-		<item>Argentinien </item>
-		<item>Armenien </item>
-		<item>Australien </item>
-		<item>"Österreich" </item>
-		<item>Aserbaidschan </item>
-		<item>Bahamas </item>
-		<item>Bahrein </item>
-		<item>Belgien </item>
-		<item>Bolivien </item>
-		<item>Brasilien </item>
-		<item>Kambodscha </item>
-		<item>Kanada </item>
-		<item>Chile </item>
-		<item>China </item>
-		<item>Kolumbien </item>
-		<item>Costa Rica </item>
-		<item>Kroatien </item>
-		<item>Zypern </item>
-		<item>Tschechische Republik </item>
-		<item>"Dänemark" </item>
-		<item>Ecuador </item>
-		<item>Ägypten </item>
-		<item>Finnland </item>
-		<item>Frankreich </item>
-		<item>Deutschland </item>
-		<item>Griechenland </item>
-		<item>Hongkong </item>
-		<item>Ungarn </item>
-		<item>Island </item>
-		<item>Indien </item>
-		<item>Indonesien </item>
-		<item>Irland </item>
-		<item>Israel </item>
-		<item>Italien </item>
-		<item>Jamaika </item>
-		<item>Japan </item>
-		<item>Jordan </item>
-		<item>Kasachstan </item>
-		<item>Kenia </item>
-		<item>Korea </item>
-		<item>Kuwait </item>
-		<item>Kirgistan </item>
+		<item>Albanien</item>
+		<item>Algerien</item>
+		<item>Angola</item>
+		<item>Anguilla</item>
+		<item>Argentinien</item>
+		<item>Armenien</item>
+		<item>Australien</item>
+		<item>"Österreich"</item>
+		<item>Aserbaidschan</item>
+		<item>Bahamas</item>
+		<item>Bahrein</item>
+		<item>Belgien</item>
+		<item>Bolivien</item>
+		<item>Brasilien</item>
+		<item>Kambodscha</item>
+		<item>Kanada</item>
+		<item>Chile</item>
+		<item>China</item>
+		<item>Kolumbien</item>
+		<item>Costa Rica</item>
+		<item>Kroatien</item>
+		<item>Zypern</item>
+		<item>Tschechische Republik</item>
+		<item>"Dänemark"</item>
+		<item>Ecuador</item>
+		<item>Ägypten</item>
+		<item>Finnland</item>
+		<item>Frankreich</item>
+		<item>Deutschland</item>
+		<item>Griechenland</item>
+		<item>Hongkong</item>
+		<item>Ungarn</item>
+		<item>Island</item>
+		<item>Indien</item>
+		<item>Indonesien</item>
+		<item>Irland</item>
+		<item>Israel</item>
+		<item>Italien</item>
+		<item>Jamaika</item>
+		<item>Japan</item>
+		<item>Jordan</item>
+		<item>Kasachstan</item>
+		<item>Kenia</item>
+		<item>Korea</item>
+		<item>Kuwait</item>
+		<item>Kirgistan</item>
 		<item>Lettland</item>
 		<item>Litauen</item>
-		<item>Luxemburg </item>
-		<item>Macao </item>
-		<item>Malaysia </item>
-		<item>Mexiko </item>
-		<item>Mongolei </item>
-		<item>Niederlande </item>
-		<item>Neuseeland </item>
-		<item>Norwegen </item>
-		<item>Pakistan </item>
-		<item>Peru </item>
-		<item>Philippinen </item>
-		<item>Polen </item>
-		<item>Portugal </item>
-		<item>Katar </item>
-		<item>"Rumänien" </item>
-		<item>Russland </item>
-		<item>Saudi-Arabien </item>
+		<item>Luxemburg</item>
+		<item>Macao</item>
+		<item>Malaysia</item>
+		<item>Mexiko</item>
+		<item>Mongolei</item>
+		<item>Niederlande</item>
+		<item>Neuseeland</item>
+		<item>Norwegen</item>
+		<item>Pakistan</item>
+		<item>Peru</item>
+		<item>Philippinen</item>
+		<item>Polen</item>
+		<item>Portugal</item>
+		<item>Katar</item>
+		<item>"Rumänien"</item>
+		<item>Russland</item>
+		<item>Saudi-Arabien</item>
 		<item>Serbien</item>
-		<item>Singapur </item>
-		<item>Slowakei </item>
-		<item>Slowenien </item>
-		<item>"Südafrika" </item>
-		<item>Spanien </item>
-		<item>Sri Lanka </item>
-		<item>Schweden </item>
-		<item>Schweiz </item>
-		<item>Taiwan </item>
-		<item>Tadschikistan </item>
+		<item>Singapur</item>
+		<item>Slowakei</item>
+		<item>Slowenien</item>
+		<item>"Südafrika"</item>
+		<item>Spanien</item>
+		<item>Sri Lanka</item>
+		<item>Schweden</item>
+		<item>Schweiz</item>
+		<item>Taiwan</item>
+		<item>Tadschikistan</item>
 		<item>Tansania</item>
-		<item>Thailand </item>
-		<item>Tunesien </item>
-		<item>"Türkei" </item>
-		<item>Ukraine </item>
-		<item>UAE </item>
-		<item>Britannien </item>
+		<item>Thailand</item>
+		<item>Tunesien</item>
+		<item>"Türkei"</item>
+		<item>Ukraine</item>
+		<item>UAE</item>
+		<item>Britannien</item>
 		<item>Vereinigte Staaten </item>
-		<item>Venezuela </item>
+		<item>Venezuela</item>
 		<item>Vietnam</item>
 	</string-array>
 	<string name="pref_delete_the_downloaded_podcast_file_after_being_played_">"Heruntergeladende Podcast-Datei automatisch löschen, nachdem sie abgespielt wurde."</string>
@@ -559,7 +559,7 @@
 	<string name="buy_me_a_coffee">"Spendiere mir einen Kaffee"</string>
 	<string name="clear_the_play_history_">"Wiedergabe-Verlauf löschen?"</string>
 	<string name="when_a_download_is_removed_due_to_the_keep_downloads_limit_has_been_reached">"Benachrichtigen, wenn ein Download entfernt wird, weil das Download-Limit erreicht wurde."</string>
-	<string name="keep_all">"Alle aufbewahren"</string>
+	<string name="keep_all">"Alle behalten"</string>
 	<string name="playlist">"Playlist"</string>
 	<string name="category">"Kategorie"</string>
 	<string name="update_podcasts_when_app_is_starting">"Podcasts beim Start der App aktualisieren."</string>
@@ -589,7 +589,7 @@
 	<string name="no_user_notes_found">"Keine Benutzernotizen gefunden."</string>
 	<string name="no_episode_description_found">"Keine Folgenbeschreibung gefunden."</string>
 	<string name="or">"Oder"</string>
-	<string name="up_next_list_has_been_updated_to_play_from_s">"\"Als Nächstes\" wurde von %s aktualisiert"</string>
+	<string name="up_next_list_has_been_updated_to_play_from_s">"\"Als Nächstes\" wurde von %s aktualisiert."</string>
 	<string name="do_a_full_syncing_will_take_much_longer_to_finish">"Die vollständige Synchronisierung dauert deutlich länger bis sie abgeschlossen ist."</string>
 	<string name="buy_me_a_coffee_message">"Wenn Dir die Podcast-Republic-App gefällt und Du die Entwicklung unterstützen möchtest, spendiere mir eine Tasse Kaffee. Vielen Dank!"</string>
 	<string name="maybe_later">"Vielleicht später"</string>
@@ -660,7 +660,7 @@
 	<string name="casting">"Casting"</string>
 	<string name="chapter_d">"Kapitel #%d"</string>
 	<string name="please_dont_close_the_app_when_it_is_restoring_the_data_it_will_restart_when_all_date_are_restored_">"Bitte schließe die App nicht, während Daten wiederhergestellt werden. Die App wird neu gestartet, wenn alle Daten wiederhergestellt sind."</string>
-	<string name="playback_paused_on_muted_volume_">"Wiedergabe pausiert bei stummgeschalteter Lautstärke!"</string>
+	<string name="playback_paused_on_muted_volume_">"Wiedergabe bei stummgeschalteter Lautstärke pausiert!"</string>
 	<string name="number_of_episodes_to_auto_download">"Anzahl der Folgen, die per automatischem Download heruntergeladen werden sollen"</string>
 	<string name="notify_when_new_episodes_are_available">Benachrichtigen, wenn neue Folgen verfügbar sind.</string>
 	<string name="com_parse_ui_progress_dialog_text">"Wird geladen…"</string>
@@ -913,8 +913,8 @@
 	<string name="search_by_podcast_title">"Podcast-Titel suchen"</string>
 	<string name="search_by_podcast_publisher">"Podcast-Herausgeber suchen"</string>
 	<string name="fade_audio_out_2_minutes_left">"Audio ausblenden (2 Min. vor Timer-Ende)"</string>
-	<string name="keep_all_articles">"Alle Artikel aufbewahren"</string>
-	<string name="keep_articles">"Artikel aufbewahren"</string>
+	<string name="keep_all_articles">"Alle Artikel behalten"</string>
+	<string name="keep_articles">"Artikel behalten"</string>
 	<string name="pref_download_location_select_prompt_message">"Du wirst zum Android-Dateimanager weitergeleitet. Bitte wähle ein Verzeichnis im internen Speicher oder auf der SD-Karte aus, das als Download-Speicherort verwendet werden soll."</string>
 	<string name="review_wifi_only_prompt_message">"Wusstest Du, dass diese App standardmäßig nur WLAN verwendet? Du kannst WLAN nur deaktivieren, wenn eine schnelle Datenverbindung besteht. Möchtest Du die Einstellungen für \"Nur WLAN\" überprüfen?"</string>
 	<string name="delete_virtual_podcast_file_from_storage_after_being_played">"Virtuelle Podcast-Datei nach der Wiedergabe aus dem Speicher löschen."</string>
@@ -1361,6 +1361,7 @@
 	<string name="add_ignored_word">Ignoriertes Wort hinzufügen</string>
 	<string name="experimental_features">Experimentelle Funktionen</string>
 	<string name="enable_audio_effects_equalizer_experimental_feature_message"><![CDATA[Audio-Effekte & Equalizer für heruntergeladene Podcasts aktivieren. Deaktiviere diese Funktion, wenn Probleme bei der Wiedergabe auftreten.]]></string>
-    <string name="pause_on_mute">Pause on mute</string>
-	<string name="pause_the_playback_automatically_when_the_volume_is_muted_">Pause the playback automatically when the volume is muted.</string>
+	<string name="pause_on_mute">Bei Stummschaltung pausieren</string>
+	<string name="pause_the_playback_automatically_when_the_volume_is_muted_">Die Wiedergabe automatisch pausieren, wenn die Lautstärke stummgeschaltet wird.</string>
 </resources>
+

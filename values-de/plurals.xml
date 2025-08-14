@@ -146,8 +146,8 @@
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Artikel des letzten Tages aufbewahren."</item>
-        <item quantity="other">"Artikel der letzten %d Tage aufbewahren."</item>
+        <item quantity="one">"Artikel des letzten Tages behalten."</item>
+        <item quantity="other">"Artikel der letzten %d Tage behalten."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
@@ -210,3 +210,4 @@
         <item quantity="other">"Artikel der letzten %d Tage auswählen."</item>
     </plurals>
 </resources>
+

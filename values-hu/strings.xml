@@ -1368,5 +1368,5 @@
     <string name="enable_audio_effects_equalizer_experimental_feature_message">Engedélyezi az audioeffektusokat és az Equalizer funkciót a letöltött podcastokhoz. Kapcsolja ki, ha lejátszási problémák merülnek fel.</string>
     <string name="pause_on_mute">Némításkor szünet</string>
     <string name="pause_the_playback_automatically_when_the_volume_is_muted_">A lejátszás automatikusan szünetel, ha a hangerő elnémul.</string>
-    <string name="export_playback_stats">Export playback stats</string>
+    <string name="export_playback_stats">Lejátszási statiszika exportálása</string>
 </resources>

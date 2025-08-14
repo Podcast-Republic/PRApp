@@ -1365,5 +1365,5 @@
     <string name="enable_audio_effects_equalizer_experimental_feature_message">Увімкнути аудіоефекти та еквалайзер для завантажених подкастів. Вимкніть цю функцію, якщо у вас виникнуть проблеми з відтворенням.</string>
     <string name="pause_on_mute">Призупиняти при вимкненні звуку</string>
     <string name="pause_the_playback_automatically_when_the_volume_is_muted_">Автоматично призупиняти відтворення, коли звук вимикається.</string>
-    <string name="export_playback_stats">Export playback stats</string>
+    <string name="export_playback_stats">Експортувати статистику відтворення</string>
 </resources>

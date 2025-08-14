@@ -1365,4 +1365,5 @@
     <string name="enable_audio_effects_equalizer_experimental_feature_message">Enable audio effects &amp; equalizer feature for downloaded podcasts. Turn this feature off if you encounter any playback issues.</string>
     <string name="pause_on_mute">Pause on mute</string>
     <string name="pause_the_playback_automatically_when_the_volume_is_muted_">Pause the playback automatically when the volume is muted.</string>
+    <string name="export_playback_stats">Export playback stats</string>
 </resources>

@@ -1367,4 +1367,5 @@
     <string name="enable_audio_effects_equalizer_experimental_feature_message">Povoliť zvukové efekty a ekvalizér pre stiahnuté podcasty. Túto funkciu vypnite, ak máte problémy pri prehrávaní.</string>
     <string name="pause_on_mute">Pozastaviť pri stlmení</string>
     <string name="pause_the_playback_automatically_when_the_volume_is_muted_">Automaticky pozastaviť prehrávanie pri stlmení hlasitosti.</string>
+    <string name="export_playback_stats">Export playback stats</string>
 </resources>

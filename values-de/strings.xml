@@ -635,8 +635,8 @@
 	<string name="display_playback_progress_in_notification_s">"Wiedergabefortschritt in der Benachrichtigung anzeigen: %s"</string>
 	<string name="you_have_subscribed_to_s">"Du hast %s abonniert."</string>
 	<string name="no_podcasts_found_n_please_press_the_add_button_to_add_a_podcast">"Kein Podcast gefunden! Bitte drücke den Button (+), um einen Podcast hinzuzufügen."</string>
-	<string name="add_a_youtube_channel_or_playlist_as_a_podcast">"YouTube-Kanal oder -Playlist als Podcast hinzufügen"</string>
-	<string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Richte einen virtuellen Podcast ein, um Musik oder Hörbücher auf Deinem Gerät abzuspielen"</string>
+	<string name="add_a_youtube_channel_or_playlist_as_a_podcast">"YouTube-Kanal oder -Playlist als Podcast hinzufügen."</string>
+	<string name="set_up_a_virtual_podcast_to_play_music_or_audiobooks_on_your_device">"Richte einen virtuellen Podcast ein, um Musik oder Hörbücher auf Deinem Gerät abzuspielen."</string>
 	<string name="click_to_adjust_playback_speed">"Klicken, um die Wiedergabegeschwindigkeit einzustellen"</string>
 	<string name="click_to_set_up_sleep_timer">"Klicken, um den Einschlaf-Timer einzustellen"</string>
 	<string name="click_to_select_playback_mode">"Klicken, um in den Wiedergabemodus zu wechseln"</string>
@@ -813,7 +813,7 @@
 	<string name="stop_playing_when_time_is_up">"Wiedergabe stoppen, wenn die Zeit abgelaufen ist."</string>
 	<string name="sleep_timer_fired_stop_playing_">"Einschlaf-Timer wurde ausgelöst, Wiedergabe angehalten!"</string>
 	<string name="play_all_from_new_to_old">"Alle abspielen, neueste zuerst"</string>
-	<string name="smart_update">"Intelligentes Update"</string>
+	<string name="smart_update">"Intelligente Aktualisierung"</string>
 	<string name="check_for_new_episodes_after_completing_the_newest_episode_in_the_podcast">"Nach neuen Folgen suchen, wenn neueste Folge im Podcast abgespielt wurde."</string>
 	<string name="click_on_the_tab_again_to_view_download_actions">"Klicke erneut auf die Registerkarte, um die Download-Aktionen anzuzeigen."</string>
 	<string name="remember_volume_level">"Lautstärkepegel merken"</string>
@@ -1287,7 +1287,7 @@
 	<string name="the_podcast_id_is_used_to_identify_this_virtual_podcast_across_all_devices">Die Podcast-ID wird verwendet, um diesen virtuellen Podcast auf allen Geräten zu identifizieren.</string>
 	<string name="virtual_podcasts_with_the_same_podcast_id_will_have_the_episode_states_synced">Für virtuelle Podcasts mit derselben Podcast-ID, wird der Folgenstatus synchronisiert.</string>
 	<string name="generate_a_new_podcast_id_if_you_are_setting_up_this_virtual_podcast_for_syncing_for_the_first_time">Erzeuge eine neue Podcast-ID, wenn der virtuelle Podcast zum ersten Mal für die Synchronisierung eingerichtet wird.</string>
-	<string name="enter_an_existing_podcast_id_to_link_this_virtual_podcast_to_an_existing_virtual_podcast">Gebe vorhandene Podcast-ID ein, um den virtuellen Podcast mit einem bestehenden virtuellen Podcast zu verknüpfen.</string>
+	<string name="enter_an_existing_podcast_id_to_link_this_virtual_podcast_to_an_existing_virtual_podcast">Gebe eine vorhandene Podcast-ID ein, um den virtuellen Podcast mit einem bestehenden virtuellen Podcast zu verknüpfen.</string>
 	<string name="generate_id">ID generieren</string>
 	<string name="remove_id">ID entfernen</string>
 	<string name="error_invalid_podcast_id_podcast_id_can_contain_only_alphabets_and_digits">Fehler: Ungültige Podcast-ID! Eine Podcast-ID kann nur Buchstaben und Ziffern enthalten.</string>
@@ -1365,3 +1365,4 @@
 	<string name="pause_the_playback_automatically_when_the_volume_is_muted_">Die Wiedergabe automatisch pausieren, wenn die Lautstärke stummgeschaltet wird.</string>
 	<string name="export_playback_stats">Statistiken exportieren</string>
 </resources>
+

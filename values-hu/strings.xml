@@ -1354,7 +1354,7 @@
     <string name="up_next_list_updated">A \"Következő\" lista frissült</string>
     <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Értesítés, ha a \"Következő\" lista frissült új epizódlistára vagy lejátszási listára.</string>
     <string name="run_episode_filter">Epizódszűrő futtatása</string>
-    <string name="send_to_watch">Küldés órára</string>
+    <string name="send_to_smart_watch">Küldés órára</string>
     <string name="podcast_has_been_sent_to_the_watch_">A podcast küldésre került az órára!</string>
     <string name="save_current_settings_as_template">Jelenlegi beállítások mentése sablonként</string>
     <string name="load_settings_from_template">Beállítások betöltése sablonból</string>
@@ -1369,4 +1369,7 @@
     <string name="pause_on_mute">Némításkor szünet</string>
     <string name="pause_the_playback_automatically_when_the_volume_is_muted_">A lejátszás automatikusan szünetel, ha a hangerő elnémul.</string>
     <string name="export_playback_stats">Lejátszási statiszika exportálása</string>
+    <string name="smart_watch">Smart watch</string>
+    <string name="send_podcast_to_smart_watch_via_wifi">Send podcast to smart watch via WiFi</string>
+    <string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">Transfer downloaded podcast to your watch via WiFi for faster speed. Toggle this option to switch to Bluetooth connection instead.</string>
 </resources>

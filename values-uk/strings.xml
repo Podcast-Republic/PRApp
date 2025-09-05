@@ -1351,7 +1351,7 @@
     <string name="up_next_list_updated">Чергу оновлено</string>
     <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Сповіщати, коли чергу буде оновлено новими епізодами або списком відтворення.</string>
     <string name="run_episode_filter">Запустити фільтр епізодів</string>
-    <string name="send_to_watch">Відправити на годинник</string>
+    <string name="send_to_smart_watch">Відправити на годинник</string>
     <string name="podcast_has_been_sent_to_the_watch_">Подкаст було відправлено на годинник!</string>
     <string name="save_current_settings_as_template">Зберегти поточні налаштування як шаблон</string>
     <string name="load_settings_from_template">Застосувати налаштування з шаблону</string>
@@ -1366,4 +1366,7 @@
     <string name="pause_on_mute">Призупиняти при вимкненні звуку</string>
     <string name="pause_the_playback_automatically_when_the_volume_is_muted_">Автоматично призупиняти відтворення, коли звук вимикається.</string>
     <string name="export_playback_stats">Експортувати статистику відтворення</string>
+    <string name="smart_watch">Smart watch</string>
+    <string name="send_podcast_to_smart_watch_via_wifi">Send podcast to smart watch via WiFi</string>
+    <string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">Transfer downloaded podcast to your watch via WiFi for faster speed. Toggle this option to switch to Bluetooth connection instead.</string>
 </resources>

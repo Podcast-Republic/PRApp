@@ -1366,7 +1366,7 @@
     <string name="pause_on_mute">Призупиняти при вимкненні звуку</string>
     <string name="pause_the_playback_automatically_when_the_volume_is_muted_">Автоматично призупиняти відтворення, коли звук вимикається.</string>
     <string name="export_playback_stats">Експортувати статистику відтворення</string>
-    <string name="smart_watch">Smart watch</string>
-    <string name="send_podcast_to_smart_watch_via_wifi">Send podcast to smart watch via WiFi</string>
-    <string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">Transfer downloaded podcast to your watch via WiFi for faster speed. Toggle this option to switch to Bluetooth connection instead.</string>
+    <string name="smart_watch">Смарт-годинник</string>
+    <string name="send_podcast_to_smart_watch_via_wifi">Надсилати подкаст на смарт-годинник через Wi-Fi</string>
+    <string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">Передавати завантажений подкаст на годинник через Wi-Fi для підвищення швидкості. Вимкніть цю опцію, щоб переключитися на Bluetooth-з'єднання.</string>
 </resources>

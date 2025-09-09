@@ -1372,4 +1372,16 @@
     <string name="smart_watch">Okosóra</string>
     <string name="send_podcast_to_smart_watch_via_wifi">Podcast küldés okosórára WiFi-n</string>
     <string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">A letöltött podcastot WiFi-n keresztül továbbíthatja az órájára a gyorsabb sebesség érdekében. Kapcsolja ki ezt az opciót, ha Bluetooth-kapcsolatra szeretne váltani.</string>
+    <string name="network_proxy">Proxy</string>
+    <string name="set_a_network_proxy_">Set a network proxy.</string>
+    <string name="no_proxy">No proxy</string>
+    <string name="network">Network</string>
+    <string name="network_proxy_type">Type</string>
+    <string name="network_proxy_host">Host</string>
+    <string name="network_proxy_port">Port</string>
+    <string name="network_proxy_test_connection">Test connection</string>
+    <string name="proxy_connection_successful_">Proxy connection successful!</string>
+    <string name="proxy_connection_failed_">Proxy connection failed.</string>
+    <string name="save">Save</string>
+    <string name="save_the_changes_">Save the changes?</string>
 </resources>

@@ -1253,7 +1253,7 @@
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
-    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
+    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
     <string name="reverse_portrait_screen_display_mode">Fordított álló</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
@@ -1373,15 +1373,15 @@
     <string name="send_podcast_to_smart_watch_via_wifi">Podcast küldés okosórára WiFi-n</string>
     <string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">A letöltött podcastot WiFi-n keresztül továbbíthatja az órájára a gyorsabb sebesség érdekében. Kapcsolja ki ezt az opciót, ha Bluetooth-kapcsolatra szeretne váltani.</string>
     <string name="network_proxy">Proxy</string>
-    <string name="set_a_network_proxy_">Set a network proxy.</string>
-    <string name="no_proxy">No proxy</string>
-    <string name="network">Network</string>
-    <string name="network_proxy_type">Type</string>
+    <string name="set_a_network_proxy_">Proxy beállítása.</string>
+    <string name="no_proxy">Nincs proxy</string>
+    <string name="network">Hálózat</string>
+    <string name="network_proxy_type">Típus</string>
     <string name="network_proxy_host">Host</string>
     <string name="network_proxy_port">Port</string>
-    <string name="network_proxy_test_connection">Test connection</string>
-    <string name="proxy_connection_successful_">Proxy connection successful!</string>
-    <string name="proxy_connection_failed_">Proxy connection failed.</string>
-    <string name="save">Save</string>
-    <string name="save_the_changes_">Save the changes?</string>
+    <string name="network_proxy_test_connection">Kapcsolat ellenőrzése</string>
+    <string name="proxy_connection_successful_">Proxy kapcsolat sikeres!</string>
+    <string name="proxy_connection_failed_">Proxy kapcsolat hiba.</string>
+    <string name="save">Mentés</string>
+    <string name="save_the_changes_">Menti a változásokat?</string>
 </resources>

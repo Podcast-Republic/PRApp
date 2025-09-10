@@ -1366,7 +1366,7 @@
 	<string name="export_playback_stats">Statistiken exportieren</string>
 	<string name="smart_watch">Smartwatch</string>
 	<string name="send_podcast_to_smart_watch_via_wifi">Podcast über WLAN an Smartwatch senden</string>
-	<string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">Heruntergeladenen Podcast für eine schnellere Geschwindigkeit per WLAN übertragen. Aktiviere diese Einstellung, um stattdessen zur Bluetooth-Verbindung zu wechseln.</string>
+	<string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">Heruntergeladenen Podcast für eine schnellere Übertragung per WLAN senden. Deaktiviere diese Einstellung, um stattdessen die Bluetooth-Verbindung zu verwenden.</string>
 	<string name="network_proxy">Proxy</string>
 	<string name="set_a_network_proxy_">Einen Netzwerk-Proxy einrichten.</string>
 	<string name="no_proxy">Kein Proxy</string>

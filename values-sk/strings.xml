@@ -1372,15 +1372,15 @@
     <string name="send_podcast_to_smart_watch_via_wifi">Odoslať podcast do Inteligentných hodiniek cez Wi-Fi</string>
     <string name="transfer_downloaded_podcast_to_your_watch_via_wifi_for_faster_speed_toggle_this_option_to_switch_to_bluetooth_connection_instead">Preneste stiahnutý podcast do hodiniek cez Wi-Fi, dosiahnete tým vyššiu rýchlosť. Prepnutím tejto možnosti prejdete na pripojenie cez Bluetooth.</string>
     <string name="network_proxy">Proxy</string>
-    <string name="set_a_network_proxy_">Set a network proxy.</string>
-    <string name="no_proxy">No proxy</string>
-    <string name="network">Network</string>
-    <string name="network_proxy_type">Type</string>
-    <string name="network_proxy_host">Host</string>
+    <string name="set_a_network_proxy_">Nastaviť sieťový proxy server.</string>
+    <string name="no_proxy">Bez proxy server</string>
+    <string name="network">Sieť</string>
+    <string name="network_proxy_type">Typ</string>
+    <string name="network_proxy_host">Hostiteľ</string>
     <string name="network_proxy_port">Port</string>
-    <string name="network_proxy_test_connection">Test connection</string>
-    <string name="proxy_connection_successful_">Proxy connection successful!</string>
-    <string name="proxy_connection_failed_">Proxy connection failed.</string>
-    <string name="save">Save</string>
-    <string name="save_the_changes_">Save the changes?</string>
+    <string name="network_proxy_test_connection">Test pripojenia</string>
+    <string name="proxy_connection_successful_">Pripojenie cez proxy server úspešné!</string>
+    <string name="proxy_connection_failed_">Pripojenie cez proxy server zlyhalo.</string>
+    <string name="save">Uložiť</string>
+    <string name="save_the_changes_">Uložiť zmeny?</string>
 </resources>

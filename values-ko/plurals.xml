@@ -1,212 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"청취 완료: %1$d 에피소드, %2$s"</item>
         <item quantity="other">"청취 완료: %1$d 에피소드, %2$s"</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d줄</item>
         <item quantity="other">%1$d줄</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">%1$d편의 최신 에피소드</item>
         <item quantity="other">%1$d편의 최근 에피소드</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">%1$d편의 최신 에피소드를 표시</item>
         <item quantity="other">%1$d편의 최근 에피소드를 표시</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">%1$d편의 에피소드를 재생 완료로 표시할까요?</item>
         <item quantity="other">%1$d편의 모든 에피소드를 재생 완료로 표시할까요?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">%1$d편의 에피소드를 미재생으로 표시할까요?</item>
         <item quantity="other">%1$d편의 모든 에피소드를 미재생으로 표시할까요?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">%1$d편의 팟캐스트를 재생 완료로 표시할까요?</item>
         <item quantity="other">%1$d편의 모든 팟캐스트를 재생 완료로 표시할까요?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">%1$d편의 피드를 읽은 것으로 표시할까요?</item>
         <item quantity="other">%1$d편의 모든 피드를 읽은 것으로 표시할까요?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">%1$d편의 아티클을 읽은 것으로 표시할까요?</item>
         <item quantity="other">%1$d편의 모든 아티클을 읽은 것으로 표시할까요?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">%1$d편의 아티클을 읽지 않음으로 표시할까요?</item>
         <item quantity="other">%1$d편의 모든 아티클을 읽지 않음으로 표시할까요?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">현재 재생 중인 팟캐스트에서 %1$d편의 최신 미재생 에피소드를 자동으로 다운로드</item>
         <item quantity="other">현재 재생 중인 팟캐스트에서 %1$d편의 최근 미재생 에피소드를 자동으로 다운로드</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">현재 재생 중인 팟캐스트에서 %1$d편의 이전 미재생 에피소드를 자동으로 다운로드</item>
         <item quantity="other">현재 재생 중인 팟캐스트에서 %1$d편의 이전 미재생 에피소드를 자동으로 다운로드</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">새 에피소드가 검색되면 %1$d편의 최신 에피소드를 자동으로 다운로드</item>
         <item quantity="other">새 에피소드가 검색되면 %1$d편의 최근 에피소드를 자동으로 다운로드</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">제목을 최대 %1$d줄까지 표시</item>
         <item quantity="other">제목을 최대 %1$d줄까지 표시</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">1편의 에피소드가 재생 목록에 추가되었습니다.</item>
         <item quantity="other">%1$d편의 에피소드가 재생 목록에 추가되었습니다.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">1편의 에피소드가 다운로드 목록에 추가되었습니다.</item>
         <item quantity="other">%1$d편의 에피소드가 다운로드 목록에 추가되었습니다.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"매일 자동 백업을 예약"</item>
         <item quantity="other">"%1$d일마다 자동 백업을 예약"</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"가장 최근 %1$d개의 자동 백업을 유지"</item>
         <item quantity="other">"가장 최근 %1$d개의 자동 백업을 유지"</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d분"</item>
         <item quantity="other">"%1$d분"</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"%1$d분 이상"</item>
         <item quantity="other">"%1$d분 이상"</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"%1$d분 이하"</item>
         <item quantity="other">"%1$d분 이하"</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">%1$d분 후</item>
         <item quantity="other">%1$d분 후</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">%1$d분 연장</item>
         <item quantity="other">%1$d분 연장</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">%d편의 에피소드를 다운로드할까요?</item>
         <item quantity="other">%d편의 모든 에피소드를 다운로드할까요?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">%1$d편의 에피소드를 다음 재생 목록에 추가할까요?</item>
         <item quantity="other">%1$d편의 모든 에피소드를 다음 재생 목록에 추가할까요?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">%1$d편의 에피소드를 재생 목록에 추가할까요?</item>
         <item quantity="other">%1$d편의 모든 에피소드를 재생 목록에 추가할까요?</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">각 팟캐스트의 최신 %1$d편 다운로드를 유지</item>
         <item quantity="other">각 팟캐스트의 최근 %1$d편 다운로드를 유지</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">이 팟캐스트의 최신 %1$d편 다운로드를 유지</item>
         <item quantity="other">이 팟캐스트의 최근 %1$d편 다운로드를 유지</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">새 에피소드가 검색되면 최신 에피소드 이전의 모든 에피소드를 재생 완료로 표시</item>
         <item quantity="other">새 에피소드가 검색되면 최근 %1$d편의 에피소드 이전의 모든 에피소드를 재생 완료로 표시</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">%1$d일 동안의 아티클을 유지</item>
         <item quantity="other">%1$d일 동안의 아티클을 유지</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">되감기 시간: %1$d초</item>
         <item quantity="other">되감기 시간: %1$d초</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">되감기 시간: %1$d초</item>
         <item quantity="other">되감기 시간: %1$d초</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">%1$d분 이상의 에피소드를 선택</item>
         <item quantity="other">%1$d분 이상의 에피소드를 선택</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">%1$d분 이하의 에피소드를 선택</item>
         <item quantity="other">%1$d분 이하의 에피소드를 선택</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">지난 %1$d일 동안의 에피소드를 선택</item>
         <item quantity="other">지난 %1$d일 동안의 에피소드를 선택</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">처음 %1$d초 건너뛰기</item>
         <item quantity="other">처음 %1$d초 건너뛰기</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">마지막 %1$d초 건너뛰기</item>
         <item quantity="other">마지막 %1$d초 건너뛰기</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">에피소드의 재생 시간이 %d분 이상이면 다운로드</item>
         <item quantity="other">에피소드의 재생 시간이 %d분 이상이면 다운로드</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">에피소드의 재생 시간이 %d분 이하이면 다운로드</item>
         <item quantity="other">에피소드의 재생 시간이 %d분 이하이면 다운로드</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">에피소드의 재생 시간이 %d분 이상이면 다운로드 안함</item>
         <item quantity="other">에피소드의 재생 시간이 %d분 이상이면 다운로드 안함</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">에피소드의 재생 시간이 %d분 이하이면 다운로드 안함</item>
         <item quantity="other">에피소드의 재생 시간이 %d분 이하이면 다운로드 안함</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">지난 %1$d일 동안의 아티클을 선택</item>
         <item quantity="other">지난 %1$d일 동안의 아티클을 선택</item>
+    </plurals>
+
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
+        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
     </plurals>
 </resources>

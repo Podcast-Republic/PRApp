@@ -1381,6 +1381,6 @@
     <string name="proxy_connection_failed_">Підключення через проксі не вдалося.</string>
     <string name="save">Зберегти</string>
     <string name="save_the_changes_">Зберегти зміни?</string>
-    <string name="keep_episodes">Keep episodes</string>
-    <string name="keep_all_episodes">Keep all episodes</string>
+    <string name="keep_episodes">Зберігати епізоди</string>
+    <string name="keep_all_episodes">Зберігати всі епізоди</string>
 </resources>

@@ -1380,4 +1380,6 @@
     <string name="proxy_connection_failed_">Proxy connection failed.</string>
     <string name="save">Save</string>
     <string name="save_the_changes_">Save the changes?</string>
+    <string name="keep_episodes">Keep episodes</string>
+    <string name="keep_all_episodes">Keep all episodes</string>
 </resources>

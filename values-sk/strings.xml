@@ -1383,4 +1383,6 @@
     <string name="proxy_connection_failed_">Pripojenie cez proxy server zlyhalo.</string>
     <string name="save">Uložiť</string>
     <string name="save_the_changes_">Uložiť zmeny?</string>
+    <string name="keep_episodes">Keep episodes</string>
+    <string name="keep_all_episodes">Keep all episodes</string>
 </resources>

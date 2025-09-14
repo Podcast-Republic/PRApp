@@ -1379,4 +1379,6 @@
 	<string name="proxy_connection_failed_">Proxy-Verbindung fehlgeschlagen.</string>
 	<string name="save">Speichern</string>
 	<string name="save_the_changes_">Änderungen speichern?</string>
+    <string name="keep_episodes">Keep episodes</string>
+	<string name="keep_all_episodes">Keep all episodes</string>
 </resources>

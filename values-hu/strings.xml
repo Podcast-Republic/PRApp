@@ -1253,7 +1253,7 @@
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
-    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése</string>
+    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
     <string name="reverse_portrait_screen_display_mode">Fordított álló</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
@@ -1384,4 +1384,6 @@
     <string name="proxy_connection_failed_">Proxy kapcsolat hiba.</string>
     <string name="save">Mentés</string>
     <string name="save_the_changes_">Menti a változásokat?</string>
+    <string name="keep_episodes">Epizódok megtartása</string>
+    <string name="keep_all_episodes">Összes epizód megtartása</string>
 </resources>

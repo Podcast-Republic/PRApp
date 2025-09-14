@@ -1384,6 +1384,6 @@
     <string name="proxy_connection_failed_">Proxy kapcsolat hiba.</string>
     <string name="save">Mentés</string>
     <string name="save_the_changes_">Menti a változásokat?</string>
-    <string name="keep_episodes">Keep episodes</string>
-    <string name="keep_all_episodes">Keep all episodes</string>
+    <string name="keep_episodes">Epizódok megtartása</string>
+    <string name="keep_all_episodes">Összes epizód megtartása</string>
 </resources>

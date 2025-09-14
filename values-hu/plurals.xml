@@ -211,8 +211,8 @@
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"Tartsa meg az utolsó hozzáadott epizódot a podcastból."</item>
-        <item quantity="other">"Tartsa meg az utolsó %1$d hozzáadott epizódot a podcastból."</item>
+        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
+        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
     </plurals>
 
 </resources>

@@ -1390,4 +1390,5 @@
     <string name="save_the_changes_">Save the changes?</string>
     <string name="keep_episodes">Keep episodes</string>
     <string name="keep_all_episodes">Keep all episodes</string>
+    <string name="after_current_chapter_ends">After current chapter ends</string>
 </resources>

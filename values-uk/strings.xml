@@ -1383,4 +1383,5 @@
     <string name="save_the_changes_">Зберегти зміни?</string>
     <string name="keep_episodes">Зберігати епізоди</string>
     <string name="keep_all_episodes">Зберігати всі епізоди</string>
+    <string name="after_current_chapter_ends">After current chapter ends</string>
 </resources>

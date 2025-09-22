@@ -1381,5 +1381,6 @@
 	<string name="save_the_changes_">Änderungen speichern?</string>
 	<string name="keep_episodes">Folgen behalten</string>
 	<string name="keep_all_episodes">Alle Folgen behalten</string>
+    <string name="after_current_chapter_ends">After current chapter ends</string>
 
 </resources>

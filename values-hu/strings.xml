@@ -1387,7 +1387,7 @@
     <string name="keep_episodes">Epizódok megtartása</string>
     <string name="keep_all_episodes">Összes epizód megtartása</string>
     <string name="after_current_chapter_ends">A jelenlegi fejezet végén</string>
-    <string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Disable the sleep timer temporarily when using Android Auto.</string>
-    <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
-    <string name="disable_sleep_timer">Disable sleep timer</string>
+    <string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Android Auto használata közben átmenetileg tiltsa le az alvó üzemmódot.</string>
+    <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Android Auto használata közben az alvóüzemmód ideiglenesen kikapcsol.</string>
+    <string name="disable_sleep_timer">Alvó időzítő letiltása</string>
 </resources>

@@ -1249,11 +1249,11 @@
     <string name="mark_all_articles_published_after_this_article_s_as_unread_">A [%1$s] cikk után megjelent összes cikk megjelölése olvasatlannak?</string>
     <string name="show_empty_podcasts">Meghallgatott podcastok megjelenítése</string>
     <string name="show_empty_feeds">Olvasott hírcsatornák megjelenítése</string>
-    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet</string>
+    <string name="select_your_preferred_language_to_be_used_within_the_app_">Itt adhatja meg az alkalmazáson belül használni kívánt nyelvet.</string>
     <string name="term_and_privacy_policy">"Feltételek/Adatvédelmi szabályok"</string>
     <string name="import_from_opml_file_failed_s">Az OPML fájlból történő importálás sikertelen: %1$s.</string>
     <string name="play_previous_episode_or_station">Előző epizód/állomás lejátszása</string>
-    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése</string>
+    <string name="show_play_previous_episode_station_button_">Előző epizód/állomás lejátszása gomb megjelenítése.</string>
     <string name="play_next_episode_station">Következő epizód/állomás lejátszása</string>
     <string name="reverse_portrait_screen_display_mode">Fordított álló</string>
     <string name="clear_cache">Gyorsítótár törlése</string>
@@ -1352,7 +1352,7 @@
     <string name="notify_when_new_articles_are_available">Értesítés új cikkek elérhetőségéről.</string>
     <string name="undo_last_jump">Utolsó ugrás visszavonása</string>
     <string name="up_next_list_updated">A \"Következő\" lista frissült</string>
-    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Értesítés, ha a \"Következő\" lista frissült új epizódlistára vagy lejátszási listára</string>
+    <string name="notify_when_the_up_next_list_gets_updated_to_new_episode_list_or_playlist">Értesítés, ha a \"Következő\" lista frissült új epizódlistára vagy lejátszási listára.</string>
     <string name="run_episode_filter">Epizódszűrő futtatása</string>
     <string name="send_to_smart_watch">Küldés órára</string>
     <string name="podcast_has_been_sent_to_the_watch_">A podcast küldésre került az órára!</string>
@@ -1365,9 +1365,9 @@
     <string name="ignored_words">Ignorált szavak</string>
     <string name="add_ignored_word">Ignorált szó hozzáadása</string>
     <string name="experimental_features">Kísérleti funkciók</string>
-    <string name="enable_audio_effects_equalizer_experimental_feature_message">Engedélyezi az audioeffektusokat és az Equalizer funkciót a letöltött podcastokhoz. Kapcsolja ki, ha lejátszási problémák merülnek fel</string>
+    <string name="enable_audio_effects_equalizer_experimental_feature_message">Engedélyezi az audioeffektusokat és az Equalizer funkciót a letöltött podcastokhoz. Kapcsolja ki, ha lejátszási problémák merülnek fel.</string>
     <string name="pause_on_mute">Némításkor szünet</string>
-    <string name="pause_the_playback_automatically_when_the_volume_is_muted_">A lejátszás automatikusan szünetel, ha a hangerő elnémul</string>
+    <string name="pause_the_playback_automatically_when_the_volume_is_muted_">A lejátszás automatikusan szünetel, ha a hangerő elnémul.</string>
     <string name="export_playback_stats">Lejátszási statisztika exportálása</string>
     <string name="smart_watch">Okosóra</string>
     <string name="send_podcast_to_smart_watch_via_wifi">Podcast küldés okosórára WiFi-n</string>
@@ -1387,4 +1387,7 @@
     <string name="keep_episodes">Epizódok megtartása</string>
     <string name="keep_all_episodes">Összes epizód megtartása</string>
     <string name="after_current_chapter_ends">A jelenlegi fejezet végén</string>
+    <string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Disable the sleep timer temporarily when using Android Auto.</string>
+    <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
+    <string name="disable_sleep_timer">Disable sleep timer</string>
 </resources>

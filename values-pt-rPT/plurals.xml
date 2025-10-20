@@ -253,9 +253,9 @@
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one" tools:ignore="ImpliedQuantity">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="many">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Manter o último episódio adicionado do mesmo podcast."</item>
+        <item quantity="many">"Manter os últimos %1$d episódios do mesmo podcast."</item>
+        <item quantity="other">"Manter os últimos %1$d episódios do mesmo podcast."</item>
     </plurals>
 
 </resources>

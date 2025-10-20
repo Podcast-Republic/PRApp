@@ -1386,4 +1386,7 @@
     <string name="keep_episodes">Ponechať epizódy</string>
     <string name="keep_all_episodes">Ponechať všetky epizódy</string>
     <string name="after_current_chapter_ends">Po skončení aktuálnej kapitoly</string>
+    <string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Disable the sleep timer temporarily when using Android Auto.</string>
+    <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
+    <string name="disable_sleep_timer">Disable sleep timer</string>
 </resources>

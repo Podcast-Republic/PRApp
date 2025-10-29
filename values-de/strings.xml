@@ -1385,5 +1385,6 @@
 	<string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Einschlaf-Timer vorübergehend deaktivieren, wenn Android Auto verwendet wird.</string>
 	<string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Einschlaf-Timer ist während der Verwendung von Android Auto vorübergehend deaktiviert.</string>
 	<string name="disable_sleep_timer">Einschlaf-Timer deaktivieren</string>
+    <string name="transcript">Transcript</string>
 
 </resources>

@@ -1390,4 +1390,5 @@
     <string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Android Auto használata közben átmenetileg tiltsa le az alvó üzemmódot.</string>
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Android Auto használata közben az alvóüzemmód ideiglenesen kikapcsol.</string>
     <string name="disable_sleep_timer">Alvó időzítő letiltása</string>
+    <string name="transcript">Transcript</string>
 </resources>

@@ -1389,5 +1389,5 @@
     <string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Dočasne vypnúť časovač vypnutia počas používania Android Auto.</string>
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Časovač vypnutia je dočasne vypnutý počas používania Android Auto.</string>
     <string name="disable_sleep_timer">Zakázať časovač vypnutia</string>
-    <string name="transcript">Transcript</string>
+    <string name="transcript">Prepis</string>
 </resources>

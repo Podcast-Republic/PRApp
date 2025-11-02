@@ -1387,5 +1387,5 @@
     <string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Тимчасово вимкнути таймер сну під час використання Android Auto.</string>
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Таймер сну тимчасово вимкнений під час використання Android Auto.</string>
     <string name="disable_sleep_timer">Вимкнути таймер сну</string>
-    <string name="transcript">Transcript</string>
+    <string name="transcript">Розшифровка</string>
 </resources>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <plurals name="you_ve_listened_b_d_s_b">
+        <item quantity="one">"Έχετε ακούσει: %1$d επεισόδιο, %2$s."</item>
+        <item quantity="other">"Έχετε ακούσει: %1$d επεισόδια, %2$s."</item>
+    </plurals>
+
+    <plurals name="d_lines_of_text">
+        <item quantity="one">%1$d γραμμή</item>
+        <item quantity="other">%1$d γραμμές</item>
+    </plurals>
+
+    <plurals name="latest_d_episodes">
+        <item quantity="one">Τελευταίο %1$d επεισόδιο.</item>
+        <item quantity="other">Τελευταία %1$d επεισόδια.</item>
+    </plurals>
+
+    <plurals name="display_latest_d_episodes">
+        <item quantity="one">Εμφάνιση %1$d τελευταίου επεισοδίου.</item>
+        <item quantity="other">Εμφάνιση τελευταίων %1$d επεισοδίων.</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_played">
+        <item quantity="one">Επισήμανση %1$d επεισοδίου ως παιγμένο;</item>
+        <item
+            quantity="other"
+        >Επισήμανση και των %1$d επεισοδίων ως παιγμένα;</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_unplayed">
+        <item quantity="one">Επισήμανση %1$d επεισοδίου ως μη παιγμένο;</item>
+        <item
+            quantity="other"
+        >Επισήμανση και των %1$d επεισοδίων ως μη παιγμένα;</item>
+    </plurals>
+
+    <plurals name="mark_all_d_podcasts_as_played">
+        <item quantity="one">Επισήμανση %1$d podcast ως παιγμένο;</item>
+        <item
+            quantity="other"
+        >Επισήμανση και των %1$d podcasts ως παιγμένα;</item>
+    </plurals>
+
+    <plurals name="mark_all_d_rss_feeds_as_read">
+        <item quantity="one">Επισήμανση %1$d ροής ως αναγνωσμένη;</item>
+        <item
+            quantity="other"
+        >Επισήμανση και των %1$d ροών ως αναγνωσμένες;</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_read">
+        <item quantity="one">Επισήμανση %1$d άρθρου ως αναγνωσμένου;</item>
+        <item
+            quantity="other"
+        >Επισήμανση και των %1$d άρθρων ως αναγνωσμένων;</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="one">Επισήμανση %1$d άρθρου ως μη αναγνωσμένου;</item>
+        <item
+            quantity="other"
+        >Επισήμανση και των %1$d άρθρων ως μη αναγνωσμένων;</item>
+    </plurals>
+
+    <plurals
+        name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast"
+    >
+        <item
+            quantity="one"
+        >Αυτόματη λήψη έως %1$d νεότερου και μη παιγμένου επεισοδίου από το τρέχον αναπαραγόμενο podcast.</item>
+        <item
+            quantity="other"
+        >Αυτόματη λήψη έως %1$d νεότερων και μη παιγμένων επεισοδίων από το τρέχον αναπαραγόμενο podcast.</item>
+    </plurals>
+
+    <plurals
+        name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast"
+    >
+        <item
+            quantity="one"
+        >Αυτόματη λήψη έως %1$d παλαιότερου και μη παιγμένου επεισοδίου από το τρέχον αναπαραγόμενο podcast.</item>
+        <item
+            quantity="other"
+        >Αυτόματη λήψη έως %1$d παλαιότερων και μη παιγμένων επεισοδίων από το τρέχον αναπαραγόμενο podcast.</item>
+    </plurals>
+
+    <plurals
+        name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved"
+    >
+        <item
+            quantity="one"
+        >Αυτόματη λήψη έως %1$d πιο πρόσφατου επεισοδίου όταν εντοπίζονται νέα επεισόδια.</item>
+        <item
+            quantity="other"
+        >Αυτόματη λήψη έως %1$d πιο πρόσφατων επεισοδίων όταν εντοπίζονται νέα επεισόδια.</item>
+    </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">Εμφάνιση το πολύ %1$d γραμμής τίτλου.</item>
+        <item quantity="other">Εμφάνιση το πολύ %1$d γραμμών τίτλου.</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlists">
+        <item
+            quantity="one"
+        >Ένα επεισόδιο προστέθηκε στις λίστες αναπαραγωγής.</item>
+        <item
+            quantity="other"
+        >%1$d επεισόδια προστέθηκαν στις λίστες αναπαραγωγής.</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">Ένα επεισόδιο προστέθηκε στις λήψεις.</item>
+        <item quantity="other">%1$d επεισόδια προστέθηκαν στις λήψεις.</item>
+    </plurals>
+
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item
+            quantity="one"
+        >Προγραμματισμός αυτόματου αντιγράφου ασφαλείας κάθε μέρα.</item>
+        <item
+            quantity="other"
+        >Προγραμματισμός αυτόματου αντιγράφου ασφαλείας κάθε %1$d ημέρες.</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item
+            quantity="one"
+        >Διατήρηση του πιο πρόσφατου %1$d αυτόματου αντιγράφου ασφαλείας.</item>
+        <item
+            quantity="other"
+        >Διατήρηση των %1$d πιο πρόσφατων αυτόματων αντιγράφων ασφαλείας.</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d λεπτό"</item>
+        <item quantity="other">"%1$d λεπτά"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"&gt; %1$d λεπτό."</item>
+        <item quantity="other">"&gt; %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"&lt; %1$d λεπτό."</item>
+        <item quantity="other">"&lt; %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"Μετά από %1$d λεπτό"</item>
+        <item quantity="other">"Μετά από %1$d λεπτά"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"Επέκταση %1$d λεπτό"</item>
+        <item quantity="other">"Επέκταση %1$d λεπτά"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"Λήψη %1$d επεισοδίου;"</item>
+        <item quantity="other">"Λήψη και των %1$d επεισοδίων;"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"Προσθήκη ενός επεισοδίου στα Επόμενα;"</item>
+        <item
+            quantity="other"
+        >"Προσθήκη όλων των %1$d επεισοδίων στα Επόμενα;"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item
+            quantity="one"
+        >"Προσθήκη ενός επεισοδίου στη λίστα αναπαραγωγής;"</item>
+        <item
+            quantity="other"
+        >"Προσθήκη όλων των %1$d επεισοδίων στη λίστα αναπαραγωγής;"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item
+            quantity="one"
+        >"Διατήρηση της πιο πρόσφατης λήψης για κάθε podcast."</item>
+        <item
+            quantity="other"
+        >"Διατήρηση των %1$d πιο πρόσφατων λήψεων για κάθε podcast."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item
+            quantity="one"
+        >"Διατήρηση της πιο πρόσφατης λήψης αυτού του podcast."</item>
+        <item
+            quantity="other"
+        >"Διατήρηση των %1$d πιο πρόσφατων λήψεων αυτού του podcast."</item>
+    </plurals>
+
+    <plurals
+        name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_"
+    >
+        <item
+            quantity="one"
+        >"Επισήμανση όλων των επεισοδίων που είναι παλαιότερα από το τελευταίο επεισόδιο ως παιγμένα μετά την ανάκτηση νέων επεισοδίων."</item>
+        <item
+            quantity="other"
+        >"Επισήμανση όλων των επεισοδίων που είναι παλαιότερα από τα τελευταία %1$d επεισόδια ως παιγμένα μετά την ανάκτηση νέων επεισοδίων."</item>
+    </plurals>
+
+    <plurals name="keep_articles_from_last_d_days">
+        <item
+            quantity="one"
+        >"Διατήρηση άρθρων από την τελευταία %1$d ημέρα."</item>
+        <item
+            quantity="other"
+        >"Διατήρηση άρθρων από τις τελευταίες %1$d ημέρες."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item
+            quantity="one"
+        >"Ελάχιστος χρόνος επαναφοράς: %1$d δευτερόλεπτο."</item>
+        <item
+            quantity="other"
+        >"Ελάχιστος χρόνος επαναφοράς: %1$d δευτερόλεπτα."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item
+            quantity="one"
+        >"Μέγιστος χρόνος επαναφοράς: %1$d δευτερόλεπτο."</item>
+        <item
+            quantity="other"
+        >"Μέγιστος χρόνος επαναφοράς: %1$d δευτερόλεπτα."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item
+            quantity="one"
+        >"Επιλογή επεισοδίων με διάρκεια μεγαλύτερη από %1$d λεπτό."</item>
+        <item
+            quantity="other"
+        >"Επιλογή επεισοδίων με διάρκεια μεγαλύτερη από %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item
+            quantity="one"
+        >"Επιλογή επεισοδίων με διάρκεια μικρότερη από %1$d λεπτό."</item>
+        <item
+            quantity="other"
+        >"Επιλογή επεισοδίων με διάρκεια μικρότερη από %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item
+            quantity="one"
+        >"Επιλογή επεισοδίων από την τελευταία %1$d ημέρα."</item>
+        <item
+            quantity="other"
+        >"Επιλογή επεισοδίων από τις τελευταίες %1$d ημέρες."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"Παράλειψη των πρώτων %1$d δευτερολέπτου."</item>
+        <item quantity="other">"Παράλειψη των πρώτων %1$d δευτερολέπτων."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item
+            quantity="one"
+        >"Παράλειψη των τελευταίων %1$d δευτερολέπτου."</item>
+        <item
+            quantity="other"
+        >"Παράλειψη των τελευταίων %1$d δευτερολέπτων."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item
+            quantity="one"
+        >"Λήψη επεισοδίου αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτό."</item>
+        <item
+            quantity="other"
+        >"Λήψη επεισοδίου αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item
+            quantity="one"
+        >"Λήψη επεισοδίου αν η διάρκεια είναι μικρότερη από %1$d λεπτό."</item>
+        <item
+            quantity="other"
+        >"Λήψη επεισοδίου αν η διάρκεια είναι μικρότερη από %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals
+        name="dont_download_episode_if_duration_is_greater_than_d_minutes_"
+    >
+        <item
+            quantity="one"
+        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτό."</item>
+        <item
+            quantity="other"
+        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item
+            quantity="one"
+        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μικρότερη από %1$d λεπτό."</item>
+        <item
+            quantity="other"
+        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μικρότερη από %1$d λεπτά."</item>
+    </plurals>
+
+    <plurals name="select_articles_from_last_d_days">
+        <item
+            quantity="one"
+        >"Επιλογή άρθρων από την τελευταία %1$d ημέρα."</item>
+        <item
+            quantity="other"
+        >"Επιλογή άρθρων από τις τελευταίες %1$d ημέρες."</item>
+    </plurals>
+
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
+        <item
+            quantity="one"
+        >"Διατήρηση του τελευταίου προστιθέμενου επεισοδίου από το ίδιο podcast."</item>
+        <item
+            quantity="other"
+        >"Διατήρηση των τελευταίων %1$d προστιθέμενων επεισοδίων από το ίδιο podcast."</item>
+    </plurals>
+
+</resources>

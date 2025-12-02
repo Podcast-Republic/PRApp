@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"Έχετε ακούσει: %1$d επεισόδιο, %2$s."</item>
-        <item quantity="other">"Έχετε ακούσει: %1$d επεισόδια, %2$s."</item>
+        <item quantity="one">"Έχεις ακούσει: %1$d επεισόδιο, %2$s."</item>
+        <item quantity="other">"Έχεις ακούσει: %1$d επεισόδια, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
@@ -262,14 +262,14 @@
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Παράλειψη των πρώτων %1$d δευτερολέπτου."</item>
+        <item quantity="one">"Παράλειψη του πρώτου %1$d δευτερολέπτου."</item>
         <item quantity="other">"Παράλειψη των πρώτων %1$d δευτερολέπτων."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
         <item
             quantity="one"
-        >"Παράλειψη των τελευταίων %1$d δευτερολέπτου."</item>
+        >"Παράλειψη του τελευταίου %1$d δευτερολέπτου."</item>
         <item
             quantity="other"
         >"Παράλειψη των τελευταίων %1$d δευτερολέπτων."</item>
@@ -298,19 +298,19 @@
     >
         <item
             quantity="one"
-        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτό."</item>
+        >"Μην κατέβει το επεισόδιο αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτό."</item>
         <item
             quantity="other"
-        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτά."</item>
+        >"Μην κατέβει το επεισόδιο αν η διάρκεια είναι μεγαλύτερη από %1$d λεπτά."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
         <item
             quantity="one"
-        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μικρότερη από %1$d λεπτό."</item>
+        >"Μην κατέβει το επεισόδιο αν η διάρκεια είναι μικρότερη από %1$d λεπτό."</item>
         <item
             quantity="other"
-        >"Μην κατεβάζετε το επεισόδιο αν η διάρκεια είναι μικρότερη από %1$d λεπτά."</item>
+        >"Μην κατέβει το επεισόδιο αν η διάρκεια είναι μικρότερη από %1$d λεπτά."</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">

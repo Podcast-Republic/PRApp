@@ -183,7 +183,7 @@
 <string name="no_wifi_available">Δεν υπάρχει Wi-Fi!</string>
 <string name="tag">Ετικέτα</string>
 <string name="updating">Ενημερώνεται</string>
-<string name="preparing">Preparing…</string>
+<string name="preparing">Προετοιμασία…</string>
 <string name="error_no_wifi">Σφάλμα: Χωρίς Wi-Fi.</string>
 <string name="auto_download">Αυτόματη λήψη</string>
 <string name="playing">Παίζει</string>
@@ -292,7 +292,7 @@
 <string name="skip_beginning">Παράλειψη εισαγωγής</string>
 <string name="time_display_second_short_format">δλ</string>
 <string name="search_episodes">Αναζήτηση επεισοδίων</string>
-<string name="widgets">Widgets</string>
+<string name="widgets">Γραφικά στοιχεία</string>
 <string name="low">Χαμηλή</string>
 <string name="high">Υψηλή</string>
 <string name="gesture_sensitivity">Ευαισθησία χειρονομιών</string>
@@ -326,7 +326,7 @@
 <string name="backup">Αντ. ασφαλείας</string>
 <string
         name="restore_settings_database"
-    >Κάνε κλικ για να επαναφέρεις ρυθμίσεις &amp; βάση δεδομένων.</string>
+    >Κάνε κλικ για να επαναφέρεις τις ρυθμίσεις &amp; τη βάση δεδομένων.</string>
 <string name="restore">Επαναφορά</string>
 <string
         name="erase_data_and_restore_from_backup_"
@@ -604,10 +604,10 @@
 <string name="episodes_and_count">"Επεισόδια: %d"</string>
 <string
         name="episode_s_is_still_downloading_can_not_play_it"
-    >Το επεισόδιο [%1$s] εξακολουθεί να κατεβάζεται. Δεν μπορεί να αναπαραχθεί.</string>
+    >Το επεισόδιο [%1$s] εξακολουθεί να κατεβαίνει. Δεν μπορεί να αναπαραχθεί.</string>
 <string
         name="error_episode_still_downloading"
-    >Σφάλμα: το επεισόδιο εξακολουθεί να κατεβάζεται.</string>
+    >Σφάλμα: το επεισόδιο εξακολουθεί να κατεβαίνει.</string>
 <string name="disabled">Ανενεργό</string>
 <string
         name="click_to_open_full_screen_player_view"
@@ -641,16 +641,16 @@
 <string name="pull_to_refresh">Σύρε για ανανέωση</string>
 <string
         name="pull_down_the_playlist_to_start_podcast_update_checking"
-    >Τράβηξε προς τα κάτω τη λίστα αναπαραγωγής για να ξεκινήσει ο έλεγχος ενημέρωσης podcast.</string>
+    >Τράβα προς τα κάτω τη λίστα αναπαραγωγής για να ξεκινήσει ο έλεγχος ενημέρωσης podcast.</string>
 <string
         name="pull_down_download_list_to_start_podcast_update_checking"
-    >Τράβηξε προς τα κάτω τη λίστα λήψεων για να ξεκινήσει ο έλεγχος ενημέρωσης podcast.</string>
+    >Τράβα προς τα κάτω τη λίστα λήψεων για να ξεκινήσει ο έλεγχος ενημέρωσης podcast.</string>
 <string
         name="pull_down_podcasts_list_to_start_podcast_update_checking"
-    >Τράβηξε προς τα κάτω τη λίστα podcasts για να ξεκινήσει ο έλεγχος ενημέρωσης.</string>
+    >Τράβα προς τα κάτω τη λίστα podcasts για να ξεκινήσει ο έλεγχος ενημέρωσης.</string>
 <string
         name="pull_down_episodes_list_to_start_podcast_update_checking"
-    >Τράβηξε προς τα κάτω τη λίστα επεισοδίων για να ξεκινήσει ο έλεγχος ενημέρωσης podcast.</string>
+    >Τράβα προς τα κάτω τη λίστα επεισοδίων για να ξεκινήσει ο έλεγχος ενημέρωσης podcast.</string>
 <string name="auto_rotate_screen">Αυτόματη περιστροφή οθόνης</string>
 <string name="screen_orientation">Προσανατολισμός οθόνης</string>
 <string name="portrait">Κατακόρυφος</string>
@@ -796,7 +796,7 @@
     >Εκτέλεσε πλήρη συγχρονισμό. Θα πάρει πολύ περισσότερο χρόνο για να ολοκληρωθεί.</string>
 <string
         name="buy_me_a_coffee_message"
-    >Αν απολαμβάνεις τη χρήση της εφαρμογής Podcast Republic και θέλεις να υποστηρίξεις την ανάπτυξή της, μπορείς να με κεράσεις έναν καφέ. Ευχαριστώ!</string>
+    >Αν απολαμβάνεις τη χρήση της εφαρμογής Podcast Republic και θες να υποστηρίξεις την ανάπτυξή της, μπορείς να με κεράσεις έναν καφέ. Ευχαριστώ!</string>
 <string name="maybe_later">Ίσως αργότερα</string>
 <string name="sign_up">Εγγραφή</string>
 <string name="download_state_idle">Αναμονή για να ξεκινήσει η λήψη.</string>
@@ -1572,14 +1572,12 @@
     >Αυτόματη φόρτωση τελευταίου παιγμένου επεισοδίου</string>
 <string
         name="automatically_load_last_played_episode_in_the_playlist_into_now_playing"
-    >Αυτόματη φόρτωση του τελευταίου παιγμένου επεισοδίου στη λίστα αναπαραγωγής στο \'Παίζει Τώρα\'.</string>
-<string
-        name="delete_the_playlist_s"
-    >"Να διαγραφεί η λίστα αναπαραγωγής: %s?"</string>
-<string name="delete_the_tag_s">"Να διαγραφεί η ετικέτα: %s?"</string>
+    >Αυτόματη φόρτωση του τελευταίου παιγμένου επεισοδίου στη λίστα αναπαραγωγής στο Παίζει Τώρα.</string>
+<string name="delete_the_playlist_s">"Να διαγραφεί η playlist: %s;"</string>
+<string name="delete_the_tag_s">"Να διαγραφεί η ετικέτα: %s;"</string>
 <string
         name="delete_the_episode_filter_s"
-    >"Να διαγραφεί το φίλτρο επεισοδίων: %s?"</string>
+    >"Να διαγραφεί το φίλτρο επεισοδίων: %s;"</string>
 <string name="sleep_after">Ύπνος μετά</string>
 <string name="sleep_at_time">Ύπνος σε ώρα</string>
 <string name="export_episode_list">Εξαγωγή λίστας επεισοδίων</string>
@@ -1729,7 +1727,7 @@
 <string
         name="use_default_chapter_title"
     >Χρήση προεπιλεγμένου τίτλου κεφαλαίου.</string>
-<string name="grid_spacing">Διάκενο πλέγματος</string>
+<string name="grid_spacing">Απόσταση πλέγματος</string>
 <string
         name="downloads_can_not_be_used_as_download_directory_please_select_a_directory_on_internal_storage_or_sd_card"
     >Ο φάκελος 'Downloads' δεν μπορεί να χρησιμοποιηθεί ως κατάλογος λήψεων. Παρακαλώ επίλεξε έναν φάκελο στην εσωτερική αποθήκευση ή στην κάρτα SD.</string>

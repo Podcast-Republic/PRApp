@@ -347,7 +347,7 @@
     <string name="download_removed">다운로드 제거</string>
     <string name="load_artworks_only_when_connected_to_wifi">Wi-Fi에 연결된 경우에만 커버아트를 가져오기</string>
     <string name="load_artwork_via_wifi_only">Wi-Fi로만 커버아트 가져오기</string>
-    <string name="when_pressing_an_episode_in_list">목록에서 에피소드를 누를 때</string>
+    <string name="when_pressing_an_episode_in_the_list">목록에서 에피소드를 누를 때</string>
     <string name="start_playing">재생 시작</string>
     <string name="display_episode_artwork">에피소드 커버아트 표시</string>
     <string name="ringtone">벨소리</string>
@@ -1055,11 +1055,11 @@
     <string name="new_article_notification">새 아티클 알림</string>
     <string name="there_are_no_radio_stations_">라디오 방송국이 없습니다!</string>
     <string name="android_auto">안드로이드 오토</string>
-    <string name="display_podcasts_list">팟캐스트 목록 표시</string>
-    <string name="display_playlists_list">재생 목록 표시</string>
-    <string name="display_completed_downloads_list">완료된 다운로드 목록 표시</string>
-    <string name="display_episode_filters_list">에피소드 필터 목록 표시</string>
-    <string name="display_radio_stations_list">라디오 방송국 목록 표시</string>
+    <string name="display_the_podcasts_list">팟캐스트 목록 표시</string>
+    <string name="display_the_playlists_list">재생 목록 표시</string>
+    <string name="display_the_completed_downloads_list">완료된 다운로드 목록 표시</string>
+    <string name="display_the_episode_filters_list">에피소드 필터 목록 표시</string>
+    <string name="display_the_radio_stations_list">라디오 방송국 목록 표시</string>
     <string name="view_unplayed_episodes">미재생 에피소드 보기</string>
     <string name="view_downloaded_episodes">다운로드된 에피소드 보기</string>
     <string name="unreviewed">리뷰 전</string>
@@ -1227,8 +1227,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">가로 모드에서 읽을 때 텍스트 여백</string>
     <string name="default_margin_size">기본</string>
     <string name="popularity">인기</string>
-    <string name="display_up_next_list">자동 재생 목록 표시</string>
-    <string name="browse_up_next">자동 재생 목록 탐색</string>
+    <string name="display_the_up_next_list">자동 재생 목록 표시</string>
+    <string name="browse_the_up_next">자동 재생 목록 탐색</string>
     <string name="add_notes">노트 추가</string>
     <string name="display_options">표시 옵션</string>
     <string name="there_are_no_unread_articles_">읽지 않은 아티클이 없습니다.</string>

@@ -341,7 +341,7 @@
     <string name="download_removed">"Transferência removida"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Mostrar imagens apenas quando ligado via Wi-Fi"</string>
     <string name="load_artwork_via_wifi_only">"Mostrar imagens apenas via Wi-Fi"</string>
-    <string name="when_pressing_an_episode_in_list">"Ao pressionar episódio na playlist"</string>
+    <string name="when_pressing_an_episode_in_the_list">"Ao pressionar episódio na playlist"</string>
     <string name="start_playing">"Iniciar sempre a reprodução"</string>
     <string name="display_episode_artwork">"Mostrar imagem do episódio"</string>
     <string name="ringtone">"Tom de toque"</string>
@@ -1059,11 +1059,11 @@
     <string name="new_article_notification">Notificação de novo artigo</string>
     <string name="there_are_no_radio_stations_">Não existem estações de rádio!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">Mostrar lista de podcasts.</string>
-    <string name="display_playlists_list">Mostrar lista de playlists.</string>
-    <string name="display_completed_downloads_list">Mostrar lista dos downloads completados.</string>
-    <string name="display_episode_filters_list">Mostrar lista dos filtros de episódios.</string>
-    <string name="display_radio_stations_list">Mostrar lista das estações de rádio.</string>
+    <string name="display_the_podcasts_list">Mostrar lista de podcasts.</string>
+    <string name="display_the_playlists_list">Mostrar lista de playlists.</string>
+    <string name="display_the_completed_downloads_list">Mostrar lista dos downloads completados.</string>
+    <string name="display_the_episode_filters_list">Mostrar lista dos filtros de episódios.</string>
+    <string name="display_the_radio_stations_list">Mostrar lista das estações de rádio.</string>
     <string name="view_unplayed_episodes">Ver episódios por reproduzir</string>
     <string name="view_downloaded_episodes">Ver episódios transferidos</string>
     <string name="unreviewed">Não avaliado</string>
@@ -1223,8 +1223,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Margem do texto ao ler no modo paisagem.</string>
     <string name="default_margin_size">Padrão</string>
     <string name="popularity">Popularidade</string>
-    <string name="display_up_next_list">Exibir a próxima lista</string>
-    <string name="browse_up_next">Procurar a seguir</string>
+    <string name="display_the_up_next_list">Exibir a próxima lista</string>
+    <string name="browse_the_up_next">Procurar a seguir</string>
     <string name="add_notes">Adicionar notas</string>
     <string name="display_options">Opções de exibição</string>
     <string name="there_are_no_unread_articles_">Não há artigos não lidos.</string>

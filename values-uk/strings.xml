@@ -342,7 +342,7 @@
     <string name="download_removed">"Завантаження видалено"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Завантажувати обкладинку лише при з'єднанні з Wi-Fi"</string>
     <string name="load_artwork_via_wifi_only">"Завантажити обкладинку лише через Wi-Fi"</string>
-    <string name="when_pressing_an_episode_in_list">"При натисканні епізоду в списку"</string>
+    <string name="when_pressing_an_episode_in_the_list">"При натисканні епізоду в списку"</string>
     <string name="start_playing">"Одразу почати відтворення"</string>
     <string name="display_episode_artwork">"Показувати обкладинку епізоду"</string>
     <string name="ringtone">"Рінгтон"</string>
@@ -1059,11 +1059,11 @@
     <string name="new_article_notification">Сповіщення про нову статтю</string>
     <string name="there_are_no_radio_stations_">Немає радіостанцій!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">Показати список подкастів.</string>
-    <string name="display_playlists_list">Показати список плейлистів.</string>
-    <string name="display_completed_downloads_list">Показати список завершених завантажень.</string>
-    <string name="display_episode_filters_list">Показати список фільтрів епізодів.</string>
-    <string name="display_radio_stations_list">Показати список радіостанцій.</string>
+    <string name="display_the_podcasts_list">Показати список подкастів.</string>
+    <string name="display_the_playlists_list">Показати список плейлистів.</string>
+    <string name="display_the_completed_downloads_list">Показати список завершених завантажень.</string>
+    <string name="display_the_episode_filters_list">Показати список фільтрів епізодів.</string>
+    <string name="display_the_radio_stations_list">Показати список радіостанцій.</string>
     <string name="view_unplayed_episodes">Переглянути непрослухані епізоди</string>
     <string name="view_downloaded_episodes">Переглянути завантажені епізоди</string>
     <string name="unreviewed">Нерецензовані</string>
@@ -1223,8 +1223,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Поля тексту під час читання в альбомній орієнтації.</string>
     <string name="default_margin_size">За замовчуванням</string>
     <string name="popularity">Популярність</string>
-    <string name="display_up_next_list">Показати чергу</string>
-    <string name="browse_up_next">Переглянути чергу</string>
+    <string name="display_the_up_next_list">Показати чергу</string>
+    <string name="browse_the_up_next">Переглянути чергу</string>
     <string name="add_notes">Додати нотатки</string>
     <string name="display_options">Параметри перегляду</string>
     <string name="there_are_no_unread_articles_">Немає непрочитаних статей.</string>

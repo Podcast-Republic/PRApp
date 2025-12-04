@@ -341,7 +341,7 @@
     <string name="download_removed">"Download verwijderd"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Laad artwork alleen wanneer verbonden met wifi"</string>
     <string name="load_artwork_via_wifi_only">"Laad artwork alleen via wifi"</string>
-    <string name="when_pressing_an_episode_in_list">"Bij aanklikken aflevering in lijst"</string>
+    <string name="when_pressing_an_episode_in_the_list">"Bij aanklikken aflevering in lijst"</string>
     <string name="start_playing">"Begin altijd met spelen"</string>
     <string name="display_episode_artwork">"Toon artwork van aflevering"</string>
     <string name="ringtone">"Belgeluid"</string>
@@ -1060,11 +1060,11 @@
     <string name="new_article_notification">Notificatie nieuw artikel</string>
     <string name="there_are_no_radio_stations_">Er zijn geen radiostations!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">Toon podcasts</string>
-    <string name="display_playlists_list">Toon afspeellijsten</string>
-    <string name="display_completed_downloads_list">Toon afgeronde downloads</string>
-    <string name="display_episode_filters_list">Toon episodefilters</string>
-    <string name="display_radio_stations_list">Toon radiostations</string>
+    <string name="display_the_podcasts_list">Toon podcasts</string>
+    <string name="display_the_playlists_list">Toon afspeellijsten</string>
+    <string name="display_the_completed_downloads_list">Toon afgeronde downloads</string>
+    <string name="display_the_episode_filters_list">Toon episodefilters</string>
+    <string name="display_the_radio_stations_list">Toon radiostations</string>
     <string name="view_unplayed_episodes">Toon ongespeelde afleveringen</string>
     <string name="view_downloaded_episodes">Toon gedownloade afleveringen</string>
     <string name="unreviewed">Ongereviewed</string>
@@ -1224,8 +1224,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Tekstmarge voor lezen in landschap-mode</string>
     <string name="default_margin_size">Standaard</string>
     <string name="popularity">Populariteit</string>
-    <string name="display_up_next_list">Toon Volgende</string>
-    <string name="browse_up_next">Bladeren Volgende</string>
+    <string name="display_the_up_next_list">Toon Volgende</string>
+    <string name="browse_the_up_next">Bladeren Volgende</string>
     <string name="add_notes">Toevoegen notitie</string>
     <string name="display_options">Display opties</string>
     <string name="there_are_no_unread_articles_">Er zijn geen ongelezen artikelen</string>

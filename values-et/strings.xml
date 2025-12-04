@@ -342,7 +342,7 @@
     <string name="download_removed">"Allalaadimine eemaldatud"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Lae kunst ainult siis, kui on Wi-Fi-ga ühendatud"</string>
     <string name="load_artwork_via_wifi_only">"Lae kunst ainult Wi-Fi kaudu"</string>
-    <string name="when_pressing_an_episode_in_list">"Kui valides episood loendist"</string>
+    <string name="when_pressing_an_episode_in_the_list">"Kui valides episood loendist"</string>
     <string name="start_playing">"Alati alusta mängimist"</string>
     <string name="display_episode_artwork">"Esita episoodi kunsti"</string>
     <string name="ringtone">"Helin"</string>
@@ -1059,11 +1059,11 @@
     <string name="new_article_notification">New article notification</string>
     <string name="there_are_no_radio_stations_">There are no radio stations!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">Display podcasts list.</string>
-    <string name="display_playlists_list">Display playlists list.</string>
-    <string name="display_completed_downloads_list">Display completed downloads list.</string>
-    <string name="display_episode_filters_list">Display episode filters list.</string>
-    <string name="display_radio_stations_list">Display radio stations list.</string>
+    <string name="display_the_podcasts_list">Display the podcasts list.</string>
+    <string name="display_the_playlists_list">Display the playlists list.</string>
+    <string name="display_the_completed_downloads_list">Display the completed downloads list.</string>
+    <string name="display_the_episode_filters_list">Display the episode filters list.</string>
+    <string name="display_the_radio_stations_list">Display the radio stations list.</string>
     <string name="view_unplayed_episodes">View unplayed episodes</string>
     <string name="view_downloaded_episodes">View downloaded episodes</string>
     <string name="unreviewed">Unreviewed</string>
@@ -1223,8 +1223,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Text margin when reading in landscape mode.</string>
     <string name="default_margin_size">Default</string>
     <string name="popularity">Popularity</string>
-    <string name="display_up_next_list">Display Up next list</string>
-    <string name="browse_up_next">Browse Up next</string>
+    <string name="display_the_up_next_list">Display the Up next list</string>
+    <string name="browse_the_up_next">Browse the Up next</string>
     <string name="add_notes">Add notes</string>
     <string name="display_options">Display options</string>
     <string name="there_are_no_unread_articles_">There are no unread articles.</string>

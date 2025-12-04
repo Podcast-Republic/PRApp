@@ -340,7 +340,7 @@
     <string name="download_removed">Удалить загруженное</string>
     <string name="load_artworks_only_when_connected_to_wifi">Загружать обложки только при Wi-Fi подключении</string>
     <string name="load_artwork_via_wifi_only">Загружать обложки по Wi-Fi</string>
-    <string name="when_pressing_an_episode_in_list">При нажатии на выпуск в списке</string>
+    <string name="when_pressing_an_episode_in_the_list">При нажатии на выпуск в списке</string>
     <string name="start_playing">Всегда начинать воспроизведение</string>
     <string name="display_episode_artwork">Показывать обложку выпуска</string>
     <string name="ringtone">Рингтон</string>
@@ -983,7 +983,7 @@
     <string name="use_podcast_artwork_as_episode_artwork_">Использовать обложку подкаста в качестве обложки выпуска.</string>
     <string name="prefer_to_use_artwork_extracted_from_downloaded_podcast_file_">Предпочесть обложку, извлеченные из загруженного файла подкаста.</string>
     <string name="remove_obsolete_episodes_if_they_are_no_longer_present_in_the_podcast_feed_">Удалять устаревшие выпуски, если они больше не доступны в ленте подкаста.</string>
-    <string name="display_podcasts_list">Отобразить список подкастов.</string>
+    <string name="display_the_podcasts_list">Отобразить список подкастов.</string>
     <string name="obsolete_episodes_will_always_be_removed_for_youtube_podcast">Всегда удалять устаревшие выпуски для YouTube подкаста.</string>
     <string name="updating_podcast_d1_d2">Обновление подкаста - %1$d/%2$d</string>
     <string name="fund_this_podcast">Спонсировать подкаст</string>
@@ -1091,9 +1091,9 @@
     <string name="delete_the_episode_filter_s">Удалить фильтр выпусков: %s?</string>
     <string name="delete_the_playlist_s">Удалить плейлист: %s?</string>
     <string name="description_preview">Предпросмотр описания</string>
-    <string name="display_completed_downloads_list">Отобразить список завершенных загрузок.</string>
+    <string name="display_the_completed_downloads_list">Отобразить список завершенных загрузок.</string>
     <string name="display_episode_artwork_retrieved_from_media_file_">Отображать обложку выпуска, полученную из файла.</string>
-    <string name="display_episode_filters_list">Отобразить список фильтров выпусков.</string>
+    <string name="display_the_episode_filters_list">Отобразить список фильтров выпусков.</string>
     <string name="local_storage">Локальное хранилище</string>
     <string name="animate_items_when_loading_into_list">Анимировать элементы при загрузке в список.</string>
     <string name="list_animation">Анимирование списка</string>
@@ -1141,8 +1141,8 @@
     <string name="article_unique_criteria">Критерии уникальности статьи</string>
     <string name="do_not_start_playing_upon_bluetooth_is_connected_check_out_faqs_for_more_info">Не начинать воспроизведение при подключении Bluetooth. Ознакомьтесь с ЧаВо для получения дополнительной информации.</string>
     <string name="playback_mode_single_episode_load_next">Отдельный выпуск (загрузить следующий)</string>
-    <string name="display_playlists_list">Отобразить список плейлистов.</string>
-    <string name="display_radio_stations_list">Отобразить список радиостанций.</string>
+    <string name="display_the_playlists_list">Отобразить список плейлистов.</string>
+    <string name="display_the_radio_stations_list">Отобразить список радиостанций.</string>
     <string name="posted">Опубликовано</string>
     <string name="preview_notes">Предпросмотр заметок</string>
     <string name="preview_user_notes_in_list">Предпросмотр пользовательских заметок в списке. Описания выпусков не будут отображаться, если эта опция включена.</string>
@@ -1222,8 +1222,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Поле текста при чтении в альбомной ориентации.</string>
     <string name="default_margin_size">По умолчанию</string>
     <string name="popularity">Популярность</string>
-    <string name="display_up_next_list">Отображать следующий список</string>
-    <string name="browse_up_next">Просмотреть дальше</string>
+    <string name="display_the_up_next_list">Отображать следующий список</string>
+    <string name="browse_the_up_next">Просмотреть дальше</string>
     <string name="add_notes">Добавить заметки</string>
     <string name="display_options">Параметры отображения</string>
     <string name="there_are_no_unread_articles_">Нет непрочитанных статей.</string>

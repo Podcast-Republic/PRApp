@@ -1059,11 +1059,11 @@
     <string name="new_article_notification">התראה על מאמר חדש</string>
     <string name="there_are_no_radio_stations_">אין תחנות רדיו!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">הצג רשימת פודקאסטים.</string>
-    <string name="display_playlists_list">הצג רשימת השמעה.</string>
-    <string name="display_completed_downloads_list">הצג רשימת הורדות שהושלמו.</string>
-    <string name="display_episode_filters_list">הצג רשימת מסנני פרקים.</string>
-    <string name="display_radio_stations_list">הצג רשימת תחנות רדיו.</string>
+    <string name="display_the_podcasts_list">הצג רשימת פודקאסטים.</string>
+    <string name="display_the_playlists_list">הצג רשימת השמעה.</string>
+    <string name="display_the_completed_downloads_list">הצג רשימת הורדות שהושלמו.</string>
+    <string name="display_the_episode_filters_list">הצג רשימת מסנני פרקים.</string>
+    <string name="display_the_radio_stations_list">הצג רשימת תחנות רדיו.</string>
     <string name="view_unplayed_episodes">הצג פרקים שטרם הושמעו</string>
     <string name="view_downloaded_episodes">הצג פרקים שהורדו</string>
     <string name="unreviewed">ללא ביקורת</string>
@@ -1223,8 +1223,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">שולי טקסט בעת קריאה במצב נוף.</string>
     <string name="default_margin_size">ברירת מחדל</string>
     <string name="popularity">פופולריות</string>
-    <string name="display_up_next_list">הצג את הרשימת הבא בתור</string>
-    <string name="browse_up_next">Browse Up next</string>
+    <string name="display_the_up_next_list">הצג את הרשימת הבא בתור</string>
+    <string name="browse_the_up_next">Browse the Up next</string>
     <string name="add_notes">Add notes</string>
     <string name="display_options">Display options</string>
     <string name="there_are_no_unread_articles_">אין מאמרים שלא נקראו.</string>
@@ -1248,7 +1248,7 @@
     <string name="show_empty_feeds">הצג הזנות ריקות</string>
     <string name="select_your_preferred_language_to_be_used_within_the_app_">בחר את השפה המועדפת עליך לשימוש באפליקציה.</string>
     <string name="term_and_privacy_policy">"Term &amp; privacy policy"</string>
-    <string name="when_pressing_an_episode_in_list">כאשר לוחצים על פרק ברשימה</string>
+    <string name="when_pressing_an_episode_in_the_list">כאשר לוחצים על פרק ברשימה</string>
     <string name="import_from_opml_file_failed_s">ייבוא מקובץ OPML נכשל: %1$s</string>
     <string name="play_previous_episode_or_station">הפעל פרק/תחנה קודמים</string>
     <string name="show_play_previous_episode_station_button_">הצג לחצן הפעל את הפרק הקודם/התחנה.</string>

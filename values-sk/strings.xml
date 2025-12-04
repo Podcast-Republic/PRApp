@@ -344,7 +344,7 @@
     <string name="download_removed">Stiahnuť odstránené</string>
     <string name="load_artworks_only_when_connected_to_wifi">Obrázky sťahovať iba pri pripojení k sieti Wi-Fi</string>
     <string name="load_artwork_via_wifi_only">Obrázky sťahovať iba cez Wi-Fi</string>
-    <string name="when_pressing_an_episode_in_list">Pri stlačení epizódy v zozname</string>
+    <string name="when_pressing_an_episode_in_the_list">Pri stlačení epizódy v zozname</string>
     <string name="start_playing">Spustiť prehrávanie</string>
     <string name="display_episode_artwork">Zobraziť obrázok epizódy</string>
     <string name="ringtone">Zvonenie</string>
@@ -1055,11 +1055,11 @@
     <string name="new_article_notification">Upozornenie na nový článok</string>
     <string name="there_are_no_radio_stations_">Nie sú tu žiadne rádiá!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">Zobraziť zoznam podcastov.</string>
-    <string name="display_playlists_list">Zobraziť zoznam playlistov.</string>
-    <string name="display_completed_downloads_list">Zobraziť zoznam dokončených sťahovaní.</string>
-    <string name="display_episode_filters_list">Zobraziť zoznam filtrov epizód.</string>
-    <string name="display_radio_stations_list">Zobraziť zoznam rádií.</string>
+    <string name="display_the_podcasts_list">Zobraziť zoznam podcastov.</string>
+    <string name="display_the_playlists_list">Zobraziť zoznam playlistov.</string>
+    <string name="display_the_completed_downloads_list">Zobraziť zoznam dokončených sťahovaní.</string>
+    <string name="display_the_episode_filters_list">Zobraziť zoznam filtrov epizód.</string>
+    <string name="display_the_radio_stations_list">Zobraziť zoznam rádií.</string>
     <string name="view_unplayed_episodes">Zobraziť neprehraté epizódy</string>
     <string name="view_downloaded_episodes">Zobraziť stiahnuté epizódy</string>
     <string name="unreviewed">Nerecenzované</string>
@@ -1225,8 +1225,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Okraje textu pri čítaní na šírku.</string>
     <string name="default_margin_size">Predvolené</string>
     <string name="popularity">Popularita</string>
-    <string name="display_up_next_list">Zobraziť zoznam Nasleduje</string>
-    <string name="browse_up_next">Prehliadať zoznam Nasleduje</string>
+    <string name="display_the_up_next_list">Zobraziť zoznam Nasleduje</string>
+    <string name="browse_the_up_next">Prehliadať zoznam Nasleduje</string>
     <string name="add_notes">Pridať poznámky</string>
     <string name="display_options">Možnosti zobrazenia</string>
     <string name="there_are_no_unread_articles_">Nie sú tu žiadne neprečítané články.</string>

@@ -346,7 +346,7 @@
     <string name="download_removed">Téléchargement retiré</string>
     <string name="load_artworks_only_when_connected_to_wifi">Charger les illustrations via Wi-Fi seulement</string>
     <string name="load_artwork_via_wifi_only">"Charger l'illustration via Wi-Fi seulement"</string>
-    <string name="when_pressing_an_episode_in_list">Lorsque vous appuyez sur un objet dans la liste</string>
+    <string name="when_pressing_an_episode_in_the_list">Lorsque vous appuyez sur un objet dans la liste</string>
     <string name="start_playing">Toujours commencer à jouer</string>
     <string name="display_episode_artwork">"Afficher l'illustration de l'épisode"</string>
     <string name="ringtone">Sonnerie</string>
@@ -1066,11 +1066,11 @@
     <string name="new_article_notification">Notification de nouvel article</string>
     <string name="there_are_no_radio_stations_">Il n\'y a pas de radio !</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">Afficher la liste des podcasts.</string>
-    <string name="display_playlists_list">Afficher la liste des playlists.</string>
-    <string name="display_completed_downloads_list">Afficher la liste des téléchargements terminés.</string>
-    <string name="display_episode_filters_list">Afficher la liste des filtres d\'épisodes.</string>
-    <string name="display_radio_stations_list">Afficher la liste des radios.</string>
+    <string name="display_the_podcasts_list">Afficher la liste des podcasts.</string>
+    <string name="display_the_playlists_list">Afficher la liste des playlists.</string>
+    <string name="display_the_completed_downloads_list">Afficher la liste des téléchargements terminés.</string>
+    <string name="display_the_episode_filters_list">Afficher la liste des filtres d\'épisodes.</string>
+    <string name="display_the_radio_stations_list">Afficher la liste des radios.</string>
     <string name="view_unplayed_episodes">Voir les épisodes non lus</string>
     <string name="view_downloaded_episodes">Voir les épisodes téléchargés</string>
     <string name="unreviewed">Non révisé</string>
@@ -1230,8 +1230,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Marge de texte lors de la lecture en mode paysage.</string>
     <string name="default_margin_size">Par défaut</string>
     <string name="popularity">Popularité</string>
-    <string name="display_up_next_list">Afficher la liste suivante</string>
-    <string name="browse_up_next">Parcourir vers le haut suivant</string>
+    <string name="display_the_up_next_list">Afficher la liste suivante</string>
+    <string name="browse_the_up_next">Parcourir vers le haut suivant</string>
     <string name="add_notes">Ajouter des notes</string>
     <string name="display_options">"Options d'affichage"</string>
     <string name="there_are_no_unread_articles_">"Il n'y a aucun article non lu."</string>

@@ -347,7 +347,7 @@
 	<string name="download_removed">İndirme kaldırıldı</string>
 	<string name="load_artworks_only_when_connected_to_wifi">"Görselleri sadece Wi-Fi'ye bağlıyken yükle."</string>
 	<string name="load_artwork_via_wifi_only">Görselleri sadece Wi-Fi üzerinden yükle</string>
-	<string name="when_pressing_an_episode_in_list">Listede bir bölüme basıldığında</string>
+	<string name="when_pressing_an_episode_in_the_list">Listede bir bölüme basıldığında</string>
 	<string name="start_playing">Çalmaya başla</string>
 	<string name="display_episode_artwork">Bölüm görsellerini göster</string>
 	<string name="ringtone">Zil sesi</string>
@@ -1055,11 +1055,11 @@
 	<string name="new_article_notification">Yeni makale bildirimi</string>
 	<string name="there_are_no_radio_stations_">Hiçbir radyo istasyonu yok!</string>
 	<string name="android_auto">Android Auto</string>
-	<string name="display_podcasts_list">Podcast listesini göster.</string>
-	<string name="display_playlists_list">Çalma listeleri listesini göster.</string>
-	<string name="display_completed_downloads_list">Tamamlanan indirilenler listesini göster.</string>
-	<string name="display_episode_filters_list">Bölüm filtreleri listesini göster.</string>
-	<string name="display_radio_stations_list">Radyo istasyonları listesini göster.</string>
+	<string name="display_the_podcasts_list">Podcast listesini göster.</string>
+	<string name="display_the_playlists_list">Çalma listeleri listesini göster.</string>
+	<string name="display_the_completed_downloads_list">Tamamlanan indirilenler listesini göster.</string>
+	<string name="display_the_episode_filters_list">Bölüm filtreleri listesini göster.</string>
+	<string name="display_the_radio_stations_list">Radyo istasyonları listesini göster.</string>
 	<string name="view_unplayed_episodes">Çalınmayan bölümleri gör</string>
 	<string name="view_downloaded_episodes">İndirilmiş bölümleri gör</string>
 	<string name="unreviewed">Yorum yapılmamış</string>
@@ -1227,8 +1227,8 @@
 	<string name="text_margin_when_reading_in_landscape_mode_">Yatay modda okurken metin kenar boşluğu.</string>
 	<string name="default_margin_size">Varsayılan</string>
 	<string name="popularity">Popülerlik</string>
-	<string name="display_up_next_list">Sıradakiler listesini göster</string>
-	<string name="browse_up_next">Sıradakilere göz at</string>
+	<string name="display_the_up_next_list">Sıradakiler listesini göster</string>
+	<string name="browse_the_up_next">Sıradakilere göz at</string>
 	<string name="add_notes">Not ekle</string>
 	<string name="display_options">Görünüm seçenekleri</string>
 	<string name="there_are_no_unread_articles_">Okunmamış hiçbir makale yok.</string>

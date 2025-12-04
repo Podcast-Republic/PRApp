@@ -341,7 +341,7 @@
     <string name="download_removed">"Stažený soubor odstraněn"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Stahovat obrázky pouze při připojení k Wi-Fi"</string>
     <string name="load_artwork_via_wifi_only">"Stáhnout obrázky pouze přes Wi-Fi"</string>
-    <string name="when_pressing_an_episode_in_list">"Při klepnutí na epizodu v seznamu"</string>
+    <string name="when_pressing_an_episode_in_the_list">"Při klepnutí na epizodu v seznamu"</string>
     <string name="start_playing">"Vždy spustit přehrávání"</string>
     <string name="display_episode_artwork">"Ukázat obrázek epizody"</string>
     <string name="ringtone">"Vyzvánění"</string>
@@ -1058,11 +1058,11 @@
     <string name="new_article_notification">Oznámení nového článku</string>
     <string name="there_are_no_radio_stations_">Nejsou tu žádné stanice!</string>
     <string name="android_auto">Android Auto</string>
-    <string name="display_podcasts_list">Ukázat seznam podcastů.</string>
-    <string name="display_playlists_list">Ukázat přehled seznamů.</string>
-    <string name="display_completed_downloads_list">Ukázat seznam dokončených stahování.</string>
-    <string name="display_episode_filters_list">Ukázat seznam filtrů epizod.</string>
-    <string name="display_radio_stations_list">Ukázat seznam stanic.</string>
+    <string name="display_the_podcasts_list">Ukázat seznam podcastů.</string>
+    <string name="display_the_playlists_list">Ukázat přehled seznamů.</string>
+    <string name="display_the_completed_downloads_list">Ukázat seznam dokončených stahování.</string>
+    <string name="display_the_episode_filters_list">Ukázat seznam filtrů epizod.</string>
+    <string name="display_the_radio_stations_list">Ukázat seznam stanic.</string>
     <string name="view_unplayed_episodes">Prohlédnout nepřehrané epizody</string>
     <string name="view_downloaded_episodes">Prohlédnout stažené epizody</string>
     <string name="unreviewed">Nehodnoceno</string>
@@ -1222,8 +1222,8 @@
     <string name="text_margin_when_reading_in_landscape_mode_">Okraj textu při čtení v režimu na šířku.</string>
     <string name="default_margin_size">Výchozí</string>
     <string name="popularity">Popularita</string>
-    <string name="display_up_next_list">Zobrazit další seznam</string>
-    <string name="browse_up_next">Procházet další</string>
+    <string name="display_the_up_next_list">Zobrazit další seznam</string>
+    <string name="browse_the_up_next">Procházet další</string>
     <string name="add_notes">Přidat poznámky</string>
     <string name="display_options">Možnosti zobrazení</string>
     <string name="there_are_no_unread_articles_">Neexistují žádné nepřečtené články.</string>

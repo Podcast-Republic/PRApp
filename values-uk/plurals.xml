@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one">"Ви прослухали: %1$d епізод, %2$s."</item>
         <item quantity="few">"Ви прослухали: %1$d епізоди, %2$s."</item>
@@ -251,4 +251,12 @@
         <item quantity="few">"Відібрати статті за %d останні дні."</item>
         <item quantity="many">"Відібрати статті за %d останніх днів."</item>
     </plurals>
+
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_" tools:ignore="ImpliedQuantity">
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Зберігати останній доданий епізод того самого подкасту."</item>
+        <item quantity="few">"Зберігати %1$d останні додані епізоди того самого подкасту."</item>
+        <item quantity="many">"Зберігати %1$d останніх доданих епізодів того самого подкасту."</item>
+    </plurals>
+
 </resources>
+

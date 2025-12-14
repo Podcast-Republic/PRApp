@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one">"Вы прослушали: %1$d выпуск, %2$s."</item>
         <item quantity="few">"Вы прослушали: %1$d выпуска, %2$s."</item>
@@ -99,14 +99,14 @@
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">Один выпуск добавлен в плейлист.</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Один выпуск добавлен в плейлист.</item>
         <item quantity="few">%1$d выпуска добавлены в плейлист.</item>
         <item quantity="many">%1$d выпусков добавлено в плейлист.</item>
         <item quantity="other">%1$d выпуск(ов) добавлен(о) в плейлист.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">Один выпуск добавлен к списку загрузок.</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Один выпуск добавлен к списку загрузок.</item>
         <item quantity="few">%1$d выпуска добавлены к списку загрузок.</item>
         <item quantity="many">%1$d выпусков добавлено к списку загрузок.</item>
         <item quantity="other">%1$d выпуск(ов) добавлен(о) к списку загрузок.</item>
@@ -162,14 +162,14 @@
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"Загрузить один выпуск?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Загрузить один выпуск?"</item>
         <item quantity="few">"Загрузить все %1$d выпуска?"</item>
         <item quantity="many">"Загрузить все %1$d выпусков?"</item>
         <item quantity="other">"Загрузить все %1$d выпусков?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Добавить один выпуск в очередь?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Добавить один выпуск в очередь?"</item>
         <item quantity="few">"Добавить все выпуски (%1$d) в очередь?"</item>
         <item quantity="many">"Добавить все выпуски (%1$d) в очередь?"</item>
         <item quantity="other">"Добавить все выпуски (%1$d) в очередь?"</item>
@@ -183,21 +183,21 @@
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Оставлять один выпуск каждого подкаста."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Оставлять один выпуск каждого подкаста."</item>
         <item quantity="few">"Оставлять %1$d выпуска каждого подкаста."</item>
         <item quantity="many">"Оставлять %1$d выпусков каждого подкаста."</item>
         <item quantity="other">"Оставлять %1$d выпуска(ов) каждого подкаста."</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Оставлять один выпуск этого подкаста."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Оставлять один выпуск этого подкаста."</item>
         <item quantity="few">"Оставлять %1$d выпуска этого подкаста."</item>
         <item quantity="many">"Оставлять %1$d выпусков этого подкаста."</item>
         <item quantity="other">"Оставлять %1$d выпуска(ов) этого подкаста."</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Отметить все выпуски старше чем последний, как прослушанные, после получения новых."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Отметить все выпуски старше чем последний, как прослушанные, после получения новых."</item>
         <item quantity="few">"Отметить все выпуски старше чем последние %1$d, как прослушанные, после получения новых."</item>
         <item quantity="many">"Отметить все выпуски старше чем последние %1$d, как прослушанные, после получения новых."</item>
         <item quantity="other">"Отметить все выпуски старше чем последние %1$d, как прослушанные, после получения новых."</item>
@@ -293,4 +293,12 @@
         <item quantity="many">"Сохранить статьи за последние %1$d дней."</item>
         <item quantity="other">"Сохранить статьи за последние %1$d дня(ей)."</item>
     </plurals>
+
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Keep the last added one episode from the same podcast."</item>
+        <item quantity="few">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="many">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+    </plurals>
+
 </resources>

@@ -209,4 +209,10 @@
         <item quantity="one">"Son %1$d güne ait makaleleri seç."</item>
         <item quantity="other">"Son %1$d güne ait makaleleri seç."</item>
     </plurals>
+
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
+        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
+        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+    </plurals>
+
 </resources>

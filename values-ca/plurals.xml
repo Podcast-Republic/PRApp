@@ -252,4 +252,10 @@
         <item quantity="other">"Selecciona articles dels últims %1$d dies."</item>
     </plurals>
 
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
+        <item quantity="one">"Conserva l'últim episodi afegit del mateix podcast."</item>
+        <item quantity="many">"Conserva els últims %1$d episodis afegits del mateix podcast."</item>
+        <item quantity="other">"Conserva els últims %1$d episodis afegits del mateix podcast."</item>
+    </plurals>
+
 </resources>

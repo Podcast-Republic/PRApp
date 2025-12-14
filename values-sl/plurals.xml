@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one">"You\'ve listened: %1$d episode, %2$s."</item>
         <item quantity="two">"You\'ve listened: %1$d episodes, %2$s."</item>
@@ -99,14 +99,14 @@
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">Ena epizoda je bila dodana na seznam.</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Ena epizoda je bila dodana na seznam.</item>
         <item quantity="two">"%1$d epizod je bilo dodanih na seznam."</item>
         <item quantity="few">"%1$d epizod je bilo dodanih na seznam."</item>
         <item quantity="other">"%1$d epizod je bilo dodanih na seznam."</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">Ena epizoda je bila dodana prenesenim.</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Ena epizoda je bila dodana prenesenim.</item>
         <item quantity="two">"%1$d epizod je bilo dodanih prenesenim."</item>
         <item quantity="few">"%1$d epizod je bilo dodanih prenesenim."</item>
         <item quantity="other">"%1$d epizod je bilo dodanih prenesenim."</item>
@@ -169,14 +169,14 @@
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Add one episode to Up next?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Add one episode to Up next?"</item>
         <item quantity="two">"Add all %1$d episodes to Up next?"</item>
         <item quantity="few">"Add all %1$d episodes to Up next?"</item>
         <item quantity="other">"Add all %1$d episodes to Up next?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"Add one episode to playlist?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Add one episode to playlist?"</item>
         <item quantity="two">"Add all %1$d episodes to playlist?"</item>
         <item quantity="few">"Add all %1$d episodes to playlist?"</item>
         <item quantity="other">"Add all %1$d episodes to playlist?"</item>
@@ -197,7 +197,7 @@
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
         <item quantity="two">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
         <item quantity="few">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
         <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
@@ -293,4 +293,12 @@
         <item quantity="few">"Ohrani članke zadnjih %1$d dni."</item>
         <item quantity="other">"Ohrani članke zadnjih %1$d dni."</item>
     </plurals>
+
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_" tools:ignore="ImpliedQuantity">
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Keep the last added one episode from the same podcast."</item>
+        <item quantity="two">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="few">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+    </plurals>
+
 </resources>

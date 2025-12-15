@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="you_ve_listened_b_d_s_b">
+        <item quantity="one">"شما گوش دادید: %1$d قسمت، %2$s."</item>
+        <item quantity="other">"شما گوش دادید: %1$d قسمت، %2$s."</item>
+    </plurals>
+
+    <plurals name="d_lines_of_text">
+        <item quantity="one">%1$d خط</item>
+        <item quantity="other">%1$d خط</item>
+    </plurals>
+
+    <plurals name="latest_d_episodes">
+        <item quantity="one">%1$d قسمت آخر.</item>
+        <item quantity="other">%1$d قسمت آخر.</item>
+    </plurals>
+
+    <plurals name="display_latest_d_episodes">
+        <item quantity="one">نمایش %1$d قسمت آخر.</item>
+        <item quantity="other">نمایش %1$d قسمت آخر.</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_played">
+        <item quantity="one">%1$d قسمت به عنوان شنیده شده علامت زده شود؟</item>
+        <item quantity="other">همه %1$d قسمت به عنوان شنیده شده علامت زده شوند؟</item>
+    </plurals>
+
+    <plurals name="mark_all_d_episodes_as_unplayed">
+        <item quantity="one">%1$d قسمت به عنوان شنیده نشده علامت زده شود؟</item>
+        <item quantity="other">همه %1$d قسمت به عنوان شنیده نشده علامت زده شوند؟</item>
+    </plurals>
+
+    <plurals name="mark_all_d_podcasts_as_played">
+        <item quantity="one">%1$d پادکست به عنوان شنیده شده علامت زده شود؟</item>
+        <item quantity="other">همه %1$d پادکست به عنوان شنیده شده علامت زده شوند؟</item>
+    </plurals>
+
+    <plurals name="mark_all_d_rss_feeds_as_read">
+        <item quantity="one">%1$d فید به عنوان خوانده شده علامت زده شود؟</item>
+        <item quantity="other">همه %1$d فید به عنوان خوانده شده علامت زده شوند؟</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_read">
+        <item quantity="one">%1$d مقاله به عنوان خوانده شده علامت زده شود؟</item>
+        <item quantity="other">همه %1$d مقاله به عنوان خوانده شده علامت زده شوند؟</item>
+    </plurals>
+
+    <plurals name="mark_all_d_articles_as_unread">
+        <item quantity="one">%1$d مقاله به عنوان خوانده نشده علامت زده شود؟</item>
+        <item quantity="other">همه %1$d مقاله به عنوان خوانده نشده علامت زده شوند؟</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">دانلود خودکار تا %1$d قسمت جدید و شنیده نشده از پادکست در حال پخش.</item>
+        <item quantity="other">دانلود خودکار تا %1$d قسمت جدید و شنیده نشده از پادکست در حال پخش.</item>
+    </plurals>
+
+    <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
+        <item quantity="one">دانلود خودکار تا %1$d قسمت قدیمی و شنیده نشده از پادکست در حال پخش.</item>
+        <item quantity="other">دانلود خودکار تا %1$d قسمت قدیمی و شنیده نشده از پادکست در حال پخش.</item>
+    </plurals>
+
+    <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
+        <item quantity="one">دانلود خودکار تا %1$d قسمت اخیر وقتی قسمت‌های جدید دریافت می‌شوند.</item>
+        <item quantity="other">دانلود خودکار تا %1$d قسمت اخیر وقتی قسمت‌های جدید دریافت می‌شوند.</item>
+    </plurals>
+
+    <plurals name="display_maximum_d_lines_of_title">
+        <item quantity="one">نمایش حداکثر %1$d خط از عنوان.</item>
+        <item quantity="other">نمایش حداکثر %1$d خط از عنوان.</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_playlists">
+        <item quantity="one">یک قسمت به لیست‌های پخش اضافه شد.</item>
+        <item quantity="other">%1$d قسمت به لیست‌های پخش اضافه شدند.</item>
+    </plurals>
+
+    <plurals name="episodes_have_been_added_to_downloads">
+        <item quantity="one">یک قسمت به دانلودها اضافه شد.</item>
+        <item quantity="other">%1$d قسمت به دانلودها اضافه شدند.</item>
+    </plurals>
+
+    <plurals name="schedule_auto_backup_every_d_days">
+        <item quantity="one">"زمان‌بندی پشتیبان خودکار هر روز."</item>
+        <item quantity="other">"زمان‌بندی پشتیبان خودکار هر %1$d روز."</item>
+    </plurals>
+
+    <plurals name="keep_most_recent_d_auto_backups">
+        <item quantity="one">"نگه داشتن جدیدترین %1$d پشتیبان خودکار."</item>
+        <item quantity="other">"نگه داشتن جدیدترین %1$d پشتیبان خودکار."</item>
+    </plurals>
+
+    <plurals name="_d_minutes">
+        <item quantity="one">"%1$d دقیقه"</item>
+        <item quantity="other">"%1$d دقیقه"</item>
+    </plurals>
+
+    <plurals name="greater_than_d_minutes">
+        <item quantity="one">"> %1$d دقیقه."</item>
+        <item quantity="other">"> %1$d دقیقه."</item>
+    </plurals>
+
+    <plurals name="less_than_d_minutes">
+        <item quantity="one">"< %1$d دقیقه."</item>
+        <item quantity="other">"< %1$d دقیقه."</item>
+    </plurals>
+
+    <plurals name="after_x_minutes">
+        <item quantity="one">"بعد %1$d دقیقه"</item>
+        <item quantity="other">"بعد %1$d دقیقه"</item>
+    </plurals>
+
+    <plurals name="extend_s_minutes">
+        <item quantity="one">"تمدید %1$d دقیقه"</item>
+        <item quantity="other">"تمدید %1$d دقیقه"</item>
+    </plurals>
+
+    <plurals name="download_all_d_episodes">
+        <item quantity="one">"%d قسمت دانلود شود؟"</item>
+        <item quantity="other">"همه %d قسمت دانلود شوند؟"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_up_next_">
+        <item quantity="one">"یک قسمت به لیست بعدی اضافه شود؟"</item>
+        <item quantity="other">"همه %1$d قسمت به لیست بعدی اضافه شوند؟"</item>
+    </plurals>
+
+    <plurals name="add_all_d_episodes_to_playlist_">
+        <item quantity="one">"یک قسمت به لیست پخش اضافه شود؟"</item>
+        <item quantity="other">"همه %1$d قسمت به لیست پخش اضافه شوند؟"</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
+        <item quantity="one">"نگه داشتن جدیدترین دانلود برای هر پادکست."</item>
+        <item quantity="other">"نگه داشتن %1$d دانلود جدید برای هر پادکست."</item>
+    </plurals>
+
+    <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
+        <item quantity="one">"نگه داشتن جدیدترین دانلود از این پادکست."</item>
+        <item quantity="other">"نگه داشتن %1$d دانلود جدید از این پادکست."</item>
+    </plurals>
+
+    <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
+        <item quantity="one">"علامت‌گذاری همه قسمت‌های قبلی‌تر از جدیدترین قسمت به عنوان شنیده شده بعد از دریافت قسمت‌های جدید."</item>
+        <item quantity="other">"علامت‌گذاری همه قسمت‌های قبلی‌تر از جدیدترین %1$d قسمت به عنوان شنیده شده بعد از دریافت قسمت‌های جدید."</item>
+    </plurals>
+
+    <plurals name="keep_articles_from_last_d_days">
+        <item quantity="one">"نگه داشتن مقالات از %1$d روز گذشته."</item>
+        <item quantity="other">"نگه داشتن مقالات از %1$d روز گذشته."</item>
+    </plurals>
+
+    <plurals name="minimum_rewind_time_d_seconds">
+        <item quantity="one">"حداقل زمان عقب بردن: %1$d ثانیه."</item>
+        <item quantity="other">"حداقل زمان عقب بردن: %1$d ثانیه."</item>
+    </plurals>
+
+    <plurals name="maximum_rewind_time_d_seconds">
+        <item quantity="one">"حداکثر زمان عقب بردن: %1$d ثانیه."</item>
+        <item quantity="other">"حداکثر زمان عقب بردن: %1$d ثانیه."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_greater_than_d_minutes">
+        <item quantity="one">"انتخاب قسمت‌ها با مدت زمان بیشتر از %1$d دقیقه."</item>
+        <item quantity="other">"انتخاب قسمت‌ها با مدت زمان بیشتر از %1$d دقیقه."</item>
+    </plurals>
+
+    <plurals name="select_episodes_with_duration_less_than_d_minutes">
+        <item quantity="one">"انتخاب قسمت‌ها با مدت زمان کمتر از %1$d دقیقه."</item>
+        <item quantity="other">"انتخاب قسمت‌ها با مدت زمان کمتر از %1$d دقیقه."</item>
+    </plurals>
+
+    <plurals name="select_episodes_from_last_d_days">
+        <item quantity="one">"انتخاب قسمت‌ها از %1$d روز گذشته."</item>
+        <item quantity="other">"انتخاب قسمت‌ها از %1$d روز گذشته."</item>
+    </plurals>
+
+    <plurals name="skip_the_beginning_d_seconds">
+        <item quantity="one">"پرش از ابتدای %1$d ثانیه."</item>
+        <item quantity="other">"پرش از ابتدای %1$d ثانیه."</item>
+    </plurals>
+
+    <plurals name="skip_the_ending_d_seconds">
+        <item quantity="one">"پرش از انتها %1$d ثانیه."</item>
+        <item quantity="other">"پرش از انتها %1$d ثانیه."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"دانلود قسمت اگر مدت زمان بیشتر از %d دقیقه باشد."</item>
+        <item quantity="other">"دانلود قسمت اگر مدت زمان بیشتر از %d دقیقه باشد."</item>
+    </plurals>
+
+    <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"دانلود قسمت اگر مدت زمان کمتر از %d دقیقه باشد."</item>
+        <item quantity="other">"دانلود قسمت اگر مدت زمان کمتر از %d دقیقه باشد."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
+        <item quantity="one">"دانلود نکردن قسمت اگر مدت زمان بیشتر از %d دقیقه باشد."</item>
+        <item quantity="other">"دانلود نکردن قسمت اگر مدت زمان بیشتر از %d دقیقه باشد."</item>
+    </plurals>
+
+    <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
+        <item quantity="one">"دانلود نکردن قسمت اگر مدت زمان کمتر از %d دقیقه باشد."</item>
+        <item quantity="other">"دانلود نکردن قسمت اگر مدت زمان کمتر از %d دقیقه باشد."</item>
+    </plurals>
+
+    <plurals name="select_articles_from_last_d_days">
+        <item quantity="one">"انتخاب مقالات از %1$d روز گذشته."</item>
+        <item quantity="other">"انتخاب مقالات از %1$d روز گذشته."</item>
+    </plurals>
+
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
+        <item quantity="one">"نگه داشتن آخرین یک قسمت اضافه شده از همان پادکست."</item>
+        <item quantity="other">"نگه داشتن آخرین %1$d قسمت اضافه شده از همان پادکست."</item>
+    </plurals>
+
+</resources>

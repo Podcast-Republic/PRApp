@@ -1,6 +1,8 @@
-## This is the translation project of Podcast Repulic Android app.
+# This is the translation project of Podcast Repulic Android app
 
 Supported languages and the corresponding launguage resource folder:  
+
+- فارسی: [values-fa](https://github.com/Podcast-Republic/PRApp/tree/master/values-fa)  
 - Čeština: [values-cs](https://github.com/Podcast-Republic/PRApp/tree/master/values-cs)  
 - Català: [values-ca](https://github.com/Podcast-Republic/PRApp/tree/master/values-ca)  
 - Dansk: [values-da](https://github.com/Podcast-Republic/PRApp/tree/master/values-da)  
@@ -26,6 +28,7 @@ Supported languages and the corresponding launguage resource folder:
 - العربية [values-ar](https://github.com/Podcast-Republic/PRApp/tree/master/values-ar)  
 
 Under each language folder there are three files:  
-- **strings.xml**: provides a single string. A string resource provides text strings for the app with optional text styling and formatting.   
-- **plurals.xml**: carries different strings for pluralization.   
+
+- **strings.xml**: provides a single string. A string resource provides text strings for the app with optional text styling and formatting.
+- **plurals.xml**: carries different strings for pluralization.
 - **faqs.html**: is the FAQs page for the app.

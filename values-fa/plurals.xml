@@ -101,8 +101,8 @@
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"< %1$d دقیقه."</item>
-        <item quantity="other">"< %1$d دقیقه."</item>
+        <item quantity="one">"%1$d دقیقه."</item>
+        <item quantity="other">"%1$d دقیقه."</item>
     </plurals>
 
     <plurals name="after_x_minutes">

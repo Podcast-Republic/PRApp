@@ -1,13 +1,13 @@
 # This is the translation project of Podcast Repulic Android app
 
 Supported languages and the corresponding launguage resource folder:  
-
-- فارسی: [values-fa](https://github.com/Podcast-Republic/PRApp/tree/master/values-fa)  
+  
 - Čeština: [values-cs](https://github.com/Podcast-Republic/PRApp/tree/master/values-cs)  
 - Català: [values-ca](https://github.com/Podcast-Republic/PRApp/tree/master/values-ca)  
 - Dansk: [values-da](https://github.com/Podcast-Republic/PRApp/tree/master/values-da)  
 - Deutsch: [values-de](https://github.com/Podcast-Republic/PRApp/tree/master/values-de)  
-- Eesti: [values-et](https://github.com/Podcast-Republic/PRApp/tree/master/values-et)  
+- Ελληνικά: [values-el](https://github.com/Podcast-Republic/PRApp/tree/master/values-el)  
+- Eesti: [values-et](https://github.com/Podcast-Republic/PRApp/tree/master/values-et) 
 - English: [values](https://github.com/Podcast-Republic/PRApp/tree/master/values)  
 - Español: [values-es](https://github.com/Podcast-Republic/PRApp/tree/master/values-es)  
 - Français: [values-fr](https://github.com/Podcast-Republic/PRApp/tree/master/values-fr)  
@@ -26,6 +26,7 @@ Supported languages and the corresponding launguage resource folder:
 - Українська: [values-uk](https://github.com/Podcast-Republic/PRApp/tree/master/values-uk)  
 - עִברִית [values-iw](https://github.com/Podcast-Republic/PRApp/tree/master/values-iw)  
 - العربية [values-ar](https://github.com/Podcast-Republic/PRApp/tree/master/values-ar)  
+- فارسی: [values-fa](https://github.com/Podcast-Republic/PRApp/tree/master/values-fa)
 
 Under each language folder there are three files:  
 

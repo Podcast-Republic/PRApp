@@ -1245,7 +1245,7 @@
     <string name="podcast_has_no_default_playlists_message">این پادکست پلی‌لیست پیش‌فرضی ندارد. لطفاً به تنظیمات پادکست بروید تا پلی‌لیست‌های پیش‌فرض را تنظیم کنید.</string>
     <string name="no_wi_fi_update_feed_once_with_mobile_data">Wi-Fi نیست - feed یک بار با داده موبایل به‌روزرسانی شود؟</string>
     <string name="mark_all_previous_articles_as_unread">علامت گذاری همه مقالات قبلی به عنوان خوانده نشده</string>
-    <string name="mark_all_next_articles .articles_as_unread">علامت گذاری همه مقالات بعدی به عنوان خوانده نشده</string>
+    <string name="mark_all_next_articles_as_unread">علامت گذاری همه مقالات بعدی به عنوان خوانده نشده</string>
     <string name="mark_all_articles_published_before_this_article_s_as_unread_">همه مقالات منتشر شده قبل از این مقاله [%1$s] به عنوان خوانده نشده علامت گذاری شوند؟</string>
     <string name="mark_all_articles_published_after_this_article_s_as_unread_">همه مقالات منتشر شده پس از این مقاله [%1$s] به عنوان خوانده نشده علامت گذاری شوند؟</string>
     <string name="show_empty_podcasts">نمایش پادکست‌های خالی</string>

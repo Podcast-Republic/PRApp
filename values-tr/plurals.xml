@@ -211,8 +211,8 @@
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one">"Aynı podcast’ten eklenen son bölümü tut."</item>
+        <item quantity="other">"Aynı podcast’ten eklenen son %1$d bölümü tut."</item>
     </plurals>
 
 </resources>

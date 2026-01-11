@@ -1392,5 +1392,5 @@
     <string name="transcript">Prepis</string>
     <string name="scroll_to_the_playing_episode">Prejsť na prehrávanú epizódu</string>
     <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Po načítaní zoznamu prejsť na aktuálne prehrávanú epizódu.</string>
-    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Mark the current playback position as a chapter after the sleep timer is fired.</string>
+    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Označiť aktuálnu pozíciu prehrávania ako kapitolu po spustení časovača vypnutia.</string>
 </resources>

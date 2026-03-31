@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="country_list">
 		<item>Albanien</item>
@@ -1223,7 +1223,7 @@
 	<string name="mark_all_articles_published_after_this_article_s_as_unread_">Alle Artikel, die nach diesem Artikel [%1$s] veröffentlicht wurden, als ungelesen markieren?</string>
 	<string name="show_empty_podcasts">Leere Podcasts anzeigen</string>
 	<string name="show_empty_feeds">Leere Feeds anzeigen</string>
-	<string name="select_your_preferred_language_to_be_used_within_the_app_">Wähle die bevorzugte Sprache für die App aus.</string>
+	<string name="select_your_preferred_language_to_be_used_within_the_app_">Wähle eine bevorzugte Sprache für die App aus.</string>
 	<string name="term_and_privacy_policy">"Nutzungsbedingungen &amp; Datenschutzrichtlinie"</string>
 	<string name="import_from_opml_file_failed_s">Import aus OPML-Datei fehlgeschlagen: %1$s.</string>
 	<string name="play_previous_episode_or_station">Vorherige/r Folge/Radiosender abspielen</string>
@@ -1368,8 +1368,8 @@
 	<string name="scroll_to_the_playing_episode">Zur wiedergegebenen Folge scrollen</string>
 	<string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Zur aktuell wiedergegebenen Folge scrollen, wenn die Playlist geladen wurde.</string>
 	<string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Aktuelle Wiedergabeposition als Kapitelmarke hinzufügen, wenn Einschlaf-Timer endet.</string>
-    <string name="appearance">Appearance</string>
-	<string name="accent_color">Accent color</string>
-	<string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
+	<string name="appearance">Design</string>
+	<string name="accent_color">Akzentfarbe</string>
+	<string name="choose_a_preferred_accent_color_for_the_app_">Wähle eine bevorzugte Akzentfarbe für die App aus.</string>
 </resources>
 

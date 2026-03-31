@@ -239,29 +239,6 @@
     <string name="state_on">Be</string>
     <string name="state_off">Ki</string>
     <string name="stop_sleep_timer">Ki</string>
-
-    <string-array name="ui_theme_text">
-        <item>Minden fehér</item>
-        <item>Fehér</item>
-        <item>Piros</item>
-        <item>Rózsaszín</item>
-        <item>Lila</item>
-        <item>Mély lila</item>
-        <item>Indigó</item>
-        <item>Kék</item>
-        <item>Világoskék</item>
-        <item>Cián</item>
-        <item>Zöldeskék</item>
-        <item>Zöld</item>
-        <item>Világos zöld</item>
-        <item>Borostyán</item>
-        <item>Narancs</item>
-        <item>Mélynarancs</item>
-        <item>Kékes szürke</item>
-        <item>Sötét</item>
-        <item>AMOLED fekete</item>
-    </string-array>
-
     <string name="theme">Téma</string>
     <string name="skip_beginning">Ugrás az epizód elején</string>
     <string name="time_display_second_short_format">mp</string>
@@ -1393,5 +1370,8 @@
     <string name="transcript">Leirat</string>
     <string name="scroll_to_the_playing_episode">Görgetés az aktuális epizódhoz</string>
     <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">A lista betöltése után görgessen az éppen lejátszott epizódhoz.</string>
-    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Jelölje meg az aktuális lejátszási pozíciót fejezetként, miután az alvó időzítő elindult</string>
+    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Jelölje meg az aktuális lejátszási pozíciót fejezetként, miután az alvó időzítő elindult.</string>
+    <string name="appearance">Appearance</string>
+    <string name="accent_color">Accent color</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
 </resources>

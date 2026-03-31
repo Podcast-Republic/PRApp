@@ -88,29 +88,6 @@
         <item>Venezuela</item>
         <item>Vietnam</item>
     </string-array>
-
-    <string-array name="ui_theme_text">
-        <item>All White</item>
-        <item>Hvit</item>
-        <item>Rød</item>
-        <item>Lyserød</item>
-        <item>Lilla</item>
-        <item>Mørk lilla</item>
-        <item>Indigo</item>
-        <item>Blå</item>
-        <item>Lyseblå</item>
-        <item>Cyan</item>
-        <item>Blågrønn</item>
-        <item>Grønn</item>
-        <item>Lysegrønn</item>
-        <item>Rav</item>
-        <item>Oransje</item>
-        <item>Mørkeoransje</item>
-        <item>Blågrå</item>
-        <item>Mørk</item>
-        <item>AMOLED Sort</item>
-    </string-array>
-
     <string name="update_podcasts">Frekvens på oppdatering av podcaster</string>
     <string name="update_podcast">Frekvens på oppdatering av podcaster</string>
     <string name="_auto_backup_location"> Plassering for automatisk sikkerhetskopi</string>
@@ -1390,4 +1367,7 @@
     <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
     <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
     <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Mark the current playback position as a chapter after the sleep timer is fired.</string>
+    <string name="appearance">Appearance</string>
+    <string name="accent_color">Accent color</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
 </resources>

@@ -240,27 +240,6 @@
     <string name="state_on">"Zapnout"</string>
     <string name="state_off">"Vypnout"</string>
     <string name="stop_sleep_timer">"Vypnout časovač"</string>
-    <string-array name="ui_theme_text">
-        <item>All White</item>
-        <item>"Bílý"</item>
-        <item>"Červený"</item>
-        <item>"Růžový"</item>
-        <item>"Nachový"</item>
-        <item>"Purpurový"</item>
-        <item>"Indigo"</item>
-        <item>"Modrý"</item>
-        <item>"Světle modrý"</item>
-        <item>"Tyrkysový"</item>
-        <item>"Modrozelený"</item>
-        <item>"Zelený"</item>
-        <item>"Světle zelený"</item>
-        <item>"Jantarový"</item>
-        <item>"Oranžový"</item>
-        <item>"Tmavě oranžový"</item>
-        <item>"Modro-šedý"</item>
-        <item>"Tmavý"</item>
-        <item>"AMOLED černý"</item>
-    </string-array>
     <string name="theme">"Vzhled"</string>
     <string name="skip_beginning">"Přeskočit začátek"</string>
     <string name="time_display_second_short_format">"sek"</string>
@@ -1390,4 +1369,7 @@
     <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
     <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
     <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Mark the current playback position as a chapter after the sleep timer is fired.</string>
+    <string name="appearance">Appearance</string>
+    <string name="accent_color">Accent color</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
 </resources>

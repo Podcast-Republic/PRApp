@@ -248,27 +248,6 @@
     <string name="state_on">Vklopljeno</string>
     <string name="state_off">Izklopljeno</string>
     <string name="stop_sleep_timer">Ustavi časovnik</string>
-    <string-array name="ui_theme_text">
-        <item>Vse belo</item>
-        <item>Bela</item>
-        <item>Rdeča</item>
-        <item>Roza</item>
-        <item>Vijolična</item>
-        <item>Temno vijolična</item>
-        <item>Vijoličastomodra</item>
-        <item>Modra</item>
-        <item>Svetlo modra</item>
-        <item>Cyan</item>
-        <item>Teal</item>
-        <item>Zelena</item>
-        <item>Svetlo zelena</item>
-        <item>Jantarna</item>
-        <item>Oranžna</item>
-        <item>Globoka oranžna</item>
-        <item>Modrosiva </item>
-        <item>Temna</item>
-        <item>AMOLED črna</item>
-    </string-array>
     <string name="theme">Tema</string>
     <string name="skip_beginning">Preskoči začetek</string>
     <string name="time_display_second_short_format">sek</string>
@@ -1393,4 +1372,7 @@
     <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
     <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
     <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Mark the current playback position as a chapter after the sleep timer is fired.</string>
+    <string name="appearance">Appearance</string>
+    <string name="accent_color">Accent color</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
 </resources>

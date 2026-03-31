@@ -239,29 +239,6 @@
     <string name="state_on">"Увімкнено"</string>
     <string name="state_off">"Вимкнено"</string>
     <string name="stop_sleep_timer">"Вимкнути таймер сну"</string>
-
-    <string-array name="ui_theme_text">
-        <item>Цілком біла</item>
-        <item>Біла</item>
-        <item>"Червона"</item>
-        <item>"Рожева"</item>
-        <item>"Багрова"</item>
-        <item>"Темно-фіолетова"</item>
-        <item>"Індіго"</item>
-        <item>"Синя"</item>
-        <item>"Світло-синя"</item>
-        <item>"Голуба"</item>
-        <item>"Смарагдова"</item>
-        <item>"Зелена"</item>
-        <item>"Світло-зелена"</item>
-        <item>"Бурштинова"</item>
-        <item>"Помаранчева"</item>
-        <item>"Темно-помаранчева"</item>
-        <item>"Сіро-синя"</item>
-        <item>"Темна"</item>
-        <item>"Чорна (для AMOLED)"</item>
-    </string-array>
-
     <string name="theme">"Тема"</string>
     <string name="skip_beginning">"Пропустити початок"</string>
     <string name="time_display_second_short_format">"сек."</string>
@@ -1391,4 +1368,7 @@
     <string name="scroll_to_the_playing_episode">Прокрутити до відтворюваного епізоду</string>
     <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Прокрутити до відтворюваного наразі епізоду після відкриття списку.</string>
     <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Позначати поточну позицію відтворення як розділ після спрацьовування таймера сну.</string>
+    <string name="appearance">Appearance</string>
+    <string name="accent_color">Accent color</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
 </resources>

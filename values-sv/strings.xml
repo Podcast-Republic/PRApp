@@ -213,14 +213,11 @@
     <string name="fast_forward">Spola framåt</string>
     <string name="fast_rewind">Spola bakåt</string>
     <string name="play_pause">Spela/Pausa</string>
-
     <string name="none">Inget</string>
     <string name="sort_asc">Sortera stigande</string>
     <string name="sort_desc">Sortera fallande</string>
-
     <string name="undo_delete">Ångra ta bort</string>
     <string name="language">Språk</string>
-
     <string name="equalizer">Equalizer</string>
     <string name="sort">Sortera</string>
     <string name="continue_">Fortsätt</string>
@@ -242,31 +239,7 @@
     <string name="state_on">På</string>
     <string name="state_off">Av</string>
     <string name="stop_sleep_timer">Av</string>
-
-    <string-array name="ui_theme_text">
-        <item>All White</item>
-        <item>Vit</item>
-        <item>Röd</item>
-        <item>Rosa</item>
-        <item>Lila</item>
-        <item>Mörklila</item>
-        <item>Indigo</item>
-        <item>Blå</item>
-        <item>Ljusblå</item>
-        <item>Cyan</item>
-        <item>Blågrön</item>
-        <item>Grön</item>
-        <item>Ljusgrön</item>
-        <item>Brungul</item>
-        <item>Orange</item>
-        <item>Mörkorange</item>
-        <item>Blågrå</item>
-        <item>Grå</item>
-        <item>AMOLED Black</item>
-    </string-array>
-
     <string name="theme">Färgschema</string>
-
     <string name="skip_beginning">Hoppa över början</string>
     <string name="time_display_second_short_format">sek</string>
     <string name="search_episodes">Sök avsnitt</string>
@@ -277,7 +250,6 @@
     <string name="view_library_as">Visa som…</string>
     <string name="list_view">Lista</string>
     <string name="grid_view">Rutnät</string>
-
     <string name="playback_mode_playlist">Spelliste-läge</string>
     <string name="playback_mode_single_episode">Spela enstaka avsnitt</string>
     <string name="s_has_been_added_to_subscription">"%1$s prenumereras nu"</string>
@@ -287,7 +259,6 @@
     <string name="fast_forward_time">Tid för snabbspolning framåt</string>
     <string name="fast_rewind_time">Tid för snabbspolning bakåt</string>
     <string name="play_stop">Play/Stop</string>
-
     <string name="buttons">Knappar</string>
     <string name="when_lost_audio_focus">När ljudet tillfälligt avbryts</string>
     <string name="lower_audio_volume">Sänk volymen</string>
@@ -300,7 +271,6 @@
     <string name="edit">Redigera</string>
     <string name="time_display_minute_short_format">min</string>
     <string name="keep_screen_on">Håll skärmen aktiv</string>
-
     <string name="backup_restore">Backup och återställning</string>
     <string name="backup">Backup</string>
     <string name="restore_settings_database">Återställ inställningar och databas</string>
@@ -311,7 +281,6 @@
     <string name="backup_successful_s">Säkerhetskopiering lyckades: %1$s</string>
     <string name="backup_failed_">Säkerhetskopiering misslyckades!</string>
     <string name="when_headset_bluetooth_disconnected">När headset/Bluetooth kopplas från</string>
-
     <string name="add_a_virtual_podcast">Lägg till virtuell podcast</string>
     <string name="create_a_virtual_podcast_repository_by_selecting_a_directory_on_your_device_each_media_file_in_the_selected_directory_will_be_imported_as_episode_you_can_manually_add_or_remove_media_files_into_the_directory_later_">Skapa en "virtuell podcast" genom att markera en mapp på din enhet. Alla mediafiler som läggs i mappen importeras som ett nytt avsnitt. Du kan lägga till eller ta bort filer ur mappen senare.</string>
     <string name="location">Plats</string>
@@ -1400,4 +1369,7 @@
     <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
     <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
     <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Mark the current playback position as a chapter after the sleep timer is fired.</string>
+    <string name="appearance">Appearance</string>
+    <string name="accent_color">Accent color</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
 </resources>

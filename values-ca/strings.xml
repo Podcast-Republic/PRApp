@@ -217,7 +217,7 @@
     <string name="car_mode">"Mode cotxe"</string>
     <string name="update_artwork">"Actualitza la caràtula"</string>
     <string name="enter_new_artwork_url">"Introdueix un nou URL de caràtula"</string>
-    <string name="sleep_timer">"Temporitzador de dormir"</string>
+    <string name="sleep_timer">"Temporitzador de repòs"</string>
     <string name="last_updated_s">"Última actualització: %1$s"</string>
     <string name="fast_forward">"Avanç ràpid"</string>
     <string name="fast_rewind">"Rebobinat ràpid"</string>
@@ -324,7 +324,7 @@
     <string name="download_removed">"Descàrrega eliminada"</string>
     <string name="load_artworks_only_when_connected_to_wifi">"Carrega caràtules només quan estiguis connectat a Wi-Fi."</string>
     <string name="load_artwork_via_wifi_only">"Carrega caràtules només per Wi-Fi"</string>
-    <string name="when_pressing_an_episode_in_the_list">"Al prémer un episodi a la llista"</string>
+    <string name="when_pressing_an_episode_in_the_list">"Al prémer un episodi de la llista"</string>
     <string name="start_playing">"Comença a reproduir"</string>
     <string name="display_episode_artwork">"Mostra la caràtula de l'episodi"</string>
     <string name="ringtone">"To de trucada"</string>
@@ -837,7 +837,7 @@
     <string name="there_are_no_played_episodes_">"No hi ha episodis reproduïts!"</string>
     <string name="there_are_no_favorite_episodes_">"No hi ha episodis preferits!"</string>
     <string name="there_are_no_downloaded_episodes_">"No hi ha episodis descarregats!"</string>
-    <string name="start_playing_and_go_to_now_playing">"Comença a reproduir i ves a Reproduint ara"</string>
+    <string name="start_playing_and_go_to_now_playing">"Comença a reproduir i ves a «Reproduint ara»"</string>
     <string name="show_unplayed_count">"Mostra el recompte de no reproduïts"</string>
     <string name="hide_unplayed_count">"Amaga el recompte de no reproduïts"</string>
     <string name="show_recent_count">"Mostra el recompte de recents"</string>
@@ -1144,7 +1144,7 @@
     <string name="rotate_by_podcast_and_priority">"Rota entre podcasts i prioritats"</string>
     <string name="grouping">"Agrupació"</string>
     <string name="display_chapter_title_and_artwork">"Mostra el títol i la caràtula del capítol"</string>
-    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">"Si el capítol existeix, mostra el títol del capítol i la caràtula a Reproduint ara."</string>
+    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">"Si el capítol existeix, mostra el títol del capítol i la caràtula a «Reproduint ara»."</string>
     <string name="subscribed_date">"Data de subscripció"</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">"Durada mínima del silenci per activar l'eliminació: %.2fs."</string>
     <string name="_2f_second_short_format">"%.2fs"</string>
@@ -1369,12 +1369,12 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">"El temporitzador de repòs es desactiva temporalment quan utilitzes Android Auto."</string>
     <string name="disable_sleep_timer">"Desactiva el temporitzador de repòs"</string>
     <string name="transcript">"Transcripció"</string>
-    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
-    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
-    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Mark the current playback position as a chapter after the sleep timer is fired.</string>
-    <string name="appearance">Appearance</string>
-    <string name="accent_color">Accent color</string>
-    <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
-    <string name="dynamic_now_playing_color">"Dynamic 'Now playing' color"</string>
-    <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Use the color from currently playing podcast artwork as the background of the 'Now playing' screen."</string>
+    <string name="scroll_to_the_playing_episode">Desplaça't fins al capítol que s'està reproduint</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Desplaça't fins al capítol que s'està reproduint després que la llista es carregui.</string>
+    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Marca la posició actual de reproducció com un capítol després que el temporitzador de repòs s'activi.</string>
+    <string name="appearance">Aparença</string>
+    <string name="accent_color">Color d'accent</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Tria un color d'accent preferit per l'aplicació.</string>
+    <string name="dynamic_now_playing_color">"Color dinàmic de «Reproduint ara»"</string>
+    <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Utilitza el color de la imatge del podcast actualment en reproducció com a fons de la pantalla «Reproduint ara»."</string>
 </resources>

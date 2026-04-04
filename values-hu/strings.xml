@@ -1143,7 +1143,7 @@
     <string name="rotate_by_podcast_and_priority">Forgatás podcast prioritás szerint</string>
     <string name="grouping">Csoportosítás</string>
     <string name="display_chapter_title_and_artwork">Fejezetcím és borítókép</string>
-    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Fejezetcím és borítókép megjelenítése a Most lejátszottakban, ha vannak fejezetek</string>
+    <string name="display_chapter_title_and_artwork_in_now_playing_if_chapter_exists">Fejezetcím és borítókép megjelenítése a \"Most lejátszottakban\", ha vannak fejezetek</string>
     <string name="subscribed_date">Előfizetés dátuma</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Csend minimális időtartama az aktív eltávolításig: %.2fs.</string>
     <string name="_2f_second_short_format">%.2fs</string>
@@ -1373,7 +1373,7 @@
     <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Jelölje meg az aktuális lejátszási pozíciót fejezetként, miután az alvó időzítő elindult.</string>
     <string name="appearance">Megjelenés</string>
     <string name="accent_color">Kiemelés színe</string>
-    <string name="choose_a_preferred_accent_color_for_the_app_">Válasszon kiemelés színt az alkalmazáshoz.</string>
-    <string name="dynamic_now_playing_color">"Dynamic 'Now playing' color"</string>
-    <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Use the color from currently playing podcast artwork as the background of the 'Now playing' screen."</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">Válasszon kiemelés színt az alkalmazáshoz</string>
+    <string name="dynamic_now_playing_color">"Dinamikus \"Most lejátszott\" szín</string>
+    <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">Használja a jelenleg lejátszott podcast borítójának színét a \"Most hallgatott\" képernyő háttérképeként</string>
 </resources>

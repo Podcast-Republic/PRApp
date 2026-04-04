@@ -1371,7 +1371,6 @@
 	<string name="appearance">Design</string>
 	<string name="accent_color">Akzentfarbe</string>
 	<string name="choose_a_preferred_accent_color_for_the_app_">Wähle eine bevorzugte Akzentfarbe für die App aus.</string>
-    <string name="dynamic_now_playing_color">"Dynamic 'Now playing' color"</string>
-	<string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Use the color from currently playing podcast artwork as the background of the 'Now playing' screen."</string>
+	<string name="dynamic_now_playing_color">"Dynamische Farbe für Wiedergabefenster"</string>
+	<string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Die Cover-Farbe des aktuell abgespielten Podcasts wird als Hintergrund für das Wiedergabefenster verwendet."</string>
 </resources>
-

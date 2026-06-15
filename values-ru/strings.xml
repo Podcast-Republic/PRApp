@@ -1153,7 +1153,8 @@
     <string name="artwork">Обложка</string>
     <string name="android_12_start_foreground_service_error_message">Android не позволяет начать воспроизведение, пока приложение находится в фоновом режиме. Пожалуйста, откройте приложение, чтобы начать воспроизведение, или исключите это приложение из оптимизации заряда батареи в настройках Android.</string>
     <string name="delete_selected_articles_">Удалить выбранные статьи?</string>
-    <string name="reddit">Reddit</string>
+    <string name="reddit_app">Reddit</string>
+    <string name="threads_app">Threads</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Разрешить приложению создавать подробный журнал.</string>
     <string name="subscribed_date">Дата подписки</string>
     <string name="minimum_silence_duration_to_active_removal_f_second_short_format">Минимальная продолжительность молчания для активного удаления: %.2fs.</string>
@@ -1374,4 +1375,5 @@
     <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
     <string name="dynamic_now_playing_color">"Dynamic 'Now playing' color"</string>
     <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Use the color from currently playing podcast artwork as the background of the 'Now playing' screen."</string>
+    <string name="set_sleep_timer_after_this_chapter">Set sleep timer after this chapter</string>
 </resources>

@@ -1174,7 +1174,8 @@
     <string name="mark_all_as_unread">Označi vse kot neprebrano</string>
     <string name="read_as_adj">Preberi</string>
     <string name="delete_selected_articles_">Delete selected articles?</string>
-    <string name="reddit">Reddit</string>
+    <string name="reddit_app">Reddit</string>
+    <string name="threads_app">Threads</string>
     <string name="allow_the_app_to_create_detailed_app_log_">Allow the app to create detailed app log.</string>
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
@@ -1377,4 +1378,5 @@
     <string name="choose_a_preferred_accent_color_for_the_app_">Choose a preferred accent color for the app.</string>
     <string name="dynamic_now_playing_color">"Dynamic 'Now playing' color"</string>
     <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Use the color from currently playing podcast artwork as the background of the 'Now playing' screen."</string>
+    <string name="set_sleep_timer_after_this_chapter">Set sleep timer after this chapter</string>
 </resources>

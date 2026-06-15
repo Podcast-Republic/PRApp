@@ -1170,7 +1170,8 @@
 	<string name="mark_all_as_unread">Alle als ungelesen markieren</string>
 	<string name="read_as_adj">Gelesen</string>
 	<string name="delete_selected_articles_">Ausgewählte Artikel löschen?</string>
-	<string name="reddit">Reddit</string>
+	<string name="reddit_app">Reddit</string>
+    <string name="threads_app">Threads</string>
 	<string name="allow_the_app_to_create_detailed_app_log_">Erlaube der App, ein detailliertes App-Log zu erstellen.</string>
 	<string name="send_a_bug_report_with_app_log_">Sende einen Fehlerbericht mit App-Log.</string>
 	<string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">\"Als Nächstes\" nicht mehr durch die derzeit wiedergegebene Folgen- oder Playliste aktualisieren?</string>
@@ -1373,4 +1374,5 @@
 	<string name="choose_a_preferred_accent_color_for_the_app_">Wähle eine bevorzugte Akzentfarbe für die App aus.</string>
 	<string name="dynamic_now_playing_color">"Dynamische Farbe für Wiedergabefenster"</string>
 	<string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Die Cover-Farbe des aktuell abgespielten Podcasts wird als Hintergrund für das Wiedergabefenster verwendet."</string>
+    <string name="set_sleep_timer_after_this_chapter">Set sleep timer after this chapter</string>
 </resources>

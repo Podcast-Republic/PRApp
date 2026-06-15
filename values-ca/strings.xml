@@ -1174,7 +1174,7 @@
     <string name="mark_all_as_unread">"Marca-ho tot com a no llegit"</string>
     <string name="read_as_adj">"Llegit"</string>
     <string name="delete_selected_articles_">"Suprimir els articles seleccionats?"</string>
-    <string name="reddit">"Reddit"</string>
+    <string name="reddit_app">"Reddit"</string>
     <string name="allow_the_app_to_create_detailed_app_log_">"Permet que l'aplicació creï un registre detallat de l'aplicació."</string>
     <string name="send_a_bug_report_with_app_log_">"Envia un informe d'error amb el registre de l'aplicació."</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">"Deixar d'actualitzar «A continuació» amb la llista d'episodis o la llista de reproducció que s'està reproduint?"</string>
@@ -1369,12 +1369,13 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">"El temporitzador de repòs es desactiva temporalment quan utilitzes Android Auto."</string>
     <string name="disable_sleep_timer">"Desactiva el temporitzador de repòs"</string>
     <string name="transcript">"Transcripció"</string>
-    <string name="scroll_to_the_playing_episode">Desplaça't fins al capítol que s'està reproduint</string>
-    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Desplaça't fins al capítol que s'està reproduint després que la llista es carregui.</string>
-    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Marca la posició actual de reproducció com un capítol després que el temporitzador de repòs s'activi.</string>
+    <string name="scroll_to_the_playing_episode">"Desplaça't fins al capítol que s'està reproduint"</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">"Desplaça't fins al capítol que s'està reproduint després que la llista es carregui."</string>
+    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">"Marca la posició actual de reproducció com un capítol després que el temporitzador de repòs s'activi."</string>
     <string name="appearance">Aparença</string>
-    <string name="accent_color">Color d'accent</string>
-    <string name="choose_a_preferred_accent_color_for_the_app_">Tria un color d'accent preferit per l'aplicació.</string>
+    <string name="accent_color">"Color d'accent"</string>
+    <string name="choose_a_preferred_accent_color_for_the_app_">"Tria un color d'accent preferit per l'aplicació."</string>
     <string name="dynamic_now_playing_color">"Color dinàmic de «Reproduint ara»"</string>
     <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Utilitza el color de la imatge del podcast actualment en reproducció com a fons de la pantalla «Reproduint ara»."</string>
+    <string name="set_sleep_timer_after_this_chapter">Set sleep timer after this chapter</string>
 </resources>

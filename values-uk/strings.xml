@@ -1374,5 +1374,5 @@
     <string name="choose_a_preferred_accent_color_for_the_app_">Обрати бажаний акцентний колір для застосунку.</string>
     <string name="dynamic_now_playing_color">Динамічний колір програвача</string>
     <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">Використовувати колір обкладинки поточного подкасту як фон екрана програвача.</string>
-    <string name="set_sleep_timer_after_this_chapter">Set sleep timer after this chapter</string>
+    <string name="set_sleep_timer_after_this_chapter">Встановити таймер сну після цього розділу</string>
 </resources>

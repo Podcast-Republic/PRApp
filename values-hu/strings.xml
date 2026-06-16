@@ -1377,5 +1377,5 @@
     <string name="choose_a_preferred_accent_color_for_the_app_">Válasszon kiemelés színt az alkalmazáshoz</string>
     <string name="dynamic_now_playing_color">"Dinamikus \"Most lejátszott\" szín</string>
     <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">Használja a jelenleg lejátszott podcast borítójának színét a \"Most hallgatott\" képernyő háttérképeként.</string>
-    <string name="set_sleep_timer_after_this_chapter">Set sleep timer after this chapter</string>
+    <string name="set_sleep_timer_after_this_chapter">Alvóüzemmód időzítő beállítása a fejezet vége után</string>
 </resources>

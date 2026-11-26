@@ -1,304 +1,304 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"Poslouchali jste: %1$d episode, %2$s."</item>
-        <item quantity="few">"Poslouchali jste: %1$d episodes, %2$s."</item>
-        <item quantity="many">"Poslouchali jste: %1$d episodes, %2$s."</item>
-        <item quantity="other">"Poslouchali jste: %1$d episodes, %2$s."</item>
+        <item quantity="one">"Poslouchali jste: %1$d epizodu, %2$s."</item>
+        <item quantity="few">"Poslouchali jste: %1$d epizody, %2$s."</item>
+        <item quantity="many">"Poslouchali jste: %1$d epizody, %2$s."</item>
+        <item quantity="other">"Poslouchali jste: %1$d epizod, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d line</item>
-        <item quantity="few">%1$d řádků</item>
-        <item quantity="many">%1$d řádků</item>
+        <item quantity="one">%1$d řádek</item>
+        <item quantity="few">%1$d řádky</item>
+        <item quantity="many">%1$d řádku</item>
         <item quantity="other">%1$d řádků</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">%1$d nejnovější epizod.</item>
-        <item quantity="few">%1$d nejnovějších epizod.</item>
-        <item quantity="many">%1$d nejnovějších epizod.</item>
+        <item quantity="one">%1$d nejnovější epizoda.</item>
+        <item quantity="few">%1$d nejnovější epizody.</item>
+        <item quantity="many">%1$d nejnovější epizody.</item>
         <item quantity="other">%1$d nejnovějších epizod.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Zobrazí posledních %d epizod.</item>
-        <item quantity="few">Zobrazí posledních %d epizod.</item>
-        <item quantity="many">Zobrazí posledních %d epizod.</item>
-        <item quantity="other">Zobrazí posledních %d epizod.</item>
+        <item quantity="one">Zobrazí %1$d nejnovější epizodu.</item>
+        <item quantity="few">Zobrazí %1$d nejnovější epizody.</item>
+        <item quantity="many">Zobrazí %1$d nejnovější epizody.</item>
+        <item quantity="other">Zobrazí posledních %1$d epizod.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Označit všechny epizody %1$d jako přehrané?</item>
-        <item quantity="few">Označit všechny epizody %1$d jako přehrané?</item>
-        <item quantity="many">Označit všechny epizody %1$d jako přehrané?</item>
-        <item quantity="other">Označit všechny epizody %1$d jako přehrané?</item>
+        <item quantity="one">Označit epizodu jako přehranou?</item>
+        <item quantity="few">Označit %1$d epizody jako přehrané?</item>
+        <item quantity="many">Označit %1$d epizody jako přehrané?</item>
+        <item quantity="other">Označit všech %1$d epizod jako přehrané?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Označit všechny epizody %1$d jako nepřehrané?</item>
-        <item quantity="few">Označit všechny epizody %1$d jako nepřehrané?</item>
-        <item quantity="many">Označit všechny epizody %1$d jako nepřehrané?</item>
-        <item quantity="other">Označit všechny epizody %1$d jako nepřehrané?</item>
+        <item quantity="one">Označit epizodu jako nepřehranou?</item>
+        <item quantity="few">Označit %1$d epizody jako nepřehrané?</item>
+        <item quantity="many">Označit %1$d epizody jako nepřehrané?</item>
+        <item quantity="other">Označit všech %1$d epizod jako nepřehrané?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Označit všechny podcasty %1$d jako přehrané?</item>
-        <item quantity="few">Označit všechny podcasty %1$d jako přehrané?</item>
-        <item quantity="many">Označit všechny podcasty %1$d jako přehrané?</item>
-        <item quantity="other">Označit všechny podcasty %1$d jako přehrané?</item>
+        <item quantity="one">Označit podcast jako přehraný?</item>
+        <item quantity="few">Označit %1$d podcasty jako přehrané?</item>
+        <item quantity="many">Označit %1$d podcastu jako přehrané?</item>
+        <item quantity="other">Označit všech %1$d podcastů jako přehrané?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Označit všechny kanály %1$d jako přečtené?</item>
-        <item quantity="few">Označit všechny kanály %1$d jako přečtené?</item>
-        <item quantity="many">Označit všechny kanály %1$d jako přečtené?</item>
-        <item quantity="other">Označit všechny kanály %1$d jako přečtené?</item>
+        <item quantity="one">Označit kanál jako přečtený?</item>
+        <item quantity="few">Označit %1$d kanály jako přečtené?</item>
+        <item quantity="many">Označit %1$d kanálu jako přečtené?</item>
+        <item quantity="other">Označit všech %1$d kanálů jako přečtené?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Označit vše %d jako přečtené?</item>
-        <item quantity="few">Označit vše %d jako přečtené?</item>
-        <item quantity="many">Označit vše %d jako přečtené?</item>
-        <item quantity="other">Označit vše %d jako přečtené?</item>
+        <item quantity="one">Označit článek jako přečtený?</item>
+        <item quantity="few">Označit %1$d články jako přečtené?</item>
+        <item quantity="many">Označit %1$d článku jako přečtené?</item>
+        <item quantity="other">Označit všech %1$d článků jako přečtené?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="few">Mark all %1$d articles as unread?</item>
-        <item quantity="many">Mark all %1$d articles as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">Označit článek jako nepřečtený?</item>
+        <item quantity="few">Označit %1$d články jako nepřečtené?</item>
+        <item quantity="many">Označit %1$d článku jako nepřečtené?</item>
+        <item quantity="other">Označit všech %1$d článků jako nepřečtené?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
-        <item quantity="few">Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
-        <item quantity="many">Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
-        <item quantity="other">Automaticky stahovat až %d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
+        <item quantity="one">Automaticky stahovat %1$d nejnovější nepřehranou epizodu z aktuálního podcastu.</item>
+        <item quantity="few">Automaticky stahovat až %1$d nejnovější nepřehrané epizody z aktuálního podcastu.</item>
+        <item quantity="many">Automaticky stahovat až %1$d nejnovější nepřehrané epizody z aktuálního podcastu.</item>
+        <item quantity="other">Automaticky stahovat až %1$d nejnovějších a nepřehraných epizod z aktuálního podcastu.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu.</item>
-        <item quantity="few">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu.</item>
-        <item quantity="many">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu.</item>
-        <item quantity="other">Stáhnout až %d starších a nepřehraných epizod z přehrávaného podcastu.</item>
+        <item quantity="one">Stáhnout %1$d starší nepřehranou epizodu z přehrávaného podcastu.</item>
+        <item quantity="few">Stáhnout až %1$d starší nepřehrané epizody z přehrávaného podcastu.</item>
+        <item quantity="many">Stáhnout až %1$d starší nepřehrané epizody z přehrávaného podcastu.</item>
+        <item quantity="other">Stáhnout až %1$d starších a nepřehraných epizod z přehrávaného podcastu.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Automaticky stahovat až %1$d nejnovějších při načtení nových epizod.</item>
-        <item quantity="few">Automaticky stahovat až %1$d nejnovějších při načtení nových epizod.</item>
-        <item quantity="many">Automaticky stahovat až %1$d nejnovějších při načtení nových epizod.</item>
+        <item quantity="one">Automaticky stahovat %1$d nejnovější epizodu při načtení nových epizod.</item>
+        <item quantity="few">Automaticky stahovat až %1$d nejnovější epizody při načtení nových epizod.</item>
+        <item quantity="many">Automaticky stahovat až %1$d nejnovější epizody při načtení nových epizod.</item>
         <item quantity="other">Automaticky stahovat až %1$d nejnovějších při načtení nových epizod.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="few">Display maximum %1$d lines of title.</item>
-        <item quantity="many">Display maximum %1$d lines of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Zobrazit maximálně %1$d řádek titulu.</item>
+        <item quantity="few">Zobrazit maximálně %1$d řádky titulu.</item>
+        <item quantity="many">Zobrazit maximálně %1$d řádku titulu.</item>
+        <item quantity="other">Zobrazit maximálně %1$d řádků titulu.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">Epizoda přidána do seznamu.</item>
-        <item quantity="few">"Epizody %1$d byly přidány do seznamu."</item>
-        <item quantity="many">"Epizody %1$d byly přidány do seznamu."</item>
-        <item quantity="other">"Epizody %1$d byly přidány do seznamu."</item>
+        <item quantity="one">Epizoda byla přidána do seznamu skladeb.</item>
+        <item quantity="few">%1$d epizody byly přidány do seznamu skladeb.</item>
+        <item quantity="many">%1$d epizody bylo přidáno do seznamu skladeb.</item>
+        <item quantity="other">%1$d epizod bylo přidáno do seznamu skladeb.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">"Epizoda přidána ke staženým."</item>
-        <item quantity="few">"Ke stahování byly přidány epizody %1$d."</item>
-        <item quantity="many">"Ke stahování byly přidány epizody %1$d."</item>
-        <item quantity="other">"Ke stahování byly přidány epizody %1$d."</item>
+        <item quantity="one">Epizoda byla přidána ke stažení.</item>
+        <item quantity="few">%1$d epizody byly přidány ke stažení.</item>
+        <item quantity="many">%1$d epizody bylo přidáno ke stažení.</item>
+        <item quantity="other">%1$d epizod bylo přidáno ke stažení.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Naplánovat automatické zálohování každých %1$d dnů."</item>
-        <item quantity="few">"Naplánovat automatické zálohování každých %1$d dnů."</item>
-        <item quantity="many">"Naplánovat automatické zálohování každých %1$d dnů."</item>
-        <item quantity="other">"Naplánovat automatické zálohování každých %1$d dnů."</item>
+        <item quantity="one">Naplánovat automatické zálohování každý den.</item>
+        <item quantity="few">Naplánovat automatické zálohování každé %1$d dny.</item>
+        <item quantity="many">Naplánovat automatické zálohování každého %1$d dne.</item>
+        <item quantity="other">Naplánovat automatické zálohování každých %1$d dní.</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Udržovat nejnovější %1$d automatické zálohy."</item>
-        <item quantity="few">"Udržovat nejnovější %1$d automatické zálohy."</item>
-        <item quantity="many">"Udržovat nejnovější %1$d automatické zálohy."</item>
-        <item quantity="other">"Udržovat nejnovější %1$d automatické zálohy."</item>
+        <item quantity="one">Ponechat %1$d nejnovější automatickou zálohu.</item>
+        <item quantity="few">Ponechat %1$d nejnovější automatické zálohy.</item>
+        <item quantity="many">Ponechat %1$d nejnovější automatické zálohy.</item>
+        <item quantity="other">Ponechat %1$d nejnovějších automatických záloh.</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minut"</item>
-        <item quantity="few">"%1$d minut"</item>
-        <item quantity="many">"%1$d minut"</item>
-        <item quantity="other">"%1$d minut"</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+        <item quantity="many">%1$d minuty</item>
+        <item quantity="other">%1$d minut</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minut."</item>
-        <item quantity="few">"&gt; %1$d minut."</item>
-        <item quantity="many">"&gt; %1$d minut."</item>
-        <item quantity="other">"&gt; %1$d minut."</item>
+        <item quantity="one">&gt; %1$d minuta.</item>
+        <item quantity="few">&gt; %1$d minuty.</item>
+        <item quantity="many">&gt; %1$d minuty.</item>
+        <item quantity="other">&gt; %1$d minut.</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minut."</item>
-        <item quantity="few">"&lt; %1$d minut."</item>
-        <item quantity="many">"&lt; %1$d minut."</item>
-        <item quantity="other">"&lt; %1$d minut."</item>
+        <item quantity="one">&lt; %1$d minuta.</item>
+        <item quantity="few">&lt; %1$d minuty.</item>
+        <item quantity="many">&lt; %1$d minuty.</item>
+        <item quantity="other">&lt; %1$d minut.</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"V %1$d minutách"</item>
-        <item quantity="few">"V %1$d minutách"</item>
-        <item quantity="many">"V %1$d minutách"</item>
-        <item quantity="other">"V %1$d minutách"</item>
+        <item quantity="one">Po %1$d minutě</item>
+        <item quantity="few">Po %1$d minutách</item>
+        <item quantity="many">Po %1$d minutách</item>
+        <item quantity="other">Po %1$d minutách</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Přidat %1$d minut"</item>
-        <item quantity="few">"Přidat %1$d minut"</item>
-        <item quantity="many">"Přidat %1$d minut"</item>
-        <item quantity="other">"Přidat %1$d minut"</item>
+        <item quantity="one">Prodloužit o %1$d minutu</item>
+        <item quantity="few">Prodloužit o %1$d minuty</item>
+        <item quantity="many">Prodloužit o %1$d minuty</item>
+        <item quantity="other">Prodloužit o %1$d minut</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"Stahovat všechny epizody %1$d ?"</item>
-        <item quantity="few">"Stahovat všechny epizody %1$d ?"</item>
-        <item quantity="many">"Stahovat všechny epizody %1$d ?"</item>
-        <item quantity="other">"Stahovat všechny epizody %1$d ?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Stáhnout jednu epizodu?</item>
+        <item quantity="few">Stáhnout všechny %1$d epizody?</item>
+        <item quantity="many">Stáhnout všech %1$d epizod?</item>
+        <item quantity="other">Stáhnout všech %1$d epizod?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Přidat všech %1$d epizod na další?"</item>
-        <item quantity="few">"Přidat všech %1$d epizod na další?"</item>
-        <item quantity="many">"Přidat všech %1$d epizod na další?"</item>
-        <item quantity="other">"Přidat všech %1$d epizod na další?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Přidat epizodu do Následujících?</item>
+        <item quantity="few">Přidat všechny %1$d epizody do Následujících?</item>
+        <item quantity="many">Přidat všech %1$d epizod do Následujících?</item>
+        <item quantity="other">Přidat všech %1$d epizod do Následujících?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"Přidat všech %1$d epizod do seznamu skladeb?"</item>
-        <item quantity="few">"Přidat všech %1$d epizod do seznamu skladeb?"</item>
-        <item quantity="many">"Přidat všech %1$d epizod do seznamu skladeb?"</item>
-        <item quantity="other">"Přidat všech %1$d epizod do seznamu skladeb?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Přidat epizodu do seznamu skladeb?</item>
+        <item quantity="few">Přidat všechny %1$d epizody do seznamu skladeb?</item>
+        <item quantity="many">Přidat všech %1$d epizod do seznamu skladeb?</item>
+        <item quantity="other">Přidat všech %1$d epizod do seznamu skladeb?</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
-        <item quantity="few">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
-        <item quantity="many">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
-        <item quantity="other">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
+        <item quantity="one">Ponechat %1$d nejnovější stažení pro každý podcast.</item>
+        <item quantity="few">Ponechat %1$d nejnovější stažení pro každý podcast.</item>
+        <item quantity="many">Ponechat %1$d nejnovějšího stažení pro každý podcast.</item>
+        <item quantity="other">Ponechat %1$d nejnovějších stažení pro každý podcast.</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
-        <item quantity="few">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
-        <item quantity="many">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
-        <item quantity="other">"Udržovat nejnovějších %1$d stahování pro každý podcast."</item>
+        <item quantity="one">Ponechat %1$d nejnovější stažení tohoto podcastu.</item>
+        <item quantity="few">Ponechat %1$d nejnovější stažení tohoto podcastu.</item>
+        <item quantity="many">Ponechat %1$d nejnovějšího stažení tohoto podcastu.</item>
+        <item quantity="other">Ponechat %1$d nejnovějších stažení tohoto podcastu.</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="few">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="many">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one">Označit všechny epizody starší než nejnovější epizoda jako přehrané po načtení nových epizod.</item>
+        <item quantity="few">Označit všechny epizody starší než nejnovější %1$d epizody jako přehrané po načtení nových epizod.</item>
+        <item quantity="many">Označit všechny epizody starší než nejnovější %1$d epizody jako přehrané po načtení nových epizod.</item>
+        <item quantity="other">Označit všechny epizody starší než nejnovějších %1$d epizod jako přehrané po načtení nových epizod.</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Zachovat články za %d dní."</item>
-        <item quantity="few">"Zachovat články za %d dní."</item>
-        <item quantity="many">"Zachovat články za %d dní."</item>
-        <item quantity="other">"Zachovat články za %d dní."</item>
+        <item quantity="one">Zachovat články za %1$d den.</item>
+        <item quantity="few">Zachovat články za %1$d dny.</item>
+        <item quantity="many">Zachovat články za %1$d dne.</item>
+        <item quantity="other">Zachovat články za %1$d dní.</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Minimální čas přetočení: %d sekund."</item>
-        <item quantity="few">"Minimální čas přetočení: %d sekund."</item>
-        <item quantity="many">"Minimální čas přetočení: %d sekund."</item>
-        <item quantity="other">"Minimální čas přetočení: %d sekund."</item>
+        <item quantity="one">Minimální čas přetočení: %1$d sekunda.</item>
+        <item quantity="few">Minimální čas přetočení: %1$d sekundy.</item>
+        <item quantity="many">Minimální čas přetočení: %1$d sekundy.</item>
+        <item quantity="other">Minimální čas přetočení: %1$d sekund.</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Maximální čas přetočení: %d sekund."</item>
-        <item quantity="few">"Maximální čas přetočení: %d sekund."</item>
-        <item quantity="many">"Maximální čas přetočení: %d sekund."</item>
-        <item quantity="other">"Maximální čas přetočení: %d sekund."</item>
+        <item quantity="one">Maximální čas přetočení: %1$d sekunda.</item>
+        <item quantity="few">Maximální čas přetočení: %1$d sekundy.</item>
+        <item quantity="many">Maximální čas přetočení: %1$d sekundy.</item>
+        <item quantity="other">Maximální čas přetočení: %1$d sekund.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Select episodes with duration greater than %1$d minute."</item>
-        <item quantity="few">"Select episodes with duration greater than %1$d minutes."</item>
-        <item quantity="many">"Select episodes with duration greater than %1$d minutes."</item>
-        <item quantity="other">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="one">Vybrat epizody s délkou delší než %1$d minuta.</item>
+        <item quantity="few">Vybrat epizody s délkou delší než %1$d minuty.</item>
+        <item quantity="many">Vybrat epizody s délkou delší než %1$d minuty.</item>
+        <item quantity="other">Vybrat epizody s délkou delší než %1$d minut.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Select episodes with duration less than %1$d minute."</item>
-        <item quantity="few">"Select episodes with duration less than %1$d minutes."</item>
-        <item quantity="many">"Select episodes with duration less than %1$d minutes."</item>
-        <item quantity="other">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="one">Vybrat epizody s délkou kratší než %1$d minuta.</item>
+        <item quantity="few">Vybrat epizody s délkou kratší než %1$d minuty.</item>
+        <item quantity="many">Vybrat epizody s délkou kratší než %1$d minuty.</item>
+        <item quantity="other">Vybrat epizody s délkou kratší než %1$d minut.</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Vybrat epizody za posledních %d dnů."</item>
-        <item quantity="few">"Vybrat epizody za posledních %d dnů."</item>
-        <item quantity="many">"Vybrat epizody za posledních %d dnů."</item>
-        <item quantity="other">"Vybrat epizody za posledních %d dnů."</item>
+        <item quantity="one">Vybrat epizody za poslední %1$d den.</item>
+        <item quantity="few">Vybrat epizody za poslední %1$d dny.</item>
+        <item quantity="many">Vybrat epizody za poslední %1$d dne.</item>
+        <item quantity="other">Vybrat epizody za posledních %1$d dnů.</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Přeskočit prvních %d sekund."</item>
-        <item quantity="few">"Přeskočit prvních %d sekund."</item>
-        <item quantity="many">"Přeskočit prvních %d sekund."</item>
-        <item quantity="other">"Přeskočit prvních %d sekund."</item>
+        <item quantity="one">Přeskočit první %1$d sekundu.</item>
+        <item quantity="few">Přeskočit první %1$d sekundy.</item>
+        <item quantity="many">Přeskočit první %1$d sekundy.</item>
+        <item quantity="other">Přeskočit prvních %1$d sekund.</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Přeskočte posledních %d sekund."</item>
-        <item quantity="few">"Přeskočte posledních %d sekund."</item>
-        <item quantity="many">"Přeskočte posledních %d sekund."</item>
-        <item quantity="other">"Přeskočte posledních %d sekund."</item>
+        <item quantity="one">Přeskočit poslední %1$d sekundu.</item>
+        <item quantity="few">Přeskočit poslední %1$d sekundy.</item>
+        <item quantity="many">Přeskočit poslední %1$d sekundy.</item>
+        <item quantity="other">Přeskočit posledních %1$d sekund.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Stáhnout epizodu, pokud je delší než %d minut."</item>
-        <item quantity="few">"Stáhnout epizodu, pokud je delší než %d minut."</item>
-        <item quantity="many">"Stáhnout epizodu, pokud je delší než %d minut."</item>
-        <item quantity="other">"Stáhnout epizodu, pokud je delší než %d minut."</item>
+        <item quantity="one">Stáhnout epizodu, pokud je delší než %1$d minuta.</item>
+        <item quantity="few">Stáhnout epizodu, pokud je delší než %1$d minuty.</item>
+        <item quantity="many">Stáhnout epizodu, pokud je delší než %1$d minuty.</item>
+        <item quantity="other">Stáhnout epizodu, pokud je delší než %1$d minut.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Stáhnout epizodu, pokud je kratší než %d minut."</item>
-        <item quantity="few">"Stáhnout epizodu, pokud je kratší než %d minut."</item>
-        <item quantity="many">"Stáhnout epizodu, pokud je kratší než %d minut."</item>
-        <item quantity="other">"Stáhnout epizodu, pokud je kratší než %d minut."</item>
+        <item quantity="one">Stáhnout epizodu, pokud je kratší než %1$d minuta.</item>
+        <item quantity="few">Stáhnout epizodu, pokud je kratší než %1$d minuty.</item>
+        <item quantity="many">Stáhnout epizodu, pokud je kratší než %1$d minuty.</item>
+        <item quantity="other">Stáhnout epizodu, pokud je kratší než %1$d minut.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Nestahovat epizodu, pokud je delší než %d minut."</item>
-        <item quantity="few">"Nestahovat epizodu, pokud je delší než %d minut."</item>
-        <item quantity="many">"Nestahovat epizodu, pokud je delší než %d minut."</item>
-        <item quantity="other">"Nestahovat epizodu, pokud je delší než %d minut."</item>
+        <item quantity="one">Nestahovat epizodu, pokud je delší než %1$d minuta.</item>
+        <item quantity="few">Nestahovat epizodu, pokud je delší než %1$d minuty.</item>
+        <item quantity="many">Nestahovat epizodu, pokud je delší než %1$d minuty.</item>
+        <item quantity="other">Nestahovat epizodu, pokud je delší než %1$d minut.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Nestahovat epizodu, pokud je kratší než %d minut."</item>
-        <item quantity="few">"Nestahovat epizodu, pokud je kratší než %d minut."</item>
-        <item quantity="many">"Nestahovat epizodu, pokud je kratší než %d minut."</item>
-        <item quantity="other">"Nestahovat epizodu, pokud je kratší než %d minut."</item>
+        <item quantity="one">Nestahovat epizodu, pokud je kratší než %1$d minuta.</item>
+        <item quantity="few">Nestahovat epizodu, pokud je kratší než %1$d minuty.</item>
+        <item quantity="many">Nestahovat epizodu, pokud je kratší než %1$d minuty.</item>
+        <item quantity="other">Nestahovat epizodu, pokud je kratší než %1$d minut.</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Zachovat články za %d dní."</item>
-        <item quantity="few">"Zachovat články za %d dní."</item>
-        <item quantity="many">"Zachovat články za %d dní."</item>
-        <item quantity="other">"Zachovat články za %d dní."</item>
+        <item quantity="one">Zachovat články za %1$d den.</item>
+        <item quantity="few">Zachovat články za %1$d dny.</item>
+        <item quantity="many">Zachovat články za %1$d dne.</item>
+        <item quantity="other">Zachovat články za %1$d dní.</item>
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="few">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="many">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one">Ponechat poslední %1$d přidanou epizodu ze stejného podcastu.</item>
+        <item quantity="few">Ponechat poslední %1$d přidané epizody ze stejného podcastu.</item>
+        <item quantity="many">Ponechat poslední %1$d přidané epizody ze stejného podcastu.</item>
+        <item quantity="other">Ponechat posledních %1$d přidaných epizod ze stejného podcastu.</item>
     </plurals>
 
 </resources>

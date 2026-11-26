@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"You\'ve listened: %1$d episode, %2$s."</item>
-        <item quantity="two">"You\'ve listened: %1$d episodes, %2$s."</item>
-        <item quantity="other">"You\'ve listened: %1$d episodes, %2$s."</item>
+        <item quantity="one">"האזנת ל: %1$d פרק, %2$s."</item>
+        <item quantity="two">"האזנת ל: %1$d פרקים, %2$s."</item>
+        <item quantity="other">"האזנת ל: %1$d פרקים, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d line</item>
-        <item quantity="two">%1$d lines</item>
-        <item quantity="other">%1$d lines</item>
+        <item quantity="one">%1$d שורה</item>
+        <item quantity="two">%1$d שורות</item>
+        <item quantity="other">%1$d שורות</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">%1$d הפרקים האחרונים</item>
+        <item quantity="one">%1$d הפרק האחרון</item>
         <item quantity="two">%1$d הפרקים האחרונים</item>
         <item quantity="other">%1$d הפרקים האחרונים</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Display latest %1$d episode.</item>
-        <item quantity="two">Display latest %1$d episodes.</item>
-        <item quantity="other">Display latest %1$d episodes.</item>
+        <item quantity="one">הצג את %1$d הפרק האחרון.</item>
+        <item quantity="two">הצג את %1$d הפרקים האחרונים.</item>
+        <item quantity="other">הצג את %1$d הפרקים האחרונים.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Mark %1$d episode as played?</item>
-        <item quantity="two">Mark all %1$d episodes as played?</item>
-        <item quantity="other">Mark all %1$d episodes as played?</item>
+        <item quantity="one">לסמן %1$d פרק כנקרא?</item>
+        <item quantity="two">לסמן את כל %1$d הפרקים כנקראים?</item>
+        <item quantity="other">לסמן את כל %1$d הפרקים כנקראים?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Mark %1$d episode as unplayed?</item>
-        <item quantity="two">Mark all %1$d episodes as unplayed?</item>
-        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+        <item quantity="one">לסמן %1$d פרק כלא נקרא?</item>
+        <item quantity="two">לסמן את כל %1$d הפרקים כלא נקראים?</item>
+        <item quantity="other">לסמן את כל %1$d הפרקים כלא נקראים?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Mark %1$d podcast as played?</item>
-        <item quantity="two">Mark all %1$d podcasts as played?</item>
-        <item quantity="other">Mark all %1$d podcasts as played?</item>
+        <item quantity="one">לסמן %1$d פודקאסט כנקרא?</item>
+        <item quantity="two">לסמן את כל %1$d הפודקאסטים כנקראים?</item>
+        <item quantity="other">לסמן את כל %1$d הפודקאסטים כנקראים?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="two">Mark all %1$d feeds as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one">לסמן %1$d ערוץ כנקרא?</item>
+        <item quantity="two">לסמן את כל %1$d הערוצים כנקראים?</item>
+        <item quantity="other">לסמן את כל %1$d הערוצים כנקראים?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">לסמן את כל %d המאמרים כנקראים?</item>
-        <item quantity="two">לסמן את כל %d המאמרים כנקראים?</item>
-        <item quantity="other">לסמן את כל %d המאמרים כנקראים?</item>
+        <item quantity="one">לסמן %1$d מאמר כנקרא?</item>
+        <item quantity="two">לסמן את כל %1$d המאמרים כנקראים?</item>
+        <item quantity="other">לסמן את כל %1$d המאמרים כנקראים?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="two">Mark all %1$d articles as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">לסמן %1$d מאמר כלא נקרא?</item>
+        <item quantity="two">לסמן את כל %1$d המאמרים כלא נקראים?</item>
+        <item quantity="other">לסמן את כל %1$d המאמרים כלא נקראים?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
@@ -67,9 +67,9 @@
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
-        <item quantity="two">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
-        <item quantity="other">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="one">הורדה אוטומטית של עד %1$d פרק ישן שלא הושמע מהפודקאסט המתנגן כעת.</item>
+        <item quantity="two">הורדה אוטומטית של עד %1$d פרקים ישנים שלא הושמעו מהפודקאסט המתנגן כעת.</item>
+        <item quantity="other">הורדה אוטומטית של עד %1$d פרקים ישנים שלא הושמעו מהפודקאסט המתנגן כעת.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
@@ -79,19 +79,19 @@
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="two">Display maximum %1$d lines of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">הצג מקסימום %1$d שורה של כותרת.</item>
+        <item quantity="two">הצג מקסימום %1$d שורות של כותרת.</item>
+        <item quantity="other">הצג מקסימום %1$d שורות של כותרת.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">"פרק אחד נוסף לרשימת ההשמעה"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"פרק אחד נוסף לרשימת ההשמעה"</item>
         <item quantity="two">"%1$d פרקים נוספו לרשימת ההשמעה"</item>
         <item quantity="other">"%1$d פרקים נוספו לרשימת ההשמעה"</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">"פרק אחד נוסף להורדות"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"פרק אחד נוסף להורדות"</item>
         <item quantity="two">"%1$d פרקים נוספו להורדות"</item>
         <item quantity="other">"%1$d פרקים נוספו להורדות"</item>
     </plurals>
@@ -103,159 +103,159 @@
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"שמור %1$d גיבויים אוטומטיים אחרונים"</item>
-        <item quantity="two">"שמור %1$d גיבויים אוטומטיים אחרונים"</item>
-        <item quantity="other">"שמור %1$d גיבויים אוטומטיים אחרונים"</item>
+        <item quantity="one">"שמור גיבוי אוטומטי אחרון %1$d"</item>
+        <item quantity="two">"שמור את %1$d הגיבויים האוטומטיים האחרונים"</item>
+        <item quantity="other">"שמור את %1$d הגיבויים האוטומטיים האחרונים"</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minute"</item>
-        <item quantity="two">"%1$d minutes"</item>
-        <item quantity="other">"%1$d minutes"</item>
+        <item quantity="one">"%1$d דקה"</item>
+        <item quantity="two">"%1$d דקות"</item>
+        <item quantity="other">"%1$d דקות"</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minute."</item>
-        <item quantity="two">"&gt; %1$d minute."</item>
-        <item quantity="other">"&gt; %1$d minutes."</item>
+        <item quantity="one">"&gt; %1$d דקה."</item>
+        <item quantity="two">"&gt; %1$d דקות."</item>
+        <item quantity="other">"&gt; %1$d דקות."</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minute."</item>
-        <item quantity="two">"&lt; %1$d minute."</item>
-        <item quantity="other">"&lt; %1$d minutes."</item>
+        <item quantity="one">"&lt; %1$d דקה."</item>
+        <item quantity="two">"&lt; %1$d דקות."</item>
+        <item quantity="other">"&lt; %1$d דקות."</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"בעוד %1$d דקות"</item>
+        <item quantity="one">"בעוד %1$d דקה"</item>
         <item quantity="two">"בעוד %1$d דקות"</item>
         <item quantity="other">"בעוד %1$d דקות"</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"הוסף %1$d דקות"</item>
+        <item quantity="one">"הוסף %1$d דקה"</item>
         <item quantity="two">"הוסף %1$d דקות"</item>
         <item quantity="other">"הוסף %1$d דקות"</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"הורד את כל %1$d הפרקים?"</item>
-        <item quantity="two">"הורד את כל %1$d הפרקים?"</item>
-        <item quantity="other">"הורד את כל %1$d הפרקים?"</item>
+        <item quantity="one">"להוריד את כל %1$d הפרקים?"</item>
+        <item quantity="two">"להוריד את כל %1$d הפרקים?"</item>
+        <item quantity="other">"להוריד את כל %1$d הפרקים?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Add one episode to Up next?"</item>
-        <item quantity="two">"Add all %1$d episodes to Up next?"</item>
-        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="one">"להוסיף %1$d פרק לרשימת 'הבא בתור'?"</item>
+        <item quantity="two">"להוסיף את כל %1$d הפרקים לרשימת 'הבא בתור'?"</item>
+        <item quantity="other">"להוסיף את כל %1$d הפרקים לרשימת 'הבא בתור'?"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"Add one episode to playlist?"</item>
-        <item quantity="two">"Add all %1$d episodes to playlist?"</item>
-        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="one">"להוסיף %1$d פרק לרשימת ההשמעה?"</item>
+        <item quantity="two">"להוסיף את כל %1$d הפרקים לרשימת ההשמעה?"</item>
+        <item quantity="other">"להוסיף את כל %1$d הפרקים לרשימת ההשמעה?"</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
-        <item quantity="two">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
-        <item quantity="other">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="one">"שמור את ההורדה האחרונה עבור כל פודקאסט."</item>
+        <item quantity="two">"שמור את %1$d ההורדות האחרונות עבור כל פודקאסט."</item>
+        <item quantity="other">"שמור את %1$d ההורדות האחרונות עבור כל פודקאסט."</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
-        <item quantity="two">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
-        <item quantity="other">"שמור %1$d הורדות אחרונות בכל פודקאסט"</item>
+        <item quantity="one">"שמור את ההורדה האחרונה של פודקאסט זה."</item>
+        <item quantity="two">"שמור את %1$d ההורדות האחרונות של פודקאסט זה."</item>
+        <item quantity="other">"שמור את %1$d ההורדות האחרונות של פודקאסט זה."</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="two">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"סמן את כל הפרקים המוקדמים מהפרק האחרון כנקראים לאחר אחזור פרקים חדשים."</item>
+        <item quantity="two">"סמן את כל הפרקים המוקדמים מ-%1$d הפרקים האחרונים כנקראים לאחר אחזור פרקים חדשים."</item>
+        <item quantity="other">"סמן את כל הפרקים המוקדמים מ-%1$d הפרקים האחרונים כנקראים לאחר אחזור פרקים חדשים."</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Keep articles from last %1$d day."</item>
-        <item quantity="two">"Keep articles from last %1$d days."</item>
-        <item quantity="other">"Keep articles from last %1$d days."</item>
+        <item quantity="one">"שמור מאמרים מיום אחד האחרון."</item>
+        <item quantity="two">"שמור מאמרים מ-%1$d הימים האחרונים."</item>
+        <item quantity="other">"שמור מאמרים מ-%1$d הימים האחרונים."</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Minimum rewind time: %1$d second."</item>
-        <item quantity="two">"Minimum rewind time: %1$d seconds."</item>
-        <item quantity="other">"Minimum rewind time: %1$d seconds."</item>
+        <item quantity="one">"זמן אחורה מינימלי: %1$d שניה."</item>
+        <item quantity="two">"זמן אחורה מינימלי: %1$d שניות."</item>
+        <item quantity="other">"זמן אחורה מינימלי: %1$d שניות."</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Maximum rewind time: %1$d second."</item>
-        <item quantity="two">"Maximum rewind time: %1$d seconds."</item>
-        <item quantity="other">"Maximum rewind time: %1$d seconds."</item>
+        <item quantity="one">"זמן אחורה מקסימלי: %1$d שניה."</item>
+        <item quantity="two">"זמן אחורה מקסימלי: %1$d שניות."</item>
+        <item quantity="other">"זמן אחורה מקסימלי: %1$d שניות."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Select episodes with duration greater than %1$d minute."</item>
-        <item quantity="two">"Select episodes with duration greater than %1$d minutes."</item>
-        <item quantity="other">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="one">"בחר פרקים באורך הגדול מדקה אחת."</item>
+        <item quantity="two">"בחר פרקים באורך הגדול מ-%1$d דקות."</item>
+        <item quantity="other">"בחר פרקים באורך הגדול מ-%1$d דקות."</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Select episodes with duration less than %1$d minute."</item>
-        <item quantity="two">"Select episodes with duration less than %1$d minutes."</item>
-        <item quantity="other">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="one">"בחר פרקים באורך הקטן מדקה אחת."</item>
+        <item quantity="two">"בחר פרקים באורך הקטן מ-%1$d דקות."</item>
+        <item quantity="other">"בחר פרקים באורך הקטן מ-%1$d דקות."</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"בחר פרקים מ- %d הימים האחרונים"</item>
-        <item quantity="two">"בחר פרקים מ- %d הימים האחרונים"</item>
-        <item quantity="other">"בחר פרקים מ- %d הימים האחרונים"</item>
+        <item quantity="one">"בחר פרקים מיום אחד האחרון."</item>
+        <item quantity="two">"בחר פרקים מ-%d הימים האחרונים."</item>
+        <item quantity="other">"בחר פרקים מ-%d הימים האחרונים."</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"דלג על %d שניות מתחילת הפרק"</item>
-        <item quantity="two">"דלג על %d שניות מתחילת הפרק"</item>
-        <item quantity="other">"דלג על %d שניות מתחילת הפרק"</item>
+        <item quantity="one">"דלג על שניה אחת מתחילת הפרק."</item>
+        <item quantity="two">"דלג על %d שניות מתחילת הפרק."</item>
+        <item quantity="other">"דלג על %d שניות מתחילת הפרק."</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"דלג על %d שניות מסיום הפרק"</item>
-        <item quantity="two">"דלג על %d שניות מסיום הפרק"</item>
-        <item quantity="other">"דלג על %d שניות מסיום הפרק"</item>
+        <item quantity="one">"דלג על שניה אחת מסיום הפרק."</item>
+        <item quantity="two">"דלג על %d שניות מסיום הפרק."</item>
+        <item quantity="other">"דלג על %d שניות מסיום הפרק."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
-        <item quantity="two">"Download episode if duration is greater than %d minutes."</item>
-        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">"הורד פרק אם משכו גדול מדקה אחת."</item>
+        <item quantity="two">"הורד פרק אם משכו גדול מ-%d דקות."</item>
+        <item quantity="other">"הורד פרק אם משכו גדול מ-%d דקות."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
-        <item quantity="two">"Download episode if duration is less than %d_minutes."</item>
-        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="one">"הורד פרק אם משכו קטן מדקה אחת."</item>
+        <item quantity="two">"הורד פרק אם משכו קטן מ-%d דקות."</item>
+        <item quantity="other">"הורד פרק אם משכו קטן מ-%d דקות."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
-        <item quantity="two">"Don't download episode if duration is greater than %d minutes."</item>
-        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">"אל תורד פרק אם משכו גדול מדקה אחת."</item>
+        <item quantity="two">"אל תורד פרק אם משכו גדול מ-%d דקות."</item>
+        <item quantity="other">"אל תורד פרק אם משכו גדול מ-%d דקות."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
-        <item quantity="two">"Don't download episode if duration is less than %d minutes."</item>
-        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="one">"אל תורד פרק אם משכו קטן מדקה אחת."</item>
+        <item quantity="two">"אל תורד פרק אם משכו קטן מ-%d דקות."</item>
+        <item quantity="other">"אל תורד פרק אם משכו קטן מ-%d דקות."</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Select articles from last %1$d day."</item>
-        <item quantity="two">"Select articles from last %1$d days."</item>
-        <item quantity="other">"Select articles from last %1$d days."</item>
+        <item quantity="one">"שמור מאמרים מיום אחד האחרון."</item>
+        <item quantity="two">"שמור מאמרים מ-%d הימים האחרונים."</item>
+        <item quantity="other">"שמור מאמרים מ-%d הימים האחרונים."</item>
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="two">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"שמור את הפרק האחרון שנוסף מאותו פודקאסט."</item>
+        <item quantity="two">"שמור את %1$d הפרקים האחרונים שנוספו מאותו פודקאסט."</item>
+        <item quantity="other">"שמור את %1$d הפרקים האחרונים שנוספו מאותו פודקאסט."</item>
     </plurals>
 
 </resources>

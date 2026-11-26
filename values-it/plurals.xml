@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one">"Hai ascoltato: %1$d episode, %2$s."</item>
         <item quantity="many">"Hai ascoltato: %1$d episodes, %2$s."</item>
@@ -25,27 +25,27 @@
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Mark %1$d episode as played?</item>
-        <item quantity="many">Mark all %1$d episodes as played?</item>
-        <item quantity="other">Mark all %1$d episodes as played?</item>
+        <item quantity="one">Segna %1$d episodio come riprodotto?</item>
+        <item quantity="many">Segna tutti i %1$d episodi come riprodotti?</item>
+        <item quantity="other">Segna tutti i %1$d episodi come riprodotti?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Mark %1$d episode as unplayed?</item>
-        <item quantity="many">Mark all %1$d episodes as unplayed?</item>
-        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+        <item quantity="one">Segna %1$d episodio come non riprodotto?</item>
+        <item quantity="many">Segna tutti i %1$d episodi come non riprodotti?</item>
+        <item quantity="other">Segna tutti i %1$d episodi come non riprodotti?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Mark %1$d podcast as played?</item>
-        <item quantity="many">Mark all %1$d podcasts as played?</item>
-        <item quantity="other">Mark all %1$d podcasts as played?</item>
+        <item quantity="one">Segna %1$d podcast come riprodotto?</item>
+        <item quantity="many">Segna tutti i %1$d podcast come riprodotti?</item>
+        <item quantity="other">Segna tutti i %1$d podcast come riprodotti?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="many">Mark all %1$d feeds as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one">Segna %1$d feed come letto?</item>
+        <item quantity="many">Segna tutti i %1$d feed come letti?</item>
+        <item quantity="other">Segna tutti i %1$d feed come letti?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
@@ -55,9 +55,9 @@
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="many">Mark all %1$d articles as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one">Segna %1$d articolo come non letto?</item>
+        <item quantity="many">Segna tutti i %1$d articoli come non letti?</item>
+        <item quantity="other">Segna tutti i %1$d articoli come non letti?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
@@ -169,9 +169,9 @@
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="many">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Segna tutti gli episodi precedenti all'ultimo episodio come riprodotti dopo il recupero di nuovi episodi."</item>
+        <item quantity="many">"Segna tutti gli episodi precedenti agli ultimi %1$d episodi come riprodotti dopo il recupero di nuovi episodi."</item>
+        <item quantity="other">"Segna tutti gli episodi precedenti agli ultimi %1$d episodi come riprodotti dopo il recupero di nuovi episodi."</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
@@ -253,9 +253,9 @@
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="many">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Conserva l'ultimo episodio aggiunto dello stesso podcast."</item>
+        <item quantity="many">"Conserva gli ultimi %1$d episodi aggiunti dello stesso podcast."</item>
+        <item quantity="other">"Conserva gli ultimi %1$d episodi aggiunti dello stesso podcast."</item>
     </plurals>
 
 </resources>

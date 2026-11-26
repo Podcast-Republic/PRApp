@@ -169,6 +169,6 @@
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="other">동일한 팟캐스트에서 마지막으로 추가된 %1$d개의 에피소드 유지</item>
     </plurals>
 </resources>

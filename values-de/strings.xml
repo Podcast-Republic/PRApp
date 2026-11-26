@@ -1375,4 +1375,7 @@
 	<string name="dynamic_now_playing_color">"Dynamische Farbe für Wiedergabefenster"</string>
 	<string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Die Cover-Farbe des aktuell abgespielten Podcasts wird als Hintergrund für das Wiedergabefenster verwendet."</string>
     <string name="set_sleep_timer_after_this_chapter">Einschlaf-Timer nach diesem Kapitel aktivieren</string>
+    <string name="deleted_episodes">Deleted episodes</string>
+	<string name="only_include_episodes_that_have_been_deleted_">Only include episodes that have been deleted.</string>
+	<string name="undo_delete_episode">Undo delete episodes</string>
 </resources>

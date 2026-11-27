@@ -1377,5 +1377,8 @@
     <string name="choose_a_preferred_accent_color_for_the_app_">"Tria un color d'accent preferit per l'aplicació."</string>
     <string name="dynamic_now_playing_color">"Color dinàmic de «Reproduint ara»"</string>
     <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Utilitza el color de la imatge del podcast actualment en reproducció com a fons de la pantalla «Reproduint ara»."</string>
-    <string name="set_sleep_timer_after_this_chapter">Set sleep timer after this chapter</string>
+    <string name="set_sleep_timer_after_this_chapter">"Configura el temporitzador de repòs després d'aquest capítol"</string>
+    <string name="deleted_episodes">Deleted episodes</string>
+    <string name="only_include_episodes_that_have_been_deleted_">Only include episodes that have been deleted.</string>
+    <string name="undo_delete_episode">Undo delete episode</string>
 </resources>

@@ -186,13 +186,13 @@
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Süresi %d_dakikadan uzun olan bölümü indir."</item>
-        <item quantity="other">"Süresi %d_dakikadan uzun olan bölümü indir."</item>
+        <item quantity="one">"Süresi %d dakikadan uzun olan bölümü indir."</item>
+        <item quantity="other">"Süresi %d dakikadan uzun olan bölümü indir."</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Süresi %d_dakikadan kısa olan bölümü indir."</item>
-        <item quantity="other">"Süresi %d_dakikadan kısa olan bölümü indir."</item>
+        <item quantity="one">"Süresi %d dakikadan kısa olan bölümü indir."</item>
+        <item quantity="other">"Süresi %d dakikadan kısa olan bölümü indir."</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">

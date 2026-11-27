@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
         <item quantity="one">"شما گوش دادید: %1$d قسمت، %2$s."</item>
         <item quantity="other">"شما گوش دادید: %1$d قسمت، %2$s."</item>
@@ -71,17 +71,17 @@
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">یک قسمت به لیست‌های پخش اضافه شد.</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">یک قسمت به لیست‌های پخش اضافه شد.</item>
         <item quantity="other">%1$d قسمت به لیست‌های پخش اضافه شدند.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">یک قسمت به دانلودها اضافه شد.</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">یک قسمت به دانلودها اضافه شد.</item>
         <item quantity="other">%1$d قسمت به دانلودها اضافه شدند.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"زمان‌بندی پشتیبان خودکار هر روز."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"زمان‌بندی پشتیبان خودکار هر روز."</item>
         <item quantity="other">"زمان‌بندی پشتیبان خودکار هر %1$d روز."</item>
     </plurals>
 
@@ -121,27 +121,27 @@
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"یک قسمت به لیست بعدی اضافه شود؟"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"یک قسمت به لیست بعدی اضافه شود؟"</item>
         <item quantity="other">"همه %1$d قسمت به لیست بعدی اضافه شوند؟"</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"یک قسمت به لیست پخش اضافه شود؟"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"یک قسمت به لیست پخش اضافه شود؟"</item>
         <item quantity="other">"همه %1$d قسمت به لیست پخش اضافه شوند؟"</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"نگه داشتن جدیدترین دانلود برای هر پادکست."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"نگه داشتن جدیدترین دانلود برای هر پادکست."</item>
         <item quantity="other">"نگه داشتن %1$d دانلود جدید برای هر پادکست."</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"نگه داشتن جدیدترین دانلود از این پادکست."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"نگه داشتن جدیدترین دانلود از این پادکست."</item>
         <item quantity="other">"نگه داشتن %1$d دانلود جدید از این پادکست."</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"علامت‌گذاری همه قسمت‌های قبلی‌تر از جدیدترین قسمت به عنوان شنیده شده بعد از دریافت قسمت‌های جدید."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"علامت‌گذاری همه قسمت‌های قبلی‌تر از جدیدترین قسمت به عنوان شنیده شده بعد از دریافت قسمت‌های جدید."</item>
         <item quantity="other">"علامت‌گذاری همه قسمت‌های قبلی‌تر از جدیدترین %1$d قسمت به عنوان شنیده شده بعد از دریافت قسمت‌های جدید."</item>
     </plurals>
 
@@ -211,7 +211,7 @@
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"نگه داشتن آخرین یک قسمت اضافه شده از همان پادکست."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"نگه داشتن آخرین یک قسمت اضافه شده از همان پادکست."</item>
         <item quantity="other">"نگه داشتن آخرین %1$d قسمت اضافه شده از همان پادکست."</item>
     </plurals>
 

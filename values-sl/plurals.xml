@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"You\'ve listened: %1$d episode, %2$s."</item>
-        <item quantity="two">"You\'ve listened: %1$d episodes, %2$s."</item>
-        <item quantity="few">"You\'ve listened: %1$d episodes, %2$s."</item>
-        <item quantity="other">"You\'ve listened: %1$d episodes, %2$s."</item>
+        <item quantity="one">"Poslušali ste: %1$d epizodo, %2$s."</item>
+        <item quantity="two">"Poslušali ste: %1$d epizodi, %2$s."</item>
+        <item quantity="few">"Poslušali ste: %1$d epizode, %2$s."</item>
+        <item quantity="other">"Poslušali ste: %1$d epizod, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
         <item quantity="one">%1$d vrstica</item>
         <item quantity="two">%1$d vrstici</item>
         <item quantity="few">%1$d vrstice</item>
-        <item quantity="other">%1$d vrstice</item>
+        <item quantity="other">%1$d vrstic</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Zadnjo %1$d epizodo.</item>
+        <item quantity="one">Zadnja %1$d epizoda.</item>
         <item quantity="two">Zadnji %1$d epizodi.</item>
         <item quantity="few">Zadnje %1$d epizode.</item>
         <item quantity="other">Zadnjih %1$d epizod.</item>
@@ -23,50 +23,50 @@
 
     <plurals name="display_latest_d_episodes">
         <item quantity="one">Prikaži zadnjo %1$d epizodo.</item>
-        <item quantity="two">Prikaži zadnji %1$d epizod1.</item>
+        <item quantity="two">Prikaži zadnji %1$d epizodi.</item>
         <item quantity="few">Prikaži zadnje %1$d epizode.</item>
         <item quantity="other">Prikaži zadnjih %1$d epizod.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Označi %d epizodo kot predvajano?</item>
-        <item quantity="two">Označi %d epizodi kot predvajani?</item>
-        <item quantity="few">Označi vse %d epizode kot predvajane?</item>
-        <item quantity="other">Označi vseh %d epizode kot predvajane?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Označi %1$d epizodo kot predvajano?</item>
+        <item quantity="two">Označi %1$d epizodi kot predvajani?</item>
+        <item quantity="few">Označi vse %1$d epizode kot predvajane?</item>
+        <item quantity="other">Označi vseh %1$d epizod kot predvajane?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Označim %d epizodo kot nepredvajano?</item>
-        <item quantity="two">Označim %d epizodi kot nepredvajani?</item>
-        <item quantity="few">Označim vse %d epizode kot nepredvajane?</item>
-        <item quantity="other">Označim vseh %d epizod kot nepredvajane?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Označi %1$d epizodo kot nepredvajano?</item>
+        <item quantity="two">Označi %1$d epizodi kot nepredvajani?</item>
+        <item quantity="few">Označi vse %1$d epizode kot nepredvajane?</item>
+        <item quantity="other">Označi vseh %1$d epizod kot nepredvajane?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Označi %d podkaste kot predvajan?</item>
-        <item quantity="two">Označi %d podkasta kot predvajana?</item>
-        <item quantity="few">Označi vse %d podkaste kot predvajane?</item>
-        <item quantity="other">Označi vseh %d podkastov kot predvajane?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Označi %1$d podkast kot predvajan?</item>
+        <item quantity="two">Označi %1$d podkasta kot predvajana?</item>
+        <item quantity="few">Označi vse %1$d podkaste kot predvajane?</item>
+        <item quantity="other">Označi vseh %1$d podkastov kot predvajane?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Označi %d vir kot prebran?</item>
-        <item quantity="two">Označi %d vira kot prebrana?</item>
-        <item quantity="few">Označi vse %d vire kot prebrane?</item>
-        <item quantity="other">Označi vseh %d virov kot prebrane?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Označi %1$d vir kot prebran?</item>
+        <item quantity="two">Označi %1$d vira kot prebrana?</item>
+        <item quantity="few">Označi vse %1$d vire kot prebrane?</item>
+        <item quantity="other">Označi vseh %1$d virov kot prebrane?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Označi %d članek kot prebran?</item>
-        <item quantity="two">Označi %d članka kot prebrana?</item>
-        <item quantity="few">Označi vse %d članke kot prebrane?</item>
-        <item quantity="other">Označi vseh %d člankov kot prebrane?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Označi %1$d članek kot prebran?</item>
+        <item quantity="two">Označi %1$d članka kot prebrana?</item>
+        <item quantity="few">Označi vse %1$d članke kot prebrane?</item>
+        <item quantity="other">Označi vseh %1$d člankov kot prebrane?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Označi %1$d članek kot neprebran?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Označi %1$d članek kot neprebran?</item>
         <item quantity="two">Označi %1$d članka kot neprebrana?</item>
-        <item quantity="few">Označi vseh %1$d člankov kot neprebrane?</item>
+        <item quantity="few">Označi vse %1$d članke kot neprebrane?</item>
         <item quantity="other">Označi vseh %1$d člankov kot neprebrane?</item>
     </plurals>
 
@@ -78,227 +78,227 @@
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
-        <item quantity="two">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
-        <item quantity="few">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
-        <item quantity="other">Samodejno prenesi do %1$d starejšin in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="one">Samodejno prenesi do %1$d starejšo in nepredvajano epizodo trenutno predvajanega podkasta.</item>
+        <item quantity="two">Samodejno prenesi do %1$d starejši in nepredvajani epizodi trenutno predvajanega podkasta.</item>
+        <item quantity="few">Samodejno prenesi do %1$d starejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>
+        <item quantity="other">Samodejno prenesi do %1$d starejših in nepredvajanih epizod trenutno predvajanega podkasta.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Med pridobivanjem nove epizode, samodejno prenesi %1$d najnovejšo epizodo.</item>
-        <item quantity="two">Med pridobivanjem novih epizod, samodejno prenesi %1$d najnovejši epizodi.</item>
-        <item quantity="few">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejše epizode.</item>
-        <item quantity="other">Med pridobivanjem novih epizod, samodejno prenesi do %1$d najnovejših epizod.</item>
+        <item quantity="one">Samodejno prenesi zadnjo %1$d epizodo, ko so pridobljene nove epizode.</item>
+        <item quantity="two">Samodejno prenesi zadnji %1$d epizodi, ko so pridobljene nove epizode.</item>
+        <item quantity="few">Samodejno prenesi zadnje %1$d epizode, ko so pridobljene nove epizode.</item>
+        <item quantity="other">Samodejno prenesi zadnjih %1$d epizod, ko so pridobljene nove epizode.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="two">Display maximum %1$d lines of title.</item>
-        <item quantity="few">Display maximum %1$d lines of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Prikaži največ %1$d vrstico naslova.</item>
+        <item quantity="two">Prikaži največ %1$d vrstici naslova.</item>
+        <item quantity="few">Prikaži največ %1$d vrstice naslova.</item>
+        <item quantity="other">Prikaži največ %1$d vrstic naslova.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one" tools:ignore="ImpliedQuantity">Ena epizoda je bila dodana na seznam.</item>
-        <item quantity="two">"%1$d epizod je bilo dodanih na seznam."</item>
-        <item quantity="few">"%1$d epizod je bilo dodanih na seznam."</item>
-        <item quantity="other">"%1$d epizod je bilo dodanih na seznam."</item>
+        <item quantity="one">%1$d epizoda je bila dodana na seznam predvajanja.</item>
+        <item quantity="two">%1$d epizodi sta bili dodani na seznam predvajanja.</item>
+        <item quantity="few">%1$d epizode so bile dodane na seznam predvajanja.</item>
+        <item quantity="other">%1$d epizod je bilo dodanih na seznam predvajanja.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one" tools:ignore="ImpliedQuantity">Ena epizoda je bila dodana prenesenim.</item>
-        <item quantity="two">"%1$d epizod je bilo dodanih prenesenim."</item>
-        <item quantity="few">"%1$d epizod je bilo dodanih prenesenim."</item>
-        <item quantity="other">"%1$d epizod je bilo dodanih prenesenim."</item>
+        <item quantity="one">%1$d epizoda je bila dodana med prenose.</item>
+        <item quantity="two">%1$d epizodi sta bili dodani med prenose.</item>
+        <item quantity="few">%1$d epizode so bile dodane med prenose.</item>
+        <item quantity="other">%1$d epizod je bilo dodanih med prenose.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Varnostno kopiraj vsakih %1$d dni."</item>
-        <item quantity="two">"Varnostno kopiraj vsakih %1$d dni."</item>
-        <item quantity="few">"Varnostno kopiraj vsakih %1$d dni."</item>
-        <item quantity="other">"Varnostno kopiraj vsakih %1$d dni."</item>
+        <item quantity="one">Načrtuj samodejno varnostno kopijo vsak %1$d dan.</item>
+        <item quantity="two">Načrtuj samodejno varnostno kopijo vsaka %1$d dni.</item>
+        <item quantity="few">Načrtuj samodejno varnostno kopijo vsake %1$d dni.</item>
+        <item quantity="other">Načrtuj samodejno varnostno kopijo vsakih %1$d dni.</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Ohrani zadnje %1$d varnostne kopije."</item>
-        <item quantity="two">"Ohrani zadnje %1$d varnostne kopije."</item>
-        <item quantity="few">"Ohrani zadnje %1$d varnostne kopije."</item>
-        <item quantity="other">"Ohrani zadnje %1$d varnostne kopije."</item>
+        <item quantity="one">Ohrani zadnjo %1$d samodejno varnostno kopijo.</item>
+        <item quantity="two">Ohrani zadnji %1$d samodejni varnostni kopiji.</item>
+        <item quantity="few">Ohrani zadnje %1$d samodejne varnostne kopije.</item>
+        <item quantity="other">Ohrani zadnjih %1$d samodejnih varnostnih kopij.</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minut"</item>
-        <item quantity="two">"%1$d minut"</item>
-        <item quantity="few">"%1$d minut"</item>
-        <item quantity="other">"%1$d minut"</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="two">%1$d minuti</item>
+        <item quantity="few">%1$d minute</item>
+        <item quantity="other">%1$d minut</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minut."</item>
-        <item quantity="two">"&gt; %1$d minut."</item>
-        <item quantity="few">"&gt; %1$d minut."</item>
-        <item quantity="other">"&gt; %1$d minut."</item>
+        <item quantity="one">&gt; %1$d minuta.</item>
+        <item quantity="two">&gt; %1$d minuti.</item>
+        <item quantity="few">&gt; %1$d minute.</item>
+        <item quantity="other">&gt; %1$d minut.</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minut."</item>
-        <item quantity="two">"&lt; %1$d minut."</item>
-        <item quantity="few">"&lt; %1$d minut."</item>
-        <item quantity="other">"&lt; %1$d minut."</item>
+        <item quantity="one">&lt; %1$d minuta.</item>
+        <item quantity="two">&lt; %1$d minuti.</item>
+        <item quantity="few">&lt; %1$d minute.</item>
+        <item quantity="other">&lt; %1$d minut.</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"Po %1$d minutah"</item>
-        <item quantity="two">"Po %1$d minutah"</item>
-        <item quantity="few">"Po %1$d minutah"</item>
-        <item quantity="other">"Po %1$d minutah"</item>
+        <item quantity="one">Čez %1$d minuto</item>
+        <item quantity="two">Čez %1$d minuti</item>
+        <item quantity="few">Čez %1$d minute</item>
+        <item quantity="other">Čez %1$d minut</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Podaljšaj za %1$d minut"</item>
-        <item quantity="two">"Podaljšaj za %1$d minut"</item>
-        <item quantity="few">"Podaljšaj za %1$d minut"</item>
-        <item quantity="other">"Podaljšaj za %1$d minut"</item>
+        <item quantity="one">Podaljšaj za %1$d minuto</item>
+        <item quantity="two">Podaljšaj za %1$d minuti</item>
+        <item quantity="few">Podaljšaj za %1$d minute</item>
+        <item quantity="other">Podaljšaj za %1$d minut</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"Prenos vseh %1$d epizod?"</item>
-        <item quantity="two">"Prenos vseh %1$d epizod?"</item>
-        <item quantity="few">"Prenos vseh %1$d epizod?"</item>
-        <item quantity="other">"Prenos vseh %1$d epizod?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Prenesem %1$d epizodo?</item>
+        <item quantity="two">Prenesem vseh %1$d epizodi?</item>
+        <item quantity="few">Prenesem vse %1$d epizode?</item>
+        <item quantity="other">Prenesem vseh %1$d epizod?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one" tools:ignore="ImpliedQuantity">"Add one episode to Up next?"</item>
-        <item quantity="two">"Add all %1$d episodes to Up next?"</item>
-        <item quantity="few">"Add all %1$d episodes to Up next?"</item>
-        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Dodam %1$d epizodo na seznam «Naslednje»?</item>
+        <item quantity="two">Dodam vseh %1$d epizodi na seznam «Naslednje»?</item>
+        <item quantity="few">Dodam vse %1$d epizode na seznam «Naslednje»?</item>
+        <item quantity="other">Dodam vseh %1$d epizod na seznam «Naslednje»?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one" tools:ignore="ImpliedQuantity">"Add one episode to playlist?"</item>
-        <item quantity="two">"Add all %1$d episodes to playlist?"</item>
-        <item quantity="few">"Add all %1$d episodes to playlist?"</item>
-        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Dodam %1$d epizodo na seznam predvajanja?</item>
+        <item quantity="two">Dodam vseh %1$d epizodi na seznam predvajanja?</item>
+        <item quantity="few">Dodam vse %1$d epizode na seznam predvajanja?</item>
+        <item quantity="other">Dodam vseh %1$d epizod na seznam predvajanja?</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
-        <item quantity="two">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
-        <item quantity="few">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
-        <item quantity="other">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="one">Ohrani zadnji %1$d prenos za vsak podkast.</item>
+        <item quantity="two">Ohrani zadnja %1$d prenosa za vsak podkast.</item>
+        <item quantity="few">Ohrani zadnje %1$d prenose za vsak podkast.</item>
+        <item quantity="other">Ohrani zadnjih %1$d prenosov za vsak podkast.</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
-        <item quantity="two">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
-        <item quantity="few">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
-        <item quantity="other">"Ohrani zadnjih %1$d prenosov vsakega podkasta."</item>
+        <item quantity="one">Ohrani zadnji %1$d prenos tega podkasta.</item>
+        <item quantity="two">Ohrani zadnja %1$d prenosa tega podkasta.</item>
+        <item quantity="few">Ohrani zadnje %1$d prenose tega podkasta.</item>
+        <item quantity="other">Ohrani zadnjih %1$d prenosov tega podkasta.</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one" tools:ignore="ImpliedQuantity">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="two">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="few">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Označi vse epizode pred zadnjo epizodo kot predvajane, ko so pridobljene nove epizode.</item>
+        <item quantity="two">Označi vse epizode pred zadnjima %1$d epizodama kot predvajane, ko so pridobljene nove epizode.</item>
+        <item quantity="few">Označi vse epizode pred zadnjimi %1$d epizodami kot predvajane, ko so pridobljene nove epizode.</item>
+        <item quantity="other">Označi vse epizode pred zadnjimi %1$d epizodami kot predvajane, ko so pridobljene nove epizode.</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Ohrani članke zadnjih %1$d dni."</item>
-        <item quantity="two">"Ohrani članke zadnjih %1$d dni."</item>
-        <item quantity="few">"Ohrani članke zadnjih %1$d dni."</item>
-        <item quantity="other">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="one">Ohrani članke zadnjega %1$d dne.</item>
+        <item quantity="two">Ohrani članke zadnjih %1$d dni.</item>
+        <item quantity="few">Ohrani članke zadnjih %1$d dni.</item>
+        <item quantity="other">Ohrani članke zadnjih %1$d dni.</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Najkrajši čas ponavljanja: %1$d sekund."</item>
-        <item quantity="two">"Najkrajši čas ponavljanja: %1$d sekund."</item>
-        <item quantity="few">"Najkrajši čas ponavljanja: %1$d sekund."</item>
-        <item quantity="other">"Najkrajši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="one">Najmanjši čas povratnega preskoka: %1$d sekunda.</item>
+        <item quantity="two">Najmanjši čas povratnega preskoka: %1$d sekundi.</item>
+        <item quantity="few">Najmanjši čas povratnega preskoka: %1$d sekunde.</item>
+        <item quantity="other">Najmanjši čas povratnega preskoka: %1$d sekund.</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Najdaljši čas ponavljanja: %1$d sekund."</item>
-        <item quantity="two">"Najdaljši čas ponavljanja: %1$d sekund."</item>
-        <item quantity="few">"Najdaljši čas ponavljanja: %1$d sekund."</item>
-        <item quantity="other">"Najdaljši čas ponavljanja: %1$d sekund."</item>
+        <item quantity="one">Največji čas povratnega preskoka: %1$d sekunda.</item>
+        <item quantity="two">Največji čas povratnega preskoka: %1$d sekundi.</item>
+        <item quantity="few">Največji čas povratnega preskoka: %1$d sekunde.</item>
+        <item quantity="other">Največji čas povratnega preskoka: %1$d sekund.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
-        <item quantity="two">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
-        <item quantity="few">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
-        <item quantity="other">"Izberi epizode, ki trajajo več kot %1$d minut."</item>
+        <item quantity="one">Izberi epizode, ki trajajo več kot %1$d minuto.</item>
+        <item quantity="two">Izberi epizode, ki trajajo več kot %1$d minuti.</item>
+        <item quantity="few">Izberi epizode, ki trajajo več kot %1$d minute.</item>
+        <item quantity="other">Izberi epizode, ki trajajo več kot %1$d minut.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
-        <item quantity="two">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
-        <item quantity="few">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
-        <item quantity="other">"Izberi epizode, ki trajajo manj kot %1$d minut."</item>
+        <item quantity="one">Izberi epizode, ki trajajo manj kot %1$d minuto.</item>
+        <item quantity="two">Izberi epizode, ki trajajo manj kot %1$d minuti.</item>
+        <item quantity="few">Izberi epizode, ki trajajo manj kot %1$d minute.</item>
+        <item quantity="other">Izberi epizode, ki trajajo manj kot %1$d minut.</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Izberi epizode zadnjih %1$d dni."</item>
-        <item quantity="two">"Izberi epizode zadnjih %1$d dni."</item>
-        <item quantity="few">"Izberi epizode zadnjih %1$d dni."</item>
-        <item quantity="other">"Izberi epizode zadnjih %1$d dni."</item>
+        <item quantity="one">Izberi epizode zadnjega %1$d dne.</item>
+        <item quantity="two">Izberi epizode zadnjih %1$d dni.</item>
+        <item quantity="few">Izberi epizode zadnjih %1$d dni.</item>
+        <item quantity="other">Izberi epizode zadnjih %1$d dni.</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Preskoči začetnih %1$d sekund."</item>
-        <item quantity="two">"Preskoči začetnih %1$d sekund."</item>
-        <item quantity="few">"Preskoči začetnih %1$d sekund."</item>
-        <item quantity="other">"Preskoči začetnih %1$d sekund."</item>
+        <item quantity="one">Preskoči začetno %1$d sekundo.</item>
+        <item quantity="two">Preskoči začetni %1$d sekundi.</item>
+        <item quantity="few">Preskoči začetne %1$d sekunde.</item>
+        <item quantity="other">Preskoči začetnih %1$d sekund.</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Preskoči zadnjih %1$d sekund."</item>
-        <item quantity="two">"Preskoči zadnjih %1$d sekund."</item>
-        <item quantity="few">"Preskoči zadnjih %1$d sekund."</item>
-        <item quantity="other">"Preskoči zadnjih %1$d sekund."</item>
+        <item quantity="one">Preskoči zadnjo %1$d sekundo.</item>
+        <item quantity="two">Preskoči zadnji %1$d sekundi.</item>
+        <item quantity="few">Preskoči zadnje %1$d sekunde.</item>
+        <item quantity="other">Preskoči zadnjih %1$d sekund.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Prenesi epizodo, če traja več kot %d minut."</item>
-        <item quantity="two">"Prenesi epizodo, če traja več kot %d minut."</item>
-        <item quantity="few">"Prenesi epizodo, če traja več kot %d minut."</item>
-        <item quantity="other">"Prenesi epizodo, če traja več kot %d minut."</item>
+        <item quantity="one">Prenesi epizodo, če traja več kot %1$d minuto.</item>
+        <item quantity="two">Prenesi epizodo, če traja več kot %1$d minuti.</item>
+        <item quantity="few">Prenesi epizodo, če traja več kot %1$d minute.</item>
+        <item quantity="other">Prenesi epizodo, če traja več kot %1$d minut.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Prenesi epizodo, če traja manj kot %d_minut."</item>
-        <item quantity="two">"Prenesi epizodo, če traja manj kot %d_minut."</item>
-        <item quantity="few">"Prenesi epizodo, če traja manj kot %d_minut."</item>
-        <item quantity="other">"Prenesi epizodo, če traja manj kot %d_minut."</item>
+        <item quantity="one">Prenesi epizodo, če traja manj kot %1$d minuto.</item>
+        <item quantity="two">Prenesi epizodo, če traja manj kot %1$d minuti.</item>
+        <item quantity="few">Prenesi epizodo, če traja manj kot %1$d minute.</item>
+        <item quantity="other">Prenesi epizodo, če traja manj kot %1$d minut.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Ne prenesi epizode če traja več kot %d minut."</item>
-        <item quantity="two">"Ne prenesi epizode če traja več kot %d minut."</item>
-        <item quantity="few">"Ne prenesi epizode če traja več kot %d minut."</item>
-        <item quantity="other">"Ne prenesi epizode če traja več kot %d minut."</item>
+        <item quantity="one">Ne prenesi epizode, če traja več kot %1$d minuto.</item>
+        <item quantity="two">Ne prenesi epizode, če traja več kot %1$d minuti.</item>
+        <item quantity="few">Ne prenesi epizode, če traja več kot %1$d minute.</item>
+        <item quantity="other">Ne prenesi epizode, če traja več kot %1$d minut.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Ne prenesi epizode, če traja manj kot %d minut."</item>
-        <item quantity="two">"Ne prenesi epizode, če traja manj kot %d minut."</item>
-        <item quantity="few">"Ne prenesi epizode, če traja manj kot %d minut."</item>
-        <item quantity="other">"Ne prenesi epizode, če traja manj kot %d minut."</item>
+        <item quantity="one">Ne prenesi epizode, če traja manj kot %1$d minuto.</item>
+        <item quantity="two">Ne prenesi epizode, če traja manj kot %1$d minuti.</item>
+        <item quantity="few">Ne prenesi epizode, če traja manj kot %1$d minute.</item>
+        <item quantity="other">Ne prenesi epizode, če traja manj kot %1$d minut.</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Ohrani članke zadnjih %1$d dni."</item>
-        <item quantity="two">"Ohrani članke zadnjih %1$d dni."</item>
-        <item quantity="few">"Ohrani članke zadnjih %1$d dni."</item>
-        <item quantity="other">"Ohrani članke zadnjih %1$d dni."</item>
+        <item quantity="one">Izberi članke zadnjega %1$d dne.</item>
+        <item quantity="two">Izberi članke zadnjih %1$d dni.</item>
+        <item quantity="few">Izberi članke zadnjih %1$d dni.</item>
+        <item quantity="other">Izberi članke zadnjih %1$d dni.</item>
     </plurals>
 
-    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_" tools:ignore="ImpliedQuantity">
-        <item quantity="one" tools:ignore="ImpliedQuantity">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="two">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="few">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+    <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
+        <item quantity="one">Ohrani zadnjo dodano %1$d epizodo istega podkasta.</item>
+        <item quantity="two">Ohrani zadnji dodani %1$d epizodi istega podkasta.</item>
+        <item quantity="few">Ohrani zadnje dodane %1$d epizode istega podkasta.</item>
+        <item quantity="other">Ohrani zadnjih %1$d dodanih epizod istega podkasta.</item>
     </plurals>
 
 </resources>

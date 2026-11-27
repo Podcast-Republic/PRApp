@@ -1,390 +1,390 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="zero">"You\'ve listened: %1$d episode, %2$s."</item>
-        <item quantity="one">"You\'ve listened: %1$d episode, %2$s."</item>
-        <item quantity="two">"You\'ve listened: %1$d episodes, %2$s."</item>
-        <item quantity="few">"You\'ve listened: %1$d episodes, %2$s."</item>
-        <item quantity="many">"You\'ve listened: %1$d episodes, %2$s."</item>
-        <item quantity="other">"You\'ve listened: %1$d episodes, %2$s."</item>
+        <item quantity="zero">"لم تستمع لأي حلقة، %2$s."</item>
+        <item quantity="one">"لقد استمعت إلى حلقة واحدة، %2$s."</item>
+        <item quantity="two">"لقد استمعت إلى حلقتين، %2$s."</item>
+        <item quantity="few">"لقد استمعت إلى %1$d حلقات، %2$s."</item>
+        <item quantity="many">"لقد استمعت إلى %1$d حلقة، %2$s."</item>
+        <item quantity="other">"لقد استمعت إلى %1$d حلقة، %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="zero">%1$d line</item>
-        <item quantity="one">%1$d line</item>
-        <item quantity="two">%1$d lines</item>
-        <item quantity="few">%1$d lines</item>
-        <item quantity="many">%1$d lines</item>
-        <item quantity="other">%1$d lines</item>
+        <item quantity="zero">0 سطر</item>
+        <item quantity="one">سطر واحد</item>
+        <item quantity="two">سطران</item>
+        <item quantity="few">%1$d أسطر</item>
+        <item quantity="many">%1$d سطرًا</item>
+        <item quantity="other">%1$d سطر</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="zero">آخر %1$d حلقات</item>
-        <item quantity="one">آخر %1$d حلقات</item>
-        <item quantity="two">آخر %1$d حلقات</item>
-        <item quantity="few">آخر %1$d حلقات</item>
-        <item quantity="many">آخر %1$d حلقات</item>
-        <item quantity="other">آخر %1$d حلقات</item>
+        <item quantity="zero">لا توجد حلقات</item>
+        <item quantity="one">أحدث حلقة</item>
+        <item quantity="two">أحدث حلقتين</item>
+        <item quantity="few">أحدث %1$d حلقات</item>
+        <item quantity="many">أحدث %1$d حلقة</item>
+        <item quantity="other">أحدث %1$d حلقة</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="zero">Display latest %1$d episode.</item>
-        <item quantity="one">Display latest %1$d episode.</item>
-        <item quantity="two">Display latest %1$d episodes.</item>
-        <item quantity="few">Display latest %1$d episodes.</item>
-        <item quantity="many">Display latest %1$d episodes.</item>
-        <item quantity="other">Display latest %1$d episodes.</item>
+        <item quantity="zero">عدم عرض أي حلقات</item>
+        <item quantity="one">عرض أحدث حلقة واحدة</item>
+        <item quantity="two">عرض أحدث حلقتين</item>
+        <item quantity="few">عرض أحدث %1$d حلقات</item>
+        <item quantity="many">عرض أحدث %1$d حلقة</item>
+        <item quantity="other">عرض أحدث %1$d حلقة</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="zero">Mark %d episode as played?</item>
-        <item quantity="one">Mark %d episode as played?</item>
-        <item quantity="two">Mark all %d episodes as played?</item>
-        <item quantity="few">Mark all %d episodes as played?</item>
-        <item quantity="many">Mark all %d episodes as played?</item>
-        <item quantity="other">Mark all %d episodes as played?</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">تعيين الحلقات كمشغلة؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">تعيين حلقة واحدة كمشغلة؟</item>
+        <item quantity="two">تعيين حلقتين كمشغلتين؟</item>
+        <item quantity="few">تعيين جميع الحلقات (%1$d) كمشغلة؟</item>
+        <item quantity="many">تعيين جميع الحلقات (%1$d) كمشغلة؟</item>
+        <item quantity="other">تعيين جميع الحلقات (%1$d) كمشغلة؟</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="zero">Mark %d episode as unplayed?</item>
-        <item quantity="one">Mark %d episode as unplayed?</item>
-        <item quantity="two">Mark all %d episodes as unplayed?</item>
-        <item quantity="few">Mark all %d episodes as unplayed?</item>
-        <item quantity="many">Mark all %d episodes as unplayed?</item>
-        <item quantity="other">Mark all %d episodes as unplayed?</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">تعيين الحلقات كغير مشغلة؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">تعيين حلقة واحدة كغير مشغلة؟</item>
+        <item quantity="two">تعيين حلقتين كغير مشغلتين؟</item>
+        <item quantity="few">تعيين جميع الحلقات (%1$d) كغير مشغلة؟</item>
+        <item quantity="many">تعيين جميع الحلقات (%1$d) كغير مشغلة؟</item>
+        <item quantity="other">تعيين جميع الحلقات (%1$d) كغير مشغلة؟</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="zero">Mark %d podcast as played?</item>
-        <item quantity="one">Mark %d podcast as played?</item>
-        <item quantity="two">Mark all %d podcasts as played?</item>
-        <item quantity="few">Mark all %d podcasts as played?</item>
-        <item quantity="many">Mark all %d podcasts as played?</item>
-        <item quantity="other">Mark all %d podcasts as played?</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">تعيين البودكاست كمشغل؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">تعيين بودكاست واحد كمشغل؟</item>
+        <item quantity="two">تعيين بودكاستين كمشغلين؟</item>
+        <item quantity="few">تعيين جميع البودكاست (%1$d) كمشغل؟</item>
+        <item quantity="many">تعيين جميع البودكاست (%1$d) كمشغل؟</item>
+        <item quantity="other">تعيين جميع البودكاست (%1$d) كمشغل؟</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="zero">Mark %d feed as read?</item>
-        <item quantity="one">Mark %d feed as read?</item>
-        <item quantity="two">Mark all %d feeds as read?</item>
-        <item quantity="few">Mark all %d feeds as read?</item>
-        <item quantity="many">Mark all %d feeds as read?</item>
-        <item quantity="other">Mark all %d feeds as read?</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">تعيين المواجز كمقروءة؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">تعيين موجز واحد كمقروء؟</item>
+        <item quantity="two">تعيين موجزين كمقروءين؟</item>
+        <item quantity="few">تعيين جميع المواجز (%1$d) كمقروءة؟</item>
+        <item quantity="many">تعيين جميع المواجز (%1$d) كمقروءة؟</item>
+        <item quantity="other">تعيين جميع المواجز (%1$d) كمقروءة؟</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="zero">Mark %1$d article as read?</item>
-        <item quantity="one">Mark %1$d article as read?</item>
-        <item quantity="two">Mark all %1$d articles as read?</item>
-        <item quantity="few">Mark all %1$d articles as read?</item>
-        <item quantity="many">Mark %1$d article as read?</item>
-        <item quantity="other">Mark all %1$d articles as read?</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">تعيين المقالات كمقروءة؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">تعيين مقال واحد كمقروء؟</item>
+        <item quantity="two">تعيين مقالين كمقروءين؟</item>
+        <item quantity="few">تعيين جميع المقالات (%1$d) كمقروءة؟</item>
+        <item quantity="many">تعيين جميع المقالات (%1$d) كمقروءة؟</item>
+        <item quantity="other">تعيين جميع المقالات (%1$d) كمقروءة؟</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="zero">Mark %1$d article as unread?</item>
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="two">Mark all %1$d articles as unread?</item>
-        <item quantity="few">Mark all %1$d articles as unread?</item>
-        <item quantity="many">Mark %1$d article as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">تعيين المقالات كغير مقروءة؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">تعيين مقال واحد كغير مقروء؟</item>
+        <item quantity="two">تعيين مقالين كغير مقروءين؟</item>
+        <item quantity="few">تعيين جميع المقالات (%1$d) كغير مقروءة؟</item>
+        <item quantity="many">تعيين جميع المقالات (%1$d) كغير مقروءة؟</item>
+        <item quantity="other">تعيين جميع المقالات (%1$d) كغير مقروءة؟</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="zero">Auto download up to %1$d newer and unplayed episode from current playing podcast.</item>
-        <item quantity="one">Auto download up to %1$d newer and unplayed episode from current playing podcast.</item>
-        <item quantity="two">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
-        <item quantity="few">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
-        <item quantity="many">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
-        <item quantity="other">Auto download up to %1$d newer and unplayed episodes from current playing podcast.</item>
+        <item quantity="zero">عدم تنزيل أي حلقة أحدث غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="one">تنزيل حلقة واحدة أحدث غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="two">تنزيل أحدث حلقتين غير مشغلتين تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="few">تنزيل حتى %1$d حلقات أحدث غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="many">تنزيل حتى %1$d حلقة أحدث غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="other">تنزيل حتى %1$d حلقة أحدث غير مشغلة تلقائيًا من البودكاست الحالي.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="zero">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
-        <item quantity="one">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
-        <item quantity="two">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
-        <item quantity="few">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
-        <item quantity="many">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
-        <item quantity="other">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="zero">عدم تنزيل أي حلقة أقدم غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="one">تنزيل حلقة واحدة أقدم غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="two">تنزيل أقدم حلقتين غير مشغلتين تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="few">تنزيل حتى %1$d حلقات أقدم غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="many">تنزيل حتى %1$d حلقة أقدم غير مشغلة تلقائيًا من البودكاست الحالي.</item>
+        <item quantity="other">تنزيل حتى %1$d حلقة أقدم غير مشغلة تلقائيًا من البودكاست الحالي.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="zero">Automatically download up to %1$d most recent episode when new episodes are retrieved.</item>
-        <item quantity="one">Automatically download up to %1$d most recent episode when new episodes are retrieved.</item>
-        <item quantity="two">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
-        <item quantity="few">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
-        <item quantity="many">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
-         <item quantity="other">Automatically download up to %1$d most recent episodes when new episodes are retrieved.</item>
+        <item quantity="zero">عدم تنزيل أي حلقة تلقائيًا عند جلب حلقات جديدة.</item>
+        <item quantity="one">تنزيل أحدث حلقة واحدة تلقائيًا عند جلب حلقات جديدة.</item>
+        <item quantity="two">تنزيل أحدث حلقتين تلقائيًا عند جلب حلقات جديدة.</item>
+        <item quantity="few">تنزيل حتى أحدث %1$d حلقات تلقائيًا عند جلب حلقات جديدة.</item>
+        <item quantity="many">تنزيل حتى أحدث %1$d حلقة تلقائيًا عند جلب حلقات جديدة.</item>
+        <item quantity="other">تنزيل حتى أحدث %1$d حلقة تلقائيًا عند جلب حلقات جديدة.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="zero">Display maximum %1$d line of title.</item>
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="two">Display maximum %1$d lines of title.</item>
-        <item quantity="few">Display maximum %1$d lines of title.</item>
-        <item quantity="many">Display maximum %1$d lines of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="zero">عدم عرض أسطر للعنوان.</item>
+        <item quantity="one">عرض سطر واحد للعنوان كحد أقصى.</item>
+        <item quantity="two">عرض سطرين للعنوان كحد أقصى.</item>
+        <item quantity="few">عرض %1$d أسطر للعنوان كحد أقصى.</item>
+        <item quantity="many">عرض %1$d سطرًا للعنوان كحد أقصى.</item>
+        <item quantity="other">عرض %1$d سطر للعنوان كحد أقصى.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="zero">No episode have been added to playlists.</item>
-        <item quantity="one">"تم إضافة حلقة واحدة الى قائمة التشغيل"</item>
-        <item quantity="two">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
-        <item quantity="few">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
-        <item quantity="many">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
-        <item quantity="other">"%d حلقة تم اضافتها الى قائمة التشغيل"</item>
+        <item quantity="zero">لم يتم إضافة أي حلقة إلى قوائم التشغيل.</item>
+        <item quantity="one">تمت إضافة حلقة واحدة إلى قائمة التشغيل.</item>
+        <item quantity="two">تمت إضافة حلقتين إلى قائمة التشغيل.</item>
+        <item quantity="few">تمت إضافة %1$d حلقات إلى قائمة التشغيل.</item>
+        <item quantity="many">تمت إضافة %1$d حلقة إلى قائمة التشغيل.</item>
+        <item quantity="other">تمت إضافة %1$d حلقة إلى قائمة التشغيل.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="zero">No episode have been added to downloads.</item>
-        <item quantity="one">"تم إضافة حلقة الى قائمة التشغيل"</item>
-        <item quantity="two">"%d حلقات تم اضافتها إلى التنزيلات"</item>
-        <item quantity="few">"%d حلقات تم اضافتها إلى التنزيلات"</item>
-        <item quantity="many">"%d حلقات تم اضافتها إلى التنزيلات"</item>
-        <item quantity="other">"%d حلقات تم اضافتها إلى التنزيلات"</item>
+        <item quantity="zero">لم يتم إضافة أي حلقة إلى التنزيلات.</item>
+        <item quantity="one">تمت إضافة حلقة واحدة إلى التنزيلات.</item>
+        <item quantity="two">تمت إضافة حلقتين إلى التنزيلات.</item>
+        <item quantity="few">تمت إضافة %1$d حلقات إلى التنزيلات.</item>
+        <item quantity="many">تمت إضافة %1$d حلقة إلى التنزيلات.</item>
+        <item quantity="other">تمت إضافة %1$d حلقة إلى التنزيلات.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="zero">"Auto backup is disabled."</item>
-        <item quantity="one">"Schedule auto backup every day."</item>
-        <item quantity="two">"Schedule auto backup every two days."</item>
-        <item quantity="few">"Schedule auto backup every %1$d days."</item>
-        <item quantity="many">"Schedule auto backup every %1$d days."</item>
-        <item quantity="other">"Schedule auto backup every %1$d days."</item>
+        <item quantity="zero">النسخ الاحتياطي التلقائي معطل.</item>
+        <item quantity="one">جدولة النسخ الاحتياطي التلقائي كل يوم.</item>
+        <item quantity="two">جدولة النسخ الاحتياطي التلقائي كل يومين.</item>
+        <item quantity="few">جدولة النسخ الاحتياطي التلقائي كل %1$d أيام.</item>
+        <item quantity="many">جدولة النسخ الاحتياطي التلقائي كل %1$d يومًا.</item>
+        <item quantity="other">جدولة النسخ الاحتياطي التلقائي كل %1$d يوم.</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="zero">"Don't keep any auto backups."</item>
-        <item quantity="one">"Keep most recent %1$d auto backups."</item>
-        <item quantity="two">"Keep most recent %1$d auto backup."</item>
-        <item quantity="few">"Keep most recent %1$d auto backups."</item>
-        <item quantity="many">"Keep most recent %1$d auto backup."</item>
-        <item quantity="other">"Keep most recent %1$d auto backups."</item>
+        <item quantity="zero">عدم الاحتفاظ بأي نسخة احتياطية تلقائية.</item>
+        <item quantity="one">الاحتفاظ بأحدث نسخة احتياطية تلقائية واحدة.</item>
+        <item quantity="two">الاحتفاظ بأحدث نسختين احتياطيتين تلقائيتين.</item>
+        <item quantity="few">الاحتفاظ بأحدث %1$d نسخ احتياطية تلقائية.</item>
+        <item quantity="many">الاحتفاظ بأحدث %1$d نسخة احتياطية تلقائية.</item>
+        <item quantity="other">الاحتفاظ بأحدث %1$d نسخة احتياطية تلقائية.</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="zero">"%1$d minute"</item>
-        <item quantity="one">"%1$d minute"</item>
-        <item quantity="two">"%1$d minutes"</item>
-        <item quantity="few">"%1$d minutes"</item>
-        <item quantity="many">"%1$d minutes"</item>
-        <item quantity="other">"%1$d minutes"</item>
+        <item quantity="zero">0 دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+        <item quantity="other">%1$d دقيقة</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="zero">"&gt; %1$d minute."</item>
-        <item quantity="one">"&gt; %1$d minute."</item>
-        <item quantity="two">"&gt; %1$d minutes."</item>
-        <item quantity="few">"&gt; %1$d minutes."</item>
-        <item quantity="many">"&gt; %1$d minutes."</item>
-        <item quantity="other">"&gt; %1$d minutes."</item>
+        <item quantity="zero">&gt; 0 دقيقة</item>
+        <item quantity="one">&gt; دقيقة واحدة</item>
+        <item quantity="two">&gt; دقيقتين</item>
+        <item quantity="few">&gt; %1$d دقائق</item>
+        <item quantity="many">&gt; %1$d دقيقة</item>
+        <item quantity="other">&gt; %1$d دقيقة</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="zero">"&lt; %1$d minute."</item>
-        <item quantity="one">"&lt; %1$d minute."</item>
-        <item quantity="two">"&lt; %1$d minutes."</item>
-        <item quantity="few">"&lt; %1$d minutes."</item>
-        <item quantity="many">"&lt; %1$d minutes."</item>
-        <item quantity="other">"&lt; %1$d minutes."</item>
+        <item quantity="zero">&lt; 0 دقيقة</item>
+        <item quantity="one">&lt; دقيقة واحدة</item>
+        <item quantity="two">&lt; دقيقتين</item>
+        <item quantity="few">&lt; %1$d دقائق</item>
+        <item quantity="many">&lt; %1$d دقيقة</item>
+        <item quantity="other">&lt; %1$d دقيقة</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="zero">"في %1$d دقائق"</item>
-        <item quantity="one">"في %1$d دقائق"</item>
-        <item quantity="two">"في %1$d دقائق"</item>
-        <item quantity="few">"في %1$d دقائق"</item>
-        <item quantity="many">"في %1$d دقائق"</item>
-        <item quantity="other">"في %1$d دقائق"</item>
+        <item quantity="zero">بعد 0 دقيقة</item>
+        <item quantity="one">بعد دقيقة واحدة</item>
+        <item quantity="two">بعد دقيقتين</item>
+        <item quantity="few">بعد %1$d دقائق</item>
+        <item quantity="many">بعد %1$d دقيقة</item>
+        <item quantity="other">بعد %1$d دقيقة</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="zero">"Extend %1$d minute"</item>
-        <item quantity="one">"Extend %1$d minute"</item>
-        <item quantity="two">"Extend %1$d minutes"</item>
-        <item quantity="few">"Extend %1$d minutes"</item>
-        <item quantity="many">"Extend %1$d minutes"</item>
-        <item quantity="other">"Extend %1$d minutes"</item>
+        <item quantity="zero">تمديد 0 دقيقة</item>
+        <item quantity="one">تمديد دقيقة واحدة</item>
+        <item quantity="two">تمديد دقيقتين</item>
+        <item quantity="few">تمديد %1$d دقائق</item>
+        <item quantity="many">تمديد %1$d دقيقة</item>
+        <item quantity="other">تمديد %1$d دقيقة</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="zero">"تنزيل جميع %d الحلقات؟"</item>
-        <item quantity="one">"تنزيل جميع %d الحلقات؟"</item>
-        <item quantity="two">"تنزيل جميع %d الحلقات؟"</item>
-        <item quantity="few">"تنزيل جميع %d الحلقات؟"</item>
-        <item quantity="many">"تنزيل جميع %d الحلقات؟"</item>
-        <item quantity="other">"تنزيل جميع %d الحلقات؟"</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">تنزيل جميع الحلقات؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">تنزيل حلقة واحدة؟</item>
+        <item quantity="two">تنزيل حلقتين؟</item>
+        <item quantity="few">تنزيل جميع الحلقات (%1$d)؟</item>
+        <item quantity="many">تنزيل جميع الحلقات (%1$d)؟</item>
+        <item quantity="other">تنزيل جميع الحلقات (%1$d)؟</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="zero">"Add zero episode to Up next?"</item>
-        <item quantity="one">"Add one episode to Up next?"</item>
-        <item quantity="two">"Add all %1$d episodes to Up next?"</item>
-        <item quantity="few">"Add all %1$d episodes to Up next?"</item>
-        <item quantity="many">"Add all %1$d episodes to Up next?"</item>
-        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">إضافة حلقة إلى «التالي»؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">إضافة حلقة واحدة إلى «التالي»؟</item>
+        <item quantity="two">إضافة حلقتين إلى «التالي»؟</item>
+        <item quantity="few">إضافة جميع الحلقات (%1$d) إلى «التالي»؟</item>
+        <item quantity="many">إضافة جميع الحلقات (%1$d) إلى «التالي»؟</item>
+        <item quantity="other">إضافة جميع الحلقات (%1$d) إلى «التالي»؟</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="zero">"Add zero episode to playlist?"</item>
-        <item quantity="one">"Add one episode to playlist?"</item>
-        <item quantity="two">"Add all %1$d episodes to playlist?"</item>
-        <item quantity="few">"Add all %1$d episodes to playlist?"</item>
-        <item quantity="many">"Add all %1$d episodes to playlist?"</item>
-        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="zero" tools:ignore="ImpliedQuantity">إضافة حلقة إلى قائمة التشغيل؟</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">إضافة حلقة واحدة إلى قائمة التشغيل؟</item>
+        <item quantity="two">إضافة حلقتين إلى قائمة التشغيل؟</item>
+        <item quantity="few">إضافة جميع الحلقات (%1$d) إلى قائمة التشغيل؟</item>
+        <item quantity="many">إضافة جميع الحلقات (%1$d) إلى قائمة التشغيل؟</item>
+        <item quantity="other">إضافة جميع الحلقات (%1$d) إلى قائمة التشغيل؟</item>
     </plurals>
-    
+
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="zero">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="one">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="two">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="few">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="many">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="other">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="zero">عدم الاحتفاظ بأي تنزيلات لكل بودكاست.</item>
+        <item quantity="one">الاحتفاظ بأحدث تنزيل واحد لكل بودكاست.</item>
+        <item quantity="two">الاحتفاظ بأحدث تنزيلين لكل بودكاست.</item>
+        <item quantity="few">الاحتفاظ بأحدث %1$d تنزيلات لكل بودكاست.</item>
+        <item quantity="many">الاحتفاظ بأحدث %1$d تنزيلًا لكل بودكاست.</item>
+        <item quantity="other">الاحتفاظ بأحدث %1$d تنزيل لكل بودكاست.</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="zero">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="one">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="two">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="few">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="many">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
-        <item quantity="other">"حافظ على أحدث %d التنزيلات لكل بودكاست"</item>
+        <item quantity="zero">عدم الاحتفاظ بأي تنزيلات لهذا البودكاست.</item>
+        <item quantity="one">الاحتفاظ بأحدث تنزيل واحد لهذا البودكاست.</item>
+        <item quantity="two">الاحتفاظ بأحدث تنزيلين لهذا البودكاست.</item>
+        <item quantity="few">الاحتفاظ بأحدث %1$d تنزيلات لهذا البودكاست.</item>
+        <item quantity="many">الاحتفاظ بأحدث %1$d تنزيلًا لهذا البودكاست.</item>
+        <item quantity="other">الاحتفاظ بأحدث %1$d تنزيل لهذا البودكاست.</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="zero">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="two">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="few">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="many">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="zero">تعيين جميع الحلقات السابقة كـ مشغلة بعد جلب حلقات جديدة.</item>
+        <item quantity="one">تعيين جميع الحلقات السابقة لأحدث حلقة واحدة كـ مشغلة بعد جلب حلقات جديدة.</item>
+        <item quantity="two">تعيين جميع الحلقات السابقة لأحدث حلقتين كـ مشغلة بعد جلب حلقات جديدة.</item>
+        <item quantity="few">تعيين جميع الحلقات السابقة لأحدث %1$d حلقات كـ مشغلة بعد جلب حلقات جديدة.</item>
+        <item quantity="many">تعيين جميع الحلقات السابقة لأحدث %1$d حلقة كـ مشغلة بعد جلب حلقات جديدة.</item>
+        <item quantity="other">تعيين جميع الحلقات السابقة لأحدث %1$d حلقة كـ مشغلة بعد جلب حلقات جديدة.</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="zero">"Keep articles from last %1$d day."</item>
-        <item quantity="one">"Keep articles from last %1$d day."</item>
-        <item quantity="two">"Keep articles from last %1$d days."</item>
-        <item quantity="few">"Keep articles from last %1$d days."</item>
-        <item quantity="many">"Keep articles from last %1$d days."</item>
-        <item quantity="other">"Keep articles from last %1$d days."</item>
+        <item quantity="zero">عدم الاحتفاظ بالمقالات.</item>
+        <item quantity="one">الاحتفاظ بالمقالات من اليوم الأخير.</item>
+        <item quantity="two">الاحتفاظ بالمقالات من اليومين الأخيرين.</item>
+        <item quantity="few">الاحتفاظ بالمقالات من آخر %1$d أيام.</item>
+        <item quantity="many">الاحتفاظ بالمقالات من آخر %1$d يومًا.</item>
+        <item quantity="other">الاحتفاظ بالمقالات من آخر %1$d يوم.</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="zero">"Minimum rewind time: %1$d second."</item>
-        <item quantity="one">"Minimum rewind time: %1$d second."</item>
-        <item quantity="two">"Minimum rewind time: %1$d seconds."</item>
-        <item quantity="few">"Minimum rewind time: %1$d seconds."</item>
-        <item quantity="many">"Minimum rewind time: %1$d seconds."</item>
-        <item quantity="other">"Minimum rewind time: %1$d seconds."</item>
+        <item quantity="zero">الحد الأدنى لوقت الترجيع: 0 ثانية.</item>
+        <item quantity="one">الحد الأدنى لوقت الترجيع: ثانية واحدة.</item>
+        <item quantity="two">الحد الأدنى لوقت الترجيع: ثانيتان.</item>
+        <item quantity="few">الحد الأدنى لوقت الترجيع: %1$d ثوانٍ.</item>
+        <item quantity="many">الحد الأدنى لوقت الترجيع: %1$d ثانية.</item>
+        <item quantity="other">الحد الأدنى لوقت الترجيع: %1$d ثانية.</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="zero">"KMaximum rewind time: %1$d second."</item>
-        <item quantity="one">"Maximum rewind time: %1$d second."</item>
-        <item quantity="two">"Maximum rewind time: %1$d seconds."</item>
-        <item quantity="few">"Maximum rewind time: %1$d seconds."</item>
-        <item quantity="many">"Maximum rewind time: %1$d seconds."</item>
-        <item quantity="other">"Maximum rewind time: %1$d seconds."</item>
+        <item quantity="zero">الحد الأقصى لوقت الترجيع: 0 ثانية.</item>
+        <item quantity="one">الحد الأقصى لوقت الترجيع: ثانية واحدة.</item>
+        <item quantity="two">الحد الأقصى لوقت الترجيع: ثانيتان.</item>
+        <item quantity="few">الحد الأقصى لوقت الترجيع: %1$d ثوانٍ.</item>
+        <item quantity="many">الحد الأقصى لوقت الترجيع: %1$d ثانية.</item>
+        <item quantity="other">الحد الأقصى لوقت الترجيع: %1$d ثانية.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="zero">"Select episodes with duration greater than %1$d minute."</item>
-        <item quantity="one">"Select episodes with duration greater than %1$d minute."</item>
-        <item quantity="two">"Select episodes with duration greater than %1$d minutes."</item>
-        <item quantity="few">"Select episodes with duration greater than %1$d minutes."</item>
-        <item quantity="many">"Select episodes with duration greater than %1$d minutes."</item>
-        <item quantity="other">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="zero">تحديد الحلقات بمدة أكبر من 0 دقيقة.</item>
+        <item quantity="one">تحديد الحلقات بمدة أكبر من دقيقة واحدة.</item>
+        <item quantity="two">تحديد الحلقات بمدة أكبر من دقيقتين.</item>
+        <item quantity="few">تحديد الحلقات بمدة أكبر من %1$d دقائق.</item>
+        <item quantity="many">تحديد الحلقات بمدة أكبر من %1$d دقيقة.</item>
+        <item quantity="other">تحديد الحلقات بمدة أكبر من %1$d دقيقة.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="zero">"Select episodes with duration less than %1$d minute."</item>
-        <item quantity="one">"Select episodes with duration less than %1$d minute."</item>
-        <item quantity="two">"Select episodes with duration less than %1$d minutes."</item>
-        <item quantity="few">"Select episodes with duration less than %1$d minutes."</item>
-        <item quantity="many">"Select episodes with duration less than %1$d minutes."</item>
-        <item quantity="other">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="zero">تحديد الحلقات بمدة أقل من 0 دقيقة.</item>
+        <item quantity="one">تحديد الحلقات بمدة أقل من دقيقة واحدة.</item>
+        <item quantity="two">تحديد الحلقات بمدة أقل من دقيقتين.</item>
+        <item quantity="few">تحديد الحلقات بمدة أقل من %1$d دقائق.</item>
+        <item quantity="many">تحديد الحلقات بمدة أقل من %1$d دقيقة.</item>
+        <item quantity="other">تحديد الحلقات بمدة أقل من %1$d دقيقة.</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="zero">"Select episodes from last %1$d day."</item>
-        <item quantity="one">"Select episodes from last %1$d day."</item>
-        <item quantity="two">"Select episodes from last %1$d days."</item>
-        <item quantity="few">"Select episodes from last %1$d days."</item>
-        <item quantity="many">"Select episodes from last %1$d days."</item>
-        <item quantity="other">"Select episodes from last %1$d days."</item>
+        <item quantity="zero">تحديد الحلقات من اليوم.</item>
+        <item quantity="one">تحديد الحلقات من اليوم الأخير.</item>
+        <item quantity="two">تحديد الحلقات من اليومين الأخيرين.</item>
+        <item quantity="few">تحديد الحلقات من آخر %1$d أيام.</item>
+        <item quantity="many">تحديد الحلقات من آخر %1$d يومًا.</item>
+        <item quantity="other">تحديد الحلقات من آخر %1$d يوم.</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="zero">"Skip the beginning %1$d second."</item>
-        <item quantity="one">"Skip the beginning %1$d second."</item>
-        <item quantity="two">"Skip the beginning %1$d seconds."</item>
-        <item quantity="few">"Skip the beginning %1$d seconds."</item>
-        <item quantity="many">"Skip the beginning %1$d seconds."</item>
-        <item quantity="other">"Skip the beginning %1$d seconds."</item>
+        <item quantity="zero">تخطي أول 0 ثانية.</item>
+        <item quantity="one">تخطي ثانية واحدة في البداية.</item>
+        <item quantity="two">تخطي ثانيتين في البداية.</item>
+        <item quantity="few">تخطي أول %1$d ثوانٍ.</item>
+        <item quantity="many">تخطي أول %1$d ثانية.</item>
+        <item quantity="other">تخطي أول %1$d ثانية.</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="zero">"Skip the ending %1$d second."</item>
-        <item quantity="one">"Skip the ending %1$d second."</item>
-        <item quantity="two">"Skip the ending %1$d seconds."</item>
-        <item quantity="few">"Skip the ending %1$d seconds."</item>
-        <item quantity="many">"Skip the ending %1$d seconds."</item>
-        <item quantity="other">"Skip the ending %1$d seconds."</item>
+        <item quantity="zero">تخطي آخر 0 ثانية.</item>
+        <item quantity="one">تخطي ثانية واحدة في النهاية.</item>
+        <item quantity="two">تخطي ثانيتين في النهاية.</item>
+        <item quantity="few">تخطي آخر %1$d ثوانٍ.</item>
+        <item quantity="many">تخطي آخر %1$d ثانية.</item>
+        <item quantity="other">تخطي آخر %1$d ثانية.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="zero">"Download episode if duration is greater than %d minute."</item>
-        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
-        <item quantity="two">"Download episode if duration is greater than %d minutes."</item>
-        <item quantity="few">"Download episode if duration is greater than %d minutes."</item>
-        <item quantity="many">"Download episode if duration is greater than %d minutes."</item>
-        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="zero">تنزيل الحلقة إذا كانت المدة أكبر من 0 دقيقة.</item>
+        <item quantity="one">تنزيل الحلقة إذا كانت المدة أكبر من دقيقة واحدة.</item>
+        <item quantity="two">تنزيل الحلقة إذا كانت المدة أكبر من دقيقتين.</item>
+        <item quantity="few">تنزيل الحلقة إذا كانت المدة أكبر من %1$d دقائق.</item>
+        <item quantity="many">تنزيل الحلقة إذا كانت المدة أكبر من %1$d دقيقة.</item>
+        <item quantity="other">تنزيل الحلقة إذا كانت المدة أكبر من %1$d دقيقة.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="zero">"Download episode if duration is less than %d_minute."</item>
-        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
-        <item quantity="two">"Download episode if duration is less than %d_minutes."</item>
-        <item quantity="few">"Download episode if duration is less than %d_minutes."</item>
-        <item quantity="many">"Download episode if duration is less than %d_minutes."</item>
-        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="zero">تنزيل الحلقة إذا كانت المدة أقل من 0 دقيقة.</item>
+        <item quantity="one">تنزيل الحلقة إذا كانت المدة أقل من دقيقة واحدة.</item>
+        <item quantity="two">تنزيل الحلقة إذا كانت المدة أقل من دقيقتين.</item>
+        <item quantity="few">تنزيل الحلقة إذا كانت المدة أقل من %1$d دقائق.</item>
+        <item quantity="many">تنزيل الحلقة إذا كانت المدة أقل من %1$d دقيقة.</item>
+        <item quantity="other">تنزيل الحلقة إذا كانت المدة أقل من %1$d دقيقة.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="zero">"Don't download episode if duration is greater than %d minute."</item>
-        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
-        <item quantity="two">"Don't download episode if duration is greater than %d minutes."</item>
-        <item quantity="few">"Don't download episode if duration is greater than %d minutes."</item>
-        <item quantity="many">"Don't download episode if duration is greater than %d minutes."</item>
-        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="zero">عدم تنزيل الحلقة إذا كانت المدة أكبر من 0 دقيقة.</item>
+        <item quantity="one">عدم تنزيل الحلقة إذا كانت المدة أكبر من دقيقة واحدة.</item>
+        <item quantity="two">عدم تنزيل الحلقة إذا كانت المدة أكبر من دقيقتين.</item>
+        <item quantity="few">عدم تنزيل الحلقة إذا كانت المدة أكبر من %1$d دقائق.</item>
+        <item quantity="many">عدم تنزيل الحلقة إذا كانت المدة أكبر من %1$d دقيقة.</item>
+        <item quantity="other">عدم تنزيل الحلقة إذا كانت المدة أكبر من %1$d دقيقة.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="zero">"Don't download episode if duration is less than %d minute."</item>
-        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
-        <item quantity="two">"Don't download episode if duration is less than %d minutes."</item>
-        <item quantity="few">"Don't download episode if duration is less than %d minutes."</item>
-        <item quantity="many">"Don't download episode if duration is less than %d minutes."</item>
-        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="zero">عدم تنزيل الحلقة إذا كانت المدة أقل من 0 دقيقة.</item>
+        <item quantity="one">عدم تنزيل الحلقة إذا كانت المدة أقل من دقيقة واحدة.</item>
+        <item quantity="two">عدم تنزيل الحلقة إذا كانت المدة أقل من دقيقتين.</item>
+        <item quantity="few">عدم تنزيل الحلقة إذا كانت المدة أقل من %1$d دقائق.</item>
+        <item quantity="many">عدم تنزيل الحلقة إذا كانت المدة أقل من %1$d دقيقة.</item>
+        <item quantity="other">عدم تنزيل الحلقة إذا كانت المدة أقل من %1$d دقيقة.</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="zero">"Select articles from last %1$d day."</item>
-        <item quantity="one">"Select articles from last %1$d day."</item>
-        <item quantity="two">"Select articles from last %1$d days."</item>
-        <item quantity="few">"Select articles from last %1$d days."</item>
-        <item quantity="many">"Select articles from last %1$d days."</item>
-        <item quantity="other">"Select articles from last %1$d days."</item>
+        <item quantity="zero">تحديد المقالات من اليوم.</item>
+        <item quantity="one">تحديد المقالات من اليوم الأخير.</item>
+        <item quantity="two">تحديد المقالات من اليومين الأخيرين.</item>
+        <item quantity="few">تحديد المقالات من آخر %1$d أيام.</item>
+        <item quantity="many">تحديد المقالات من آخر %1$d يومًا.</item>
+        <item quantity="other">تحديد المقالات من آخر %1$d يوم.</item>
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="zero">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="two">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="few">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="many">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="zero">عدم الاحتفاظ بأي حلقات مضافة لنفس البودكاست.</item>
+        <item quantity="one">الاحتفاظ بآخر حلقة واحدة مضافة لنفس البودكاست.</item>
+        <item quantity="two">الاحتفاظ بآخر حلقتين مضافتين لنفس البودكاست.</item>
+        <item quantity="few">الاحتفاظ بآخر %1$d حلقات مضافة لنفس البودكاست.</item>
+        <item quantity="many">الاحتفاظ بآخر %1$d حلقة مضافة لنفس البودكاست.</item>
+        <item quantity="other">الاحتفاظ بآخر %1$d حلقة مضافة لنفس البودكاست.</item>
     </plurals>
 
 </resources>

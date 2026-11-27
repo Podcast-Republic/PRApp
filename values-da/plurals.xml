@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"Du har lyttet: %1$d episode, %2$s."</item>
-        <item quantity="other">"Du har lyttet: %1$d episodes, %2$s."</item>
+        <item quantity="one">"Du har lyttet: %1$d afsnit, %2$s."</item>
+        <item quantity="other">"Du har lyttet: %1$d afsnit, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d linjer</item>
+        <item quantity="one">%1$d linje</item>
         <item quantity="other">%1$d linjer</item>
     </plurals>
 
@@ -16,48 +16,48 @@
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Vis de seneste %d afsnit.</item>
-        <item quantity="other">Vis de seneste %d afsnit.</item>
+        <item quantity="one">Vis det seneste %1$d afsnit.</item>
+        <item quantity="other">Vis de seneste %1$d afsnit.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Mark %1$d episode as played?</item>
-        <item quantity="other">Mark all %1$d episodes as played?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Marker afsnit som afspillet?</item>
+        <item quantity="other">Marker alle %1$d afsnit som afspillet?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Mark %1$d episode as unplayed?</item>
-        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Marker afsnit som uafspillet?</item>
+        <item quantity="other">Marker alle %1$d afsnit som uafspillet?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Mark %1$d podcast as played?</item>
-        <item quantity="other">Mark all %1$d podcasts as played?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Marker podcast som afspillet?</item>
+        <item quantity="other">Marker alle %1$d podcasts som afspillet?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Marker feed som læst?</item>
+        <item quantity="other">Marker alle %1$d feeds som læst?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Markér alle %d som læst??</item>
-        <item quantity="other">Markér alle %d som læst??</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Marker artikel som læst?</item>
+        <item quantity="other">Marker alle %1$d artikler som læst?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Marker artikel som ulæst?</item>
+        <item quantity="other">Marker alle %1$d artikler som ulæst?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Download automatisk op til %d nye og uafspillede afsnit fra den aktuelle podcast.</item>
-        <item quantity="other">Download automatisk op til %d nye og uafspillede afsnit fra den aktuelle podcast.</item>
+        <item quantity="one">Download automatisk op til %1$d nyt og uafspillet afsnit fra den aktuelle podcast.</item>
+        <item quantity="other">Download automatisk op til %1$d nye og uafspillede afsnit fra den aktuelle podcast.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Download automatisk op til %d ældre og ikke afspillede afsnit fra den podcast, der afspilles nu.</item>
-        <item quantity="other">Download automatisk op til %d ældre og ikke afspillede afsnit fra den podcast, der afspilles nu.</item>
+        <item quantity="one">Download automatisk op til %1$d ældre og uafspillet afsnit fra den podcast, der afspilles nu.</item>
+        <item quantity="other">Download automatisk op til %1$d ældre og uafspillede afsnit fra den podcast, der afspilles nu.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
@@ -66,153 +66,153 @@
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Vis maksimalt %1$d linje af titlen.</item>
+        <item quantity="other">Vis maksimalt %1$d linjer af titlen.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">"En afsnit er blevet tilføjet til playlisten."</item>
-        <item quantity="other">"%1$d afsnit er blevet tilføjet til playlisten."</item>
+        <item quantity="one">Et afsnit er blevet tilføjet til playlisten.</item>
+        <item quantity="other">%1$d afsnit er blevet tilføjet til playlisten.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">"En afsnit er blevet tilføjet til downloads."</item>
-        <item quantity="other">"%1$d afsnit er blevet tilføjet til downloads."</item>
+        <item quantity="one">Et afsnit er blevet tilføjet til downloads.</item>
+        <item quantity="other">%1$d afsnit er blevet tilføjet til downloads.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Planlæg automatisk backup hver %1$d dag."</item>
-        <item quantity="other">"Planlæg automatisk backup hver %1$d dag."</item>
+        <item quantity="one">Planlæg automatisk sikkerhedskopiering hver dag.</item>
+        <item quantity="other">Planlæg automatisk sikkerhedskopiering hver %1$d. dag.</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Behold de seneste %1$d backups."</item>
-        <item quantity="other">"Behold de seneste %1$d backups."</item>
+        <item quantity="one">Behold den seneste %1$d sikkerhedskopi.</item>
+        <item quantity="other">Behold de seneste %1$d sikkerhedskopier.</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minutter"</item>
-        <item quantity="other">"%1$d minutter"</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="other">%1$d minutter</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minutter."</item>
-        <item quantity="other">"&gt; %1$d minutter."</item>
+        <item quantity="one">&gt; %1$d minut.</item>
+        <item quantity="other">&gt; %1$d minutter.</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minutter."</item>
-        <item quantity="other">"&lt; %1$d minutter."</item>
+        <item quantity="one">&lt; %1$d minut.</item>
+        <item quantity="other">&lt; %1$d minutter.</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"Om %1$d minutter"</item>
-        <item quantity="other">"Om %1$d minutter"</item>
+        <item quantity="one">Om %1$d minut</item>
+        <item quantity="other">Om %1$d minutter</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Tilføj %1$d minutter"</item>
-        <item quantity="other">"Tilføj %1$d minutter"</item>
+        <item quantity="one">Forlæng %1$d minut</item>
+        <item quantity="other">Forlæng %1$d minutter</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"Download alle afsnit %1$d ?"</item>
-        <item quantity="other">"Download alle afsnit %1$d ?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Download et afsnit?</item>
+        <item quantity="other">Download alle %1$d afsnit?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Add one episode to Up next?"</item>
-        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Tilføj et afsnit til afspilles næste gang?</item>
+        <item quantity="other">Tilføj alle %1$d afsnit til afspilles næste gang?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"Add one episode to playlist?"</item>
-        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Tilføj et afsnit til playlisten?</item>
+        <item quantity="other">Tilføj alle %1$d afsnit til playlisten?</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Behold de seneste %1$d downloads for hver podcast."</item>
-        <item quantity="other">"Behold de seneste %1$d downloads for hver podcast."</item>
+        <item quantity="one">Behold den seneste %1$d download for hver podcast.</item>
+        <item quantity="other">Behold de seneste %1$d downloads for hver podcast.</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Behold de seneste %1$d downloads for hver podcast."</item>
-        <item quantity="other">"Behold de seneste %1$d downloads for hver podcast."</item>
+        <item quantity="one">Behold den seneste %1$d download for denne podcast.</item>
+        <item quantity="other">Behold de seneste %1$d downloads for denne podcast.</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one">Marker alle afsnit ældre end det seneste afsnit som afspillet, når nye afsnit hentes.</item>
+        <item quantity="other">Marker alle afsnit ældre end de seneste %1$d afsnit som afspillet, når nye afsnit hentes.</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Behold artikler fra de seneste %d dage."</item>
-        <item quantity="other">"Behold artikler fra de seneste %d dage."</item>
+        <item quantity="one">Behold artikler fra den seneste %1$d dag.</item>
+        <item quantity="other">Behold artikler fra de seneste %1$d dage.</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Spol mindst %d sekunder tilbage."</item>
-        <item quantity="other">"Spol mindst %d sekunder tilbage."</item>
+        <item quantity="one">Mindste tilbagespolingstid: %1$d sekund.</item>
+        <item quantity="other">Mindste tilbagespolingstid: %1$d sekunder.</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Spol maks. %d sekunder frem."</item>
-        <item quantity="other">"Spol maks. %d sekunder frem."</item>
+        <item quantity="one">Maksimal tilbagespolingstid: %1$d sekund.</item>
+        <item quantity="other">Maksimal tilbagespolingstid: %1$d sekunder.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Vælg afsnit med varighed længere end %d minutter."</item>
-        <item quantity="other">"Vælg afsnit med varighed længere end %d minutter."</item>
+        <item quantity="one">Vælg afsnit med varighed længere end %1$d minut.</item>
+        <item quantity="other">Vælg afsnit med varighed længere end %1$d minutter.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Vælg afsnit med varighed kortere end %d minutter."</item>
-        <item quantity="other">"Vælg afsnit med varighed kortere end %d minutter."</item>
+        <item quantity="one">Vælg afsnit med varighed kortere end %1$d minut.</item>
+        <item quantity="other">Vælg afsnit med varighed kortere end %1$d minutter.</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Vælg afsnit fra de seneste %d dage."</item>
-        <item quantity="other">"Vælg afsnit fra de seneste %d dage."</item>
+        <item quantity="one">Vælg afsnit fra den seneste %1$d dag.</item>
+        <item quantity="other">Vælg afsnit fra de seneste %1$d dage.</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Spring de første %d sekunder af begyndelsen over."</item>
-        <item quantity="other">"Spring de første %d sekunder af begyndelsen over."</item>
+        <item quantity="one">Spring det første %1$d sekund over.</item>
+        <item quantity="other">Spring de første %1$d sekunder over.</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Spring de sidste %d sekunder af slutningen over."</item>
-        <item quantity="other">"Spring de sidste %d sekunder af slutningen over."</item>
+        <item quantity="one">Spring det sidste %1$d sekund over.</item>
+        <item quantity="other">Spring de sidste %1$d sekunder over.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">Download afsnit, hvis varigheden er længere end %1$d minut.</item>
+        <item quantity="other">Download afsnit, hvis varigheden er længere end %1$d minutter.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
-        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="one">Download afsnit, hvis varigheden er kortere end %1$d minut.</item>
+        <item quantity="other">Download afsnit, hvis varigheden er kortere end %1$d minutter.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">Download ikke afsnit, hvis varigheden er længere end %1$d minut.</item>
+        <item quantity="other">Download ikke afsnit, hvis varigheden er længere end %1$d minutter.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="one">Download ikke afsnit, hvis varigheden er kortere end %1$d minut.</item>
+        <item quantity="other">Download ikke afsnit, hvis varigheden er kortere end %1$d minutter.</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Behold artikler fra de seneste %d dage."</item>
-        <item quantity="other">"Behold artikler fra de seneste %d dage."</item>
+        <item quantity="one">Vælg artikler fra den seneste %1$d dag.</item>
+        <item quantity="other">Vælg artikler fra de seneste %1$d dage.</item>
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one">Behold det senest tilføjede %1$d afsnit fra den samme podcast.</item>
+        <item quantity="other">Behold de senest tilføjede %1$d afsnit fra den samme podcast.</item>
     </plurals>
 
 </resources>

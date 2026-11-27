@@ -1,218 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <plurals name="you_ve_listened_b_d_s_b">
-        <item quantity="one">"You\'ve listened: %1$d episode, %2$s."</item>
-        <item quantity="other">"You\'ve listened: %1$d episodes, %2$s."</item>
+        <item quantity="one">"Oled kuulanud: %1$d osa, %2$s."</item>
+        <item quantity="other">"Oled kuulanud: %1$d osa, %2$s."</item>
     </plurals>
 
     <plurals name="d_lines_of_text">
-        <item quantity="one">%1$d line</item>
-        <item quantity="other">%1$d lines</item>
+        <item quantity="one">%1$d rida</item>
+        <item quantity="other">%1$d rida</item>
     </plurals>
 
     <plurals name="latest_d_episodes">
-        <item quantity="one">Viimased %1$d episoodi.</item>
-        <item quantity="other">Viimased %1$d episoodi.</item>
+        <item quantity="one">Viimane %1$d osa.</item>
+        <item quantity="other">Viimased %1$d osa.</item>
     </plurals>
 
     <plurals name="display_latest_d_episodes">
-        <item quantity="one">Display latest %1$d episode.</item>
-        <item quantity="other">Display latest %1$d episodes.</item>
+        <item quantity="one">Kuva viimane %1$d osa.</item>
+        <item quantity="other">Kuva viimased %1$d osa.</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_played">
-        <item quantity="one">Mark %1$d episode as played?</item>
-        <item quantity="other">Mark all %1$d episodes as played?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Märgi osa mängituks?</item>
+        <item quantity="other">Märgi kõik %1$d osa mängituks?</item>
     </plurals>
 
     <plurals name="mark_all_d_episodes_as_unplayed">
-        <item quantity="one">Mark %1$d episode as unplayed?</item>
-        <item quantity="other">Mark all %1$d episodes as unplayed?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Märgi osa kuulamata osaks?</item>
+        <item quantity="other">Märgi kõik %1$d osa kuulamata osadeks?</item>
     </plurals>
 
     <plurals name="mark_all_d_podcasts_as_played">
-        <item quantity="one">Mark %1$d podcast as played?</item>
-        <item quantity="other">Mark all %1$d podcasts as played?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Märgi taskuhääling mängituks?</item>
+        <item quantity="other">Märgi kõik %1$d taskuhäälingut mängituks?</item>
     </plurals>
 
     <plurals name="mark_all_d_rss_feeds_as_read">
-        <item quantity="one">Mark %1$d feed as read?</item>
-        <item quantity="other">Mark all %1$d feeds as read?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Märgi voog loetuks?</item>
+        <item quantity="other">Märgi kõik %1$d voogu loetuks?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_read">
-        <item quantity="one">Märkige kõik %d artiklid loetuks?</item>
-        <item quantity="other">Märkige kõik %d artiklid loetuks?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Märgi artikkel loetuks?</item>
+        <item quantity="other">Märgi kõik %1$d artiklit loetuks?</item>
     </plurals>
 
     <plurals name="mark_all_d_articles_as_unread">
-        <item quantity="one">Mark %1$d article as unread?</item>
-        <item quantity="other">Mark all %1$d articles as unread?</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Märgi artikkel lugemata artikliks?</item>
+        <item quantity="other">Märgi kõik %1$d artiklit lugemata artikliteks?</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_newer_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Automaatne allalaadimine kuni %d uuematest ja mängimata episoodidest praegusest podcastist.</item>
-        <item quantity="other">Automaatne allalaadimine kuni %d uuematest ja mängimata episoodidest praegusest podcastist.</item>
+        <item quantity="one">Laadi automaatselt alla kuni %1$d uuem kuulamata osa praegusest taskuhäälingust.</item>
+        <item quantity="other">Laadi automaatselt alla kuni %1$d uuemat kuulamata osa praegusest taskuhäälingust.</item>
     </plurals>
 
     <plurals name="auto_download_up_to_d_older_and_unplayed_episodes_from_current_playing_podcast">
-        <item quantity="one">Auto download up to %1$d older and unplayed episode from current playing podcast.</item>
-        <item quantity="other">Auto download up to %1$d older and unplayed episodes from current playing podcast.</item>
+        <item quantity="one">Laadi automaatselt alla kuni %1$d vanem kuulamata osa praegusest taskuhäälingust.</item>
+        <item quantity="other">Laadi automaatselt alla kuni %1$d vanemat kuulamata osa praegusest taskuhäälingust.</item>
     </plurals>
 
     <plurals name="automatically_download_up_to_d_most_recent_episodes_when_new_episodes_are_retrieved">
-        <item quantity="one">Uute episoodide allalaadimisel laadige automaatselt alla kuni %1$d viimast episoodi.</item>
-        <item quantity="other">Uute episoodide allalaadimisel laadige automaatselt alla kuni %1$d viimast episoodi.</item>
+        <item quantity="one">Uute osade hankimisel laadi automaatselt alla kuni %1$d viimane osa.</item>
+        <item quantity="other">Uute osade hankimisel laadi automaatselt alla kuni %1$d viimast osa.</item>
     </plurals>
 
     <plurals name="display_maximum_d_lines_of_title">
-        <item quantity="one">Display maximum %1$d line of title.</item>
-        <item quantity="other">Display maximum %1$d lines of title.</item>
+        <item quantity="one">Kuva maksimaalselt %1$d pealkirja rida.</item>
+        <item quantity="other">Kuva maksimaalselt %1$d pealkirja rida.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_playlists">
-        <item quantity="one">"Üks episood on lisatud esitlusloendisse."</item>
-        <item quantity="other">"%1$d episoodi on lisatud esitlusloendisse."</item>
+        <item quantity="one">Üks osa on lisatud esitusloendisse.</item>
+        <item quantity="other">%1$d osa on lisatud esitusloendisse.</item>
     </plurals>
 
     <plurals name="episodes_have_been_added_to_downloads">
-        <item quantity="one">"Üks episood on lisatud allalaadimiseks."</item>
-        <item quantity="other">"%1$d episoodi on lisatud allalaadimiseks."</item>
+        <item quantity="one">Üks osa on lisatud allalaadimiseks.</item>
+        <item quantity="other">%1$d osa on lisatud allalaadimiseks.</item>
     </plurals>
 
     <plurals name="schedule_auto_backup_every_d_days">
-        <item quantity="one">"Planeeri automaatne varundamine iga %1$d päeva järelt."</item>
-        <item quantity="other">"Planeeri automaatne varundamine iga %1$d päeva järelt."</item>
+        <item quantity="one">Planeeri automaatne varundamine iga päev.</item>
+        <item quantity="other">Planeeri automaatne varundamine iga %1$d päeva järel.</item>
     </plurals>
 
     <plurals name="keep_most_recent_d_auto_backups">
-        <item quantity="one">"Hoia viimased %1$d automaatsed varukoopiad."</item>
-        <item quantity="other">"Hoia viimased %1$d automaatsed varukoopiad."</item>
+        <item quantity="one">Hoia alles %1$d viimane automaatne varukoopia.</item>
+        <item quantity="other">Hoia alles viimased %1$d automaatset varukoopiat.</item>
     </plurals>
 
     <plurals name="_d_minutes">
-        <item quantity="one">"%1$d minute"</item>
-        <item quantity="other">"%1$d minutes"</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="other">%1$d minutit</item>
     </plurals>
 
     <plurals name="greater_than_d_minutes">
-        <item quantity="one">"&gt; %1$d minute."</item>
-        <item quantity="other">"&gt; %1$d minutes."</item>
+        <item quantity="one">&gt; %1$d minut.</item>
+        <item quantity="other">&gt; %1$d minutit.</item>
     </plurals>
 
     <plurals name="less_than_d_minutes">
-        <item quantity="one">"&lt; %1$d minute."</item>
-        <item quantity="other">"&lt; %1$d minutes."</item>
+        <item quantity="one">&lt; %1$d minut.</item>
+        <item quantity="other">&lt; %1$d minutit.</item>
     </plurals>
 
     <plurals name="after_x_minutes">
-        <item quantity="one">"%1$d minuti sees"</item>
-        <item quantity="other">"%1$d minuti sees"</item>
+        <item quantity="one">%1$d minuti pärast</item>
+        <item quantity="other">%1$d minuti pärast</item>
     </plurals>
 
     <plurals name="extend_s_minutes">
-        <item quantity="one">"Lisa %1$d minutit"</item>
-        <item quantity="other">"Lisa %1$d minutit"</item>
+        <item quantity="one">Pikenda %1$d minut</item>
+        <item quantity="other">Pikenda %1$d minutit</item>
     </plurals>
 
     <plurals name="download_all_d_episodes">
-        <item quantity="one">"Lae kõik %1$d episoodi?"</item>
-        <item quantity="other">"Lae kõik %1$d episoodi?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Laadi üks osa alla?</item>
+        <item quantity="other">Laadi kõik %1$d osa alla?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_up_next_">
-        <item quantity="one">"Add one episode to Up next?"</item>
-        <item quantity="other">"Add all %1$d episodes to Up next?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Lisa üks osa loendisse "Järgmisena"?</item>
+        <item quantity="other">Lisa kõik %1$d osa loendisse "Järgmisena"?</item>
     </plurals>
 
     <plurals name="add_all_d_episodes_to_playlist_">
-        <item quantity="one">"Add one episode to playlist?"</item>
-        <item quantity="other">"Add all %1$d episodes to playlist?"</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">Lisa üks osa esitusloendisse?</item>
+        <item quantity="other">Lisa kõik %1$d osa esitusloendisse?</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_for_each_podcast_">
-        <item quantity="one">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
-        <item quantity="other">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
+        <item quantity="one">Hoia iga taskuhäälingu jaoks alles viimane %1$d allalaadimine.</item>
+        <item quantity="other">Hoia iga taskuhäälingu jaoks alles viimased %1$d allalaadimist.</item>
     </plurals>
 
     <plurals name="keep_the_latest_x_downloads_of_this_podcast_">
-        <item quantity="one">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
-        <item quantity="other">"Hoia hilisemad %1$d allalaadimist igal taskuhäälingul."</item>
+        <item quantity="one">Hoia selle taskuhäälingu jaoks alles viimane %1$d allalaadimine.</item>
+        <item quantity="other">Hoia selle taskuhäälingu jaoks alles viimased %1$d allalaadimist.</item>
     </plurals>
 
     <plurals name="mark_all_episodes_earlier_than_the_latest_d_episodes_as_played_after_new_episodes_are_retrieved_">
-        <item quantity="one">"Mark all episodes earlier than the latest episode as played after new episodes are retrieved."</item>
-        <item quantity="other">"Mark all episodes earlier than the latest %1$d episodes as played after new episodes are retrieved."</item>
+        <item quantity="one">Märgi uute osade hankimisel kõik viimasest osast varasemad osad mängituks.</item>
+        <item quantity="other">Märgi uute osade hankimisel kõik viimasest %1$d osast varasemad osad mängituks.</item>
     </plurals>
 
     <plurals name="keep_articles_from_last_d_days">
-        <item quantity="one">"Keep articles from last %1$d day."</item>
-        <item quantity="other">"Keep articles from last %1$d days."</item>
+        <item quantity="one">Hoia alles artiklid viimasest %1$d päevast.</item>
+        <item quantity="other">Hoia alles artiklid viimasest %1$d päevast.</item>
     </plurals>
 
     <plurals name="minimum_rewind_time_d_seconds">
-        <item quantity="one">"Minimum rewind time: %1$d second."</item>
-        <item quantity="other">"Minimum rewind time: %1$d seconds."</item>
+        <item quantity="one">Minimaalne tagasikerimise aeg: %1$d sekund.</item>
+        <item quantity="other">Minimaalne tagasikerimise aeg: %1$d sekundit.</item>
     </plurals>
 
     <plurals name="maximum_rewind_time_d_seconds">
-        <item quantity="one">"Maximum rewind time: %1$d second."</item>
-        <item quantity="other">"Maximum rewind time: %1$d seconds."</item>
+        <item quantity="one">Maksimaalne tagasikerimise aeg: %1$d sekund.</item>
+        <item quantity="other">Maksimaalne tagasikerimise aeg: %1$d sekundit.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_greater_than_d_minutes">
-        <item quantity="one">"Select episodes with duration greater than %1$d minute."</item>
-        <item quantity="other">"Select episodes with duration greater than %1$d minutes."</item>
+        <item quantity="one">Vali osad kestusega üle %1$d minuti.</item>
+        <item quantity="other">Vali osad kestusega üle %1$d minuti.</item>
     </plurals>
 
     <plurals name="select_episodes_with_duration_less_than_d_minutes">
-        <item quantity="one">"Select episodes with duration less than %1$d minute."</item>
-        <item quantity="other">"Select episodes with duration less than %1$d minutes."</item>
+        <item quantity="one">Vali osad kestusega alla %1$d minuti.</item>
+        <item quantity="other">Vali osad kestusega alla %1$d minuti.</item>
     </plurals>
 
     <plurals name="select_episodes_from_last_d_days">
-        <item quantity="one">"Valige viimasest %d päevast episoodid."</item>
-        <item quantity="other">"Valige viimasest %d päevast episoodid."</item>
+        <item quantity="one">Vali osad viimasest %1$d päevast.</item>
+        <item quantity="other">Vali osad viimasest %1$d päevast.</item>
     </plurals>
 
     <plurals name="skip_the_beginning_d_seconds">
-        <item quantity="one">"Jäta alguse %d sekundid vahele."</item>
-        <item quantity="other">"Jäta alguse %d sekundid vahele."</item>
+        <item quantity="one">Jäta algusest %1$d sekund vahele.</item>
+        <item quantity="other">Jäta algusest %1$d sekundit vahele.</item>
     </plurals>
 
     <plurals name="skip_the_ending_d_seconds">
-        <item quantity="one">"Jäta lõpp lõpuni %d sekundit."</item>
-        <item quantity="other">"Jäta lõpp lõpuni %d sekundit."</item>
+        <item quantity="one">Jäta lõpust %1$d sekund vahele.</item>
+        <item quantity="other">Jäta lõpust %1$d sekundit vahele.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">Laadi osa alla, kui kestus on üle %1$d minuti.</item>
+        <item quantity="other">Laadi osa alla, kui kestus on üle %1$d minuti.</item>
     </plurals>
 
     <plurals name="download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Download episode if duration is less than %d_minute."</item>
-        <item quantity="other">"Download episode if duration is less than %d_minutes."</item>
+        <item quantity="one">Laadi osa alla, kui kestus on alla %1$d minuti.</item>
+        <item quantity="other">Laadi osa alla, kui kestus on alla %1$d minuti.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_greater_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is greater than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is greater than %d minutes."</item>
+        <item quantity="one">Ära laadi osa alla, kui kestus on üle %1$d minuti.</item>
+        <item quantity="other">Ära laadi osa alla, kui kestus on üle %1$d minuti.</item>
     </plurals>
 
     <plurals name="dont_download_episode_if_duration_is_less_than_d_minutes_">
-        <item quantity="one">"Don't download episode if duration is less than %d minute."</item>
-        <item quantity="other">"Don't download episode if duration is less than %d minutes."</item>
+        <item quantity="one">Ära laadi osa alla, kui kestus on alla %1$d minuti.</item>
+        <item quantity="other">Ära laadi osa alla, kui kestus on alla %1$d minuti.</item>
     </plurals>
 
     <plurals name="select_articles_from_last_d_days">
-        <item quantity="one">"Keep articles from last %1$d day."</item>
-        <item quantity="other">"Keep articles from last %1$d days."</item>
+        <item quantity="one">Vali artiklid viimasest %1$d päevast.</item>
+        <item quantity="other">Vali artiklid viimasest %1$d päevast.</item>
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one">Hoia alles viimane %1$d lisatud osa samast taskuhäälingust.</item>
+        <item quantity="other">Hoia alles viimased %1$d lisatud osa samast taskuhäälingust.</item>
     </plurals>
 
 </resources>

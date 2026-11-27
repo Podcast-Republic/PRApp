@@ -1379,4 +1379,7 @@
     <string name="dynamic_now_playing_color">"Dynamická farba 'Teraz sa prehráva'"</string>
     <string name="use_the_color_from_currently_playing_podcast_artwork_as_the_background_of_the_now_playing_screen_">"Použiť farbu z obrázka práve prehrávaného podcastu ako pozadie obrazovky 'Teraz sa prehráva'."</string>
     <string name="set_sleep_timer_after_this_chapter">Nastaviť časovač vypnutia po tejto kapitole</string>
+	<string name="deleted_episodes">Odstránené epizódy</string>
+    <string name="only_include_episodes_that_have_been_deleted_">Zahrnúť len epizódy, ktoré boli odstránené.</string>
+    <string name="undo_delete_episode">Vrátiť odstránenie epizódy</string>
 </resources>
